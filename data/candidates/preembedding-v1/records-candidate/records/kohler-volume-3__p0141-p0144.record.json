@@ -1,0 +1,304 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-3-p0141-p0144",
+  "entry_id": "kohler-volume-3:p0141-p0144",
+  "owner_shard": "S06",
+  "book_taxon": {
+    "scientific_name": "Scopolina atropoides",
+    "authorship": "Schultes",
+    "aliases": [
+      "Atropa carniolica Scopoli",
+      "Scopola carniolica Jacq.",
+      "Hyoscyamıs Scopolia L.",
+      "Scopolina trichotoma Moench",
+      "Scopoha carmiolica G. Don",
+      "Scopola Scopolia Karsten",
+      "Scopolia Hladnickiana Freyer",
+      "Scopolia Infundibulum Fleischmann",
+      "Scopolia japonica Maximowicz",
+      "Anisodus luridus Link",
+      "Scopolia lurida Dunal"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Scopolina atropoides"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T16:16:06+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Scopolina+atropoides",
+        "query_name": "Scopolina atropoides",
+        "retrieved_at": "2026-08-13T16:16:00+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Atropa+carniolica",
+        "query_name": "Atropa carniolica",
+        "retrieved_at": "2026-08-13T16:16:01+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Scopola+carniolica",
+        "query_name": "Scopola carniolica",
+        "retrieved_at": "2026-08-13T16:16:01+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Scopolina+trichotoma",
+        "query_name": "Scopolina trichotoma",
+        "retrieved_at": "2026-08-13T16:16:01+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Scopoha+carmiolica",
+        "query_name": "Scopoha carmiolica",
+        "retrieved_at": "2026-08-13T16:16:01+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Scopola+scopolia",
+        "query_name": "Scopola scopolia",
+        "retrieved_at": "2026-08-13T16:16:01+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Scopolia+hladnickiana",
+        "query_name": "Scopolia hladnickiana",
+        "retrieved_at": "2026-08-13T16:16:01+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Scopolia+infundibulum",
+        "query_name": "Scopolia infundibulum",
+        "retrieved_at": "2026-08-13T16:16:01+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Scopolia+japonica",
+        "query_name": "Scopolia japonica",
+        "retrieved_at": "2026-08-13T16:16:01+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Anisodus+luridus",
+        "query_name": "Anisodus luridus",
+        "retrieved_at": "2026-08-13T16:16:01+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Scopolia+lurida",
+        "query_name": "Scopolia lurida",
+        "retrieved_at": "2026-08-13T16:16:01+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 141,
+      "evidence_type": "text",
+      "page_text_sha256": "323ab535d416a80e6bdb32d0279928086615fbdbc1b858be47d6069ca887c636",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 142,
+      "evidence_type": "text",
+      "page_text_sha256": "1e8cd773120aa905af56faa0944b4744b3b16f05b6b1bfe0c350b6703b0bc4f8",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 143,
+      "evidence_type": "text",
+      "page_text_sha256": "12703f3482da3a9985451f5cceda1b61b567d05f211be2914e9dfac2aeb88a22",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-3:p0141-p0144:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                               Scopolina                  atropoides                 Schultes.\n                        Tollkirschenartige                Scopolie,            Glockenbilsenkraut.\n\n           Syn. Atropa carniolica Scopoli. Scopola carniolica Jacq. Hyoscyamıs Scopolia L. Scopolina\n trichotoma Moench. Scopoha carmiolica G. Don. Scopola Scopolia Karsten.\n          Familie:       Solanaceae Jussieu. Unterfamilie:                      Hyoscyameae Juss.       Gattung:        Scopolina\n Schultes.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Scopolina atropoides，屬茄科，同義名包括 Atropa carniolica 及 Hyoscyamus Scopolia。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 141,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 509,
+        "page_text_sha256": "323ab535d416a80e6bdb32d0279928086615fbdbc1b858be47d6069ca887c636",
+        "exact_text_sha256": "e58f6da4a6ab1a00a69c212860ba93f7b4ddd12f56f6e39f9e0bb22e44e27805",
+        "source_line_start": 1,
+        "source_line_end": 7,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "e58f6da4a6ab1a00a69c212860ba93f7b4ddd12f56f6e39f9e0bb22e44e27805",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0141-p0144:s01:x00",
+      "section_type": "description",
+      "original_text": "          Beschreibung. Diese Pflanze ist, eine kahle, aufrechte Staude mit fingerdickem, wage-\n rechtem, Knotig ästigem, ausdauerndem Wurzelstock. Der Stengel wird 40—60 cm. hoch,\n ist fingerdick fleischig, nicht oder nur wenig verzweigt, unten mit kurzen, länglich linealischen,\n stumpfen, etwa 8—-10 mm breiten, nach oben länger und grösser werdenden schuppigen\n Blättern    besetzt,    und      endigt   oben     in    einen      dichten    Schopf    gestielter   Blätter.   Diese     sind\n wechselständig,        häutig,     ganzrandig,          länglich lanzettlich,       bis 18 cm lang und           8 cm     breit,\n beiderseits   spitz    und    mit einem     bis 2 cm        langen      Stiel versehen.       Die Mittelrippe     ist beider-\n. seits, die Seitennerven besonders unterseits deutlich sichtbar.                         Auf jeder Seite der Mittelrippe\n liegen vier bis sechs         grössere    Seitennerven,          zwischen       diesen   in unregelmässigen       Abständen\n mehrere kleinere, welche an der Spitze in deutlichen Bogen in die. Nachbarnerven einmünden\n und die Mittelrippe unter einem Winkel von 45 —50° verlassen. In der Blütenregion sieht\n man Doppelblätter, je ein grösseres und ein kleineres, gegen einander im rechten Winkel\n an der Achse inseriert; der Achsel des etwas höher gestellten kleineren entspringt je eine\n Blüte.  Da in der Blütenregion sympodiale Verzweigung stattfindet, so ist das grosse Blatt\n als das Deckblatt des schwächeren Zweiges anzusehen; letzterer endet in eine Blüte mit\n Vorblatt, doch ist das Deckblatt mit diesem Triebe bis zum Erscheinen dieses Blütenvorblattes\n verwachsen und zeigt diese Verwachsung durch zwei Riefen an, die an seiner Achsel rechts\n und links entspringen und bis zum nächsten Knoten herablaufen.    Dieses Vorblatt erreicht\n eine Länge von etwa 9 cm und eine Breite von 4 cm; sein Stiel wird nur 1 cm lang.      Die",
+      "normalized_text": null,
+      "zh_tw_rendering": "無毛直立多年生草本，莖高 40-60 公分，葉互生長橢圓狀披針形，花單生於葉腋，花冠寬鐘狀。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 141,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 510,
+        "char_end": 2418,
+        "page_text_sha256": "323ab535d416a80e6bdb32d0279928086615fbdbc1b858be47d6069ca887c636",
+        "exact_text_sha256": "dde11c51e5439df630b7d5b9cd5f351d7f05dd4fa76a6f10a5f1178a2f6dd628",
+        "source_line_start": 8,
+        "source_line_end": 26,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "dde11c51e5439df630b7d5b9cd5f351d7f05dd4fa76a6f10a5f1178a2f6dd628",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0141-p0144:s02:x00",
+      "section_type": "distribution",
+      "original_text": "           Vorkommen.       Die Pflanze wächst gern auf Kalk                   in schattigen Buchenwäldern Ober-\nbayerns,    in Steiermark,     Kärnten,     Krain, Ungarı,          Kroatien     und Siebenbürgen, in Südrussland,\nPodo lien , Wol hyn ien ; verw ilde rt in Schl esie n und ÖOst preu ssen , nac h Wei ss ang eba ut in\nLittauen. Wahrscheinlich kommt sie auch, ebenfalls verwildert, in Württemberg und Baden\nvor; Geh. Rat Prof. Dr. E. Schmidt bezog grössere Mengen. aus dem Schlossgarten von\nKarlsruhe in Baden. Die Var. Hladnickiana Freyer zieht höhere Gebirgslagen vor.",
+      "normalized_text": null,
+      "zh_tw_rendering": "生長於上巴伐利亞、施蒂利亞、克恩頓、克萊因、匈牙利、克羅地亞及特蘭西瓦尼亞的石灰岩陰暗山毛櫸林。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 142,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 111,
+        "char_end": 692,
+        "page_text_sha256": "1e8cd773120aa905af56faa0944b4744b3b16f05b6b1bfe0c350b6703b0bc4f8",
+        "exact_text_sha256": "2a1b47c61ede178ed0f01a7d8560e431a19ca9d80774ea8f0cdd240b15621f90",
+        "source_line_start": 2,
+        "source_line_end": 7,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "2a1b47c61ede178ed0f01a7d8560e431a19ca9d80774ea8f0cdd240b15621f90",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0141-p0144:s03:x00",
+      "section_type": "constituents",
+      "original_text": "Scopolina-Wurzel enthält also Atropin und Hyoscyamin zu nahezu gleichen Teilen, bisweilen\netwas Hyoscin, ferner Cholin, und das Glycosid Scopolin, als dessen Spaltungsprodukt das\nScopolein anzusehen ist.\n         In der deutschen Scopolinawurzel wurden im Laufe der Zeit 0,32°/, Hyoscyamin und\n0,03°/, eines Alkaloids gefunden, welches zuerst für das Hyoscin Ladenburgs 0!” H® NO? ge-\nhalten wurde. Nachdem es Bender 1890 gelungen war, dasselbe krystallisiert zu erhalten,\nwas im kleinen nicht möglich ist, wies Schmidt 1890 nach, dass sowohl das Bender’sche\nAlkaloid, als auch das selbst erhaltene nicht Ladenburgs Hyoscin C!? H® NO> sei, sondern\nein neues, dem Hyosceyamin und Atropin nicht isomeres Alkaloid, das er Scopolamin nannte.\nNeben diesem wurden ihm und Siebert nach folgende Körper nachgewiesen: Hyoscyamin,\ngeringe Mengen Atropin (?), Betain, Cholin und der Schillerstoff Scopoletin.",
+      "normalized_text": null,
+      "zh_tw_rendering": "德國產根部含莨菪鹼、微量阿托品、甜菜鹼、膽鹼及發色物質斯可波萊汀；日本產根部含阿托品及莨菪鹼。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 143,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 897,
+        "page_text_sha256": "12703f3482da3a9985451f5cceda1b61b567d05f211be2914e9dfac2aeb88a22",
+        "exact_text_sha256": "67f0792dc5306e1ed2742830d599b343c55b74ac63752d77310bf2d82d20b53a",
+        "source_line_start": 1,
+        "source_line_end": 11,
+        "section_index": 3,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "67f0792dc5306e1ed2742830d599b343c55b74ac63752d77310bf2d82d20b53a",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0141-p0144:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "           Wurzel und Blätter mögen wohl früher im Gebrauch gewesen sein; erst neuerdings\nhat sich die Pharmazie             die Wurzel        zu nutze        gemacht        und      hat    aus    der Wurzel        ein dickes\nund ein flüssiges Extrakt und aus diesen dann andere Arzneiformen hergestellt, die ins-\nbesondere von England aus angepriesen wurden. Von grösserer Wichtigkeit sind heute die\nAlkaloidsalze Scopolaminum hydrobromicum,                      Scopolaminum            hydrochloricum,          Scopolaminum       hydro-\njodicum, Scopolaminum jodicum.\n         Scopolaminum hydrobromicum D. Arzn. Nachtrag, bildet ansehnliche, farblose, rhombische\nKrystalle, die bei 190° schmelzen und bei 100° etwa 12,3°/, Wasser verlieren. In Wasser und\nWeingeist ist es leicht löslich; die Lösung reagiert sauer und schmeckt bitter und kratzend.\nIn Äther und Chloroform ist es weniger löslich. Es ist ein sehr heftiges Gift, dessen Maximal-\neinzeldosis 0,5 mg, die grösste Tagesdosis 2 mg beträgt. — Die übrigen Salze bilden sämtlich\nfarblose, in Wasser und Weingeist lösliche Krystalle, die ähnliche Wirkungen haben und in\ndenselben Maximaldosen gegeben werden. — Über jodsaures Salz s. u.",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史上根葉曾被使用，近代製成浸膏及鹼基鹽類，如溴化斯可波拉明，曾作為強效劇毒藥物使用。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 143,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 4428,
+        "char_end": 5623,
+        "page_text_sha256": "12703f3482da3a9985451f5cceda1b61b567d05f211be2914e9dfac2aeb88a22",
+        "exact_text_sha256": "69f0fefd8bdcb421ec39cc99ad4517f9832c5f8e3a1813d8c01e613603581041",
+        "source_line_start": 50,
+        "source_line_end": 62,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "69f0fefd8bdcb421ec39cc99ad4517f9832c5f8e3a1813d8c01e613603581041",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "fb19984a5c7645aee3c4c2ed86070a840c00a255a36a6a05268d1a26665047de",
+    "maker_receipt_sha256": "48ce2d5391fc520c3ab59313bcd324b36e02c431e1ec669d677ccb0b2253b0ee",
+    "validation_check_sha256": "257ee7f9056efac03be561e475aaf3fb63bee1ada25a26a0f9c807a8e3e4e35f",
+    "source_disposition_sha256": "0e728313fc19299a81ff23cbb092fd48906fcbfce09ce4eac6e0a1b1cc747b9d",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "48ce2d5391fc520c3ab59313bcd324b36e02c431e1ec669d677ccb0b2253b0ee",
+      "validation_check_sha256": "257ee7f9056efac03be561e475aaf3fb63bee1ada25a26a0f9c807a8e3e4e35f",
+      "source_disposition_sha256": "0e728313fc19299a81ff23cbb092fd48906fcbfce09ce4eac6e0a1b1cc747b9d"
+    },
+    "naming_artifact_sha256": "1099fde8756000631d0298972ccde28ec14e0f213c0653d85aec622362330dae"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "ea92dfd0977fd6f5909359371d6feb955949431310e01e76bf65c81e794c36a2"
+}

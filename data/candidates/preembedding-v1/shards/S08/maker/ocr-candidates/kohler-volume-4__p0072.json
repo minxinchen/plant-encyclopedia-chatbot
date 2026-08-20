@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-4",
+  "volume": 4,
+  "pdf_page": 72,
+  "owner_shard": "S08",
+  "source_pdf": "/Volumes/NO NAME/第四集 mobot31753003431696.pdf",
+  "source_text_sha256": "429013954343fc91da6b877abf277b8113a011e3bb718518f02c4fd0f7cbe5e7",
+  "render_dpi": 144,
+  "render_sha256": "0ff8ec75a91fda0104f5ac4e8f9b973c076e19db6392e7003ade0a9dc11fefa5",
+  "input_sha256": "0ff8ec75a91fda0104f5ac4e8f9b973c076e19db6392e7003ade0a9dc11fefa5",
+  "render_pixel_width": 5768,
+  "render_pixel_height": 8274,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 5.038,
+  "embedded_character_count": 807,
+  "ocr_character_count": 66,
+  "ocr_alpha_ratio": 0.8333,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.015988372621082103,
+      "text": "Tafel 3",
+      "width": 0.06458333478034983,
+      "x": 0.04166666548184889,
+      "y": 0.9694767438493427
+    },
+    {
+      "confidence": 1,
+      "height": 0.01889534791310632,
+      "text": "Algae",
+      "width": 0.05208333152456268,
+      "x": 0.8687500009911908,
+      "y": 0.9607558142580787
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372621082103,
+      "text": "(Sphaerococcaceae)",
+      "width": 0.15625,
+      "x": 0.8166666649739582,
+      "y": 0.9447674417962904
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252612005,
+      "text": "5",
+      "width": 0.012499999186053212,
+      "x": 0.15625000030280672,
+      "y": 0.33866279100087415
+    },
+    {
+      "confidence": 1,
+      "height": 0.01745339518501654,
+      "text": "Gracilaria lichenoides Greville",
+      "width": 0.22916667390174916,
+      "x": 0.39583332807888727,
+      "y": 0.024709302814588607
+    }
+  ],
+  "text": "Tafel 3\nAlgae\n(Sphaerococcaceae)\n5\nGracilaria lichenoides Greville",
+  "output_sha256": "25aae44587c69b7f7f351fa91f5a56d31e1129fc858711e7ce6cc11c0ab9b127",
+  "receipt_sha256": "c5dd8ffed57593dc6ff55332ccd72f903302f76bfedf40848ecf88de35645d08"
+}

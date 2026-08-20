@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-1:p0091-p0096",
+  "owner_shard": "S01",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S01/maker/structure-drafts/kohler-volume-1__p0091-p0096.json",
+  "source_draft_sha256": "d325df085aaf2f5879d6ec258b07cfa1036615d0506a88f1613f5dabe36da2c0",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "e08f137da6fcfd2db41290e2f48123f262fcfa60462737e774309eb0d4e3e29d",
+    "validation_check_sha256": "bc33ebd471a7d281188e22e3251061b7284aed3a78d841ec901d22148a6802ab",
+    "source_disposition_sha256": "9f5d4a2e5790c5b695a6feb366f46338bf9a61d49ec9cb59434140a83f1198ba",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Papaver somniferum",
+    "authorship_candidate": null,
+    "aliases_candidates": [
+      "Mohn",
+      "Schlafmohn",
+      "Gartenmohn",
+      "Pavot officinal",
+      "Garden Poppy",
+      "Opium Poppy",
+      "White Poppy",
+      "Papaver officinale Gmel.",
+      "Papaver somniferum var. album DC.",
+      "Papaver somniferum var. nigrum DC."
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Papaver somniferum"
+    ],
+    "accepted_scientific_name": "Papaver somniferum",
+    "display_name_zh_tw": "罌粟",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0075081",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary",
+    "rationale": "TaiCOL accepts the queried book binomial at species rank.",
+    "checked_at": "2026-08-13T19:28:20+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Papaver somniferum",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Papaver+somniferum",
+      "retrieved_at": "2026-08-13T19:28:20+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Papaver somniferum",
+          "matched_name_id": 58473,
+          "taxon_id": "t0075081",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Papaver somniferum",
+          "accepted_name_id": 58473,
+          "accepted_usage": [
+            {
+              "usage_id": 42078,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0075081",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0075081",
+          "taxon": {
+            "taxon_id": "t0075081",
+            "taxon_status": "accepted",
+            "name_id": 58473,
+            "simple_name": "Papaver somniferum",
+            "name_author": "L.",
+            "rank": "Species",
+            "common_name_c": "罌粟",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

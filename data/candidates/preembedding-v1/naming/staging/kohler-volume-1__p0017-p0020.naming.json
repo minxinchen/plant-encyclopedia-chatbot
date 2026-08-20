@@ -1,0 +1,251 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-1:p0017-p0020",
+  "owner_shard": "S01",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S01/maker/structure-drafts/kohler-volume-1__p0017-p0020.json",
+  "source_draft_sha256": "e0745e5bac4e7cdc00d9c46d69c921b906dac1fc20a71cccf679a5907ab4d499",
+  "eligibility": {
+    "deterministic_status": "pass",
+    "checked_field": "deterministic_status",
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "26b2550c7f6aff31c52a4a49d0e0c2bff5136cbb18d7977ff97ed2e3b0ac2b49",
+    "validation_check_sha256": "55e69e4ae32c064977b72084d6e262ca9e77cd2e603fe2ed04a87cb02551d4bb",
+    "source_disposition_sha256": "51847f986ab960014b93f6b3596cea48836944f869fe4a34cdb27c74b6f81457",
+    "review_status": "machine_extracted"
+  },
+  "book_name": {
+    "scientific_name_candidate": "Citrus Limonum",
+    "authorship_candidate": "Risso",
+    "aliases_candidates": [
+      "Citrus medica var.",
+      "Citrus acida Roxb.",
+      "Citrone",
+      "Limone",
+      "Lemon",
+      "Citronnier"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Citrus Limonum",
+      "Citrus limonum",
+      "Citrus limon"
+    ],
+    "accepted_scientific_name": "Citrus limon",
+    "display_name_zh_tw": "檸檬",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded_as_cultivated",
+    "taxon_id": "t0053033",
+    "rationale": "Taiwan government sources explicitly use Citrus limonum for 檸檬 and pair Citrus limon with Citrus limonum as lemons; TaiCOL records Citrus limon as the accepted species with Taiwan public name 檸檬. This cross-source chain supports an alias mapping without relying on TaiCOL's fuzzy match for the historical spelling.",
+    "checked_at": "2026-08-13T12:39:47+08:00",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Citrus Limonum",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Citrus+Limonum",
+      "retrieved_at": "2026-08-13T12:27:09+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Citrus",
+          "matched_name_id": 1023,
+          "taxon_id": "t0023498",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Citrus",
+          "accepted_name_id": 1023,
+          "accepted_usage": [
+            {
+              "usage_id": 182784,
+              "reference_id": 2454,
+              "reference_type": "Book",
+              "publish_year": 2017,
+              "citation": "Ed. Comm. Red List TW Plants,  (2017) The Red List of Vascular Plants of Taiwan, 2017 = 2017 臺灣維管束植物紅皮書名錄.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 202743,
+              "reference_id": 3731,
+              "reference_type": "Journal Article",
+              "publish_year": 2015,
+              "citation": "Hsu, T.-W., Chen, C.-N. & Ho, T.-C. (2015) Notes of Citrus (Rutaceae) in Taiwan = 台灣產柑橘屬（芸香科）植物. <i>Taiwan Journal of Biodiversity = 台灣生物多樣性研究</i> 17(1): 67–73.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 276594,
+              "reference_id": 959,
+              "reference_type": "Book Chapter",
+              "publish_year": 1993,
+              "citation": "Chang, C.-E. & Hartley, T.G. (1993) 63. Rutaceae. In: Flora of Taiwan, 2 ed., vol. 3. 510–544.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 6782,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": null
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0023498",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0023498",
+          "taxon": {
+            "taxon_id": "t0023498",
+            "taxon_status": "accepted",
+            "name_id": 1023,
+            "simple_name": "Citrus",
+            "name_author": "L.",
+            "rank": "Genus",
+            "common_name_c": "柑橘屬",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": null,
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Citrus limonum",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Citrus+limonum",
+      "retrieved_at": "2026-08-13T12:27:09+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Citrus × limonia",
+          "matched_name_id": 55181,
+          "taxon_id": "t0073261",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Citrus × limonia",
+          "accepted_name_id": 55181,
+          "accepted_usage": [
+            {
+              "usage_id": 202751,
+              "reference_id": 3731,
+              "reference_type": "Journal Article",
+              "publish_year": 2015,
+              "citation": "Hsu, T.-W., Chen, C.-N. & Ho, T.-C. (2015) Notes of Citrus (Rutaceae) in Taiwan = 台灣產柑橘屬（芸香科）植物. <i>Taiwan Journal of Biodiversity = 台灣生物多樣性研究</i> 17(1): 67–73.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 39322,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0073261",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0073261",
+          "taxon": {
+            "taxon_id": "t0073261",
+            "taxon_status": "accepted",
+            "name_id": 55181,
+            "simple_name": "Citrus × limonia",
+            "name_author": "Osbeck",
+            "rank": "Species",
+            "common_name_c": "㰀檬",
+            "alternative_name_c": "黎檬,橘柑",
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": "native",
+            "alien_status_note": "native: Hsu et al., 2015",
+            "not_official": false,
+            "updated_at": "2026-06-18"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Citrus limonum",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Citrus%20limonum",
+      "retrieved_at": "2026-08-13T12:31:52+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "aphia",
+      "authority": "農業部動植物防疫檢疫署",
+      "query_name": "Citrus limonum",
+      "source_url": "https://www.aphia.gov.tw/UserFiles/TH%20Citrus%20limonum-1010605-1490590%20A.pdf",
+      "retrieved_at": "2026-08-13T12:39:47+08:00",
+      "evidence_excerpt": "檸檬(Citrus limonum)",
+      "assertion_scope": "external_naming_metadata_only",
+      "evidence_source_scope": "taiwan_government_public"
+    },
+    {
+      "source_id": "customs_trade_portal",
+      "authority": "關港貿單一窗口／中華民國海關進口稅則",
+      "query_name": "Citrus limonum",
+      "source_url": "https://portal.sw.nat.gov.tw/APGQ/Download?fileName=note_8_E.pdf",
+      "retrieved_at": "2026-08-13T12:39:47+08:00",
+      "evidence_excerpt": "Lemons (Citrus limon, Citrus limonum)",
+      "assertion_scope": "external_scientific_name_equivalence_metadata_only",
+      "evidence_source_scope": "taiwan_government_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Citrus limon",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Citrus+limon",
+      "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0053033",
+      "taxon_url": "https://taicol.tw/zh-hant/taxon/t0053033",
+      "retrieved_at": "2026-08-13T12:39:47+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Citrus limon",
+          "taxon_id": "t0053033",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Citrus limon",
+          "taxon": {
+            "taxon_status": "accepted",
+            "simple_name": "Citrus limon",
+            "name_author": "(L.) Osbeck",
+            "rank": "Species",
+            "common_name_c": "檸檬",
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "The book spelling Citrus Limonum is mapped through Taiwan-government equivalence evidence; Köhler facts remain attached to the book taxon and are not supplied by external sources."
+  ]
+}

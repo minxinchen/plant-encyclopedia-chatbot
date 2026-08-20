@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 345,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "42d3c40d7fbec1e4f7531daad296413adb754b207ba7c1f0efaaed193bf3c9f2",
+  "render_dpi": 144,
+  "render_sha256": "7435f036d3796ad66d1e61ae4062f7e11a9b078fdd4a6cd8f5d6f6f805034151",
+  "input_sha256": "7435f036d3796ad66d1e61ae4062f7e11a9b078fdd4a6cd8f5d6f6f805034151",
+  "render_pixel_width": 5666,
+  "render_pixel_height": 8138,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.33,
+  "embedded_character_count": 185,
+  "ocr_character_count": 72,
+  "ocr_alpha_ratio": 0.6806,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.020770642492506264,
+      "text": "Chenopodiaceae.",
+      "width": 0.1587743731985065,
+      "x": 0.7911764893090366,
+      "y": 0.9067658415195945
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "12",
+      "width": 0.016701460563898762,
+      "x": 0.8121085600103262,
+      "y": 0.24999999996910804
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185932098874,
+      "text": "13",
+      "width": 0.027139872906894125,
+      "x": 0.6576200423983275,
+      "y": 0.20203488420578475
+    },
+    {
+      "confidence": 1,
+      "height": 0.01619133211317514,
+      "text": "WMüller nd Nat",
+      "width": 0.09401655061292513,
+      "x": 0.8392130183685751,
+      "y": 0.15542177643830213
+    },
+    {
+      "confidence": 1,
+      "height": 0.02183116428435794,
+      "text": "Beta vulgaris I. var. Rapa Dum.",
+      "width": 0.3235908138785946,
+      "x": 0.3382045890680096,
+      "y": 0.114825581909905
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "55.",
+      "width": 0.018789143304199896,
+      "x": 0.912317328295708,
+      "y": 0.03633720944100738
+    }
+  ],
+  "text": "Chenopodiaceae.\n12\n13\nWMüller nd Nat\nBeta vulgaris I. var. Rapa Dum.\n55.",
+  "output_sha256": "9f4e49d5769613ac6152014798c38a9085d9a1d28ea2c6b1e4ad58b542596088",
+  "receipt_sha256": "f9394becf0aa96acd4d55e6c9352963b05803ae8740c931b62e4803f1f1d0710"
+}

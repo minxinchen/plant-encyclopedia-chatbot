@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 529,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "4c861a6c7f8f5487ca823831e50c0b5d3886c1ea36fadcfcc5f4655e659c2944",
+  "render_dpi": 144,
+  "render_sha256": "7cf07c804514daae32f47731084500b2052f15bbd4b9c1a430a6a1557e4bd36d",
+  "input_sha256": "7cf07c804514daae32f47731084500b2052f15bbd4b9c1a430a6a1557e4bd36d",
+  "render_pixel_width": 5714,
+  "render_pixel_height": 7958,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.327,
+  "embedded_character_count": 21,
+  "ocr_character_count": 41,
+  "ocr_alpha_ratio": 0.7317,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.02311761606307261,
+      "text": "Umbelliferae.",
+      "width": 0.14006285904520777,
+      "x": 0.7913046045662429,
+      "y": 0.926667935897992
+    },
+    {
+      "confidence": 1,
+      "height": 0.09593022815764896,
+      "text": "0D",
+      "width": 0.09109311604368092,
+      "x": 0.441295547046674,
+      "y": 0.16133721187153338
+    },
+    {
+      "confidence": 1,
+      "height": 0.02183116428435794,
+      "text": "Pimpinella Anisum",
+      "width": 0.2064777395343254,
+      "x": 0.36639675923804266,
+      "y": 0.11334325413017654
+    },
+    {
+      "confidence": 1,
+      "height": 0.01889534791310621,
+      "text": "L.",
+      "width": 0.026315789196372674,
+      "x": 0.5850202429271174,
+      "y": 0.11482558209359228
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "93.",
+      "width": 0.018218622681844376,
+      "x": 0.9109311742613045,
+      "y": 0.027616279099437535
+    }
+  ],
+  "text": "Umbelliferae.\n0D\nPimpinella Anisum\nL.\n93.",
+  "output_sha256": "d05017e2980f43cd64ff4b140b61804025ddf5c306d0c37e63119119870673f6",
+  "receipt_sha256": "8d54b9ee0e37d48f1b1c6cd2063fdb0cca4f7d148d294d8e92244aed5a83e1d9"
+}

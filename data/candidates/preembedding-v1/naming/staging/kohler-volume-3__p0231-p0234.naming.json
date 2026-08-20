@@ -1,0 +1,114 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-3:p0231-p0234",
+  "owner_shard": "S07",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S07/maker/structure-drafts/kohler-volume-3__p0231-p0234.json",
+  "source_draft_sha256": "0f3add35b5e32b58d119b9343e1817bd900091bfe9ec96339eafb0ef7008a58a",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "64117cbb7f49c571cfac1a32762056c5da357606c20ca3596579c168c5ea3616",
+    "validation_check_sha256": "cf112bff368c48e282ffdb5d5309eb4afe34341ec2c803eb6fff392780ccbf72",
+    "source_disposition_sha256": "80ab1f139d0bbcc36025a53031fb08b8a26724cf4198293e82b7a0b12a4c8583",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Strychnos toxifera",
+    "authorship_candidate": "Bentham",
+    "aliases_candidates": [
+      "Curarepflanze",
+      "Pfeilgiftliane",
+      "Woorara",
+      "Urari"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Strychnos toxifera"
+    ],
+    "accepted_scientific_name": "Strychnos toxifera",
+    "display_name_zh_tw": "南美箭毒樹",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_asserted",
+    "taxon_id": null,
+    "authority_record_id": "zhwiki-curare-strychnos-toxifera",
+    "rationale": "Kew POWO treats Strychnos toxifera as an accepted species. Taiwan's Ministry of Examination publicly uses the exact scientific name for a curare source plant but does not assign a plant common name; therefore 南美箭毒樹 is retained only as the permitted last-resort Chinese translation from Chinese Wikipedia. It is not represented as a Taiwan official plant name, and no Taiwan occurrence is inferred.",
+    "checked_at": "2026-08-13T13:09:10+08:00",
+    "display_name_source_scope": "non_taiwan_traditional_fallback",
+    "display_name_source_evidence_ids": [
+      "zh_wikipedia_fallback"
+    ],
+    "display_name_is_taiwan_public": false,
+    "display_name_answer_policy": "use_only_with_non_taiwan_fallback_label"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Strychnos toxifera",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Strychnos+toxifera",
+      "retrieved_at": "2026-08-13T12:45:08+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Strychnos toxifera",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Strychnos%20toxifera",
+      "retrieved_at": "2026-08-13T12:45:10+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "kew_powo",
+      "authority": "Royal Botanic Gardens, Kew — Plants of the World Online",
+      "query_name": "Strychnos toxifera",
+      "record_url": "https://powo.science.kew.org/taxon/547525-1",
+      "retrieved_at": "2026-08-13T13:09:10+08:00",
+      "record_status": "accepted",
+      "accepted_name": "Strychnos toxifera",
+      "assertion_scope": "external_scientific_name_mapping_only",
+      "evidence_source_scope": "non_taiwan_scientific_authority"
+    },
+    {
+      "source_id": "taiwan_ministry_examination",
+      "authority": "考選部",
+      "query_name": "Strychnos toxifera",
+      "record_url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?c=305&code=112020&q=1&s=22&t=Q",
+      "retrieved_at": "2026-08-13T13:09:10+08:00",
+      "evidence_note": "The official pharmacist examination item describes curare as an extract obtained from the plant Strychnos toxifera; it does not provide a plant common name.",
+      "assertion_scope": "taiwan_public_scientific_name_usage_only",
+      "evidence_source_scope": "taiwan_government_public"
+    },
+    {
+      "source_id": "zh_wikipedia_fallback",
+      "authority": "中文維基百科（非臺灣植物權威來源；末級譯名備援）",
+      "query_name": "Strychnos toxifera",
+      "record_url": "https://zh.wikipedia.org/wiki/箭毒",
+      "retrieved_at": "2026-08-13T13:09:10+08:00",
+      "display_name": "南美箭毒樹",
+      "authority_record_id": "zhwiki-curare-strychnos-toxifera",
+      "assertion_scope": "non_taiwan_chinese_translation_fallback_only",
+      "evidence_source_scope": "non_taiwan_traditional_fallback"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "TaiCOL and Tai2 provide no exact record; 南美箭毒樹 is a last-resort non-Taiwan translation and must not be presented as a Taiwan official name.",
+    "箭毒 is the crude poison/preparation name in the Taiwan government evidence, not itself the plant's Taiwan common name.",
+    "Taiwan occurrence is not asserted."
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 679,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "9f7e67ce048c4cdf9983982ae2a035704b81b7ec0efcd9024f835f2a53c0cdd6",
+  "render_dpi": 144,
+  "render_sha256": "e80d6b7ecb6cb5820333633a239e7d5080465ce1840b31a9f50654596d5ae849",
+  "input_sha256": "e80d6b7ecb6cb5820333633a239e7d5080465ce1840b31a9f50654596d5ae849",
+  "render_pixel_width": 5786,
+  "render_pixel_height": 8066,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.515,
+  "embedded_character_count": 36,
+  "ocr_character_count": 48,
+  "ocr_alpha_ratio": 0.7917,
+  "candidate_disposition": "candidate_quality_gain",
+  "staging_disposition": "candidate_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.022642048578413787,
+      "text": "Leguminosae",
+      "width": 0.15407368091461904,
+      "x": 0.7286311738617196,
+      "y": 0.9007429294614584
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02469087593139163,
+      "text": "Krameria triandra Ruiz et Pavon.",
+      "width": 0.39508753099876814,
+      "x": 0.30140265720985415,
+      "y": 0.07248365019645275
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "166",
+      "width": 0.022267205751453356,
+      "x": 0.9311740895331801,
+      "y": 0.018895349182802668
+    }
+  ],
+  "text": "Leguminosae\nKrameria triandra Ruiz et Pavon.\n166",
+  "output_sha256": "a2e73d7bca7f56185b95f30598c45e48d7ffde86a177469dba97ca52963ef64e",
+  "receipt_sha256": "e4ad0cd04e840ef6981c0a0b703c9f1b7c103f3d580631cecc5fec6a13f8d61b"
+}

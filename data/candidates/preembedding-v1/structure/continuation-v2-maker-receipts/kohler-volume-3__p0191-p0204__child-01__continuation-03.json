@@ -1,0 +1,155 @@
+{
+  "schema_version": "2.0",
+  "package_id": "kohler-volume-3:p0191-p0204:child-01:continuation-03",
+  "parent_entry_id": "kohler-volume-3:p0191-p0204",
+  "child_entry_id": "kohler-volume-3:p0191-p0204:child-01",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation-v2:kohler-volume-3:p0191-p0204:child-01:continuation-03:v1",
+  "owner_shard": "S06",
+  "package_sha256": "e92e005ec6a4d0b53697890b0bbd4fb8f3b32cbccbd882aea15b9cef6cc62436",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "prompt_version": "plant-structure-line-coordinates-v2",
+  "attempt_sha256": "716ddb01ee161b7b8af9a4a576c2ffffee4af802cd5712226d42d6f290b35ed9",
+  "raw_response_sha256": "d9540e4289ea384722219325691ef8805835090cfb60a7a0c300397ef07a633a",
+  "elapsed_seconds": 15.242,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 203,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 1431,
+      "char_end": 2863,
+      "source_line_start": 21,
+      "source_line_end": 36,
+      "page_text_sha256": "eb45c92c0e9af0ad6cc5776cce0f04b3ba75de6518e6eac137b50d42df8afd9c",
+      "exact_text_sha256": "2bfa9fa0a924186555ff6a1683ebcac32e00831ffa6247aec42e66d1d1cb5772",
+      "section_index": 0,
+      "section_type": "historical_use"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 203,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 2864,
+      "char_end": 3434,
+      "source_line_start": 37,
+      "source_line_end": 43,
+      "page_text_sha256": "eb45c92c0e9af0ad6cc5776cce0f04b3ba75de6518e6eac137b50d42df8afd9c",
+      "exact_text_sha256": "918fd02e54795d47a24aeefb6adacbe9e7c760822bfba9d699fd13478fad1b9b",
+      "section_index": 1,
+      "section_type": "other"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 203,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 3435,
+      "char_end": 4489,
+      "source_line_start": 44,
+      "source_line_end": 54,
+      "page_text_sha256": "eb45c92c0e9af0ad6cc5776cce0f04b3ba75de6518e6eac137b50d42df8afd9c",
+      "exact_text_sha256": "2f7261d5905ee031f7c3f1f178a3b1eddb34cb44b60b6d789332f9fe37b9e690",
+      "section_index": 2,
+      "section_type": "distribution"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 203,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 4490,
+      "char_end": 5309,
+      "source_line_start": 55,
+      "source_line_end": 63,
+      "page_text_sha256": "eb45c92c0e9af0ad6cc5776cce0f04b3ba75de6518e6eac137b50d42df8afd9c",
+      "exact_text_sha256": "d54a53e75e08b54ca06dfe62441db495269ce9454f89f2fbd4c8a5c963ecd331",
+      "section_index": 3,
+      "section_type": "literature"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 204,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 5103,
+      "char_end": 5441,
+      "source_line_start": 55,
+      "source_line_end": 58,
+      "page_text_sha256": "b013ce745992621463956cae90d02ef5db32284041f76043d87e12c4e631f708",
+      "exact_text_sha256": "02456a46bbaef2be11bba6194cf5fc24f99aebe1331b45cd9386d16b6ca15919",
+      "section_index": 4,
+      "section_type": "plate_description"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-3:p0191-p0204:child-01:continuation-03",
+    "parent_entry_id": "kohler-volume-3:p0191-p0204",
+    "book_taxon": {
+      "scientific_name_candidate": "Eucalyptus globulus"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "historical_use",
+        "pdf_page": 203,
+        "source_line_range": [
+          21,
+          36
+        ],
+        "exact_source_quote": " gebraucht man seit 1888 als Arzneimittel. Es dient in hervorragender Weise\n                                                                              als antisepti-\n sches Toilettemittel und empfiehlt sich als Zusatz zum Waschwasser, zum\n                                                                               Parfümieren\n der Wäsche, zum Besprengen des Zimmers. Ferner hat es sich als Heilmittel bei an\n                                                                                    halten-\n dem Hustenreiz und Keuchhusten bewährt, wo seine wohlthuende Wirkung na\n                                                                                  ch Ent-\n fernung    der      die Schleimhäute         reizenden       Aldehyde            erkannt    wurde.       —    Duquesnel           empfiehlt\n es     wegen     seines   Geschmackes         als Zusatz         zum       Leberthran,          wobei        seine   günstigen        Bigen-\n  schaften bei Erkrankungen     der Atmungsorgane    und bei Magenkatarıh zur Geltung\n. kommen. Eucalyptol tötet rasch und vollständig selbst sehr widerstandsfähige Bakterie\n                                                                                         n-\n  kulturen. Milzbrandbakterien kommen auf Blutserum, wenn es nur 0,6°/, Eucalyptol enthäl\n                                                                                          t,\n  nicht mehr zur Entwickelung."
+      },
+      {
+        "section_type": "other",
+        "pdf_page": 203,
+        "source_line_range": [
+          37,
+          43
+        ],
+        "exact_source_quote": "           Eucalyptus-Manna              benutzt     man    an    Stelle         des   Zuckers      zur Versüssung;           Euealyptus-\n Kino dient wegen seines Gerbstoffgehaltes als adstringierendes Mittel, und kommt in seinen\n besseren Sorten dem Malabar-Kino und dem Catechu gleich. Russel empfiehlt es als\n                                                                                      Mittel\n gegen Seekranheit. Technisch findet es Anwendung in der Gerberei, und als Beize in der\n Färberei, überhaupt da, wo Catechu oder Malabar-Kino auch verwendet werden.\n"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 203,
+        "source_line_range": [
+          44,
+          54
+        ],
+        "exact_source_quote": "           Alle Eucalyptusarten sind für ihre Heimat schon                                  durch    ihre Lebensweise              und    ihr\n Holz    von grösster Bedeutung.             Bereits       oben wurde von ihrem schnellen Wachstum                            gesprochen\n und der grossen Wassermenge, die sie dem Boden entziehen und ihn dadurch austro\n                                                                                   cknen,\n und ungesunde Gegenden bewohnbar machen; das Holz ‚durchläuft alle Härtegrade; die\n Eisenholz liefernden Arten dienen zu Schiffs- und Wasserbauten, weil ihr Holz wenig zur\n Fäulnis    neigt;    andere      Arten    liefern    Mahagoniholz,              sowie    Material        für künstliches      Ebenholz;\nund neben all diesen besonderen Zwecken, denen das Holz als Substanz dient, ist der Raum-\ninhalt der Stämme von 120-150 m Länge, 5 6 m Durchmesser, ein derartiger, dass\n                                                                                    er von\nkeinem andern Baume erreicht wird."
+      },
+      {
+        "section_type": "literature",
+        "pdf_page": 203,
+        "source_line_range": [
+          55,
+          63
+        ],
+        "exact_source_quote": "           Litteratur. Beschreibung und Abbildung. Bucalyptus. L’Heritier,'Sertum anglicum 185\nLamarck, Illustr. Taf. 422. — Baillon Hist. desPl. VI. 317.364. — Bentham & Hooker, Genera\n107 No. 2. — Kosteletzki, Med. Pharm. Flora IV. 1519. — Bentham, Flora Australiensis\nIl. 185. — Eucalyptus globulus. Labillardiere, Voyag. I. 153. Taf. 13. — Pl. Nov. Holl. II.\n121. — Bentham, Flor. Australiensis III. 225. — Hooker £ilti Rlor.ıPasmanılni133. —\nF. v. Müller,        Fragment.      phytogr.       Austral.      II._68.     —     Second     oyst. Cens.         of Austr.    Pl. 98. —\nEucalyptographia           II.   Dec.,    Taf. 11, Fig. 21. —              Pl. Victor. Suppl. Taf. 16. —               De     Candolle,\nProdrom. II. 220. — Luerssen, Med. Pharm. Bot. II. 821. — Karsten, Flora von Deutsch-\nland. H. 351."
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 204,
+        "source_line_range": [
+          55,
+          58
+        ],
+        "exact_source_quote": "        A junger Schössling. B Blühender Zweig der Pflanze. 1 Knospe; 2 dieselbe im Längsschnitt; 3 ge-\n öffnete Blüte; 4 dieselbe im Längsschnitt; 5 Querschnitt durch die Staubbeutel; 6 Frucht.      AB12346\n natürliche Grösse, 5 vergrössert. Nach australischen Herbarexemplaren unter Benutzung lebender, in Europa\n kultivierter Pflanzen."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "bf5f10dc53c562e0f8e4b91b7facb13097f15c433dbb8eca7778555026fb530e"
+}

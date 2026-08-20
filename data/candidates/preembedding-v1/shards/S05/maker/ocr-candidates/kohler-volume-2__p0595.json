@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 595,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "e9b33a5bc61ab1e12bb14378f59ad29af48a9bbbc1e3753cf5ab67833e7f83a1",
+  "render_dpi": 144,
+  "render_sha256": "f4ef5363f1d2af50321ba28da09187931c1738fd4d60a19008eb154f54da1d2e",
+  "input_sha256": "f4ef5363f1d2af50321ba28da09187931c1738fd4d60a19008eb154f54da1d2e",
+  "render_pixel_width": 5594,
+  "render_pixel_height": 7874,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 5.25,
+  "embedded_character_count": 28,
+  "ocr_character_count": 37,
+  "ocr_alpha_ratio": 0.8649,
+  "candidate_disposition": "candidate_quality_gain",
+  "staging_disposition": "candidate_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.021969115923321403,
+      "text": "Myrtaceae.",
+      "width": 0.11914029467705234,
+      "x": 0.8361353753189524,
+      "y": 0.9119805582721041
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02470930228157653,
+      "text": "Caryophyllus aromaticus I.",
+      "width": 0.32310837473949244,
+      "x": 0.3435582902989654,
+      "y": 0.09593023259467681
+    }
+  ],
+  "text": "Myrtaceae.\nCaryophyllus aromaticus I.",
+  "output_sha256": "7fa4f953e5f05052d83ff515156474fcb6d166aeb26f3cfa765c1be91d9c9142",
+  "receipt_sha256": "dcabb1f6f7184ebf9c2a93234eed358cb3c8943b2e646413c6855cdbe8987382"
+}

@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 435,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "3e0cbdee03fdcd762a4a57aa2b5ce8a48593b98a8a981ad506b7b654fad8ebb6",
+  "render_dpi": 144,
+  "render_sha256": "a09f5748278a84116fa4b732454ba5ab1af86b77b72a4fa653dff30406a51d32",
+  "input_sha256": "a09f5748278a84116fa4b732454ba5ab1af86b77b72a4fa653dff30406a51d32",
+  "render_pixel_width": 5606,
+  "render_pixel_height": 8150,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.687,
+  "embedded_character_count": 96,
+  "ocr_character_count": 70,
+  "ocr_alpha_ratio": 0.6714,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.02226384102352086,
+      "text": "Compositae",
+      "width": 0.09726398800806602,
+      "x": 0.8311148414020216,
+      "y": 0.9547111025625392
+    },
+    {
+      "confidence": 1,
+      "height": 0.0213973465419951,
+      "text": "(Anthemideae)",
+      "width": 0.12482690570504007,
+      "x": 0.8162785314759008,
+      "y": 0.9326152800240458
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "12",
+      "width": 0.018987342102886884,
+      "x": 0.28691983118132736,
+      "y": 0.32267441857375934
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883082859107,
+      "text": "10",
+      "width": 0.02320675069510547,
+      "x": 0.7637130802959071,
+      "y": 0.15552325625411312
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "11",
+      "width": 0.016877637119196987,
+      "x": 0.8755274263067868,
+      "y": 0.10174418628309323
+    },
+    {
+      "confidence": 1,
+      "height": 0.023365402032458626,
+      "text": "Chrysanthemum roseum Web. & Mohr.",
+      "width": 0.31223627707901497,
+      "x": 0.33333333576429,
+      "y": 0.03343023245759602
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "30",
+      "width": 0.01476793213550709,
+      "x": 0.9662447258802073,
+      "y": 0.03197674419249241
+    }
+  ],
+  "text": "Compositae\n(Anthemideae)\n12\n10\n11\nChrysanthemum roseum Web. & Mohr.\n30",
+  "output_sha256": "4ce3c4dd358d51a39cfd05a3e570e40267a27392055a32a5ae8d1b90cfb71fd1",
+  "receipt_sha256": "c2a513c23a17cc44617d34e6b97d8f30d4467d7e3c31c9f2db767fbf77e158a5"
+}

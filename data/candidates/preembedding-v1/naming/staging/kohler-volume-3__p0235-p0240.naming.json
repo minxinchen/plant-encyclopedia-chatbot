@@ -1,0 +1,204 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-3:p0235-p0240",
+  "owner_shard": "S07",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S07/maker/structure-drafts/kohler-volume-3__p0235-p0240.json",
+  "source_draft_sha256": "917b212e1e8395ea212fc182e89b1c87e8cf5824113cd48a01394072aad9bbd6",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "a9c8ad2a76d5736b5bbcc9c24fd35d98b8563011e8590a52d272b6b6c85f378e",
+    "validation_check_sha256": "dd9a8e9f9ee7771128b4b07d062b8157b6ff930125dcd1bafa490e169f1a86e0",
+    "source_disposition_sha256": "a5402c401dce702470e3d74c8d62f6a9d54bb4a1ee6eb9c6ecc070f57791b06b",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Strychnos Ignatii",
+    "authorship_candidate": "Bergius",
+    "aliases_candidates": [
+      "Strychnos philippinensis Blanco",
+      "Zgnatia amara L. fil.",
+      "Ignatiana philippinica Loureiro",
+      "Ignatia amara"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Strychnos Ignatii",
+      "Strychnos ignatii"
+    ],
+    "accepted_scientific_name": "Strychnos ignatii",
+    "display_name_zh_tw": "呂宋果",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_asserted",
+    "taxon_id": null,
+    "authority_record_id": "tfri-forestry-research-quarterly-28-1-strychnos-ignatii",
+    "rationale": "TaiCOL and Tai2 have no exact species record, but Taiwan Forestry Research Institute public material explicitly pairs the exact scientific name Strychnos ignatii with the Traditional Chinese public name 呂宋果. No Taiwan occurrence is asserted.",
+    "checked_at": "2026-08-13T13:00:56+08:00",
+    "display_name_source_scope": "taiwan_government_public",
+    "display_name_source_evidence_ids": [
+      "tfri"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Strychnos Ignatii",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Strychnos+Ignatii",
+      "retrieved_at": "2026-08-13T13:00:07+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Strychnos",
+          "matched_name_id": 2640,
+          "taxon_id": "t0024912",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Strychnos",
+          "accepted_name_id": 2640,
+          "accepted_usage": [
+            {
+              "usage_id": 180434,
+              "reference_id": 2454,
+              "reference_type": "Book",
+              "publish_year": 2017,
+              "citation": "Ed. Comm. Red List TW Plants,  (2017) The Red List of Vascular Plants of Taiwan, 2017 = 2017 臺灣維管束植物紅皮書名錄.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 278352,
+              "reference_id": 1016,
+              "reference_type": "Book Chapter",
+              "publish_year": 1998,
+              "citation": "Li, H.-L. & Peng, C.-I. (1998) 119. Loganiaceae. In: Flora of Taiwan, 2 ed., vol. 4. 144–153.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 8533,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": null
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0024912",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0024912",
+          "taxon": {
+            "taxon_id": "t0024912",
+            "taxon_status": "accepted",
+            "name_id": 2640,
+            "simple_name": "Strychnos",
+            "name_author": "L.",
+            "rank": "Genus",
+            "common_name_c": "馬錢屬",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": null,
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Strychnos ignatii",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Strychnos+ignatii",
+      "retrieved_at": "2026-08-13T13:00:07+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Strychnos philippinensis",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Strychnos+philippinensis",
+      "retrieved_at": "2026-08-13T13:00:11+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Zgnatia amara",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Zgnatia+amara",
+      "retrieved_at": "2026-08-13T13:00:11+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Ignatiana philippinica",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Ignatiana+philippinica",
+      "retrieved_at": "2026-08-13T13:00:11+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Ignatia amara",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Ignatia+amara",
+      "retrieved_at": "2026-08-13T13:00:11+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Strychnos ignatii",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Strychnos%20ignatii",
+      "retrieved_at": "2026-08-13T13:00:14+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tfri",
+      "authority": "農業部林業試驗所《林業研究專訊》",
+      "query_name": "Strychnos ignatii",
+      "source_url": "https://ws.tfri.gov.tw/001/Upload/OldFile/files/1-159-%E5%B0%88%E8%AB%96_%E7%82%BA%E7%94%9F%E6%B4%BB%E6%B7%BB%E6%B2%B9%E5%8A%A0%E9%86%8B%E7%9A%84%E6%9E%97%E6%9C%A8%E4%BA%8C%E6%AC%A1%E4%BB%A3%E8%AC%9D%E7%94%A2%E7%89%A9-2.pdf",
+      "retrieved_at": "2026-08-13T13:00:56+08:00",
+      "evidence_excerpt": "呂宋果（Strychnos ignatii）",
+      "assertion_scope": "external_naming_metadata_only",
+      "evidence_source_scope": "taiwan_government_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "The external source is used only for the Taiwan public name; its chemical and toxicity claims are not imported into this naming artifact.",
+    "No Taiwan occurrence claim was established."
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 299,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "d87d0f3fa46941e02c331bc8c1ba8a6a0c54c23f9dd63f0c079bbdc4864d9f54",
+  "render_dpi": 144,
+  "render_sha256": "7da22786ec132cdc16ae252ab3be4b2e35e8c6e8323a3e3625a04211bfb2a389",
+  "input_sha256": "7da22786ec132cdc16ae252ab3be4b2e35e8c6e8323a3e3625a04211bfb2a389",
+  "render_pixel_width": 5414,
+  "render_pixel_height": 8138,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.558,
+  "embedded_character_count": 174,
+  "ocr_character_count": 55,
+  "ocr_alpha_ratio": 0.6727,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.0198633897872198,
+      "text": ". Solaneae.",
+      "width": 0.08997149257674142,
+      "x": 0.8229181827260088,
+      "y": 0.9064927236080784
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "10",
+      "width": 0.015283842037010387,
+      "x": 0.733624454418176,
+      "y": 0.7180232560253816
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883082859107,
+      "text": "8",
+      "width": 0.01965065486034645,
+      "x": 0.6681222709322722,
+      "y": 0.33575581412717515
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "2",
+      "width": 0.015283842037010345,
+      "x": 0.09170305728389656,
+      "y": 0.19912790702558358
+    },
+    {
+      "confidence": 1,
+      "height": 0.015436323862227153,
+      "text": "WMüller n.d. Nat",
+      "width": 0.10725588304262212,
+      "x": 0.8251930200684036,
+      "y": 0.14489811717039847
+    },
+    {
+      "confidence": 1,
+      "height": 0.019644207424587723,
+      "text": "Nicotiana rustica l",
+      "width": 0.21469173104259875,
+      "x": 0.3424238687830794,
+      "y": 0.11712356689647707
+    }
+  ],
+  "text": ". Solaneae.\n10\n8\n2\nWMüller n.d. Nat\nNicotiana rustica l",
+  "output_sha256": "91a498535e57b1326fd0bacd2b80f038c64bf361b1354df596b45d5133c30979",
+  "receipt_sha256": "6fcd22727d4d3ff3f73edfefcfd2d4fedd8bfa5809a888c30b32be4444754d97"
+}

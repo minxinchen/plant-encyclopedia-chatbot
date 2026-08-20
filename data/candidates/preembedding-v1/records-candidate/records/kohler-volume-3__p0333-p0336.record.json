@@ -1,0 +1,283 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-3-p0333-p0336",
+  "entry_id": "kohler-volume-3:p0333-p0336",
+  "owner_shard": "S07",
+  "book_taxon": {
+    "scientific_name": "Castanea vesca",
+    "authorship": "Gaertner",
+    "aliases": [
+      "Castanea vulgaris Lam.",
+      "Castanea sativa Mill.",
+      "Castanea Castanea Karsten",
+      "Fagus Castanea UL."
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Castanea vesca"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T18:21:22+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Castanea+vesca",
+        "query_name": "Castanea vesca",
+        "retrieved_at": "2026-08-13T18:21:16+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Castanea+vulgaris",
+        "query_name": "Castanea vulgaris",
+        "retrieved_at": "2026-08-13T18:21:17+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0052885",
+        "query_name": "Castanea vulgaris",
+        "retrieved_at": "2026-08-13T18:21:17+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0052885",
+        "query_name": "Castanea vulgaris",
+        "retrieved_at": "2026-08-13T18:21:17+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0052886",
+        "query_name": "Castanea vulgaris",
+        "retrieved_at": "2026-08-13T18:21:17+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0052886",
+        "query_name": "Castanea vulgaris",
+        "retrieved_at": "2026-08-13T18:21:17+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Castanea+sativa",
+        "query_name": "Castanea sativa",
+        "retrieved_at": "2026-08-13T18:21:17+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Castanea+castanea",
+        "query_name": "Castanea castanea",
+        "retrieved_at": "2026-08-13T18:21:17+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Fagus+castanea",
+        "query_name": "Fagus castanea",
+        "retrieved_at": "2026-08-13T18:21:17+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 333,
+      "evidence_type": "text",
+      "page_text_sha256": "9eb75e443996a07c9902f22177f91c9bbd79c71ba45dbd71d0063a315a354c30",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 334,
+      "evidence_type": "text",
+      "page_text_sha256": "e8710f9f1436cb79d7fcc64b9752a0bf830c0cd8351987b34b59031dfe20e390",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 335,
+      "evidence_type": "text",
+      "page_text_sha256": "2ace8e54ceed221b069c5659e4b663b5dbc3327ff68f0579438c230888ead5f4",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-3:p0333-p0336:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                        Castanea vesca Gaertner.\nEchte Kastanie,              essbare     Kastanie,            Edelkastaniee        Engl.: Chestnut.           Franz.: Chätaignier,\n                          Castanier, Marronier                 d’Europe.       Holl.: tamme           Kastanje.\n\n           Syn.: (astanea vulgaris Lam.                       Castanea sativa Mill.         Castanea Castanea Karsten.                  Fagus\nCastanea    UL.\n\n           Familie: Cupuliferae (Fagaceae Engl.)                         Unterfamilie:         Castaneae.       Gattung:             Castanea\nTournef.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Castanea vesca Gaertner。別名：Castanea vulgaris、Castanea sativa。科：Cupuliferae (Fagaceae)。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 333,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 618,
+        "page_text_sha256": "9eb75e443996a07c9902f22177f91c9bbd79c71ba45dbd71d0063a315a354c30",
+        "exact_text_sha256": "3388947a9ccc23303cd7836b2a4614cadadef8545947f550772659b9161b8100",
+        "source_line_start": 1,
+        "source_line_end": 9,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "3388947a9ccc23303cd7836b2a4614cadadef8545947f550772659b9161b8100",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0333-p0336:s01:x00",
+      "section_type": "description",
+      "original_text": "           Beschreibung.             Die Kastanie ist ein schöner Baum von 10 bis 30 m Höhe, mit stolzer,\nweitschattender          kugliger Krone.               Der Stamm          ist aufrecht, gerade, cylindrisch, oft von be-\nträchtlicher        Dicke;     er besitzt       eine graubraune,            glatte Rinde.         Die Zweige         sind meist         etwas\nkantig, mit vielen Lenticellen bedeckt und reich an Narben früher abgefallener Blätter.                                                     Die\nBlätter sind mit 1 bis 5 cm langen Blattstielen versehen, wechselständig, einfach, ungeteilt,\nlanzettlich,       am    Grunde        abgerundet         oder     etwas     herzförmig,       am     entgegengesetzten              Ende    in\n\neine    scharfe     Spitze    auslaufend,         am     Rande      mit mehrere         Millimeter     langen,       spitzen,        plötzlich\n\nhervortretenden          Zähnen        besetzt.        Die Blattfläche        wird    20 bis 30 cm          lang, 5 bis 7 cm            breit,\n\nist dunkelgrün, unterseits heller, kahl und etwas glänzend auf beiden Seiten.                                          Der Hauptnerv\ndurchzieht oberseits eingesenkt, unterseits stark hervortretend, das ganze Blatt; aus ihm ent-",
+      "normalized_text": null,
+      "zh_tw_rendering": "樹高10至30公尺，樹冠圓形。葉互生，披針形，長20至30公分，深綠色，具尖銳鋸齒。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 333,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 620,
+        "char_end": 1887,
+        "page_text_sha256": "9eb75e443996a07c9902f22177f91c9bbd79c71ba45dbd71d0063a315a354c30",
+        "exact_text_sha256": "26f98586a8b735426bfee67e0a2065f7c0280cd6512d9b2127df06c40ee5fdc5",
+        "source_line_start": 11,
+        "source_line_end": 23,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "26f98586a8b735426bfee67e0a2065f7c0280cd6512d9b2127df06c40ee5fdc5",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0333-p0336:s02:x00",
+      "section_type": "flowering",
+      "original_text": "              Blütezeit.          Mai, Juni; die Fruchtreife fällt in den Oktober.",
+      "normalized_text": null,
+      "zh_tw_rendering": "花期為五月至六月；果實成熟期在十月。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 334,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 4559,
+        "char_end": 4641,
+        "page_text_sha256": "e8710f9f1436cb79d7fcc64b9752a0bf830c0cd8351987b34b59031dfe20e390",
+        "exact_text_sha256": "d07a359c29013ef107a57f7a7de77b7250044c8b684ff9efcd06e8dafba5ec9e",
+        "source_line_start": 51,
+        "source_line_end": 51,
+        "section_index": 2,
+        "section_type": "flowering"
+      },
+      "exact_text_sha256": "d07a359c29013ef107a57f7a7de77b7250044c8b684ff9efcd06e8dafba5ec9e",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0333-p0336:s03:x00",
+      "section_type": "distribution",
+      "original_text": "              Vorkommen.\n                       Der Baum ist in der wärmeren nördlich gemässigten Zone einheimisch;\ner findet sich im südlichen Europa ebenso wie im gemässigten Asien, Afrika und Nordamerika.\nIn Deutschland               wird     er namentlich\n                                     in den Rheingegenden als Chausseebaum gezogen;                                                                im\nnördlichen Frankreich wird er seiner Früchte wegen angebaut und gepflegt. Ä",
+      "normalized_text": null,
+      "zh_tw_rendering": "原產於溫暖北溫帶，分佈於南歐、亞洲、非洲及北美。德國萊茵區作行道樹，北法栽培。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 334,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 4643,
+        "char_end": 5128,
+        "page_text_sha256": "e8710f9f1436cb79d7fcc64b9752a0bf830c0cd8351987b34b59031dfe20e390",
+        "exact_text_sha256": "9bbebd88d1e6391283e1b31863449c05ac60a2031ee2ae9d66286108b244a09d",
+        "source_line_start": 53,
+        "source_line_end": 58,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "9bbebd88d1e6391283e1b31863449c05ac60a2031ee2ae9d66286108b244a09d",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0333-p0336:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "               Anwendung.              Die Rinde      des Baumes         dient als Gerbmittel;       das Holz findet als Bau-\nholz    Verwendung.              Die Blätter         wurden     1862     von   Close    in die Medizin     eingeführt,       nachdem\nsie bereits früher               als Hausmittel Verwendung                 fanden.      Sie gelten als Mittel gegen Keuch-\nhusten,         mildern       die Krämpfe         und    beseitigen      sie in einigen     Tagen.   Man     wendet      die Blätter\nin Gestalt           eines Fluidextrakts             an, zwei- bis dreistündlich 0,5 bis 2 g.               Die Früchte dienen\nals Kaffeesurrogat und Nahrungsmittel.                              Das Extrakt des Holzes dient seines Gerbstoffgehaltes\nwegen          zum    Schwarzfärben            und   zum    Beschweren         der Seide.",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：葉於1862年入藥，治百日咳及緩解痙攣；果實作咖啡替代品及食物；木材作建材。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 335,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 3605,
+        "char_end": 4458,
+        "page_text_sha256": "2ace8e54ceed221b069c5659e4b663b5dbc3327ff68f0579438c230888ead5f4",
+        "exact_text_sha256": "af18573b4d5c2333e42576d5570864a13c1c45cb8ca270ded7603ddecb608daf",
+        "source_line_start": 41,
+        "source_line_end": 47,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "af18573b4d5c2333e42576d5570864a13c1c45cb8ca270ded7603ddecb608daf",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "160a8f4e72ceb19f658b6fed312781b6692cd3bc8aa095805b2dea9a6417bfab",
+    "maker_receipt_sha256": "5b6657614072ac7fba8169ee05d9cbd298a5a8d603ef1a85f0a4c84cda3bf781",
+    "validation_check_sha256": "b8a69de6eae294c480deb04efee97ee290c0f4ace94103f91eed1f7c38deef7d",
+    "source_disposition_sha256": "b7a6da9988385d74fff2d261b734a78d52f32fd4d20fdde5528840e5e948f12a",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "5b6657614072ac7fba8169ee05d9cbd298a5a8d603ef1a85f0a4c84cda3bf781",
+      "validation_check_sha256": "b8a69de6eae294c480deb04efee97ee290c0f4ace94103f91eed1f7c38deef7d",
+      "source_disposition_sha256": "b7a6da9988385d74fff2d261b734a78d52f32fd4d20fdde5528840e5e948f12a"
+    },
+    "naming_artifact_sha256": "2a7216d4bc5cadb7635bb7a54d1c509b523d26e7b43d1a1834cc162458e25ca0"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "e5fec79028f3f1de1dc0ce41ddb532ba90b7dfd32477205c70858dc5fcedb333"
+}

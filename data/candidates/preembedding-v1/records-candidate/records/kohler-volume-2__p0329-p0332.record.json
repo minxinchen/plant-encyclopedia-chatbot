@@ -1,0 +1,286 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0329-p0332",
+  "entry_id": "kohler-volume-2:p0329-p0332",
+  "owner_shard": "S04",
+  "book_taxon": {
+    "scientific_name": "Ferula galbaniflua",
+    "authorship": "Boiss. et Buhse",
+    "aliases": [
+      "Ferula gummosa Boiss.",
+      "Ferula erubescens Boiss. part.",
+      "Kasswih oder Boredscheh der Perser"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Ferula galbaniflua",
+      "Ferula gummosa"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T14:06:00+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Ferula+galbaniflua",
+        "query_name": "Ferula galbaniflua",
+        "retrieved_at": "2026-08-13T14:04:12+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Ferula+gummosa",
+        "query_name": "Ferula gummosa",
+        "retrieved_at": "2026-08-13T14:04:13+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Ferula+erubescens",
+        "query_name": "Ferula erubescens",
+        "retrieved_at": "2026-08-13T14:04:13+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Kasswih+oder",
+        "query_name": "Kasswih oder",
+        "retrieved_at": "2026-08-13T14:04:13+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL and Tai2 returned no promotable species record or Taiwan plant display name. Kew POWO treats Ferula galbaniflua as a synonym of accepted Ferula gummosa. Taiwan government sources pair the historical scientific name with product names 格蓬香膠油 / 格蓬油, but they do not explicitly assign 格蓬香 as the plant's public Chinese species name. A product name is not stripped or promoted into an invented plant name, so the display name remains unresolved."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 329,
+      "evidence_type": "text",
+      "page_text_sha256": "f76e4944bed99f704b7d7f1f330b976f0ec039473b8daf8da7586ef6ea626505",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 330,
+      "evidence_type": "text",
+      "page_text_sha256": "01f226b02578b5c1b85d99fe492ab1f306d365eb2a39bb2dc884c6028362d7a6",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 331,
+      "evidence_type": "text",
+      "page_text_sha256": "ff3a66639d1f6f080b2de6c86350f8b0afd59729a18ff2aadd86ca122850b706",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 332,
+      "evidence_type": "text",
+      "page_text_sha256": "4286463e8243da07c5365ca36fa5df81b5345c9e10612cb895aa226a3d4d3c1c",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0329-p0332:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                          Ferula galbaniflua Boiss. et Buhse.\n                   Syn. Ferula gummosa            Boiss.         Ferula erubescens Boiss. part.\n                                (Kasswih oder Boredscheh der Perser).",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Ferula galbaniflua，同義名 Ferula gummosa 及 Ferula erubescens 部分，波斯語稱 Kasswih 或 Boredscheh。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 329,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 227,
+        "page_text_sha256": "f76e4944bed99f704b7d7f1f330b976f0ec039473b8daf8da7586ef6ea626505",
+        "exact_text_sha256": "5599d4af699122905d9a898d79bac94fa4f6b49521ac3db8fb7eab5e8fc5c7af",
+        "source_line_start": 1,
+        "source_line_end": 3,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "5599d4af699122905d9a898d79bac94fa4f6b49521ac3db8fb7eab5e8fc5c7af",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0329-p0332:s01:x00",
+      "section_type": "description",
+      "original_text": "            Beschreibung. Pflanze ausdauernd. Die grosse, unterhalb des Halses verdickte Wurzel ist\n  verzweigt und spärlich mit einem harzigen Safte erfüllt. Stengel aufrecht, 11, bis 2 Meter hoch,\n  9 und mehr Ctm. dick, cylindrisch, nackt, im oberen Theile verzweigt, ein weisses, an der Luft bald\n  gelb werdendes Gummiharz ausschwitzend. Blätter kurz weichhaarig, die unteren mit den Blattstielen\n  bis 60 Ctm. lang. Blattscheiden mehr oder weniger verlängert, nicht aufgeblasen. Blätter 4fach fieder-\n  theilig, mit lang gestielten Abschnitten erster und zweiter Ordnung; die kleinen eifórmigen Abschnitte\n  in kurze, lineale, ganze, 2 oder d3spaltige Zipfel getheilt. Die obersten Blätter nur aus den läng-\n  lichen Scheiden bestehend. Dolden 6- bis 12strahlig, ohne Hülle; die der fruchtbaren Blüthen endstündig,\n  die der männlichen seitenstándig, die fruchtbare Dolde überragend. Hüllchen entweder fehlend, oder,\n  wenn vorhanden, aus kleinen, lanzettlichen Brakteen bestehend. Blüthen blassgelb. Kronblätter lineal-\n  lanzettlich, mit nach innen gebogener Spitze. Staubfäden lang. Früchte oblong oder ellipsoidisch, oder\n  etwas eifórmig im Umrisse, 12 bis 16 Mm. lang, 5 bis 8 Mm. breit, an beiden Enden stumpf, gekrönt\n  von den kurzen umgebogenen Griffeln, graugelb, glatt. Randflügel der Früchtchen ungefähr halb\n-so breit als die übrige Frucht, in der Breite wechselnd. Rippen sehr zart. Die Oelstriemen die\n ‚ganze Breite der Furche einnehmend; die Fugenseite striemenlos. Embryo klein; Samenlappen eiför-\n  mig, stumpf.",
+      "normalized_text": null,
+      "zh_tw_rendering": "多年生植物，根粗大含樹脂。莖直立高 1-2 米，分泌白色後變黃的膠質樹脂。葉四回羽狀分裂，花淡黃色，果實橢圓形。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 329,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 389,
+        "char_end": 1926,
+        "page_text_sha256": "f76e4944bed99f704b7d7f1f330b976f0ec039473b8daf8da7586ef6ea626505",
+        "exact_text_sha256": "4625c1a98559de67ee64bdb354884ce6b1df7913a321fa6ff19a96400664796b",
+        "source_line_start": 8,
+        "source_line_end": 23,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "4625c1a98559de67ee64bdb354884ce6b1df7913a321fa6ff19a96400664796b",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0329-p0332:s02:x00",
+      "section_type": "distribution",
+      "original_text": "           Vorkommen.        In Persien einheimisch. 1848 von Buhse am Demavend und Umgebung in\n Meereshöhen von 1200 bis 2400 Meter entdeckt und dort in grossen Mengen aufgefunden worden;\n auch 1858 von Bunge weiter östlich von diesem Standorte in der Nähe von Subzawar in Chorassan\n angetroffen.",
+      "normalized_text": null,
+      "zh_tw_rendering": "原產波斯，1848 年於德馬溫德山海拔 1200-2400 米發現，1858 年於呼羅珊 Subzawar 附近發現。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 329,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 1957,
+        "char_end": 2254,
+        "page_text_sha256": "f76e4944bed99f704b7d7f1f330b976f0ec039473b8daf8da7586ef6ea626505",
+        "exact_text_sha256": "623b2507a83096c37b84050e9d9b139ddfecf2e231f6f603d127c004dc91eca0",
+        "source_line_start": 27,
+        "source_line_end": 30,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "623b2507a83096c37b84050e9d9b139ddfecf2e231f6f603d127c004dc91eca0",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0329-p0332:s03:x00",
+      "section_type": "history",
+      "original_text": "         Name und Geschichtliches.            Ferula siehe Ferula Scorodosma.      Galbanum stammt\nangeblich von dem arabischen halab, hebräischen 297 (chalob), gleichbedeutend mit dem griechischen\nyodo Milch, bezogen auf den Milchsaft, welcher der Pflanze entquillt. Wittstein meint, das Wort\nmüsste eigentlich, namentlich auch der griechischen Form xaAßayn entsprechend, Chalbanum geschrieben\nwerden. Das Wort kann auch auf das keltische galb, galban (fett, salbenartig, zu Salbe dienend)\nbezogen werden. Galbaniflua, galbanumliefernd.\n         Galbanum tritt schon in den hippokratischen Schriften, ebenso bei Theophrast und Nicander\nals ya@Aßavn auf. Auch das Chelbenah der Bibel, welches bei dem israelitischen Gottesdienste als\nRäuchermittel verwendet       wurde, deutet man       als Galbanum.     Dioskorides,         welcher sich mit der Droge,\nnamentlich mit der Reinigung derselben, beschäftigte, war der Ansicht, dass Galbanum von einer in\nSyrien wachsenden Narthex stamme         Nach Plinius war das Almanusgebirge in Nordsyrien die\nHeimath der Stammpflanze Sowohl die arabischen Schriftsteller, als auch die Schule von Salern\nbeschäftigten sich viel mit Galbanum, welches sowohl als Heilmittel, als auch als Gewürz Ver-\nwendung fand. Der Zolltarif von Alexandrien aus dem 1. Jahrh. nach Chr. Geburt enthält Galbanum;\nebenso gehört die Droge im Mittelalter zu den Ausfuhrartikeln Venedigs nach. London. Caspar Neumann\ndestillirte um   1730   das ätherische    Oel, welches in dem       Galbanum     enthalten    ist.",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源自阿拉伯語 halab 或希臘語 yodo（乳），聖經 Chelbenah 指此物。希波克拉底、狄奧斯科里底斯及普林尼均有記載，中世紀威尼斯出口。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 330,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 1927,
+        "char_end": 3458,
+        "page_text_sha256": "01f226b02578b5c1b85d99fe492ab1f306d365eb2a39bb2dc884c6028362d7a6",
+        "exact_text_sha256": "88653327a92ff9bf91b31ebf78c66155ef3cdc786e619a7f1ab4508243660a8e",
+        "source_line_start": 25,
+        "source_line_end": 40,
+        "section_index": 3,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "88653327a92ff9bf91b31ebf78c66155ef3cdc786e619a7f1ab4508243660a8e",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0329-p0332:s04:x00",
+      "section_type": "constituents",
+      "original_text": "          Bestandtheile. Meissner fand: 8.49/, ütherisches Oel, 65.89/, Harz, 22.6%, Gummi, 2.8%\nfremde Beimengungen, 1.89/, Bassorin, 0.29/, Bitterstoff und Apfelsáure. Pelletier fand: 6.34%\nütherisches Oel, 66.86%, Harz, 19.989/, Gummi, 7.52%, Beimengungen          Neumann fand: 6.0%\nätherisches Oel, 60.09/, Harz, 20.0%, Gummi, 14,0%, Beimengungen.",
+      "normalized_text": null,
+      "zh_tw_rendering": "成分分析：含約 6-8% 揮發油，60-66% 樹脂，20-22% 樹膠，及少量雜質、巴索林、苦味質與蘋果酸。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 331,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2287,
+        "char_end": 2639,
+        "page_text_sha256": "ff3a66639d1f6f080b2de6c86350f8b0afd59729a18ff2aadd86ca122850b706",
+        "exact_text_sha256": "6dee84f62f2250dd37a8d44d32ba82f77bd8414fb53406013ebcac1c60abd606",
+        "source_line_start": 24,
+        "source_line_end": 27,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "6dee84f62f2250dd37a8d44d32ba82f77bd8414fb53406013ebcac1c60abd606",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0329-p0332:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "         Anwendung.     In Pillen, in Form von Emulsion, in Tinktur als Excitans, Antikatarrhale,\n Antispasmodicum, Emmenagogum; äusserlich als erweichendes Mittel bei Geschwüren und Drüsenan-\n schwellungen, als Bestandtheil       von Pflastern.    „Galbanum    wird innerlich     selten gebraucht.     Man   hat\n es als Antispasmodicum nach Art der Asa foetida benutzt und ihm spezifische Wirkung auf den\n Uterus (daher die Bezeichnung Mutterharz) zugeschrieben, wonach es bei Amenorrhoe in Anwendung\n kam. Auch gegen chronische Katarrhe und Rheumatismus wird es gebraucht.“ (Husemann, Arznei-\n mittell. 547.)",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：作興奮劑、抗痙攣藥及催經藥（母樹膠）；外用軟化瘡瘍與腺腫。曾用於閉經、慢性卡他及風濕症。",
+      "evidence_indexes": [
+        3
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 332,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 1445,
+        "char_end": 2055,
+        "page_text_sha256": "4286463e8243da07c5365ca36fa5df81b5345c9e10612cb895aa226a3d4d3c1c",
+        "exact_text_sha256": "bbccd0e1c7b6ec770ac46e4306b509ccb80e3339d25a948f9ecd21882921ac69",
+        "source_line_start": 17,
+        "source_line_end": 23,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "bbccd0e1c7b6ec770ac46e4306b509ccb80e3339d25a948f9ecd21882921ac69",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Kew resolves the scientific synonym to Ferula gummosa, but no Taiwan public Chinese plant species name was found.",
+    "格蓬香膠油 and 格蓬油 are Taiwan public product names; they must not be shortened into an inferred plant name 格蓬香.",
+    "Do not substitute 阿魏: Taiwan TFDA material identifies the official 阿魏 medicinal source as Ferula sinkiangensis, a different species.",
+    "External taxonomy and product-name evidence does not import flavor, medicinal, chemical, or safety claims into the Köhler book-fact layer.",
+    "No Taiwan occurrence claim was established.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "1dd97aeadf85c2c71ae76a07c0c657031030cc7f5004cfda15d08241c10238b3",
+    "maker_receipt_sha256": "c6dea3ef2e69eaffbd7db5dc91b94748ea9062cfdfef68349207a8a41477357b",
+    "validation_check_sha256": "7896ac5b0f018744cc49e95236ad04a85bd322433b39be3d7274c179ac0d5941",
+    "source_disposition_sha256": "638b6a42f272f10f02a1c6a53cc99f31a9575f3687547153ec2777970f7a2313",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "c6dea3ef2e69eaffbd7db5dc91b94748ea9062cfdfef68349207a8a41477357b",
+      "validation_check_sha256": "7896ac5b0f018744cc49e95236ad04a85bd322433b39be3d7274c179ac0d5941",
+      "source_disposition_sha256": "638b6a42f272f10f02a1c6a53cc99f31a9575f3687547153ec2777970f7a2313"
+    },
+    "naming_artifact_sha256": "b03cace38fec41c4c1495185c05a5e1e54dd56ca8dfdd15f515161fc11404da4"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "6c07167b3d57451d73cd75e69726a6cdfd62a2c2992f8d59b082f51a8a600621"
+}

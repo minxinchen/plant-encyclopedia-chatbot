@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-3:p0127-p0132",
+  "owner_shard": "S06",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S06/maker/structure-drafts/kohler-volume-3__p0127-p0132.json",
+  "source_draft_sha256": "8bf8032ebb00d103c21e9c3b713ac331b25595c7418b677f68fddf9a32a76cc4",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "4e61b8cc8ac321ec5cdef15eda221fb95c35381f6557acf6df0f029943fa94df",
+    "validation_check_sha256": "b13fbf06c5ee312dee8d4e2685e4051b34f37d39507281c35e513b12cc288f83",
+    "source_disposition_sha256": "27ee81847047aa084c9d60e3b0e6fb8a26f531d176463671c4ffc899a1d9479c",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Petroselinum sativum",
+    "authorship_candidate": "Hoffmann",
+    "aliases_candidates": [
+      "Apium Petroselinum L.",
+      "Apium vulagre Lam.",
+      "Apium latifolium Mill.",
+      "Apium crispum Mill.",
+      "Petroselinum hortense Hoffm.",
+      "Carum Petroselinum Benth. & Hook.",
+      "Petroselinum Petroselinum Karsten"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Petroselinum sativum",
+      "Apium petroselinum"
+    ],
+    "accepted_scientific_name": "Apium petroselinum",
+    "display_name_zh_tw": "美國香菜",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0061002",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol_book_alias"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary",
+    "rationale": "A scientific alias explicitly printed in the Köhler entry exactly matches a TaiCOL species with a Taiwan public name.",
+    "checked_at": "2026-08-13T15:30:42+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Petroselinum sativum",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Petroselinum+sativum",
+      "retrieved_at": "2026-08-13T15:30:41+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Apium petroselinum",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Apium+petroselinum",
+      "retrieved_at": "2026-08-13T15:30:42+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Apium petroselinum",
+          "taxon_id": "t0061002",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Apium petroselinum",
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0061002",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0061002",
+          "taxon": {
+            "taxon_status": "accepted",
+            "simple_name": "Apium petroselinum",
+            "name_author": "L.",
+            "rank": "Species",
+            "common_name_c": "美國香菜",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "The Taiwan accepted name is linked through a scientific alias printed in Köhler; Köhler facts remain attached to the book taxon."
+  ]
+}

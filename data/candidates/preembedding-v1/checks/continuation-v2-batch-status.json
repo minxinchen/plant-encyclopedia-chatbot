@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "lane": "continuation-v2",
+  "started_at": "2026-08-20T22:47:46+08:00",
+  "status": "complete",
+  "dependency": {
+    "primary_batch_status": "complete",
+    "primary_batch_started_at": "2026-08-13T11:34:05+08:00",
+    "required_status": "complete"
+  },
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "endpoint": "http://127.0.0.1:18080/v1/chat/completions",
+  "package_count": 46,
+  "valid_receipts_before_run": 44,
+  "processed_this_run": 2,
+  "pass_this_run": 2,
+  "needs_review_this_run": 0,
+  "remaining": 0,
+  "current_package_id": null,
+  "errors": [],
+  "safety": {
+    "external_model_calls": 0,
+    "incremental_usd": 0,
+    "canonical_writes": false,
+    "embedding_calls": false,
+    "taiwan_name_resolution": false,
+    "layout_or_plate_approval": false
+  },
+  "updated_at": "2026-08-20T22:47:46+08:00",
+  "status_sha256": "eec048ab750b6c1b8cf3aaa3c756305e738514ae7db677bd537613a7e9c8a49e"
+}

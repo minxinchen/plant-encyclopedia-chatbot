@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 621,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "ad81f2e57df0a89c70067a705fa2b89273e40fb35d5168aa323267e4e5366b3d",
+  "render_dpi": 144,
+  "render_sha256": "74314468b5db251149dc6f1b5d2ee4e7a9e5945db7fef837b4d130a1930420b5",
+  "input_sha256": "74314468b5db251149dc6f1b5d2ee4e7a9e5945db7fef837b4d130a1930420b5",
+  "render_pixel_width": 5642,
+  "render_pixel_height": 7910,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.054,
+  "embedded_character_count": 180,
+  "ocr_character_count": 47,
+  "ocr_alpha_ratio": 0.8298,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.02699525961800231,
+      "text": "Piperaceae.",
+      "width": 0.13301894993045893,
+      "x": 0.8151889146165827,
+      "y": 0.9081087156545008
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02331349206349209,
+      "text": "-Piper angustifolium Ruiz et Pavon.",
+      "width": 0.3910387063059588,
+      "x": 0.29531567663317126,
+      "y": 0.09300595196757144
+    }
+  ],
+  "text": "Piperaceae.\n-Piper angustifolium Ruiz et Pavon.",
+  "output_sha256": "f89982245b7bb14409b426e3804175c3043150aa5b0dd1872a23aad825441a91",
+  "receipt_sha256": "dd8ed0ff6389f1f28c628bd2c565cd1d81ffa8ce94c65598487215e59e8b0ba0"
+}

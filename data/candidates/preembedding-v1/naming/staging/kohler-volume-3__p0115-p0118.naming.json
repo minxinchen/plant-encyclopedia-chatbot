@@ -1,0 +1,154 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-3:p0115-p0118",
+  "owner_shard": "S06",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S06/maker/structure-drafts/kohler-volume-3__p0115-p0118.json",
+  "source_draft_sha256": "390a261fbcb41a9950af536d1c9da021729dd206c906ed42d1cfe52c420b61be",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "6ec711310c728b8dade82bdfaed0faa5698ff4b83a1476a45341296d006a18c8",
+    "validation_check_sha256": "57091be08f5048843163acd903f875e22fc5a7a8dc10c6d17a5952af4a87c4b1",
+    "source_disposition_sha256": "d2e14538d9d3fd58ad1987cdc05097f75071b4cc465fc557f144baa4227fabe8",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Cicuta virosa",
+    "authorship_candidate": "L.",
+    "aliases_candidates": [
+      "Cieutaria aquatica Lam.",
+      "Coriandrum Cicuta Roth",
+      "Cicuta aquatica Gesner",
+      "C. tenuifolia Koch",
+      "C. angustifolia Kitaibel"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Cicuta virosa"
+    ],
+    "accepted_scientific_name": "Cicuta virosa",
+    "display_name_zh_tw": "毒芹",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": null,
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "tai2"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary",
+    "rationale": "Tai2 exactly lists the book binomial as a main name or synonym and links it to this accepted species page.",
+    "checked_at": "2026-08-13T14:48:00+08:00",
+    "tai2_code": "999 990 551 47"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Cicuta virosa",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Cicuta+virosa",
+      "retrieved_at": "2026-08-13T14:47:54+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Cieutaria aquatica",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Cieutaria+aquatica",
+      "retrieved_at": "2026-08-13T14:47:54+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Coriandrum cicuta",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Coriandrum+cicuta",
+      "retrieved_at": "2026-08-13T14:47:54+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Cicuta aquatica",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Cicuta+aquatica",
+      "retrieved_at": "2026-08-13T14:47:54+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Cicuta virosa",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Cicuta%20virosa",
+      "retrieved_at": "2026-08-13T14:48:00+08:00",
+      "exact_result_count": 1,
+      "exact_results": [
+        {
+          "name": "<em>Cicuta</em> <em>virosa</em> L.",
+          "ebooksearch": "Cicuta virosa",
+          "simnametitle": "<em>Cicuta</em> <em>virosa</em>",
+          "type": "M",
+          "code": "999 990 551 47",
+          "apgfamily": "Apiaceae",
+          "chapgfamily": "繖形科",
+          "family": "Apiaceae",
+          "chfamily": "繖形科",
+          "genus": "Cicuta",
+          "chgenus": "毒芹屬",
+          "fern": "no",
+          "chname": "毒芹",
+          "comname": "",
+          "comtype": "",
+          "endetype": "Non-Taiwanese",
+          "result_type": "species"
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "species_url": "https://tai2.ntu.edu.tw/species/999%20990%20551%2047",
+      "accepted_species_record": {
+        "name": "<em>Cicuta</em> <em>virosa</em> L.",
+        "ebooksearch": "Cicuta virosa",
+        "simnametitle": "<em>Cicuta</em> <em>virosa</em>",
+        "type": "M",
+        "code": "999 990 551 47",
+        "apgfamily": "Apiaceae",
+        "chapgfamily": "繖形科",
+        "family": "Apiaceae",
+        "chfamily": "繖形科",
+        "genus": "Cicuta",
+        "chgenus": "毒芹屬",
+        "fern": "no",
+        "chname": "毒芹",
+        "comname": "",
+        "comtype": "",
+        "endetype": "Non-Taiwanese"
+      },
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

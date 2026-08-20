@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 605,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "9b5d6d5af91dd7cb537d25f4465c6779b09e2887d0888c69b10f158ecf937026",
+  "render_dpi": 144,
+  "render_sha256": "9d1faa36e85978015c5dce62614e911bffc55cf203b50fe50d9e9ba2e641f197",
+  "input_sha256": "9d1faa36e85978015c5dce62614e911bffc55cf203b50fe50d9e9ba2e641f197",
+  "render_pixel_width": 5690,
+  "render_pixel_height": 7862,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.245,
+  "embedded_character_count": 199,
+  "ocr_character_count": 36,
+  "ocr_alpha_ratio": 0.8611,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.019180623311845113,
+      "text": "Anacardiaceae.",
+      "width": 0.1647206882322545,
+      "x": 0.7951496959433328,
+      "y": 0.921368990905676
+    },
+    {
+      "confidence": 1,
+      "height": 0.020853913019573844,
+      "text": "Pistacia",
+      "width": 0.098590801152732,
+      "x": 0.40150781109784506,
+      "y": 0.09858467165760576
+    },
+    {
+      "confidence": 1,
+      "height": 0.01999047351261929,
+      "text": "Lentiscus I.",
+      "width": 0.1608816542962057,
+      "x": 0.5018884916300062,
+      "y": 0.101196624407766
+    }
+  ],
+  "text": "Anacardiaceae.\nPistacia\nLentiscus I.",
+  "output_sha256": "8188a1120910c5992d1e9d26e468dac10980d46daf3dabac1db0bbaab16362eb",
+  "receipt_sha256": "c0ee0e56472260eff0aa7f8270b78303ce6bad6c1e935377611aa4d8f26e65ff"
+}

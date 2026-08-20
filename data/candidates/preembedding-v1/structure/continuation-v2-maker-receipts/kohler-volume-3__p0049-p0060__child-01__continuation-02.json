@@ -1,0 +1,155 @@
+{
+  "schema_version": "2.0",
+  "package_id": "kohler-volume-3:p0049-p0060:child-01:continuation-02",
+  "parent_entry_id": "kohler-volume-3:p0049-p0060",
+  "child_entry_id": "kohler-volume-3:p0049-p0060:child-01",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation-v2:kohler-volume-3:p0049-p0060:child-01:continuation-02:v1",
+  "owner_shard": "S06",
+  "package_sha256": "a815bd1a8fafe2d45ec0760289f0bb08798e4d58306e309de50bf06446710901",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "prompt_version": "plant-structure-line-coordinates-v2",
+  "attempt_sha256": "e238ec2903b9e59931cbdb178e4842d80c445f57d358116b024b8410bccadf4f",
+  "raw_response_sha256": "a10ce506b9ec10b4cdcdcdbc987ec05ad575cd82170639896f05002c1fddc7c0",
+  "elapsed_seconds": 13.23,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 55,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 443,
+      "char_end": 762,
+      "source_line_start": 8,
+      "source_line_end": 11,
+      "page_text_sha256": "bc60aae889a8a6775b12047b43f53bbe5455f1a1aef1b0ffbbcee14bb5175564",
+      "exact_text_sha256": "9716f43d88e918c5ac453bdcf7b81e4c931382bcaecb2abda84ba7740129b061",
+      "section_index": 0,
+      "section_type": "taxonomy"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 55,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 764,
+      "char_end": 2435,
+      "source_line_start": 13,
+      "source_line_end": 28,
+      "page_text_sha256": "bc60aae889a8a6775b12047b43f53bbe5455f1a1aef1b0ffbbcee14bb5175564",
+      "exact_text_sha256": "04c6c75cdcebfe2675106a6509d545588ca939ad1f1252c37462a4e570467532",
+      "section_index": 1,
+      "section_type": "description"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 55,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 2734,
+      "char_end": 4249,
+      "source_line_start": 34,
+      "source_line_end": 46,
+      "page_text_sha256": "bc60aae889a8a6775b12047b43f53bbe5455f1a1aef1b0ffbbcee14bb5175564",
+      "exact_text_sha256": "d3dcc9a5d3a310a86574d4f9071c724eb35129c7c002bad269ef85c5cd296103",
+      "section_index": 2,
+      "section_type": "harvest"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 56,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 2475,
+      "char_end": 3087,
+      "source_line_start": 28,
+      "source_line_end": 34,
+      "page_text_sha256": "17e1c8138c16ff2d1d4bcd22dd682b15895a23408c312508d4f6c331385a037d",
+      "exact_text_sha256": "9f8194c6f2dbc6c7b8c3d039d1d61d0763d2bde60a68c58b0b54e648b4ac6c1e",
+      "section_index": 3,
+      "section_type": "history"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 56,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 3089,
+      "char_end": 3331,
+      "source_line_start": 36,
+      "source_line_end": 38,
+      "page_text_sha256": "17e1c8138c16ff2d1d4bcd22dd682b15895a23408c312508d4f6c331385a037d",
+      "exact_text_sha256": "570d7831d0019ad499a07984dcd0d46c190e2b947669c754c5ad850a192187e9",
+      "section_index": 4,
+      "section_type": "constituents"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-3:p0049-p0060:child-01:continuation-02",
+    "parent_entry_id": "kohler-volume-3:p0049-p0060",
+    "book_taxon": {
+      "scientific_name_candidate": "Payena Leerii"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 55,
+        "source_line_range": [
+          8,
+          11
+        ],
+        "exact_source_quote": "                                         Sapota                Mülleri                 Bleck.\n                                      Sapotillbaum,           Sternapfelbaum,           Bully-tree.\n\n           Syn. Mimusops Balata Gaertn. fil., Achras P. Brown,                                 Sideroxylon Bentham & Hooker."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 55,
+        "source_line_range": [
+          13,
+          28
+        ],
+        "exact_source_quote": "       Beschreibung. Ein milchsaftführender Baum von 10 bis 15 m Höhe, mit brauner Rinde\nund ausgebreiteter Krone. Die Äste sind wenig verzweigt, die Ästchen dick und am Ende\nbeblättert,     nach    unten nackt          und    narbig.      Die Blätter      sind wechselständig,               gestielt,     einfach,\nungeteilt, länglich elliptisch, spitz, kahl, fast glänzend, am Ende der Zweige gehäuft, 10—15 cm\nlang, 5—7 cm breit. — Die Blüten sind gestielt, einzeln in den Achseln oft schon abgefallener\nBlätter oder auch dem Holze entspringend, weisslich und lange stehen bleibend. Der Kelch\nist 6teilig, die drei äusseren Zipfel sind breiter                       und    kürzer, als die inneren,            letztere lebhafter\ngefärbt,      äussere    blassgelb.          Die    Corolla     ist    1 cm    lang,    nur     wenig      länger     als    der    Kelch,\nschwach sechsfurchig. Der Saum ist aufrecht, 6spaltig, die Zipfel eiförmig, konkav, stumpf,\nmit einem Spitzchen endigend ;am Schlunde befinden sich sechs längliche, konvex ausgerandete\nSchuppen, die mit den sechs kurzen, mit pfeilförmigen Antheren versehenen Staubgefässen ab-\nwechseln. Der Fruchtknoten ist etwas in den zottigen Blütenboden versenkt; der Griffel\npfriemlich, länger als die Corolle, die Narbe stumpf. — Die Frucht ist eine apfelähnliche\nBeere,      kuglig     oder   oval,    verschieden         gross,      aussen    mit einer rauhen,            mürben,       rostbraunen\nHaut,     innen     schmutzig      weiss,      10—12fächerig.            Die    Samen         sind     länglich     oval,    zusammen-\ngedrückt, glänzend schwarz, mit einem Spitzchen versehen und ohne Nährgewebe."
+      },
+      {
+        "section_type": "harvest",
+        "pdf_page": 55,
+        "source_line_range": [
+          34,
+          46
+        ],
+        "exact_source_quote": "         Produkte. Die Früchte des Baumes dienen als geschätztes Obst: Sapotilläpfel oder\nSternäpfel; der eingetrocknete Milchsaft ist die Balata Zur Gewinnung der Milch wurden\nfrüher, besonders auf Jamaica, die Bäume gefällt und der Milchsaft mit einem Quantum von\n3—6 kg    Batat a auf einma l gewo nnen ; gegen wärti g sucht man die Bäum e zu erhal ten. Man\nverwundet       sie jetzt durch        tiefe geneigte Einschnitte in die Rinde                       und fängt den ausfliessenden\nSaft in hölzernen oder Metallgefässen auf. Je nach der Art und Weise, in der dies geschieht,\ngelingt es, grössere          oder     geringere      Mengen          des Milchsaftes         zu ernten,      so dass       ein Arbeiter\ntäglich    bis zu   20  Liter   gewi  nnen    kann.      Der     Milch saft   wird      biswe ilen    in  Kale  bass  en     gefüll t\nund verka    uft   und   1  Gallo n   —    4  Liter   mit    1  Dolla  r   bezah  lt.      Lässt   man     den   Saft     aber    an\nder   Luft   eintr ockne n,   so  wird    das   Rohg  ummi        für  2  Shill ing     pro   1 kg   gekau ft.     Jeder     Baum\ngiebt   in  jährl icher   Ernte   0,3—0  ,5    kg   Balat a,     wenn     man       die   Anzap fstel  len   wechs  elt.      Hier-\ndurch gehen bei         schle chter    Beha  ndlu  ng    der   Pflan  zen   wohl     eine    gewis se   Anzah  l   derse   lben   zu\nGrunde, doch ist        die  Gefah  r   der   Ausro  ttung      gesc  hwun den.       —    Das   Rohp  rodu kt    hat    eine   röt-"
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 56,
+        "source_line_range": [
+          28,
+          34
+        ],
+        "exact_source_quote": "         Geschichte. Das Produkt ist seit 1859 durch Silver & Co. in den Handel gebracht\nund von W. Holmes 1862 auf der internationalen Ausstellung in London gezeigt worden.\nDadurch wurde es so bekannt, dass 1865 sein Export auf 10000 kg stieg, aber im Laufe der\nZeit wieder auf 1000 kg sank. Gegenwärtig ist seine Verwendung stark im Zunehmen be-\ngriffen, sodass z. B. 1882 von Berbice aus nicht weniger als 53000 kg exportiert wurden\n(Pharm. Ztg. 1886. 602). Auch auf der Pariser Ausstellung 1878 und der Ausstellung von\nHeil- und Nutzpflanzen              im Haag       1895 war    die Balata       vertreten."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 56,
+        "source_line_range": [
+          36,
+          38
+        ],
+        "exact_source_quote": "           Bestandteile.         Balata   scheint im wesentlichen dieselben Bestandteile zu besitzen, wie\nGutta     und     Kautschuk.          Sparlich fand darin 88,5°/, C und 11,3%, H.        Genauere Unter-\nsuchungen fehlen zur Zeit noch."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "25cd6abc2dac8e0035c4ad71825899a948409698dd1155c122344bf3adfcab92"
+}

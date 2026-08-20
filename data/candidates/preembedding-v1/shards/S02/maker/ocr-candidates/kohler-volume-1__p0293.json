@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 293,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "c6f83fe7bc69aa4c65892c787107ae775ee16a8a3a79f6a34816477591e4b02b",
+  "render_dpi": 144,
+  "render_sha256": "d826aaec5e6a69efe1e567caba3743d14749fbe3727a84e8bd69c97b071a1467",
+  "input_sha256": "d826aaec5e6a69efe1e567caba3743d14749fbe3727a84e8bd69c97b071a1467",
+  "render_pixel_width": 5414,
+  "render_pixel_height": 7874,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 5.677,
+  "embedded_character_count": 283,
+  "ocr_character_count": 53,
+  "ocr_alpha_ratio": 0.6792,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01764012139941018,
+      "text": "Loranthaceae",
+      "width": 0.11845469509196316,
+      "x": 0.7948952726435247,
+      "y": 0.9301334278881087
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "12",
+      "width": 0.019027484271777473,
+      "x": 0.8837209300099887,
+      "y": 0.29651162802243436
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "8",
+      "width": 0.010570824060261108,
+      "x": 0.7209302328958738,
+      "y": 0.2616279068489532
+    },
+    {
+      "confidence": 1,
+      "height": 0.016938349557301335,
+      "text": "WMüller n. d. Nat.",
+      "width": 0.11654753361601511,
+      "x": 0.8328467395644458,
+      "y": 0.13760640682496894
+    },
+    {
+      "confidence": 1,
+      "height": 0.017810312528458883,
+      "text": "Viscum",
+      "width": 0.0720690002001037,
+      "x": 0.37622765598055014,
+      "y": 0.11318786677166837
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185932098874,
+      "text": "1 album L",
+      "width": 0.10570824473107188,
+      "x": 0.4439746289558172,
+      "y": 0.11482558185840097
+    }
+  ],
+  "text": "Loranthaceae\n12\n8\nWMüller n. d. Nat.\nViscum\n1 album L",
+  "output_sha256": "f25475c5eeb6ece15beb1bbe3892a1bddfb261b092a590d29fb9971058861709",
+  "receipt_sha256": "41249037d3e7a842ae25bba03bf34cd566944c0ae9fc863874b2ff8c6e1b14a5"
+}

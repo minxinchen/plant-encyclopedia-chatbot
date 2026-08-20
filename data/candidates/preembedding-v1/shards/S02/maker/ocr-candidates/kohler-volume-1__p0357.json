@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 357,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "ab7129a1554095fdf2ef5cea203e4dc3effb3476e52f55481f6e3150360b20a8",
+  "render_dpi": 144,
+  "render_sha256": "c8e324cd27d38eafb75cbe0a4b1b0a0ea43d21710adcdb4e6d538fcd91fd457e",
+  "input_sha256": "c8e324cd27d38eafb75cbe0a4b1b0a0ea43d21710adcdb4e6d538fcd91fd457e",
+  "render_pixel_width": 5486,
+  "render_pixel_height": 7910,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.902,
+  "embedded_character_count": 842,
+  "ocr_character_count": 56,
+  "ocr_alpha_ratio": 0.6429,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.017570249618045874,
+      "text": "Lablatae.",
+      "width": 0.0818177961314015,
+      "x": 0.8846676227669178,
+      "y": 0.9287148749715136
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494425,
+      "text": "8",
+      "width": 0.010482180272049169,
+      "x": 0.8092243187738286,
+      "y": 0.28052325595463656
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "A",
+      "width": 0.012578616326458958,
+      "x": 0.6058700211868753,
+      "y": 0.22093023280683366
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "13",
+      "width": 0.018867923807518006,
+      "x": 0.7400419293960313,
+      "y": 0.1918604654992101
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "12",
+      "width": 0.018867923807518006,
+      "x": 0.8658280923677295,
+      "y": 0.17296511649242718
+    },
+    {
+      "confidence": 1,
+      "height": 0.02110974183158265,
+      "text": "W.Müllern.d. Nat.",
+      "width": 0.12185352418214634,
+      "x": 0.8069977655538549,
+      "y": 0.13915443155926055
+    },
+    {
+      "confidence": 1,
+      "height": 0.024676872624291413,
+      "text": "Lavandula vera J.C",
+      "width": 0.20786856240639529,
+      "x": 0.39606571764713405,
+      "y": 0.10684761043208701
+    }
+  ],
+  "text": "Lablatae.\n8\nA\n13\n12\nW.Müllern.d. Nat.\nLavandula vera J.C",
+  "output_sha256": "69ba169e14f3667804306acce6dc4090d08e83bcd97a50a3522b211057f8ffe6",
+  "receipt_sha256": "c39b8f704cfd0156bb04854009ae59918a294b501d45705b98996892f86ce4ec"
+}

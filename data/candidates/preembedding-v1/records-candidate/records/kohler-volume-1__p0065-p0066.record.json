@@ -1,0 +1,255 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0065-p0066",
+  "entry_id": "kohler-volume-1:p0065-p0066",
+  "owner_shard": "S01",
+  "book_taxon": {
+    "scientific_name": "Ruta graveolens",
+    "authorship": "L.",
+    "aliases": [
+      "Ruta hortensis Miller"
+    ]
+  },
+  "display_name": "臭芙蓉",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Ruta graveolens"
+    ],
+    "accepted_scientific_name": "Ruta graveolens",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T16:51:36+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Ruta+graveolens",
+        "query_name": "Ruta graveolens",
+        "retrieved_at": "2026-08-13T16:51:36+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0075710",
+        "query_name": "Ruta graveolens",
+        "retrieved_at": "2026-08-13T16:51:36+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0075710",
+        "query_name": "Ruta graveolens",
+        "retrieved_at": "2026-08-13T16:51:36+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL accepts the queried book binomial at species rank."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 65,
+      "evidence_type": "text",
+      "page_text_sha256": "5fd5bc4223e05d1cd6e20ab5fe63c4bee497560b0f5d82787c972163517e559b",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 66,
+      "evidence_type": "text",
+      "page_text_sha256": "ac014320ef7946a83b6ed9bd49ae1c73906c6b21140c150e8049f7d2b5f6345a",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0065-p0066:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                           Ruta graveolens L.\n                                            Syn. Ruta hortensis Miller.\n\n                                  Gartenraute, Weinraute                   Rue          Rue.\n\n          Familie: Rntaceae.           Gattung: Ruta L.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Ruta graveolens L.，異名 Ruta hortensis Miller。德語名 Gartenraute，英語名 Rue。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 65,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 139,
+        "char_end": 423,
+        "page_text_sha256": "5fd5bc4223e05d1cd6e20ab5fe63c4bee497560b0f5d82787c972163517e559b",
+        "exact_text_sha256": "6fa3f0de676314641ac328322d8d26eccda174660028f12cc2f3e472ba690320",
+        "source_line_start": 6,
+        "source_line_end": 11,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "6fa3f0de676314641ac328322d8d26eccda174660028f12cc2f3e472ba690320",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0065-p0066:s01:x00",
+      "section_type": "description",
+      "original_text": "          Beschreibung.          Ausdauernde, 0,30- 1,00          m hohe, am Grunde oft halbstrauchartige Staude\n                            Wurzel\nverzweigten oder einfachen, runden, griinen nnd braunen, weisslich bereiften, glatten Stengeln.                           Blatter\n\nabwechselnd, gestielt, die obersten einfachen sitzend, doppelt                 bis                   im Umrisse fast\n                                                                                     3fach fiedertheilig   ,\n\n\n\n\ndreieckig, die grosser en 10 cm lang   und 6 cm breit.             Fiederabschnitte spatel- bis verkehrt - eiformig, an\nder Spitze breit     gerundet, ganzrandig oder schwach gekerbt-gesagt; nach oben werden                             die   Blatter\n\neinfacherund gehen allmahlig in die einfachen, laubigen Deckblatter der Bllithenaste iiber.                         Alle Blatter",
+      "normalized_text": null,
+      "zh_tw_rendering": "多年生草本，高 0.3-1.0 米。莖圓形，葉互生，上部單葉，下部二至三回羽狀分裂，葉片三角形。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 65,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 424,
+        "char_end": 1312,
+        "page_text_sha256": "5fd5bc4223e05d1cd6e20ab5fe63c4bee497560b0f5d82787c972163517e559b",
+        "exact_text_sha256": "63be5ce5d1c0808e8e865b7e9feefe1da4d028ac2a3a7ea1c30d279feb6ee855",
+        "source_line_start": 12,
+        "source_line_end": 25,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "63be5ce5d1c0808e8e865b7e9feefe1da4d028ac2a3a7ea1c30d279feb6ee855",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0065-p0066:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "          Anatomisches : Die Rinde des Stammes besteht aus einer dicken Korklage, unter welcher sich die, im Quer-\nschnitte ein doppelschichtiges Parenchym zeigende Mittelrinde befindet. Die aussere, an den Kork grenzende Schicht\ndieses Parenchyms   besteht aus  Zellen, die  theils  mit  einem  gelblich-grunen  Chlorophyll,   theils mit  einer feinkornigen,\n\ntheils mit  einer  grobkornigen    Substanz   ertullt  sind,  in deren   ausserer Lage   ein  weitlaufiger  Kreis  von grosseren,\n\ngriinlich-gelben  Oelbehaltern  befindlich ist.   Die  innere  Schicht  dieser Mittelrinde   besteht  aus  ahnlichen Parenchym-\nzellen mit gleichem   Inhalte,  nur fehlen  hier  die Chlorophyll zellen, die durch  Gruppen   von  Zellen ersetzt  werden,\n\nderen Inhalt aus  morgensternformigen   Krystalldrusen  besteht.  Die Innenrinde besteht aus Biindeln von  Bastparenchym,\ndie durch 1-, selten 2reihige  Markstrahlen   von  einander  getrennt werden.    Die krautigen  Zweige  besitzen  2  Reihen\nvon Epidermalzellen, sind ohne Kork und enthalten ein schwammiges, weisses Mark.",
+      "normalized_text": null,
+      "zh_tw_rendering": "莖皮含厚木栓層，皮層含黃綠色葉綠體及油囊。內皮層含星狀晶體。草本莖無木栓，髓部海綿狀。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 65,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 3213,
+        "char_end": 4284,
+        "page_text_sha256": "5fd5bc4223e05d1cd6e20ab5fe63c4bee497560b0f5d82787c972163517e559b",
+        "exact_text_sha256": "d2183bbe87306669129dd609b9316a5c2719de1db3ab4995a5b48246f657e5da",
+        "source_line_start": 63,
+        "source_line_end": 74,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "d2183bbe87306669129dd609b9316a5c2719de1db3ab4995a5b48246f657e5da",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0065-p0066:s03:x00",
+      "section_type": "distribution",
+      "original_text": "            Verbreitung.        Im Grebiet des Mittellandischen Meeres.              In Deutschland und andern Landern\n\nin den Garten als Arzneipflanze kultivirt             und hier und da verwildert.",
+      "normalized_text": null,
+      "zh_tw_rendering": "分布於地中海地區。在德國等地作為藥用植物栽培，偶有逸生。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 65,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4286,
+        "char_end": 4487,
+        "page_text_sha256": "5fd5bc4223e05d1cd6e20ab5fe63c4bee497560b0f5d82787c972163517e559b",
+        "exact_text_sha256": "486afcaf37847042f4df5ee47658a0c46ece080c1d0fdd3354b917aa1581efcd",
+        "source_line_start": 76,
+        "source_line_end": 78,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "486afcaf37847042f4df5ee47658a0c46ece080c1d0fdd3354b917aa1581efcd",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0065-p0066:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "         Die Grartenraute findet schon in  den  hypokratischen  Schriften  als Tttjyavov  Erwahnung;    sie ist\n\n                                      den  fruhesten Zeiten (irrthiimlicherweise) als ein  vorzugliches Mittel\nein uraltes Arzneimittel und gait  in\n                                       Schierlingssaft.   Das  Kraut  bildete  einen  Hauptbestandtheil     des\ngegen  Vergiftung, namentlich durch\n                          Mithridat genannt, jenes aus 54 meist erhitzenden Ingredienzen zusammen-\nmithridatischen Antidots,",
+      "normalized_text": null,
+      "zh_tw_rendering": "希波克拉底文獻中已提及。歷史上誤作解毒劑，為米特里達提解毒藥主要成分。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 65,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 5205,
+        "char_end": 5739,
+        "page_text_sha256": "5fd5bc4223e05d1cd6e20ab5fe63c4bee497560b0f5d82787c972163517e559b",
+        "exact_text_sha256": "6f7ebc01234d93b56821556f75cc812f32d6d0afeaf4952577b973b691d47e1b",
+        "source_line_start": 90,
+        "source_line_end": 97,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "6f7ebc01234d93b56821556f75cc812f32d6d0afeaf4952577b973b691d47e1b",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0065-p0066:s05:x00",
+      "section_type": "constituents",
+      "original_text": "            Bestandtheile.                            Neb en Apfelsaure, Harz etc. enthalt das Kraut ca. */4 °/                             i\n                                                                                                                                                    die Fruchte ca. 1 °, o\natherisches Oel,                  welches entweder farblos                   ist    oder schwach gelblich erscheint und einen                                  angenehmen\nGeruch     besitzt,              mit einem spec. Gew. von 0.03                       — 0.84.      Es         erstarrt       bei   1   bis            2° zu glanzenden\nBlattchen und               ist    zusammengesetzt aus einem unter 200° siedenden Kohlenwasserstoff und einem sauer-\nstoffhaltigen         ,    in    reinem Zustande bei 225                   — 236° siedenden, blaulich violett fluorescirenden, bei +6°\n                                                                                                                        -\n\nkrystallinisch erstarrenden Oele                           von 0.826        spez. Gewichte.            Die Untersuchungen von Gorup,                                   Grimm\nund Giesecke haben das Ergebniss                                      geliefert,    dass      der sauerstoffhaltige Bestandtheil des Eautenoles\naus Methylcaprinol oder Methylpelargonylketon                                                 H 10 (CH",
+      "normalized_text": null,
+      "zh_tw_rendering": "含蘋果酸、樹脂及約 1/4% 揮發油。油含烴及含氧成分（甲基十一酮）。葉含結晶性路丁。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 66,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 1928,
+        "char_end": 3371,
+        "page_text_sha256": "ac014320ef7946a83b6ed9bd49ae1c73906c6b21140c150e8049f7d2b5f6345a",
+        "exact_text_sha256": "53d863535e21894a19492cc2068284d9ba088bed3fa13bad2bfeffe8658cf753",
+        "source_line_start": 35,
+        "source_line_end": 45,
+        "section_index": 5,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "53d863535e21894a19492cc2068284d9ba088bed3fa13bad2bfeffe8658cf753",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "a4b04cd9dd99c8dd37fe2d4aed2f48bbee5a319f116b3dc6e505f668a2067292",
+    "maker_receipt_sha256": "03faa5cc2d40d077d0b72ab1770ff5655c01dd96c0397d4f7974bd33d279d93a",
+    "validation_check_sha256": "215c4bd1240cf97eff71e8c5ae104d8a049b1772b2e227f3614db97ac8f5e167",
+    "source_disposition_sha256": "5b210ac03a394c9beb1a6278145a99930c3ea137afcb576b29367c284d711b5a",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "03faa5cc2d40d077d0b72ab1770ff5655c01dd96c0397d4f7974bd33d279d93a",
+      "validation_check_sha256": "215c4bd1240cf97eff71e8c5ae104d8a049b1772b2e227f3614db97ac8f5e167",
+      "source_disposition_sha256": "5b210ac03a394c9beb1a6278145a99930c3ea137afcb576b29367c284d711b5a"
+    },
+    "naming_artifact_sha256": "e533b4832f7657574744c9fd7d8f959e57744f2b612f121f1a5dfbf8ac031704"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "cf473aade0b5bbf3ac011614c9f6b9c8775197c67f136ca74053b85ab6984436"
+}

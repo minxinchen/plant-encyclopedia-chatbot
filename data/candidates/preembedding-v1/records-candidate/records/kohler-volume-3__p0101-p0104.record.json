@@ -1,0 +1,279 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-3-p0101-p0104",
+  "entry_id": "kohler-volume-3:p0101-p0104",
+  "owner_shard": "S06",
+  "book_taxon": {
+    "scientific_name": "Papaver Rhoeas",
+    "authorship": "L.",
+    "aliases": [
+      "Papaver erraticum (Plin.) J. Bauh.",
+      "Klatschrose",
+      "Klatschmohn",
+      "Kornrose",
+      "roter oder wilder Mohn",
+      "Red Poppy",
+      "Corn-Poppy",
+      "Coquelicot",
+      "Pavot rouge",
+      "Ponceau",
+      "Pos",
+      "Amapola",
+      "Klaprozen",
+      "Kornrozen",
+      "Papoila vermelha",
+      "Paparone",
+      "Mas de camp",
+      "Rosolaccio",
+      "Vilde Kornros",
+      "Valmode",
+      "Klapperose"
+    ]
+  },
+  "display_name": "虞美人",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Papaver Rhoeas",
+      "Papaver rhoeas"
+    ],
+    "accepted_scientific_name": "Papaver rhoeas",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T14:06:46+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Papaver+Rhoeas",
+        "query_name": "Papaver Rhoeas",
+        "retrieved_at": "2026-08-13T14:06:46+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0024451",
+        "query_name": "Papaver Rhoeas",
+        "retrieved_at": "2026-08-13T14:06:46+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0024451",
+        "query_name": "Papaver Rhoeas",
+        "retrieved_at": "2026-08-13T14:06:46+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Papaver+rhoeas",
+        "query_name": "Papaver rhoeas",
+        "retrieved_at": "2026-08-13T14:06:46+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0054693",
+        "query_name": "Papaver rhoeas",
+        "retrieved_at": "2026-08-13T14:06:46+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0054693",
+        "query_name": "Papaver rhoeas",
+        "retrieved_at": "2026-08-13T14:06:46+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL accepts the queried book binomial at species rank."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 101,
+      "evidence_type": "text",
+      "page_text_sha256": "18c911529f4111644a696a991bb9d85da5020af66ead25863a5565cef7d6270e",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 102,
+      "evidence_type": "text",
+      "page_text_sha256": "b00196c76fee913f84432d4cc9bf70406700664affb3c6aa28c4cb6ef9776e16",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 103,
+      "evidence_type": "text",
+      "page_text_sha256": "4c3424f84242a9053dd648dadf3df0b35a47710f909c8f16ce4d450867faff18",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-3:p0101-p0104:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                   Papaver             Rhoeas           L,\nKlatschrose, Klatschmohn, Kornrose, roter oder wilder Mohn. Engl.: Red Poppy, Corn-\nPoppy.     Franz.: Coquelicot, Pavot rouge, Ponceau.   Griech.: “Pos.   Span.: Amapola.\nHoll.: Klaprozen, Kornrozen. Port.: Papoila vermelha.      Rum.: Paparone, Mas de camp.\n        Ital.: Rosolaccio.   Schwed.: Vilde Kornros, Valmode.   Dän.: Klapperose.\n\n        Syn. Papaver erraticum (Plin.) J. Bauh.\n        Familie:     Papaveraceae Juss.     Unterfamilie:        Eupapaveraceae      Gattung:      Papaver L.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Papaver Rhoeas L.，屬罌粟科。別名包括 Klatschrose、Kornrose 及紅罌粟。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 101,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 575,
+        "page_text_sha256": "18c911529f4111644a696a991bb9d85da5020af66ead25863a5565cef7d6270e",
+        "exact_text_sha256": "eeb8906f8b03f77d2a0f603824b79e9eea06b61d5686f73c3d210c027dfd66c9",
+        "source_line_start": 1,
+        "source_line_end": 8,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "eeb8906f8b03f77d2a0f603824b79e9eea06b61d5686f73c3d210c027dfd66c9",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0101-p0104:s01:x00",
+      "section_type": "description",
+      "original_text": "        Besehreibung. Die einjährige milchende Pflanze hat eine weissliche dünne, wenig\nästige Pfahlwurzel, aus der vereinzelte gekrümmte Nebenwurzeln und Wurzelfasern ent-\nspringen.    Auf  dem   Wurzelkopf    entspringen   einzelne, selten mehrere,   ziemlich    steif\naufrechte, 30—80 cm hohe, selten einfache, öfters schon vom Grunde aus ästige stielrunde\nStengel,   welche  dicht mit   rechtwinkelig    abstehenden,  am    Grunde verdickten    langen\nborstigen Haaren bekleidet sind.   Die Blätter sind mattgrün, wechselständig, nicht stengel-\numfassend, einfach und geteilt; Nebenblätter fehlen.     Die grundständigen Blätter sind\nsestielt, länglich oder länglich-lanzettlich, mit einfachen, spitzen, gezahnten Fieder-\nlappen, oder auch doppelt fiederspaltig, wenn die Pflanze auf magerem Boden steht\nund die Blattsubstanz     sich nicht sehr üppig entwickelt.    —    Die   stengelständigen    sind\nsitzend, zunächst dreiteilig, mit grösserem Mittelzipfel; jeder Zipfel wiederum       ist einfach\nfiederspaltig; die Lappen sind an allen Blättern länglich eiförmig, spitz, in ein Spitzchen aus-\nlaufend und am Rande bisweilen noch gesägt. — Die Blätter sind, ebenso wie der übrige\nsrüne Teil der Pflanze, auf allen Seiten rauhhaarig. Steht sie aber auf sehr feuchtem Boden, so\nnimmt die Behaarung mehr und mehr ab, sodass die Blätter schliesslich ganz kahl sind und\nnur auf den Nerven einzelne lange, kräftige Haare sitzen. Die Blüten stehen einzeln in den",
+      "normalized_text": null,
+      "zh_tw_rendering": "一年生乳汁植物，具白色細主根。莖高 30-80 公分，密被直立的長刺毛。葉互生，無柄或具柄，邊緣鋸齒狀。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 101,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 576,
+        "char_end": 2039,
+        "page_text_sha256": "18c911529f4111644a696a991bb9d85da5020af66ead25863a5565cef7d6270e",
+        "exact_text_sha256": "6ba414bac2f1a59b9595cda21d8475d8e26163e41175672239ed53887bc3b3d5",
+        "source_line_start": 9,
+        "source_line_end": 24,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "6ba414bac2f1a59b9595cda21d8475d8e26163e41175672239ed53887bc3b3d5",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0101-p0104:s02:x00",
+      "section_type": "distribution",
+      "original_text": "            Vorkommen.            Die Pflanze     stammt   aus     dem    Orient, wo   sie sich u.a.       am Euphrat            und\nin Palästina findet; nach De Candolle hat sie ihre Heimat in Sizilien, Griechenland, Dal-\nmatien, vielleicht auch im südlichen Kaukasus; verbreitet ist sie indessen im südlichen und\nmittleren Europa, in England, Schottland und Irland, sowie im südlichen Schweden; ferner\nauf Madeira, den Azoren und Cap Verdischen Inseln, im nördlichen Afrika und in Abyssinien,\nwo sie bis 3000 m hoch steigt.     Dagegen fehlt sie in Nordamerika und soll auch (nach\nFlückiger und Hanbury) in Indien nicht vorkommen. (s. u.)",
+      "normalized_text": null,
+      "zh_tw_rendering": "原產東方，如幼發拉底河及巴勒斯坦。分佈於南歐、中歐、英國、愛爾蘭及北非，海拔可達 3000 公尺。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 102,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 2090,
+        "char_end": 2730,
+        "page_text_sha256": "b00196c76fee913f84432d4cc9bf70406700664affb3c6aa28c4cb6ef9776e16",
+        "exact_text_sha256": "fbfda95cffd7ff31dafc6a085663d49c826b7b3258923830cbe58a8cf0381b29",
+        "source_line_start": 30,
+        "source_line_end": 36,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "fbfda95cffd7ff31dafc6a085663d49c826b7b3258923830cbe58a8cf0381b29",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0101-p0104:s03:x00",
+      "section_type": "constituents",
+      "original_text": "           Bestandteile. In den getrockneten Blumenblättern fand Riffart 12°/, Fett, 40°], Farb-\n  stoff, 20°, Gummi, 28°/, Zellfaser und Asche. — Letztere analysierte Warden: Er fand\n  3,86 Eisenoxyd, 1,23 Alumininoxyd, 5,61 Magnesia, 10,72 Kalk, 41,76 Kali, 12,25 Ohlorkalium,\n  1,21 Chlornatrium, 3,85 Schwefelsäure, 5,61 Phosporsäure, 13,86 Kieselsäure. — Der Farbstoff\n  wurde 1846 von L. Meyer analysiert. Er isolierte zwei Säuren: Rhoeadinsäure, welche sich in\n  Wasser tiefrot löst, und Klatschrosensäure, die Wasser nur rosa färbt.     Der Farbstoff wird\n  durch Alaun und Bleizucker gefällt, durch Eisenchlorid und Kalilauge schwarzbraun gefärbt.\n  Selmi    u. A.    wollten           in   den   Blättern   Morphin      gefunden      haben,   was      insbesondere     Hesse\n bestritt und auf das in der ganzen Pflanze enthaltene Rhoeadin zurückführte.      Rhoeadin\n OH H#NO® entdeckte Hesse 1865 in dem Milchsaft der Pflanze und wies nach, dass es sich in\n allen Teilen derselben vorfinde. Im Opium ist es nicht enthalten. Zur Darstellung wird der",
+      "normalized_text": null,
+      "zh_tw_rendering": "乾花瓣含脂肪、色素、樹膠及纖維。含 Rhoeadinsäure 與 Klatschrosensäure。Hesse 於 1865 年發現生物鹼 Rhoeadin。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 103,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 960,
+        "char_end": 2019,
+        "page_text_sha256": "4c3424f84242a9053dd648dadf3df0b35a47710f909c8f16ce4d450867faff18",
+        "exact_text_sha256": "3a42da38d0687994f131865ca00c6524a9c105da3e984eb8204ecd6b86ab019f",
+        "source_line_start": 15,
+        "source_line_end": 25,
+        "section_index": 3,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "3a42da38d0687994f131865ca00c6524a9c105da3e984eb8204ecd6b86ab019f",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0101-p0104:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "          Anwendung. In der Heilkunde dienen die Flores Rhoeados ihres Schleimgehaltes wegen\n als einhüllendes, linderndes Mittel und sind als solches Bestandteil von Brusttheemischungen.\n Klatschrosensaft, namentlich solcher aus frischen Blumenblättern, soll für kleine Kinder be-\n ruhigend wirken. Die jungen Blätter werden in manchen Gegenden als Gemüse gegessen. —\n Als Schmuck dient die Pflanze den Feldern und Gärten; in letzteren wird sie in zahlreichen\n Varietäten kultiviert.               Auch in früherer Zeit hat man die Blume schon geliebt.                        Flückiger\n  erzählt, dass man sie auf Pompejanischen Wandmalereien finde, sowie, dass Schweinfurt\n. die Blumenblätter in altägyptischen. Gräbern des oberen Nilgebietes gefunden habe, deren\n  Alter auf 3000 Jahre zu schätzen sind.   Vielleicht haben sie den alten Aegyptern als Sinnbild\n  der Vergänglichkeit gegolten.",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史上用作包裹性、緩和劑，用於胸茶。花汁據稱可安撫幼兒。嫩葉曾作蔬菜。古埃及視為無常象徵。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 103,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 3285,
+        "char_end": 4179,
+        "page_text_sha256": "4c3424f84242a9053dd648dadf3df0b35a47710f909c8f16ce4d450867faff18",
+        "exact_text_sha256": "5957d52553c35870919d11e4b0e6853c9856361dfbfd4311c2d63c45f98fa034",
+        "source_line_start": 41,
+        "source_line_end": 50,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "5957d52553c35870919d11e4b0e6853c9856361dfbfd4311c2d63c45f98fa034",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "15e1d61f4c891bd0aeb738019433f0a486e9edcc86314a194b97ad250445b817",
+    "maker_receipt_sha256": "5228f6fcc355b81f55a6d9217d539037ffa0da30e6081faa3fc99b97654f274b",
+    "validation_check_sha256": "63c0ff4cda45dc239d716c8743d9d28e69a6994d40c935c1d63d09f02ea3affd",
+    "source_disposition_sha256": "c8cee36a348734413cd92f184514c567132be06578a2b9104dddb59c774dc727",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "5228f6fcc355b81f55a6d9217d539037ffa0da30e6081faa3fc99b97654f274b",
+      "validation_check_sha256": "63c0ff4cda45dc239d716c8743d9d28e69a6994d40c935c1d63d09f02ea3affd",
+      "source_disposition_sha256": "c8cee36a348734413cd92f184514c567132be06578a2b9104dddb59c774dc727"
+    },
+    "naming_artifact_sha256": "d3e818745ad62b1b9ca9f551577c8f2feea8e8ee1667fa5eb2878bdf94156e0a"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "89a709d2b9bc72146c1f9a4d374140d195a77bd7f91e4da6fe8a2399895ed3b5"
+}

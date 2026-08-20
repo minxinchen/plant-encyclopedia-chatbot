@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 711,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "a454c7a2770985f6b350d43c3293c8e6b0fef22a5bd7bf409382ace5a81ddda8",
+  "render_dpi": 144,
+  "render_sha256": "e79cc9362ac26381e0b796b0f05100d3f9786ad8c040e872d46c3b37cd297539",
+  "input_sha256": "e79cc9362ac26381e0b796b0f05100d3f9786ad8c040e872d46c3b37cd297539",
+  "render_pixel_width": 5438,
+  "render_pixel_height": 7754,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.387,
+  "embedded_character_count": 18,
+  "ocr_character_count": 45,
+  "ocr_alpha_ratio": 0.7556,
+  "candidate_disposition": "candidate_quality_gain",
+  "staging_disposition": "candidate_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.02223472935812809,
+      "text": "Lingiberaceae.",
+      "width": 0.18260421645017455,
+      "x": 0.7906854716910847,
+      "y": 0.9409175189819315
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "6",
+      "width": 0.012422359310079983,
+      "x": 0.15527950367829332,
+      "y": 0.22529069785143896
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017727646562788246,
+      "text": "burcum a",
+      "width": 0.10203079590534386,
+      "x": 0.343209515789983,
+      "y": 0.06980376920260012
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0182715786827935,
+      "text": "Zedoaria",
+      "width": 0.11205888502668626,
+      "x": 0.46985047606890684,
+      "y": 0.07225955952176388
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018226033165341327,
+      "text": "Roscoe",
+      "width": 0.06872269388978525,
+      "x": 0.5981438284008826,
+      "y": 0.07228233243632232
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "181",
+      "width": 0.028985507754659134,
+      "x": 0.9047619041454448,
+      "y": 0.02034883720263525
+    }
+  ],
+  "text": "Lingiberaceae.\n6\nburcum a\nZedoaria\nRoscoe\n181",
+  "output_sha256": "5f537900642ce94b8fd712d4b6fde13cadf8530bba41fdce58b6b16032c7842d",
+  "receipt_sha256": "ae7f10ecd7263c782e160cad5a84fb3579df7d81a7811171308449889412512c"
+}

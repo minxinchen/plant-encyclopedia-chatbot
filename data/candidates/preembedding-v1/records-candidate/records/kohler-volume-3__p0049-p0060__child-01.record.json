@@ -1,0 +1,407 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-3-p0049-p0060-child-01",
+  "entry_id": "kohler-volume-3:p0049-p0060:child-01",
+  "owner_shard": null,
+  "book_taxon": {
+    "scientific_name": "Payena Leerii",
+    "authorship": null,
+    "aliases": []
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Payena Leerii",
+      "Payena leerii"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-20T23:03:34+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Payena+Leerii",
+        "query_name": "Payena Leerii",
+        "retrieved_at": "2026-08-20T23:02:56+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0014186",
+        "query_name": "Payena Leerii",
+        "retrieved_at": "2026-08-20T23:02:56+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0014186",
+        "query_name": "Payena Leerii",
+        "retrieved_at": "2026-08-20T23:02:56+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Payena+leerii",
+        "query_name": "Payena leerii",
+        "retrieved_at": "2026-08-20T23:02:56+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 49,
+      "evidence_type": "text",
+      "page_text_sha256": "47b8f8dc3e45279a5230c536a4956dc08f65994518ec48c6eb467d6305f60e40",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 51,
+      "evidence_type": "text",
+      "page_text_sha256": "f630af6333a268d72c391e9ce60d4ca1626b56ead56e1ceb6c6912527efd0c26",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 53,
+      "evidence_type": "text",
+      "page_text_sha256": "c689caa504a11f9d07413bda7f24aea2927571c05f8c8e57c5c68e48e5e9d5b0",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 55,
+      "evidence_type": "text",
+      "page_text_sha256": "bc60aae889a8a6775b12047b43f53bbe5455f1a1aef1b0ffbbcee14bb5175564",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 56,
+      "evidence_type": "text",
+      "page_text_sha256": "17e1c8138c16ff2d1d4bcd22dd682b15895a23408c312508d4f6c331385a037d",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-3:p0049-p0060:child-01:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                              Payena                  Leerii          Benth. & Hook.\n            Syn. Azaola Leerüü T.            & B.     Keratophorus Leerii Hassk.                Ceratophorus Leerii Mig.\n           Einheimische       Namen:         Balem-tjabeh,       Balem-tandoek,       Koelan,       Gueutta    oder     Getah          Seundek,\nNjatoeh balam bringin, Njatoeh balam soendai (Riauw), Njatoeh balam pipit, ferner Kulan in Bangka,\nNjatoeh ka-malan ranas in Borneo.\n\n            Familie: Sapotaceae; Gattung: Payena A. DC.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 49,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 539,
+        "source_line_start": 1,
+        "source_line_end": 7,
+        "page_text_sha256": "47b8f8dc3e45279a5230c536a4956dc08f65994518ec48c6eb467d6305f60e40",
+        "exact_text_sha256": "27e42dce932ab23c7d1100594731f202e61eede67cd9eac443c6b27dea76ed78",
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "27e42dce932ab23c7d1100594731f202e61eede67cd9eac443c6b27dea76ed78",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0049-p0060:child-01:s01:x00",
+      "section_type": "description",
+      "original_text": "        Beschreibung.   Ein Milchsaft                        führender Baum mit wechselständigen lederartigen\neinfachen, ungeteilten, ganzrandigen                         Blättern, die, von spitzer Basis ausgehend, oval\noder      oval-länglich „werden,            sich     plötzlich    zuspitzen;         beide      Seiten    sind      kahl,         die     Ober-\nseite     glänzend,     der    Rand         etwas      wellig;     ‚die    Spreite      misst      5—10        cm      in        die     Länge\nund 2,5—4 cm in die Breite; der Mittelnerv ist oben weniger, unten stärker hervortretend,\ndie Seitennerven sind in der Blattsubstanz verborgen und kaum erkennbar, gerade, abstehend,\nnach dem Rande zustrebend und hier sich bogenförmig vereinigend. Nebenblätter klein und\nhinfällig;    Blattstiel    5—7      mm     lang.      Die Blütenbüschel         stehen       an   den Enden kürzerer Zweige\ngedrängt;      sie    enthalten      4-8     achselständige        Blüten,       welche       in den     Achseln        oft       schon     ab-\ngefallener Blätter         entspringen.       Kelchzipfel        4, abgerundet,         eiförmig,     goldseidenhaarig,                 nahezu\ngleichlang,     lederartig,       3 mm      lang;     die Krone ist fast doppelt             so lang, innen         und aussen kahl;\nsie besitzt    eine    3 mm     lange Röhre           und    8 länglich-lanzettliche          abgestumpfte Zipfel von                     3 mm\nLänge.       Staubgefässe      16,    mit     kahlen        Filamenten     von   der Länge          der Staubbeutel.                   Letztere\nsind eiförmig, am Grunde herzförmig,                        durch ein mit angedrückten rostfarbenen Haaren be-\nsetztes    Connectiv       verbunden,       das mit pinseliger            Spitze die Antheren            überragt.          Der Frucht-\nknoten ist oberständig, konisch, 10—12fächerig und mit Haaren dicht bedeckt, und trägt an\nder Spitze den weit hervorragenden Griffel. Die Früchte sind fleischig, länglich-eiförmig,\nkonisch, in der Mitte oft leicht gekrümmt, 3—4 cm lang, mit dem Reste des zugespitzten\nStempels gekrönt. Die Frucht enthält nur einen cylindrisch-länglichen, 18—25 mm langen\nSamen mit seitlichem, länglichem Nabel. Die äussere Samenschale ist lederig, glänzend,\nbraun;      der Endosperm         reichlich         entwickelt,    weisslich     und hornartig,          und        umschliesst           einen\nEmbryo von gleicher Länge ; die Kotyledonen sind fleischig, aneinanderliegend; das Würzelchen\nist stielrund. (Nach Burck).",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 49,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 540,
+        "char_end": 3104,
+        "source_line_start": 8,
+        "source_line_end": 30,
+        "page_text_sha256": "47b8f8dc3e45279a5230c536a4956dc08f65994518ec48c6eb467d6305f60e40",
+        "exact_text_sha256": "ccfa9a07b2fffbd33618fb104437059b93fb27805e7dc846781496a9ec10e2ec",
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "ccfa9a07b2fffbd33618fb104437059b93fb27805e7dc846781496a9ec10e2ec",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0049-p0060:child-01:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "        Anatomisches. In der primären, wie auch sekundären Rinde des Baumes finden sich\nzahlreiche ungegliederte und mit einander nicht verbundene Milchsaftröhren. Dieselben finden\nsich auch     reichlich     im Mark,        sind tangential        gestreckt      und    verlaufen       durch       den Blattstiel in\ndas Blatt, in dessen Mesophyll sie endigen.                       In ihren Wandungen unterscheiden sie sich nicht\n                                                                                                                            9%",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 49,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 3530,
+        "char_end": 4086,
+        "source_line_start": 36,
+        "source_line_end": 40,
+        "page_text_sha256": "47b8f8dc3e45279a5230c536a4956dc08f65994518ec48c6eb467d6305f60e40",
+        "exact_text_sha256": "552e6ebe42d7cab88a7b029d1d0b780c9b0598b4845b2245c1fc7bd389df9ac7",
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "552e6ebe42d7cab88a7b029d1d0b780c9b0598b4845b2245c1fc7bd389df9ac7",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0049-p0060:child-01:s03:x00",
+      "section_type": "harvest",
+      "original_text": "         Gewinnung der Roh-&utta. Die Beschaffenheit der Milchröhren der Gutta-Pflanzen\neinerseits und das schnelle Erstarren des Saftes an der Luft andererseits, welches bewirkt,\ndass verwundete Stellen ohne besondere Fürsorge sehr schnell sich mit einer undurchlässigen\nHaut   überziehen,            gestatteten     den Malayen          nicht,       durch     einfaches     Anzapfen         die Milch              eines\nBaumes        in     grösserer     Menge      zu     gewinnen.         Man      verfuhr      deshalb     seit langer            Zeit       in    der\nschonungslosesten Weise, indem man die Bäume fällte. Die Sammler unterwerfen die in\neinem gewissen Distrikt befindlichen Guttabäume einer Prüfung, die bei der Höhe der Krone\nund in dem dichten Urwald nur durch probeweises Verletzen der Rinde geschehen kann.\nDer ausfliessende Milchsaft wird. aufgefangen und zwischen den Fingern geknetet. Zeigt er\nsich weder         klebrig noch       zu rasch        erstarrend,        so geht man         an    die Fällung     des Baumes,                    die\nin   dem      dichten     Urwald      meist         mit    erheblichen       Schwierigkeiten           verbunden         ist.        Der        etwa\n12/,—2 m über dem Boden abgehauene Baum wird gewöhnlich bald von Ästen und Blättern\nbefreit, um, wie man meint, zu verhüten, dass das Getah in diese entweiche. Die Stämme\nwerden dann, auf dem Boden liegend, auf der Oberseite in Entfernungen von !/, m mit 2 cm\nbreiten Quer-Rinnen versehen, in denen sich dann der Milchsaft ansammelt und mehr oder\nweniger      rasch     erstarrt.     Der      zuerst       ausfliessende        gilt als     minderwertig;         der      nachfolgende\nwird   aus     den Einschnitten           nach      dem     Erstarren     ausgekratzt        und      in Beuteln     aus        Palmblüten-\nscheiden gesammelt, dann nach dem vollständigen Erhärten durch wiederholtes Kneten in\nheissem Wasser von Rindenstücken befreit und in die üblichen Formen (Kugeln, Kuchen,\nFiguren aller Art) gebracht. Es ist natürlich, dass in dieser Methode, die Tschirch mit Recht\nals „unglaublichsten Vandalismus“ bezeichnet, und bei welcher nur der Milchsaft der Ober-\nseite, also etwa         1/. der ganzen            Masse,    gewonnen        wird,      ein ungeheurer        Verlust       an Milchsaft\nund Bäumen           zu beklagen          ist und    eine grosse         Gefahr    für die Erhaltung          der Gutta              liefernden\nBäume,       sowie     für die Gewinnung            der Gutta selbst liegt; man hat deshalb auf die Umgestaltung\nder Gutta-Gewinnung Bedacht genommen und dabei hat Burck gefunden, dass man dennoch durch\neinfache Schnitte in die Rinde dem Baume jährlich eine grössere Menge Gutta entziehen",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 51,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 1554,
+        "char_end": 4320,
+        "source_line_start": 17,
+        "source_line_end": 42,
+        "page_text_sha256": "f630af6333a268d72c391e9ce60d4ca1626b56ead56e1ceb6c6912527efd0c26",
+        "exact_text_sha256": "cbb612c82a94be27e7cbdf20f15e84e320d4b2e72b78cf0aada8af395f4b3d69",
+        "section_index": 3,
+        "section_type": "harvest"
+      },
+      "exact_text_sha256": "cbb612c82a94be27e7cbdf20f15e84e320d4b2e72b78cf0aada8af395f4b3d69",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0049-p0060:child-01:s04:x00",
+      "section_type": "constituents",
+      "original_text": "        Bestandteile. Nach den neuesten ‚Untersuchungen von Oesterle 1892 besteht sowohl\ndie gute Guttapercha des Handels, als auch 'eine nur aus dem Milchsäfte von Payena Leerü\nBenth. & Hook. dargestellte Giiktaperchai ' welche letztere Prof. Tschirch selbst in Indien\ngesammelt hatte, aut den wohlcharakterisierten Körpern Gutta (15—82°/,), Alban ve 42],)\nund Fluavil (6—14°/,) neben dem sehr unbeständigen Guttan, welches durch wiederholtes\nAuflösen         und Reinigen      mehr      und mehr           in Gutta       übergeht.      as öhlen           finden       sich noch @erb-\nstoff, Salze        und eine zuckerähnliche Substanz.                           Alban       C“ H% O? wird               der Gutta Percha\ndurch      kochenden        Alkohol     entzogen          und     scheidet        sich aus der Lösung              beim       Erkalten      weiss\nund   krystallinisch        ab.     Es schmilzt           bei 195°.        Salpetersäure         greift       es heftig       an;    Brom     ent-\nwickelt     daraus     HBr, jedoch          ohne Bildung            eines krystallisierten           bromhaltigen Produkts.                  Beim\nDestillieren       des Albans       mit P? S5 entsteht ein schwefelhaltiges Öl; Hydroxylamin                                        und Phenyl-",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 53,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 4317,
+        "char_end": 5622,
+        "source_line_start": 43,
+        "source_line_end": 53,
+        "page_text_sha256": "c689caa504a11f9d07413bda7f24aea2927571c05f8c8e57c5c68e48e5e9d5b0",
+        "exact_text_sha256": "1e373ea0455c0899917b7ac6a54dfd4c0edcd23120c69c9136ef2cdb1998036a",
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "1e373ea0455c0899917b7ac6a54dfd4c0edcd23120c69c9136ef2cdb1998036a",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0049-p0060:child-01:s05:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                         Sapota                Mülleri                 Bleck.\n                                      Sapotillbaum,           Sternapfelbaum,           Bully-tree.\n\n           Syn. Mimusops Balata Gaertn. fil., Achras P. Brown,                                 Sideroxylon Bentham & Hooker.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        3
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 55,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 443,
+        "char_end": 762,
+        "source_line_start": 8,
+        "source_line_end": 11,
+        "page_text_sha256": "bc60aae889a8a6775b12047b43f53bbe5455f1a1aef1b0ffbbcee14bb5175564",
+        "exact_text_sha256": "9716f43d88e918c5ac453bdcf7b81e4c931382bcaecb2abda84ba7740129b061",
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "9716f43d88e918c5ac453bdcf7b81e4c931382bcaecb2abda84ba7740129b061",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0049-p0060:child-01:s06:x00",
+      "section_type": "description",
+      "original_text": "       Beschreibung. Ein milchsaftführender Baum von 10 bis 15 m Höhe, mit brauner Rinde\nund ausgebreiteter Krone. Die Äste sind wenig verzweigt, die Ästchen dick und am Ende\nbeblättert,     nach    unten nackt          und    narbig.      Die Blätter      sind wechselständig,               gestielt,     einfach,\nungeteilt, länglich elliptisch, spitz, kahl, fast glänzend, am Ende der Zweige gehäuft, 10—15 cm\nlang, 5—7 cm breit. — Die Blüten sind gestielt, einzeln in den Achseln oft schon abgefallener\nBlätter oder auch dem Holze entspringend, weisslich und lange stehen bleibend. Der Kelch\nist 6teilig, die drei äusseren Zipfel sind breiter                       und    kürzer, als die inneren,            letztere lebhafter\ngefärbt,      äussere    blassgelb.          Die    Corolla     ist    1 cm    lang,    nur     wenig      länger     als    der    Kelch,\nschwach sechsfurchig. Der Saum ist aufrecht, 6spaltig, die Zipfel eiförmig, konkav, stumpf,\nmit einem Spitzchen endigend ;am Schlunde befinden sich sechs längliche, konvex ausgerandete\nSchuppen, die mit den sechs kurzen, mit pfeilförmigen Antheren versehenen Staubgefässen ab-\nwechseln. Der Fruchtknoten ist etwas in den zottigen Blütenboden versenkt; der Griffel\npfriemlich, länger als die Corolle, die Narbe stumpf. — Die Frucht ist eine apfelähnliche\nBeere,      kuglig     oder   oval,    verschieden         gross,      aussen    mit einer rauhen,            mürben,       rostbraunen\nHaut,     innen     schmutzig      weiss,      10—12fächerig.            Die    Samen         sind     länglich     oval,    zusammen-\ngedrückt, glänzend schwarz, mit einem Spitzchen versehen und ohne Nährgewebe.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        3
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 55,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 764,
+        "char_end": 2435,
+        "source_line_start": 13,
+        "source_line_end": 28,
+        "page_text_sha256": "bc60aae889a8a6775b12047b43f53bbe5455f1a1aef1b0ffbbcee14bb5175564",
+        "exact_text_sha256": "04c6c75cdcebfe2675106a6509d545588ca939ad1f1252c37462a4e570467532",
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "04c6c75cdcebfe2675106a6509d545588ca939ad1f1252c37462a4e570467532",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0049-p0060:child-01:s07:x00",
+      "section_type": "harvest",
+      "original_text": "         Produkte. Die Früchte des Baumes dienen als geschätztes Obst: Sapotilläpfel oder\nSternäpfel; der eingetrocknete Milchsaft ist die Balata Zur Gewinnung der Milch wurden\nfrüher, besonders auf Jamaica, die Bäume gefällt und der Milchsaft mit einem Quantum von\n3—6 kg    Batat a auf einma l gewo nnen ; gegen wärti g sucht man die Bäum e zu erhal ten. Man\nverwundet       sie jetzt durch        tiefe geneigte Einschnitte in die Rinde                       und fängt den ausfliessenden\nSaft in hölzernen oder Metallgefässen auf. Je nach der Art und Weise, in der dies geschieht,\ngelingt es, grössere          oder     geringere      Mengen          des Milchsaftes         zu ernten,      so dass       ein Arbeiter\ntäglich    bis zu   20  Liter   gewi  nnen    kann.      Der     Milch saft   wird      biswe ilen    in  Kale  bass  en     gefüll t\nund verka    uft   und   1  Gallo n   —    4  Liter   mit    1  Dolla  r   bezah  lt.      Lässt   man     den   Saft     aber    an\nder   Luft   eintr ockne n,   so  wird    das   Rohg  ummi        für  2  Shill ing     pro   1 kg   gekau ft.     Jeder     Baum\ngiebt   in  jährl icher   Ernte   0,3—0  ,5    kg   Balat a,     wenn     man       die   Anzap fstel  len   wechs  elt.      Hier-\ndurch gehen bei         schle chter    Beha  ndlu  ng    der   Pflan  zen   wohl     eine    gewis se   Anzah  l   derse   lben   zu\nGrunde, doch ist        die  Gefah  r   der   Ausro  ttung      gesc  hwun den.       —    Das   Rohp  rodu kt    hat    eine   röt-",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        3
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 55,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 2734,
+        "char_end": 4249,
+        "source_line_start": 34,
+        "source_line_end": 46,
+        "page_text_sha256": "bc60aae889a8a6775b12047b43f53bbe5455f1a1aef1b0ffbbcee14bb5175564",
+        "exact_text_sha256": "d3dcc9a5d3a310a86574d4f9071c724eb35129c7c002bad269ef85c5cd296103",
+        "section_index": 2,
+        "section_type": "harvest"
+      },
+      "exact_text_sha256": "d3dcc9a5d3a310a86574d4f9071c724eb35129c7c002bad269ef85c5cd296103",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0049-p0060:child-01:s08:x00",
+      "section_type": "history",
+      "original_text": "         Geschichte. Das Produkt ist seit 1859 durch Silver & Co. in den Handel gebracht\nund von W. Holmes 1862 auf der internationalen Ausstellung in London gezeigt worden.\nDadurch wurde es so bekannt, dass 1865 sein Export auf 10000 kg stieg, aber im Laufe der\nZeit wieder auf 1000 kg sank. Gegenwärtig ist seine Verwendung stark im Zunehmen be-\ngriffen, sodass z. B. 1882 von Berbice aus nicht weniger als 53000 kg exportiert wurden\n(Pharm. Ztg. 1886. 602). Auch auf der Pariser Ausstellung 1878 und der Ausstellung von\nHeil- und Nutzpflanzen              im Haag       1895 war    die Balata       vertreten.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        4
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 56,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 2475,
+        "char_end": 3087,
+        "source_line_start": 28,
+        "source_line_end": 34,
+        "page_text_sha256": "17e1c8138c16ff2d1d4bcd22dd682b15895a23408c312508d4f6c331385a037d",
+        "exact_text_sha256": "9f8194c6f2dbc6c7b8c3d039d1d61d0763d2bde60a68c58b0b54e648b4ac6c1e",
+        "section_index": 3,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "9f8194c6f2dbc6c7b8c3d039d1d61d0763d2bde60a68c58b0b54e648b4ac6c1e",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0049-p0060:child-01:s09:x00",
+      "section_type": "constituents",
+      "original_text": "           Bestandteile.         Balata   scheint im wesentlichen dieselben Bestandteile zu besitzen, wie\nGutta     und     Kautschuk.          Sparlich fand darin 88,5°/, C und 11,3%, H.        Genauere Unter-\nsuchungen fehlen zur Zeit noch.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        4
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 56,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 3089,
+        "char_end": 3331,
+        "source_line_start": 36,
+        "source_line_end": 38,
+        "page_text_sha256": "17e1c8138c16ff2d1d4bcd22dd682b15895a23408c312508d4f6c331385a037d",
+        "exact_text_sha256": "570d7831d0019ad499a07984dcd0d46c190e2b947669c754c5ad850a192187e9",
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "570d7831d0019ad499a07984dcd0d46c190e2b947669c754c5ad850a192187e9",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "208a4dee7dadbe42e279fa672428f41cd0f925ddb7f8f69053d97da25b597b75",
+    "maker_receipt_sha256": null,
+    "validation_check_sha256": null,
+    "source_disposition_sha256": "4ca742d114a18f8de39fe10ad8cc21eaf9462644589dd8e278f5ba51a6f10c2a",
+    "candidate_source_chain": {
+      "source_disposition_sha256": "4ca742d114a18f8de39fe10ad8cc21eaf9462644589dd8e278f5ba51a6f10c2a",
+      "boundary_overlay_plan_sha256": "c7c0253e52f0583570699f98cc9c8fa3dda15857551bc2b94d6430ed0afd008a",
+      "boundary_segment_sha256": "be8a92d2df4c9a726b2d0de8dacf7f4cc0fd1c2ba8f506514252cc2a28f84f31",
+      "source_parent_entry_id": "kohler-volume-3:p0049-p0060",
+      "continuation_v2_receipts": [
+        {
+          "package_id": "kohler-volume-3:p0049-p0060:child-01:continuation-01",
+          "package_sha256": "9e965675b2b077fcab538c01496182729db153a03a04ec98a6c31e558f0dd1dd",
+          "receipt_sha256": "2c495a1688908fd200b29b2ff6dedab385eb7c450644a26e95fc7a199ec4f66c",
+          "attempt_sha256": "199bb9f641913d1f89a0569d8f16eacdfc482706c80e8ec2ee9a35218bbbde12",
+          "validation_check_sha256": "96d75d557133404aa04a99c0d16d01bfda96e8f0ca97803914645c8d30ef0609"
+        },
+        {
+          "package_id": "kohler-volume-3:p0049-p0060:child-01:continuation-02",
+          "package_sha256": "a815bd1a8fafe2d45ec0760289f0bb08798e4d58306e309de50bf06446710901",
+          "receipt_sha256": "25cd6abc2dac8e0035c4ad71825899a948409698dd1155c122344bf3adfcab92",
+          "attempt_sha256": "e238ec2903b9e59931cbdb178e4842d80c445f57d358116b024b8410bccadf4f",
+          "validation_check_sha256": "b78989bdac7bde62d196d3cabea0e568f3425531fc17967eedcf5b6a3f0ab80c"
+        }
+      ]
+    },
+    "naming_artifact_sha256": "fbeeeef9169162d828222765fc22d5c6343e87a588a5e545eef1d6f034ffba50"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "e6f7ca04fa197e080b9f1f1baa613e1184d774edc372097642126520c60dde99"
+}

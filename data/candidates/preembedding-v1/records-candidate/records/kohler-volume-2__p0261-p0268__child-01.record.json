@@ -1,0 +1,386 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0261-p0268-child-01",
+  "entry_id": "kohler-volume-2:p0261-p0268:child-01",
+  "owner_shard": null,
+  "book_taxon": {
+    "scientific_name": "Camellia Thea",
+    "authorship": null,
+    "aliases": []
+  },
+  "display_name": "茶",
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Camellia Thea",
+      "Camellia thea"
+    ],
+    "accepted_scientific_name": "Camellia sinensis",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-20T23:02:50+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Camellia+Thea",
+        "query_name": "Camellia Thea",
+        "retrieved_at": "2026-08-20T23:02:50+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0002703",
+        "query_name": "Camellia Thea",
+        "retrieved_at": "2026-08-20T23:02:50+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0002703",
+        "query_name": "Camellia Thea",
+        "retrieved_at": "2026-08-20T23:02:50+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Camellia+thea",
+        "query_name": "Camellia thea",
+        "retrieved_at": "2026-08-20T23:02:50+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0040586",
+        "query_name": "Camellia thea",
+        "retrieved_at": "2026-08-20T23:02:50+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0040586",
+        "query_name": "Camellia thea",
+        "retrieved_at": "2026-08-20T23:02:50+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL explicitly links the book binomial as a species-level synonym to the accepted taxon."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 261,
+      "evidence_type": "text",
+      "page_text_sha256": "62755fd6dc715658b807b89a2370490d9eaf2a11a6d1f241dbea329fe9795089",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 262,
+      "evidence_type": "text",
+      "page_text_sha256": "92c96fe89d530ce6c97892ee8a3778654bb5edc9049ab164625ae01f5b9c8dd8",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 267,
+      "evidence_type": "text",
+      "page_text_sha256": "4ffd78fe029209b30246286a1f23b99a3b71216d02007ebe032c1ff3c04ef018",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 268,
+      "evidence_type": "text",
+      "page_text_sha256": "3ed0d86d6d42181a8738078f9e6c72456c948611b6baf984c3d8ae9023e11f63",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0261-p0268:child-01:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                           Camellia Thea Link.\n       Syn. Camellia viridis Lk.   C. Bohea Griff. Thea chinensis L.                                    Th. Bohea m\n                             Th. viridis L. Th. stricta Hayne.\n\nTheestrauch, Chinesischer Thee — Thé 一                             Green Tea, Black Tea, Bohea Tea, Pekoe.\n\n           Familie: Ternstroemiaceae; Gattung: Camellia L.; Thea L.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 261,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 418,
+        "source_line_start": 1,
+        "source_line_end": 7,
+        "page_text_sha256": "62755fd6dc715658b807b89a2370490d9eaf2a11a6d1f241dbea329fe9795089",
+        "exact_text_sha256": "84926c92c89df9e99c1764666fe06931546c58c1703ca25480c31849b526ee36",
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "84926c92c89df9e99c1764666fe06931546c58c1703ca25480c31849b526ee36",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0261-p0268:child-01:s01:x00",
+      "section_type": "description",
+      "original_text": "    |    Camellia Thea Lk. (Thea chinensis L., Th: viridis L.) ist ein aufrechter, buschig verzweigter,\n1—2, seltener bis 9 Meter hoher, kahler, nur an den jüngsten Trieben, Blattstielen                           und Blattknospen\nsteif behaarter Strauch mit kurz gestielten, derben, abwechselnden, 2—12 Ctm. langen (nach Flückiger\nbis 10 Ctm. langen, bis 5 Ctm. breiten), lanzettlichen, verkehrt-eilanzettlichen oder länglich-eiförmigen\nBlättern, welche nach oben in die gestumpfte Spitze, nach unten in den kurzen Stiel verschmälert sind j\nder Rand ist mit nicht sehr zahlreichen, am Grunde wenig hervortretenden, kurzen Sügezühnen ver-\nsehen, das Adernetz stark ausgeprügt, auf der Oberseite mit leichten wellenfórmigen Erhöhungen, die\nUnterseite bei einigen Abarten etwas flaumig. Die weissen Blüthen besitzen die Grüsse einer Apfel-\nblüthe und sind wohlriechend (nach Flückiger sind Blätter und Blüthen ohne auffallenden Geruch und\nGeschmack), nickend und entspringen einzeln, zu zweien oder dreien den Blattwinkeln. Die Blüthenstiele\nsind mit   zwei   bis drei Brakteen       unter dem    Kelche      ausgestattet.      Kelchblätter    rundlich,   stumpf,   kahl\noder seidenhaarig. Kronblätter abstehend, verkehrt eiförmig, stumpf, auf dem Rücken kahl oder weich-\nhaarig. Staubgefässe und Griffel kahl. Fruchtknoten zottig behaart. Die dreiknöpfige, holzige Kapsel\n‚kahl, mit drei Samen. Letzterer glänzend braun, von. der Grösse eines Kirschkernes.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 261,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2817,
+        "char_end": 4271,
+        "source_line_start": 33,
+        "source_line_end": 46,
+        "page_text_sha256": "62755fd6dc715658b807b89a2370490d9eaf2a11a6d1f241dbea329fe9795089",
+        "exact_text_sha256": "e3c863a8ca21d41c3c44d8b5f5314870561569c84477be4c569cafe492c840ff",
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "e3c863a8ca21d41c3c44d8b5f5314870561569c84477be4c569cafe492c840ff",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0261-p0268:child-01:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "          Anatomisches.      Der Blattquerschnitt zeigt nach Flückiger unter der Epidermis der Ober-\nseite eine zweischichtige Lage von Palissadenzellen, während die untere Hälfte aus Schwammparenchym\nbesteht, in welches abgerundete Oxalatdrusen eingestreut sind. Auf beiden Seiten befinden sich unter\nder Epidermis dickwandige, poröse, oft unregelmässig zweischenklige Zellen, welche in das Gewebe hinein-\nragen und oft strebepfeilerartig die Epidermis beider Seiten stützen (Idioblasten). Letztere Zellen treten",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 261,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 4460,
+        "char_end": 4973,
+        "source_line_start": 50,
+        "source_line_end": 54,
+        "page_text_sha256": "62755fd6dc715658b807b89a2370490d9eaf2a11a6d1f241dbea329fe9795089",
+        "exact_text_sha256": "4e0a8d35a6053e5ac4007559abb389e6a5d0d8c98c281bdb223c652246fa83f3",
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "4e0a8d35a6053e5ac4007559abb389e6a5d0d8c98c281bdb223c652246fa83f3",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0261-p0268:child-01:s03:x00",
+      "section_type": "distribution",
+      "original_text": "               Vorkommen:            Die Theepflanze ist wild nur in Oberassam          in Bengalen       aufgefunden      worden,\n    sonst in Ostasien (China, Japan, Ostindien) häufig angebaut. In China zwischen dem 27. und 40. Breiten-\n    grade in Meereshóhen von 170—500 Meter; in Japan bis zum 45.9; in Ostindien (nach Flückiger) in\n    Oberassam     und den südlich davon         gelegenen   Berglündern     Cachar    und Silhet,      bis herab      in die hóher\n     gelegenen Bezirke von Chittagong und Östlich vom bengalischen Meerbusen. Namentlich sollen sich\n     die Vorlinder des Himalaya im nordwestlichen Indien und die Nilagiriberge in Südindien ganz vorzüg-\n     lich zur Theekultur eignen. Flückiger führt ausserdem noch die West Duars, östlich von Darjee-\n     ling, Dehra Doon (31° n. Br., 78° óstl. L.), das Kangrathal (32? n. Br. 76° östl. L.) und Ceylon als\n    .theeerzeugende Orte Indiens an. Neuerdings werden auch in Nordamerika grosse Anstrengungen ge-\n     macht, die Theekultur einzuführen. Flückiger bezeichnet auch Java und in Europa Sicilien, Portugal\n     und Westfrankreich als geeignet zur Anlegung von Theepflanzungen.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 262,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 640,
+        "char_end": 1796,
+        "source_line_start": 9,
+        "source_line_end": 19,
+        "page_text_sha256": "92c96fe89d530ce6c97892ee8a3778654bb5edc9049ab164625ae01f5b9c8dd8",
+        "exact_text_sha256": "da200f6100602cf21823f79a6daa83e61ae245d3e12391093df8f9403b5978d2",
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "da200f6100602cf21823f79a6daa83e61ae245d3e12391093df8f9403b5978d2",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0261-p0268:child-01:s04:x00",
+      "section_type": "history",
+      "original_text": "            Name und Geschichtliches. Der Name Thee ist chinesischen Ursprungs; das Wort wird in\n    der berühmten Theeprovinz Fokien mit Tscha, Tschai, Tschäh wiedergegeben. Camellia zu Ehren des\n    Georg Jos. Kamell (Camellius), Apotheker der mährischen Jesuiten-Mission auf Manilla, welcher\n    1639 auf den Philippinen Pflanzen sammelte.      ۱\n            Nach einer japanesischen Sage hat der fromme Buddha-Apostel Darma, um beim Beten nicht\n    zu ermüden, die Augenlider abgeschnitten und sie von sich geworfen; daraus soll der Theestrauch ent-\n    standen    sein, dem   die Kraft innewohnt,     den Schlaf zu vertreiben.         Nach     den chinesischen Sagen ist die\n    Theepflanze von den Buddhistenpriestern von Indien nach China gebracht worden. Ob die Theepflanze\n    schon ursprünglich in China einheimisch war, bleibt ungewiss; es wird vermuthet, dass dieselbe von\n    Assam, wo sie jetzt noch wild angetroffen wird, nach China übersiedelte. Der Gebrauch des Thee-\n    trinkens soll angeblich im Jahre 150 v. Chr. von einem Diener des Kaisers Buttei, Namens                               Schiba-\n    Schojo, erfunden worden sein. Nach andern Quellen (Siebold) ist der Thee im 9. Jahrhundert                             unserer\n    Zeitrechnung aus Korea nach China gebracht worden, während sich der Theegenuss in Japan bis zum\n    Jahre 729 n. Chr. zurückverfolgen lässt. Wieder andere Quellen besagen, dass der Thee 810 n. Chr.\n    durch den buddhistischen Priester Tenkiyodayschi von China nach Japan und von dort nach Korea\n    gebracht worden ist.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 262,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 1798,
+        "char_end": 3369,
+        "source_line_start": 21,
+        "source_line_end": 36,
+        "page_text_sha256": "92c96fe89d530ce6c97892ee8a3778654bb5edc9049ab164625ae01f5b9c8dd8",
+        "exact_text_sha256": "021da7d6826dd70c6816ea65b8e05e4fc11b538b66dfc2d157896383f4782ae7",
+        "section_index": 4,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "021da7d6826dd70c6816ea65b8e05e4fc11b538b66dfc2d157896383f4782ae7",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0261-p0268:child-01:s05:x00",
+      "section_type": "literature",
+      "original_text": "         Litteratur.       Abbildung und Beschreibung:         Nees    v.   Esenb.,   Plant.   med.   Taf 426—428;\nHayne, Arzneigew. VII, Taf. 27—29; Bentley and Trimen, Taf. 34; Luerssen, Handb. der syst.\nBot. 646; Karsten, Deutsche Flora 621, 622; Wittstein, Pharm. 846.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 267,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 272,
+        "source_line_start": 1,
+        "source_line_end": 3,
+        "page_text_sha256": "4ffd78fe029209b30246286a1f23b99a3b71216d02007ebe032c1ff3c04ef018",
+        "exact_text_sha256": "bd79816b9bcbefff91c66f1cc41eb52cf2852b239a08da34f875aa8c69972047",
+        "section_index": 0,
+        "section_type": "literature"
+      },
+      "exact_text_sha256": "bd79816b9bcbefff91c66f1cc41eb52cf2852b239a08da34f875aa8c69972047",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0261-p0268:child-01:s06:x00",
+      "section_type": "distribution",
+      "original_text": "arten sind (nach Flückiger) in Südamerika zwischen dem 10. und 28? südl. Breite, vom atlantischen\nOcean bis zu den Ostabhängen der Cordilleren einheimisch, und zwar im südlichen Brasilien, Uruguay,\nParaguay,   Argentinien,   im nördlichen     Bolivia und Chili; namentlich      wird Maté in grosser Menge       und\nvorzüglicher Güte in den Missionen zwischen dem Parana und dem oberen Uruguay gesammelt. Die",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 267,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 1848,
+        "char_end": 2255,
+        "source_line_start": 27,
+        "source_line_end": 30,
+        "page_text_sha256": "4ffd78fe029209b30246286a1f23b99a3b71216d02007ebe032c1ff3c04ef018",
+        "exact_text_sha256": "d787eca890bec72bb6c5f2afb9046bd913033fd6851ff001cddebb9069c816c3",
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "d787eca890bec72bb6c5f2afb9046bd913033fd6851ff001cddebb9069c816c3",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0261-p0268:child-01:s07:x00",
+      "section_type": "harvest",
+      "original_text": "Matésammler (Yerberos, Practicos) gehen, nach der Flückigerschen Beschreibung, wührend der Monate\nDezember bis August, in die Matéwülder (Yerbales), schneiden die Aeste, zertheilen sie in kleine Zweige,\nziehen dieselben durch das Feuer und erwechen die Blätter und Blattstiele auf grossen Hürden über\nfreiem Feuer. Nach zwei Tagen schlügt man auf ledernen Unterlagen mit einem Holzsäbel die Blätter\nlos, worauf die letzteren in Trögen gröblich gepulvert und zum Zwecke der Verbesserung mehrere\nMonate trocken aufbewahrt werden. Zum Schlusse werden die Blätter in feuchte Ochsenhäute gebracht\nund zu festen Ballen (Suronen) verpackt. Die Ernte, welche man auf jührlich 20 Million Klgr. schützt,",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 267,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2256,
+        "char_end": 2949,
+        "source_line_start": 31,
+        "source_line_end": 37,
+        "page_text_sha256": "4ffd78fe029209b30246286a1f23b99a3b71216d02007ebe032c1ff3c04ef018",
+        "exact_text_sha256": "cbd1701a2460e88cb41279232e0f76f139bba9be7d3f34423276db0ba58245d7",
+        "section_index": 3,
+        "section_type": "harvest"
+      },
+      "exact_text_sha256": "cbd1701a2460e88cb41279232e0f76f139bba9be7d3f34423276db0ba58245d7",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0261-p0268:child-01:s08:x00",
+      "section_type": "constituents",
+      "original_text": "         Der von Martius entdeckte wirksame und mit Guaranin bezeichnete Stoff wurde 1840 von\nBerthemot und Dechastelus als Coffein erkannt. Peckolt fand in den geschälten Samen ۵\nund in den Samenschalen 2,4%, Coffein, 2,29%, Fett, 8,5%, Gerbsüure, 5,49 Stärkemehl. Flückiger\nerhielt aus ungeschälten Samen 4,8%, rohes und durch Umkrystallisiren 2,989/, reines Coffein.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        3
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 268,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 369,
+        "source_line_start": 1,
+        "source_line_end": 4,
+        "page_text_sha256": "3ed0d86d6d42181a8738078f9e6c72456c948611b6baf984c3d8ae9023e11f63",
+        "exact_text_sha256": "aadea3445d4a5d8db00643361b3d8248ca88e6595e5a54ee30074d9632cf58ba",
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "aadea3445d4a5d8db00643361b3d8248ca88e6595e5a54ee30074d9632cf58ba",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "70292e78bfbffc802a7cb17507512ba66f0c3c2d8c3a9b2a85190c60ac52e7be",
+    "maker_receipt_sha256": null,
+    "validation_check_sha256": null,
+    "source_disposition_sha256": "42ff76f973359ef8081fb3b642b5c09cb82de2ceead58be01e94a44c894e01c1",
+    "candidate_source_chain": {
+      "source_disposition_sha256": "42ff76f973359ef8081fb3b642b5c09cb82de2ceead58be01e94a44c894e01c1",
+      "boundary_overlay_plan_sha256": "c7c0253e52f0583570699f98cc9c8fa3dda15857551bc2b94d6430ed0afd008a",
+      "boundary_segment_sha256": "0d0a416b06fb2afd5f8859b926a444f5defba429c15f12215bc2f1d5e3f27ffa",
+      "source_parent_entry_id": "kohler-volume-2:p0261-p0268",
+      "continuation_v2_receipts": [
+        {
+          "package_id": "kohler-volume-2:p0261-p0268:child-01:continuation-01",
+          "package_sha256": "32daea7dad0618dca8a94071caa5f64ae1b2da7ce5538261360937e1092a9b9e",
+          "receipt_sha256": "abfe34b6336e2258547b0f2a8534c3f35b4f9c25ed7f926600cecfb4dee95606",
+          "attempt_sha256": "6294acea6d0a067f609a900638c600874022e527bc3187c8565c20576d551114",
+          "validation_check_sha256": "df51bb22121aed697f489eac6297249455489a3bdfda8065ec370f9260edfc45"
+        },
+        {
+          "package_id": "kohler-volume-2:p0261-p0268:child-01:continuation-02",
+          "package_sha256": "3244f1fc7b875f01a8906b4c59020756cfe7eb5edb01ec3dbb228075dc13a4d4",
+          "receipt_sha256": "7932fa44b176e1ca18fbf63cc8560607fb14a548e0ec0721e84b1f2d36bfbc0d",
+          "attempt_sha256": "ea6a089424cdcb6d53ac35500d0244f0211bfb1810adbcad86a4e896c72c5b57",
+          "validation_check_sha256": "5c0adef5d529112bec35efdafb65a0464731f5bf98108580126b3599eb2efe7c"
+        }
+      ]
+    },
+    "naming_artifact_sha256": "7aa31d06bbf2d75a7270a6259aa2f594229814a50dfdabc77bae749622574e83"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "9af3b706af076331e2ec234008e8d17b6893303a4df7c25a14f79eb574b13e68"
+}

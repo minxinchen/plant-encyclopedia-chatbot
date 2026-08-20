@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0177-p0178",
+  "owner_shard": "S02",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 150.429,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0177-p0178",
+    "book_taxon": {
+      "scientific_name_candidate": "Artemisia Absinthium L.",
+      "authorship_candidate": "L.",
+      "aliases_candidates": [
+        "Absinthium officinale Lam.",
+        "Common wormwood",
+        "Wermuth",
+        "Wurmkraut",
+        "Bitterer Beifuss",
+        "Absinthe grande ou Aluyne"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "description",
+        "pdf_page": 177,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "多年生，多頭狀，具眾多根鬚。莖直立或上升，高0.60-1.25米，多分枝，近圓柱形，條紋狀，銀灰色絲毛。",
+        "warnings": [],
+        "source_line_range": [
+          18,
+          25
+        ],
+        "exact_source_quote": "          B escnreibun &-     Bie ausdauernde, mehrkopfige, mit zahlreichen Wurzelfasern besetzte Wurzel\nt   -u\ntreibt mehrere aufrechte oder aufsteigende, 0,60—1,25\n                                                         Meter hohe, sehr astige, fast stielrunde, gestreifte,\nsilbergrau-seidenhaarige Stengel, die mit seidenartig-filzigen, oberseits weisslichen,\n                                                                                        unterseits griinlichen,\ndurchschemend punktirten, am Grande des Blattstieles nicht geohrten Blattern besetzt\n                                                                                             sind. Die Blatter"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 177,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "葉橫切面示上層緊密柵欄組織，下層鬆散海綿組織。兩側具橢圓形油腺，由盤狀柄細胞支撐。",
+        "warnings": [],
+        "source_line_range": [
+          85,
+          94
+        ],
+        "exact_source_quote": "          Anal omisches: Das Blatt zeigt auf dem Querschnitt eine obere dichte PalissadenschicM und eine\ni  i\n                                                                                                             untere\nlockere bchicht. Die auf beiden Seiten der Blatter auftretenden Oeldriisen haben\n                                                                                 eine elliptische Form: sie werden\nvon scbeibenformigen in Vertiefungen befindlichen Stielzellen getragen. Jede Druse ist\n                     ,\n                                                                                           durch 2 sich kreuzende\nbcneidewande 4theihg    Die Haare bestehen aus einer ziemlich langen, spitzendigen Zelle, die wagerecht von einem\n1—3 zelhgen Stiele getragen wircl (Fluckiger)."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 177,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分佈於北非、南西班牙至歐洲（北緯57-63度）及西亞北部。希臘缺產。瑞士海拔達1700米，西內華達山逾2000米。",
+        "warnings": [],
+        "source_line_range": [
+          95,
+          102
+        ],
+        "exact_source_quote": "          Verbreitung.                                                     Weinb              slandern       W *-v%\n\nvon Nordafnka und Sudspanien durch Europa bis zum 57. (England), und 63. (Skandinavien, Finnlandj\nBreitengrade ; ferner in dem westlichen und nordlichen Asien. Sie fehlt in Griechenland;\n                                                                                         steigt in der\nSchweiz (Wallis und Graubiindten) bis 1700 Meter, in der Sierra nevada bis iiber 2000 Meter\n                                                                                                empor.\nVielfach in Garten gezogen und oft daraus verwildert."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 177,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "古藥用植物。名稱源於驅蟲（vermis）或溫暖（warme）。古希臘羅馬用於宗教儀式，因苦味被視為不可飲。",
+        "warnings": [],
+        "source_line_range": [
+          106,
+          115
+        ],
+        "exact_source_quote": "          Name und Geschichtlichea.                     TW \"Mama We\nwermota, wormiota, ivermiate, mittelhochdeutsch als,              alse,   els,   iverhnut, werenmut, wermet, wiermuta\n                                                                                             bei Hildegard   Wermuda,\nbei    Bock und Tabernaemontanus Wet                                                       stammt wahrscheinlich von\nvermis (Wurm), wegen der Benutzung der Pflanze gegen Wiirmer.       Weni ._\nAbleitung von werm-uot, von Warme (wegen der erliitzenden Eigenschaften) und Wurzel. Die\" Be-\nzeichnung Alse, Elsen, althochd. alahsan, soil von alah-samo, Tempel-Same abgeleitet sein, weil                       die\nPflanze in friiheren Zeiten bei gottesdienstlichen Handlungen benutzt wurde, wie Lonicer bezeugt:\n„Wermut ist ein iibertrefflich Kraut, bei den Alten kostlich gehalten, in Gottesdiensten und Triumphen\nherrlich gebraucht.\"  Absinthium von aiplvd-wv oder aanivd-iov der Griechen, absinthium der Ronier,"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 178,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含揮發油（0.5-2%）、綠樹脂、苦樹脂、含氮物質、澱粉、蛋白質、苦酒石酸鉀、硝酸鹽及蘋果酸、琥珀酸。",
+        "warnings": [],
+        "source_line_range": [
+          43,
+          48
+        ],
+        "exact_source_quote": "         Bestandtheile. Nach Braconnot enthalt das frische Kraut atherisches Oel (V2 — 2°/ ), ei ^\ngriines und ein bitteres Harz, eine stickstoffhaltige Substanz, Amylum, Eiweiss, wermuthsaures Kali,\nSalpeter und andere Salze; auch Apfelsaure und Bernsteinsaure.     Letztere Saure ist von Braconnot\n                    Wermuthsaure gehalten, von Zwenger aber ihrer Natur nach erkannt worden.\nTrocknes Kraut giebt nach Schulze 2,7 °/ Salpeter; die ca. 7°/ betragende Asche wurde im 17. Jahr-\nhundert als Sal Absinthii in den Apotheken vorrathig gehalten."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 178,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史用途：煎劑、酊劑治消化不良、貧血；外用治痙攣。大劑量降血壓。苦艾酒過量可致癲癇及慢性中毒。",
+        "warnings": [
+          "Content describes historical medical use; not modern medical advice."
+        ],
+        "source_line_range": [
+          86,
+          98
+        ],
+        "exact_source_quote": "             Anwendung.                  Im Aufguss, als Absnd und Extrakt, auch als frisch gepresster Saft                                         ys-\npeptischen Zustanden, Pyrosis und Grastralgie; bei Chlorose, Anamie und Scrophulose als di£ .aons-\nbeforderndes Mittel. Aeusserlich zu aromatischen, trocknen und feuchten Umschlagen bei SugiLationen,\nExudaten und Paralysen; im Klystier gegen Oxyurus. Absinthiin wird von Leonardi als treffiiches\nFiebermittel geruhmt. Kleine Dosen steigern den Blutdruck, grosse setzen ihn bedeutend herab. Das\natherische Oel dient zur Herstellung eines in Frankreich sehr beliebten Liqueurs (Extrait\n                                                                                          d'Absinthe),\ndessen starker Genuss jedoch epileptische Krampfe und chronische Vergiftungserscheinungen\n                                                                                            nach sich\nzieht. Die durch Wermuthpraparate hervorgerufenen, unangenehmen Nebenerscheinungen wie\n                                                                                           Grefass-\naufregung, Ideenverwirrung, Schwindel, Kopfschmerz scheinen von dem atherischen\n                                                                                Oele herzuriihren."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "39a879847848acd56eeaa6f529fca8871e673f046245eaa2acdfd604ad154743"
+}

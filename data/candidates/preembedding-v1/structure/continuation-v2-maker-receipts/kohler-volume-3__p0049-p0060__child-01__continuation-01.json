@@ -1,0 +1,155 @@
+{
+  "schema_version": "2.0",
+  "package_id": "kohler-volume-3:p0049-p0060:child-01:continuation-01",
+  "parent_entry_id": "kohler-volume-3:p0049-p0060",
+  "child_entry_id": "kohler-volume-3:p0049-p0060:child-01",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation-v2:kohler-volume-3:p0049-p0060:child-01:continuation-01:v1",
+  "owner_shard": "S06",
+  "package_sha256": "9e965675b2b077fcab538c01496182729db153a03a04ec98a6c31e558f0dd1dd",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "prompt_version": "plant-structure-line-coordinates-v2",
+  "attempt_sha256": "199bb9f641913d1f89a0569d8f16eacdfc482706c80e8ec2ee9a35218bbbde12",
+  "raw_response_sha256": "902fbb76aa8c1f1c714e1b23eecee80204a15a4c7b63cdd4dddbe0a1ab1b6421",
+  "elapsed_seconds": 24.228,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 49,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 0,
+      "char_end": 539,
+      "source_line_start": 1,
+      "source_line_end": 7,
+      "page_text_sha256": "47b8f8dc3e45279a5230c536a4956dc08f65994518ec48c6eb467d6305f60e40",
+      "exact_text_sha256": "27e42dce932ab23c7d1100594731f202e61eede67cd9eac443c6b27dea76ed78",
+      "section_index": 0,
+      "section_type": "taxonomy"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 49,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 540,
+      "char_end": 3104,
+      "source_line_start": 8,
+      "source_line_end": 30,
+      "page_text_sha256": "47b8f8dc3e45279a5230c536a4956dc08f65994518ec48c6eb467d6305f60e40",
+      "exact_text_sha256": "ccfa9a07b2fffbd33618fb104437059b93fb27805e7dc846781496a9ec10e2ec",
+      "section_index": 1,
+      "section_type": "description"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 49,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 3530,
+      "char_end": 4086,
+      "source_line_start": 36,
+      "source_line_end": 40,
+      "page_text_sha256": "47b8f8dc3e45279a5230c536a4956dc08f65994518ec48c6eb467d6305f60e40",
+      "exact_text_sha256": "552e6ebe42d7cab88a7b029d1d0b780c9b0598b4845b2245c1fc7bd389df9ac7",
+      "section_index": 2,
+      "section_type": "anatomy"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 51,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 1554,
+      "char_end": 4320,
+      "source_line_start": 17,
+      "source_line_end": 42,
+      "page_text_sha256": "f630af6333a268d72c391e9ce60d4ca1626b56ead56e1ceb6c6912527efd0c26",
+      "exact_text_sha256": "cbb612c82a94be27e7cbdf20f15e84e320d4b2e72b78cf0aada8af395f4b3d69",
+      "section_index": 3,
+      "section_type": "harvest"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 53,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 4317,
+      "char_end": 5622,
+      "source_line_start": 43,
+      "source_line_end": 53,
+      "page_text_sha256": "c689caa504a11f9d07413bda7f24aea2927571c05f8c8e57c5c68e48e5e9d5b0",
+      "exact_text_sha256": "1e373ea0455c0899917b7ac6a54dfd4c0edcd23120c69c9136ef2cdb1998036a",
+      "section_index": 4,
+      "section_type": "constituents"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-3:p0049-p0060:child-01:continuation-01",
+    "parent_entry_id": "kohler-volume-3:p0049-p0060",
+    "book_taxon": {
+      "scientific_name_candidate": "Payena Leerii"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 49,
+        "source_line_range": [
+          1,
+          7
+        ],
+        "exact_source_quote": "                              Payena                  Leerii          Benth. & Hook.\n            Syn. Azaola Leerüü T.            & B.     Keratophorus Leerii Hassk.                Ceratophorus Leerii Mig.\n           Einheimische       Namen:         Balem-tjabeh,       Balem-tandoek,       Koelan,       Gueutta    oder     Getah          Seundek,\nNjatoeh balam bringin, Njatoeh balam soendai (Riauw), Njatoeh balam pipit, ferner Kulan in Bangka,\nNjatoeh ka-malan ranas in Borneo.\n\n            Familie: Sapotaceae; Gattung: Payena A. DC."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 49,
+        "source_line_range": [
+          8,
+          30
+        ],
+        "exact_source_quote": "        Beschreibung.   Ein Milchsaft                        führender Baum mit wechselständigen lederartigen\neinfachen, ungeteilten, ganzrandigen                         Blättern, die, von spitzer Basis ausgehend, oval\noder      oval-länglich „werden,            sich     plötzlich    zuspitzen;         beide      Seiten    sind      kahl,         die     Ober-\nseite     glänzend,     der    Rand         etwas      wellig;     ‚die    Spreite      misst      5—10        cm      in        die     Länge\nund 2,5—4 cm in die Breite; der Mittelnerv ist oben weniger, unten stärker hervortretend,\ndie Seitennerven sind in der Blattsubstanz verborgen und kaum erkennbar, gerade, abstehend,\nnach dem Rande zustrebend und hier sich bogenförmig vereinigend. Nebenblätter klein und\nhinfällig;    Blattstiel    5—7      mm     lang.      Die Blütenbüschel         stehen       an   den Enden kürzerer Zweige\ngedrängt;      sie    enthalten      4-8     achselständige        Blüten,       welche       in den     Achseln        oft       schon     ab-\ngefallener Blätter         entspringen.       Kelchzipfel        4, abgerundet,         eiförmig,     goldseidenhaarig,                 nahezu\ngleichlang,     lederartig,       3 mm      lang;     die Krone ist fast doppelt             so lang, innen         und aussen kahl;\nsie besitzt    eine    3 mm     lange Röhre           und    8 länglich-lanzettliche          abgestumpfte Zipfel von                     3 mm\nLänge.       Staubgefässe      16,    mit     kahlen        Filamenten     von   der Länge          der Staubbeutel.                   Letztere\nsind eiförmig, am Grunde herzförmig,                        durch ein mit angedrückten rostfarbenen Haaren be-\nsetztes    Connectiv       verbunden,       das mit pinseliger            Spitze die Antheren            überragt.          Der Frucht-\nknoten ist oberständig, konisch, 10—12fächerig und mit Haaren dicht bedeckt, und trägt an\nder Spitze den weit hervorragenden Griffel. Die Früchte sind fleischig, länglich-eiförmig,\nkonisch, in der Mitte oft leicht gekrümmt, 3—4 cm lang, mit dem Reste des zugespitzten\nStempels gekrönt. Die Frucht enthält nur einen cylindrisch-länglichen, 18—25 mm langen\nSamen mit seitlichem, länglichem Nabel. Die äussere Samenschale ist lederig, glänzend,\nbraun;      der Endosperm         reichlich         entwickelt,    weisslich     und hornartig,          und        umschliesst           einen\nEmbryo von gleicher Länge ; die Kotyledonen sind fleischig, aneinanderliegend; das Würzelchen\nist stielrund. (Nach Burck)."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 49,
+        "source_line_range": [
+          36,
+          40
+        ],
+        "exact_source_quote": "        Anatomisches. In der primären, wie auch sekundären Rinde des Baumes finden sich\nzahlreiche ungegliederte und mit einander nicht verbundene Milchsaftröhren. Dieselben finden\nsich auch     reichlich     im Mark,        sind tangential        gestreckt      und    verlaufen       durch       den Blattstiel in\ndas Blatt, in dessen Mesophyll sie endigen.                       In ihren Wandungen unterscheiden sie sich nicht\n                                                                                                                            9%"
+      },
+      {
+        "section_type": "harvest",
+        "pdf_page": 51,
+        "source_line_range": [
+          17,
+          42
+        ],
+        "exact_source_quote": "         Gewinnung der Roh-&utta. Die Beschaffenheit der Milchröhren der Gutta-Pflanzen\neinerseits und das schnelle Erstarren des Saftes an der Luft andererseits, welches bewirkt,\ndass verwundete Stellen ohne besondere Fürsorge sehr schnell sich mit einer undurchlässigen\nHaut   überziehen,            gestatteten     den Malayen          nicht,       durch     einfaches     Anzapfen         die Milch              eines\nBaumes        in     grösserer     Menge      zu     gewinnen.         Man      verfuhr      deshalb     seit langer            Zeit       in    der\nschonungslosesten Weise, indem man die Bäume fällte. Die Sammler unterwerfen die in\neinem gewissen Distrikt befindlichen Guttabäume einer Prüfung, die bei der Höhe der Krone\nund in dem dichten Urwald nur durch probeweises Verletzen der Rinde geschehen kann.\nDer ausfliessende Milchsaft wird. aufgefangen und zwischen den Fingern geknetet. Zeigt er\nsich weder         klebrig noch       zu rasch        erstarrend,        so geht man         an    die Fällung     des Baumes,                    die\nin   dem      dichten     Urwald      meist         mit    erheblichen       Schwierigkeiten           verbunden         ist.        Der        etwa\n12/,—2 m über dem Boden abgehauene Baum wird gewöhnlich bald von Ästen und Blättern\nbefreit, um, wie man meint, zu verhüten, dass das Getah in diese entweiche. Die Stämme\nwerden dann, auf dem Boden liegend, auf der Oberseite in Entfernungen von !/, m mit 2 cm\nbreiten Quer-Rinnen versehen, in denen sich dann der Milchsaft ansammelt und mehr oder\nweniger      rasch     erstarrt.     Der      zuerst       ausfliessende        gilt als     minderwertig;         der      nachfolgende\nwird   aus     den Einschnitten           nach      dem     Erstarren     ausgekratzt        und      in Beuteln     aus        Palmblüten-\nscheiden gesammelt, dann nach dem vollständigen Erhärten durch wiederholtes Kneten in\nheissem Wasser von Rindenstücken befreit und in die üblichen Formen (Kugeln, Kuchen,\nFiguren aller Art) gebracht. Es ist natürlich, dass in dieser Methode, die Tschirch mit Recht\nals „unglaublichsten Vandalismus“ bezeichnet, und bei welcher nur der Milchsaft der Ober-\nseite, also etwa         1/. der ganzen            Masse,    gewonnen        wird,      ein ungeheurer        Verlust       an Milchsaft\nund Bäumen           zu beklagen          ist und    eine grosse         Gefahr    für die Erhaltung          der Gutta              liefernden\nBäume,       sowie     für die Gewinnung            der Gutta selbst liegt; man hat deshalb auf die Umgestaltung\nder Gutta-Gewinnung Bedacht genommen und dabei hat Burck gefunden, dass man dennoch durch\neinfache Schnitte in die Rinde dem Baume jährlich eine grössere Menge Gutta entziehen"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 53,
+        "source_line_range": [
+          43,
+          53
+        ],
+        "exact_source_quote": "        Bestandteile. Nach den neuesten ‚Untersuchungen von Oesterle 1892 besteht sowohl\ndie gute Guttapercha des Handels, als auch 'eine nur aus dem Milchsäfte von Payena Leerü\nBenth. & Hook. dargestellte Giiktaperchai ' welche letztere Prof. Tschirch selbst in Indien\ngesammelt hatte, aut den wohlcharakterisierten Körpern Gutta (15—82°/,), Alban ve 42],)\nund Fluavil (6—14°/,) neben dem sehr unbeständigen Guttan, welches durch wiederholtes\nAuflösen         und Reinigen      mehr      und mehr           in Gutta       übergeht.      as öhlen           finden       sich noch @erb-\nstoff, Salze        und eine zuckerähnliche Substanz.                           Alban       C“ H% O? wird               der Gutta Percha\ndurch      kochenden        Alkohol     entzogen          und     scheidet        sich aus der Lösung              beim       Erkalten      weiss\nund   krystallinisch        ab.     Es schmilzt           bei 195°.        Salpetersäure         greift       es heftig       an;    Brom     ent-\nwickelt     daraus     HBr, jedoch          ohne Bildung            eines krystallisierten           bromhaltigen Produkts.                  Beim\nDestillieren       des Albans       mit P? S5 entsteht ein schwefelhaltiges Öl; Hydroxylamin                                        und Phenyl-"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "2c495a1688908fd200b29b2ff6dedab385eb7c450644a26e95fc7a199ec4f66c"
+}

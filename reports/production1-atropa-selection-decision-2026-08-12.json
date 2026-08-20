@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "run_id": "production1-atropa-selection-decision-2026-08-12",
+  "decided_at": "2026-08-12T14:45:00+08:00",
+  "selector_report": "reports/production-candidate-selection-2026-08-12.json",
+  "selected": {
+    "source_id": "kohler-volume-1",
+    "taxon": "Atropa Belladonna L.",
+    "pdf_pages": [35, 36],
+    "next_entry_pdf_page": 37,
+    "next_entry_taxon": "Hyoscyamus niger",
+    "raw_ocr_rank": 156,
+    "candidate_count": 235,
+    "raw_ocr_score": 114.4578
+  },
+  "decision": "selected_after_secondary_gates",
+  "why_not_raw_rank_one": "The automatic score is only a conservative OCR triage signal. It does not evaluate Taiwan name availability, taxon risk, or page-image layout, so it is not a promotion ranking.",
+  "secondary_gates": {
+    "maximum_adjacent_pages": true,
+    "next_taxon_boundary_visible": true,
+    "taiwan_public_name_directly_verified": true,
+    "pdf_page_images_reviewed": true,
+    "single_column_text_usable": true,
+    "source_range_contract_passed": true
+  },
+  "taiwan_display_name": "顛茄",
+  "taiwan_occurrence_status": "not_checked",
+  "name_authority": "衛生福利部《中醫藥年報》",
+  "not_claimed": [
+    "Atropa was not the numerically highest OCR candidate.",
+    "The Taiwan naming source is not evidence of Taiwan occurrence.",
+    "Plate captions were reviewed as text; image reasoning remains disabled.",
+    "No page outside PDF pages 35-36 was promoted."
+  ]
+}

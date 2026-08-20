@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 577,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "89e091af2b1ba0eb080ab2cd1d6c80f14ef246ff865519787c935d3de0287590",
+  "render_dpi": 144,
+  "render_sha256": "d6d160db3209d88734fbd4dc066561c46ed1733c9c48d4f0968d8bcde710487b",
+  "input_sha256": "d6d160db3209d88734fbd4dc066561c46ed1733c9c48d4f0968d8bcde710487b",
+  "render_pixel_width": 5690,
+  "render_pixel_height": 8030,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.335,
+  "embedded_character_count": 1130,
+  "ocr_character_count": 50,
+  "ocr_alpha_ratio": 0.78,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.024830426488603896,
+      "text": "Leguminosae. Mimosaceae.)",
+      "width": 0.28893442868018504,
+      "x": 0.668032783021588,
+      "y": 0.9010416662037832
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "88",
+      "width": 0.012295081617116455,
+      "x": 0.6045081967939008,
+      "y": 0.23982558169854862
+    },
+    {
+      "confidence": 1,
+      "height": 0.02041228328432365,
+      "text": "Acacia Catechu Willd.",
+      "width": 0.2540983463017736,
+      "x": 0.3954918126278018,
+      "y": 0.11185515842759064
+    }
+  ],
+  "text": "Leguminosae. Mimosaceae.)\n88\nAcacia Catechu Willd.",
+  "output_sha256": "190f5d04ae26f3828c46445dcb498f906f19f8b7e988715aeec0aa94f2897984",
+  "receipt_sha256": "74bebe316836bf628bb9bc040c5c537f6891017004432ef7fddceb2e78ecc6d4"
+}

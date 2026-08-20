@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 523,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "f483071a5e39aeb1fb1104e685f222955ffb76fe021586c92f0d5d14c77d1acd",
+  "render_dpi": 144,
+  "render_sha256": "4cb8317b5dfd7e342e47a88d6ea5eba51aab8798333f349bfa5469712bd914b6",
+  "input_sha256": "4cb8317b5dfd7e342e47a88d6ea5eba51aab8798333f349bfa5469712bd914b6",
+  "render_pixel_width": 5870,
+  "render_pixel_height": 8234,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.364,
+  "embedded_character_count": 64,
+  "ocr_character_count": 34,
+  "ocr_alpha_ratio": 0.7059,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.019616618989005907,
+      "text": "Iridaceae.",
+      "width": 0.10544641928782295,
+      "x": 0.7795209391832667,
+      "y": 0.9188751075021097
+    },
+    {
+      "confidence": 1,
+      "height": 0.023336562845442055,
+      "text": "Iris florentina L.",
+      "width": 0.2077392917917102,
+      "x": 0.405295326150988,
+      "y": 0.08430232571341012
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "901.",
+      "width": 0.026476576665083296,
+      "x": 0.8940936874923057,
+      "y": 0.030523255938100347
+    }
+  ],
+  "text": "Iridaceae.\nIris florentina L.\n901.",
+  "output_sha256": "7da0aeca6e56d96f857dbe405cab02d2737cfde95888ccf255437d1a581460b4",
+  "receipt_sha256": "a1ad8eb428785886fe9d7652c027a3e44555345c70d677ef603112fb3affde03"
+}

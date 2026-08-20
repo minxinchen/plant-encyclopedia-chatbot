@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-1:p0055-p0056",
+  "owner_shard": "S01",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S01/maker/structure-drafts/kohler-volume-1__p0055-p0056.json",
+  "source_draft_sha256": "8cccb45bf8ff763a514682c07e42ff1d613252309699028c9d156a908ac3e8be",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "3892884a850b30d12efc26d2f1ad04445f460ee375ec9ae84f605ee28861854a",
+    "validation_check_sha256": "d5def45a728f2095ac354c6ad4efe052a11b04f47e59cdbeef85e764fd289549",
+    "source_disposition_sha256": "ea190b1e8ebdf1fbeb8054efcf8d863082a6c0d5ba19fba6506f3302c16754d9",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Althaea rosea",
+    "authorship_candidate": null,
+    "aliases_candidates": [
+      "Alcea rosea L.",
+      "Malva rosacea",
+      "Rose di Francia",
+      "Malva romana",
+      "Malva ultra marina",
+      "Ernrose",
+      "Malva rosea fruticosa"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Althaea rosea",
+      "Alcea rosea"
+    ],
+    "accepted_scientific_name": "Alcea rosea",
+    "display_name_zh_tw": "蜀葵",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0052552",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol_book_alias"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary",
+    "rationale": "A scientific alias explicitly printed in the Köhler entry exactly matches a TaiCOL species with a Taiwan public name.",
+    "checked_at": "2026-08-13T15:49:18+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Althaea rosea",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Althaea+rosea",
+      "retrieved_at": "2026-08-13T15:49:17+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Althaea rosea",
+          "matched_name_id": 212112,
+          "taxon_id": "t0052552",
+          "taicol_name_status": "not-accepted",
+          "accepted_name": "Alcea rosea",
+          "accepted_name_id": 20487,
+          "accepted_usage": [
+            {
+              "usage_id": 149,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0052552",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0052552",
+          "taxon": {
+            "taxon_id": "t0052552",
+            "taxon_status": "accepted",
+            "name_id": 20487,
+            "simple_name": "Alcea rosea",
+            "name_author": "L.",
+            "rank": "Species",
+            "common_name_c": "蜀葵",
+            "alternative_name_c": null,
+            "synonyms": "Althaea rosea",
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          },
+          "auto_promotion_blocked": {
+            "book_binomial": "Althaea rosea",
+            "accepted_name": "Alcea rosea",
+            "reason": "cross-genus synonym links require independent taxonomy review"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Alcea rosea",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Alcea+rosea",
+      "retrieved_at": "2026-08-13T15:49:18+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Alcea rosea",
+          "taxon_id": "t0052552",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Alcea rosea",
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0052552",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0052552",
+          "taxon": {
+            "taxon_status": "accepted",
+            "simple_name": "Alcea rosea",
+            "name_author": "L.",
+            "rank": "Species",
+            "common_name_c": "蜀葵",
+            "alternative_name_c": null,
+            "synonyms": "Althaea rosea",
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "The Taiwan accepted name is linked through a scientific alias printed in Köhler; Köhler facts remain attached to the book taxon."
+  ]
+}

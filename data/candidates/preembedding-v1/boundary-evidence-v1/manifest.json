@@ -1,0 +1,228 @@
+{
+  "schema_version": "1.0",
+  "pipeline_id": "kohler-boundary-evidence-v1",
+  "generated_at": "2026-08-20T22:20:40+08:00",
+  "scope": {
+    "source_volumes": 4,
+    "frozen_pdf_pages": 1774,
+    "over_limit_parents": 18,
+    "evaluated_pages": 188
+  },
+  "assets": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "ia_identifier": "mobot31753002839139",
+      "metadata_url": "https://archive.org/metadata/mobot31753002839139",
+      "djvu_url": "https://archive.org/download/mobot31753002839139/mobot31753002839139_djvu.xml",
+      "djvu_size": 11516387,
+      "djvu_sha1": "2609f4f0febd0e5fb8235ac146208699c422a89f",
+      "bhl_names_url": "https://archive.org/download/mobot31753002839139/mobot31753002839139_names.xml",
+      "bhl_names_size": 611449,
+      "bhl_names_sha1": "fedc41f2ee41c365eef8928a199d6f99ee3f70bb",
+      "aligned_page_count": 410,
+      "bhl_names_page_offset": -1,
+      "bhl_names_alignment_scores": {
+        "-2": 0,
+        "-1": 2,
+        "0": 0,
+        "1": 0,
+        "2": 0
+      }
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "ia_identifier": "mobot31753002839121",
+      "metadata_url": "https://archive.org/metadata/mobot31753002839121",
+      "djvu_url": "https://archive.org/download/mobot31753002839121/mobot31753002839121_djvu.xml",
+      "djvu_size": 22343589,
+      "djvu_sha1": "e7f291b87b7cc3cec123f1a0ed69dd89cd3a0c85",
+      "bhl_names_url": "https://archive.org/download/mobot31753002839121/mobot31753002839121_names.xml",
+      "bhl_names_size": 1767321,
+      "bhl_names_sha1": "eb0528cf8a3c05b607725214d97d4ddd0b9464e7",
+      "aligned_page_count": 738,
+      "bhl_names_page_offset": -1,
+      "bhl_names_alignment_scores": {
+        "-2": 0,
+        "-1": 16,
+        "0": 10,
+        "1": 4,
+        "2": 1
+      }
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "ia_identifier": "mobot31753002839105",
+      "metadata_url": "https://archive.org/metadata/mobot31753002839105",
+      "djvu_url": "https://archive.org/download/mobot31753002839105/mobot31753002839105_djvu.xml",
+      "djvu_size": 15272485,
+      "djvu_sha1": "ef19831abf4f00b22de36167fb05d06fc13ec53c",
+      "bhl_names_url": "https://archive.org/download/mobot31753002839105/mobot31753002839105_names.xml",
+      "bhl_names_size": 979263,
+      "bhl_names_sha1": "25bc9dd7d3bbc09fe556744bb5b90354a2174e0a",
+      "aligned_page_count": 536,
+      "bhl_names_page_offset": -1,
+      "bhl_names_alignment_scores": {
+        "-2": 0,
+        "-1": 14,
+        "0": 5,
+        "1": 5,
+        "2": 7
+      }
+    },
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "ia_identifier": "mobot31753003431696",
+      "metadata_url": "https://archive.org/metadata/mobot31753003431696",
+      "djvu_url": "https://archive.org/download/mobot31753003431696/mobot31753003431696_djvu.xml",
+      "djvu_size": 2628026,
+      "djvu_sha1": "84a40f293e6ce9f873f779dcf1a29a2ef0650725",
+      "bhl_names_url": "https://archive.org/download/mobot31753003431696/mobot31753003431696_names.xml",
+      "bhl_names_size": 146794,
+      "bhl_names_sha1": "e2835547b826bd118331f0123d022f8652f2a030",
+      "aligned_page_count": 90,
+      "bhl_names_page_offset": 0,
+      "bhl_names_alignment_scores": {
+        "-2": 0,
+        "-1": 6,
+        "0": 8,
+        "1": 2,
+        "2": 2
+      }
+    }
+  ],
+  "decision_counts": {
+    "candidate_needs_secondary_evidence": 134,
+    "confirmed_hidden_heading": 16,
+    "confirmed_parent_heading": 16,
+    "no_page_heading_detected": 22
+  },
+  "confirmed_hidden_heading_count": 16,
+  "secondary_review_count": 134,
+  "confirmed_hidden_headings": [
+    {
+      "parent_entry_id": "kohler-volume-1:p0209-p0222",
+      "source_id": "kohler-volume-1",
+      "pdf_page": 213,
+      "taxon_candidate": "Cinchona lancifolia",
+      "evidence_sha256": "5723ae33470b5572bd2f9feb1eb536c526c914eb1dc8f58f642ecedb19446644"
+    },
+    {
+      "parent_entry_id": "kohler-volume-2:p0223-p0230",
+      "source_id": "kohler-volume-2",
+      "pdf_page": 225,
+      "taxon_candidate": "Capsicum annuum",
+      "evidence_sha256": "5c3059ac8a705eb7cf45263147de205947ae19fc9a7e12c35ee9b7fc1b5e1996"
+    },
+    {
+      "parent_entry_id": "kohler-volume-2:p0223-p0230",
+      "source_id": "kohler-volume-2",
+      "pdf_page": 229,
+      "taxon_candidate": "Marrubium vulgare",
+      "evidence_sha256": "7192509c85d23839c5ba130ff40dd04d15f0e4de265d3c86ad4d40c3545341af"
+    },
+    {
+      "parent_entry_id": "kohler-volume-2:p0231-p0246",
+      "source_id": "kohler-volume-2",
+      "pdf_page": 235,
+      "taxon_candidate": "Pistacia Lentiscus",
+      "evidence_sha256": "0ec947c3ed9c4c22935027868359165d8887f0d9935b284dd0f83cad61c19e96"
+    },
+    {
+      "parent_entry_id": "kohler-volume-2:p0231-p0246",
+      "source_id": "kohler-volume-2",
+      "pdf_page": 237,
+      "taxon_candidate": "Tamarindus indica",
+      "evidence_sha256": "dde1358586301843529955f91bc036c23ac31f6df6004789349fd0fb4b730263"
+    },
+    {
+      "parent_entry_id": "kohler-volume-2:p0231-p0246",
+      "source_id": "kohler-volume-2",
+      "pdf_page": 241,
+      "taxon_candidate": "Myristica fragrans",
+      "evidence_sha256": "676ba1895065c2fba012a9896bf202040891b84482d1fce0b636c1b5c93b604f"
+    },
+    {
+      "parent_entry_id": "kohler-volume-2:p0305-p0314",
+      "source_id": "kohler-volume-2",
+      "pdf_page": 309,
+      "taxon_candidate": "Aloë socotrina",
+      "evidence_sha256": "0536ee44928b6b86f5394b9480f9a010a1eeabf53d2986cd69bd82fe170d136b"
+    },
+    {
+      "parent_entry_id": "kohler-volume-3:p0049-p0060",
+      "source_id": "kohler-volume-3",
+      "pdf_page": 57,
+      "taxon_candidate": "Rhamnus Purshiana",
+      "evidence_sha256": "d17fec8811335063b933daf7015af21b60cc9903c54d0a7d49ba5a4d79f8c58d"
+    },
+    {
+      "parent_entry_id": "kohler-volume-3:p0087-p0094",
+      "source_id": "kohler-volume-3",
+      "pdf_page": 93,
+      "taxon_candidate": "Landolphia Watsoniana",
+      "evidence_sha256": "b1e527128315862627cb5aa4541d4c759dbd2bdabe6d3aebbc426938b27833af"
+    },
+    {
+      "parent_entry_id": "kohler-volume-3:p0263-p0276",
+      "source_id": "kohler-volume-3",
+      "pdf_page": 267,
+      "taxon_candidate": "Rubia tinctorum",
+      "evidence_sha256": "571b4f163589baf8d6fac4cd2eaf19a2267ddc17bceab2c16069941ffddff167"
+    },
+    {
+      "parent_entry_id": "kohler-volume-3:p0263-p0276",
+      "source_id": "kohler-volume-3",
+      "pdf_page": 273,
+      "taxon_candidate": "Conyza squarrosa",
+      "evidence_sha256": "cf41b02881c51e0ecc56ba7274cc240c7d92375061a72ea937a0037aefd4d118"
+    },
+    {
+      "parent_entry_id": "kohler-volume-4:p0002-p0017",
+      "source_id": "kohler-volume-4",
+      "pdf_page": 6,
+      "taxon_candidate": "Boletus Satanas",
+      "evidence_sha256": "7ddb783555706df787a557a8ad8c46f9fd90a8e8adc3fd9bd50fb33363d124d2"
+    },
+    {
+      "parent_entry_id": "kohler-volume-4:p0002-p0017",
+      "source_id": "kohler-volume-4",
+      "pdf_page": 9,
+      "taxon_candidate": "Boletus bulbosus",
+      "evidence_sha256": "4e98bda07c36e3d5d65308348a61c9adfbd9c61f458c2abe8b7670e1636948b6"
+    },
+    {
+      "parent_entry_id": "kohler-volume-4:p0002-p0017",
+      "source_id": "kohler-volume-4",
+      "pdf_page": 12,
+      "taxon_candidate": "Amanita muscaria",
+      "evidence_sha256": "20c48a1bd35ffc20494c9917495ada59c79b6fc49f397a5f3928667660935eec"
+    },
+    {
+      "parent_entry_id": "kohler-volume-4:p0002-p0017",
+      "source_id": "kohler-volume-4",
+      "pdf_page": 17,
+      "taxon_candidate": "Amanita caesarea",
+      "evidence_sha256": "750160fdb9317f5b3704a4b82becd9907c7fdb462611936690cad1ee0aa1c6ee"
+    },
+    {
+      "parent_entry_id": "kohler-volume-4:p0044-p0053",
+      "source_id": "kohler-volume-4",
+      "pdf_page": 48,
+      "taxon_candidate": "Saponaria officinalis",
+      "evidence_sha256": "cdd5a93fdd665ac2889346fd8228881e540603cefa7b2cba7ade7caa4fefb894"
+    }
+  ],
+  "safety": {
+    "canonical_writes": false,
+    "embedding_calls": false,
+    "taiwan_names_resolved": false,
+    "layout_or_image_claims_approved": false,
+    "external_text_used_as_book_fact": false,
+    "global_names_used_only_for_boundary_validation": true
+  },
+  "manifest_sha256": "c9654a2367d045b58e4516de780363b27ff0b74737901a367cfeb8349f9623d9"
+}

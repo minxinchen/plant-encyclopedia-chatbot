@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "run_id": "cross-volume-text-readiness-2026-08-12",
+  "validated_at": "2026-08-12T12:41:22+08:00",
+  "status": "ready_for_first_bounded_production_batch_proposal",
+  "not_claimed": [
+    "No volume is fully reviewed.",
+    "The 512/100 profile is not universally superior to page baselines.",
+    "Image reasoning is not part of the text-only production proposal."
+  ],
+  "profile_id": "section-aware-512-100-v1",
+  "sample_results": [
+    {
+      "volume": 1,
+      "record_id": "podophyllum-peltatum",
+      "pdf_pages": [
+        191,
+        192
+      ],
+      "canonical_child_chunks": 4,
+      "query_count": 3,
+      "pure_semantic_verdict": "promote",
+      "hybrid_verdict": "promote",
+      "incremental_usd": 0
+    },
+    {
+      "volume": 2,
+      "record_id": "strychnos-nux-vomica",
+      "pdf_pages": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "canonical_child_chunks": 8,
+      "query_count": 3,
+      "pure_semantic_verdict": "hold_for_evidence",
+      "hybrid_verdict": "promote",
+      "incremental_usd": 0
+    },
+    {
+      "volume": 3,
+      "record_id": "carica-papaya",
+      "pdf_pages": [
+        165,
+        166,
+        167,
+        168,
+        169,
+        170
+      ],
+      "canonical_child_chunks": 16,
+      "query_count": 4,
+      "pure_semantic_verdict": "promote",
+      "hybrid_verdict": "promote",
+      "incremental_usd": 0
+    },
+    {
+      "volume": 4,
+      "record_id": "cibotium-barometz",
+      "pdf_pages": [
+        30,
+        31,
+        32
+      ],
+      "canonical_child_chunks": 3,
+      "query_count": 5,
+      "pure_semantic_verdict": "promote",
+      "hybrid_verdict": "promote",
+      "incremental_usd": 0
+    }
+  ],
+  "four_volume_sample_count": 4,
+  "approved_child_chunks": 31,
+  "distinct_parent_pages": 15,
+  "approved_query_vectors": 15,
+  "chat_acceptance_cases": 28,
+  "grounding_guard_statuses": [
+    "answerable",
+    "incomplete_section",
+    "medical_advice",
+    "unanswerable",
+    "wrong_name"
+  ],
+  "external_model_calls_across_sample_reports": 5,
+  "incremental_usd": 0,
+  "paid_fallback_used": false,
+  "next_batch_gate": "Select one OCR-clean taxon spanning at most six adjacent PDF pages; preserve the same source, Taiwan-name, bilingual retrieval and refusal checks before promotion."
+}

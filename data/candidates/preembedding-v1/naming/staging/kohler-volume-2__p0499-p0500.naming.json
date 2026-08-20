@@ -1,0 +1,172 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-2:p0499-p0500",
+  "owner_shard": "S04",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S04/maker/structure-drafts/kohler-volume-2__p0499-p0500.json",
+  "source_draft_sha256": "ee11bfe57823d277fa2dff83cd1bff898b46a5b515b587d04992cba9f4b7361e",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "d8ad0a860ec11337d56c0c68a175cef0c79204a1f14257872e0375a35ac7a84f",
+    "validation_check_sha256": "87d1dc837c5769ea2e49e3ab8cfa943465ed9536d4419c1e9ec33ffd8ad1129c",
+    "source_disposition_sha256": "3170a8c214dbb32012d2296f4709493b6a53e68aa36bbcbcb188862a4402a233",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Areca Catechu",
+    "authorship_candidate": "L.",
+    "aliases_candidates": [
+      "Betel-Palme",
+      "Arekanuss",
+      "Catechu-Palme",
+      "Pinang",
+      "Noix d'Arec",
+      "Betel-Nut Palm"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Areca Catechu",
+      "Areca catechu"
+    ],
+    "accepted_scientific_name": "Areca catechu",
+    "display_name_zh_tw": "檳榔",
+    "alternative_names_zh_tw": [
+      "菁仔"
+    ],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0040238",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary",
+    "rationale": "TaiCOL accepts the queried book binomial at species rank.",
+    "checked_at": "2026-08-13T20:49:33+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Areca Catechu",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Areca+Catechu",
+      "retrieved_at": "2026-08-13T20:49:33+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Areca",
+          "matched_name_id": 698,
+          "taxon_id": "t0023215",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Areca",
+          "accepted_name_id": 698,
+          "accepted_usage": [
+            {
+              "usage_id": 6434,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": null
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0023215",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0023215",
+          "taxon": {
+            "taxon_id": "t0023215",
+            "taxon_status": "accepted",
+            "name_id": 698,
+            "simple_name": "Areca",
+            "name_author": "L.",
+            "rank": "Genus",
+            "common_name_c": "檳榔屬",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": null,
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Areca catechu",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Areca+catechu",
+      "retrieved_at": "2026-08-13T20:49:33+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Areca catechu",
+          "matched_name_id": 20686,
+          "taxon_id": "t0040238",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Areca catechu",
+          "accepted_name_id": 20686,
+          "accepted_usage": [
+            {
+              "usage_id": 320770,
+              "reference_id": 9991,
+              "reference_type": "Checklist",
+              "publish_year": 2012,
+              "citation": "Forestry Bureau, C. (2012) 外來入侵植物全國現狀調查計畫（4/4）101年度期末成果報告 = Survery of Invasive Alien Plants in Taiwan (4/4) 2012 Final Report",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 99659,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 385,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0040238",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0040238",
+          "taxon": {
+            "taxon_id": "t0040238",
+            "taxon_status": "accepted",
+            "name_id": 20686,
+            "simple_name": "Areca catechu",
+            "name_author": "L.",
+            "rank": "Species",
+            "common_name_c": "檳榔",
+            "alternative_name_c": "菁仔",
+            "synonyms": "Sublimia areca, Areca nigra, Areca hortensis, Areca himalayana, Areca faufel, Areca cathechu",
+            "is_in_taiwan": true,
+            "alien_type": "naturalized",
+            "alien_status_note": "naturalized: Forestry Bureau, 2012 (A類歸化植物)|naturalized: 原生於馬來西亞; 沒有入侵性",
+            "not_official": false,
+            "updated_at": "2026-07-16"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

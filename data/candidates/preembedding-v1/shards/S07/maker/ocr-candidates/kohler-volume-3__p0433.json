@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 433,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "d8c2520612b795f36b0ae40685bc095934d52160d63c1ec7ae5b16b6fa0c955a",
+  "render_dpi": 144,
+  "render_sha256": "9e196f116cfa907dfd42a702021f040243c93a5fc7b60d1a045e7c1a5a465118",
+  "input_sha256": "9e196f116cfa907dfd42a702021f040243c93a5fc7b60d1a045e7c1a5a465118",
+  "render_pixel_width": 5474,
+  "render_pixel_height": 8258,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 5.317,
+  "embedded_character_count": 262,
+  "ocr_character_count": 76,
+  "ocr_alpha_ratio": 0.7763,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.02228485213385689,
+      "text": "Compositae",
+      "width": 0.10089248280607233,
+      "x": 0.8073218101919905,
+      "y": 0.9663285043792363
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185932098874,
+      "text": "(Anthemideae)",
+      "width": 0.12472647165485351,
+      "x": 0.7943107259887656,
+      "y": 0.9433139538860172
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "10",
+      "width": 0.015317286318063617,
+      "x": 0.8796498905663511,
+      "y": 0.07848837230638073
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "29",
+      "width": 0.01969365424510694,
+      "x": 0.8927789933369651,
+      "y": 0.04069767465114882
+    },
+    {
+      "confidence": 1,
+      "height": 0.021883074253324475,
+      "text": "Chrysanthemum cinerariaefolium Benth. & Hook.",
+      "width": 0.45295403765134157,
+      "x": 0.25164114687454797,
+      "y": 0.023255814183402945
+    }
+  ],
+  "text": "Compositae\n(Anthemideae)\n10\n29\nChrysanthemum cinerariaefolium Benth. & Hook.",
+  "output_sha256": "bd0e2fb968cdc19aad947af4fd054a37670b419db16cc3652a3ac723437dfeb9",
+  "receipt_sha256": "8646a4edacb34c40f29031244001ad4d26d6cf3bd111e86f8f6893364cf64ef4"
+}

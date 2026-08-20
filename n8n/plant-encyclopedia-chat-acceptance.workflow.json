@@ -1,0 +1,59 @@
+{
+  "id": "PEChatPolicy001",
+  "name": "Plant Encyclopedia - Chat Language and Scope Gates",
+  "nodes": [
+    {
+      "parameters": {},
+      "id": "manual-trigger",
+      "name": "Manual chat-policy trigger",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [0, 0]
+    },
+    {
+      "parameters": {
+        "command": "set -eu; : \"${PLANT_ENCYCLOPEDIA_LAB:?missing PLANT_ENCYCLOPEDIA_LAB}\"; python3 \"$PLANT_ENCYCLOPEDIA_LAB/scripts/validate-chat-policy.py\""
+      },
+      "id": "validate-chat-policy",
+      "name": "Validate chat language and scope",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [300, 0]
+    },
+    {
+      "parameters": {
+        "command": "set -eu; : \"${PLANT_ENCYCLOPEDIA_LAB:?missing PLANT_ENCYCLOPEDIA_LAB}\"; python3 \"$PLANT_ENCYCLOPEDIA_LAB/scripts/export-google-gem-pack.py\""
+      },
+      "id": "export-google-gem-pack",
+      "name": "Refresh Google Gem evidence pack",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [620, 0]
+    },
+    {
+      "parameters": {
+        "content": "## Zero-cost chat acceptance harness\nManual and inactive by design. It verifies Taiwan Traditional Chinese output, English answers, Simplified-input normalization to zh-TW, refusal of non-Köhler drugs, medical-advice refusal, Taiwan name priority and Simplified Chinese as the last fallback. It then refreshes the Google Drive／Classic Gem knowledge artifact. All commands use the portable lab environment pointer; no paid SaaS dependency is required.",
+        "height": 300,
+        "width": 620
+      },
+      "id": "policy-contract",
+      "name": "Chat policy contract",
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [0, -380]
+    }
+  ],
+  "connections": {
+    "Manual chat-policy trigger": {
+      "main": [[{"node": "Validate chat language and scope", "type": "main", "index": 0}]]
+    },
+    "Validate chat language and scope": {
+      "main": [[{"node": "Refresh Google Gem evidence pack", "type": "main", "index": 0}]]
+    }
+  },
+  "settings": {"executionOrder": "v1"},
+  "active": false,
+  "versionId": "4130b45c-a0bf-4c6c-b59b-9b44d9de7828",
+  "meta": {"templateCredsSetupCompleted": false},
+  "tags": []
+}

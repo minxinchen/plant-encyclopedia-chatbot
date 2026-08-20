@@ -1,0 +1,183 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-2:p0073-p0076",
+  "owner_shard": "S03",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S03/maker/structure-drafts/kohler-volume-2__p0073-p0076.json",
+  "source_draft_sha256": "1e9c06f992547884e62024a31a3da6b63dbc8c8aeda73a4174efb5eda085ee27",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "f10411b12b90becd92102fc0cf5c8fb4a09c041df674fff0dc41b5e80a219233",
+    "validation_check_sha256": "6435db5a35419ce07fbfdaa5cf296aac94005a136e178e7a9a2b2e2bfa5be047",
+    "source_disposition_sha256": "9552f004816296e4da120ab0f9c1be7e78b06da6dad4c29b94be91dad97901ef",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "needs_review",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Inula Helenium",
+    "authorship_candidate": "L.",
+    "aliases_candidates": [
+      "Aster Helenium Scop.",
+      "Aster officinalis AM.",
+      "Helenium vulgare Bauh.",
+      "Corvisartia Helenium Mer."
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Inula Helenium",
+      "Inula helenium"
+    ],
+    "accepted_scientific_name": "Inula helenium",
+    "display_name_zh_tw": "土木香",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_asserted",
+    "taxon_id": null,
+    "authority_record_id": "tfda-tcm-material-inula-helenium",
+    "rationale": "TaiCOL and Tai2 had no exact species record. Taiwan FDA public material explicitly states that 土木香 is the dried root of the Asteraceae plant Inula helenium L.; the Ministry of Culture collection catalogue and Ministry of Agriculture Knowledge Entry independently pair the same scientific and Chinese names. No Taiwan occurrence is inferred.",
+    "checked_at": "2026-08-13T13:16:00+08:00",
+    "display_name_source_scope": "taiwan_government_public",
+    "display_name_source_evidence_ids": [
+      "taiwan_fda"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Inula Helenium",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Inula+Helenium",
+      "retrieved_at": "2026-08-13T13:14:24+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Inula helenium",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Inula+helenium",
+      "retrieved_at": "2026-08-13T13:14:24+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Aster helenium",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Aster+helenium",
+      "retrieved_at": "2026-08-13T13:14:26+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Aster officinalis",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Aster+officinalis",
+      "retrieved_at": "2026-08-13T13:14:26+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Helenium vulgare",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Helenium+vulgare",
+      "retrieved_at": "2026-08-13T13:14:26+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Corvisartia helenium",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Corvisartia+helenium",
+      "retrieved_at": "2026-08-13T13:14:26+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Inula helenium",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Inula%20helenium",
+      "retrieved_at": "2026-08-13T13:14:28+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taiwan_fda",
+      "authority": "衛生福利部食品藥物管理署",
+      "query_name": "Inula helenium",
+      "record_url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?cid=618&id=f636694756085453457&type=2",
+      "retrieved_at": "2026-08-13T13:16:00+08:00",
+      "exact_name_pair": {
+        "scientific_name": "Inula helenium L.",
+        "chinese_name": "土木香"
+      },
+      "authority_record_id": "tfda-tcm-material-inula-helenium",
+      "assertion_scope": "external_taiwan_public_name_only",
+      "evidence_source_scope": "taiwan_government_public"
+    },
+    {
+      "source_id": "taiwan_ministry_culture",
+      "authority": "文化部典藏網",
+      "query_name": "Inula helenium",
+      "record_url": "https://collections.culture.tw/Object.aspx?RNO=VEFJTUgwMDU3NjQ%3D&SYSUID=13",
+      "retrieved_at": "2026-08-13T13:16:00+08:00",
+      "catalogue_number": "TAIMH005764",
+      "exact_name_pair": {
+        "scientific_name": "Inula helenium L.",
+        "chinese_name": "土木香"
+      },
+      "assertion_scope": "external_taiwan_public_name_only",
+      "evidence_source_scope": "taiwan_government_public"
+    },
+    {
+      "source_id": "taiwan_moa",
+      "authority": "農業部農業知識入口網",
+      "query_name": "Inula helenium",
+      "record_url": "https://kmweb.moa.gov.tw/subject/subject.php?id=37300",
+      "retrieved_at": "2026-08-13T13:16:00+08:00",
+      "exact_name_pair": {
+        "scientific_name": "Inula helenium",
+        "chinese_name": "土木香"
+      },
+      "assertion_scope": "external_taiwan_public_name_only",
+      "evidence_source_scope": "taiwan_government_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "TaiCOL and Tai2 do not provide an exact species record; the Taiwan display name is supported by government medicinal-material and collection records.",
+    "Other 木香 drug names can refer to different taxa; keep Inula helenium attached whenever species precision matters.",
+    "Taiwan occurrence is not asserted."
+  ]
+}

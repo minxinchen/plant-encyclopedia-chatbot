@@ -1,0 +1,137 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-3:p0291-p0294",
+  "owner_shard": "S07",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S07/maker/structure-drafts/kohler-volume-3__p0291-p0294.json",
+  "source_draft_sha256": "dbdaeb1b6d0cd238f473e31d2d29bf8287f3a7f35218a7855e82beffb209d25d",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "4638fac75a42fa0288fbe153e95f001485fdfc9006ed52c4a3bf68160132a04d",
+    "validation_check_sha256": "06997161f01625b6d59f5873c206c90f53d91974da4eff490f73da2791296a86",
+    "source_disposition_sha256": "be2ad400f304f12cc77b99522435f52247923cdbd088082dae4754e9e2edf16b",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Peumus Boldus",
+    "authorship_candidate": "Molina",
+    "aliases_candidates": [
+      "Peumus fragrans Pers.",
+      "Boldea fragrans Juss.",
+      "Boldoa fragrans Lindl.",
+      "Auizia fragrans Ruiz et Pav."
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Peumus Boldus",
+      "Peumus boldus"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_zh_tw": null,
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_checked",
+    "taxon_id": null,
+    "display_name_source_scope": "unresolved",
+    "display_name_source_evidence_ids": [],
+    "display_name_is_taiwan_public": false,
+    "display_name_answer_policy": "scientific_name_only",
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping.",
+    "checked_at": "2026-08-13T15:32:46+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Peumus Boldus",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Peumus+Boldus",
+      "retrieved_at": "2026-08-13T15:32:43+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Peumus boldus",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Peumus+boldus",
+      "retrieved_at": "2026-08-13T15:32:43+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Peumus fragrans",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Peumus+fragrans",
+      "retrieved_at": "2026-08-13T15:32:44+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Boldea fragrans",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Boldea+fragrans",
+      "retrieved_at": "2026-08-13T15:32:44+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Boldoa fragrans",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Boldoa+fragrans",
+      "retrieved_at": "2026-08-13T15:32:44+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Auizia fragrans",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Auizia+fragrans",
+      "retrieved_at": "2026-08-13T15:32:44+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Peumus boldus",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Peumus%20boldus",
+      "retrieved_at": "2026-08-13T15:32:46+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears."
+  ]
+}

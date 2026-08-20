@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 727,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "92dcf82486642c28590e0b6ccb9f76dfaa6db6ad00baebd270b09630d0dfeaab",
+  "render_dpi": 144,
+  "render_sha256": "5b1fede7a2e183976101a4e38348990cfcbfbcb3229f397de3bf151404c850ec",
+  "input_sha256": "5b1fede7a2e183976101a4e38348990cfcbfbcb3229f397de3bf151404c850ec",
+  "render_pixel_width": 5114,
+  "render_pixel_height": 7634,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.309,
+  "embedded_character_count": 61,
+  "ocr_character_count": 39,
+  "ocr_alpha_ratio": 0.7949,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.015441581370338575,
+      "text": "Kosaceae.",
+      "width": 0.13535146762670014,
+      "x": 0.8389748216532598,
+      "y": 0.9627220253983657
+    },
+    {
+      "confidence": 1,
+      "height": 0.019623495283580983,
+      "text": "Quillaja",
+      "width": 0.12172270350593889,
+      "x": 0.3230865890290948,
+      "y": 0.07667081057947245
+    },
+    {
+      "confidence": 1,
+      "height": 0.02040074742029585,
+      "text": "Saponaria Molini",
+      "width": 0.22776571933116674,
+      "x": 0.44251627059472043,
+      "y": 0.07558139590436475
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "189",
+      "width": 0.03470715763478882,
+      "x": 0.9305856840025621,
+      "y": 0.03633720942647234
+    }
+  ],
+  "text": "Kosaceae.\nQuillaja\nSaponaria Molini\n189",
+  "output_sha256": "27f89d4742e16561e455fd127eb3978e590a80499c5762ec08671c486736d015",
+  "receipt_sha256": "f622fd6d009b98f0893bb05528580442e875cd90e6a85ef97228de213d7c5432"
+}

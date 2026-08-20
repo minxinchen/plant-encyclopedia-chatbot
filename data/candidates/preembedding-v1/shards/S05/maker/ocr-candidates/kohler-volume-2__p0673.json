@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 673,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "84f15cf3fff79d83738ed4b132337271841d24198eb5892171e60c31452dae1e",
+  "render_dpi": 144,
+  "render_sha256": "c87a1faf3217827b46da45453d7cd7ba4214403eea85071866f24d23107ed926",
+  "input_sha256": "c87a1faf3217827b46da45453d7cd7ba4214403eea85071866f24d23107ed926",
+  "render_pixel_width": 5450,
+  "render_pixel_height": 7934,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.283,
+  "embedded_character_count": 58,
+  "ocr_character_count": 50,
+  "ocr_alpha_ratio": 0.68,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.020951918193272134,
+      "text": "Polygonaceae.",
+      "width": 0.1397188482732119,
+      "x": 0.8117473395021187,
+      "y": 0.906675203955732
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "27",
+      "width": 0.019027484108825043,
+      "x": 0.7420718817827968,
+      "y": 0.6337209304691397
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "4đ",
+      "width": 0.021141648550756564,
+      "x": 0.1522198736104568,
+      "y": 0.3255813955975312
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436846943,
+      "text": "A",
+      "width": 0.019027484108825043,
+      "x": 0.5581395351390336,
+      "y": 0.1773255814421869
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "10",
+      "width": 0.014799153847814939,
+      "x": 0.835095137910483,
+      "y": 0.1438953490694015
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372621082214,
+      "text": "Rheum",
+      "width": 0.0613107784560441,
+      "x": 0.39323467481003294,
+      "y": 0.10610465094236587
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185932098874,
+      "text": "officinale Baill. •",
+      "width": 0.17758985168236685,
+      "x": 0.5243128947930661,
+      "y": 0.10610465161857541
+    }
+  ],
+  "text": "Polygonaceae.\n27\n4đ\nA\n10\nRheum\nofficinale Baill. •",
+  "output_sha256": "150456866b1655a387729f3fad142b954f48d89c62c6af1ebcfe99f2d98a1a9e",
+  "receipt_sha256": "b0d189d3c49d50da3662aabfba7e693fb024cde8d8d51cd5119cabbfaa17b828"
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-4",
+  "volume": 4,
+  "pdf_page": 81,
+  "owner_shard": "S08",
+  "source_pdf": "/Volumes/NO NAME/第四集 mobot31753003431696.pdf",
+  "source_text_sha256": "7bb13cae497105701ff51693a41f1b6dc0167a1236311de291c88f2d930cc53f",
+  "render_dpi": 144,
+  "render_sha256": "cc48ea90b8b1647fc68395f205050443d7af9c067501dde2b1feb37d047dd56f",
+  "input_sha256": "cc48ea90b8b1647fc68395f205050443d7af9c067501dde2b1feb37d047dd56f",
+  "render_pixel_width": 5768,
+  "render_pixel_height": 8476,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 5.695,
+  "embedded_character_count": 118,
+  "ocr_character_count": 54,
+  "ocr_alpha_ratio": 0.7037,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.014534883082859107,
+      "text": "22-",
+      "width": 0.042735041404257004,
+      "x": 0.08547008592180312,
+      "y": 0.9811046513001402
+    },
+    {
+      "confidence": 1,
+      "height": 0.01894149136921719,
+      "text": "Tafel 29",
+      "width": 0.06623931528875501,
+      "x": 0.049145299818992454,
+      "y": 0.9563492059781167
+    },
+    {
+      "confidence": 1,
+      "height": 0.02025759787786574,
+      "text": "Marantaceae",
+      "width": 0.10946753143221566,
+      "x": 0.865138028279064,
+      "y": 0.9397258523703599
+    },
+    {
+      "confidence": 1,
+      "height": 0.026379078153579982,
+      "text": "Ev. C.",
+      "width": 0.07741976479399656,
+      "x": 0.11676467070658131,
+      "y": 0.04515067218962632
+    },
+    {
+      "confidence": 1,
+      "height": 0.022055715795547215,
+      "text": "Maranta arundinacea L.",
+      "width": 0.25310905612244894,
+      "x": 0.36901121661751923,
+      "y": 0.01656308544280527
+    }
+  ],
+  "text": "22-\nTafel 29\nMarantaceae\nEv. C.\nMaranta arundinacea L.",
+  "output_sha256": "abb5902259d00ea3fed80888754744f28c59ba7d073a21d09118e425f85f759b",
+  "receipt_sha256": "d3f6c9e028799a39102621835e474de48f517988609f9a80ef7326f03effd7a1"
+}

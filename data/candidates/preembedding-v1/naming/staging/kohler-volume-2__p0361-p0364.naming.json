@@ -1,0 +1,307 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-2:p0361-p0364",
+  "owner_shard": "S04",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S04/maker/structure-drafts/kohler-volume-2__p0361-p0364.json",
+  "source_draft_sha256": "7706a4cea5296b69479c6eff77001352a05a97eeb4f95939bca75636d2f8c41a",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "3930b9349d9292acda17fa170f7dcba2d0a8a54c9e409dbc443423281c2ecadc",
+    "validation_check_sha256": "3d7bef3150dff57223315dd716e1e77b6b42fd3f0497b4a83b5597732f379010",
+    "source_disposition_sha256": "26b9179395f4e2e4f1713dfb8458ab1b32947c5bf7b6023f783651481ea3d6f5",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Rieinus communis",
+    "authorship_candidate": "L.",
+    "aliases_candidates": [
+      "Christuspalme",
+      "Ülnusspalme",
+      "Agnus Castus",
+      "Ricin",
+      "Palme de Christ",
+      "Ricin ordinaire",
+      "Comon palma Christ",
+      "Wunderbaum",
+      "Rauscher",
+      "Türkischer Hanf",
+      "Mollenkraut",
+      "Zeckenbaum",
+      "Wundelbaum",
+      "Semen Ricini",
+      "Semen Cataputiae majoris",
+      "Purgirkórner",
+      "Brechkórner",
+      "Oleum Ricini",
+      "Oleum Castoris",
+      "Oleum Palmae Christi",
+      "Castoröl"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Rieinus communis"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_zh_tw": null,
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_checked",
+    "taxon_id": null,
+    "display_name_source_scope": "unresolved",
+    "display_name_source_evidence_ids": [],
+    "display_name_is_taiwan_public": false,
+    "display_name_answer_policy": "scientific_name_only",
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping.",
+    "checked_at": "2026-08-13T15:28:10+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Rieinus communis",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Rieinus+communis",
+      "retrieved_at": "2026-08-13T15:28:04+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Ricinus communis",
+          "matched_name_id": 23949,
+          "taxon_id": "t0055106",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Ricinus communis",
+          "accepted_name_id": 23949,
+          "accepted_usage": [
+            {
+              "usage_id": 286727,
+              "reference_id": 3024,
+              "reference_type": "Journal Article",
+              "publish_year": 2022,
+              "citation": "Chang-Yang, C.-H., Su, M.-h., Chiang, P.-H. & Hsieh, C.-F. (2022) Updating the Checklist of the Naturalized Flora in Taiwan. <i>Taiwania</i> 67(1): 1–8.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 179479,
+              "reference_id": 2454,
+              "reference_type": "Book",
+              "publish_year": 2017,
+              "citation": "Ed. Comm. Red List TW Plants,  (2017) The Red List of Vascular Plants of Taiwan, 2017 = 2017 臺灣維管束植物紅皮書名錄.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 276568,
+              "reference_id": 957,
+              "reference_type": "Book Chapter",
+              "publish_year": 1993,
+              "citation": "Hsieh, C.-F., Chaw, S.-M. & Wang, J.-C. (1993) 61. Euphorbiaceae. In: Flora of Taiwan, 2 ed., vol. 3. 414–504.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 321201,
+              "reference_id": 10002,
+              "reference_type": "Journal Article",
+              "publish_year": 2008,
+              "citation": "Sun, L.-J. (2008) 太魯閣國家公園入侵植物初探. <i>Nature Conservation Quarterly = 自然保育季刊</i> 61: 24–29.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 320584,
+              "reference_id": 9991,
+              "reference_type": "Checklist",
+              "publish_year": 2012,
+              "citation": "Forestry Bureau, C. (2012) 外來入侵植物全國現狀調查計畫（4/4）101年度期末成果報告 = Survery of Invasive Alien Plants in Taiwan (4/4) 2012 Final Report",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 318272,
+              "reference_id": 8031,
+              "reference_type": "Checklist",
+              "publish_year": 2017,
+              "citation": "GISD, - (2017) Global Invasive Species Database",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 125037,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 4515,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0055106",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0055106",
+          "taxon": {
+            "taxon_id": "t0055106",
+            "taxon_status": "accepted",
+            "name_id": 23949,
+            "simple_name": "Ricinus communis",
+            "name_author": "L.",
+            "rank": "Species",
+            "common_name_c": "蓖麻",
+            "alternative_name_c": "篦麻,蓖麻子",
+            "synonyms": "Ricinus communis var. purpurascens, Ricinus communis fo. rufescens, Ricinus communis subvar. viridus, Ricinus communis fo. maculatus, Ricinus communis fo. argentatus, Ricinus communis fo. incarnatus, Ricinus communis fo. canatus, Ricinus communis var. megalospermus, Ricinus communis fo. cinereatus, Ricinus communis var. lividus, Ricinus communis fo. niveatus, Ricinus communis var. speciosus, Ricinus communis fo. atrofuscatus, Ricinus communis fo. atrophoeniceus, Ricinus communis fo. nigellus, Ricinus communis subsp. manshuricus, Ricinus communis var. badius, Ricinus communis fo. guttatus, Ricinus communis subvar. glauceus, Ricinus communis fo. radiatus, Ricinus communis fo. atropurpureatus, Ricinus communis fo. avellanatus, Ricinus communis fo. carneatus, Ricinus communis fo. oblongus, Ricinus communis fo. stigmosus, Ricinus communis fo. canescens, Ricinus communis var. armatus, Ricinus communis fo. ostrinatus, Ricinus communis subvar. gracilis, Ricinus communis fo. fuscatus, Ricinus communis fo. scaber, Ricinus communis fo. laevis, Ricinus communis fo. tigrinus, Ricinus sanguineus, Ricinus communis subvar. pruinosus, Ricinus communis fo. striatus, Ricinus communis fo. sulcatus, Ricinus communis var. leucocarpus, Ricinus communis fo. venosus, Ricinus communis subvar. subviridus, Ricinus communis var. vasconcellosii, Ricinus communis fo. sordidus, Ricinus communis fo. scriptus, Ricinus communis fo. atrobrunneatus, Ricinus communis fo. atropunicatus, Ricinus communis fo. punctatus, Ricinus communis var. aegyptiaceus, Ricinus zanzibarensis, Ricinus communis fo. zonatus, Ricinus communis subvar. roseus, Ricinus communis var. undulatus, Ricinus communis fo. umbrinus, Ricinus communis var. bailundensis, Ricinus communis fo. subrotundus, Ricinus communis var. inermis, Ricinus communis subvar. violeus, Ricinus communis fo. marmoreatus, Ricinus communis fo. zebrinus, Ricinus communis subvar. epruinosus, Ricinus communis subvar. almeidae, Ricinus communis fo. cervatus, Ricinus communis fo. pardalinus, Ricinus communis fo. cinerascens, Ricinus communis fo. glaucus, Ricinus communis fo. plumbeatus, Ricinus communis fo. punicans, Ricinus communis fo. obscurus, Ricinus communis fo. viridis, Ricinus communis fo. nigrescens, Ricinus communis subvar. griseus, Ricinus communis fo. russatus, Ricinus communis fo. murinatus, Ricinus communis var. hybridus, Ricinus communis fo. atrofulvatus, Ricinus communis fo. fulvatus, Ricinus communis fo. pullatus, Ricinus communis subvar. macrophyllus, Ricinus communis fo. picturatus, Ricinus armatus, Ricinus communis fo. exiguus, Ricinus communis fo. argyratus, Ricinus communis fo. gilvus, Ricinus communis fo. fumatus, Ricinus communis fo. vinatus, Ricinus communis fo. atratus, Ricinus communis var. macrocarpus, Ricinus communis fo. punctulatus, Ricinus communis var. brasiliensis, Ricinus nanus, Ricinus communis subvar. violaceus, Ricinus obermannii, Ricinus macrocarpus, Ricinus microcarpus, Ricinus zanzibarinus, Ricinus vulgaris, Ricinus urens, Ricinus undulatus, Ricinus tunisensis, Ricinus spectabilis, Ricinus speciosus, Ricinus scaber, Ricinus rutilans, Ricinus rugosus, Ricinus ruber, Ricinus purpurascens, Ricinus persicus, Ricinus perennis, Ricinus peltatus, Ricinus minor, Ricinus microcarpus var. spontaneus, Ricinus microcarpus var. atrovirens, Ricinus metallicus, Ricinus messeniacus, Ricinus megalosperma, Ricinus medius, Ricinus medicus, Ricinus macrophyllus, Ricinus macrocarpus var. nudus, Ricinus lividus, Ricinus leucocarpus, Ricinus laevis, Ricinus krappa, Ricinus japonicus, Ricinus inermis, Ricinus hybridus, Ricinus glaucus, Ricinus giganteus, Ricinus gibsonii, Ricinus europaeus, Ricinus digitatus, Ricinus compactus, Ricinus communis var. virens, Ricinus communis var. violaceocaulis, Ricinus communis var. typicus, Ricinus communis var. spontaneus, Ricinus communis var. sanguineus, Ricinus communis var. rugosus, Ricinus communis var. rheedianus, Ricinus communis var. reichenbachianus, Ricinus communis var. nanus, Ricinus communis var. minor, Ricinus communis var. microspermus, Ricinus communis var. microcarpus, Ricinus communis var. japonicus, Ricinus communis var. indehiscens, Ricinus communis var. griseofolius, Ricinus communis var. genuinus, Ricinus communis var. caesius, Ricinus communis var. brevinodis, Ricinus communis var. benguelensis, Ricinus communis var. americanus, Ricinus communis var. amblyocalyx, Ricinus communis var. africanus, Ricinus communis subsp. zanzibarinus, Ricinus communis subsp. sinensis, Ricinus communis subsp. ruderalis, Ricinus communis subsp. persicus, Ricinus communis subsp. mexicanus, Ricinus communis subsp. indicus, Ricinus communis fo. zollingeri, Ricinus communis fo. subpurpurascens, Ricinus communis fo. rutilans, Ricinus communis fo. oligacanthus, Ricinus communis fo. intermedius, Ricinus communis fo. erythrocladus, Ricinus communis fo. epiglaucus, Ricinus communis fo. denudatus, Ricinus communis fo. blumeanus, Ricinus cambodgensis, Ricinus borboniensis, Ricinus badius, Ricinus atropurpureus, Ricinus angulatus, Ricinus africanus, Croton spinosus, Cataputia minor, Cataputia major",
+            "is_in_taiwan": true,
+            "alien_type": "naturalized",
+            "alien_status_note": "naturalized: Chang-Yang et al., 2022 (Origin: Tropical Africa)|naturalized: Ed. Comm. Red List TW Plants, 2017|invasive: Sun, 2008|naturalized: Forestry Bureau, 2012 (A類歸化植物)|naturalized: 原生於熱帶地區; 具有入侵性",
+            "not_official": false,
+            "updated_at": "2026-07-16"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Agnus castus",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Agnus+castus",
+      "retrieved_at": "2026-08-13T15:28:05+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Ricin ordinaire",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Ricin+ordinaire",
+      "retrieved_at": "2026-08-13T15:28:05+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Comon palma",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Comon+palma",
+      "retrieved_at": "2026-08-13T15:28:05+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Semen ricini",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Semen+ricini",
+      "retrieved_at": "2026-08-13T15:28:05+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Semen cataputiae",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Semen+cataputiae",
+      "retrieved_at": "2026-08-13T15:28:05+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Purgirk rner",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Purgirk+rner",
+      "retrieved_at": "2026-08-13T15:28:05+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Brechk rner",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Brechk+rner",
+      "retrieved_at": "2026-08-13T15:28:05+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Oleum ricini",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Oleum+ricini",
+      "retrieved_at": "2026-08-13T15:28:05+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Oleum castoris",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Oleum+castoris",
+      "retrieved_at": "2026-08-13T15:28:05+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Oleum palmae",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Oleum+palmae",
+      "retrieved_at": "2026-08-13T15:28:05+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Rieinus communis",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Rieinus%20communis",
+      "retrieved_at": "2026-08-13T15:28:10+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears."
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "schema_version": "1.0",
+  "checked_at": "2026-08-11T11:34:18+08:00",
+  "scope": "Public Taiwan sources relevant to botanical display names, scientific names, materia-medica names, occurrence evidence and local-language aliases.",
+  "policy": {
+    "plant_display_primary": ["taicol", "tai2"],
+    "materia_medica_primary": ["taiwan-herbal-pharmacopeia-4", "mohw-prescription-materia-medica-names"],
+    "occurrence_only_or_secondary": ["tbd", "tbn", "tai-herbarium", "taif", "hast", "nmns-open-specimens"],
+    "alias_only": ["moe-revised-mandarin", "moe-taigi", "moe-hakka", "indigenous-language-dictionary"],
+    "simplified_chinese": "last_resort_only"
+  },
+  "sources": [
+    {
+      "source_id": "taicol",
+      "title": "臺灣物種名錄 TaiCOL",
+      "owner": "農業部林業及自然保育署支持之臺灣物種名錄",
+      "url": "https://taicol.tw/zh-hant/",
+      "category": "taxonomy",
+      "roles": ["accepted_scientific_name", "taiwan_display_name", "synonym"],
+      "priority": 1,
+      "access": "public_web",
+      "caution": "TaiBNET is the former name of TaiCOL and is not counted as a separate authority."
+    },
+    {
+      "source_id": "tai2",
+      "title": "台灣植物資訊整合查詢系統 Plants of Taiwan",
+      "owner": "國立臺灣大學生態學與演化生物學研究所",
+      "url": "https://tai2.ntu.edu.tw/",
+      "category": "taxonomy_and_name_history",
+      "roles": ["taiwan_display_name", "synonym", "historical_name", "local_language_alias", "specimen"],
+      "priority": 2,
+      "access": "public_web_noncommercial_terms",
+      "caution": "Cite the source; contact NTU before commercial bulk reuse."
+    },
+    {
+      "source_id": "taiwan-herbal-pharmacopeia-4",
+      "title": "臺灣中藥典第四版及修正公告",
+      "owner": "衛生福利部中醫藥司",
+      "url": "https://dep.mohw.gov.tw/docmap/lp-759-108.html",
+      "category": "materia_medica",
+      "roles": ["taiwan_materia_medica_name", "source_organism", "medicinal_part"],
+      "priority": 1,
+      "access": "public_pdf_and_notices",
+      "caution": "Apply later amendments as well as the base fourth-edition PDF."
+    },
+    {
+      "source_id": "mohw-prescription-materia-medica-names",
+      "title": "處方中應使用之藥材名稱",
+      "owner": "衛生福利部中醫藥司",
+      "url": "https://dep.mohw.gov.tw/docmap/fp-871-5929-108.html",
+      "category": "materia_medica",
+      "roles": ["taiwan_prescription_name"],
+      "priority": 2,
+      "access": "public_web",
+      "caution": "A prescription material name is not automatically the botanical display name."
+    },
+    {
+      "source_id": "tbd",
+      "title": "臺灣野生植物資料庫 TBD",
+      "owner": "農業部生物多樣性研究所",
+      "url": "https://tbd.tbn.org.tw/",
+      "category": "wild_plant_reference",
+      "roles": ["taxonomy_crosscheck", "taiwan_occurrence", "distribution", "conservation"],
+      "priority": 3,
+      "access": "public_web",
+      "caution": "Use for occurrence and cross-checking; do not silently override TaiCOL names."
+    },
+    {
+      "source_id": "tbn",
+      "title": "台灣生物多樣性網絡 TBN",
+      "owner": "農業部生物多樣性研究所",
+      "url": "https://www.tbn.org.tw/",
+      "category": "occurrence_and_taxon_api",
+      "roles": ["taiwan_occurrence", "taxon_tree", "observation"],
+      "priority": 3,
+      "access": "public_web_and_api",
+      "caution": "Observation evidence and accepted display-name authority are separate."
+    },
+    {
+      "source_id": "flora-of-taiwan",
+      "title": "Flora of Taiwan first and second editions",
+      "owner": "臺灣植物誌編纂團隊／國立臺灣大學數位典藏",
+      "url": "https://tai2.ntu.edu.tw/",
+      "category": "flora",
+      "roles": ["historical_scientific_name", "description", "citation"],
+      "priority": 3,
+      "access": "public_electronic_books",
+      "caution": "Historical taxonomy may differ from current TaiCOL acceptance."
+    },
+    {
+      "source_id": "tai-herbarium",
+      "title": "臺灣大學植物標本館 TAI／NTUF",
+      "owner": "國立臺灣大學",
+      "url": "https://tai2.ntu.edu.tw/",
+      "category": "herbarium",
+      "roles": ["specimen", "historical_name", "taiwan_occurrence"],
+      "priority": 4,
+      "access": "public_web",
+      "caution": "Specimen labels can preserve historical names; do not treat every label as current acceptance."
+    },
+    {
+      "source_id": "taif",
+      "title": "林業試驗所植物標本館 TAIF",
+      "owner": "農業部林業試驗所",
+      "url": "https://taif.tfri.gov.tw/tw/index.php",
+      "category": "herbarium",
+      "roles": ["specimen", "taiwan_occurrence", "type_specimen"],
+      "priority": 4,
+      "access": "public_web",
+      "caution": "Use as specimen evidence, not the first display-name authority."
+    },
+    {
+      "source_id": "hast",
+      "title": "中央研究院植物標本館 HAST",
+      "owner": "中央研究院生物多樣性研究博物館",
+      "url": "https://hast.biodiv.tw/",
+      "category": "herbarium",
+      "roles": ["specimen", "type_specimen", "east_asia_crosscheck"],
+      "priority": 4,
+      "access": "public_web",
+      "caution": "Use as specimen and taxonomy evidence, not a direct replacement for TaiCOL."
+    },
+    {
+      "source_id": "nmns-open-specimens",
+      "title": "國立自然科學博物館數位典藏標本",
+      "owner": "國立自然科學博物館／政府資料開放平臺",
+      "url": "https://data.nat.gov.tw/dataset/26792",
+      "category": "museum_specimen",
+      "roles": ["specimen", "collection_record"],
+      "priority": 4,
+      "access": "open_data",
+      "caution": "Use for collection corroboration, not primary nomenclature."
+    },
+    {
+      "source_id": "taiwan-herbal-pharmacopeia-atlas-2",
+      "title": "臺灣中藥典圖鑑第二版",
+      "owner": "衛生福利部",
+      "url": "https://www.mohw.gov.tw/dl-87916-56b3a7d6-2927-4ee3-b95c-e7c3473354dd.html",
+      "category": "materia_medica_atlas",
+      "roles": ["materia_medica_image", "source_organism_crosscheck"],
+      "priority": 3,
+      "access": "public_pdf",
+      "caution": "Image identification supports review but does not add facts to Köhler."
+    },
+    {
+      "source_id": "common-chinese-materia-medica-atlas",
+      "title": "常用中藥材圖鑑",
+      "owner": "行政院衛生署中醫藥委員會／衛生福利部",
+      "url": "https://www.mohw.gov.tw/dl-67173-f2f41d59-5080-49f3-b764-227d059b8006.html",
+      "category": "materia_medica_atlas",
+      "roles": ["materia_medica_name", "source_organism", "medicinal_part", "image"],
+      "priority": 3,
+      "access": "public_pdf",
+      "caution": "Older publication; current pharmacopeia and amendments win conflicts."
+    },
+    {
+      "source_id": "mohw-tcm-color-atlas",
+      "title": "中藥彩色圖鑑",
+      "owner": "衛生福利部",
+      "url": "https://www.mohw.gov.tw/cp-3161-26461-1.html",
+      "category": "materia_medica_atlas",
+      "roles": ["image_identification", "misidentification_review"],
+      "priority": 3,
+      "access": "public_web",
+      "caution": "Use for identification review only."
+    },
+    {
+      "source_id": "taiwan-indigenous-medicinal-plants",
+      "title": "臺灣原住民族藥用植物彙編",
+      "owner": "衛生福利部中醫藥司",
+      "url": "https://dep.mohw.gov.tw/DOCMAP/cp-809-58504-108.html",
+      "category": "local_medicinal_names",
+      "roles": ["indigenous_alias", "taiwan_traditional_name"],
+      "priority": 4,
+      "access": "public_publication",
+      "caution": "Traditional-use material is alias metadata only and is not modern medical advice."
+    },
+    {
+      "source_id": "moa-medicinal-plants",
+      "title": "農業部藥用植物主題館",
+      "owner": "農業部農業知識入口網",
+      "url": "https://kmweb.moa.gov.tw/subject/index.php?id=132",
+      "category": "educational_reference",
+      "roles": ["cultivation_name", "educational_crosscheck"],
+      "priority": 5,
+      "access": "public_web",
+      "caution": "Supplemental only; not a primary taxonomy or pharmacopeia authority."
+    },
+    {
+      "source_id": "moe-revised-mandarin",
+      "title": "教育部重編國語辭典修訂本",
+      "owner": "教育部",
+      "url": "https://dict.revised.moe.edu.tw/",
+      "category": "language_dictionary",
+      "roles": ["traditional_chinese_orthography", "general_word_meaning"],
+      "priority": 5,
+      "access": "public_web",
+      "caution": "Not a botanical taxonomy authority."
+    },
+    {
+      "source_id": "moe-taigi",
+      "title": "教育部臺灣台語常用詞辭典",
+      "owner": "教育部",
+      "url": "https://sutian.moe.edu.tw/zh-hant/",
+      "category": "language_dictionary",
+      "roles": ["taigi_alias", "pronunciation"],
+      "priority": 5,
+      "access": "public_web",
+      "caution": "Alias only; preserve the linked scientific taxon."
+    },
+    {
+      "source_id": "moe-hakka",
+      "title": "教育部臺灣客語辭典",
+      "owner": "教育部",
+      "url": "https://hakkadict.moe.edu.tw/",
+      "category": "language_dictionary",
+      "roles": ["hakka_alias", "pronunciation"],
+      "priority": 5,
+      "access": "public_web",
+      "caution": "Alias only; preserve the linked scientific taxon."
+    },
+    {
+      "source_id": "indigenous-language-dictionary",
+      "title": "原住民族語言線上辭典",
+      "owner": "財團法人原住民族語言研究發展基金會",
+      "url": "https://e-dictionary.ilrdf.org.tw/",
+      "category": "language_dictionary",
+      "roles": ["indigenous_language_alias"],
+      "priority": 5,
+      "access": "public_web",
+      "caution": "Alias only; require taxon linkage and language attribution."
+    }
+  ]
+}

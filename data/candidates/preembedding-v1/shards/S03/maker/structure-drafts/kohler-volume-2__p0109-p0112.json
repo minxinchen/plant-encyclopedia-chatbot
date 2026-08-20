@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0109-p0112",
+  "owner_shard": "S03",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 135.366,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0109-p0112",
+    "book_taxon": {
+      "scientific_name_candidate": "Sassafras offieinale",
+      "authorship_candidate": "Nees v. Esenb.",
+      "aliases_candidates": [
+        "Laurus Sassafras L.",
+        "Persea Sassafras Spr.",
+        "Sassafras album Nees",
+        "Sassafras Sassafras Karsten"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 109,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "屬 Lauraceae，種 Sassafras，異名包括 Laurus Sassafras 及 Persea Sassafras。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          5
+        ],
+        "exact_source_quote": "                           Sassafras offieinale Nees v. ‫یمن‬‎\n            Syn. Laurus        Sassafras L. Persea Sassafras Spr. Sassafras album Nees.\n                                        Sassafras Sassafras Karsten.\n\n            Familie: Lauraceae.      Gattung: Sassafras Bauh."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 109,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "北美灌木或喬木，高10-30米，葉互生，春葉單葉，夏葉2-3裂，花單性，果實藍黑色。",
+        "warnings": [],
+        "source_line_range": [
+          6,
+          16
+        ],
+        "exact_source_quote": "          Beschreibung.        Diócischer, in den nórdlichen Staaten Nordamerikas strauchartiger, bis\n10 Meter hoher, in dem wärmeren Nordamerika bis 30 Meter hoher, stattlicher Baum mit über 15 Ctm.\ndicker, ästig-knorriger, hin- und hergebogener, schwammig-borkiger Wurzel und cylindrischen, zähen,\ngelblich-grünen, in der Jugend graufilzig berindeten Zweigen. Knospe entweder nur blättertragend\nund dann kleiner und seitenstándig oder blatt- und blüthentragend und dann endstindig oder der\nSpitze genähert, mit gewölbten, trockenen, kastanienbraunen Schuppen bedeckt. Die mit 1—4 Ctm. langen\nStielen versehenen Blätter dünn, weich, alljährlich abfallend, wechselständig, oft gegenstündig, anfangs `\nbeiderseits behaart, weich-krautartig, später nur auf der Unterfläche grau seidenhaarig, zuletzt kahl und\npapierartig, entweder auf beiden Seiten gleichfarbig, dunkelgrün oder unterseits blasser, fiedernervig,\nbis 14 Ctm. lang, bis 8 Ctm. breit, aus zugespitzter oder keilförmiger Basis oval und zugespitzt oder\nstumpf. Frühjahrsblütter einfach, die späteren stumpf buchtig 2—3lappig, selten alle einfach. Die"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 109,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "根橫切面顯示層狀皮層及多孔木質部，含紅色色素及精油細胞，木質部具明顯年輪。",
+        "warnings": [],
+        "source_line_range": [
+          36,
+          43
+        ],
+        "exact_source_quote": "          Anatomisches. Der Querschnitt der Wurzel zeigt eine geschichtete, radial gestreifte Rinde\nund ein, namentlich an der Grenze der Jahrringe, poröses Holz, welches von zahlreichen schmalen\nMarkstrahlen durchschnitten ist. Die Wurzelrinde besteht aus einer aussen schwammigen Borke, deren\nparenchymatische Zellen mit dunkelrothem Farbstoff und vereinzelt mit gelbem ätherischen Oele an-\ngefüllt sind. Nach innen folgt ein braunwandiges Gewebe mit zahlreichen grossen Oelzellen und ver- :\n\n\n                                                                                                                    100"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 110,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "產於北美，分佈範圍從密蘇里州及佛羅里達州至加拿大。",
+        "warnings": [],
+        "source_line_range": [
+          20,
+          20
+        ],
+        "exact_source_quote": "            Vorkommen.           Nordamerika;        von    Missouri und Florida bis Canada."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 110,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源自西班牙語，誤傳可治膀胱結石；1562年法國殖民者於佛羅里達發現其藥用價值。",
+        "warnings": [],
+        "source_line_range": [
+          23,
+          36
+        ],
+        "exact_source_quote": "            Name    und      Geschichtliches.              Der Name      Sassafras      stammt    aus dem spanischen salsafras\n(salsifragia, saxifraga), weil man dem Baume irrthümlicherweise gleich dem Steinbrech die Wirkung\nzuschrieb, den Blasenstein zu zerkleinern und zu beseitigen. Laurus vom keltischen blawr oder lawer\ngrün, wegen der immergrünen Blätter; siehe ausserdem Lorbeer. Persea (egoea, 2۵089 7080010» der\nGriechen), ein dem Perseus geweihter Baum. —                                             l\n          Bei der auf Veranlassung Colignys von den Capitainen Ribaut und Laudonnière 1562\nbis 1564 in Florida versuchten Colonisation wurden die Franzosen mit dem damals von den Ein-\ngeborenen als Heilmittel gegen das Fieber benutzten und Pavame benannten Sassafras bekannt, der bald\ndarauf in Europa zur Einführung gelangte. Gegen Ende des 16. Jahrhunderts wird Sassafras- oder\nFenchelholz: Lignum Floridum, Xylomarathrum in verschiedenen Apothekertaxen Deutschlands auf-\ngeführt und 1597 schon in England kultivirt.     Sala aus Vicenza (1610—1639 in Deutschland) war\nder erste, der das im Wasser sinkende Oel der Sassafras beobachtete.                        John Maud      erhielt 1738 Safrol-\nkrystalle von ziemlichem Umfange; letztere wurden erst 1844 von Saint Evre näher untersucht und\nihre Zusammensetzung festgestellt."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 111,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史上用作發汗利尿劑，治療梅毒、皮膚病及風濕；精油用於驅蛇蟲及解毒。",
+        "warnings": [],
+        "source_line_range": [
+          45,
+          52
+        ],
+        "exact_source_quote": "          Anwendung.            Das   Sassafrasholz     wird     im   Aufguss    als   ein   schweiss-   und   harntreibendes,\n überhaupt blutreinigendes Mittel gegen Syphilis, Hautausschläge, Scropheln, Rheumatismus, Gicht etc.\n angewendet. Der wirksame Bestandtheil ist das ätherische Oel (Oleum Sassafras aetherum). Letzteres\n dient in der Pharmacie zur Geschmacksverbesserung, äusserlich gegen Biss und Stich von Schlangen\n und Insekten. Shelby rühmt es als Antidot bei Bilsenkraut, Stechapfel- und Tabakvergiftungen; es\n wird als mildes Antiseptikum und Desinficiens betrachtet.    In Amerika wird das Oel zum aromati-\n siren der Speisen, des Tabaks und der Seife und als Zusatz zu erfrischenden Getränken sehr häufig\n angewendet. (Husemann, Arzneimittell. 832.)"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "208be35da91e36382e69bf7ac55c414eb481ce182a04c5edb57086b93bcb3b25"
+}

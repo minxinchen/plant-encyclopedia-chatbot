@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 537,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "89c6e00bb50b91230f3b1d968280493bc0f17543001de6158ebcded0e51a1083",
+  "render_dpi": 144,
+  "render_sha256": "35b5a64de72420392074361851412c8261f07472ead5ecd1cd73805cf0801441",
+  "input_sha256": "35b5a64de72420392074361851412c8261f07472ead5ecd1cd73805cf0801441",
+  "render_pixel_width": 6026,
+  "render_pixel_height": 8030,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.91,
+  "embedded_character_count": 69,
+  "ocr_character_count": 65,
+  "ocr_alpha_ratio": 0.8,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.02180232509734137,
+      "text": "Umbelliferae.",
+      "width": 0.13152804882102498,
+      "x": 0.7698259182200484,
+      "y": 0.9171511630690619
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "9",
+      "width": 0.013539651491274896,
+      "x": 0.6499032884323124,
+      "y": 0.15843023238332055
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883082859107,
+      "text": "WMüller n.d. Nat.",
+      "width": 0.10251450522877259,
+      "x": 0.8123791120471223,
+      "y": 0.1264534886911286
+    },
+    {
+      "confidence": 1,
+      "height": 0.027616277573600634,
+      "text": "Archangelica",
+      "width": 0.13346228438816715,
+      "x": 0.3655705979799977,
+      "y": 0.10610465218703691
+    },
+    {
+      "confidence": 1,
+      "height": 0.027034695186312185,
+      "text": "officinalis Hoffm.",
+      "width": 0.21488624870264994,
+      "x": 0.5530984638689375,
+      "y": 0.10421521058417116
+    }
+  ],
+  "text": "Umbelliferae.\n9\nWMüller n.d. Nat.\nArchangelica\nofficinalis Hoffm.",
+  "output_sha256": "38901491eca0d9177eb410515b90be909fa2c20acb6d000651a075cd3051818c",
+  "receipt_sha256": "7860f07563d2bb2259b8ffcc538210638217cd13b171f0f00047aed9b92e9e7b"
+}

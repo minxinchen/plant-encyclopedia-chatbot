@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-2:p0197-p0198",
+  "owner_shard": "S03",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S03/maker/structure-drafts/kohler-volume-2__p0197-p0198.json",
+  "source_draft_sha256": "a112bffc0e655a746ef7628374302c884d0314685ef9f20c329788f9e646c869",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "f8b00b39acb45a1c800fe7afe77e364dba998269152be63a7813cfcc12f908ed",
+    "validation_check_sha256": "dbe40ad02d4cfdbd122ee42eb73a7c22d969a762e33d38c1e1ad0fada0e7aa3c",
+    "source_disposition_sha256": "22f87ca07216acb95562643bb741b62d73094d33d5a8305bb60a363b131684ef",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Levistieum offieinale",
+    "authorship_candidate": "Koch.",
+    "aliases_candidates": [
+      "Levisticum paludapifolium Aschers.",
+      "Angelica Levisticum Baillon.",
+      "Ingusticum Levisticum L."
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Levistieum offieinale"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_zh_tw": null,
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_checked",
+    "taxon_id": null,
+    "display_name_source_scope": "unresolved",
+    "display_name_source_evidence_ids": [],
+    "display_name_is_taiwan_public": false,
+    "display_name_answer_policy": "scientific_name_only",
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping.",
+    "checked_at": "2026-08-13T19:32:01+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Levistieum offieinale",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Levistieum+offieinale",
+      "retrieved_at": "2026-08-13T19:31:58+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Levisticum paludapifolium",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Levisticum+paludapifolium",
+      "retrieved_at": "2026-08-13T19:31:59+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Angelica levisticum",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Angelica+levisticum",
+      "retrieved_at": "2026-08-13T19:31:59+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Ingusticum levisticum",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Ingusticum+levisticum",
+      "retrieved_at": "2026-08-13T19:31:59+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Levistieum offieinale",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Levistieum%20offieinale",
+      "retrieved_at": "2026-08-13T19:32:01+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears."
+  ]
+}

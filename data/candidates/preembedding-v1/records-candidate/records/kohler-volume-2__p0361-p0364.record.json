@@ -1,0 +1,354 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0361-p0364",
+  "entry_id": "kohler-volume-2:p0361-p0364",
+  "owner_shard": "S04",
+  "book_taxon": {
+    "scientific_name": "Rieinus communis",
+    "authorship": "L.",
+    "aliases": [
+      "Christuspalme",
+      "Ülnusspalme",
+      "Agnus Castus",
+      "Ricin",
+      "Palme de Christ",
+      "Ricin ordinaire",
+      "Comon palma Christ",
+      "Wunderbaum",
+      "Rauscher",
+      "Türkischer Hanf",
+      "Mollenkraut",
+      "Zeckenbaum",
+      "Wundelbaum",
+      "Semen Ricini",
+      "Semen Cataputiae majoris",
+      "Purgirkórner",
+      "Brechkórner",
+      "Oleum Ricini",
+      "Oleum Castoris",
+      "Oleum Palmae Christi",
+      "Castoröl"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Rieinus communis"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T15:28:10+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Rieinus+communis",
+        "query_name": "Rieinus communis",
+        "retrieved_at": "2026-08-13T15:28:04+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0055106",
+        "query_name": "Rieinus communis",
+        "retrieved_at": "2026-08-13T15:28:04+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0055106",
+        "query_name": "Rieinus communis",
+        "retrieved_at": "2026-08-13T15:28:04+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Agnus+castus",
+        "query_name": "Agnus castus",
+        "retrieved_at": "2026-08-13T15:28:05+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Ricin+ordinaire",
+        "query_name": "Ricin ordinaire",
+        "retrieved_at": "2026-08-13T15:28:05+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Comon+palma",
+        "query_name": "Comon palma",
+        "retrieved_at": "2026-08-13T15:28:05+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Semen+ricini",
+        "query_name": "Semen ricini",
+        "retrieved_at": "2026-08-13T15:28:05+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Semen+cataputiae",
+        "query_name": "Semen cataputiae",
+        "retrieved_at": "2026-08-13T15:28:05+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Purgirk+rner",
+        "query_name": "Purgirk rner",
+        "retrieved_at": "2026-08-13T15:28:05+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Brechk+rner",
+        "query_name": "Brechk rner",
+        "retrieved_at": "2026-08-13T15:28:05+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Oleum+ricini",
+        "query_name": "Oleum ricini",
+        "retrieved_at": "2026-08-13T15:28:05+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Oleum+castoris",
+        "query_name": "Oleum castoris",
+        "retrieved_at": "2026-08-13T15:28:05+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Oleum+palmae",
+        "query_name": "Oleum palmae",
+        "retrieved_at": "2026-08-13T15:28:05+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 361,
+      "evidence_type": "text",
+      "page_text_sha256": "5ca8e8fb9253a614c3805c3d0ee4af4220d75eb29db6c5263faf32d4e5ef7ada",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 362,
+      "evidence_type": "text",
+      "page_text_sha256": "86dbc1fd52ce91218ad5484aede3128946b2f798446b711069647c7763b381b4",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 363,
+      "evidence_type": "text",
+      "page_text_sha256": "0ec5919aec66d45f2d18e6d8f8dc8839171cd4af70dde9a77ae718358f982fa5",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0361-p0364:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                           Rieinus communis                          L.\n SE                     Christuspalme，       Ülnusspalme,         Agnus       Castus —          Ricin, Palme         de Christ,\n                                     Ricin ordinaire 一 Comon palma Christ.\n             Familie:    Euphorbiaceae; (Unterfamilie: Acalypheae); Gattung: Ricinus Tourn.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Rieinus communis L.，隸屬大戟科。俗名包括 Christuspalme、Ülnusspalme 及 Agnus Castus。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 361,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 382,
+        "page_text_sha256": "5ca8e8fb9253a614c3805c3d0ee4af4220d75eb29db6c5263faf32d4e5ef7ada",
+        "exact_text_sha256": "6a33e34babd0dde8f99bb8739d386c2efd30287dd80ee8cf757ec6b2b15b171d",
+        "source_line_start": 1,
+        "source_line_end": 4,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "6a33e34babd0dde8f99bb8739d386c2efd30287dd80ee8cf757ec6b2b15b171d",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0361-p0364:s01:x00",
+      "section_type": "description",
+      "original_text": "             Beschreibung.        Die mit abstehenden         Aesten     versehene    weisse    Pfahlwurzel   treibt einen      10\n bis 13 Meter hohen, 30 bis 50 Ctm. dicken Stamm. In Südeuropa ist die Pflanze nur noch 2- bis\n 3-jährig, strauchartig, mit einer Höhe von 3 bis 5 Meter; in Mitteleuropa blos einjährig, krautartig,\n bis 2 Meter hoch.        Aeste und Zweige unbehaart, gestreift, grün, brüunlich                 oder röthlich,      bereift oder\n unbereift, durch die Narben der abfallenden Nebenblätter geringelt. Blätter abwechselnd, il; bis\n 1 Meter im Durchmesser, sehr lang und excentrisch-schildförmig gestielt, bis über die Mitte handförmig\n 5- bis 11-lappig getheilt, handnervig, unbehaart, glänzend, grün oder bráunlich, unten blasser. Lappen\n ungleich gesägt-gezähnt, bis fast lappig-gezühnt. Der Blattstiel hohl, stielrund, am Grunde kaum\n rinnenfórmig, in Farbe und Ueberzug den Zweigen gleich, auf der Vorderseite am oberen Ende, oft\n auch unter der Mitte und am Grunde mit je 2 warzig hervortretenden, schüsselfórmigen Drüsen.",
+      "normalized_text": null,
+      "zh_tw_rendering": "主根白色，莖高 10-13 米。葉互生，直徑達 1 米，掌狀 5-11 裂。葉柄具腺體。花序為總狀圓錐花序，雌雄同株。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 361,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 383,
+        "char_end": 1436,
+        "page_text_sha256": "5ca8e8fb9253a614c3805c3d0ee4af4220d75eb29db6c5263faf32d4e5ef7ada",
+        "exact_text_sha256": "e21ddbf75465cc4c72128cfcd2a0058992e27db80ca50788740b4b51b0e50eac",
+        "source_line_start": 5,
+        "source_line_end": 14,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "e21ddbf75465cc4c72128cfcd2a0058992e27db80ca50788740b4b51b0e50eac",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0361-p0364:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "           Anatomisches. Nach Fl                     üc  ki ge  r     bes  teh t    die  seh r    dün ne     Sam  eno  ber  hau   t    aus    eig  ent hüm  -\nlichen 5 eckigen oder 6 eckigen, löcher                     ige n     Taf elz  ell en,   der  en     Wä  nd e      gru  ppe  nwe  ise     dur  ch    brä un-\nlichen Farbstoff gefärbt sind, wod                urc  h    das    bun te     Aus  seh  en    des    Sam  ens     her vor  geb  rac  ht    wir d.     Unt  er\ndiesen tafelfórmigen Obe         rha  utz ell en    bef  ind et   sic h,    so   lan  ge   der .  Sam  e    no  ch    nic ht   rei f  ist ,   ein e   Rei  he\nfast ganz verdickter,           far blo ser    Zel len ,    wel che     in   rad ial  er   Ste llu ng    der   Sam   ens cha   le    auf gel  age rt    sin d.\nDie eigentliche Sam        ens  cha  le,     das    Eiw  eis s    und      der    Em  br yo      zei gen    die  sel be    Bes  cha ffe nhe it     wie    bei\nSemen Tiglii, nur besitz           t   die   inn ere    Sam  enh  aut      stä rke re    Spi ral gef  äss e   und     den     Gew  ebe  n    des    Eiw eis s\nund   Em br yo   feh len    die    Oxa lat kry sta lle .      Die   fas t   qua  dra  tis che n    Zel len   des    Eiw eis  s   ent hal ten     ein  fet tes\nOel ,  gem eng t  mit     wäs ser  ige r   Flü ssi gke it     und    eck  ige n    ode r   run dli  che n   Kör  ner  n,    die    wed  er    in   Alk oho  l\nnoc h  Aet her   lös lic h   sin d   und    dur ch   Jod      bra un   gef  ärb  t   wer den .      Das     kle inz ell ige ,    von     Gef  äss bün  del  n\ndurchzogene Parenchym des Embryo enthält ebenfalls fettes Oel.",
+      "normalized_text": null,
+      "zh_tw_rendering": "種皮由六角形細胞組成，含棕色色素。胚乳含脂肪油及不溶性顆粒。胚含脂肪油，無草酸鈣結晶。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 362,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 1642,
+        "page_text_sha256": "86dbc1fd52ce91218ad5484aede3128946b2f798446b711069647c7763b381b4",
+        "exact_text_sha256": "2abefe14b772eb954ac7ac2998795a5a06fef769780c48da7c44d31bdca26f19",
+        "source_line_start": 1,
+        "source_line_end": 11,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "2abefe14b772eb954ac7ac2998795a5a06fef769780c48da7c44d31bdca26f19",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0361-p0364:s03:x00",
+      "section_type": "distribution",
+      "original_text": "            Vorkommen.                 Wahrscheinlich           im    Oriente,      vermuthlich         in Indien        einheimisch; findet sich\nauch wild in Nordostafrika (Bogoslindern, Senaär), ebenso in den mittelpersischen Gebirgen und im\nKaukasus. Gedeiht jetzt in vielen Spielarten durch die ganzen Tropen und würmeren gemässigten\nKlimate, in guten Sommern noch in England und um Christiania in Norwegen.",
+      "normalized_text": null,
+      "zh_tw_rendering": "原產東方，可能原產印度。野生於東北非、中波斯及高加索。現廣泛分布於熱帶及溫帶地區。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 362,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 1644,
+        "char_end": 2055,
+        "page_text_sha256": "86dbc1fd52ce91218ad5484aede3128946b2f798446b711069647c7763b381b4",
+        "exact_text_sha256": "23ab1c9e64f13eab71d37197e20f40af13367f294fa51b15ede8837a9c3b2235",
+        "source_line_start": 13,
+        "source_line_end": 16,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "23ab1c9e64f13eab71d37197e20f40af13367f294fa51b15ede8837a9c3b2235",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0361-p0364:s04:x00",
+      "section_type": "history",
+      "original_text": "         Name und Geschichtliches. Der Name Wunderbaum (mittelhochd. Agnus Christus, Rauscher,\nTürkischer Hanf, bei Tabernaemontanus Mollenkraut, Wunderbaum, Zeckenbaum, bei Gessner\nWundelbaum) gründet sich auf die biblische Erzählung, wonach die Pflanze zum Schutze des Propheten\nJonas in Ninive in einer Nacht zum Baume aufgeschossen ist. Ricinus vom griechischen xixi,\nxınıvog,     vielleicht aus        dem hebräischen           723     (Kikar),      rundlich,       in Bezug        auf     die    Form      der Frucht.\nDas Insekt Ricinus (Holzbock) ist wegen seiner Aehnlichkeit mit dem Samen unserer Pflanze so be-\nnannt worden.",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源自聖經約拿書傳說。古埃及人種植以取油照明。Theophrastus 稱之為 xgwrov。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 362,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2057,
+        "char_end": 2691,
+        "page_text_sha256": "86dbc1fd52ce91218ad5484aede3128946b2f798446b711069647c7763b381b4",
+        "exact_text_sha256": "da97b1b81818b26d6bee237c760e31edfc7861fb3624204e296fd100136f154d",
+        "source_line_start": 18,
+        "source_line_end": 24,
+        "section_index": 4,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "da97b1b81818b26d6bee237c760e31edfc7861fb3624204e296fd100136f154d",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0361-p0364:s05:x00",
+      "section_type": "constituents",
+      "original_text": "            Bestandtheile, Nach Geiger bestehen die Samen aus 23.8% Schale und 76.2 %/, Kern.\n  Die Schalen enthalten 1.9 geschmackloses Harz und Extraktivstoff, 1.91%, braunes Gummi, 20.0 %,\n Faser; die Kerne enthalten 46.19 %, fettes Oel, 2.40% Gummi, 0.50 Y, Eiweissstoff, 20.0 \"|, Faser.\n  Das Oel besteht aus den Glyceriden der Ricinólsáure und Stearinsáure, kocht bei 265° und zersetzt\n  sich unter Bildung von Oenanthol, Oenanthsäure, Acroléin und schwammigem, geruch- und geschmack-\n  losem, blassgelbem Rückstand, giebt, mit Kalilauge destillirt, Kaprylaldehyd, mit Salpetersäure Oenan-\n  thylsäure. Nach Husemann erhält man bei der Destillation Methylkaprinyl, sekundären Aethylalkohol\n  (C¿H,50)     und   Sebacinsäure.    Erfolgt die Destillation     unter    starkem     Druck,      so entstehen     Oenanthol",
+      "normalized_text": null,
+      "zh_tw_rendering": "種子含 46.19% 脂肪油，主要為蓖麻油酸及硬脂酸甘油酯。含微量 Ricinin 生物鹼及樹脂。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 363,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 459,
+        "char_end": 1281,
+        "page_text_sha256": "0ec5919aec66d45f2d18e6d8f8dc8839171cd4af70dde9a77ae718358f982fa5",
+        "exact_text_sha256": "7bc44a18e85d4d8108baa3c5efdf03605fd0d073fcdcabae9c5b8a7dd47a01ac",
+        "source_line_start": 7,
+        "source_line_end": 14,
+        "section_index": 5,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "7bc44a18e85d4d8108baa3c5efdf03605fd0d073fcdcabae9c5b8a7dd47a01ac",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "3930b9349d9292acda17fa170f7dcba2d0a8a54c9e409dbc443423281c2ecadc",
+    "maker_receipt_sha256": "7fd10890a6010a9a08226489010433ede6026a1b190f6968ee01c840c9e921e5",
+    "validation_check_sha256": "3d7bef3150dff57223315dd716e1e77b6b42fd3f0497b4a83b5597732f379010",
+    "source_disposition_sha256": "26b9179395f4e2e4f1713dfb8458ab1b32947c5bf7b6023f783651481ea3d6f5",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "7fd10890a6010a9a08226489010433ede6026a1b190f6968ee01c840c9e921e5",
+      "validation_check_sha256": "3d7bef3150dff57223315dd716e1e77b6b42fd3f0497b4a83b5597732f379010",
+      "source_disposition_sha256": "26b9179395f4e2e4f1713dfb8458ab1b32947c5bf7b6023f783651481ea3d6f5"
+    },
+    "naming_artifact_sha256": "336ca7a44e128834d63a905cec4eb49bb048f46952b532fae6644ba3f515631c"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "27ce9029f92dcba0ada479fedefd5dc2a3b59cd1c3c77da1126053726eec5d59"
+}

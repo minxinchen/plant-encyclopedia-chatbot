@@ -1,0 +1,921 @@
+{
+  "schema_version": "1.0",
+  "pipeline_id": "kohler-boundary-overlay-plan-v1",
+  "parents": [
+    {
+      "parent_entry_id": "kohler-volume-1:p0209-p0222",
+      "source_id": "kohler-volume-1",
+      "start_pdf_page": 209,
+      "end_pdf_page": 222,
+      "segments": [
+        {
+          "child_entry_id": "kohler-volume-1:p0209-p0222:child-01",
+          "taxon_candidate": "Cinchona Calisaya",
+          "start_pdf_page": 209,
+          "end_pdf_page": 212,
+          "pdf_pages": [
+            209,
+            210,
+            211,
+            212
+          ],
+          "page_count": 4,
+          "requires_continuation_split": false,
+          "boundary_authority": "frozen_parent_start",
+          "boundary_evidence_sha256": "96deaa435bac2bdd7dcfc16412767a76ba805dfe04e1ec9a6866ec511304f039",
+          "segment_sha256": "ed644ecb3821711f4c533155e5bf6f845038872a47ec134c73cd0ff78b2c97d0"
+        },
+        {
+          "child_entry_id": "kohler-volume-1:p0209-p0222:child-02",
+          "taxon_candidate": "Cinchona lancifolia",
+          "start_pdf_page": 213,
+          "end_pdf_page": 222,
+          "pdf_pages": [
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222
+          ],
+          "page_count": 10,
+          "requires_continuation_split": true,
+          "boundary_authority": "confirmed_hidden_heading",
+          "boundary_evidence_sha256": "5723ae33470b5572bd2f9feb1eb536c526c914eb1dc8f58f642ecedb19446644",
+          "segment_sha256": "bf6351fdd0fa8424b84e3abf0fbc643caef4be6e531e273b2da803176aff0c0f"
+        }
+      ],
+      "review_candidates": [],
+      "non_boundary_candidates": [],
+      "exact_page_coverage": true,
+      "safe_to_replace_old_continuation": true,
+      "canonical_write_allowed": false,
+      "parent_plan_sha256": "32518ec7d06f64a8b6cc1ae00fbc7cf0464dec1fc6ddda273d94d96b8dcbf347"
+    },
+    {
+      "parent_entry_id": "kohler-volume-2:p0133-p0140",
+      "source_id": "kohler-volume-2",
+      "start_pdf_page": 133,
+      "end_pdf_page": 140,
+      "segments": [
+        {
+          "child_entry_id": "kohler-volume-2:p0133-p0140:child-01",
+          "taxon_candidate": "Coffea arabica",
+          "start_pdf_page": 133,
+          "end_pdf_page": 140,
+          "pdf_pages": [
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140
+          ],
+          "page_count": 8,
+          "requires_continuation_split": true,
+          "boundary_authority": "frozen_parent_start",
+          "boundary_evidence_sha256": "bcde886f7fbead68adfe8f7bd942ffb9f9a7fa7b740457fcb23dfd1e9da206fc",
+          "segment_sha256": "0e9c10d13484058ba03ee1704e6d1ecf632aa2a8e4ea51a22d658da56853ec1c"
+        }
+      ],
+      "review_candidates": [],
+      "non_boundary_candidates": [],
+      "exact_page_coverage": true,
+      "safe_to_replace_old_continuation": true,
+      "canonical_write_allowed": false,
+      "parent_plan_sha256": "cc0435d02cf8889ae19e8f3134e9ffbf0b71ccd4195518209c1d765513ce8211"
+    },
+    {
+      "parent_entry_id": "kohler-volume-2:p0223-p0230",
+      "source_id": "kohler-volume-2",
+      "start_pdf_page": 223,
+      "end_pdf_page": 230,
+      "segments": [
+        {
+          "child_entry_id": "kohler-volume-2:p0223-p0230:child-01",
+          "taxon_candidate": "Ononis spinosa",
+          "start_pdf_page": 223,
+          "end_pdf_page": 224,
+          "pdf_pages": [
+            223,
+            224
+          ],
+          "page_count": 2,
+          "requires_continuation_split": false,
+          "boundary_authority": "frozen_parent_start",
+          "boundary_evidence_sha256": "59d39ff1d92c187307f0679cb0a9ed4b67959f120511c987437373f718ac265f",
+          "segment_sha256": "17b2475b5dc7ec55b27de381b51294b5b06c24e13039f863df9c4b033bb76f51"
+        },
+        {
+          "child_entry_id": "kohler-volume-2:p0223-p0230:child-02",
+          "taxon_candidate": "Capsicum annuum",
+          "start_pdf_page": 225,
+          "end_pdf_page": 228,
+          "pdf_pages": [
+            225,
+            226,
+            227,
+            228
+          ],
+          "page_count": 4,
+          "requires_continuation_split": false,
+          "boundary_authority": "confirmed_hidden_heading",
+          "boundary_evidence_sha256": "5c3059ac8a705eb7cf45263147de205947ae19fc9a7e12c35ee9b7fc1b5e1996",
+          "segment_sha256": "31ecc5683b3c9b6e15beb6a3baacca86f719966c600492202861d12a6a1d02a9"
+        },
+        {
+          "child_entry_id": "kohler-volume-2:p0223-p0230:child-03",
+          "taxon_candidate": "Marrubium vulgare",
+          "start_pdf_page": 229,
+          "end_pdf_page": 230,
+          "pdf_pages": [
+            229,
+            230
+          ],
+          "page_count": 2,
+          "requires_continuation_split": false,
+          "boundary_authority": "confirmed_hidden_heading",
+          "boundary_evidence_sha256": "7192509c85d23839c5ba130ff40dd04d15f0e4de265d3c86ad4d40c3545341af",
+          "segment_sha256": "0fc3d8f62e6dfb5e8dc2aa68ff86f62dca939ca3d8da2494c532d51c96d9ceca"
+        }
+      ],
+      "review_candidates": [],
+      "non_boundary_candidates": [],
+      "exact_page_coverage": true,
+      "safe_to_replace_old_continuation": true,
+      "canonical_write_allowed": false,
+      "parent_plan_sha256": "aaff78d938800eea942583ccbf372cada8976563d7c55b5aad306a280b1d7dcf"
+    },
+    {
+      "parent_entry_id": "kohler-volume-2:p0231-p0246",
+      "source_id": "kohler-volume-2",
+      "start_pdf_page": 231,
+      "end_pdf_page": 246,
+      "segments": [
+        {
+          "child_entry_id": "kohler-volume-2:p0231-p0246:child-01",
+          "taxon_candidate": "Callitris quadrivalvis",
+          "start_pdf_page": 231,
+          "end_pdf_page": 234,
+          "pdf_pages": [
+            231,
+            232,
+            233,
+            234
+          ],
+          "page_count": 4,
+          "requires_continuation_split": false,
+          "boundary_authority": "frozen_parent_start",
+          "boundary_evidence_sha256": "10a7e2647a913d0fa134cbaa3efa7338e1ce609921d63d88eb26959d5e2f38c7",
+          "segment_sha256": "25fbb42ae90639423d2f1b5a54879ada5872a1a826668a3d5388858b7dea36d1"
+        },
+        {
+          "child_entry_id": "kohler-volume-2:p0231-p0246:child-02",
+          "taxon_candidate": "Pistacia Lentiscus",
+          "start_pdf_page": 235,
+          "end_pdf_page": 236,
+          "pdf_pages": [
+            235,
+            236
+          ],
+          "page_count": 2,
+          "requires_continuation_split": false,
+          "boundary_authority": "confirmed_hidden_heading",
+          "boundary_evidence_sha256": "0ec947c3ed9c4c22935027868359165d8887f0d9935b284dd0f83cad61c19e96",
+          "segment_sha256": "b526ad44aa385c5595cd18b64eb9d4b45a6fefe3a2d7dc021059a6057e603704"
+        },
+        {
+          "child_entry_id": "kohler-volume-2:p0231-p0246:child-03",
+          "taxon_candidate": "Tamarindus indica",
+          "start_pdf_page": 237,
+          "end_pdf_page": 240,
+          "pdf_pages": [
+            237,
+            238,
+            239,
+            240
+          ],
+          "page_count": 4,
+          "requires_continuation_split": false,
+          "boundary_authority": "confirmed_hidden_heading",
+          "boundary_evidence_sha256": "dde1358586301843529955f91bc036c23ac31f6df6004789349fd0fb4b730263",
+          "segment_sha256": "f17bc0fec2bef73d0d9ce17a65dd6918f2c2ddc52c6f684986a21a443a166709"
+        },
+        {
+          "child_entry_id": "kohler-volume-2:p0231-p0246:child-04",
+          "taxon_candidate": "Myristica fragrans",
+          "start_pdf_page": 241,
+          "end_pdf_page": 246,
+          "pdf_pages": [
+            241,
+            242,
+            243,
+            244,
+            245,
+            246
+          ],
+          "page_count": 6,
+          "requires_continuation_split": false,
+          "boundary_authority": "confirmed_hidden_heading",
+          "boundary_evidence_sha256": "676ba1895065c2fba012a9896bf202040891b84482d1fce0b636c1b5c93b604f",
+          "segment_sha256": "bd19ae69f8a96bdf1d6674df91ecc1817cca67f561a998789adecb147357ea94"
+        }
+      ],
+      "review_candidates": [],
+      "non_boundary_candidates": [],
+      "exact_page_coverage": true,
+      "safe_to_replace_old_continuation": true,
+      "canonical_write_allowed": false,
+      "parent_plan_sha256": "282752be9d17c0d7c31ee67de930da6455ad242f0eefaf130841cb776ee09080"
+    },
+    {
+      "parent_entry_id": "kohler-volume-2:p0261-p0268",
+      "source_id": "kohler-volume-2",
+      "start_pdf_page": 261,
+      "end_pdf_page": 268,
+      "segments": [
+        {
+          "child_entry_id": "kohler-volume-2:p0261-p0268:child-01",
+          "taxon_candidate": "Camellia Thea",
+          "start_pdf_page": 261,
+          "end_pdf_page": 268,
+          "pdf_pages": [
+            261,
+            262,
+            263,
+            264,
+            265,
+            266,
+            267,
+            268
+          ],
+          "page_count": 8,
+          "requires_continuation_split": true,
+          "boundary_authority": "frozen_parent_start",
+          "boundary_evidence_sha256": "cf6f05f9d4226c7b39b3db0aedadbf3308f471144aad82f5be8b36b70efb6d2b",
+          "segment_sha256": "0d0a416b06fb2afd5f8859b926a444f5defba429c15f12215bc2f1d5e3f27ffa"
+        }
+      ],
+      "review_candidates": [],
+      "non_boundary_candidates": [],
+      "exact_page_coverage": true,
+      "safe_to_replace_old_continuation": true,
+      "canonical_write_allowed": false,
+      "parent_plan_sha256": "06267f5cd08035b1674e40bedfb53021b748da86de46a9451f66e1fee11f8d2e"
+    },
+    {
+      "parent_entry_id": "kohler-volume-2:p0305-p0314",
+      "source_id": "kohler-volume-2",
+      "start_pdf_page": 305,
+      "end_pdf_page": 314,
+      "segments": [
+        {
+          "child_entry_id": "kohler-volume-2:p0305-p0314:child-01",
+          "taxon_candidate": "Ferula Seorodosma",
+          "start_pdf_page": 305,
+          "end_pdf_page": 308,
+          "pdf_pages": [
+            305,
+            306,
+            307,
+            308
+          ],
+          "page_count": 4,
+          "requires_continuation_split": false,
+          "boundary_authority": "frozen_parent_start",
+          "boundary_evidence_sha256": "fa9855a63529f367e5fb27a45fdfb4c83dae095ae00c1bc6dcc23eef423f077b",
+          "segment_sha256": "8c518596bcdf6da2e50b774029f0d9a98180c4ca77d3232b0892e5d857945258"
+        },
+        {
+          "child_entry_id": "kohler-volume-2:p0305-p0314:child-02",
+          "taxon_candidate": "Aloë socotrina",
+          "start_pdf_page": 309,
+          "end_pdf_page": 314,
+          "pdf_pages": [
+            309,
+            310,
+            311,
+            312,
+            313,
+            314
+          ],
+          "page_count": 6,
+          "requires_continuation_split": false,
+          "boundary_authority": "confirmed_hidden_heading",
+          "boundary_evidence_sha256": "0536ee44928b6b86f5394b9480f9a010a1eeabf53d2986cd69bd82fe170d136b",
+          "segment_sha256": "e3f8a690ead26f0e2446cff4a3b903fc63fefd63c0de03dc9fe3992e2cf671d9"
+        }
+      ],
+      "review_candidates": [],
+      "non_boundary_candidates": [
+        {
+          "pdf_page": 310,
+          "taxon_candidate": "Aloë africana",
+          "verifier_match_type": "Exact",
+          "verifier_matched_name": "Aloe africana",
+          "structural_signal": false,
+          "bhl_page_name_match": true,
+          "evidence_sha256": "a6d1bb3c3098f3eef09054ddb9406d15bbb4cedcb6f6bcf39e19a2498e2c9c52",
+          "disposition": "same_genus_subtaxon_continuation_not_entry_boundary",
+          "rule": {
+            "prior_boundary_taxon": "Aloë socotrina",
+            "same_genus": true,
+            "structural_signal": false,
+            "heading_continues_as_prose": true
+          }
+        }
+      ],
+      "exact_page_coverage": true,
+      "safe_to_replace_old_continuation": true,
+      "canonical_write_allowed": false,
+      "parent_plan_sha256": "68d39723221c7e3677752b282a92fa8cb113a61f64d1ed582cae04b067303fef"
+    },
+    {
+      "parent_entry_id": "kohler-volume-2:p0345-p0352",
+      "source_id": "kohler-volume-2",
+      "start_pdf_page": 345,
+      "end_pdf_page": 352,
+      "segments": [
+        {
+          "child_entry_id": "kohler-volume-2:p0345-p0352:child-01",
+          "taxon_candidate": "Theobroma Caeao",
+          "start_pdf_page": 345,
+          "end_pdf_page": 352,
+          "pdf_pages": [
+            345,
+            346,
+            347,
+            348,
+            349,
+            350,
+            351,
+            352
+          ],
+          "page_count": 8,
+          "requires_continuation_split": true,
+          "boundary_authority": "frozen_parent_start",
+          "boundary_evidence_sha256": "0f94a38886fc083c1629bfdd288782584ac94834df34cbcfb4f3bd09eb8cd285",
+          "segment_sha256": "f2fc1bfc41465160d27f133d4ef6026ca9f22a53640e3a79abbdfe687dc08cca"
+        }
+      ],
+      "review_candidates": [],
+      "non_boundary_candidates": [],
+      "exact_page_coverage": true,
+      "safe_to_replace_old_continuation": true,
+      "canonical_write_allowed": false,
+      "parent_plan_sha256": "b7d0fc596e58ec14523e6b22b922f6a004f39ba3733f34b43d95fd5b28f3050c"
+    },
+    {
+      "parent_entry_id": "kohler-volume-2:p0365-p0372",
+      "source_id": "kohler-volume-2",
+      "start_pdf_page": 365,
+      "end_pdf_page": 372,
+      "segments": [
+        {
+          "child_entry_id": "kohler-volume-2:p0365-p0372:child-01",
+          "taxon_candidate": "Pinus Laricio",
+          "start_pdf_page": 365,
+          "end_pdf_page": 372,
+          "pdf_pages": [
+            365,
+            366,
+            367,
+            368,
+            369,
+            370,
+            371,
+            372
+          ],
+          "page_count": 8,
+          "requires_continuation_split": true,
+          "boundary_authority": "frozen_parent_start",
+          "boundary_evidence_sha256": "eef064901c894f27e4ecf69ca1527c415f79d7d6c854f9bc03ad2d4526760016",
+          "segment_sha256": "3219db2899946250a4565967bf11df142828c7ddae0feba47b7e954ce7e4ae3c"
+        }
+      ],
+      "review_candidates": [],
+      "non_boundary_candidates": [],
+      "exact_page_coverage": true,
+      "safe_to_replace_old_continuation": true,
+      "canonical_write_allowed": false,
+      "parent_plan_sha256": "5c535ac98d6d4a94ae3cb1111cde696f717f025f561481d231b5340b08f55f3d"
+    },
+    {
+      "parent_entry_id": "kohler-volume-2:p0377-p0384",
+      "source_id": "kohler-volume-2",
+      "start_pdf_page": 377,
+      "end_pdf_page": 384,
+      "segments": [
+        {
+          "child_entry_id": "kohler-volume-2:p0377-p0384:child-01",
+          "taxon_candidate": "Rheum officinale",
+          "start_pdf_page": 377,
+          "end_pdf_page": 384,
+          "pdf_pages": [
+            377,
+            378,
+            379,
+            380,
+            381,
+            382,
+            383,
+            384
+          ],
+          "page_count": 8,
+          "requires_continuation_split": true,
+          "boundary_authority": "frozen_parent_start",
+          "boundary_evidence_sha256": "4f7f9947a86a43eed1bc5646dd330c7cbf80e23eb10722592d481f9c303c82ed",
+          "segment_sha256": "498c1d06045fc1d595f55108f60a0c154ebb4120a462951377989734e2a2f21c"
+        }
+      ],
+      "review_candidates": [],
+      "non_boundary_candidates": [],
+      "exact_page_coverage": true,
+      "safe_to_replace_old_continuation": true,
+      "canonical_write_allowed": false,
+      "parent_plan_sha256": "9e4a42b8ca0a7c5d65face4bae07c3413408c876c6298547525556df188e233d"
+    },
+    {
+      "parent_entry_id": "kohler-volume-3:p0049-p0060",
+      "source_id": "kohler-volume-3",
+      "start_pdf_page": 49,
+      "end_pdf_page": 60,
+      "segments": [
+        {
+          "child_entry_id": "kohler-volume-3:p0049-p0060:child-01",
+          "taxon_candidate": "Payena Leerii",
+          "start_pdf_page": 49,
+          "end_pdf_page": 56,
+          "pdf_pages": [
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56
+          ],
+          "page_count": 8,
+          "requires_continuation_split": true,
+          "boundary_authority": "frozen_parent_start",
+          "boundary_evidence_sha256": "6314e548e213ee648bc22a0fda3b9574ae56f265d61f1f752effa11d0e59a3d8",
+          "segment_sha256": "be8a92d2df4c9a726b2d0de8dacf7f4cc0fd1c2ba8f506514252cc2a28f84f31"
+        },
+        {
+          "child_entry_id": "kohler-volume-3:p0049-p0060:child-02",
+          "taxon_candidate": "Rhamnus Purshiana",
+          "start_pdf_page": 57,
+          "end_pdf_page": 60,
+          "pdf_pages": [
+            57,
+            58,
+            59,
+            60
+          ],
+          "page_count": 4,
+          "requires_continuation_split": false,
+          "boundary_authority": "confirmed_hidden_heading",
+          "boundary_evidence_sha256": "d17fec8811335063b933daf7015af21b60cc9903c54d0a7d49ba5a4d79f8c58d",
+          "segment_sha256": "19e870199a266869e3baf6214377ebfa8d75a4ffabe87b5d0b7a286b5485c550"
+        }
+      ],
+      "review_candidates": [],
+      "non_boundary_candidates": [],
+      "exact_page_coverage": true,
+      "safe_to_replace_old_continuation": true,
+      "canonical_write_allowed": false,
+      "parent_plan_sha256": "ce727688899f2604b77983b0b9a68f35cfb88e1024b910979f9473a0e1891519"
+    },
+    {
+      "parent_entry_id": "kohler-volume-3:p0067-p0074",
+      "source_id": "kohler-volume-3",
+      "start_pdf_page": 67,
+      "end_pdf_page": 74,
+      "segments": [
+        {
+          "child_entry_id": "kohler-volume-3:p0067-p0074:child-01",
+          "taxon_candidate": "Hevea brasiliensis",
+          "start_pdf_page": 67,
+          "end_pdf_page": 74,
+          "pdf_pages": [
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74
+          ],
+          "page_count": 8,
+          "requires_continuation_split": true,
+          "boundary_authority": "frozen_parent_start",
+          "boundary_evidence_sha256": "762da18927c528642790ccc4f974e08838b2ecbc7f1320ef5af14b58816008f5",
+          "segment_sha256": "34527701661afa4066138741308da00283374e15e9e897fbcba1e40f2d962779"
+        }
+      ],
+      "review_candidates": [],
+      "non_boundary_candidates": [],
+      "exact_page_coverage": true,
+      "safe_to_replace_old_continuation": true,
+      "canonical_write_allowed": false,
+      "parent_plan_sha256": "bb760b6a3eb800e3fdcf4918e9d54ec7fbf2c46767b18646d0342e692655ac63"
+    },
+    {
+      "parent_entry_id": "kohler-volume-3:p0087-p0094",
+      "source_id": "kohler-volume-3",
+      "start_pdf_page": 87,
+      "end_pdf_page": 94,
+      "segments": [
+        {
+          "child_entry_id": "kohler-volume-3:p0087-p0094:child-01",
+          "taxon_candidate": "Landolphia comorensis",
+          "start_pdf_page": 87,
+          "end_pdf_page": 92,
+          "pdf_pages": [
+            87,
+            88,
+            89,
+            90,
+            91,
+            92
+          ],
+          "page_count": 6,
+          "requires_continuation_split": false,
+          "boundary_authority": "frozen_parent_start",
+          "boundary_evidence_sha256": "075b211fa39331cb418d3dc2f41bc096b1fa8671df2fbf804b25f8b8900fdb42",
+          "segment_sha256": "6678baf86c174091aa278e81050f74a9d7db1d175d1be80fbaa27228fecefcdb"
+        },
+        {
+          "child_entry_id": "kohler-volume-3:p0087-p0094:child-02",
+          "taxon_candidate": "Landolphia Watsoniana",
+          "start_pdf_page": 93,
+          "end_pdf_page": 94,
+          "pdf_pages": [
+            93,
+            94
+          ],
+          "page_count": 2,
+          "requires_continuation_split": false,
+          "boundary_authority": "confirmed_hidden_heading",
+          "boundary_evidence_sha256": "b1e527128315862627cb5aa4541d4c759dbd2bdabe6d3aebbc426938b27833af",
+          "segment_sha256": "331729671ebfa790cd5ceea4a87a62cf520c314fb12e96dda126535b0d640b43"
+        }
+      ],
+      "review_candidates": [],
+      "non_boundary_candidates": [],
+      "exact_page_coverage": true,
+      "safe_to_replace_old_continuation": true,
+      "canonical_write_allowed": false,
+      "parent_plan_sha256": "cc007ff769ab1b5f512c4d951d61b89bda88a1b0147a93fe1dc4e42cb50ebc63"
+    },
+    {
+      "parent_entry_id": "kohler-volume-3:p0191-p0204",
+      "source_id": "kohler-volume-3",
+      "start_pdf_page": 191,
+      "end_pdf_page": 204,
+      "segments": [
+        {
+          "child_entry_id": "kohler-volume-3:p0191-p0204:child-01",
+          "taxon_candidate": "Eucalyptus globulus",
+          "start_pdf_page": 191,
+          "end_pdf_page": 204,
+          "pdf_pages": [
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204
+          ],
+          "page_count": 14,
+          "requires_continuation_split": true,
+          "boundary_authority": "frozen_parent_start",
+          "boundary_evidence_sha256": "44e2fbef54697f5f1599d79c2c90535d8ac68e4b38107aa0d437337ce74334d5",
+          "segment_sha256": "d4c5e6813b860c2209cb462104248cd93d155f591dd39e9a522f8cd2ddb37858"
+        }
+      ],
+      "review_candidates": [],
+      "non_boundary_candidates": [],
+      "exact_page_coverage": true,
+      "safe_to_replace_old_continuation": true,
+      "canonical_write_allowed": false,
+      "parent_plan_sha256": "2d2f8deab16f49e0e16a49fe1213e89d7cb0524b4a79e15353ddc64f440ab8a8"
+    },
+    {
+      "parent_entry_id": "kohler-volume-3:p0215-p0224",
+      "source_id": "kohler-volume-3",
+      "start_pdf_page": 215,
+      "end_pdf_page": 224,
+      "segments": [
+        {
+          "child_entry_id": "kohler-volume-3:p0215-p0224:child-01",
+          "taxon_candidate": "Santalum album",
+          "start_pdf_page": 215,
+          "end_pdf_page": 224,
+          "pdf_pages": [
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224
+          ],
+          "page_count": 10,
+          "requires_continuation_split": true,
+          "boundary_authority": "frozen_parent_start",
+          "boundary_evidence_sha256": "f2a63e078ad0fd2ee257555aaa928c00da4cae3b7955d43a0691c331e26e9380",
+          "segment_sha256": "216db14197cebfa2c0d16f09c895f563eea8eaabbfb4ab9718aa564154537ab3"
+        }
+      ],
+      "review_candidates": [],
+      "non_boundary_candidates": [],
+      "exact_page_coverage": true,
+      "safe_to_replace_old_continuation": true,
+      "canonical_write_allowed": false,
+      "parent_plan_sha256": "e49974e67015f10b70849d105afb366ae28bc8b85d489e6dfbc2920e5e06d7c8"
+    },
+    {
+      "parent_entry_id": "kohler-volume-3:p0263-p0276",
+      "source_id": "kohler-volume-3",
+      "start_pdf_page": 263,
+      "end_pdf_page": 276,
+      "segments": [
+        {
+          "child_entry_id": "kohler-volume-3:p0263-p0276:child-01",
+          "taxon_candidate": "Schleichera trijuga",
+          "start_pdf_page": 263,
+          "end_pdf_page": 266,
+          "pdf_pages": [
+            263,
+            264,
+            265,
+            266
+          ],
+          "page_count": 4,
+          "requires_continuation_split": false,
+          "boundary_authority": "frozen_parent_start",
+          "boundary_evidence_sha256": "fd0f414e37cb6ab7d9de8eaca7b03a0e79ea897f8b249d90f7a8b613b1ed692d",
+          "segment_sha256": "83144a1de46f66f96187f65ab3e0164474e475ac843d0e19940aa63811edc95e"
+        },
+        {
+          "child_entry_id": "kohler-volume-3:p0263-p0276:child-02",
+          "taxon_candidate": "Rubia tinctorum",
+          "start_pdf_page": 267,
+          "end_pdf_page": 272,
+          "pdf_pages": [
+            267,
+            268,
+            269,
+            270,
+            271,
+            272
+          ],
+          "page_count": 6,
+          "requires_continuation_split": false,
+          "boundary_authority": "confirmed_hidden_heading",
+          "boundary_evidence_sha256": "571b4f163589baf8d6fac4cd2eaf19a2267ddc17bceab2c16069941ffddff167",
+          "segment_sha256": "490c92d26f6ea14a0083c109adc259a2e49175230d4429e252ad95118a68264d"
+        },
+        {
+          "child_entry_id": "kohler-volume-3:p0263-p0276:child-03",
+          "taxon_candidate": "Conyza squarrosa",
+          "start_pdf_page": 273,
+          "end_pdf_page": 276,
+          "pdf_pages": [
+            273,
+            274,
+            275,
+            276
+          ],
+          "page_count": 4,
+          "requires_continuation_split": false,
+          "boundary_authority": "confirmed_hidden_heading",
+          "boundary_evidence_sha256": "cf41b02881c51e0ecc56ba7274cc240c7d92375061a72ea937a0037aefd4d118",
+          "segment_sha256": "3cc9872db72280d969e0723d730a4107948f3d79e72228382da4b3af8cc0fa8c"
+        }
+      ],
+      "review_candidates": [],
+      "non_boundary_candidates": [],
+      "exact_page_coverage": true,
+      "safe_to_replace_old_continuation": true,
+      "canonical_write_allowed": false,
+      "parent_plan_sha256": "cca166fa66a4c63d7be1c15e5e0639667b7a0a02e751baacf643edc3a2e1c3d4"
+    },
+    {
+      "parent_entry_id": "kohler-volume-3:p0365-p0372",
+      "source_id": "kohler-volume-3",
+      "start_pdf_page": 365,
+      "end_pdf_page": 372,
+      "segments": [
+        {
+          "child_entry_id": "kohler-volume-3:p0365-p0372:child-01",
+          "taxon_candidate": "Zea Mais",
+          "start_pdf_page": 365,
+          "end_pdf_page": 372,
+          "pdf_pages": [
+            365,
+            366,
+            367,
+            368,
+            369,
+            370,
+            371,
+            372
+          ],
+          "page_count": 8,
+          "requires_continuation_split": true,
+          "boundary_authority": "frozen_parent_start",
+          "boundary_evidence_sha256": "b28073ab3880f235e83522749aa38ccdf29ed14682efefcd91a0e419f8357924",
+          "segment_sha256": "cb01c8f18a70535d14c511dc29b435bc9fe8a9ee562383fb70de3867ad4db295"
+        }
+      ],
+      "review_candidates": [],
+      "non_boundary_candidates": [],
+      "exact_page_coverage": true,
+      "safe_to_replace_old_continuation": true,
+      "canonical_write_allowed": false,
+      "parent_plan_sha256": "866866dcec5f54eba7b8c0ed0225f0c6345b700efdd437b45408e1bf4306a280"
+    },
+    {
+      "parent_entry_id": "kohler-volume-4:p0002-p0017",
+      "source_id": "kohler-volume-4",
+      "start_pdf_page": 2,
+      "end_pdf_page": 17,
+      "segments": [
+        {
+          "child_entry_id": "kohler-volume-4:p0002-p0017:child-01",
+          "taxon_candidate": "Polyporus officinalis",
+          "start_pdf_page": 2,
+          "end_pdf_page": 5,
+          "pdf_pages": [
+            2,
+            3,
+            4,
+            5
+          ],
+          "page_count": 4,
+          "requires_continuation_split": false,
+          "boundary_authority": "frozen_parent_start",
+          "boundary_evidence_sha256": "5c6e33aca6e1d0860bc9d27e7ab4ddfab996c72c7d203966310eeaf22b3c4108",
+          "segment_sha256": "44fb4bbd54598c1ec38e62b87989fcdc96ae3b45803f7b0ed7156e48f795559a"
+        },
+        {
+          "child_entry_id": "kohler-volume-4:p0002-p0017:child-02",
+          "taxon_candidate": "Boletus Satanas",
+          "start_pdf_page": 6,
+          "end_pdf_page": 8,
+          "pdf_pages": [
+            6,
+            7,
+            8
+          ],
+          "page_count": 3,
+          "requires_continuation_split": false,
+          "boundary_authority": "confirmed_hidden_heading",
+          "boundary_evidence_sha256": "7ddb783555706df787a557a8ad8c46f9fd90a8e8adc3fd9bd50fb33363d124d2",
+          "segment_sha256": "7a63c138f7aaa6585798cbd3a20cfe2a32f6bbc5f1473ede7cc7320f583234d0"
+        },
+        {
+          "child_entry_id": "kohler-volume-4:p0002-p0017:child-03",
+          "taxon_candidate": "Boletus bulbosus",
+          "start_pdf_page": 9,
+          "end_pdf_page": 11,
+          "pdf_pages": [
+            9,
+            10,
+            11
+          ],
+          "page_count": 3,
+          "requires_continuation_split": false,
+          "boundary_authority": "confirmed_hidden_heading",
+          "boundary_evidence_sha256": "4e98bda07c36e3d5d65308348a61c9adfbd9c61f458c2abe8b7670e1636948b6",
+          "segment_sha256": "b0de1dff7382da37a27fb6e968e696da340b366b4f37b2eac667b4960a5fc5a3"
+        },
+        {
+          "child_entry_id": "kohler-volume-4:p0002-p0017:child-04",
+          "taxon_candidate": "Amanita muscaria",
+          "start_pdf_page": 12,
+          "end_pdf_page": 16,
+          "pdf_pages": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "page_count": 5,
+          "requires_continuation_split": false,
+          "boundary_authority": "confirmed_hidden_heading",
+          "boundary_evidence_sha256": "20c48a1bd35ffc20494c9917495ada59c79b6fc49f397a5f3928667660935eec",
+          "segment_sha256": "cea3acdd4f38953a7374c182a16b9e05b541ef7816ef9d9fb0ce6311474fc5fc"
+        },
+        {
+          "child_entry_id": "kohler-volume-4:p0002-p0017:child-05",
+          "taxon_candidate": "Amanita caesarea",
+          "start_pdf_page": 17,
+          "end_pdf_page": 17,
+          "pdf_pages": [
+            17
+          ],
+          "page_count": 1,
+          "requires_continuation_split": false,
+          "boundary_authority": "confirmed_hidden_heading",
+          "boundary_evidence_sha256": "750160fdb9317f5b3704a4b82becd9907c7fdb462611936690cad1ee0aa1c6ee",
+          "segment_sha256": "8b498901a850266b60c1dae17b8b116a153ebc4e3d24b5a61ed68e1e5da168f5"
+        }
+      ],
+      "review_candidates": [],
+      "non_boundary_candidates": [],
+      "exact_page_coverage": true,
+      "safe_to_replace_old_continuation": true,
+      "canonical_write_allowed": false,
+      "parent_plan_sha256": "44ac413e58a9e5ee7eb3d4f4274273d6d2b4c27294d3936e7ceaf7460172980e"
+    },
+    {
+      "parent_entry_id": "kohler-volume-4:p0044-p0053",
+      "source_id": "kohler-volume-4",
+      "start_pdf_page": 44,
+      "end_pdf_page": 53,
+      "segments": [
+        {
+          "child_entry_id": "kohler-volume-4:p0044-p0053:child-01",
+          "taxon_candidate": "Agrostemma Githago",
+          "start_pdf_page": 44,
+          "end_pdf_page": 47,
+          "pdf_pages": [
+            44,
+            45,
+            46,
+            47
+          ],
+          "page_count": 4,
+          "requires_continuation_split": false,
+          "boundary_authority": "frozen_parent_start",
+          "boundary_evidence_sha256": "7bbb39a50ecb571d04c55241b762f82c9b9e2722d887439c790fe54fe42b92b3",
+          "segment_sha256": "c3f9f24fe9912774cf0ab52220ddf3515cfe9d4b85ef479e717788cda42b24fb"
+        },
+        {
+          "child_entry_id": "kohler-volume-4:p0044-p0053:child-02",
+          "taxon_candidate": "Saponaria officinalis",
+          "start_pdf_page": 48,
+          "end_pdf_page": 53,
+          "pdf_pages": [
+            48,
+            49,
+            50,
+            51,
+            52,
+            53
+          ],
+          "page_count": 6,
+          "requires_continuation_split": false,
+          "boundary_authority": "confirmed_hidden_heading",
+          "boundary_evidence_sha256": "cdd5a93fdd665ac2889346fd8228881e540603cefa7b2cba7ade7caa4fefb894",
+          "segment_sha256": "c9bdef54488a5337c5e44b90e70035d836bdd9f26321110226b5696ed82b4b56"
+        }
+      ],
+      "review_candidates": [],
+      "non_boundary_candidates": [],
+      "exact_page_coverage": true,
+      "safe_to_replace_old_continuation": true,
+      "canonical_write_allowed": false,
+      "parent_plan_sha256": "6d34229450fea3d7ead5a456c07c760a4be81f17c4d5458485d6ef98ddc4923c"
+    }
+  ],
+  "summary": {
+    "parents": 18,
+    "child_segments": 34,
+    "safe_parents": 18,
+    "parents_requiring_review": 0,
+    "review_candidates": 0,
+    "resolved_non_boundary_candidates": 1
+  },
+  "safety": {
+    "canonical_writes": false,
+    "old_continuation_packages_modified": false,
+    "embedding_calls": false,
+    "taiwan_names_resolved": false,
+    "layout_or_image_claims_approved": false
+  },
+  "plan_sha256": "c7c0253e52f0583570699f98cc9c8fa3dda15857551bc2b94d6430ed0afd008a"
+}

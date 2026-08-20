@@ -1,0 +1,117 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-4:p0021-p0023",
+  "owner_shard": "S08",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S08/maker/structure-drafts/kohler-volume-4__p0021-p0023.json",
+  "source_draft_sha256": "02d6c7411e3be8852bfbe69b93270aafc13ec1977334c002d6add3c35114ecce",
+  "eligibility": {
+    "deterministic_status": "pass",
+    "checked_field": "deterministic_status",
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "f94cf28722670706bc820dda93a71a5ec6344cabe4505d620f7b653f79fc96ed",
+    "validation_check_sha256": "1bb364098e7e6ca61a46c326ea382b59e0035930e00bdfa33a5f08666ee9935f",
+    "source_disposition_sha256": "7fa01479d79b2debbc47211389533d9e6b910b5a0831e827362f6c2c89aacb41",
+    "review_status": "machine_extracted"
+  },
+  "book_name": {
+    "scientific_name_candidate": "Psalliota campestris",
+    "authorship_candidate": "(L.) Fr.",
+    "aliases_candidates": [
+      "Feldegerling",
+      "Champignon",
+      "Angerling",
+      "Weidling",
+      "Herrenpilz",
+      "Truschling",
+      "Brachpilz",
+      "Gugenucke",
+      "Agaricus campestris L.",
+      "Ag. edulis Bull."
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Psalliota campestris"
+    ],
+    "accepted_scientific_name": "Agaricus campestris",
+    "display_name_zh_tw": "高溫洋菇",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0033627",
+    "rationale": "TaiCOL explicitly links the book binomial as a species-level synonym to the accepted taxon.",
+    "checked_at": "2026-08-13T12:28:09+08:00",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Psalliota campestris",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Psalliota+campestris",
+      "retrieved_at": "2026-08-13T12:28:09+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Psalliota campestris",
+          "matched_name_id": 142390,
+          "taxon_id": "t0033627",
+          "taicol_name_status": "not-accepted",
+          "accepted_name": "Agaricus campestris",
+          "accepted_name_id": 45599,
+          "accepted_usage": [
+            {
+              "usage_id": 98033,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 79729,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0033627",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0033627",
+          "taxon": {
+            "taxon_id": "t0033627",
+            "taxon_status": "accepted",
+            "name_id": 45599,
+            "simple_name": "Agaricus campestris",
+            "name_author": "L.:Fr",
+            "rank": "Species",
+            "common_name_c": "高溫洋菇",
+            "alternative_name_c": null,
+            "synonyms": "Agaricus bisporus,Agaricus bisporus var. albidus,Agaricus bisporus var. avellaneus,Agaricus bisporus var. bisporus,Agaricus bisporus var. hortensis,Agaricus brunnescens,Agaricus campestris var. bisporus,Agaricus campestris var. hortensis,Agaricus cookeanus,Agaricus hortensis,Agaricus subfloccosus var. bisporus,Psalliota bispora,Psalliota bispora fo. albida,Psalliota bispora fo. avellanea,Psalliota campestris,Psalliota campestris var. hortensis,Psalliota hortensis,Psalliota hortensis fo. albida,Psalliota hortensis fo. avellanea,Psalliota hortensis var. bispora",
+            "is_in_taiwan": true,
+            "alien_type": "native",
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

@@ -1,0 +1,223 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0080-p0080",
+  "entry_id": "kohler-volume-1:p0080-p0080",
+  "owner_shard": "S01",
+  "book_taxon": {
+    "scientific_name": "Quercus sessiliflora",
+    "authorship": null,
+    "aliases": [
+      "Quercus Robur Martyn",
+      "Quercus sessilis Ehrh."
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Quercus sessiliflora"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T18:22:55+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Quercus+sessiliflora",
+        "query_name": "Quercus sessiliflora",
+        "retrieved_at": "2026-08-13T18:22:53+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Quercus+robur",
+        "query_name": "Quercus robur",
+        "retrieved_at": "2026-08-13T18:22:53+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Quercus+sessilis",
+        "query_name": "Quercus sessilis",
+        "retrieved_at": "2026-08-13T18:22:53+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 80,
+      "evidence_type": "text",
+      "page_text_sha256": "4f1ae60369f2982e33ea651677d15b78e002b334ec16022a4db9ad66eac33c9a",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0080-p0080:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "              Syn.    Q                            var. b. L.       Quercus Robu                                              Martyn\n                                                        Quercus     sessilis      Ehrh.\n\n\n      Steineiche,     Traubeneiche, Wintereiehe,                          Bergeiehe,           Deutsche Eiche                      holm-oak,\n\n                                                    scarlet -oak             Chene vert.\n\n             Familie: Cupuliferae.                 Gattung: Quercus.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Quercus sessiliflora，同義名含 Q. Robur 及 Q. sessilis。俗名 Steineiche、Traubeneiche。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 80,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 265,
+        "char_end": 788,
+        "page_text_sha256": "4f1ae60369f2982e33ea651677d15b78e002b334ec16022a4db9ad66eac33c9a",
+        "exact_text_sha256": "acd12e4df9bed0a050e63843b4d805bf9510f5ff76824ec8608fb7ebcf0128bd",
+        "source_line_start": 13,
+        "source_line_end": 21,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "acd12e4df9bed0a050e63843b4d805bf9510f5ff76824ec8608fb7ebcf0128bd",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0080-p0080:s01:x00",
+      "section_type": "description",
+      "original_text": "             Beschreibung.            Im Allgemeinen ist            die Steineiche der Stieleiche gleich,                       nur wird erstere\n\netwas weniger hoch, dahingegen gedrungener, starker und alter als die letztere.                                              Krone ausgebreitet,\nsehr    gleichmassig.       Borke schmal- und               tiefrissig.     Blatter          langgestielt   ,        verkehrt - eiformig   ,\n                                                                                                                                               buchtig\n\n(Buchten regelmassiger und                niclit   so tief in das Blatt eindringend als bei der Steineiche),                          am Grande\nwenig ansgerandet oder in den Blattstiel herablanfend                        ,\n                                                                                 jungere Blatter unterseits weichhaarig, spater\n\nmit kurzen, anliegenden Harchen bedeckt, znletzt kahl.                                Mannliches Katzchen wie bei der Stieleiche.\n\nStaubbeutel rothlich, spater gelblich.                 Weiblicher Bliithenstand in den oberen Blattwinkeln des jungen\nTriebes,      an sehr kurzer Spindel; Bltithen zu                  2—5 dicht gedrangt.                   Narbe purpurroth.            Friichte an\n\nsehr    verkiirzter   Spindel,       zu 2    — 5 geknauelt.         Eichel       etwas        kurzer und             mehr eiformig    als      bei der\n\nStieleiche.      Sonst    alles   wie bei letzterer.",
+      "normalized_text": null,
+      "zh_tw_rendering": "樹冠廣展，樹皮深裂。葉長柄，倒卵形，幼葉下側被毛，後變光滑。雄花序同 Stieleiche，雌花序緊密。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 80,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 789,
+        "char_end": 2325,
+        "page_text_sha256": "4f1ae60369f2982e33ea651677d15b78e002b334ec16022a4db9ad66eac33c9a",
+        "exact_text_sha256": "46cc855aaeced8149243af2839ec052a609abe6044827d60d63ffaabe5a0f295",
+        "source_line_start": 22,
+        "source_line_end": 39,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "46cc855aaeced8149243af2839ec052a609abe6044827d60d63ffaabe5a0f295",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0080-p0080:s02:x00",
+      "section_type": "distribution",
+      "original_text": "             Verbreitung.            Quercus        sessiliflora   hat ein geringeres Verbreitungsgebiet als pedunculata.\n\nErstere geht nicht so hoch nach Norden und nicht so weit nach Osten als letztere, dahingegen steigt\n\nsessiliflora    hoher in die Gebirge.               Sie erreicht eine Meereshohe                   von 1300— 1400 Meter und zwar im\nbairischen     Walde 714 m,          in    Baden 974 m, im Elsass 800 m,                      in   den sudlichen Alpen 1359\n                                                                                                                 i\n                                                                                                                                           m und in\nSiebenburgen 632 m.",
+      "normalized_text": null,
+      "zh_tw_rendering": "分佈範圍小於 Q. pedunculata，不向北東延伸，但海拔更高，達 1300-1400 米，見於巴伐利亞森林及阿爾卑斯。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 80,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 3840,
+        "char_end": 4602,
+        "page_text_sha256": "4f1ae60369f2982e33ea651677d15b78e002b334ec16022a4db9ad66eac33c9a",
+        "exact_text_sha256": "71c8d8064c95cbb941695ab54ba86d825236afb9a15e4d70a968e18364ec85ed",
+        "source_line_start": 65,
+        "source_line_end": 73,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "71c8d8064c95cbb941695ab54ba86d825236afb9a15e4d70a968e18364ec85ed",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0080-p0080:s03:x00",
+      "section_type": "history",
+      "original_text": "             Name und Geschichtliches.                      Sessiliflora ist abgeleitet von sessilis sitzend, niedrig,                          wegen\nder sitzenden Bliithen und Friichte.                  Im ubrigen siehe Quercus pedunculata.",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源自 sessilis（坐生），因花與果實無柄。其他資訊參見 Quercus pedunculata。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 80,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4603,
+        "char_end": 4844,
+        "page_text_sha256": "4f1ae60369f2982e33ea651677d15b78e002b334ec16022a4db9ad66eac33c9a",
+        "exact_text_sha256": "d924140b1c654cd87c8b7b8347eef9023698a71b408fd5ebbea55b30d7d58a9c",
+        "source_line_start": 74,
+        "source_line_end": 75,
+        "section_index": 3,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "d924140b1c654cd87c8b7b8347eef9023698a71b408fd5ebbea55b30d7d58a9c",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0080-p0080:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "             Offlzinell sind Rinde und Friichte ganz in der Weise wie bei Quercus pedunculata.",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史上藥用部位為樹皮與果實，用法與 Quercus pedunculata 相同。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 80,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4921,
+        "char_end": 5015,
+        "page_text_sha256": "4f1ae60369f2982e33ea651677d15b78e002b334ec16022a4db9ad66eac33c9a",
+        "exact_text_sha256": "879e432b9718e6a9e46a400f204f67800440a40e753d6ca618983e8865923b5e",
+        "source_line_start": 77,
+        "source_line_end": 77,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "879e432b9718e6a9e46a400f204f67800440a40e753d6ca618983e8865923b5e",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "c4e25a09c354b9d342019148cf79bad80bb66639084c0425e0cce900c2b0c750",
+    "maker_receipt_sha256": "03b8ae0d5dd72bec84c3d4f5f58fac93c5f5c3d946263a41fd051db45b7b4a26",
+    "validation_check_sha256": "a451042c4a0a512d27954e617835bdaf33af2f8a6d85778fee1eae7caa48768a",
+    "source_disposition_sha256": "cf89d7393f5577e26ade608c645c0f1bbb26d81ea81bba822c14d01e6d5922ad",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "03b8ae0d5dd72bec84c3d4f5f58fac93c5f5c3d946263a41fd051db45b7b4a26",
+      "validation_check_sha256": "a451042c4a0a512d27954e617835bdaf33af2f8a6d85778fee1eae7caa48768a",
+      "source_disposition_sha256": "cf89d7393f5577e26ade608c645c0f1bbb26d81ea81bba822c14d01e6d5922ad"
+    },
+    "naming_artifact_sha256": "9d64894426f248d817c59ad95ca00db5a6cf89d6e99bbd7d63302d595d70bae6"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "7761e5ed79dd15504bbce27960665aed4e554315355f4d4897046bf5d6f081a0"
+}

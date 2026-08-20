@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-3:p0303-p0304",
+  "owner_shard": "S07",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S07/maker/structure-drafts/kohler-volume-3__p0303-p0304.json",
+  "source_draft_sha256": "87dbefec04cf340e466fe2005deb0ae0b8e96abc3d23db4ed3fd73b85a72a5ed",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "6708b389e13de6304f51e8b88899af0da3d57b7cc4fa19c9f95a76bc9769de80",
+    "validation_check_sha256": "3490921b61e261a39664627e08f7381849d90285eeecb23f584d06d55951f183",
+    "source_disposition_sha256": "9b79c525d45b5bd1a2026acd10592661eb29d7ea71dfd767a870967881104b4c",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Paullinia Cupana",
+    "authorship_candidate": "Kunth",
+    "aliases_candidates": [
+      "Paullinia sorbilis Mart.",
+      "Guarana",
+      "Uarana",
+      "Guarana-üra",
+      "Gruarana-sipo"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Paullinia Cupana",
+      "Paullinia cupana"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_zh_tw": null,
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_checked",
+    "taxon_id": null,
+    "display_name_source_scope": "unresolved",
+    "display_name_source_evidence_ids": [],
+    "display_name_is_taiwan_public": false,
+    "display_name_answer_policy": "scientific_name_only",
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping.",
+    "checked_at": "2026-08-13T16:18:10+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Paullinia Cupana",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Paullinia+Cupana",
+      "retrieved_at": "2026-08-13T16:18:08+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Paullinia cupana",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Paullinia+cupana",
+      "retrieved_at": "2026-08-13T16:18:08+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Paullinia sorbilis",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Paullinia+sorbilis",
+      "retrieved_at": "2026-08-13T16:18:09+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Paullinia cupana",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Paullinia%20cupana",
+      "retrieved_at": "2026-08-13T16:18:10+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears."
+  ]
+}

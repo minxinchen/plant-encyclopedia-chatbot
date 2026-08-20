@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0465-p0468",
+  "owner_shard": "S04",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 155.029,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0465-p0468",
+    "book_taxon": {
+      "scientific_name_candidate": "Toluifera Pereirae",
+      "authorship_candidate": "Baillon",
+      "aliases_candidates": [
+        "Myrospermum von Sonsonate Pereir.",
+        "Myrospermum Pereirae Royle",
+        "Myroxylon Pereirae Klotzsch",
+        "Tolwfera Balsamum var. Baill."
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 465,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Toluifera Pereirae，同義名包括 Myrospermum 及 Myroxylon 等。隸屬於豆科，與 Toluifera Balsamum 相似。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          11
+        ],
+        "exact_source_quote": "                                         Toluifera Pereirae Baillon.\n             Syn. Myrospermum von Sonsonate Pereir.   Myrospermum Pereirae Royle.\n                  Myroxylon Pereirae Klotzsch. Tolwfera Balsamum var. Baill.\n\n Perubalsamba\n           — um\n             Baume de Perou noir, Baume de San Salvador, Baume de Sansonate—\n                            Balsam of Peru.\n\n         Familie: Leguminosae (Papilionaceae); Gruppe: Sophoreae; Gattung: Tolwifera L. (Myro-\n aylon L. fil.)"
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 465,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "樹高約 16 米，樹皮灰帶紫。葉互生，長 15-20 公分，奇數羽狀複葉，具 7-11 片小葉，葉柄密被紅黃色短毛。",
+        "warnings": [],
+        "source_line_range": [
+          12,
+          22
+        ],
+        "exact_source_quote": "   i    Beschreibung. Ein dem Toluifera Balsamum Miller sehr ähnlicher Baum von 16 Meter\n Höhe, dessen ausgebreitete und aufsteigende Beastung in einer Stammhöhe von 2—3 Meter beginnt.\n Rinde   der jungen     Zweige grau,        ins Purpur fallend, glatt, mit weissen          oder gelblichen Lenticellen       be-\ndeckt. Blätter abwechselnd, gestielt, 15—20 Ctm. lang, unpaarig gefiedert, mit 7—11 nicht gegen-\nständigen Fiederblättern; Blattspindel und die etwas verdickten Stiele mit einem dichten Filze sehr\nkurzer, röthlich-gelber Haare bedeckt. Fiederblätter ungefähr 6 Ctm. lang und 3 Ctm. breit, länglich-\n eifórmig,    eilanzettförmig     oder     manchmal     etwas verkehrt eifórmig,       an der Basis gerundet,         zugespitzt,\nmit einer oft etwas gedrehten Spitze, ausgerandet, am Rande gefaltet, lederig, fein geadert, mit auf\nder Unterseite stark hervortretender Mittelrippe. In der Blattsubstanz befinden sich zwischen der feinen\nAderverzweigung zahlreiche, mehr oder weniger gerundete oder längliche Oelbehälter, welche, gegen das\nLicht gehalten, durchscheinend sind. Blüthen zahlreich, zwitterig, zu schlanken, langgestielten, 15"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 465,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產於薩爾瓦多共和國 Costa del Balsamo 狹窄海岸山脈，位於北緯 13.85°至 14.10°，西經 89°至 90°。",
+        "warnings": [],
+        "source_line_range": [
+          52,
+          55
+        ],
+        "exact_source_quote": "          Vorkommen.          Einh  eimi sch  in   den  Berg  wäld ern   des  schm  alen    Küst enst rich es  Cost a   del  Bal-\nsamo der Republik    San    Salv  ador ,   zwis chen   13.8 5%   und  14.1 0?  nörd lich er   Brei te   und   89  bis   fast  90°\nwestlicher Läng e (Gre enwi ch);    nach    Flü cki ger   zwis  chen   dem   Hafe npla tze   Acaj utla   und   dem    Flüs sche n\nComalapa.                       ۱"
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 466,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源自誤認產於秘魯，實為薩爾瓦多產物。西班牙征服前原住民已用作傷藥，並作為貢品進獻。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          10
+        ],
+        "exact_source_quote": "        Name und Geschichtliches. Perubalsam (indischer Balsam, Salvadorbalsam, Sonsonate-\nbalsam) ist eine irrthümliche Bezeichnung; man nahm an, dass der aus dem peruanischen Hafen Callao\nnach Europa gelangende Balsam aus Peru stamme. Toluifera, Tolubalsam liefernd, von Tolu, einer\ncolumbischen       Stadt     am     Golfo     de Morrosquillo;           tolu     ist auch    der   einheimische Name             für Balsam.\nMyrospermum, von utoov Balsam und oxegua Same, weil auch die Samen Balsam liefern. Myroxylon,\nvon  Utooy  Balsam und Sien, Holz.   Pereir ae nach Jonat han Pereir a, Profes sor der Pharma cie in\nLondon, gestorben 1853, so benannt. Sonsonate, Stadt in San Salvador, am Rio Grande.      =\n         Bei der Eroberung Centralamerikas fand man den Perubalsam schon als Wundheilmittel in\nGebrauch und lässt sich annehmen, dass schon lange vor dem Eindringen der Europäer Perubalsam\nbei den Eingeborenen          Verwendung          fand.      Sehr alte Thongefásse,           welche     den Kopf des mexikanischen"
+      },
+      {
+        "section_type": "harvest",
+        "pdf_page": 466,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "於旱季（11-12 月）採收。敲擊樹皮後用火炬燒灼傷口，收集滲出樹脂，經煮沸、過濾及沉澱後裝入果殼容器。",
+        "warnings": [],
+        "source_line_range": [
+          46,
+          67
+        ],
+        "exact_source_quote": "         Der schwarze Balsam, gemeinhin Perubalsam genannt, wird in 9 kleinen, am Südabhange\nder Vulkanenreihe in San Salvador gelegenen Indianerdörfern gewonnen; nach Flückiger sind dies:\nChiltiupan, Comasagua, Jayaque, Jicalapa, Juisnagua, Talnique, Tamanique, Teotepeque und Tepecoyo\n (Coyo). Die Bäume, welche schon vom 6. Jahre ab zur Balsamgewinnung herangezogen werden, ge-\nhören bestimmten Eigenthümern; sie sind gewöhnlich gruppenweise eingefriedigt oder sonst irgendwie\nbezeichnet und bilden das gigentliche Vermógen der dortigen Eingeborenen. Nach den Berichten\nFlückiger’s,       welche         auf Mittheilungen        des Dr. Dorat             in Sansonate       und    des Apothekers        Wyss   in.\nSan Miguel La Union (San Salvador) beruhen, ist die Gewinnung folgende: Bei Eintritt der trockenen\nJahreszeit, also im November und Dezember, beginnen die Indianer mit der Gewinnung des Balsams.\nZu diesem Zwecke wird mit dem Rücken der Axt oder einem Hammer die Rinde des Baumes an\n4 Seiten oder nach Wyss an 20—30 Stellen weich geklopft, so dass sie sich vom Holze ablöst.\nHierdurch wird schon etwas Balsam zum Austritt gebracht, den man in gereinigten Lappen oder\nLompen (trápos) auffängt. Der eigentliche Safterguss erfolgt erst, nachdem man 5 oder 6 Tage später\ndie verwundeten Stellen mit aus den Zweigen eines harzreichen Rohres (Chunaliate) hergestellten.\nFackeln angebrannt hat. Die hierdurch abfallende Rinde wird beseitigt und der nun reichlich aus-\nfliessende Balsam in Lumpen, mit denen man die verwundeten Stellen einhüllt, aufgefangen. Haben\nsich die letzteren vollgesogen, was in einigen Tagen der Fall ist, so werden sie in irdenen Tópfen mit\nWasser ausgekocht. Der Balsam sinkt zu Boden; die Lappen werden in einem aus groben Schnüren\nhergestellten Netze vollends ausgepresst, gereinigt und zur Saftgewinnung von neuem verwendet. Im\nApril erfolgt eine zweite Anbrennung. Von dem ausgekochten Balsam, dem der wusgepresste hinzu-\ngesetzt worden ist, wird nach dem Erkalten das Wasser abgegossen, etwaige Unreinlichkeiten entfernt\nund   der Balsam        nach kurzem Absetzen          in flaschenfórmige Fruchtschalen                  von Crescentia       cucurbitina L"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 468,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史上用於治療呼吸系統疾病、疥癬、慢性皮膚病及凍瘡。亦用於香水及巧克力製作。",
+        "warnings": [],
+        "source_line_range": [
+          14,
+          25
+        ],
+        "exact_source_quote": "             Anwendung. Innerlich in Pillen und Bissen, als Emulsion und Tinktur bei Leiden der\n  Athmungsorgane; äusserlich gegen Krätze, chronische, schuppige Ausschläge, Hautfinnen, Frostbeulen,\n  zu Brustwarzenbalsam; ferner als Parfüm und an Stelle der Vanille zur Chocoladenbereitung. „Gegen-\n  wärtig besteht die hauptsächlichste Anwendung des Perubalsams in seiner äusseren Application bei Krätze,\n gegen welche       er offenbar    das   am   angenehmsten        riechende   und   sich   dadurch   besonders    vortheilhaft\n  vor den früher üblichen Schwefelsalben auszeichnende Mittel bildet, das sich ausserdem durch seine `\n  Zuverlässigkeit und, da es auch die Brut der Milben tödtet, den Schutz vor Recidiven empfiehlt. Auch\n ist es, da nur wenig von dem Mittel verbraucht wird, nicht allzu kostspielig, wie dies manche ätherische\n  Oele sind, und erregt auch verhältnissmässig wenig Jucken und Hautreizung. In zweiter Linie kommt\n Perubalsam     besonders    äusserlich zur Förderung        der Heilung von Wunden           und Geschwüren,       wenn    die-\n selben einen torpiden Zustand darbieten, in Anwendung.“ Je säurereicher der Balsam ist, um so\n grösser soll seine Wirksamkeit sein. (Husemann, Arzneimittel. 218.)"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "82f4f4e39026d99cf5986740397f61a5c358f6ba3fac43d522bff9509a82e7b2"
+}

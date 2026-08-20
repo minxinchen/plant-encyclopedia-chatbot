@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 395,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "fe5bd43da69010688bb0d3a0443a2b6f90cbd3aa811d7323066b77c4736cd793",
+  "render_dpi": 144,
+  "render_sha256": "cc20142d441504e50fe10744657d75bd2df1221709637b0d5ce38c602f8df23d",
+  "input_sha256": "cc20142d441504e50fe10744657d75bd2df1221709637b0d5ce38c602f8df23d",
+  "render_pixel_width": 5798,
+  "render_pixel_height": 8114,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 6.28,
+  "embedded_character_count": 93,
+  "ocr_character_count": 43,
+  "ocr_alpha_ratio": 0.7442,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.023199726664830722,
+      "text": "Rubiaceae:",
+      "width": 0.11655301604313961,
+      "x": 0.8177928393093004,
+      "y": 0.916307796846706
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372621082103,
+      "text": "WM.",
+      "width": 0.03658536637019638,
+      "x": 0.8861788615013131,
+      "y": 0.1482558138036617
+    },
+    {
+      "confidence": 1,
+      "height": 0.02183116428435794,
+      "text": "Cinchona Calisaya Nedd.",
+      "width": 0.2906504094311134,
+      "x": 0.3719512190446058,
+      "y": 0.11482558141935262
+    },
+    {
+      "confidence": 1,
+      "height": 0.01171442393272637,
+      "text": "79 I",
+      "width": 0.028455282895619605,
+      "x": 0.9207317083489381,
+      "y": 0.02752976211007019
+    }
+  ],
+  "text": "Rubiaceae:\nWM.\nCinchona Calisaya Nedd.\n79 I",
+  "output_sha256": "7528b6fe9356e485abae03461a28b56836b93a5bff99cdc3bd2bee9dcf95d157",
+  "receipt_sha256": "b6e0574cf5f46c5a2c743ca56428acd644d96f7d6cf0559b967e5b96cbb01690"
+}

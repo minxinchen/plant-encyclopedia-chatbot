@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-3:p0171-p0174",
+  "owner_shard": "S06",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 163.097,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-3:p0171-p0174",
+    "book_taxon": {
+      "scientific_name_candidate": "Sarothamnus scoparius",
+      "authorship_candidate": "Koch",
+      "aliases_candidates": [
+        "Spartium scoparium L.",
+        "Oytisus scoparius Link",
+        "Genista scoparia Sprengel",
+        "Oytisogenista Tournefort"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 171,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名Sarothamnus scoparius，同義名包括Spartium scoparium。隸屬豆科，蝶形花亞科，金雀花族。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          8
+        ],
+        "exact_source_quote": "                           Sarothamnus                   scoparius             Koch.\nPfriemenstrauch, Besenginster, Besenstrauch, englisch: Broom, französisch :Genet & Balais,\n                      portugiesisch : Giestera, italienisch : Scoparia.\n\n           Syn.    Sarothamnus scoparius Wimmer,       Spartium scoparium L., Oytisus scoparius Link, @enista\nscoparia Sprengel, Oytisogenista 'Tournefort.\n        Familie: Papilkionacese Endlicher.          Gruppe: Lotoidese Endl.          Unterfamilie:        Genisteae.\nGattung: Sarothamnus Wimmer."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 171,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "高1-2米灌木，枝條堅韌多分枝，葉三出或單生，小葉倒卵形，長不超過1公分。",
+        "warnings": [],
+        "source_line_range": [
+          9,
+          20
+        ],
+        "exact_source_quote": "           Beschreibung.     Ein Strauch von 1—2 m Höhe, selten grösser, der ein Alter von acht\nbis zehn Jahren erreicht.   Seine Wurzel ist holzig ästig, vielfaserig und weit im Boden sich\nausbreitend.  Der Stengel ist von unten an ästig, unten oft hartholzig und zähe, im Umfange\nrundlich, mit graubrauner Rinde bedeckt; die Zweige dagegen sind rutenförmig, zähe und\nbiegsam, grün, oft scharf fünfkantig oder geflügelt.    Die jüngsten Zweige sind weichhaarig,\nund zwar die vorjährigen, blütentragenden sperrig abstehend, die jüngeren diesjährigen, keine\nBlüten tragenden anliegend.    Die Blätter vorjähriger Zweige sind fast sitzend, dreizählig oder\neinzeln,    bisweilen büschelig;       die Einzelblättchen meist verkehrt-eiförmig,          stumpf oder aus-\ngerandet, und wenn mehrere vorhanden sind, meist ungleich mit viel kürzerem Mittelblatt;\noberseits sind sie dunkelgrün, wenig oder nicht behaart, unterseits heller und mit dicht anliegen-\nden Haaren besetzt.        Die einzelnen Blättchen sind höchstens 1 cm lang und 0,5 cm breit; die\nInternodien sind 1—2 cm lang, an jungen Zweigen länger als an blütentragenden Kurztrieben. —"
+      },
+      {
+        "section_type": "flowering",
+        "pdf_page": 172,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "花期為五月至七月。",
+        "warnings": [],
+        "source_line_range": [
+          8,
+          8
+        ],
+        "exact_source_quote": "            Blütezeit.      Mai bis Juli."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 172,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分佈於德國及西歐，生長於沙質土壤、斜坡及林緣，罕見於石灰岩地。",
+        "warnings": [],
+        "source_line_range": [
+          9,
+          13
+        ],
+        "exact_source_quote": "         Vorkommen. Der Strauch wächst, durch ganz Deutschland und besonders das west-\n liche Europa verbreitet, besonders in sandreichen Gegenden, an Lehnen und Abhängen, an\n Sandsteinfelsen und Waldrändern; er findet sich fast nie auf Kalk, wenn er nicht etwa ‚da\n seine Blüten ein gutes Bienenfutter geben, angepflanzt worden ist. In sandigem Heideboden\n dagegen überzieht er oft weite Strecken und gereicht denselben zur Blütezeit zu schöner Zierde."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 172,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含生物鹼Spartein及色素Scoparin。Spartein為無色液體，具強鹼性及麻醉作用。",
+        "warnings": [],
+        "source_line_range": [
+          39,
+          48
+        ],
+        "exact_source_quote": "         Bestandteile. Uber dieselben ist aus früheren Zeiten wenig bekannt. Untersuchungen,\n ähnlich denen anderer Pflanzen, scheinen nicht gemacht worden zu sein, nur wusste man\n dass die Asche der Pflanze reich an Kaliumcarbonat sei; man benutzte den Abdampfrückstand\n des wässerigen Aschenauszugs als Sal Genistae als schwaches Abführmittel. Der Same soll\n reich an fettem ul sein, doch            fehlen nähere Nachrichten.             1851 indessen entdeckte Stenhouse\n in dem Kraute wie in den Blüten des Besenginsters zwei Stoffe, das alkaloidische Sparten\n und den färbenden Bestandteil Scoparin. Beide werden seit 1878 von Merck in grösseren\n Mengen dargestellt, da man neuerdings die Versuche damit wieder aufgenommen und\n namentlich das Sparten in den meisten europäischen Pharmacopöen Aufnahme gefunden\n hat. — Spartein 0° H° N? ist eine farblose, flüchtige, dicke Flüssigkeit von stark basischem"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 173,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "枝條製掃帚，嫩芽作醃菜，種子代咖啡。歷史上曾作利尿劑，但因毒性及混淆而少用。",
+        "warnings": [],
+        "source_line_range": [
+          22,
+          34
+        ],
+        "exact_source_quote": "           Anwendung.           Dass     man       die Zweige      des Strauches        zu Besen und groben Bürsten              ver-\n_ arbeitet, ist bekannt         und ist auf die mechanischen Eigenschaften derselben zurückzuführen.\n Die Knospen         dienen,    in Salz        und    Essig     eingemacht,       in   gewissen    Gegenden       an    Stelle   der\n Kapern als Küchengewürz,                 die Blüten          als Salat,     geröstete Samen       als Kaffeesurrogat.           Die\n Zweige sollen in einigen Gegenden teilweise den Hopfen                                beim Bierbrauen ersetzen, ein Vor-\n gehen, welches natürlich nur ein gesundheitsschädliches                               Bier erzeugen kann. — Arzneiliche\n Anwendung fanden vor langer Zeit die Blüten                              als auflösendes Mittel;       dieselben       sind ganz\n ausser    Anwendung       gekommen,               seit sie durch    die wohlriechenden,          schönfarbigen        Blüten    von\n Spartium junceum L. in ihrem ohnehin beschränkten Gebrauche ersetzt sind.                                      Die Zweige und\n Blätter, vereint oder gesondert, galten als harntreibendes Mittel, gerieten aber auch in Ver-\n gessenheit, da sie meist nie allein, sondern mit einer Menge anderer Sachen gemischt, Ver-\n wendung fanden und man infolgedessen nicht klar war, welche Wirkung besonders ihnen\n zugeschrieben werden musste. Einige Pharmacopöen haben sie der Vergessenheit entrissen. —"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "25e5c9ede22f74a9106869b7be9593d3152fcd9f3c2e94c4247939037f871935"
+}

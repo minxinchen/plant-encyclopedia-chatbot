@@ -1,0 +1,283 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0483-p0486",
+  "entry_id": "kohler-volume-2:p0483-p0486",
+  "owner_shard": "S04",
+  "book_taxon": {
+    "scientific_name": "Alpinia offieinarum",
+    "authorship": "Hance",
+    "aliases": [
+      "Alpinia Galanga Sw. (Willd)",
+      "Maranta Galanga L.",
+      "Rhizoma Galangae",
+      "Radix Galangae minoris"
+    ]
+  },
+  "display_name": "高良薑",
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Alpinia offieinarum",
+      "Alpinia galanga"
+    ],
+    "accepted_scientific_name": "Alpinia galanga",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T20:32:20+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Alpinia+offieinarum",
+        "query_name": "Alpinia offieinarum",
+        "retrieved_at": "2026-08-13T20:32:20+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Alpinia+galanga",
+        "query_name": "Alpinia galanga",
+        "retrieved_at": "2026-08-13T20:32:20+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0033716",
+        "query_name": "Alpinia galanga",
+        "retrieved_at": "2026-08-13T20:32:20+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0033716",
+        "query_name": "Alpinia galanga",
+        "retrieved_at": "2026-08-13T20:32:20+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "A scientific alias explicitly printed in the Köhler entry exactly matches a TaiCOL species with a Taiwan public name."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 483,
+      "evidence_type": "text",
+      "page_text_sha256": "8ce608c6ec78b80e5d491c534e74c009e07827a1c12b6b74980cd76db0ef73b2",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 484,
+      "evidence_type": "text",
+      "page_text_sha256": "2ecad790be4ed892be1c9844ea0f53a4515bde73a00f02e294369879f3c8481a",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 486,
+      "evidence_type": "text",
+      "page_text_sha256": "566572c9211596296ae584abef6bfd2c664a95e34280d4f776c9153f1f067753",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 485,
+      "evidence_type": "text",
+      "page_text_sha256": "9362fdd03d1a14707dbf14b7c6e6ecc12449426853679d7553f55d9d1ba09060",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0483-p0486:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                    Alpinia offieinarum Hance.\n      Galgant —        Galanga officinal, Galanga de la Chine —                      Lesser Galangal, Galangal.\n\n            Familie: Zingiberaceae (Unterfamilie: Alpinieae); Gattung: Alpinia L.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Alpinia offieinarum Hance，屬薑科，俗稱 Galgant 或 Galanga。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 483,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 257,
+        "page_text_sha256": "8ce608c6ec78b80e5d491c534e74c009e07827a1c12b6b74980cd76db0ef73b2",
+        "exact_text_sha256": "1ef96a74c97086b1653e1c11567f807060fda9363f52c58c75d73e5d0d87c2be",
+        "source_line_start": 1,
+        "source_line_end": 4,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "1ef96a74c97086b1653e1c11567f807060fda9363f52c58c75d73e5d0d87c2be",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0483-p0486:s01:x00",
+      "section_type": "description",
+      "original_text": "            Beschreibung. Eine ausdauernde Pflanze mit einem langen, kriechenden, schlanken, glatten,\n  cylindrischen, reich verzweigten, bis 2 Ctm. dicken, rothbraunen Wurzelstock, welcher mit zahlreichen,\n  grossen, hellbraunen Schuppen besetzt ist, die nach dem Abfallen weissliche, bogenförmig gekrümmte\n  Narben zurücklassen. Stengel bis zu 40 aus einem Rhizom, zum Theil Blüthen, zum Theil nur Laub-\n  blätter   entwickelnd.     Die blüthentragenden      Stengel    60—130      Ctm.   hoch,   aufrecht,    bedeckt    mit   den\n  Blattscheiden. Blätter zahlreich, abwechselnd, zweizeilig, in Folge der Drehung der Achse die Blatt-\n  ebene (Mediane) der Seitensprossblütter rechtwinkelig zur Mediane der Muttersprossblütter, mit langer,\n  glatter Scheide, die in ein lüngliches, 2-8 Ctm. langes, aufrecht stehendes, trockenhäutiges, an den\n  Scheidenrändern herablaufendes Blatthäutchen ausläuft. Die Blätter besitzen eine Länge von 18—30 Ctm.\n  und eine Breite von      2—2![,    Ctm., sind schmallanzettlich,      lang zugespitzt,     nach dem     Grunde     zu stark",
+      "normalized_text": null,
+      "zh_tw_rendering": "多年生植物，具長匍匐根莖，葉互生二列，長 18-30 公分，狹披針形，革質光亮。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 483,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 259,
+        "char_end": 1332,
+        "page_text_sha256": "8ce608c6ec78b80e5d491c534e74c009e07827a1c12b6b74980cd76db0ef73b2",
+        "exact_text_sha256": "994fa409862f180beea05aeab9b3f1a39c46d7d2f39511ba0783fdd59e649e1b",
+        "source_line_start": 6,
+        "source_line_end": 15,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "994fa409862f180beea05aeab9b3f1a39c46d7d2f39511ba0783fdd59e649e1b",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0483-p0486:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "             Anatomisches. Der Wurzelstock von Alp. officinarum ist im Querschnitt kreisrund und\n   zeigt eine sehr dicke, durch eine Kernscheide vom Holze getrennte Rinde; Rinde und Holz sind mit\n   zerstreuten Gefassbtindeln und Oelzellen ausgestattet; Mark fehlt. Die Aussenrinde besteht aus wenigen\n   Reihen tangential gestreckter Korkzellen; nach Flückiger sind diese Zellen jedoch keine Korkzellen,\n   sondern die Epidermis besteht aus einem engen, tiefbraunen Gewebe mit geschlängelten Wänden. Die\n   dicke Mittelrinde ist aus einem schlaffen, durch zerstreute Gefässbündel unterbrochenen Parenchym\n. zusammengesetzt. Die Zellen dieses Parenchyms sind polyedrisch, getüpfelt, mit deutlichen 3 seitigen\n   Interzellularráumen, der Hauptsache nach farblos und mit Stärkekörnern angefüllt; zwischen diesen\n   Zellen befindet sich zerstreut eine gróssere Anzahl von Zellen (Oelrüume), die einen braunrothen,\n ‘ durchscheinenden, in Wasser, Alkohol, Aether und Kalilauge unlóslichen Inhalt besitzen, ausserdem\n   sind vereinzelte Zellen mit citronengelben Harzballen vorhanden. Die Gefässbündel der Rinde sind zu 3\n   bis 15 ringförmig zusammengestellt und von einer aus verdickten Fasern gebildeten Scheide umhüllt.\n   Die Endodermis (Kernscheide) besteht aus einer stellenweise unterbrochenen Reihe dünnwandiger,\n   inhaltsloser Zellen, deren Form quadratisch oder etwas tangential gestreckt ist. Innerhalb derselben\n   sind die Gefässbündel dicht gedrängt und kleiner als in der Rinde. Das Holz zeigt gleichen Bau wie\n  die Mittelrinde,       nur    sind    die Zellen    etwas    kleiner.     Die Stärkekörner,      welche    die Gewebe      erfüllen,\n besitzen unregelmässige, keulenfórmige oder flaschenförmige Gestalt, zeigen deutliche Schichtung und\n enthalten am stumpfen Ende den Kern.",
+      "normalized_text": null,
+      "zh_tw_rendering": "根莖橫切面圓形，具厚皮層與木質部，含油細胞與澱粉粒，無髓。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 484,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 1798,
+        "page_text_sha256": "2ecad790be4ed892be1c9844ea0f53a4515bde73a00f02e294369879f3c8481a",
+        "exact_text_sha256": "223aa92404cc5665e5694ae502e68af0b0c187ea5a1ea577b4adbf3b42f8d46a",
+        "source_line_start": 1,
+        "source_line_end": 18,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "223aa92404cc5665e5694ae502e68af0b0c187ea5a1ea577b4adbf3b42f8d46a",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0483-p0486:s03:x00",
+      "section_type": "distribution",
+      "original_text": "             Vorkommen,                Wild nur auf der Südküste          der chinesischen Insel Hainan;            hier und nament-\n lich aber auf der Hainan                gegenüberliegenden        Halbinsel     Lei-kan-fu     kultivirt.    Ob die Kultur sich\n auch auf andere         chinesische Provinzen        erstreckt, ist nicht bekannt.",
+      "normalized_text": null,
+      "zh_tw_rendering": "野生於中國海南島南岸，對岸雷州半島亦有栽培。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 484,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 1800,
+        "char_end": 2145,
+        "page_text_sha256": "2ecad790be4ed892be1c9844ea0f53a4515bde73a00f02e294369879f3c8481a",
+        "exact_text_sha256": "4d0ad21399e725b97984d75f23c1e1bedc611015ae6a2fe50074ca7303f559d2",
+        "source_line_start": 20,
+        "source_line_end": 22,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "4d0ad21399e725b97984d75f23c1e1bedc611015ae6a2fe50074ca7303f559d2",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0483-p0486:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "           Anwendung.            Galg ant   ist   ein  bele bend es   Arom  atic um,    Sto mac   hic um   und    schw ache s   Sial  a-\n gogum, dient als     Kaum itte  l  bei   Zung  enlü  limu ng  und.    wird   in Russ land     in   Tink torf orm   gege n    cari ósen\n Zahnschmerz verwendet.           Die   Wurz el     wirk t  appe tite rreg  end   und    dien t   bei   schw ache r   Dige stio n    als\n Zusatz  zu bitt eren  Stof fen.    In   ihre r  Hei mat h   wird   sie  als  Fisc hwür ze   benu  tzt.    (Hu  sem  ann ,     Arzn ei-  -\n mittel 565.)",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史上用作芳香劑與胃藥，俄羅斯用於牙痛，原產地作魚類調味料。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 486,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 562,
+        "page_text_sha256": "566572c9211596296ae584abef6bfd2c664a95e34280d4f776c9153f1f067753",
+        "exact_text_sha256": "f2f473873a35f1ef466e18239fd772031402e11cc0dbbe06577e7dec0338b91e",
+        "source_line_start": 1,
+        "source_line_end": 5,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "f2f473873a35f1ef466e18239fd772031402e11cc0dbbe06577e7dec0338b91e",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0483-p0486:s05:x00",
+      "section_type": "constituents",
+      "original_text": "             Bestandtheile.           Welche     von    den      beiden Wurzeln,        ob     die    grosse     oder   kleine,     bei     dem\n  Untersuchungen        verwendet      worden. ist, ist unbekannt.                 Buchholz           und Brandes         fanden:         0.5%,\n  ütherisches   Oel,    5%),   scharfes   Weichharz,          8?/,   Gummi,      40%,    Bassorin.         Brandes      entdeckte         einen\n  eigenthümlichen krystallinischen Kórper (Kaempferid).\n       Das ätherische          Oel,    welches    den    Geruch      der   Droge     bedingt,        von   dem    Schimmel        & Co. in\n  Leipzig 0.79/|, erhielten, ist gelblich bis brüunlich, leichter als Wasser und farblos reflektirend; es\n  besitzt einen brennenden, anisartigen Geschmack und einen Geruch nach Cajeputöl; nähere Unter-\n  suchungen fehlen.",
+      "normalized_text": null,
+      "zh_tw_rendering": "含揮發油、樹脂、樹膠及 Kaempferid，油具茴香與樟腦氣味。",
+      "evidence_indexes": [
+        3
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 485,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2626,
+        "char_end": 3475,
+        "page_text_sha256": "9362fdd03d1a14707dbf14b7c6e6ecc12449426853679d7553f55d9d1ba09060",
+        "exact_text_sha256": "5c72769464a1a88c45ae721094ead8542020b98f381be7ce4debcd3e5e1e22c9",
+        "source_line_start": 29,
+        "source_line_end": 36,
+        "section_index": 5,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "5c72769464a1a88c45ae721094ead8542020b98f381be7ce4debcd3e5e1e22c9",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "The Taiwan accepted name is linked through a scientific alias printed in Köhler; Köhler facts remain attached to the book taxon.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "9ccd3e3dd7b0f24b24dceef80298057edcb6d3aab8ca3002e47422dee9fa59bc",
+    "maker_receipt_sha256": "654cc6d547366fae313294751418e98a95f27cc3f25a84ab648dacfafb33652a",
+    "validation_check_sha256": "6236a94520a9d15fd8513b21cb8190ecfb00cbe78f970fcd7ddc1356146a29f2",
+    "source_disposition_sha256": "693f78a11da18eb7d0d31c0b6869ec6a2ea5fe704616a849f42885d8b0bc898e",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "654cc6d547366fae313294751418e98a95f27cc3f25a84ab648dacfafb33652a",
+      "validation_check_sha256": "6236a94520a9d15fd8513b21cb8190ecfb00cbe78f970fcd7ddc1356146a29f2",
+      "source_disposition_sha256": "693f78a11da18eb7d0d31c0b6869ec6a2ea5fe704616a849f42885d8b0bc898e"
+    },
+    "naming_artifact_sha256": "c40991a3be7e09d9c00f5d65b8b474ee982c9dbdaec4a49083b0d5f90c22beac"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "80ec0ef0e24f41c7767573fa1a342a306641968c50ad734a9c6edcdb9601af70"
+}

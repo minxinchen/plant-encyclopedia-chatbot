@@ -1,0 +1,230 @@
+{
+  "schema_version": "1.0",
+  "checked_at": "2026-08-13T07:30:00+08:00",
+  "status": "sample_name_checked",
+  "records": [
+    {
+      "book_scientific_name": "Laminaria Cloustoni Edmonston",
+      "query_scientific_name": "Laminaria hyperborea",
+      "display_name_zh_tw": "極北海帶",
+      "aliases_zh_tw": [],
+      "name_status": "taiwan_public_name",
+      "taiwan_occurrence_status": "not_recorded_in_checked_sources",
+      "occurrence_note": "臺灣農業部體系公開資料支援中文名稱，但不是臺灣 occurrence 證據；本批不外推臺灣分布。",
+      "do_not_conflate_with": ["Saccharina japonica / 日本海帶", "Laminaria digitata / 掌狀海帶"],
+      "sources": [
+        {
+          "authority": "農業部農業知識入口網／水產試驗所《養生飲食樂—水產篇》",
+          "url": "https://kmweb.moa.gov.tw/redirect_files.php?id=166420",
+          "result": "Laminaria hyperborea / 極北海帶"
+        },
+        {
+          "authority": "World Register of Marine Species (WoRMS)",
+          "url": "https://www.marinespecies.org/aphia.php?p=taxlist&tName=Laminaria",
+          "result": "Laminaria cloustonii Edmondston, 1845 accepted as Laminaria hyperborea (Gunnerus) Foslie, 1884"
+        }
+      ],
+      "primary_taicol_direct_check": "no_matching_accepted_taxon_row_observed",
+      "taicol_match_note": "本批未以 TaiCOL 作命名權威；臺灣名稱採農業部體系公開資料，現代異名採 WoRMS。"
+    },
+    {
+      "book_scientific_name": "Polygala Senega L.",
+      "query_scientific_name": "Polygala senega",
+      "display_name_zh_tw": "美遠志",
+      "aliases_zh_tw": ["遠志"],
+      "materia_medica_name_zh_tw": "美遠志",
+      "name_status": "taiwan_public_name",
+      "taiwan_occurrence_status": "not_recorded_in_checked_sources",
+      "occurrence_note": "臺灣官方來源只支援名稱／成分用語，本批未找到直接 taxon occurrence 紀錄；不可推論臺灣有分布，也不可反推絕對不存在。",
+      "do_not_conflate_with": ["Polygala tenuifolia / 細葉遠志"],
+      "sources": [
+        {
+          "authority": "衛生福利部《中藥管理法規解釋彙編》",
+          "url": "https://www.mohw.gov.tw/dl-37982-5068c71c-8327-40ea-9fbe-72cba235fd61.html",
+          "result": "Senega / 美遠志（法規中的成分名稱）"
+        },
+        {
+          "authority": "衛生福利部《中醫藥年報》第 28 期第 4 冊",
+          "url": "https://www.mohw.gov.tw/dl-28443-bc1272eb-6b0b-4ad6-adab-9a597d9f456b.html",
+          "result": "Polygala senega / 遠志（臺灣研究資料對照）"
+        }
+      ],
+      "primary_taicol_direct_check": "no_matching_species_row_observed",
+      "taicol_match_note": "Tai2 遠志科頁目前列出 Senega 為美洲遠志屬，但本批未找到 Polygala senega 的直接 species row；名稱採衛福部資料並明示角色限制。"
+    },
+    {
+      "book_scientific_name": "Piper nigrum L.",
+      "query_scientific_name": "Piper nigrum",
+      "display_name_zh_tw": "胡椒",
+      "aliases_zh_tw": ["黑胡椒"],
+      "name_status": "taiwan_public_name",
+      "taiwan_occurrence_status": "recorded",
+      "occurrence_note": "Tai2 標示 Non-Taiwanese；農業部資料另記載高雄六龜有少量種植，因此只記為臺灣栽培紀錄，不視為原生分布。",
+      "do_not_conflate_with": ["Zanthoxylum bungeanum / 花椒", "Capsicum annuum / 番椒"],
+      "sources": [
+        {
+          "authority": "台灣植物資訊整合查詢系統 Tai2",
+          "url": "https://tai2.ntu.edu.tw/species/999%20990%20195%203",
+          "result": "Piper nigrum L. / 胡椒 / Non-Taiwanese"
+        },
+        {
+          "authority": "農業部農業知識入口網／台北植物園館",
+          "url": "https://kmweb.moa.gov.tw/subject/subject.php?id=27351",
+          "result": "胡椒 Piper nigrum；臺灣高雄六龜有少量種植"
+        }
+      ],
+      "primary_taicol_direct_check": "tai2_direct_taxon_page_used",
+      "taicol_match_note": "名稱採 Tai2 直接 taxon row；臺灣 occurrence 由 Non-Taiwanese 與農業部栽培紀錄分開描述。"
+    },
+    {
+      "book_scientific_name": "Atropa Belladonna L.",
+      "query_scientific_name": "Atropa belladonna",
+      "display_name_zh_tw": "顛茄",
+      "aliases_zh_tw": [],
+      "name_status": "taiwan_public_name",
+      "taiwan_occurrence_status": "not_checked",
+      "occurrence_note": "衛福部來源只證明臺灣官方名稱，本批不外推臺灣 occurrence。",
+      "do_not_conflate_with": ["Datura stramonium / 曼陀羅"],
+      "sources": [
+        {
+          "authority": "衛生福利部《中醫藥年報》",
+          "url": "https://www.mohw.gov.tw/dl-28101-5c4de27b-4f51-4e9b-a7c1-8c77d92250b3.html",
+          "result": "Atropa belladonna L. and its preparations / 顛茄"
+        }
+      ],
+      "primary_taicol_direct_check": "no_matching_taxon_row_used",
+      "taicol_match_note": "本次採用衛福部直接對應學名與繁體中文名的公開資料；occurrence 維持 not_checked。"
+    },
+    {
+      "book_scientific_name": "Cibotium Barometz (L.) J. Smith",
+      "query_scientific_name": "Cibotium barometz",
+      "display_name_zh_tw": "金狗毛蕨",
+      "name_status": "taiwan_public_name",
+      "taiwan_occurrence_status": "recorded",
+      "occurrence_note": "Tai2 states rare in Taiwan.",
+      "do_not_conflate_with": [
+        "Cibotium taiwanense C.M.Kuo / 台灣金狗毛蕨"
+      ],
+      "sources": [
+        {
+          "authority": "臺灣物種名錄 TaiCOL",
+          "url": "https://taicol.tw/zh-hant/taxon/t0026463",
+          "result": "Cibotium barometz (L.) J.Sm. / 金狗毛蕨 / accepted"
+        },
+        {
+          "authority": "台灣植物資訊整合查詢系統（國立臺灣大學）",
+          "url": "https://tai2.ntu.edu.tw/species/113%20001%2001%200",
+          "result": "Cibotium barometz (L.) J. Sm. / 金狗毛蕨"
+        }
+      ],
+      "primary_taicol_direct_check": "completed",
+      "taicol_match_note": "TaiCOL also returned a separate misapplied record t0026464 with 台灣金狗毛蕨; the accepted t0026463 record is used."
+    },
+    {
+      "book_scientific_name": "Saponaria officinalis L.",
+      "query_scientific_name": "Saponaria officinalis",
+      "display_name_zh_tw": "皂質草",
+      "aliases_zh_tw": [
+        "肥皂草"
+      ],
+      "name_status": "taiwan_public_name",
+      "taiwan_occurrence_status": "non_taiwanese",
+      "occurrence_note": "Tai2 explicitly labels the taxon Non-Taiwanese.",
+      "do_not_conflate_with": [],
+      "sources": [
+        {
+          "authority": "臺灣物種名錄 TaiCOL",
+          "url": "https://taicol.tw/zh-hant/taxon/t0075740",
+          "result": "Saponaria officinalis L. / 皂質草 / accepted"
+        },
+        {
+          "authority": "台灣植物資訊整合查詢系統（國立臺灣大學）",
+          "url": "https://tai2.ntu.edu.tw/species/999%20990%20264%2041",
+          "result": "Saponaria officinalis L. / 肥皂草 / Non-Taiwanese"
+        }
+      ],
+      "primary_taicol_direct_check": "completed"
+    },
+    {
+      "book_scientific_name": "Podophyllum peltatum L.",
+      "query_scientific_name": "Podophyllum peltatum",
+      "display_name_zh_tw": "盾葉鬼臼",
+      "aliases_zh_tw": [],
+      "name_status": "taiwan_public_name",
+      "taiwan_occurrence_status": "non_taiwanese",
+      "occurrence_note": "Tai2 explicitly labels the taxon Non-Taiwanese; the Taiwan public Chinese name is not evidence of occurrence in Taiwan.",
+      "do_not_conflate_with": [
+        "Dysosma pleiantha / 八角蓮"
+      ],
+      "sources": [
+        {
+          "authority": "行政院農業委員會林業試驗所《臺灣森林抗癌植物的栽培與生產》",
+          "url": "https://ws.tfri.gov.tw/001/Upload/OldFile/files/1-1%E8%87%BA%E7%81%A3%E6%A3%AE%E6%9E%97%E6%8A%97%E7%99%8C%E6%A4%8D%E7%89%A9%E7%9A%84%E6%A0%BD%E5%9F%B9%E8%88%87%E7%94%9F%E7%94%A2.pdf",
+          "result": "The Taiwan government research article directly pairs 盾葉鬼臼 with Podophyllum peltatum."
+        },
+        {
+          "authority": "台灣植物資訊整合查詢系統（國立臺灣大學）",
+          "url": "https://tai2.ntu.edu.tw/species/999%20990%208%2017",
+          "result": "Podophyllum peltatum L. / Non-Taiwanese"
+        }
+      ],
+      "primary_taicol_direct_check": "no_matching_accepted_taxon_row_observed",
+      "taicol_match_note": "The direct accepted-name query did not return a matching taxon row during this check, so TaiCOL was not used as the naming authority."
+    },
+    {
+      "book_scientific_name": "Strychnos Nux vomica L.",
+      "query_scientific_name": "Strychnos nux-vomica",
+      "display_name_zh_tw": "馬錢",
+      "materia_medica_name_zh_tw": "馬錢子",
+      "name_status": "taiwan_public_name",
+      "taiwan_occurrence_status": "recorded",
+      "occurrence_note": "國家中醫藥研究所記載現今臺灣有栽培；這不是原生分布聲明。",
+      "do_not_conflate_with": [
+        "Strychnos Ignatii Bergius"
+      ],
+      "sources": [
+        {
+          "authority": "國家中醫藥研究所《馬錢子研究資料》",
+          "url": "https://qatcm.nricm.edu.tw/images/uploads/2024/10/93f60f6ab055549.pdf",
+          "result": "植物名馬錢；藥材名馬錢子；Strychnos nux-vomica L.；臺灣有栽培。"
+        },
+        {
+          "authority": "衛生福利部",
+          "url": "https://www.mohw.gov.tw/fp-16-18326-1.html",
+          "result": "馬錢子為植物馬錢的乾燥成熟種子，有毒且不可自行使用。"
+        }
+      ],
+      "primary_taicol_direct_check": "no_matching_accepted_taxon_row_observed",
+      "taicol_match_note": "本次未用 TaiCOL 作命名權威；採用臺灣國家中醫藥研究所與衛福部的直接官方資料。"
+    },
+    {
+      "book_scientific_name": "Carica Papaya L.",
+      "query_scientific_name": "Carica papaya",
+      "display_name_zh_tw": "番木瓜",
+      "aliases_zh_tw": ["木瓜", "萬壽果", "乳瓜"],
+      "name_status": "taiwan_public_name",
+      "taiwan_occurrence_status": "recorded",
+      "occurrence_note": "臺灣生命大百科與 Tai2 均標為歸化／naturalized。",
+      "do_not_conflate_with": ["Chaenomeles sinensis / 木瓜（薔薇科）"],
+      "sources": [
+        {
+          "authority": "臺灣生命大百科（林業試驗所臺灣歸化植物資料庫）",
+          "url": "https://taieol.tw/pages/214642/articles",
+          "result": "Carica papaya L. / 番木瓜 / 其他別名木瓜 / 歸化種"
+        },
+        {
+          "authority": "農業部種苗改良繁殖場",
+          "url": "https://www.tss.gov.tw/theme_data.php?id=20&theme=new_varieties",
+          "result": "番木瓜（Carica papaya L.）"
+        },
+        {
+          "authority": "台灣植物資訊整合查詢系統（國立臺灣大學）",
+          "url": "https://tai2.ntu.edu.tw/species/452%20001%2001%200",
+          "result": "Carica papaya L. / 木瓜、番木瓜等俗名 / naturalized"
+        }
+      ],
+      "primary_taicol_direct_check": "linked_from_taieol_but_direct_taxon_row_not_resolved",
+      "taicol_match_note": "沒有把未解析的 TaiCOL taxon ID 當成已直接核對；主要名稱證據採臺灣生命大百科與農業部機關頁。"
+    }
+  ]
+}

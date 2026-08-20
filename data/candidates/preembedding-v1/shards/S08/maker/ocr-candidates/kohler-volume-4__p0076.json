@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-4",
+  "volume": 4,
+  "pdf_page": 76,
+  "owner_shard": "S08",
+  "source_pdf": "/Volumes/NO NAME/第四集 mobot31753003431696.pdf",
+  "source_text_sha256": "54092bb6202f28e95807a9e7221cffb659c19a68a2434201d473fd3d9a1343f8",
+  "render_dpi": 144,
+  "render_sha256": "9137fdbcaf83eaccbf1e9af00aec9f72b56ee73f8d523e874d0d5ac2e6d0489c",
+  "input_sha256": "9137fdbcaf83eaccbf1e9af00aec9f72b56ee73f8d523e874d0d5ac2e6d0489c",
+  "render_pixel_width": 5768,
+  "render_pixel_height": 8338,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 7.983,
+  "embedded_character_count": 14,
+  "ocr_character_count": 103,
+  "ocr_alpha_ratio": 0.7282,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01894725882817838,
+      "text": "Tafel 8",
+      "width": 0.06302520861335126,
+      "x": 0.050420168424416816,
+      "y": 0.9665178567998864
+    },
+    {
+      "confidence": 1,
+      "height": 0.017626523971557617,
+      "text": "Basıdlomycetes",
+      "width": 0.1324035207003248,
+      "x": 0.844512523709821,
+      "y": 0.9533960403011567
+    },
+    {
+      "confidence": 1,
+      "height": 0.016399767663743736,
+      "text": "(Agaricaceae)",
+      "width": 0.10726952774977605,
+      "x": 0.8717854031140707,
+      "y": 0.9372943024103547
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "E",
+      "width": 0.010504201663437712,
+      "x": 0.14075630239832318,
+      "y": 0.26744186086015986
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "4",
+      "width": 0.01470588219208524,
+      "x": 0.5336134455636212,
+      "y": 0.2034883720427515
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "F",
+      "width": 0.012605042269580258,
+      "x": 0.9138655463021848,
+      "y": 0.2136627910321559
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "3",
+      "width": 0.008403361057295167,
+      "x": 0.47689075634110034,
+      "y": 0.15261627941097122
+    },
+    {
+      "confidence": 1,
+      "height": 0.026476065317789677,
+      "text": "A—E Amanita bulbosa Bull. -F Psalliota campestris (L.) Fr.",
+      "width": 0.47550009450604835,
+      "x": 0.3209864318350284,
+      "y": 0.013129893032411744
+    }
+  ],
+  "text": "Tafel 8\nBasıdlomycetes\n(Agaricaceae)\nE\n4\nF\n3\nA—E Amanita bulbosa Bull. -F Psalliota campestris (L.) Fr.",
+  "output_sha256": "714e3983f041d51b74258d87f759d98950fbae14e7a4804e0031cab432f49765",
+  "receipt_sha256": "14c638c5fa98c40c1d7f45d91e5a2abc17efd7bacd96e7af21ad9e8d9b131c7b"
+}

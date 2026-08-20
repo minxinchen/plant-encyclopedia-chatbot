@@ -1,0 +1,287 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0163-p0166",
+  "entry_id": "kohler-volume-2:p0163-p0166",
+  "owner_shard": "S03",
+  "book_taxon": {
+    "scientific_name": "Styrax Benzoin",
+    "authorship": "Dryander",
+    "aliases": [
+      "Laurus Benzoin Houtt.",
+      "Benzoin officinale Hayne",
+      "Lithocarpus Benzoin Blume"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Styrax Benzoin",
+      "Styrax benzoin"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T17:58:10+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Styrax+Benzoin",
+        "query_name": "Styrax Benzoin",
+        "retrieved_at": "2026-08-13T17:58:06+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0024917",
+        "query_name": "Styrax Benzoin",
+        "retrieved_at": "2026-08-13T17:58:06+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0024917",
+        "query_name": "Styrax Benzoin",
+        "retrieved_at": "2026-08-13T17:58:06+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Styrax+benzoin",
+        "query_name": "Styrax benzoin",
+        "retrieved_at": "2026-08-13T17:58:06+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Laurus+benzoin",
+        "query_name": "Laurus benzoin",
+        "retrieved_at": "2026-08-13T17:58:07+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Benzoin+officinale",
+        "query_name": "Benzoin officinale",
+        "retrieved_at": "2026-08-13T17:58:07+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Lithocarpus+benzoin",
+        "query_name": "Lithocarpus benzoin",
+        "retrieved_at": "2026-08-13T17:58:07+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 163,
+      "evidence_type": "text",
+      "page_text_sha256": "df4d31cbe966770db46050816ae671481df0add658860c0e1c8e9fdfb27b076d",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 165,
+      "evidence_type": "text",
+      "page_text_sha256": "9a9cb00adb1eed62abee2a0536038a5a1429c9cbc06c44c41bf6a63bb445b601",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0163-p0166:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                       Styrax Benzoin Dryander.\n   Syn.: Laurus Benzoin Houtt.                     Benzoin officinale Hayne.             Lithocarpus Benzoin       Blume.\n\n                                  Benzoé-Storaxbaum 一                 Benjoin —       Benzoin.\n           Familie:      Styraceae.     Gattung: Styrax Tourn.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Styrax Benzoin，同義名包括 Laurus Benzoin 及 Lithocarpus Benzoin，屬安息香科。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 163,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 344,
+        "page_text_sha256": "df4d31cbe966770db46050816ae671481df0add658860c0e1c8e9fdfb27b076d",
+        "exact_text_sha256": "8312c7fbe17a1d3d8ff0b2c9cd5cd55e25bd521c1a6d5ecc5080f89adcfbb992",
+        "source_line_start": 1,
+        "source_line_end": 5,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "8312c7fbe17a1d3d8ff0b2c9cd5cd55e25bd521c1a6d5ecc5080f89adcfbb992",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0163-p0166:s01:x00",
+      "section_type": "description",
+      "original_text": "           Beschreibung:            Baum     von    mittlerer     Grösse,   mit   mannsdickem    Stamme,   schóner    Krone,\n grünbrauner, innen braunschwarzer Rinde, braunrothem Holze und sternhaarig bráunlich-filzigen jüngeren\n Zweigen. Blätter abwechselnd, nebenblattlos, mit 1 Ctm. langem, rostbraun-filzigem Blattstiel; Blatt\n bis 11 Ctm. lang, bis 41], Ctm. breit, eiförmig-länglich, lang zugespitzt, mit unregelmässig ausge-\n schweift-gezähntem Rande, oberseits wenig glänzend und kahl, unterseits dicht und kurz weisslich-\n sternfilzig. Die starken Nerven und das feine Adernetz rostbraun-schülfrig; auf jeder Seite der Mittel.\n nerven etwa 10 Hauptadern bogenförmig nach dem Rande verlaufend. Blüthenstand eine achsel- und\n  endständige, zusammengesetzte, rispige, gestielte Traube bildend; Spindel und Blüthenstiele weiss,\n sternfilzig; Brakteen klein und hinfällig. Kelch unterstándig, glockenfórmig, abgestutzt, mit schwach\n  özähnigen   Rande,    aussen    dicht silberweiss-seidenhaarig,       innen rothbraun, bleibend.    Krone unterständig,\n tief 5theilig, mit lanzettfórmigen, in der Knospe klappigen Abschnitten, deren Länge das 3fache der\n  mit dem Kelche gleichlangen Róhre betrügt, aussen und am Rande dicht silberweiss-seidenhaarig, innen\n braunroth und fast kahl, abfallend. Staubgefässe 8—10, wenig kürzer als die Krone; Staubfüden im\n untern Theile unter sich zu einer, der Blumenróhre entspringenden Röhre verwachsen, der obere\n freie Theil halb so lang als die Róhre; Staubbeutel linienförmig, 2fücherig, von der doppelten Länge\n der freien Staubfüden, mit breitem, braunrothem Connektiv und schmalen, gelben, der Länge nach\n  seitlich aufspringenden Fächern. Pollen gelb, elliptisch, tief 3furchig, 9porig, unter Wasser rundlich.\n Stempel oberständig, mit eifórmigem, dicht weisslich-zottigem, unten 2—3-, oben lfücherigem Frucht-\n knoten, fadenfórmigem, fast kahlem, braunrothem Griffel und stumpfer Narbe. Samenträger bis zur\n halben Hóhe des Fruchtknotens scheidewandartig in der Mitte verwachsen und in Folge dessen der\n untere Theil des Fruchtknotens 3fächerig erscheinend. Eichen meist 6 in jedem Fache, 2reihig dem\n innern Fachwinkel entspringend, aufsteigend.      Frucht niedergedrückt kugelig, runzelig-graubraun,\n nicht aufspringend, holzig, 1fácherig und nur lsamig. Same nussartig, röthlichkastanienbraun, mit 6\n hellen Längsstreifen. Kern ochergelb; Embryo schwach gekrümmt, in der Achse des fleischigen Eiweiss.\n Samenlappen blattartig; Würzelchen länglich, nach unten gekehrt.",
+      "normalized_text": null,
+      "zh_tw_rendering": "中等大小樹木，樹幹粗壯，葉互生，花序為總狀，果實球形不裂，種子具六條縱紋。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 163,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 345,
+        "char_end": 2866,
+        "page_text_sha256": "df4d31cbe966770db46050816ae671481df0add658860c0e1c8e9fdfb27b076d",
+        "exact_text_sha256": "92ba1df2638114698dd75fbc0cf4eb55e515e6ffbe1cb5209381681c13177f88",
+        "source_line_start": 6,
+        "source_line_end": 30,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "92ba1df2638114698dd75fbc0cf4eb55e515e6ffbe1cb5209381681c13177f88",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0163-p0166:s02:x00",
+      "section_type": "distribution",
+      "original_text": "           Vorkommen.            Auf   Sumatra      und   Java.     Ob die aus Hinterindien       stammende     Siam-Benzoö\n von demselben Baume gewonnen wird, ist noch nicht erwiesen.                         Auf Sumatra wird Styrax Benzoin\n am   Rande   der Reisfelder kultivirt.",
+      "normalized_text": null,
+      "zh_tw_rendering": "產於蘇門答臘及爪哇，蘇門答臘地區於稻田邊緣栽培，暹羅安息香來源未定。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 163,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2898,
+        "char_end": 3178,
+        "page_text_sha256": "df4d31cbe966770db46050816ae671481df0add658860c0e1c8e9fdfb27b076d",
+        "exact_text_sha256": "3e0300b09826ad63357fd79e6c2a0b113048b115109f8300f07573ab20e625ca",
+        "source_line_start": 33,
+        "source_line_end": 35,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "3e0300b09826ad63357fd79e6c2a0b113048b115109f8300f07573ab20e625ca",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0163-p0166:s03:x00",
+      "section_type": "history",
+      "original_text": "           Name und Geschichtliches. Benzoé, vom arabischen ben Wohlgeruch oder vom hebräischen\n 21 ben   Zweig,   NY   zoa Auswurf,       d. h. Saft der Zweige, oder vom          arabischen   Luban djawi,    Weihrauch\n von Java, welches Wort in Banjawi, Benjui, Been, 38 umgewandelt worden ist.\n         Lithocarpus von Av90g Stein und xaozroc Frucht, wegen der harten Frucht.\n          Griechen, Römer und Araber früherer Zeit haben Benzo’ nicht gekannt. Nach Flückiger\nist der berühmte arabische Reisende Ibn Batuta (1304—1378) der erste, welcher auf seiner indischen\n Reise Benzoé (Luban djawi) kennen lernte und sie unter den Produkten Sumatra's (damals Java oder Klein-                       ~\n Java genannt) aufführte.        Die Droge selbst scheint nach dem Abendlande nicht vor 1461 gekommen zu\n\n\n                                                                                                                        118",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源自阿拉伯語，1461 年經埃及蘇丹贈送威尼斯，16 世紀成為貿易商品。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 163,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3180,
+        "char_end": 4110,
+        "page_text_sha256": "df4d31cbe966770db46050816ae671481df0add658860c0e1c8e9fdfb27b076d",
+        "exact_text_sha256": "929b02b2d14dc39be2619abbf851086278cf360f5b6d520be009167eb0042488",
+        "source_line_start": 37,
+        "source_line_end": 47,
+        "section_index": 3,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "929b02b2d14dc39be2619abbf851086278cf360f5b6d520be009167eb0042488",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0163-p0166:s04:x00",
+      "section_type": "constituents",
+      "original_text": "          Bestandtheile.           Die Untersuchungen         der Benzoé        von John,          Buchholz,     Stoltze,     Brandes\nu. A. haben folgendes Ergebniss geliefert: bis 84 °% Harz; bis 20%, Benzoésáure (Zimmtsäure), 1,7%\nbalsamische Materie, 0,5°/, aromatischen Extraktivstoffe, 2| Holzfaser und fremde Beimengungen,\n0,7%, Salze. Stolen fand in der weissen Benzoé: Spur von ätherischem Oele, 19,8%, Benzoé-\nsáure, 19,8%, gelbes, in Aether lösliches, 0,2?/, braunes, in Aether unlösliches Harz, in der Mandel-\nBenzoé: Spur von ätherischem Oele, 19,4?/, Benzoés&ure, 27,1 0 gelbes, in Aether lósliches, und\n50,5 |, in Aether unlösliches Harz, 0,2%, aromatischen Extraktivstoff, 2,6%, Holzfaser und Bei-\nmengungen; in der braunen Benzoé: Spur von ätherischem Oele, 19,7ly Benzoösäure, 8,3%, gelbes,\nin Aether    lósliches,     67,7%,   in Aether       unlösliches     Harz,          0,1%,   aromatischen       Extraktivstoff,   1,4%\nHolzfaser und Beimengungen. Kopp fand neben 14—15°/, Benzoésiure folgende Harze: 48-520\nAlphaharz, 25—28 %, Betaharz, 3—3,5 ‫او‬‎ Gammaharz, 0,5—0,8*/, Deltaharz, 5,2—5,5°|) Beimengungen.\nKopp fand m der Siam-Benzoé Vanillin.",
+      "normalized_text": null,
+      "zh_tw_rendering": "含樹脂、苯甲酸及肉桂酸，不同產地成分比例有異，暹羅安息香含香草素。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 165,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 639,
+        "char_end": 1806,
+        "page_text_sha256": "9a9cb00adb1eed62abee2a0536038a5a1429c9cbc06c44c41bf6a63bb445b601",
+        "exact_text_sha256": "e23fcbf69f7004036157c6b47a50a9cd96b12aed9d5b3307d4335b5f14579945",
+        "source_line_start": 8,
+        "source_line_end": 19,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "e23fcbf69f7004036157c6b47a50a9cd96b12aed9d5b3307d4335b5f14579945",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0163-p0166:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "          Anwendung.     Als Räuchermittel, Cosmetikum, und die Siamsorte zur Darstellung der\n Benzoésáure. Husemann äussert sich über Benzoé wie folgt: Die innerliche Anwendung der Benzoé\n als Balsamicum bei chronischen Respirationskatarrhen und gegen Incontinentia urinae kann als auf-\n\n\n                                                                                                                                    113",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史上用作薰香及化妝品，內服用於慢性呼吸道疾病，苯甲酸作祛痰劑。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 165,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 5362,
+        "char_end": 5787,
+        "page_text_sha256": "9a9cb00adb1eed62abee2a0536038a5a1429c9cbc06c44c41bf6a63bb445b601",
+        "exact_text_sha256": "f1602e82f8392354f2b2c4679ed08928edeec45c123ce1fcb3b9239af0262f52",
+        "source_line_start": 56,
+        "source_line_end": 61,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "f1602e82f8392354f2b2c4679ed08928edeec45c123ce1fcb3b9239af0262f52",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "dad26b211d836c47275fa6ab37429fd1d5b6e66b6bb5ee878673de0fd505003d",
+    "maker_receipt_sha256": "2a1d2488f4e57de92e92836f29378a772648e6f29fc5bf8bb87ac08ace72aaf6",
+    "validation_check_sha256": "f06216de28f4f67ef8a3e81a6b9484012a5d9de8493860c01b23d77c0e27536a",
+    "source_disposition_sha256": "17564a5ce4c8cd3ee6dd3694ed1dfb64fee1919548bf50e9df9adc3c0cbad7db",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "2a1d2488f4e57de92e92836f29378a772648e6f29fc5bf8bb87ac08ace72aaf6",
+      "validation_check_sha256": "f06216de28f4f67ef8a3e81a6b9484012a5d9de8493860c01b23d77c0e27536a",
+      "source_disposition_sha256": "17564a5ce4c8cd3ee6dd3694ed1dfb64fee1919548bf50e9df9adc3c0cbad7db"
+    },
+    "naming_artifact_sha256": "4ae36f4df6eb7a0554d43a4006c978f1ad8ed323bb16c2bdd83e47b49617655a"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "fe34a8a13f0ecf0e061df7db783e760fad45c0988ab1bd28ce7abe0215f11b74"
+}

@@ -1,0 +1,227 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-2:p0083-p0084",
+  "owner_shard": "S03",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S03/maker/structure-drafts/kohler-volume-2__p0083-p0084.json",
+  "source_draft_sha256": "dcc34856c8bc11b13ab47c29f4cea552f1715e1e3894bd2da5b4e89bde89c556",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "f7ef7090639d1147135c882bfacc99dd7a0e24d0283ee9bbc4a44c1e9188eb61",
+    "validation_check_sha256": "35ea85b2fe801bb3744d48e74512aecd6c65ab7f850bf6033597abe408fd2c3c",
+    "source_disposition_sha256": "382ae61b8e90b38fde500e4f736694751a520fe4f1a7fb6661b4da3114750444",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Pimpinella Anisum",
+    "authorship_candidate": "L.",
+    "aliases_candidates": [
+      "Anisum vulgare Gaertn.",
+      "Sison Anisum Spr.",
+      "Anis",
+      "Anis vert",
+      "Anise"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Pimpinella Anisum",
+      "Pimpinella anisum"
+    ],
+    "accepted_scientific_name": "Pimpinella anisum",
+    "display_name_zh_tw": "大茴香",
+    "alternative_names_zh_tw": [
+      "茴芹",
+      "洋茴香"
+    ],
+    "taiwan_occurrence_status": "not_asserted",
+    "taxon_id": null,
+    "authority_record_id": "aphia-quarterly-2023-04-pimpinella-anisum",
+    "rationale": "TaiCOL and Tai2 returned no exact species record. Kew POWO confirms Pimpinella anisum L. as accepted. Taiwan's Animal and Plant Health Inspection Agency explicitly pairs 大茴香 with Pimpinella anisum, while TFDA and BSMI public materials independently pair the exact species with 大茴香油/茴芹油 or 洋茴香油. No Taiwan occurrence is asserted.",
+    "checked_at": "2026-08-13T13:45:32+08:00",
+    "display_name_source_scope": "taiwan_government_public",
+    "display_name_source_evidence_ids": [
+      "aphia"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Pimpinella Anisum",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Pimpinella+Anisum",
+      "retrieved_at": "2026-08-13T13:44:55+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Pimpinella",
+          "matched_name_id": 2219,
+          "taxon_id": "t0024534",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Pimpinella",
+          "accepted_name_id": 2219,
+          "accepted_usage": [
+            {
+              "usage_id": 177788,
+              "reference_id": 2454,
+              "reference_type": "Book",
+              "publish_year": 2017,
+              "citation": "Ed. Comm. Red List TW Plants,  (2017) The Red List of Vascular Plants of Taiwan, 2017 = 2017 臺灣維管束植物紅皮書名錄.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 277865,
+              "reference_id": 1004,
+              "reference_type": "Book Chapter",
+              "publish_year": 1993,
+              "citation": "Kao, M.-T. (1993) 107. Umbelliferae. In: Flora of Taiwan, 2 ed., vol. 3. 1010–1045.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 8082,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": null
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0024534",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0024534",
+          "taxon": {
+            "taxon_id": "t0024534",
+            "taxon_status": "accepted",
+            "name_id": 2219,
+            "simple_name": "Pimpinella",
+            "name_author": "L.",
+            "rank": "Genus",
+            "common_name_c": "茴芹屬",
+            "alternative_name_c": "茴香屬",
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": null,
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Pimpinella anisum",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Pimpinella+anisum",
+      "retrieved_at": "2026-08-13T13:44:55+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Anisum vulgare",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Anisum+vulgare",
+      "retrieved_at": "2026-08-13T13:44:56+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Sison anisum",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Sison+anisum",
+      "retrieved_at": "2026-08-13T13:44:56+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Anis vert",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Anis+vert",
+      "retrieved_at": "2026-08-13T13:44:56+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Pimpinella anisum",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Pimpinella%20anisum",
+      "retrieved_at": "2026-08-13T13:44:57+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "kew_powo",
+      "authority": "Royal Botanic Gardens, Kew — Plants of the World Online",
+      "query_name": "Pimpinella anisum L.",
+      "record_url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:846658-1",
+      "retrieved_at": "2026-08-13T13:45:32+08:00",
+      "evidence_excerpt": "Pimpinella anisum L. — This species is accepted",
+      "assertion_scope": "external_scientific_name_metadata_only",
+      "evidence_source_scope": "non_taiwan_scientific_authority"
+    },
+    {
+      "source_id": "aphia",
+      "authority": "農業部動植物防疫檢疫署季刊",
+      "query_name": "Pimpinella anisum",
+      "source_url": "https://www.aphia.gov.tw/files/baphiq/web_structure/22509/A01_1.pdf",
+      "retrieved_at": "2026-08-13T13:45:32+08:00",
+      "evidence_excerpt": "大茴香（Pimpinella anisum）",
+      "assertion_scope": "external_naming_metadata_only",
+      "evidence_source_scope": "taiwan_government_public"
+    },
+    {
+      "source_id": "tfda",
+      "authority": "衛生福利部食品藥物管理署天然香料公開資料",
+      "query_name": "Pimpinella anisum",
+      "source_url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f636694301134618623",
+      "retrieved_at": "2026-08-13T13:45:32+08:00",
+      "evidence_excerpt": "Anise seed oil (Pimpinella anisum L.) — 大茴香油（茴芹油）",
+      "assertion_scope": "external_naming_metadata_only",
+      "evidence_source_scope": "taiwan_government_public"
+    },
+    {
+      "source_id": "bsmi",
+      "authority": "經濟部標準檢驗局國家標準資料",
+      "query_name": "Pimpinella anisum",
+      "source_url": "https://www.bsmi.gov.tw/wSite/public/Data/f1289787285481.pdf",
+      "retrieved_at": "2026-08-13T13:45:32+08:00",
+      "evidence_excerpt": "CNS 6457 洋茴香油 — Oil of aniseed (Pimpinella anisum L.)",
+      "assertion_scope": "external_naming_metadata_only",
+      "evidence_source_scope": "taiwan_government_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "大茴香 is also used in Taiwan for star anise products; answers should preserve Pimpinella anisum to distinguish this Apiaceae species from Illicium verum.",
+    "The external sources are used only for scientific-name and Taiwan public-name metadata; food, pharmacological, and other plant facts are not imported into the Köhler book-fact layer.",
+    "No Taiwan occurrence claim was established."
+  ]
+}

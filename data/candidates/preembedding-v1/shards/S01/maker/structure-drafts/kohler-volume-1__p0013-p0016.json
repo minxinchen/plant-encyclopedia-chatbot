@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0013-p0016",
+  "owner_shard": "S01",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 214.353,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0013-p0016",
+    "book_taxon": {
+      "scientific_name_candidate": "Citrus vulgaris",
+      "authorship_candidate": "Risso",
+      "aliases_candidates": [
+        "C. Aurantium var. a. L.",
+        "C. Bigaradia Duh.",
+        "Pomeranze",
+        "Bittere Orange",
+        "Bitter-Orange",
+        "Seville Orange",
+        "Granger amer",
+        "Bigaradier"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 13,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Citrus vulgaris Risso，別名 C. Aurantium var. a. L. 及 C. Bigaradia。俗名苦橙、塞維爾橙。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          7
+        ],
+        "exact_source_quote": "                                                               Citrus vulgaris Risso.\n\n                                                     C.   Aurantium var.           a.   L.     C.   Bigaradia Duh.\n\n\nPomeranze, Bittere Orange                                    — Bitter-Orange,            Seville Orange      — Granger amer, Bigaradier.\n           Familie: Butaceae (Unterfam. Aurantieae); Grattung: Citrus L."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 13,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "常綠樹高 6-12 米。葉革質橢圓，葉柄具翅。花白色芳香，單生或叢生。萼 5 裂，花瓣 5，雄蕊 20-25。",
+        "warnings": [],
+        "source_line_range": [
+          8,
+          16
+        ],
+        "exact_source_quote": "           Beschreitoung.                             Die Bitterorange       ist    ein      immergriiner   Baum von 6 — 12 Meter Hohe, mit\nholziger, astiger                                            Wurzel                                                                             Blatter\nzerstreutstehend, lederartig, bis 10 Otm. lang, 5 Ctm. breit, elliptiscb, zugespitzt, am Rande schwach\ngekerbt-gesagt, oben glanzend, unten blasser, fein durchscheinend punktirt, mit einem scharf abgegliederten,\nverkehrt eirund bis ktirz herzformig gefliigelten Blattstiel. Bliithen gestielt, theils einzeln in den Blattwinkeln,\ntheils an der Spitze der Zweige gehauft, weiss, wohlriechend. Bltithenstiele nach oben verdickt. Kelch\n5 spaltig, mit zabnformigen Zipfeln, bleibend.                                Blumenkrone 5 blatterig, weiss, durcb Oelbehalter durch-\nscheinend punktirt.   Kronblatter langlich, stumpf, etwas vertieft, vollstandig aafgebliiht niederwarts\ngebogen. Staubgefasse 20—25; die Staubfaden fast pfriemenf or mig zusammengedriickt, zn Bundeln              ,"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 13,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產東北印度、交趾支那及中國南部。經波斯灣傳入地中海，現廣布全球溫暖地區。",
+        "warnings": [],
+        "source_line_range": [
+          43,
+          49
+        ],
+        "exact_source_quote": "           Vorkommen.                                 Die    ursprungliche     Heimath          des     Nordostindien,\n                                                                                                        Pomeranzenbaumes        soil\n\nCochinchina und die sudlichen     Provinzen    von   China    gewesen    sein;  doch  ist er  schon   sehr  friihe nach\nden Landern des  persischen  Golfes  und   von   dort  nach    den  Mittelmeerlandern     gebracht   worden.     Gregen-\n\nwartig ist er in vielen  Varietaten  iiber  alle  warmeren      Lander   der   Erde  verbreitet."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 14,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "9 世紀經阿拉伯人傳入北非與西班牙。10 世紀阿拉伯醫家用其汁。15 世紀前歐洲僅知苦橙，1500 年葡人引入甜橙。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          11
+        ],
+        "exact_source_quote": "          Die bittere Orange ist durch die Araber wahrscheinlich im 9. Jahrhunderfc nach Arabien und\n von dort nach Nordafrika, Sicilien und Spanien gebracht worden; die arabiscben Aerzte verordneten\n im 10. Jabrhundert den Saft ^Narandsch\". Durch die Kreuzziige mag die Verbreitung in die ubrigen\n Mittelmeerlander erfolgt sein. Jacques de Vitry, zu Anfang von 1200 Bischof von Accon, erwahnt\n fur Palastina „ Oranges\", worm wohl mit ziemlicber Sicherheit die Orange vermuthet werden darf.\n Fliickiger fuhrt eine Rechnung fur den Dauphin Humbert von Viennois aus dem Jahre 1333 an, in\n welcher sich ein Betrag „pro arboribus viginti de plantis arangiorum ad plantandum\" vorfindet. Nach\n Risso wurde die Orange schon 1336 in Nizza angebaut. Bis in das 15. Jahrhundert war im Abend-\n lande nur die bittere Orange bekannt. Erst urn 1500 (1498) ist die siisse Orange (Apfelsine) durch\n die Portugiesen nach Europa gebracht worden.\n"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 15,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "葉含揮發油、苦味質及單寧。花含揮發油及苦味質。未熟果含揮發油、苦味質及單寧。果皮含揮發油。",
+        "warnings": [],
+        "source_line_range": [
+          22,
+          28
+        ],
+        "exact_source_quote": "         Bestandtheile. Die Blatter enthalten atherisches Oel, Bitterstoff und Gerbstoff; die Bluthen\natherisches Oel und Bitterstoff; die unreifen Fruchte atherisches Oel, Bitterstoff und Gerbstoff; die\naussere gelbe Schicht der reifen Fruchtschale atherisches Oel; die weisse Fruchtschicht Bitterstoff; der\nSaft.des Fleisches Bitterstoff und Citronensaure; die Kerne Bitterstoff. Die in den verschiedenen\nPflanzentheilen auftretenden Bitterstoffe sind nicht gleich und daher mit verschiedenen Nam en belegt:\nHesperidin, Aurantiin, Limonin, Naringin (aus Citrus Decumana L.), Murrayin (aus Murraya exotica L ).\nAurantiin und Limonin sind jedenfalls als Gemenge zu betrachten."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 15,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史用途：未熟果與果皮為芳香苦味藥。大劑量曾用於驚厥與癲癇，但可能引起不適。",
+        "warnings": [
+          "Historical medical content described as historical, not advice."
+        ],
+        "source_line_range": [
+          69,
+          79
+        ],
+        "exact_source_quote": "             Anwendung.       Der  medizinische   Gebrauch  erstreckt  sich  auf  die  Blatter,  das  destillirte\n\n     Wasser der Bluthen, die ganzen unreifen Friichte, die Schalen  der reifen Fruchte  und  auf das atherische\n\n     Oel.  Die unreifen Fruchte und    die  Orangeschalen    gehoren  zu   den   am   meisten   in Anwendnng\n     gebrachten Amara aromatica.         Nach Krahmer           grossere\n                                                               sollen       Mengen   erhitzend  wirken,    Gefassauf-\n\n     regung und Beunruhigung erzeugen        und  namentlich  bei  reizbaren   Individuen  sehr  unangenehme      Er-\n                                 Folia Aurantii    gab   man   frtiher  in  Theeform,   meist   in Verbindung     mit\n     scheinungen bervorrufen."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "c0ae95c0bf863bec3921ecbfcb2d761473a581731bacbd771062c649c8f4b75a"
+}

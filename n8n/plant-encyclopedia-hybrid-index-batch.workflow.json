@@ -1,0 +1,63 @@
+{
+  "id": "PEHybridIdx001",
+  "name": "Plant Encyclopedia - Hybrid Index Batch",
+  "nodes": [
+    {
+      "parameters": {},
+      "id": "manual-trigger",
+      "name": "Manual bounded batch trigger",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [0, 0]
+    },
+    {
+      "parameters": {
+        "command": "set -eu; : \"${PLANT_ENCYCLOPEDIA_LAB:?missing PLANT_ENCYCLOPEDIA_LAB}\"; python3 \"$PLANT_ENCYCLOPEDIA_LAB/scripts/rebuild-approved-main-index.py\""
+      },
+      "id": "migrate-approved-child-chunks",
+      "name": "Migrate approved child chunks",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [300, 0]
+    },
+    {
+      "parameters": {
+        "command": "set -eu; : \"${PLANT_ENCYCLOPEDIA_LAB:?missing PLANT_ENCYCLOPEDIA_LAB}\"; python3 \"$PLANT_ENCYCLOPEDIA_LAB/scripts/validate-main-child-index.py\"; python3 \"$PLANT_ENCYCLOPEDIA_LAB/scripts/validate-bounded-main-retrieval.py\" --tests \"$PLANT_ENCYCLOPEDIA_LAB/data/tests/strychnos-nux-vomica-volume2.json\"; python3 \"$PLANT_ENCYCLOPEDIA_LAB/scripts/validate-bounded-main-retrieval.py\" --tests \"$PLANT_ENCYCLOPEDIA_LAB/data/tests/carica-papaya-volume3.json\"; python3 \"$PLANT_ENCYCLOPEDIA_LAB/scripts/validate-bounded-main-retrieval.py\" --tests \"$PLANT_ENCYCLOPEDIA_LAB/data/tests/cibotium-barometz-volume4.json\"; python3 \"$PLANT_ENCYCLOPEDIA_LAB/scripts/validate-bounded-main-retrieval.py\" --tests \"$PLANT_ENCYCLOPEDIA_LAB/data/tests/atropa-belladonna-volume1.json\"; python3 \"$PLANT_ENCYCLOPEDIA_LAB/scripts/validate-bounded-main-retrieval.py\" --tests \"$PLANT_ENCYCLOPEDIA_LAB/data/tests/piper-nigrum-volume2.json\"; python3 \"$PLANT_ENCYCLOPEDIA_LAB/scripts/validate-bounded-main-retrieval.py\" --tests \"$PLANT_ENCYCLOPEDIA_LAB/data/tests/polygala-senega-volume2.json\"; python3 \"$PLANT_ENCYCLOPEDIA_LAB/scripts/validate-bounded-main-retrieval.py\" --tests \"$PLANT_ENCYCLOPEDIA_LAB/data/tests/laminaria-hyperborea-volume2.json\""
+      },
+      "id": "validate-main-child-index",
+      "name": "Validate child index and parent collapse",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [620, 0]
+    },
+    {
+      "parameters": {
+        "content": "## Bounded approved-child migration harness\nManual and inactive by design. It replays every explicitly approved bounded package (currently Podophyllum peltatum, Strychnos nux-vomica, Carica papaya, Cibotium barometz, Atropa belladonna, Piper nigrum, Polygala senega and Laminaria hyperborea) into the disposable SQLite index. No Gemini call or secret is required. The independent gates validate source identity, Traditional Chinese and English retrieval, wrong-name and absent-evidence refusal, citations, deterministic domain-term expansion, hybrid scoring and max-score parent-page collapse. Adding a taxon requires a separately approved bounded report and an explicit package entry; this workflow must never scan or embed a whole volume by itself.",
+        "height": 300,
+        "width": 620
+      },
+      "id": "batch-contract",
+      "name": "Batch contract",
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [0, -400]
+    }
+  ],
+  "connections": {
+    "Manual bounded batch trigger": {
+      "main": [[{"node": "Migrate approved child chunks", "type": "main", "index": 0}]]
+    },
+    "Migrate approved child chunks": {
+      "main": [[{"node": "Validate child index and parent collapse", "type": "main", "index": 0}]]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "active": false,
+  "versionId": "fda7607e-8bf9-40dc-bc2c-47ce1cc4081c",
+  "meta": {
+    "templateCredsSetupCompleted": false
+  },
+  "tags": []
+}

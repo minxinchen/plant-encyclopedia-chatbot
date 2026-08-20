@@ -1,0 +1,265 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0043-p0044",
+  "entry_id": "kohler-volume-1:p0043-p0044",
+  "owner_shard": "S01",
+  "book_taxon": {
+    "scientific_name": "Brassica nigra",
+    "authorship": "Koch.",
+    "aliases": [
+      "Sinapis nigra L.",
+      "Brassica sinapioides Roth.",
+      "Melanosinapis communis Sperm."
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Brassica nigra"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T14:37:42+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Brassica+nigra",
+        "query_name": "Brassica nigra",
+        "retrieved_at": "2026-08-13T14:37:40+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Sinapis+nigra",
+        "query_name": "Sinapis nigra",
+        "retrieved_at": "2026-08-13T14:37:40+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Brassica+sinapioides",
+        "query_name": "Brassica sinapioides",
+        "retrieved_at": "2026-08-13T14:37:40+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Melanosinapis+communis",
+        "query_name": "Melanosinapis communis",
+        "retrieved_at": "2026-08-13T14:37:40+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 43,
+      "evidence_type": "text",
+      "page_text_sha256": "86151c1b5857501430abed25c76d39bc17cf9340839309e126bbc02417da18a5",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 44,
+      "evidence_type": "text",
+      "page_text_sha256": "2610b6b43909a4fe705da0c77cb3b0c0fe16a2e844cd86adef535426bb04da84",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0043-p0044:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                                Brassica nigra Koch.\n\n   Syn. Sinapis nigra L.                   Brassica sinapioides Roth.                    Melanosinapis communis Sperm.\n\n\n              Schwarzer Senf                     Black, brown                  red Mustard                 Moutarde         noir.\n\n\n            Familie: Cruciferae.\n                          *\n                                              Gattung: Brassica L.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Brassica nigra Koch. 同義名 Sinapis nigra L. 德文 Schwarzer Senf。隸屬十字花科 (Cruciferae) 芸薹屬。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 43,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 0,
+        "char_end": 450,
+        "page_text_sha256": "86151c1b5857501430abed25c76d39bc17cf9340839309e126bbc02417da18a5",
+        "exact_text_sha256": "84afa3aed5dec751693e03a299814dc02b1add1415d757f90f44adb0578ca583",
+        "source_line_start": 1,
+        "source_line_end": 11,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "84afa3aed5dec751693e03a299814dc02b1add1415d757f90f44adb0578ca583",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0043-p0044:s01:x00",
+      "section_type": "description",
+      "original_text": "        Beschreibung. Einjahrige Pflanze mit dunner, senkrechter,                             Wur\nund einein aufrechten, 0.50— 1.25 m hohem, sparrig-astigem, fast walzenrunden, an den unteren Theilen\nzerstreut    behaarten,       schwach blau-bereiften             Stiele.         grasgrun; die untersten\n                                                                             Blatter     gestielt,    kalil,\n\nleierformig-fiedertheilig, gelappt, mit grossem, langlich -run dem, ungleich buchtig - gezahntem End-\nabschnitte; die oberen Blatter langlich bis lanzettformig, ungleicb gesagt; die obersten bluthenstandigen\nlineal, ganzrandig.   Bltithentraube end- und achselstandig schon wahrend des Aufbluhens verlangert,\n                                                                                    ,\n\n\n\n\ndie Knospen   die  geoflheten  Blttthen iiberragend.   Bliithenstielchen wahrend  des  Bliihens abstehend,\nnach dem Verbliiben aufrecht, anliegend. Kelchblatter 4, zuletzt wagerecht abstehend. Kronblatter 4,\ngenagelt, gelb.   Im   Grunde  der  Bluthe 4  grime  Drlisen.  Die  beiden ausseren kurzeren  Staubgefasse\n                                                                                          '                         ™\netwas  abstehend.     Staubbeutel    langlich,  zweifacherig.   ~\"\n                                                                Stempel    kurz gestielt.   Fruchtknoten      seitlich\n\nzusammengedruckt.       Narbe   schildformig.    Fruchtstiele und  Schoten   aufrecht;  letztere  angedriickt,    fast\n\n4kantig, etwas holperig, mit einem kurzen zweischneidigen Schnabel endigend, 2facherig, 2klappig.\nKlappen   kielformig,    einnervig.    Samen   in  jedem  Fache   4—6,   kugelig   oder   kurz- oval,   1  mm    dick,\n\nbraun, mit  fein - netzig - grubiger  Samenschale;    der grtinlich-gelbe,  gekriimmte    Embryo    mit   fleischigen,\n\nzusammengefalteten Samenlappen.",
+      "normalized_text": null,
+      "zh_tw_rendering": "一年生植物，莖直立，高 0.50-1.25 米，淡藍被白粉。葉形變化大，下部羽狀分裂，上部線形。花黃，果實為直立的角果，種子圓形或短橢圓形，褐色。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 43,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 451,
+        "char_end": 2374,
+        "page_text_sha256": "86151c1b5857501430abed25c76d39bc17cf9340839309e126bbc02417da18a5",
+        "exact_text_sha256": "99f36ef42acad233a6fe04fe6013f9842beb1b95fbdefab4e9a564168308fde5",
+        "source_line_start": 12,
+        "source_line_end": 39,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "99f36ef42acad233a6fe04fe6013f9842beb1b95fbdefab4e9a564168308fde5",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0043-p0044:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "            Anatomisclies :     Die  Samenschale       des.  schwarzen      Senfes  besteht   aus  einer   Epidermis,     welche   aus   6seitigen\nTafelzellen    zusammengesetzt      ist,   deren    irmere   Wandschicliten       im  Wasser     stark   aufquellen    und   Schleim    durch  die\n\nCuticula nach      der  Oberflache   absondern.        Diese    Epidermisschicht     blattert   sich  an   den  gereiften   Samen    oft  in Forni\n                weissen   Sclmppchen      ab.    Unter   der    Epidermis     befindet  sich  eine  Schicht    schmaler,   holier  stabchenartig\nvon ldeinen,\nnebeneinander     gestellter  Zellen,  welche    in   ihrem    inneren   unteren   Theile   sehr  stark   verdickt   und   roth  oder  gelbbraun\no-efarbt  sind,  hingegen   in  dem   langeren    ausseren     Theile   bis   zu einer  bestimmten     Hohe    diinn-  und   zartwandig    bleiben\n                                               Die    Stab  ch                   an  den   Stellen,   welche    den   Netzleisten   des  trocknen\nund blassgelbliche Farbung         zeigen.                     en zellen  sincl\n\nSamens entsprechen,       bedeutend    holier   als  die  iibrigen.    Die   hierdurch   gebildeten    Graben    werden   je  von  emer   emzigen\ngrossen, die Grube       ganz    austullenden,      von  der    Oberhaut     unmittelbar   bedeckten     cliinnwandigen     Zelle emgenommen.\nUnter der Stabchen-       oder   Palissadenschicht      folgt    eine  einzelne   Lage   dunkel-rothbrauner,        im  Querschnitt    tangential\no-edehnter   Zellen,  unter  welcher   eine   einfache    Schicht    nicht   gefarbten,  protein-   und   olfuhrenden    Gewebes   befindhch ist.\n                Schicht   wird   durch   eine  mehrreihige       Lage   tangential   gestreckter,   inhaltsloser,   stark   zusammengepresster\nDie innerste\nZellen   gebildet,   deren  Umrisse   erst  nach     erfolgter    Quellung    deutlich  sichtbar   werden.\n",
+      "normalized_text": null,
+      "zh_tw_rendering": "種皮由六邊形表皮細胞組成，遇水膨脹分泌黏液。其下為棒狀細胞層，內側增厚呈紅或黃褐色。再下為深紅褐色細胞層及含蛋白質和油脂的組織。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 43,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 2375,
+        "char_end": 4337,
+        "page_text_sha256": "86151c1b5857501430abed25c76d39bc17cf9340839309e126bbc02417da18a5",
+        "exact_text_sha256": "8f322232125e79cd78d247e27aecfdc225a399e94fdd345474f822487d926376",
+        "source_line_start": 40,
+        "source_line_end": 58,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "8f322232125e79cd78d247e27aecfdc225a399e94fdd345474f822487d926376",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0043-p0044:s03:x00",
+      "section_type": "distribution",
+      "original_text": "         Verbreitung.    Auf  Aeckern,  Schutthaufen und Flussufern im mittleren und stidlichen Europa,\nNordafrika, Vorderasien, Siidsibirien nnd  China.  Der  schwarze Senf  wird  seiner Samen   wegen  sehr\n\nhaufig kultivirt.                                                               *",
+      "normalized_text": null,
+      "zh_tw_rendering": "分佈於中南部歐洲、北非、西亞、南西伯利亞及中國。生長於田間、垃圾堆及河岸。因種子用途廣泛而常被栽培。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 43,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4338,
+        "char_end": 4628,
+        "page_text_sha256": "86151c1b5857501430abed25c76d39bc17cf9340839309e126bbc02417da18a5",
+        "exact_text_sha256": "afe3ab275ec6518093137e0d957902f0cde1bd9f5bae5663a94513f1789054f4",
+        "source_line_start": 59,
+        "source_line_end": 62,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "afe3ab275ec6518093137e0d957902f0cde1bd9f5bae5663a94513f1789054f4",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0043-p0044:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "         Name und    Geschichtliches.       Der  Name   Senf  (gothisch  sinap) ist  aus  dem  griechischen\n                      1\noivaiu, oivmcv ) attisch  vanv,  womit   der  weisse  Senf (Sinapis   alba) bezeichnet   wurde,   abgeleitet.\n\nBeziiglich des Wortes Brassica  wird  auf Brassica   Napus  verwiesen.    Die von   Theophrast     erwahnte\n                            'und  ebenso  die  von  Dioscorides    in  Verbindung    mit  Olivenol  zu  Ein-\nPflanze Naitv oder Sivrjrti\n                                                         gewesen          Plinius   kannte  bereits  3 Arten\nreibungen empfohlene Nanv soil   unser  Brassica  nigra           sein.\n\nvon Sinapis, wovon der agyptische    Senf  als gleichbedeutend mit unserer Pflanze angenommen   wird.\n                                      Jahrhunderts), ebenso  Palladinus    (im 4. oder 5. Jahrhundert\nColumella' (urn die Mitte des ersten\n                                               Bereitung  des Tafelsenfes.  In Deutschland ist die Kultur\nn. Chr.) geben ausfuhrlichen Bericht tiber die\n                                  bekannt  gewesen;  die Pflanze  wird  im Capitulare  Karls  des Grossen\ndes Senfes schon sehr fruhzeitig\nzum Anbau empfohlen.\n           Die  erste  Andeutung   des  Senfoles  linden  wir  in dem                                      ta herausgegebenen Werke\n„De    Destillatione , Rom  1608\".    Erst  iiber 100  Jahre  spater gelang es                             Boerhaave das atherische\nSenf51    durch Destination des Senfsamens zu gewinnen.",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源於希臘語。西元一世紀 Plinius 已記載。十八世紀 Boerhaave 首次蒸餾獲得揮發性芥子油。德國早期已有栽培記錄。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 43,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4633,
+        "char_end": 6176,
+        "page_text_sha256": "86151c1b5857501430abed25c76d39bc17cf9340839309e126bbc02417da18a5",
+        "exact_text_sha256": "23e5260a9791d6d835f6f2b32926d762891c9a6c2b64134c5cebe841db63e6a9",
+        "source_line_start": 67,
+        "source_line_end": 87,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "23e5260a9791d6d835f6f2b32926d762891c9a6c2b64134c5cebe841db63e6a9",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0043-p0044:s05:x00",
+      "section_type": "constituents",
+      "original_text": "             Bestandtheile. Der schwarze Senf en th alt, ausser den allgemein verbreiteten Stoffen, 20 30                         —         /\n\n\n/   mildes, nicht trockn en des, bei        —\n                                     17.5° erstarrendes, Behensaure (C H O ) und Erucasciure (C H O )\n                                                                       22 44  2                      22  42  2\n\n\n    enthaltendes zu Speisen verwendbares fettes Oel von 0,915\n                       ,                                                       —\n                                                                   0,920 spec. Gew., ^^o e^ nes krystallini-\n    schen, bitter schmeckenden, mit Kali verbundenen, Schwefel mid Stickstoff in sich schliessenden Korpers:\n    Myronsaure (myronsaures Kalium [C H KNS O 10], Sinigrin) genannt; 28°/ eiweissartige Materie:\n                                          10  18      2\n\n    Myrosin; eine fluchtige, der Ameisensaure ahnliche Saure: Senfsatire und einen indifferenten, krystallisir-\n    baren, fettahnlichen Stoff: Sinapisin.",
+      "normalized_text": null,
+      "zh_tw_rendering": "含芥子油、芥子酸鉀 (Sinigrin)、白蛋白質 (Myrosin)、芥子酸及 Sinapisin。揮發性芥子油由 Myrosin 與水作用生成，非天然存在於種子中。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 44,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 2052,
+        "char_end": 3127,
+        "page_text_sha256": "2610b6b43909a4fe705da0c77cb3b0c0fe16a2e844cd86adef535426bb04da84",
+        "exact_text_sha256": "35f8e3ce809a6eba8bd12364376d6256e454e70bf14a9d194ca88bf085f0a6f1",
+        "source_line_start": 32,
+        "source_line_end": 48,
+        "section_index": 5,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "35f8e3ce809a6eba8bd12364376d6256e454e70bf14a9d194ca88bf085f0a6f1",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "2cbf13b39268fccfceb63c5c2c2a249378ddb0e28ae5b76fa29829908c2425d1",
+    "maker_receipt_sha256": "a5d959312a95b5a68f0be93117c16d16f95450c8b28d2f5e10951379fd32e8f7",
+    "validation_check_sha256": "d6fd44db4b34d573d828e36cce31652678efc077ce42edb7c70d30cf2814d81d",
+    "source_disposition_sha256": "6886e57328e6040de0a0d162d7c5d63d7f2d0ca145e15c52fb40eb9dbb92324d",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "a5d959312a95b5a68f0be93117c16d16f95450c8b28d2f5e10951379fd32e8f7",
+      "validation_check_sha256": "d6fd44db4b34d573d828e36cce31652678efc077ce42edb7c70d30cf2814d81d",
+      "source_disposition_sha256": "6886e57328e6040de0a0d162d7c5d63d7f2d0ca145e15c52fb40eb9dbb92324d"
+    },
+    "naming_artifact_sha256": "d6663239e9611d35e60813c4999e80deb8454db516330514be60cd9e98e9cd09"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "d5c37a9c5b9a9c00189a5b8eb6f1b311d7304d142e9763dd20f0c7e220e5b186"
+}

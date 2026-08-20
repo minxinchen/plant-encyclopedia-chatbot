@@ -1,0 +1,222 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0045-p0046",
+  "entry_id": "kohler-volume-1:p0045-p0046",
+  "owner_shard": "S01",
+  "book_taxon": {
+    "scientific_name": "Brassica juncea",
+    "authorship": "Hooker fil. et Thomson",
+    "aliases": [
+      "Sinapis juncea L.",
+      "Sarepta-Senf"
+    ]
+  },
+  "display_name": "芥菜",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Brassica juncea"
+    ],
+    "accepted_scientific_name": "Brassica juncea",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T14:51:05+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Brassica+juncea",
+        "query_name": "Brassica juncea",
+        "retrieved_at": "2026-08-13T14:51:05+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0072904",
+        "query_name": "Brassica juncea",
+        "retrieved_at": "2026-08-13T14:51:05+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0072904",
+        "query_name": "Brassica juncea",
+        "retrieved_at": "2026-08-13T14:51:05+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL accepts the queried book binomial at species rank."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 45,
+      "evidence_type": "text",
+      "page_text_sha256": "a1bcdacce62a598b2e87363490506f98526b32f8ac032a610041a1d422ac9d15",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0045-p0046:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                         Brassica juncea Hooker fil.                                         et    Thomson.\n\n                                                        Syn. Sinapis juncea L.\n\n\n                                                                   Sarepta-Senf.\n\n\n              Familie: Cruciferae.                 Gattung: Brassica L.\n",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Brassica juncea，同義名 Sinapis juncea，俗名 Sarepta-Senf，隸屬於十字花科。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 45,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 0,
+        "char_end": 345,
+        "page_text_sha256": "a1bcdacce62a598b2e87363490506f98526b32f8ac032a610041a1d422ac9d15",
+        "exact_text_sha256": "766ab0e108c074c6f2b4ac4ab86be71298d80cb9a6b794fd585e7c5082520476",
+        "source_line_start": 1,
+        "source_line_end": 10,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "766ab0e108c074c6f2b4ac4ab86be71298d80cb9a6b794fd585e7c5082520476",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0045-p0046:s01:x00",
+      "section_type": "description",
+      "original_text": "              Beschreibung.             Der Brassica nigra ahnliche,                  einjahrige Pflanze.        Untere Blatter mit selir\nbreiter Spreite, eilanzettlich          ,\n                                             grob gesagt, die obersten, bliithenstandigen lanzettlich, ganzrandig, bei\nunserem bliihenden Exemplare jedoch ebenfalls grob gesagt und nur bei dem fruchtenden Exemplare\nganzrandig.        Bluthentraube end- und achselstandig,                        die   geoffneten Bluthen nicht von          den Knospen\nuberragt.       Kelchblatter 4, etwas absteliend.                    Kronblatter 4, allmahlig in den Nagel herabgezogen, gelb.\n                                                            *\n\n\n\n\nStaubgefasse 6, 2 Paar innere, langere und 2 aussere, kiirzere; letztere etwas abstehend.                                   Bltithenboden\nmit 4 Driisen.         Die zweifacherigen, langlichen Staubbeutel an der Basis am Riicken angeheftet.                                    Pollen\nellipsoidiscli.     Stempel zweifacherig mit langlichem,                       seitlich    etwas znsammengedriicktem Fruchtknoten\nund kopfformiger Narbe.                 Frucht eine geschnabelte, zweiklappig aufspringende Schote.                         Samen bis 8           *\n\n\n\n\nin       jedem Fache, einreihig dem Samentrager angeheftet, kugelig, braun, glati\n",
+      "normalized_text": null,
+      "zh_tw_rendering": "一年生植物，葉形變化大，花黃色，蒴果具喙，種子球形棕色，每室含種子至多8顆。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 45,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 346,
+        "char_end": 1716,
+        "page_text_sha256": "a1bcdacce62a598b2e87363490506f98526b32f8ac032a610041a1d422ac9d15",
+        "exact_text_sha256": "d2f2d394a4365a633c9f9fbf4f275c7ee0b6cd68d45f3567e215b6c3399d8c6d",
+        "source_line_start": 11,
+        "source_line_end": 31,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "d2f2d394a4365a633c9f9fbf4f275c7ee0b6cd68d45f3567e215b6c3399d8c6d",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0045-p0046:s02:x00",
+      "section_type": "flowering",
+      "original_text": "              Bltithezeit.        Juni, Juli.\n",
+      "normalized_text": null,
+      "zh_tw_rendering": "花期為六月至七月。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 45,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 1717,
+        "char_end": 1763,
+        "page_text_sha256": "a1bcdacce62a598b2e87363490506f98526b32f8ac032a610041a1d422ac9d15",
+        "exact_text_sha256": "a28c7d38deedac38d496a0a1dbb84a72fd0b8364cf7342b461e01f6a09ea33cb",
+        "source_line_start": 32,
+        "source_line_end": 33,
+        "section_index": 2,
+        "section_type": "flowering"
+      },
+      "exact_text_sha256": "a28c7d38deedac38d496a0a1dbb84a72fd0b8364cf7342b461e01f6a09ea33cb",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0045-p0046:s03:x00",
+      "section_type": "distribution",
+      "original_text": "              Verbreitung.          In den Steppen Siidrusslands, in den Landern des Caspisees, in China, Ost-\n                                                                                                                              -\n\n\n\n\nindien,       Nord-,    West- und Centralafrika                    vielfach   kultivirt,    namentlich     bei    Sarepta   im russischen\nGouvernement Saratow zur Gewinnung des Sareptasenfmehles im Grossen angebaut.\n",
+      "normalized_text": null,
+      "zh_tw_rendering": "分布於南俄草原、裏海沿岸、中國、東印度及非洲多地，在俄國薩拉托夫省大規模種植以製取芥末粉。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 45,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 1764,
+        "char_end": 2223,
+        "page_text_sha256": "a1bcdacce62a598b2e87363490506f98526b32f8ac032a610041a1d422ac9d15",
+        "exact_text_sha256": "562e2d548da3f5c30881dc3ff9d66525c4e24c53264ff77f7804f25efe724dfc",
+        "source_line_start": 34,
+        "source_line_end": 42,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "562e2d548da3f5c30881dc3ff9d66525c4e24c53264ff77f7804f25efe724dfc",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0045-p0046:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "              Zu dem scliwarzen Senf sei bier noch Folgendes bemerkt: Otto von Brunfels giebt in seinem\n                                                                                                                                  *\n\n\n\n\n„Contrafayt Kreuterbuch\" eine schlechte Abbildung und von den Eigenschaften folgende Beschreibung:\n„Senff ist vor zeitten hochberiimpt un                      im branch gesein bey dem allerweisesten Philosopho Pythagora.\nvon desse wegen, das kein sam                        ist,       der meer iiber sich steiget,       un das hyrn reyniget weder senff.\nWere aucb seins gleichen nit,                     spricht Columella,       wann er nitt nyessen und weynen machte.                      Wiewol\n                                            u\ner       den augen auch schadlich.",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史記載提及畢達哥拉斯推崇芥末，Columella稱其能清腦，但對眼睛有害。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 45,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 2484,
+        "char_end": 3301,
+        "page_text_sha256": "a1bcdacce62a598b2e87363490506f98526b32f8ac032a610041a1d422ac9d15",
+        "exact_text_sha256": "422dfb5466fe8278361739a5f480ce71f309ee826e97a693acf37943946c6582",
+        "source_line_start": 45,
+        "source_line_end": 56,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "422dfb5466fe8278361739a5f480ce71f309ee826e97a693acf37943946c6582",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "cf5dd0060ff3bd193eb5175919d231d4f71575ea27a79157cf24c5f646d73a5b",
+    "maker_receipt_sha256": "5738a6d3454365a5ba46f803de924d3bcf00601596b6cf4deb527e502e70407b",
+    "validation_check_sha256": "448a500475aeff5e6d6a5f785b27ec41ad42a08b5fcf4b9e1776a39f23b56d6f",
+    "source_disposition_sha256": "b9e5f959429d1865983e1d365fd2f4a67c04c8f96e9b1e6d78a93a8a8b61235e",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "5738a6d3454365a5ba46f803de924d3bcf00601596b6cf4deb527e502e70407b",
+      "validation_check_sha256": "448a500475aeff5e6d6a5f785b27ec41ad42a08b5fcf4b9e1776a39f23b56d6f",
+      "source_disposition_sha256": "b9e5f959429d1865983e1d365fd2f4a67c04c8f96e9b1e6d78a93a8a8b61235e"
+    },
+    "naming_artifact_sha256": "bdd8f95ee1ec34ec4caf1d137c1d461db7f28dac5986f17df62461be66f27c6d"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "508e9aae7abdbc17520221b574251aca9f8c0dd7d66c3c6a9f9e133c9ab566d7"
+}

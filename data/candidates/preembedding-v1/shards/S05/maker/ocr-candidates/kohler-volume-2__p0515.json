@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 515,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "e8853caaca07c7c95547e2e142c065dd6677fac36e6a6b98ea4bd7b120a97a02",
+  "render_dpi": 144,
+  "render_sha256": "be4fbb8a843590c1d32e39aedc843929976966f5264af291a5d21ab215360f0a",
+  "input_sha256": "be4fbb8a843590c1d32e39aedc843929976966f5264af291a5d21ab215360f0a",
+  "engine": "Apple Vision VNRecognizeTextRequest accurate",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-ocr-sha256=e54202ae838c94203816fd3331f4c37f7acac436188d481eab506c540c3d66d6",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 15.125,
+  "embedded_character_count": 48,
+  "ocr_character_count": 53,
+  "ocr_alpha_ratio": 0.7547,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.022457397173321403,
+      "text": "Umbelliferae.",
+      "width": 0.1421812485459768,
+      "x": 0.782864749797245,
+      "y": 0.9313585107090154
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883082859107,
+      "text": "8",
+      "width": 0.016227180607761404,
+      "x": 0.6835699795744155,
+      "y": 0.3255813957889967
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "9",
+      "width": 0.016227180607761404,
+      "x": 0.5963488845034215,
+      "y": 0.16860465131600744
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "10",
+      "width": 0.012170384795381683,
+      "x": 0.8377281951614708,
+      "y": 0.1627906978151017
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "WM.",
+      "width": 0.030425961988454375,
+      "x": 0.8539553762572941,
+      "y": 0.11191860469194459
+    },
+    {
+      "confidence": 1,
+      "height": 0.026289682539682557,
+      "text": "Foeniculum capillaceum Gilib",
+      "width": 0.3387423908941633,
+      "x": 0.2860040560887051,
+      "y": 0.08134920605231699
+    }
+  ],
+  "text": "Umbelliferae.\n8\n9\n10\nWM.\nFoeniculum capillaceum Gilib",
+  "output_sha256": "121b99ef8ed7e8762ee5987ab13c4b0001ffc7b89a946d59bc92e9cc106aa6b6",
+  "receipt_sha256": "1de03178f5b45f45ac02e6be7fdab238bf9a609576553d44c27134baa3db9f2a"
+}

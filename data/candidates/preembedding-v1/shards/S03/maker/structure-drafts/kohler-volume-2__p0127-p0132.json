@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0127-p0132",
+  "owner_shard": "S03",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 189.064,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0127-p0132",
+    "book_taxon": {
+      "scientific_name_candidate": "Cephaélis Ipecacuanha",
+      "authorship_candidate": "Willden",
+      "aliases_candidates": [
+        "Ceph. emetica Pers.",
+        "Ipecacuanha officinalis Arrud.",
+        "Psychotria Ipecacuanha Müller, Arg.",
+        "Uragoga Ipecacuanha Baill."
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 127,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Cephaélis Ipecacuanha Willden，同物異名包括 Psychotria Ipecacuanha。隸屬茜草科。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          7
+        ],
+        "exact_source_quote": "                                Cephaélis Ipecacuanha Willden.\nSyn. Ceph. emetica Pers. Ipecacuanha officinalis Arrud. Psychotria Ipecacuanha Müller, Arg.\n                                              Uragoga Ipecacuanha Baill.\n\n     Brechwurzel, Ipecacuanha                 —   Ipecacuanha       annelé ou officinal 一                Ipecacuanha.\n\n            Familie: Rubiaceae.         Gattung: Cephaélis Sw."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 127,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "半灌木，高15-40公分。地下莖匍匐，具環狀突起。莖直立，四棱形，葉對生，長橢圓形，邊緣具短刺。",
+        "warnings": [],
+        "source_line_range": [
+          8,
+          16
+        ],
+        "exact_source_quote": "         Beschreibung.       Halbstrauchartige, 15—40 (auch mehr) Ctm. hohe, gesellschaftlich vor-\nkommende Pflanze mit unter dem Boden kriechendem, knotig-gegliedertem, holzigem Stämmchen, aus\ndem vereinzelte, ca. 15 Ctm. lange, mit wenig Zasern besetzte, senkrecht niedersteigende, erst faden-\nförmige, fast glatte, etwas hin- und hergebogene, dann rasch dicker werdende, mit dichtstehenden,\nringfórmigen Wülsten und Höckern versehene, nach der Spitze hin wieder verdünnte, aussen brüunliche,\ninnen weisse Wurzeln entspringen. Die ringartigen Wülste sind in der Regel etwas über die Hälfte\numlaufend, werden gegen die Enden schmäler und stehen sich häufig einander gegenüber; ihre schmalen\nEnden übereinanderlegend. Der oberirdische, aus holzigem Grunde aufsteigende Stengel unten nackt,\nnach oben krautartig , vierkantig und meist kurzhaarig, einfach oder wenig ästig, oben hebláttert."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 128,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "根橫切面：皮層厚，無木質部射線；木質部無髓，細胞含澱粉。皮層細胞含草酸鈣針晶束。",
+        "warnings": [],
+        "source_line_range": [
+          19,
+          31
+        ],
+        "exact_source_quote": "           Anatomisches.             Der Wurzelquerschnitt            zeigt eine dicke,     hornartige,     aussen    dunkle,      innen\nbräunliche, markstrahlenlose, vom Holze leicht abtrennbare Rinde und ein weissliches, fein poröses,\nundeutlich-strahliges Holz ohne Mark. Die Aussenrinde besteht aus einem dunkelbraunen, von wenigen\nReihen tafelförmiger, ziemlich dickwandiger Zellen gebildeten Korke; die Mittelrinde aus einem gleich-\nfórmigen Parenchym, dessen mit Stärkemehl erfüllte, dünnwandige Zellen nach der Aussenseite hin im\nQuerschnitte tangential gestreckt erscheinen, nach innen allmühlig würfelfórmige, polyedrische Form\nannehmen, gegen das Holz zu enger und in der Richtung der Axe gestreckter werden; Innenrinde\noder Bast ganz fehlend. Der Kambiumring ist sehr schmal. Der gleichfalls Stärke führende, stellen-\nweis kurze Keile in die Rinde sendende Holzkórper zeigt auf dem Querschnitte ein gleichfórmiges,\netwas    dickwandiges,     von vereinzelten Markstrahlen              durchsetztes Gewebe,     dessen Zellen ungleiche,         eckig-\nrundliche, meist etwas radial gedehnte Form besitzen und in der marklosen Mitte ‘dichter stehen. Im\nLüngsschnitte sind die Holzzellen kurz, porös, spiralig oder netzig gestreift. Einzelne Rindenzellen,\nnamentlich im inneren Theile der Rinde, zeigen Nadelbündel von Kalkoxalat.              |"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 128,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "產於南美洲潮濕陰涼森林，南緯8-22度。主要分佈於巴西各省及玻利維亞東部。",
+        "warnings": [],
+        "source_line_range": [
+          32,
+          35
+        ],
+        "exact_source_quote": "         Vorkommen.       Feuchte, schattige Wälder Südamerikas zwischen dem 8. und 22, Grad südl.\nBreite, nach Flückiger namentlich in den brasilianischen Provinzen Para, Maranhao, Pernambuco,\nBahia, Espirito Santo, Minas graecas, Matto grosso, Rio de Janeiro, Sao Paulo, in der bolivianischen\nOstprovinz Chiquitos, auch im nördlichen Südamerika."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 128,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源自葡萄牙語，意為「路邊嘔吐草」。1636年Piso與Markgraf記錄其治痢疾功效。1672年傳入法國。",
+        "warnings": [],
+        "source_line_range": [
+          38,
+          52
+        ],
+        "exact_source_quote": "       Name und Geschichtliches.      Ipecacuanha wird abgeleitet vom portugiesischen ; klein,\npe am Wege, caa Pflanze, Kraut, goene brechenerregend, demnach bezeichnet das Wort ei\n                                                                                      ne kleine\nam Wege wachsende, brechenerregende Pflanze; nach Anderen stammt das Wort von ip\n                                                                                      e Rinde,\ncaa Pflanze,    cua wohlriechend            und nha strahlig.         Cephaelis   von     repola Kopf und sew             zusammen-\ndrängen,   Pflanze mit aus zusammengedrüngten Blüthen bestehendem Kopfe.                           Psychotria von woxn Seele,\nLeben und teegew ernähren, erhalten, in Bezug auf die arzneiliche Wirkung.\n        Der Mönch Michael Tristram, der gegen Ende des 16. Jahrhunderts sich in Brasilien auf-\nhielt,   erwähnt. eines        Arzneimittels      Zgpecaya     oder    Pigaya     gegen   Blutfluss , worunter        T\nIpecacuanha     zu   verstehen      ist.    Die    ersten    bestimmten    Nachrichten      stammen       von   den beiden Natur-\nforschern Wilh. Piso        und Georg Markgraf,                welche 1636—1641           den Grafen Moritz          von Nassau      auf.\nseiner   brasilianischen Reise        begleiteten      und bei dieser Gelegenheit Ipecacuanha              näher kennen       lernten.\nSie rühmten das Mittel gegen Ruhr und gaben Abbildungen und Beschreibungen von zwei\n                                                                                    Wurzeln,"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 130,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含吐根鹼（Emetin）、脂肪、蠟、揮發油、樹膠、澱粉及具鐵綠色的鞣酸（吐根酸）。",
+        "warnings": [],
+        "source_line_range": [
+          36,
+          40
+        ],
+        "exact_source_quote": "         Bestandtheile. Die offizinelle Wurzel enthält nach Pelletier: ein eigenthümliches, giftiges,\nheftiges Brechen erregendes Alkaloid (Emetin), Talg, Wachs, Spur eines ekelhaft riechenden ätherischen\nOeles,      Gummi,          42%, Amylum,                 Extraktivstoff,         eigenthümliche,              eisengrünende            Gerbsäure        (Ipecacuanha-\nsäure).\n              Emetin (uéw, erbrechen) mit der Formel C,,H,,NO, (Glénard), C,,H,,N,0,                                                                      (Lefort und"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "329feb1c56ad698fb4698611ce108984ed47c574e6fd576df2c667242272fa21"
+}

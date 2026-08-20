@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-4:p0034-p0037",
+  "owner_shard": "S08",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S08/maker/structure-drafts/kohler-volume-4__p0034-p0037.json",
+  "source_draft_sha256": "3cd9b05c521fa3df40640da06ea879bce639d6433fe44bab100389650871e9f7",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "650b2bd0a2d3950db7064c714ca23435efcf00020613ca014a7776e7294ae36f",
+    "validation_check_sha256": "8fbdc9bcfac4c538b3e9e280a57281c57a48988963c41d7fcb07f72610f9eeab",
+    "source_disposition_sha256": "d9f3d1d2b1c4742070968fd15dcf70e5ed6de086f6f0c19fe7a6c80945279b60",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Maranta arundinacea",
+    "authorship_candidate": "L.",
+    "aliases_candidates": [
+      "Maranta indica Tuss.",
+      "M. ramosissima Wall.",
+      "M. sUvatica Rose.",
+      "M. protracta Miq.",
+      "Pfeilkraut",
+      "Arrowroot",
+      "herbe k flfeche"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Maranta arundinacea"
+    ],
+    "accepted_scientific_name": "Maranta arundinacea",
+    "display_name_zh_tw": "竹芋",
+    "alternative_names_zh_tw": [
+      "葛鬱金"
+    ],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0054400",
+    "rationale": "TaiCOL accepts the queried book binomial at species rank.",
+    "checked_at": "2026-08-13T12:49:04+08:00",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Maranta arundinacea",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Maranta+arundinacea",
+      "retrieved_at": "2026-08-13T12:49:04+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Maranta arundinacea",
+          "matched_name_id": 23031,
+          "taxon_id": "t0054400",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Maranta arundinacea",
+          "accepted_name_id": 23031,
+          "accepted_usage": [
+            {
+              "usage_id": 117665,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 3348,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0054400",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0054400",
+          "taxon": {
+            "taxon_id": "t0054400",
+            "taxon_status": "accepted",
+            "name_id": 23031,
+            "simple_name": "Maranta arundinacea",
+            "name_author": "L.",
+            "rank": "Species",
+            "common_name_c": "竹芋",
+            "alternative_name_c": "葛鬱金",
+            "synonyms": "Maranta arundinacea fo. sylvestris,Maranta arundinacea var. indica,Maranta arundinacea var. variegata,Maranta indica,Maranta ramosissima,Maranta sylvatica,Maranta tessellata var. kegeljanii,Phrynium variegatum",
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": "cultured: 原生於亞歐; 沒有入侵性",
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

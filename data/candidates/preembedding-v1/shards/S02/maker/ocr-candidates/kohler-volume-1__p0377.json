@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 377,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "1c524f10d4821c43a6e247b60b4e0530d3dab06fc2c42ca315bc5fa8b1abeb71",
+  "render_dpi": 144,
+  "render_sha256": "dc56fabc33f47467b00c1ffa4cf74f2d88eb7245e1548b58141006d5691baa2c",
+  "input_sha256": "dc56fabc33f47467b00c1ffa4cf74f2d88eb7245e1548b58141006d5691baa2c",
+  "render_pixel_width": 5798,
+  "render_pixel_height": 7934,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 6.419,
+  "embedded_character_count": 134,
+  "ocr_character_count": 56,
+  "ocr_alpha_ratio": 0.75,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.3,
+      "height": 0.019772391470651796,
+      "text": "bompositae.",
+      "width": 0.11160435670104729,
+      "x": 0.8328658150895635,
+      "y": 0.9297940367792877
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.10465116349477621,
+      "text": "10",
+      "width": 0.14910536705234478,
+      "x": 0.7852882711102944,
+      "y": 0.18168604578583436
+    },
+    {
+      "confidence": 1,
+      "height": 0.016023282966916574,
+      "text": "WMüller n.d. Nat.",
+      "width": 0.11000181117892427,
+      "x": 0.8327484829478046,
+      "y": 0.14050027124202746
+    },
+    {
+      "confidence": 1,
+      "height": 0.01889534791310632,
+      "text": "Achillea Millefolium I.",
+      "width": 0.23658050578517215,
+      "x": 0.4015904651789845,
+      "y": 0.12500000041844672
+    }
+  ],
+  "text": "bompositae.\n10\nWMüller n.d. Nat.\nAchillea Millefolium I.",
+  "output_sha256": "25197fc752800f20f6dbd67130863708176f2866ee88adf4e49251f251211fd1",
+  "receipt_sha256": "0cda7fd4685fde576d409090ef8f44c1cbe24a4695d66a47c5488e9cf2de6caa"
+}

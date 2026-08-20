@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0169-p0170",
+  "owner_shard": "S02",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 125.523,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0169-p0170",
+    "book_taxon": {
+      "scientific_name_candidate": "Matricaria Chamomilla",
+      "authorship_candidate": "L.",
+      "aliases_candidates": [
+        "Chrysanthemum Chamomilla Bernh.",
+        "Chamomilla officinalis",
+        "Echte Kamille",
+        "Chamomile",
+        "Camomille commune ou d'Allmagne"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 169,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Matricaria Chamomilla L.，同義名 Chrysanthemum Chamomilla。俗名 Echte Kamille。隸屬菊科 Matricaria 屬。",
+        "warnings": [],
+        "source_line_range": [
+          6,
+          13
+        ],
+        "exact_source_quote": "                                     Matricaria Chamomilla L.\n      Syn. Matricaria                             Chrysanthemum Chamomilla Bernh.                 Chamomilla\n                                                 officinalis\n\n\n              Echte Kamille               Chamomile            Camomille commune ou d'Allmagne.\n\n          Familie: Compositae.            Grattung: Matricaria L."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 169,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "描述：莖高 15-20 公分，葉雙回羽狀分裂。頭狀花序頂生，總苞片覆瓦狀。舌狀花白色，管狀花黃色。",
+        "warnings": [],
+        "source_line_range": [
+          14,
+          37
+        ],
+        "exact_source_quote": "           Beschreib ung.                                                                       Wurzel\n kahlen, astigen, aufrechten oder ausgebreiteten 15—20 Ctm.\n                                                                   hohen Stengel, dessen zerstreut stehende,\n kanle, sitzende, doppelt-fiedertheilige Blatter mit schmal-linealischen,\n                                                                            flachen, stachelspitzigen, entfernten\n Zipteln versehen sind.             n '\"  \"\"    T\"\"' 1  *\"  \"'       •\"  *\n                            Die endstandigen Bliithenkopfchen      mittelgross     ziemlich lang gestielt, erne\n                                                                                        ,\n\n doppelte, zusammengesetzte lockere Doldentraube bildend, mit\n                                ,\n                                                                        walzig-kegelformigem, 5 Mm. lin^m\n 1 L Mm. dickem, hohleni, nacktem, nach dem Abfallen der Fruchte feingrubigem Bliithenboden.\n                                                                                                            Httll-\n kelch ziegeldachformig mit langlichen, hautig gerandeten, stumpfen Bliittchen.\n                                                                                          Band- oder Strahlen-\n bluthen zu 12—18, nur weiblich, erst ausgebreitet, spater zuriickgeschlagen, weiss,\n                                                                                             mit unterstandigem,\n liachengem, lengem, aus dem Unterkelch gebildetem Fruclitknoten und fadenformigem Griffel,\n                                                                                                         der mit\n 2 hnealischen, zuruckgekrummten Narben gekront ist.         Die langlich - 3 zahnige, 4nervige Zunge langer\n als_ der Hiillkelch.   Rohre walzenrnnd, mit kleinen Oeldriisen bestreut. Scheibenblilthen zahlreich,\n zwitteng, gelb.    Blume trichterformig mit am Grunde bucbtiger, gestielt- driisiger Rohre und glocken-\n formigem, am Rande 5spaltigem Saume, dessen Zipfel nacb aussen gebogen sind."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 169,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "解剖：花托周圍薄壁組織橫切面顯示約 12 個大空腔，據 Flückiger 推測含揮發油。",
+        "warnings": [],
+        "source_line_range": [
+          57,
+          61
+        ],
+        "exact_source_quote": "          Anatomisclies : Der Quersclmitt des diinnwandigen lockeren Gewebes welches die Hohlung des\n                                                                    ,               ,                     Bliitben-\n bodens umgiebt zeigt einen weitlaufigen Kreis von ca. 12 sehr ansehnlichen Raumen, die\n                                                                                        wahrscheinlich atherisches\n Oel enthalten (Fliickiger)."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 169,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分佈：廣泛分佈於歐洲（除極北）、西亞及澳洲，尤喜黏土。花期 5 月至 8 月。",
+        "warnings": [],
+        "source_line_range": [
+          64,
+          66
+        ],
+        "exact_source_quote": "          Verbreitung                             We              namentlich auf Lehmboden durch Europa mit\nAusschluss des aussersten Nordens verbreitet.             Ausserdem in Vorderasien und Australien.\n          Bliithezeit.     Mai bis August."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 170,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "成分：含揮發油（藍油）、樹脂、苦味質等。藍油經蒸餾可得，具強烈香氣，冷卻後凝固。",
+        "warnings": [],
+        "source_line_range": [
+          15,
+          28
+        ],
+        "exact_source_quote": "             Bestandtheile.                      enthalten 100 Theile trockner Kamillen: 7,4 braunen,\n                                      Nach Herberger\ndurch Bleisalz fallbaren Extraktivstoff, 5,9 Harz, 5 seifenartigen Extractivstoff, 6,3 Gummi, 2,9 Bitter-\nstoff und Gerbstoff, 2,2 apfelsauren Kalk und Kali mit Zucker und Eiweissstoff           1 phosphorsauren\n                                                                                                     ,\n\n\n\nKalk, 0,8 Wachs, 0,5 Fett, 0,9 dickliches, fliichtiges, blaufarbiges Oel, 0,4 Chlorophyll, 64,7 Faser-\nstoff etc. Durch Destination erhalt man aus den getrockneten Kamillenbluthen                     bis 0,45\"\\\n                                                                                           eines schon\ndunkelblauen Oeles, von stark aromatischem Geruch und Geschrnacke, welches bei 0° fest wird, ohne\nAbscheidung von Stearopten. Es ist von Piesse Aziden, von Gladstone Coeruletn benannt worden,\nbesitzt ein spez. Grew, von 0,92—0,94 und ist nach Kachler ein Gremisch von mehreren Verbindungen."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 170,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史用途：作為民間藥用，茶劑用於痙攣、腹痛及風濕；外用治皮膚與傷口。油劑用於哮喘與百日咳。",
+        "warnings": [
+          "Content describes historical medical use; not modern medical advice."
+        ],
+        "source_line_range": [
+          43,
+          51
+        ],
+        "exact_source_quote": "             Anwendung.  Als sehr beliebtes Hausmittel wird die Kamille in Theeform bei verschiedenen\nkrampfhaften Beschwerden, namentlich bei Cardialgie und Kolik, auch als Diaphoreticum bei Rheuma-\ntismus, Erkaltungskrankheiten Bronchialkatarrh acuter Diarrhoe etc. in Anwendung gebracht.\n                                          ,                   ,\n                                                                                                 Eine\nHauptverwendung findet die Kamille ausserlich als gelind reizendes Mittel zur Applikation auf Haut,\nSchleimhaute und Wunden. Das Kamillenol, welches die Reflexation herabsetzt, wird in Form von\nOelzucker gegen Asthma und Kolik, Magenkrampf und Keuchhusten, sowie gogen Intermittens ge-\nreicht.      (Husemann, Arzneimittell. 955.)"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "d56e9c20286aad93814035d80c90b0a4e08f8957cd40f194688cc6599dbcde7d"
+}

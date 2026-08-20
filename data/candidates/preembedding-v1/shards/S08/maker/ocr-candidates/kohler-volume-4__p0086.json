@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-4",
+  "volume": 4,
+  "pdf_page": 86,
+  "owner_shard": "S08",
+  "source_pdf": "/Volumes/NO NAME/第四集 mobot31753003431696.pdf",
+  "source_text_sha256": "fc65f905ff70d2c82d32e556152bf95dbf065478d787033d4490cf71daed60d9",
+  "render_dpi": 144,
+  "render_sha256": "66b6985209228b40428d1909a2f02b8141fdc19f2319252f97d674edd838947d",
+  "input_sha256": "66b6985209228b40428d1909a2f02b8141fdc19f2319252f97d674edd838947d",
+  "render_pixel_width": 5768,
+  "render_pixel_height": 8562,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 8.428,
+  "embedded_character_count": 136,
+  "ocr_character_count": 59,
+  "ocr_alpha_ratio": 0.7627,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01744185932098874,
+      "text": "38-",
+      "width": 0.04525861894610353,
+      "x": 0.06250000124893099,
+      "y": 0.9781976751117925
+    },
+    {
+      "confidence": 1,
+      "height": 0.02482715107145761,
+      "text": "Tatel 39",
+      "width": 0.0679956922123815,
+      "x": 0.02392969298272646,
+      "y": 0.953763357815929
+    },
+    {
+      "confidence": 1,
+      "height": 0.024363920802161765,
+      "text": "Rannnculaceae",
+      "width": 0.12678233443022824,
+      "x": 0.8167193661267184,
+      "y": 0.9445227937257992
+    },
+    {
+      "confidence": 1,
+      "height": 0.021782625289190394,
+      "text": "(Helleboreae)",
+      "width": 0.1048136895113736,
+      "x": 0.8388661699155348,
+      "y": 0.9280904400961387
+    },
+    {
+      "confidence": 1,
+      "height": 0.01894725882817827,
+      "text": "Helleborus niger L",
+      "width": 0.20474137543578558,
+      "x": 0.36206896920021064,
+      "y": 0.014534884371935175
+    }
+  ],
+  "text": "38-\nTatel 39\nRannnculaceae\n(Helleboreae)\nHelleborus niger L",
+  "output_sha256": "73a9d02eb7314985004e6253ace1ffa077186e1a7421e8b1d97c850ca345fd5e",
+  "receipt_sha256": "efc1fc54e09d25b2046616baebbf4431c3f849032c65e11e54a0c506be991b4d"
+}

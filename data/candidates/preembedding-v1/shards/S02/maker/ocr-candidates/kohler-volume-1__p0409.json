@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 409,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "ae90249351d3610cf06e1c636482cedd032d15411022b34d0104a81e3033d4b3",
+  "render_dpi": 144,
+  "render_sha256": "800c2c83087339c5a8dbebb80aa93b0a8f04942c65d74e9e2b722de164825fec",
+  "input_sha256": "800c2c83087339c5a8dbebb80aa93b0a8f04942c65d74e9e2b722de164825fec",
+  "render_pixel_width": 5978,
+  "render_pixel_height": 8078,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 5.379,
+  "embedded_character_count": 72,
+  "ocr_character_count": 44,
+  "ocr_alpha_ratio": 0.6818,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01847806430998311,
+      "text": "Rosaceae.",
+      "width": 0.10298135261433372,
+      "x": 0.8287155485062099,
+      "y": 0.9115804182392788
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "14",
+      "width": 0.01178781852006272,
+      "x": 0.9096267192271985,
+      "y": 0.21947674442362886
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "15",
+      "width": 0.019646364626232482,
+      "x": 0.9037328100739171,
+      "y": 0.15988372119709526
+    },
+    {
+      "confidence": 1,
+      "height": 0.02470930228157653,
+      "text": "Hagenia abyssinica Willa",
+      "width": 0.27308448198333823,
+      "x": 0.3831041219012582,
+      "y": 0.10610465087592691
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "81.",
+      "width": 0.019646364626232482,
+      "x": 0.9332023582075124,
+      "y": 0.018895349031397446
+    }
+  ],
+  "text": "Rosaceae.\n14\n15\nHagenia abyssinica Willa\n81.",
+  "output_sha256": "1f66a806d9ea8ad0b55b5fcda83687a3e1a130eb5d24710f60e41907f056e45f",
+  "receipt_sha256": "e1138d0283f83d4260cfa170ef5c1e76455b149564f1e8598cb56ae615374f60"
+}

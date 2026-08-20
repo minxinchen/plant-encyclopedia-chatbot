@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0255-p0260",
+  "owner_shard": "S03",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 182.558,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0255-p0260",
+    "book_taxon": {
+      "scientific_name_candidate": "Glycyrrhiza glabra",
+      "authorship_candidate": "L.",
+      "aliases_candidates": [
+        "Liqwiritia officinalis Much.",
+        "Glycyrrhiza echinata L.",
+        "Radix Liquiritiae",
+        "Radix Liquiritiae mundata"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 255,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名Glycyrrhiza glabra L.，同義名Liqwiritia officinalis。隸屬豆科Galegeae亞科。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          6
+        ],
+        "exact_source_quote": "                                             Glycyrrhiza glabra L.\n                                             Syn. Liqwiritia officinalis Much.\n\n                  Gemeines oder spanisches Süssholz 一                            Reglisse —             Glycyrrhiza.\n            Familie:       Leguminosae (Papilionaceae);              Unterfamilie:         Galegeae; Gattung: Glycyrrhiza\nTourn."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 255,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "多年生，根深達1米，灰褐色外層，黃色內部。莖直立，高至2米，葉互生，4-7回羽狀複葉。",
+        "warnings": [],
+        "source_line_range": [
+          7,
+          17
+        ],
+        "exact_source_quote": "         Beschreibung: Die ausdauernde, tief absteigende, bis 1 Meter lange und 2*/, Ctm. dicke,\nmehrköpfige, graubraune, innen gelbe Wurzel entweder fast einfach oder mit marklosen Wurzelästen\nversehen,     ausserdem     mit   fingerdicken,     wagerecht      weithin    kriechenden,        unterirdischen   Ausläufern    aus-\ngestattet, die sich durch das Vorhandensein der Stengelknospen und eines dünnen, eckigen Markes von\nden Wurzeln unterscheiden. Stengel zu mehreren, aufrecht, wenig hin- und hergebogen, bis 2 Meter\nhoch, meist einfach, nach unten stielrund, gestreift, kahl, nach oben kantig, gerippt, fein behaart,\nkleberig, drüsig, Blätter zerstreutstehend, unpaarig 4- bis 7-jochig gefiedert. Blattspindel gerippt, kurz-\nhaarig, drüsig punktirt; die hinfälligen, gepaarten Nebenblätter klein, pfriemenförmig. Blättchen gegen-\nständig, kurz gestielt, oblong oder elliptisch-lanzettlich, spitz oder stumpf, ganzrandig, beiderseits\ndrüsig, unterhalb klebrig, netzaderig. Blüthentrauben achselstündig, ziemlich lang gestielt einzeln, locker-\nund reichblüthig, schlank, ungefähr so lang als die Blätter; Blüthenstiel gestreift, kurzhaarig, klebrig."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 256,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "橫切面顯示厚皮層，外層細胞褐色，內層黃色。皮層含木質部纖維束及晶體細胞。",
+        "warnings": [],
+        "source_line_range": [
+          25,
+          35
+        ],
+        "exact_source_quote": "            Anatomisches. Der Querschnitt des Süssholzes zeigt eine ziemlich dicke Rinde, welche aus\nAussen-, Mittel- und Innenrinde zusammengesetzt ist und ein durch die Kambiumschicht von der Rinde\ngetrenntes, durch linienfórmige Markstrahlen strahliges Holz; Mark fehlt den Wurzeln, wohingegen,eg\nin dem Rhizom          schwach     entwickelt ist.        Die Aussenrinde      besteht     aus    einem Periderm,            dessen äussere\nZellen braun gefärbt sind, während die inneren eine gelbe Farbe besitzen. Die wenig entwickelte\nMittelrinde zeigt wenige Reihen tangential gestreckter, Stärkekörner führender Parenchymzellen. Die\nInnenrinde,    welche mächtig entwickelt           ist, und fast die ganze Rinde            ausmacht,     besteht aus Markstrahlen,\ndie mit lang-keilförmigen, zum Theil schlängelig gebogenen Bastbündeln wechseln; letztere stossen mit\nder Spitze, die Markstrahlen mit der breiten Seite gegen den äusseren Umfang. Die Markstrahlen sind\naus   3—7     Reihen    radial gestreckter, stürkeführender            Zellen zusammengesetzt;            die Bastbündel          enthalten\nin einem stärkeführenden Bastparenchym biegsame sclerenchymatische Fasern mit gelben, spiralig-"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 257,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "現於英國、摩拉維亞、南法、西班牙、義大利、西西里及德國班貝格等地栽培。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          4
+        ],
+        "exact_source_quote": "           Vorkommen.       Siehe die einzelnen Arten und Abarten.    Die Pflanze wird gegenwärtig kulti-\n virt in England (Mitcham in Surrey und Yorkshire), in Mähren, in Südfrankreich, namentlich aber in\n Spanien, in Italien (Calabrien), in Sicilien (Catanisetta). In Deutschland wird bei Bamberg noch eine\n geringe Menge gezogen."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 258,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "根含甘草酸（Glycyrrhizin）、糖、苦味質、樹脂、澱粉、天冬酰胺及蛋白質。",
+        "warnings": [],
+        "source_line_range": [
+          50,
+          56
+        ],
+        "exact_source_quote": "           Bestandtheile. Die Wurzel enthält Süssholzzucker (Glycyrrhizin), gährungsfähigen Zucker,\nBitterstoff, Weichharz, Hartharz, Spur von Gerbstoff, Stärkemehl, Asparagin, Wachs, Eiweiss. Die\nAnalyse      von Sestini      lieferte    folgende Resultate:      Die    frische      Wurzel         enthielt   48,76 9, Wasser,\n29,62 °/) kohlenhydrathaltige Substanzen, 3,27 “lo Glycyrrhizin, 1,60%, in Aether lósliches Fett, Harz,\nFarbstoff,     1,24?/, Asparagin,        3,26 /, Proteinstoffe,   0,02 % Ammoniaksalze,              10,15%,     Cellulose,   2,08 ‫ل‬‎\nMineralstoffe. Bei 100? getrocknete Wurzel: 57,72 % kohlenhydrathaltige Substanz, 6,27 Y, Glycyr-\nrhizin, 3,32 /) in Aether lósliches Fett etc., 2,42%, Asparagin, 6,38°/, Proteinstoffe,"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 259,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史上用於呼吸系統卡他性疾患，改善苦味，作為藥丸賦形劑。民間用於止咳化痰。",
+        "warnings": [
+          "Content describes historical medical usage; not modern medical advice."
+        ],
+        "source_line_range": [
+          66,
+          74
+        ],
+        "exact_source_quote": "            Anwendung.        Die Wurzel als Pulver und im Aufguss, der eingetrocknete Saft als Pulver\nund in Lösung bei katarrhalischen Leiden der Athmungswerkzeuge, namentlich aber wegen des lang-\nandauernden süssen Geschmackes zur Geschmacksverbesserung, als Zusatz von Extrakten behufs Dar-\nstellung von Pillenmassen und als Träger hygroskopischer Pulver. „Süssholz und Lakritz werden vom\nVolke als demuleirende und expektorirende Mittel bei Hustenreiz, Heiserkeit und Bronchialkatarrh\nvielfach benutzt und auch ärztlich, meist jedoch nur als Adjuvans anderer Mittel, verordnet. Seltener\nwerden sie bei akuten febrilen Katarrhen, meist nach vorübergegangenem, akutem Stadium bei zäher\nBeschaffenheit    des Sekretes   benutzt. Mit Zucker      und   Anisöl dient   Lakritzen   zur   Herstellung   des    in\ndünnen Stengeln und Plättchen auftretenden Kachou.*               (Husemann, Arzneimittell. 349.)"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "4402912fd1ea2fdc88c4503f51f4c91b6691654b0c69b508d0b4cdf3cabcd007"
+}

@@ -1,0 +1,223 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-3:p0277-p0278",
+  "owner_shard": "S07",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S07/maker/structure-drafts/kohler-volume-3__p0277-p0278.json",
+  "source_draft_sha256": "63a2b4788919e505d6f2b1285df7812cd1f80e1f802065c14a3af8c47f0e345d",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "e3764011fad90139adc79ba5a840d5211e94c5d212fe21741d74ca11ea8e282e",
+    "validation_check_sha256": "6592dcabf195df777693e6330a8c75ffd9b6796da539b86d434e2c61f94f02e1",
+    "source_disposition_sha256": "26894b8e2bb564255241edc6f80b092ad9f6c903b9cfbfe7279a45e7e054223d",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Cerbera Odollam",
+    "authorship_candidate": "Gaertn.",
+    "aliases_candidates": [
+      "C. Manghas L.",
+      "Tanghinia Odollam Don.",
+      "dabur",
+      "dhakur",
+      "Odollam",
+      "Gon-kaduru",
+      "ka-lwah",
+      "kadama",
+      "katarali",
+      "kadu",
+      "cay mup sat"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Cerbera Odollam",
+      "Cerbera odollam"
+    ],
+    "accepted_scientific_name": "Cerbera manghas",
+    "display_name_zh_tw": "海檬果",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "unclear",
+    "taxon_id": null,
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "tai2"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary",
+    "rationale": "Tai2 exactly lists the book binomial as a main name or synonym and links it to this accepted species page.",
+    "checked_at": "2026-08-13T14:35:37+08:00",
+    "tai2_code": "514 008 01 0"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Cerbera Odollam",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Cerbera+Odollam",
+      "retrieved_at": "2026-08-13T14:35:32+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Cerbera",
+          "matched_name_id": 952,
+          "taxon_id": "t0002763",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Cerbera",
+          "accepted_name_id": 952,
+          "accepted_usage": [
+            {
+              "usage_id": 163061,
+              "reference_id": 1854,
+              "reference_type": "Journal Article",
+              "publish_year": 2017,
+              "citation": "Lin, C.-T. & Chung, K.-F. (2017) Phylogenetic Classification of Seed Plants of Taiwan. <i>Botanical Studies</i> 58(1): 52.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 177813,
+              "reference_id": 2454,
+              "reference_type": "Book",
+              "publish_year": 2017,
+              "citation": "Ed. Comm. Red List TW Plants,  (2017) The Red List of Vascular Plants of Taiwan, 2017 = 2017 臺灣維管束植物紅皮書名錄.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 278446,
+              "reference_id": 1018,
+              "reference_type": "Book Chapter",
+              "publish_year": 1998,
+              "citation": "Li, H.-L. & Huang, T.-C. (1998) 121. Apocynaceae. In: Flora of Taiwan, 2 ed., vol. 4. 192–219.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 6706,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": null
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0002763",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0002763",
+          "taxon": {
+            "taxon_id": "t0002763",
+            "taxon_status": "accepted",
+            "name_id": 952,
+            "simple_name": "Cerbera",
+            "name_author": "L.",
+            "rank": "Genus",
+            "common_name_c": "海檬果屬",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": null,
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Cerbera odollam",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Cerbera+odollam",
+      "retrieved_at": "2026-08-13T14:35:32+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Tanghinia odollam",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Tanghinia+odollam",
+      "retrieved_at": "2026-08-13T14:35:33+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "cay mup",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=cay+mup",
+      "retrieved_at": "2026-08-13T14:35:33+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Cerbera odollam",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Cerbera%20odollam",
+      "retrieved_at": "2026-08-13T14:35:37+08:00",
+      "exact_result_count": 1,
+      "exact_results": [
+        {
+          "name": "<em>Cerbera</em> <em>odollam</em> Gaertn.",
+          "ebooksearch": "Cerbera odollam",
+          "simnametitle": "<em>Cerbera</em> <em>odollam</em>",
+          "type": "S",
+          "code": "514 008 01 0",
+          "apgfamily": "Apocynaceae",
+          "chapgfamily": "夾竹桃科",
+          "family": "Apocynaceae",
+          "chfamily": "夾竹桃科",
+          "genus": "Cerbera",
+          "chgenus": "海檬果屬",
+          "fern": "no",
+          "chname": "海檬果",
+          "comname": "",
+          "comtype": "",
+          "endetype": "",
+          "result_type": "species"
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "species_url": "https://tai2.ntu.edu.tw/species/514%20008%2001%200",
+      "accepted_species_record": {
+        "name": "<em>Cerbera</em> <em>manghas</em> L.",
+        "ebooksearch": "Cerbera manghas",
+        "simnametitle": "<em>Cerbera</em> <em>manghas</em>",
+        "type": "M",
+        "code": "514 008 01 0",
+        "apgfamily": "Apocynaceae",
+        "chapgfamily": "夾竹桃科",
+        "family": "Apocynaceae",
+        "chfamily": "夾竹桃科",
+        "genus": "Cerbera",
+        "chgenus": "海檬果屬",
+        "fern": "no",
+        "chname": "海檬果",
+        "comname": "",
+        "comtype": "",
+        "endetype": ""
+      },
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "Tai2 treats the exact historical book binomial as a synonym of a different accepted name; Köhler facts remain attached to the book taxon and must not be reinterpreted as facts about the Taiwan accepted taxon."
+  ]
+}

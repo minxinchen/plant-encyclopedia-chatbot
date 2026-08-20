@@ -1,0 +1,155 @@
+{
+  "schema_version": "2.0",
+  "package_id": "kohler-volume-4:p0002-p0017:child-02:continuation-01",
+  "parent_entry_id": "kohler-volume-4:p0002-p0017",
+  "child_entry_id": "kohler-volume-4:p0002-p0017:child-02",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation-v2:kohler-volume-4:p0002-p0017:child-02:continuation-01:v1",
+  "owner_shard": "S08",
+  "package_sha256": "d33e80575cb99241886b2b76fd9c2646125c2c025b58705d841cd07e07be0911",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "prompt_version": "plant-structure-line-coordinates-v2",
+  "attempt_sha256": "59242464071a6c085bf395b6978724a476334bb552616b7a05fa92d4ac400bee",
+  "raw_response_sha256": "4bb95419b6e659fd1668d51ed46fdeb56b3d2d6bb91ade91dcb2ad66bb99101d",
+  "elapsed_seconds": 14.743,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 6,
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+      "char_start": 451,
+      "char_end": 758,
+      "source_line_start": 12,
+      "source_line_end": 13,
+      "page_text_sha256": "5271d56334889f3a033d541e6fb12cf490f21a0a5072955a971c0eec886ef7fb",
+      "exact_text_sha256": "0418b4ab98a0095535d67649de475b65050ce60d1ed80edcb2545f1fb8aabbee",
+      "section_index": 0,
+      "section_type": "taxonomy"
+    },
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 6,
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+      "char_start": 782,
+      "char_end": 2072,
+      "source_line_start": 21,
+      "source_line_end": 31,
+      "page_text_sha256": "5271d56334889f3a033d541e6fb12cf490f21a0a5072955a971c0eec886ef7fb",
+      "exact_text_sha256": "8fc26ad6aa181b1bc75190b7617951473939ec04cec487b9f8b071fd66a16979",
+      "section_index": 1,
+      "section_type": "description"
+    },
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 6,
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+      "char_start": 3923,
+      "char_end": 4441,
+      "source_line_start": 56,
+      "source_line_end": 63,
+      "page_text_sha256": "5271d56334889f3a033d541e6fb12cf490f21a0a5072955a971c0eec886ef7fb",
+      "exact_text_sha256": "6b53cf4c41bdd7e6e33819ac3d661ca2a9ad37653e68221c17b4b7f7e6e8152b",
+      "section_index": 2,
+      "section_type": "distribution"
+    },
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 7,
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+      "char_start": 1356,
+      "char_end": 2806,
+      "source_line_start": 19,
+      "source_line_end": 31,
+      "page_text_sha256": "ed3bcbff17d245db7fd95c516d58e5ce9be86b467360ed0ae5710231e50f9f56",
+      "exact_text_sha256": "15bb1dd7570fc67f1cdecb2df18cee58d2e7a95a17a22e8d9ad01a161a80aef3",
+      "section_index": 3,
+      "section_type": "historical_use"
+    },
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 8,
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+      "char_start": 52,
+      "char_end": 1012,
+      "source_line_start": 6,
+      "source_line_end": 12,
+      "page_text_sha256": "aa325119749bf9e832248753f6809cbbbb89d013989c3696f5917278e4a4bfa0",
+      "exact_text_sha256": "5ea41c1c965378305cc72aaedc340e8fe8b7bd3f39981aee56d00a60f1fff087",
+      "section_index": 4,
+      "section_type": "constituents"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-4:p0002-p0017:child-02:continuation-01",
+    "parent_entry_id": "kohler-volume-4:p0002-p0017",
+    "book_taxon": {
+      "scientific_name_candidate": "Boletus Satanas"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 6,
+        "source_line_range": [
+          12,
+          13
+        ],
+        "exact_source_quote": "           Familie     :    Polyporaceae.                   (R e i h e   :    Autobasidiomycetes)                         Tr b u s\n                                                                                                                                i       :   Boleteae.          G a 11 un g     :"
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 6,
+        "source_line_range": [
+          21,
+          31
+        ],
+        "exact_source_quote": "           Beschreibung*:                   Aus       einem     fadlichen,           im Waldhumus                    vegetierenden Gewebe,                    dem Myzel,\nentwickeln     sich,       wie       es      fiir    Amanita muscaria                     (Tafel 7) beschrieben wird, die Fruchtkorper des\n\nPilzes.    Diese gliedern sich in den Stiel imd                                dem diesem zentral aufsitzenden Hute.                                    Der         Stiel   ist\n\nam Grande dickbauchig und verjiingt sich allmahlich nach                                                 der     Spitze zu, sodaB er im ganzen eine\n\netwa bauchig-eiformige Gestalt besitzt.                             An       seinem Grande befindet                         sich,       wie bei alien Arten der\nGattung,      keine    Hiille,             auch       unterhalb         des Hutes          ist      kein sogenannter Ring vorhanden.                                Er mifit\n5   — 8 cm. Am Grande                      ist   er blut- oder          purpurrot,                 nach oben         zu heller, mehr oder minder gelb.\nIm unteren Teile ist er netzig-grubig, nach oben zu zeigt er eine feine rote Netzzeichnung.                                                                         Der Hut"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 6,
+        "source_line_range": [
+          56,
+          63
+        ],
+        "exact_source_quote": "           Vorkommen Der Satanspilz findet sich in Waldern, aber auch unter einzelnen Baumen.\n                                 :\n\n\n\nEr ist nicht gerade haufig, besonders soil er sich auf Muschelkalk gerne                                                              finden.      Er   ist    verbreitet\nin    Nord- und Mitteleuropa und wurde auch                                   an     einigen          Orten      der Vereinigten Staaten von Nord-\namerika gefunden, so bei Ticonderoga (New York) und in Nord-Carolina."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 7,
+        "source_line_range": [
+          19,
+          31
+        ],
+        "exact_source_quote": "             Lenz    verspiirte       schon heftige Beschwerden im Nervensystem und Verdauungskanal                                    beim\nZerkauen kleiner          Pilzstiicke,    die   jedoch     nicht    hinuntergeschluckt warden.                  Spater trat Mattigkeit\nund Erbrechen auf.           Schon die Ausdiinstung des               Pilzes       soil    sehr   anangenehm wirken.             Jedenfalls\nruft   im allgemeinen der GenuB des Pilzes                  schwere        Storungen        des Magendarmkanals             hervor.     Die\nSymptome,        die je   nach der genossenen Menge            friiher      oder      spater      eintreten,     sind Schwindelgefiihl,\nheftige      Leibschmerzen mit qualendem Angstgefiihl und eiskaltem SchweiB,                             fast unstillbares Erbrechen\n\nmit oft blutigem Durchfall.              Der Leib ist dabei so stark aufgetrieben, daB jede Beruhrung schmerzhaft\nist.   Der Puis ist klein, eine Ohnmacht folgt auf die andere.                             Der Tod tritt im tiefsten Kollaps ein.\nNach anderen Autoren soil der                Pilz   zwar    giftig,   jedoch        nicht    iibermaBig        gefahrlich    sein.     Nach\nMo Her ist er mehrfach ohne Schaden genossen worden und vereinzelt vorgekommene Vergiftungen\nsind meist giinstig verlaufen.                      M         nimmt         die    G-iftigkeit     des Pilzes      beim     Kochen oder\nTrocknen ab."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 8,
+        "source_line_range": [
+          6,
+          12
+        ],
+        "exact_source_quote": "                Bestandteile des Satanspilzes                        :    Wahrscheinlich                  ist    die    Giftwirkung des Satanspilzes auf\norganische Basen zuriickzutuhren.                         Der Pilz enthalt Cholin und nach Utz, zwar in geringer Menge,\neine zweite, Boletin genannte Base, die                               dem Cholin nahezustehen scheint.                                Sie bildet         nahezu weiBe\nKristalle, ist leicht loslich in                  Alkohol und verdiinnten                           Sauren,        fast    unloslich         in   Wasser, und gibt\nmit Platinchlorid und mit NeBlerschem                                    Eeagens         starke          kristallinische          Niederschlage,             wahrend sie\nmit      Tannin        und Jodjodkalium                 keine,       mit        Goldchlorid              und      Kaliumquecksilberjodid                     nur     geringe\nTriibungen gibt."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "9de2c8b09169153fa4d628da9786d1b83e96b322784326d27f358b25a33e4426"
+}

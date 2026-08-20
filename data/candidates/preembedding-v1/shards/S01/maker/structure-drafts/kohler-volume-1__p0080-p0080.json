@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0080-p0080",
+  "owner_shard": "S01",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 88.754,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0080-p0080",
+    "book_taxon": {
+      "scientific_name_candidate": "Quercus sessiliflora",
+      "authorship_candidate": null,
+      "aliases_candidates": [
+        "Quercus Robur Martyn",
+        "Quercus sessilis Ehrh."
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 80,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Quercus sessiliflora，同義名含 Q. Robur 及 Q. sessilis。俗名 Steineiche、Traubeneiche。",
+        "warnings": [],
+        "source_line_range": [
+          13,
+          21
+        ],
+        "exact_source_quote": "              Syn.    Q                            var. b. L.       Quercus Robu                                              Martyn\n                                                        Quercus     sessilis      Ehrh.\n\n\n      Steineiche,     Traubeneiche, Wintereiehe,                          Bergeiehe,           Deutsche Eiche                      holm-oak,\n\n                                                    scarlet -oak             Chene vert.\n\n             Familie: Cupuliferae.                 Gattung: Quercus."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 80,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "樹冠廣展，樹皮深裂。葉長柄，倒卵形，幼葉下側被毛，後變光滑。雄花序同 Stieleiche，雌花序緊密。",
+        "warnings": [],
+        "source_line_range": [
+          22,
+          39
+        ],
+        "exact_source_quote": "             Beschreibung.            Im Allgemeinen ist            die Steineiche der Stieleiche gleich,                       nur wird erstere\n\netwas weniger hoch, dahingegen gedrungener, starker und alter als die letztere.                                              Krone ausgebreitet,\nsehr    gleichmassig.       Borke schmal- und               tiefrissig.     Blatter          langgestielt   ,        verkehrt - eiformig   ,\n                                                                                                                                               buchtig\n\n(Buchten regelmassiger und                niclit   so tief in das Blatt eindringend als bei der Steineiche),                          am Grande\nwenig ansgerandet oder in den Blattstiel herablanfend                        ,\n                                                                                 jungere Blatter unterseits weichhaarig, spater\n\nmit kurzen, anliegenden Harchen bedeckt, znletzt kahl.                                Mannliches Katzchen wie bei der Stieleiche.\n\nStaubbeutel rothlich, spater gelblich.                 Weiblicher Bliithenstand in den oberen Blattwinkeln des jungen\nTriebes,      an sehr kurzer Spindel; Bltithen zu                  2—5 dicht gedrangt.                   Narbe purpurroth.            Friichte an\n\nsehr    verkiirzter   Spindel,       zu 2    — 5 geknauelt.         Eichel       etwas        kurzer und             mehr eiformig    als      bei der\n\nStieleiche.      Sonst    alles   wie bei letzterer."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 80,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分佈範圍小於 Q. pedunculata，不向北東延伸，但海拔更高，達 1300-1400 米，見於巴伐利亞森林及阿爾卑斯。",
+        "warnings": [],
+        "source_line_range": [
+          65,
+          73
+        ],
+        "exact_source_quote": "             Verbreitung.            Quercus        sessiliflora   hat ein geringeres Verbreitungsgebiet als pedunculata.\n\nErstere geht nicht so hoch nach Norden und nicht so weit nach Osten als letztere, dahingegen steigt\n\nsessiliflora    hoher in die Gebirge.               Sie erreicht eine Meereshohe                   von 1300— 1400 Meter und zwar im\nbairischen     Walde 714 m,          in    Baden 974 m, im Elsass 800 m,                      in   den sudlichen Alpen 1359\n                                                                                                                 i\n                                                                                                                                           m und in\nSiebenburgen 632 m."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 80,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源自 sessilis（坐生），因花與果實無柄。其他資訊參見 Quercus pedunculata。",
+        "warnings": [],
+        "source_line_range": [
+          74,
+          75
+        ],
+        "exact_source_quote": "             Name und Geschichtliches.                      Sessiliflora ist abgeleitet von sessilis sitzend, niedrig,                          wegen\nder sitzenden Bliithen und Friichte.                  Im ubrigen siehe Quercus pedunculata."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 80,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史上藥用部位為樹皮與果實，用法與 Quercus pedunculata 相同。",
+        "warnings": [],
+        "source_line_range": [
+          77,
+          77
+        ],
+        "exact_source_quote": "             Offlzinell sind Rinde und Friichte ganz in der Weise wie bei Quercus pedunculata."
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 80,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "圖版描述：開花與結果枝條，放大之雄花序、花被、雄蕊、花粉、雌花序、雌花及果實切面。",
+        "warnings": [],
+        "source_line_range": [
+          82,
+          89
+        ],
+        "exact_source_quote": "                                                          Tafelbesehreibung\n             A bluhender und B fruchtender Zweig in natiirl. Grosse;                    1     mannliches Katzchen, vergrossert; 2 Perigon\nder mannlichen Bliithe, desgl.; 3 Staubgefasse, desgl.; 4 Pollen, desgl.; 5 weiblicher Bliithenknaul, desgl.; 6 weibliche\nBliithe, zerschnitten, desgl.; 7 Frucht, natiirl. Grosse; 8 Same mit Fruchtschale, desgl.; 9 derselbe ohne\n                                                                                                             Fruchtschale\ndesgl.; 10   Frucht im Langsschnitt,        desgl.; 11 dieselbe im Querschnitt, desgl.; 12 Becher (Cupula) im Langsschnitt\n                                                                                                                                                     desgl\nNach der Natur von W. Muller."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "03b8ae0d5dd72bec84c3d4f5f58fac93c5f5c3d946263a41fd051db45b7b4a26"
+}

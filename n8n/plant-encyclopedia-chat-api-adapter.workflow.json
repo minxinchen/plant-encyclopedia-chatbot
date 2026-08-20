@@ -1,0 +1,70 @@
+{
+  "id": "PEChatApi001",
+  "name": "Plant Encyclopedia - Local Chat API Adapter",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "plant-encyclopedia-chat",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "id": "chat-webhook",
+      "name": "Local chat webhook",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [0, 0],
+      "webhookId": "plant-encyclopedia-chat"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{ $env.PLANT_ENCYCLOPEDIA_CHAT_API_URL + '/v1/chat' }}",
+        "sendHeaders": true,
+        "headerParameters": {"parameters": [{"name": "Content-Type", "value": "application/json"}]},
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ { question: $json.body?.question ?? $json.question, language: $json.body?.language ?? $json.language, top_k: $json.body?.top_k ?? $json.top_k ?? 8, include_images: $json.body?.include_images ?? $json.include_images ?? false } }}",
+        "options": {"timeout": 30000}
+      },
+      "id": "call-local-chat-api",
+      "name": "Call policy-first local chat API",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [300, 0]
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ $json }}",
+        "options": {}
+      },
+      "id": "return-chat-response",
+      "name": "Return portable JSON",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.4,
+      "position": [620, 0]
+    },
+    {
+      "parameters": {
+        "content": "## Local-only adapter\nInactive by design. When explicitly activated, this webhook forwards one question to the policy-first local API named by `PLANT_ENCYCLOPEDIA_CHAT_API_URL`. The API key never enters the workflow. The response retains Taiwan names, source/page citations and refusal status. This is not a public release configuration.",
+        "height": 280,
+        "width": 620
+      },
+      "id": "adapter-contract",
+      "name": "Portable adapter contract",
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [0, -360]
+    }
+  ],
+  "connections": {
+    "Local chat webhook": {"main": [[{"node": "Call policy-first local chat API", "type": "main", "index": 0}]]},
+    "Call policy-first local chat API": {"main": [[{"node": "Return portable JSON", "type": "main", "index": 0}]]}
+  },
+  "settings": {"executionOrder": "v1"},
+  "active": false,
+  "versionId": "acfe1675-8538-46c2-99ab-86f6b4043a68",
+  "meta": {"templateCredsSetupCompleted": false},
+  "tags": []
+}

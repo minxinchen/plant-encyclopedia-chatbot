@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 259,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "856c9ab85b34c9c7bf9e38693f97035861f8efffd7789d42785be7e23224af26",
+  "render_dpi": 144,
+  "render_sha256": "4f668cd52658934ae8e32f20b0ecd16a5f78b7009fecdf39ab5284b0f800b7ea",
+  "input_sha256": "4f668cd52658934ae8e32f20b0ecd16a5f78b7009fecdf39ab5284b0f800b7ea",
+  "render_pixel_width": 5894,
+  "render_pixel_height": 7982,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 5.156,
+  "embedded_character_count": 142,
+  "ocr_character_count": 51,
+  "ocr_alpha_ratio": 0.6471,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.019082510282122933,
+      "text": "Cannabineae.",
+      "width": 0.10724647578334871,
+      "x": 0.058771642382569614,
+      "y": 0.943332150009364
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "8",
+      "width": 0.0118110239145498,
+      "x": 0.2814960627966621,
+      "y": 0.1700581398380835
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883082859107,
+      "text": "10",
+      "width": 0.02165354362984806,
+      "x": 0.5177165350551547,
+      "y": 0.1686046513946169
+    },
+    {
+      "confidence": 1,
+      "height": 0.018970329610128234,
+      "text": "Cannabis sativa I.",
+      "width": 0.15354330192243115,
+      "x": 0.41732283876319387,
+      "y": 0.13219246064002954
+    },
+    {
+      "confidence": 1,
+      "height": 0.011870203983216143,
+      "text": "W. Müller.",
+      "width": 0.06503939964852934,
+      "x": 0.8444488047621422,
+      "y": 0.13214629362524932
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "13.",
+      "width": 0.015748031032093435,
+      "x": 0.899606299346158,
+      "y": 0.0232558141584277
+    }
+  ],
+  "text": "Cannabineae.\n8\n10\nCannabis sativa I.\nW. Müller.\n13.",
+  "output_sha256": "ca976d59a4ffb95ac4bba40a44fcab84f0a1dc1fe90ddfe45e6e0d3253d4ae11",
+  "receipt_sha256": "222ede27c1b5723218baee5e2f91728607b0c8e6ad342b13bdb2668728e3d41b"
+}

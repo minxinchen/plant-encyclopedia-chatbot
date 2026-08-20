@@ -1,0 +1,146 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-1:p0029-p0030",
+  "owner_shard": "S01",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S01/maker/structure-drafts/kohler-volume-1__p0029-p0030.json",
+  "source_draft_sha256": "a691acc55bfc379ccae23f4adbe047f1e7004be149d76f1ea700da2136565a65",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "bf7c6dfe4fbcf2368c58d8af0ebf3899b9e314752470a66d31b62adcbd5d732f",
+    "validation_check_sha256": "292cc1efbb17044bfa65a663f3966a451df1d9e352eab88bbad4f83e70b38adf",
+    "source_disposition_sha256": "c37a786a90d2a067482274e035f63dedbebe645ece6c2042e23dc7a516e52027",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Pinus silvestris",
+    "authorship_candidate": null,
+    "aliases_candidates": [
+      "Kiefer",
+      "Fohre",
+      "Kienbaum",
+      "Scotch Fir",
+      "Pin-sauvage"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Pinus silvestris",
+      "Pinus sylvestris"
+    ],
+    "accepted_scientific_name": "Pinus sylvestris",
+    "display_name_zh_tw": "歐洲松",
+    "alternative_names_zh_tw": [
+      "歐洲赤松"
+    ],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0075319",
+    "rationale": "TaiCOL's nameMatch for the book spelling Pinus silvestris returns the accepted species Pinus sylvestris, taxon t0075319, with Taiwan public name 歐洲松 and cultured-in-Taiwan metadata. Taiwan Forestry Research Institute and the Ministry of Agriculture Knowledge Entry independently pair Pinus sylvestris with 歐洲赤松.",
+    "checked_at": "2026-08-13T13:12:00+08:00",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol_book_alias"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Pinus silvestris",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Pinus+silvestris",
+      "retrieved_at": "2026-08-13T13:08:46+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Pinus sylvestris",
+          "matched_name_id": 58880,
+          "taxon_id": "t0075319",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Pinus sylvestris",
+          "accepted_name_id": 58880,
+          "accepted_usage": [
+            {
+              "usage_id": 42416,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0075319",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0075319",
+          "taxon": {
+            "taxon_id": "t0075319",
+            "taxon_status": "accepted",
+            "name_id": 58880,
+            "simple_name": "Pinus sylvestris",
+            "name_author": "L.",
+            "rank": "Species",
+            "common_name_c": "歐洲松",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Scotch fir",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Scotch+fir",
+      "retrieved_at": "2026-08-13T13:08:47+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Pinus silvestris",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Pinus%20silvestris",
+      "retrieved_at": "2026-08-13T13:08:49+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taiwan_tfri",
+      "authority": "農業部林業試驗所",
+      "query_name": "Pinus sylvestris",
+      "record_url": "https://www.tfri.gov.tw/News_Content2.aspx?n=7498&s=11109",
+      "retrieved_at": "2026-08-13T13:12:00+08:00",
+      "exact_name_pair": {
+        "scientific_name": "Pinus sylvestris",
+        "chinese_name": "歐洲赤松"
+      },
+      "assertion_scope": "external_taiwan_public_name_only",
+      "evidence_source_scope": "taiwan_government_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "The book spelling silvestris is normalized to TaiCOL's accepted spelling sylvestris.",
+    "歐洲松 is the TaiCOL display name; 歐洲赤松 is retained as a Taiwan government/forestry alternative name."
+  ]
+}

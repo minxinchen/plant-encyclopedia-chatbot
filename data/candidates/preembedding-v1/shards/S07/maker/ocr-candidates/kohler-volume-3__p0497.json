@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 497,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "f6993b6ccf0f6768a4f04c5390d1206af14ae862669f893db1883bc9448edde8",
+  "render_dpi": 144,
+  "render_sha256": "924de88d38150201f3128fb6937f1d33c7622426ae5b2236d6e961733cd33225",
+  "input_sha256": "924de88d38150201f3128fb6937f1d33c7622426ae5b2236d6e961733cd33225",
+  "render_pixel_width": 5570,
+  "render_pixel_height": 8342,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.116,
+  "embedded_character_count": 90,
+  "ocr_character_count": 51,
+  "ocr_alpha_ratio": 0.8431,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.022447075162615016,
+      "text": "Compositae",
+      "width": 0.1024793083565019,
+      "x": 0.045499477278841544,
+      "y": 0.9546194857116519
+    },
+    {
+      "confidence": 1,
+      "height": 0.01889534791310621,
+      "text": "(Calenduleae)",
+      "width": 0.09782608054899353,
+      "x": 0.047826090975503215,
+      "y": 0.9360465121262957
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "A",
+      "width": 0.01521739137828082,
+      "x": 0.600000000098903,
+      "y": 0.3139534884209325
+    },
+    {
+      "confidence": 1,
+      "height": 0.023727393339550762,
+      "text": "Calendula officinalis I.",
+      "width": 0.19794957244555622,
+      "x": 0.4303730398436799,
+      "y": 0.04918281566379279
+    }
+  ],
+  "text": "Compositae\n(Calenduleae)\nA\nCalendula officinalis I.",
+  "output_sha256": "de040134f5610cdedc8e630ce51f30b5dadc767999535d1708aead04b570593f",
+  "receipt_sha256": "e96c136b9afbcc1ecc2bb48ce44b00ecd362a0fdfca0493baeca4ecb2e8989c7"
+}

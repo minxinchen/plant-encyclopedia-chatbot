@@ -1,0 +1,277 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0121-p0124",
+  "entry_id": "kohler-volume-2:p0121-p0124",
+  "owner_shard": "S03",
+  "book_taxon": {
+    "scientific_name": "Cubeba officinalis",
+    "authorship": "Miquel",
+    "aliases": [
+      "Piper Cubeba L. fil",
+      "Cubeba Karst.",
+      "Cubeben",
+      "Cubebenpfeffer",
+      "Cubébes",
+      "Cubebs"
+    ]
+  },
+  "display_name": "簍澄茄",
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Cubeba officinalis",
+      "Piper cubeba"
+    ],
+    "accepted_scientific_name": "Piper cubeba",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T15:53:56+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Cubeba+officinalis",
+        "query_name": "Cubeba officinalis",
+        "retrieved_at": "2026-08-13T15:53:55+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Piper+cubeba",
+        "query_name": "Piper cubeba",
+        "retrieved_at": "2026-08-13T15:53:56+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0075323",
+        "query_name": "Piper cubeba",
+        "retrieved_at": "2026-08-13T15:53:56+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0075323",
+        "query_name": "Piper cubeba",
+        "retrieved_at": "2026-08-13T15:53:56+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "A scientific alias explicitly printed in the Köhler entry exactly matches a TaiCOL species with a Taiwan public name."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 121,
+      "evidence_type": "text",
+      "page_text_sha256": "57ad2ee5813c56a2bb1f7df627d0a649641ac8f0f6caca6b1d9c985dd21ee55e",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 122,
+      "evidence_type": "text",
+      "page_text_sha256": "5d08ccd232ebecf08cd6371c45fa6c04fa208065d1e5333b38d1585687db4edd",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 123,
+      "evidence_type": "text",
+      "page_text_sha256": "9e5828b7655f371a02f02ca5ea2ccacfcb187888ce2eef9181e29fd74e942821",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0121-p0124:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                     Cubeba officinalis Miquel.\n                           Syn. Piper Cubeba L. fil              Cubeba   Cubeba Karst.\n\n                           Cubeben, Cubebenpfeffer 一               Cubébes —        Cubebs.\n\n             Familie: Piperaceae.         Gattung: Cubeba Miq.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Cubeba officinalis Miquel，同義名 Piper Cubeba，屬胡椒科。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 121,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 308,
+        "page_text_sha256": "57ad2ee5813c56a2bb1f7df627d0a649641ac8f0f6caca6b1d9c985dd21ee55e",
+        "exact_text_sha256": "8ccec62e609cff847b06d9c9c038f6109e2fb6513ce9c4e291de2927985773d4",
+        "source_line_start": 1,
+        "source_line_end": 6,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "8ccec62e609cff847b06d9c9c038f6109e2fb6513ce9c4e291de2927985773d4",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0121-p0124:s01:x00",
+      "section_type": "description",
+      "original_text": "          Beschreibung. Kletternder, bis 6 Meter hoher, holziger, diöcischer Strauch, mit cylindrischen,\n an den Knoten verdickten, im jüngeren Alter feinhaarigen, später kahlen, gabeltheiligen Aesten. Blätter\n abwechselnd, lederartig, kurz gestielt, kahl, 8—15 Ctm. lang, 4—6 Ctm. breit, sehr fein durch-\n scheinend punktirt, oberseits matt, unterseits blasser, die der männlichen Pflanze lánglich - elliptisch,\n die der weiblichen eifórmig-elliptisch, bei beiden Geschlechtern zugespitzt, am Grunde schief herz-\n förmig, der linke Lappen weiter herabgezogen, fiedernervig, die Hauptnerven unterseits stärker hervor-\n tretend. Blattstiel rinnenfórmig, 5—10 Mm. lang. Blüthenstände blattgegenstündige Aehren bildend.\n Männliche Blüthenähre schlank, walzenförmig, auf 8 Mm. langem Stiele; Deckblütter rautenfórmig,\n sitzend, kahl, schraubig geordnet, mit 2 Staubgefässen, deren eiförmige, zweifächerige Beutel der Länge\n nach nach aussen     sich öffnen.    Weibliche       Blüthenähre     walzenrund,   derber, dicker, vielblüthig, mit\nlänglichen, beiderseits abgerundeten, eingebogen-randigen, etwas herablaufenden, innen behaarten\nBlüthendeckblättern. Der eiförmige Fruchtknoten einfächerig, mit einer grundständigen, aufrechten\nSamenknospe und fast sitzender Narbe. Fruchtkolben 4 一 5 Ctm. lang, gestielt, übergebogen, aus un-\ngefähr 50 erst sitzenden, später zu 1 Otm. langen, nicht abgegliederten Stielen ausgezogenen Beeren\nbestehend.    Letztere fast kugelig, 4—5 Ctm. im Durchmesser, mit ihren Stielen abstehend.      Der\nkugelige Same nur am Grunde mit dem Fruchtgehäuse verwachsen, mit am Scheitel. ausgezogener\nkleiner Spitze; unter letzterer befindet sich der vom bleibenden Endosperm sackartig umschlossene,\nkurz zweilappige kleine Embryo, dessen Würzelchen nach oben gerichtet ist.",
+      "normalized_text": null,
+      "zh_tw_rendering": "攀援灌木，高至6米，雌雄異株。葉互生，革質，長8-15公分，具細點。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 121,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 309,
+        "char_end": 2104,
+        "page_text_sha256": "57ad2ee5813c56a2bb1f7df627d0a649641ac8f0f6caca6b1d9c985dd21ee55e",
+        "exact_text_sha256": "1702618307dc0975cf8c03d81793715f58fbaac36b30a869bf324fe49d08d310",
+        "source_line_start": 7,
+        "source_line_end": 24,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "1702618307dc0975cf8c03d81793715f58fbaac36b30a869bf324fe49d08d310",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0121-p0124:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "          Anatomisches. Das ca. ‫لو‬‎ Mm. dicke, in der Mittelschicht markige Fruchtgehüuse ist mit\nder pergamentartigen, innen glänzenden Steinschale verwachsen.        Unter der Epidermis befindet sich\neine einfache, hier und da auch doppelte, an einzelnen Stellen unterbrochene Reihe kleiner polyedrischer\noder würfelförmiger Steinzellen. Die mittlere, breite Fruchtschicht zeigt ein kleinzelliges, von grossen,\nelliptischen Oelzellen unterbrochenes Parenchym, dessen Zellen Oeltropfen, Stärkekörner und Krystall-\ngruppen von Cubebin einschliessen. Auch die Oelzellen enthalten oft Nadeln von Cubebin. Die innere\nFruchtschicht besteht aus ca. 4 Reihen grósserer, tangential gestreckter, zarter, nur ólführender Zellen,\nan die sich die aus einer Reihe, im Querschnitt stark radial gestreckter, verholzter, blassgelb gefärbter\nSteinzellen bestehende Steinschale anschliesst. Der gewöhnlich unreife und in der Regel zusammen-\ngefallene, rundliche, am Grunde mit einem grossen dunkeln Nabel versehene und an der Spitze ein-\ngebuchtete     Samenkern   besitzt eine aussen braunrothe, innen farblose Samenhaut           und ein darunter be-\nfindliches    schmutzig-weisses    oder    bräunliches,   nach innen mehliges Eiweiss,    welches   aus einem,   mit\nvielen Oelzellen    durchsetzten   Parenchym      besteht, dessen Zellen radiale Anordnung     zeigen und formlose z\n‘Stärke oder zusammengeballte, sehr kleine Stürkekórner enthalten.",
+      "normalized_text": null,
+      "zh_tw_rendering": "果皮含石細胞與油細胞，內含Cubebin結晶。種子含胚乳與油細胞。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 121,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2105,
+        "char_end": 3543,
+        "page_text_sha256": "57ad2ee5813c56a2bb1f7df627d0a649641ac8f0f6caca6b1d9c985dd21ee55e",
+        "exact_text_sha256": "a97aea04e283718ff65b9ab2311a8a8a73b66d2095428cf1e7e776fe4211199e",
+        "source_line_start": 25,
+        "source_line_end": 38,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "a97aea04e283718ff65b9ab2311a8a8a73b66d2095428cf1e7e776fe4211199e",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0121-p0124:s03:x00",
+      "section_type": "distribution",
+      "original_text": "        Vorkommen.      Auf Java, Sumatra un   d   im   süd lic hen   Bor neo  ein hei mis ch.    Au f   Jav a   und  .\nSumatra sowie auf den Antillen kultivirt und dor t nam ent lic h    zur Bes cha ttu ng   der   Kaf fee pfl anz ung en\nbenutzt.",
+      "normalized_text": null,
+      "zh_tw_rendering": "原產爪哇、蘇門答臘及南婆羅洲，亦栽培於安地列斯群島以遮蔭咖啡。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 122,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 246,
+        "page_text_sha256": "5d08ccd232ebecf08cd6371c45fa6c04fa208065d1e5333b38d1585687db4edd",
+        "exact_text_sha256": "d7561fe453a1a643d220574065d73c341e9cb071ccca384a9bc53a9897a45d00",
+        "source_line_start": 1,
+        "source_line_end": 3,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "d7561fe453a1a643d220574065d73c341e9cb071ccca384a9bc53a9897a45d00",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0121-p0124:s04:x00",
+      "section_type": "history",
+      "original_text": "         Name und Geschichtliches.    Cubeba, Cubab oder Cababa (mittelhochd. Cubebe, Cubebin,\nCubebli, Kuben, Kyperber, bei Hildegard Oubebo), arabisch Kababah ist wahrscheinlich indischen\nUrsprunges     und    soll soviel   wie Braten   oder   das Gewürz   bedeuten,   mit dem man     den Braten    würzt.\n Piper, wézcegu, arabisch babary, persisch biber ist gleichen Ursprunges.\n           Kubeben waren schon im 9. Jahrhundert den arabischen Aerzten bekannt und von deren\n Wirkung auf die Harnwerkzeuge hatte man zu jener Zeit schon Kenntniss; ebenso kannte man\n damals schon das Vaterland der Droge, Java. Das Carpesium (Kagzréovoy) der Alten ist aller Wahr-\n scheinlichkeit nach nicht, wie man früher annahm, mit Kubeben gleichbedeutend. Dem Edrisi ist die\n Einführung der Droge in Aden schon um 1153 bekannt gewesen. Im 12. und 13. Jahrhundert wurden\n Kubeben von den Aerzten der salernitaner Schule benutzt, jedoch zu jener Zeit, nach dem Zeugniss\n des Mariano Sanudo (1306), zu den Seltenheiten gezählt, denn letzterer führt Kubeben unter den\n kostbaren Gewürzen auf. Hildegard berichtet von Cubebo, dem sie eine beruhigende Wirkung zu-\nschrieb.     Im 13. Jahrhundert findet man Kubeben als Einfuhrartikel in London. Marco Polo und\n namentlich Barbosa (1516) bestátigten die Meinung bezüglich der Heimath der Droge, nümlich, dass\n sie aus Java stamme. Von 1400—1500 werden Kubeben in den verschiedenen Arzneitaxen Deutsch-\n lands aufgeführt; 1609 auch das ätherische Oel. Die Mutterpflanze ist 1781 von Linné fil. beschrieben\n worden.     Zu Anfang dieses Jahrhunderts waren die Kubeben aus dem Arzneischatze verschwunden,\n in den sie durch die englischen Aerzte auf Java (namentlich Crawford, der die in den ostasiatischen\n Ländern längst bekannte antiblennorrhagische Wirkung der Kubeben ausserordentlich rühmte) um 1818\n wieder eingeführt wurden.",
+      "normalized_text": null,
+      "zh_tw_rendering": "9世紀阿拉伯醫師已知，12世紀薩勒諾學派使用，1818年英國醫師重新引入。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 122,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 279,
+        "char_end": 2138,
+        "page_text_sha256": "5d08ccd232ebecf08cd6371c45fa6c04fa208065d1e5333b38d1585687db4edd",
+        "exact_text_sha256": "d1641834202c0f32d3304e7742f9fe5169ab90e0b76af7d99231129be934a0dd",
+        "source_line_start": 7,
+        "source_line_end": 26,
+        "section_index": 4,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "d1641834202c0f32d3304e7742f9fe5169ab90e0b76af7d99231129be934a0dd",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0121-p0124:s05:x00",
+      "section_type": "constituents",
+      "original_text": "|            . Bestandtheile.         Schmidt        fand   14,2%, ätherisches   Oel mit einem      sich später abscheidenden\n    Stearopten Kubebenkampfer, 2,49, Cubebin, 6,9%, braunen Farbst\n                                                                   off, 8,2%, Gummi, 1,7%, Stärkemehl,\n    2,7%, Eiweiss,      4,2%, Extraktivstoff,        0,96°/, saures Harz, 2,5%), indifferentes      Harz,   1,2?/, grünes, fettes\n    Oel, 0,5%, Fettsubstanz,          ausserdem        phosphorsauren,     oxalsauren,    apfelsauren Kalk       und apfelsaure\n    Talkerde.\n              Cubebensáure, C,,H,,0, (Schmidt), Cos ‫لوو‬‎0, (Schulze) nach vorgängigen Beobachtungen\n    von Monheim          und    Bernatzik      von    Sehmidt      genau   untersucht,   in einer    Ausbeute   von   1,7%,   aus\n    den Kubeben gewonnen, bildet in reinem Zustande eine weisse, harzartige, unter den Fing\n                                                                                                       ern er-\n    weichende, bei 56? (65? Schmidt) schmelzende, nicht krystallisirbare Masse, die sich an der Luft\n    allmählig braun färbt; sie ist fast geschmacklos und sauer reagirend, leicht löslich in Weingeist, Aether,\n    Chloroform      etc., nicht löslich in Wasser.\n",
+      "normalized_text": null,
+      "zh_tw_rendering": "含14.2%揮發油、2.49%Cubebin、Cubebensäure、樹脂、澱粉及蛋白質。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 123,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 1266,
+        "page_text_sha256": "9e5828b7655f371a02f02ca5ea2ccacfcb187888ce2eef9181e29fd74e942821",
+        "exact_text_sha256": "050b95deba07f9053e3941314c9c3a72b7f58ef3e01a729ec6914015d38babd0",
+        "source_line_start": 1,
+        "source_line_end": 14,
+        "section_index": 5,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "050b95deba07f9053e3941314c9c3a72b7f58ef3e01a729ec6914015d38babd0",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "The Taiwan accepted name is linked through a scientific alias printed in Köhler; Köhler facts remain attached to the book taxon.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "87c6bc82ee6ea876f9e15520b38af6f54db7350a446a1dc7cc84e78b5a2b6a66",
+    "maker_receipt_sha256": "39bc44a6a6ce348012097845ac6303eef2e6c3747945f1a056823adba4f51fc5",
+    "validation_check_sha256": "1db2885d723d86971a36b23abae94eec9ae40fa728efdf62b75c8c2fb9519088",
+    "source_disposition_sha256": "789c41877bcf17e8fe8b6fcd57edf22555d1a696233cc5ccb81b02e56f15f1bb",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "39bc44a6a6ce348012097845ac6303eef2e6c3747945f1a056823adba4f51fc5",
+      "validation_check_sha256": "1db2885d723d86971a36b23abae94eec9ae40fa728efdf62b75c8c2fb9519088",
+      "source_disposition_sha256": "789c41877bcf17e8fe8b6fcd57edf22555d1a696233cc5ccb81b02e56f15f1bb"
+    },
+    "naming_artifact_sha256": "4c5f3a7b7f14c407d3c5d78edc82fce1e375fd14fafa526a016a7eece91efb05"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "4b40e0a950e5248f34019f6d1f7f459542869368d2f08472a2a34b08dbd4103b"
+}

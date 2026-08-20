@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 257,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "2a48d303071e52532cc69dd85c05fcd5ceaee43ddf42b8cac9f42b1c0a64bb69",
+  "render_dpi": 144,
+  "render_sha256": "675e37de4d657b7ebf01b5f57c8652e4422e2f7b39d25227cbda259a147147df",
+  "input_sha256": "675e37de4d657b7ebf01b5f57c8652e4422e2f7b39d25227cbda259a147147df",
+  "render_pixel_width": 5798,
+  "render_pixel_height": 7982,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.8,
+  "embedded_character_count": 286,
+  "ocr_character_count": 55,
+  "ocr_alpha_ratio": 0.7273,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.024314662766835027,
+      "text": "Compositae.",
+      "width": 0.096475938399904,
+      "x": 0.0697620299250188,
+      "y": 0.9384240642076817
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "B",
+      "width": 0.015999999062599968,
+      "x": 0.6860000006287,
+      "y": 0.40406976759507707
+    },
+    {
+      "confidence": 1,
+      "height": 0.019580228934212407,
+      "text": "Arnica montana l.",
+      "width": 0.15615434353668944,
+      "x": 0.4099228297335922,
+      "y": 0.1290180257704291
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883082859107,
+      "text": "fem. u. lith W. Müller.",
+      "width": 0.12000000208311112,
+      "x": 0.7880000001584444,
+      "y": 0.12790697712136112
+    }
+  ],
+  "text": "Compositae.\nB\nArnica montana l.\nfem. u. lith W. Müller.",
+  "output_sha256": "891d590f1d542d970062ef087d68782b3c7d8344d13a8b6ebb30de849564b280",
+  "receipt_sha256": "bf07903d57d2fe521228191616a19aaa8a12f2c8b6f1dcfceb84968bf1477b94"
+}

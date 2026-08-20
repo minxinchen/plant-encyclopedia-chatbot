@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-3:p0115-p0118",
+  "owner_shard": "S06",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 150.778,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-3:p0115-p0118",
+    "book_taxon": {
+      "scientific_name_candidate": "Cicuta virosa",
+      "authorship_candidate": "L.",
+      "aliases_candidates": [
+        "Cieutaria aquatica Lam.",
+        "Coriandrum Cicuta Roth",
+        "Cicuta aquatica Gesner",
+        "C. tenuifolia Koch",
+        "C. angustifolia Kitaibel"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 115,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "同義名：Cieutaria aquatica Lam. 科：Umbelliferae Juss. 亞科：Orthospermae Juss. 屬：Cieua L.",
+        "warnings": [],
+        "source_line_range": [
+          6,
+          9
+        ],
+        "exact_source_quote": "          Syn.     Cieutaria   aquatica Lam.     —    Coriandrum     Cicuta Roth.\n\n          Familie: Umbelliferae        Juss.     Unterfamilie:          Orthospermae        Juss.     Section:        Ammineae\nKoch.     Gattung: Cieua L."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 115,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "多年生毒草，生長於靜水。根莖5-7公分，橫向根。莖高0.5-1.5公尺，中空，上部多分枝。",
+        "warnings": [],
+        "source_line_range": [
+          10,
+          18
+        ],
+        "exact_source_quote": "        Beschreibung.    Eine ausdauernde, in stehendem oder langsam fliessendem Wasser\nwachsende, sehr giftige Staude.    Das Rhizom ist 5—7 cm lang, kurz rübenförmig, an der\nSpitze abgestutzt, aussen grünlich oder weisslich, geringelt, innen weissfleischig, hohl, durch\nQuerwände gefächert. Aus der verletzten Wurzel tritt ein fast weisser, aromatisch riechender\nBalsam hervor, der an der Luft mehr und mehr gelb, endlich rot und stinkend wird.           Die\nWülste des Rhizoms sind mit fleischigen,                federkieldicken, weisslichen, langen, horizontalen\nNebenwurzeln quirlig besetzt.     Aus dem Rhizom entspringt meist nur ein unten rötlicher,\noben grasgrüner, nicht bereifter, kahler, stielrunder, zartgeriefter, hohler, knotiger, 0,5—1,5 m\nhoher, 1 bis 2 cm dicker, oben sehr verzweigter Stengel mit oft gegenständigen Asten.                                      Die"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 116,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分佈於歐洲及北亞多水地區，如池塘邊、溝渠及沼澤。北美洲由Cicuta maculata取代。",
+        "warnings": [],
+        "source_line_range": [
+          37,
+          39
+        ],
+        "exact_source_quote": "           Vorkommen.            Die Pflanze       findet sich in wasserreichen                Gegenden      nicht selten        an\nTeichrändern,      in Wassergräben,            Sümpfen         und    an überschwemmten         Orten,    durch ganz Europa\nund Nordasien zerstreut.              In Nordamerika wird sie durch die nachfolgende Art ersetzt."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 117,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "根皮含大型裂生油囊，寬200-300微米。木質部及韌皮部無油囊。髓部發達，具寬髓射線。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          6
+        ],
+        "exact_source_quote": " folgt ein polyedrisches, mit grossen schizogenen Ölbehältern durchsetztes Rind parenchym. Die\n Olbehälter haben bei kreisföormigem oder ovalem Querschnitt eine Weite von 200 bis 300 u\n und sind von einer Scheide von 14—16 nach dem Inneren des Hohlraumes papillös hervor-\n ragenden     senkrechten            Zellreihen      gebildet      Sie fehlen      dem        ziemlich    undeutlich        abgegrenzten\n Holzkörper vollständig, ebenso dem Phlo&mteil. Das Mark ist wenig entwickelt, zeigt aber\n breite Markstrahlen und ist, wie das Holz vollständig frei von Ölbehältern.— Ähnliche Verhält-"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 117,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史上根與莖葉曾入藥，用於消散腫塊及外敷軟化。現已不再使用。",
+        "warnings": [
+          "Historical medical content described as historical, not advice."
+        ],
+        "source_line_range": [
+          34,
+          38
+        ],
+        "exact_source_quote": "       Offieinell war früher die Wurzel der Pflanze als Radix Cicutae aquaticae und das\nKraut als Herba Oicutae aquaticae. Die Wurzel wurde als zerteilendes Mittel gerühmt und\nfand Anwendung zur Vertreibung von Geschwülsten, Ueberbeinen, inneren Geschwüren und\ndergleichen.        —    Das     Kraut       wurde     überall    da angewandt,          wo     man     heute    Conium      maculatum       L.\nbenützt, also besonders äusserlich als Zusatz zu erweichenden Spezies. Heut ist es nicht"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 118,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "有效成分為Cicutoxin，1868年Ankum分離，Böhm純化。乾燥根含3.5%，新鮮根含0.2%。",
+        "warnings": [],
+        "source_line_range": [
+          5,
+          10
+        ],
+        "exact_source_quote": "            Bestandteile. Ver     geb lic h  suc hte   man   im    äth eri sch en   Öle  ode r  in   ein em   flü cht ige n\n oder nicht flüchtigen Alkaloid oder Glycosid nach der verderbenbringenden Wirkung der\n Pfl anz e.   Das  äth eri sch e Öl  erw ies  sich   als gef ahr los ;  ein  Alk alo id ode r  Gly cos id   abe r  wur de\n nicht gefunden. Im Jahre 1868 gelang es Ankum in Gestalt eines indifferenten Harzes das\n wirksame Prinzip des Wasserschierlings zu isolieren, welches von Böhm        später rein dar-\n gestellt und Cieutoxin benannt wurde. .Zu seiner Bereitung wurde das ätherische Extrakt"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "142f8bc96e92202857cd3c97aa67c256bd1c054a222a63f0172bae8f11992381"
+}

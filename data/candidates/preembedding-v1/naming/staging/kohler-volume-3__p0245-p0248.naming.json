@@ -1,0 +1,150 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-3:p0245-p0248",
+  "owner_shard": "S07",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S07/maker/structure-drafts/kohler-volume-3__p0245-p0248.json",
+  "source_draft_sha256": "e9e790475825f7130a70399cb0a0b2652efa491a535091d6313d09ef7d66da1c",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "ce6367a4e260daa09fad5ba80d05f1e4e696ef1a77205023f1af5f8ca2121de3",
+    "validation_check_sha256": "f6218f9025e443403169111614e01a8da4a132b8177b62901e683a89e6449b48",
+    "source_disposition_sha256": "7dabd4a0089cd0a4ca5f2b1ca86c85e581b581570b321711ad986bca2b309c50",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Aspidosperma Quebracho",
+    "authorship_candidate": "Schlechtendal",
+    "aliases_candidates": [
+      "Aspidosperma Quebracho-blanco Schlechtendal",
+      "Macaglia Quebracho Rich.",
+      "Peltosperma Quebracho DO.",
+      "Ostreocarpus Quebracho Rich."
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Aspidosperma Quebracho",
+      "Aspidosperma quebracho"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_zh_tw": null,
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_checked",
+    "taxon_id": null,
+    "rationale": "TaiCOL and Tai2 returned no exact Taiwan species record or public Chinese name. Kew POWO resolves Aspidosperma quebracho Griseb. to the accepted Aspidosperma quebracho-blanco Schltdl., matching the explicit Köhler alias, but supplies only the non-Chinese vernaculars quebracho blanco and white quebracho. No Taiwan government or academic source pairing the species with a Traditional Chinese public name was found, so the Taiwan naming result remains unresolved rather than using an unverified translation.",
+    "checked_at": "2026-08-13T13:39:04+08:00",
+    "display_name_source_scope": "unresolved",
+    "display_name_source_evidence_ids": [],
+    "display_name_is_taiwan_public": false,
+    "display_name_answer_policy": "scientific_name_only"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Aspidosperma Quebracho",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Aspidosperma+Quebracho",
+      "retrieved_at": "2026-08-13T13:38:12+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Aspidosperma quebracho",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Aspidosperma+quebracho",
+      "retrieved_at": "2026-08-13T13:38:12+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Aspidosperma quebracho-blanco",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Aspidosperma+quebracho-blanco",
+      "retrieved_at": "2026-08-13T13:38:12+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Macaglia quebracho",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Macaglia+quebracho",
+      "retrieved_at": "2026-08-13T13:38:12+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Peltosperma quebracho",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Peltosperma+quebracho",
+      "retrieved_at": "2026-08-13T13:38:12+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Ostreocarpus quebracho",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Ostreocarpus+quebracho",
+      "retrieved_at": "2026-08-13T13:38:12+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Aspidosperma quebracho",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Aspidosperma%20quebracho",
+      "retrieved_at": "2026-08-13T13:38:15+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "kew_powo",
+      "authority": "Royal Botanic Gardens, Kew — Plants of the World Online",
+      "query_name": "Aspidosperma quebracho",
+      "record_url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77440-1",
+      "retrieved_at": "2026-08-13T13:39:04+08:00",
+      "evidence_excerpt": "Aspidosperma quebracho Griseb. is listed as a synonym of accepted Aspidosperma quebracho-blanco Schltdl.; common names include quebracho blanco and white quebracho",
+      "assertion_scope": "external_scientific_name_metadata_only",
+      "evidence_source_scope": "non_taiwan_scientific_authority"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Preserve Aspidosperma quebracho-blanco or white quebracho when needed; do not present an unverified Chinese translation as a Taiwan public plant name.",
+    "Do not confuse this white-quebracho species with Aspidosperma quebracho-colorado, which Kew maps to Schinopsis lorentzii in another family.",
+    "The external taxonomy evidence is metadata only and does not supply Köhler plant facts."
+  ]
+}

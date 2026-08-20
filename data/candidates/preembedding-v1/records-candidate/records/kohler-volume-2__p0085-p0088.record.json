@@ -1,0 +1,275 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0085-p0088",
+  "entry_id": "kohler-volume-2:p0085-p0088",
+  "owner_shard": "S03",
+  "book_taxon": {
+    "scientific_name": "Amygdalus eommunis",
+    "authorship": "L.",
+    "aliases": [
+      "Prunus amygdalus Baill. (Stokes)",
+      "Mandelbaum",
+      "Almandier",
+      "Almond-tree"
+    ]
+  },
+  "display_name": "扁桃",
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Amygdalus eommunis",
+      "Amygdalus communis",
+      "Prunus amygdalus",
+      "Prunus dulcis"
+    ],
+    "accepted_scientific_name": "Prunus amygdalus",
+    "display_name_source_scope": "taiwan_government_public",
+    "taiwan_occurrence_status": "not_asserted",
+    "checked_at": "2026-08-13T14:04:00+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Amygdalus+eommunis",
+        "query_name": "Amygdalus eommunis",
+        "retrieved_at": "2026-08-13T14:00:51+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Prunus+amygdalus",
+        "query_name": "Prunus amygdalus",
+        "retrieved_at": "2026-08-13T14:00:52+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "Visual review of Köhler volume 2 PDF page 85 confirms that the printed name is Amygdalus communis L.; the staging form Amygdalus eommunis is an OCR error. Kew POWO treats Amygdalus communis L. as a synonym of accepted Prunus amygdalus Batsch and also lists Prunus dulcis as a synonym. Taiwan's Animal and Plant Health Inspection Agency publicly pairs 扁桃 with Prunus dulcis. The Taiwan display name therefore resolves through that documented synonym chain; no Taiwan occurrence is asserted."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 85,
+      "evidence_type": "text",
+      "page_text_sha256": "c7c60b4b66062660956d151a73e6b15ac7cd9bc1686f4bf60263c87d84ec9166",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 86,
+      "evidence_type": "text",
+      "page_text_sha256": "82876ed2800bf176f5e70d5bd3ab3fab00b431021d884206829f1f7217255191",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 87,
+      "evidence_type": "text",
+      "page_text_sha256": "b0a390845f2b427953e7cff3dee3e0d44f706e50478b839a1c3c67ad2ac8950d",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 88,
+      "evidence_type": "text",
+      "page_text_sha256": "5bb9e468703041aed7482214006e0a5df860bc0afe15190b5435e111d2d10d8a",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0085-p0088:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                       Amygdalus eommunis L.\n                                     Syn. Prunus         amygdalus Baill. (Stokes).\n\n                               Mandelbaum          一       Almandier          —        Almond-tree.\n\n            Familie: Rosaceae (Pruneae)                Gattung: Amygdalus Baill.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Amygdalus eommunis L.，同義名 Prunus amygdalus。屬 Rosaceae 科，Amygdalus 屬。俗名 Mandelbaum。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 85,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 327,
+        "page_text_sha256": "c7c60b4b66062660956d151a73e6b15ac7cd9bc1686f4bf60263c87d84ec9166",
+        "exact_text_sha256": "0dd952abe42c607ce8d04d1af88a5743f2bf9149a98defc52fc280e606809603",
+        "source_line_start": 1,
+        "source_line_end": 6,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "0dd952abe42c607ce8d04d1af88a5743f2bf9149a98defc52fc280e606809603",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0085-p0088:s01:x00",
+      "section_type": "description",
+      "original_text": "            Beschreibung.           5 一6Meter hoher Baum mit abstehenden,                     rostbraunen,   im jüngeren Zustande\n grünen, etwas gedrückten, kahlen Aesten, Blätter zerstreutstehend, gestielt, lanzettlich, spitz, drüsig-\n gesägt, netzaderig, kahl, glänzend; Blattstiel oberwürts drüsig (bei der var. amara drüsenlos), so lang\n oder länger als die Breite des Blattes.               Blüthen     fast sitzend, zu 1—2,          vor den Blättern       erscheinend,\n seitenständig. Unterkelch glockig, undeutlich gefurcht, im unteren Theile grün, nach oben braunroth,\n in 5 eiförmig-längliche, stumpfe, aussen braunrothe, innen grüne, am Rande behaarte, etwas vertiefte\n Kelchblátter übergehend. Kronblätter 5, dem Rande des Unterkelchs entspringend, verkehrt-eifórmig,\n von der doppelten Länge der Staubgefässe und von rosenrother oder weisslich-rother Farbe, abfallend.\n Staubgefässe 20—40 an der Zahl, in 2 Kreise gestellt, die inneren gegen den Griffel geneigt, die\n äusseren    etwas    abstehend.     Fäden    rosenroth,     mit    ovalen,       an   beiden Enden      ausgerandeten,     auf dem\n Rücken angehefteten, zweifächerigen, der Länge nach aufspringenden Staubbeuteln. Pollen elliptisch,\n dreifurchig, dreiporig. Der oberständige, freie Stempel mit eiförmig-länglichem, etwas zusammen-\n gedrücktem, einfurchigem Fruchtknoten und fadenförmigem, etwas schief aufsteigendem, einfurchigem\n Griffel, der mit einer schildfórmigen, nach der Griffelfurche zu ausgerandeten, dottergelben Narbe gekrönt\n ist. Der mit 2 (an der Bauchnaht hängenden) Samenknospen ausgestattete Fruchtknoten nebst der\n unteren Hälfte des Griffels zottig behaart. Steinfrucht eifórmig, etwas zusammengedrückt, 4 Ctm. lang,\n 2! Ctm. breit, mit lederartiger, ca. 2 Mm. dicker, grüner, grauweiss-sammethaariger, mit einer Furche\n versehener und dort aufreissender Aussenfruchtschale. Steinschale einfácherig, ein-, selten zweisamig,\n hellbraun, mit tiefen, punktfórmigen Gruben, entweder knochenhart und glänzend oder dünn und sehr\n zerbrechlich und matt (var. fragilis DO.). Same bis 312 Ctm. lang, mit doppelter Samenhaut, unter der\n Spitze am Rande dem Nabelstrang angewachsen, eifórmig, spitz, platt gedrückt, braun, lüngsrunzelig,\n mit   am   spitzen   Ende   befindlichem     Nabel    und   am     rundlichen         Ende   als dunkler    Fleck     auftretendem\n Hagelfleck (chalaza). Embryo ohne Eiweiss, mit kurzem,                           nach oben gerichtetem Würzelchen.              Die\n 2 Samenlappen planconvex.",
+      "normalized_text": null,
+      "zh_tw_rendering": "高 5-6 米樹，枝條鐵棕色。葉披針形，鋸齒狀。花先於葉，玫瑰紅或白紅。核果卵形，外殼綠色絨毛，內殼堅硬或易碎。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 85,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 328,
+        "char_end": 2845,
+        "page_text_sha256": "c7c60b4b66062660956d151a73e6b15ac7cd9bc1686f4bf60263c87d84ec9166",
+        "exact_text_sha256": "97fd04774f608f37b0baf389cc714dedbeb38b4ea0b00cfbb7b717df9d1cb33e",
+        "source_line_start": 7,
+        "source_line_end": 30,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "97fd04774f608f37b0baf389cc714dedbeb38b4ea0b00cfbb7b717df9d1cb33e",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0085-p0088:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "          Anatomisches. Von den beiden Samenhäuten ist die äussere derbhäutig, zimmtbraun und\n mit leicht abreibbaren, braunen Schtippchen bedeckt; die innere Samenhaut ist im Wasser aufgeweicht\n von   der Frucht   leicht trennbar, besitzt eine weisse Farbe        und ist an der abgerundeten Basis mit einer\n kirschbraunen Chalaza versehen.                                                                      m\n          Die braunen Schüppchen, welche die Oberfläche der äusseren Samenhaut bedecken und die\n auch als Schuppenhaare bezeichnet werden, sind eigenthümliche Zellen von eifórmiger, kegel- und\n keulenförmiger, sackartiger, auch eckiger, unregelmüssiger Gestalt und, in Bezug auf die übrigen Zellen,\n von bedeutender Grösse. Die äussere Samenhaut besteht aus mehreren Reihen brauner, dicht verfilzter,\n flach zusammengedrückter,      nach aussen     dunklerer, nach innen hellerer Zellen, welche von Gefässbündeln\n durchzogen sind. Die Stellen, an welchen die Spiralgefässstränge vorhanden sind, zeichnen sich durch\n grössere Dicke aus. Die innere Samenhaut ist durch eine farblose Schicht einer filzigen Membran fest\n mit der äusseren    Samenhaut     verbunden;    sie besteht aus einer, selten 2 Reihen        kleiner, farbloser, fast\n kubischer, nach der äusseren Seite knorpelig verdickter Zellen mit feinkörnigem Inhalte. Die Cotyle-\n donen zeigen ein dünnwandiges, schlaffes Parenchym, welches in den äusseren Schichten kleinzellig\n erscheint, nach innen zu aus grossen kugelig-eckigen Zellen gebildet ist. Der Zelleninhalt der Samen-\n lappen besteht hauptsächlich aus grossen Oeltropfen mit wenigen Aleuronkörnern; auch die innere\n Samenhaut zeigt in geringerem Maasse Oeltropfen, nebst einem feinkörnigen Inhalte, welcher jedoch nicht\n wie das Aleuron von Kali gelöst wird. Die äussere Samenhaut enthält einzelne Krystalle von Caleium-\n oxalat. Alle braunen Theile der Mandel besitzen viel Gerbstoff. Beide Mandeln unterscheiden sich im\n anatomischen   Bau nicht, sondern     sind blos chemisch       von   einander verschieden.    Die Behauptung,    dass\n die bittere Mandel weniger Oel enthält als die süsse, wird von Flückiger bestritten.",
+      "normalized_text": null,
+      "zh_tw_rendering": "種皮外層褐色，內層白色。細胞含油滴及澱粉粒。苦甜杏仁解剖結構相同，僅化學成分有異。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 86,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 2162,
+        "page_text_sha256": "82876ed2800bf176f5e70d5bd3ab3fab00b431021d884206829f1f7217255191",
+        "exact_text_sha256": "0e230f3882d1b9e410fe05194a13e8aeda54f5b417417b84935ac2212b825623",
+        "source_line_start": 1,
+        "source_line_end": 21,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "0e230f3882d1b9e410fe05194a13e8aeda54f5b417417b84935ac2212b825623",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0085-p0088:s03:x00",
+      "section_type": "distribution",
+      "original_text": "          Vorkommen.           Als die eigentliche Heimath des Mandelbaumes wird Vorderasien betrachtet.\n Gegenwärtig    wird er im ganzen     Mittelmeergebiet    (Spanien,     Südfrankreich,   Portugal, Sicilien, Apulien,\n Griechenland, afrikanische Mittelmeerküste, namentlich Marocco) und in den milderen Lagen Mittel-\n europas gezogen, sogar in Südengland und in Südscandinavien.",
+      "normalized_text": null,
+      "zh_tw_rendering": "原產西亞。現分布於地中海區（西班牙、南法、葡萄牙、西西里、希臘、摩洛哥）及歐洲溫和地區。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 86,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2163,
+        "char_end": 2546,
+        "page_text_sha256": "82876ed2800bf176f5e70d5bd3ab3fab00b431021d884206829f1f7217255191",
+        "exact_text_sha256": "73ea9db24182bc2813ab0bad7d8d4555e5bd33a459ebaad15c7c3b7bb002f55e",
+        "source_line_start": 22,
+        "source_line_end": 25,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "73ea9db24182bc2813ab0bad7d8d4555e5bd33a459ebaad15c7c3b7bb002f55e",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0085-p0088:s04:x00",
+      "section_type": "constituents",
+      "original_text": "               Bestandtheile. Die süssen Mandeln enthalten nach Boulay: 54°), fettes Oel, 24°/,\n                                                                                                          eigen-\n     thümliche Proteinsubstanz (Emulsin und Legumin), 6°/, Zucker, 3%, Gummi, 5%, gerbstof\n                                                                                              fhaltige Schale;\n     nach Portes ‘/,°/, Asparagin, nach Zedler 5°) Mineralstoffe Die bitteren Mandeln enthal\n                                                                                                     ten nach\n     Vogel: 28%, (in Wirklichkeit bis 44°) fettes Oel, 30,5%, Proteinsubstanz (Emulsin), 6,59/,\n                                                                                                        Zucker,\n     3%), Gummi, 8,5, gerbstoffhaltige Schale und 2—3,30, Amygdalin.\n               Das fette Oel der Mandeln, welches ungefihr die Hálfte des Gewichts der Mandeln betrágt,\n    ist von hellgelber Farbe, dünnflüssig, besitzt ein spez. Gew. von 0,915— 0,920, ist fast geschmacklos\n     und erstarrt erst bei sehr starken Kältegraden. Es besteht nach Flücki ger fast ganz aus der Glycerin-\n    verbindung der Oelsäure (Oleinsäure) C,,H,,0,.         Das Glykosid Amygdalin (Cy) Ha, NO,,) ist von\n    Robiquet und Boutrond-Charlard im Jahre 1830 in den bitteren Mandeln entdeckt worden; das\n     Verhältniss zum Bittermandelöl und zur Blausäure wurde jedoch erst von Wöhler und Liebig 1837",
+      "normalized_text": null,
+      "zh_tw_rendering": "甜杏仁含油 54%、蛋白質、糖。苦杏仁含油 28-44%、苦杏仁苷（Amygdalin）。苦杏仁苷遇酶分解為氫氰酸及苯甲醛。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 87,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 627,
+        "char_end": 2133,
+        "page_text_sha256": "b0a390845f2b427953e7cff3dee3e0d44f706e50478b839a1c3c67ad2ac8950d",
+        "exact_text_sha256": "08e8f97d6c18541188b71f42ba4d8043c1e1f06520414b7ba28ad14eb5dccefb",
+        "source_line_start": 7,
+        "source_line_end": 21,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "08e8f97d6c18541188b71f42ba4d8043c1e1f06520414b7ba28ad14eb5dccefb",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0085-p0088:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "„In seiner physiologischen Wirkung unterscheidet sich das Mandelól von den übrigen fetten Oelen nicht.\nIn grösseren Dosen stört es die Verdauung. Das Mandelöl findet als Protectivum zum internen Ge-\nbrauche unter allen fetten Oelen wegen seines milden, angenehmen Geschmackes die häufigste Anwendung,\nz. B. bei Anginen, Heiserkeit, Laryngitis, bei Vergiftungen mit scharfen Stoffen, auch 一 minder gut e\nbei Reizungszuständen entfernter Organe, z. B. Cystitis, Urethritis und Bronchitis. Auch äusserlich\nwird es als reizmilderndes Mittel für sich gern benutzt, z. B. zur Zertheilung von Drüsenanschwellungen,\nferner zur Erweichung verhürteter Sekrete im äusseren Gehörgange, in der Nase und an den Lidrändern,\nselbst zur Einspritzung bei Gonorrhoe.*      Das in seiner Wirkung der Blausäure entsprechende Bitter-\nmandelwusser          ist eine nach längerer Zeit der Aufbewahrung                      klare, farblose, sauer reagirende Flüssig-\nkeit von starkem Geruche und Geschmacke nach bitteren Mandeln. Seine Wirkung gründet sich auf\nden Blausäuregehalt und ist daher eine nervenberuhigende. Durch das Bitter  lelwasser, welches\nauch äusserlich zu Waschungen gebraucht wird, werden alle übrigen Blausäurepräparate ersetzt.\nHusemann             äussert     sich über     die äusserst giftige Blausäure           wie folgt:    „Blausäure     unterscheidet    sich\nvon allen übrigen Neurotica dadurch, dass sie einen entschiedenen Einfluss auf das Blut selbst besitzt,\ndessen Beschaffenheit sie in eigenthümlicher Weise verändert, indem sie sich einerseits chemisch mit\ndem Hämoglobin verbindet und indem sie andererseits die Sauerstoffabgabe seitens der Blutkörper ver-\nringert. Die entfernten Wirkungen äussern sich vorwaltend in Erscheinungen des Nervensystems, wobei\nin hervorragender Weise das Athemzentrum und rasomotorische Centrum afficirt sind“ (Husemann,\nArzneimittell. 1116.)",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：杏仁油作保護劑，用於咽喉炎、支氣管炎及潤滑。苦杏仁水具鎮靜作用。氫氰酸影響血液及神經系統，具劇毒。",
+      "evidence_indexes": [
+        3
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 88,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 1886,
+        "page_text_sha256": "5bb9e468703041aed7482214006e0a5df860bc0afe15190b5435e111d2d10d8a",
+        "exact_text_sha256": "d85af1e59dfa4d797f1448ac34ec5bb8265c6b7a91bd3c90e83ef0b752c6b120",
+        "source_line_start": 1,
+        "source_line_end": 19,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "d85af1e59dfa4d797f1448ac34ec5bb8265c6b7a91bd3c90e83ef0b752c6b120",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "The maker OCR form eommunis is not the printed book name; PDF page 85 visually confirms communis.",
+    "Kew currently accepts Prunus amygdalus, while the Taiwan government source uses its synonym Prunus dulcis; retain this synonym chain with the display name 扁桃.",
+    "杏仁、杏仁果、扁桃仁 are food or seed terms in Taiwan public sources and are not projected here as the plant display name.",
+    "External taxonomy and Taiwan naming evidence does not import food, toxicity, cultivation, or medicinal claims into the Köhler book-fact layer.",
+    "No Taiwan occurrence claim was established.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "250ce77956f9078e4899ec5eb38e4aef42680517b47e31765497009ee0dc1d1e",
+    "maker_receipt_sha256": "37f542c9db0caad7fdd5dfb6eac95193f2ea24ccff7ea384f7bdd76e82a3ec49",
+    "validation_check_sha256": "fd21c34b1f71fd0f911eeff34d95c622aa83179480a5aad89616554749083890",
+    "source_disposition_sha256": "083e8d66e8bd25003da19edd23c4b18a48f96bf99e0c1bc6dd352a64bb1fc7ef",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "37f542c9db0caad7fdd5dfb6eac95193f2ea24ccff7ea384f7bdd76e82a3ec49",
+      "validation_check_sha256": "fd21c34b1f71fd0f911eeff34d95c622aa83179480a5aad89616554749083890",
+      "source_disposition_sha256": "083e8d66e8bd25003da19edd23c4b18a48f96bf99e0c1bc6dd352a64bb1fc7ef"
+    },
+    "naming_artifact_sha256": "5c061341d4604e4e8fa0ce3eb36851a650163faa4fd0ff833d87b41c1deba729"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "4fe182ae4e1902c34005cd9373581549610b9f6fe044b9edb91c85f3657da073"
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 251,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "a19b6b27204c827ac1cc9808c1ddcfca5f6601b86cb7ce71ce9a0999016a3fec",
+  "render_dpi": 144,
+  "render_sha256": "939354f3db2d352061272231cf64d13d5e8a964d7d305beb1adb8e508510bb92",
+  "input_sha256": "939354f3db2d352061272231cf64d13d5e8a964d7d305beb1adb8e508510bb92",
+  "render_pixel_width": 5726,
+  "render_pixel_height": 7826,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 5.097,
+  "embedded_character_count": 282,
+  "ocr_character_count": 65,
+  "ocr_alpha_ratio": 0.7692,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.020729083863515685,
+      "text": "Cruciferae.",
+      "width": 0.09675579523636124,
+      "x": 0.8288146788050854,
+      "y": 0.9143170471704902
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "10",
+      "width": 0.015873016098798376,
+      "x": 0.46428571430509813,
+      "y": 0.22819767455728635
+    },
+    {
+      "confidence": 1,
+      "height": 0.02470930228157653,
+      "text": "Brassica Napus oleifera D.C",
+      "width": 0.24404762397378182,
+      "x": 0.36309523558255347,
+      "y": 0.08575581376957997
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "WM.",
+      "width": 0.04166666580458822,
+      "x": 0.8809523819042535,
+      "y": 0.09447674423288455
+    },
+    {
+      "confidence": 1,
+      "height": 0.02161061952984522,
+      "text": "var. hiemalis Döll",
+      "width": 0.1550633006984904,
+      "x": 0.4085794598729324,
+      "y": 0.06477608584554595
+    }
+  ],
+  "text": "Cruciferae.\n10\nBrassica Napus oleifera D.C\nWM.\nvar. hiemalis Döll",
+  "output_sha256": "d19a5e41c96a36df13f9debec5974093bc97ecd3238ada21b2fa1d6423fee0e6",
+  "receipt_sha256": "8e28a4970d0c0161640948bd98a82e6336ca5e36578858a1e7fd886322559d55"
+}

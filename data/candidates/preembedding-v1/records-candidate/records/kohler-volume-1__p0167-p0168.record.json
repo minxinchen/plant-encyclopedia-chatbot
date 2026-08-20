@@ -1,0 +1,261 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0167-p0168",
+  "entry_id": "kohler-volume-1:p0167-p0168",
+  "owner_shard": "S02",
+  "book_taxon": {
+    "scientific_name": "Rhamnus cathartica",
+    "authorship": null,
+    "aliases": [
+      "Cervisjpina cathartica Moench",
+      "Kreuzdorn",
+      "Hirschdorn",
+      "Purgir-Wegdorn",
+      "Buckthorn",
+      "Nerprun purgatif"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Rhamnus cathartica"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T15:37:25+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Rhamnus+cathartica",
+        "query_name": "Rhamnus cathartica",
+        "retrieved_at": "2026-08-13T15:37:22+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Cervisjpina+cathartica",
+        "query_name": "Cervisjpina cathartica",
+        "retrieved_at": "2026-08-13T15:37:22+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Nerprun+purgatif",
+        "query_name": "Nerprun purgatif",
+        "retrieved_at": "2026-08-13T15:37:22+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 167,
+      "evidence_type": "text",
+      "page_text_sha256": "276c88ead16ddd598d9b61193342fb63f1dca6475c2dea85f3acd2afee37d73a",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 168,
+      "evidence_type": "text",
+      "page_text_sha256": "31240fa079f94f4868e8fe02d6f3e62a7792fb07c33bfb8ffc9afbb005ce926a",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0167-p0168:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                                 Rhamnus cathartica L.\n                                         Syn.           Cervisjpina   cathartica       Moench.\n\n            Kreuzdorn, Hirschdorn, Purgir-Wegdorn                        — Buckthorn — Nerprun               purgatif.\n\n             Familie: Rhamnaceae.                 Gattung: Rhamnus L.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Rhamnus cathartica L.，同義名 Cervisjpina cathartica Moench。俗名 Kreuzdorn、Hirschdorn。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 167,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 0,
+        "char_end": 356,
+        "page_text_sha256": "276c88ead16ddd598d9b61193342fb63f1dca6475c2dea85f3acd2afee37d73a",
+        "exact_text_sha256": "3f77ed281cbdebdb3753ae950efeff0d51a53ecb17bdeb0655b00748f41ebc0b",
+        "source_line_start": 1,
+        "source_line_end": 6,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "3f77ed281cbdebdb3753ae950efeff0d51a53ecb17bdeb0655b00748f41ebc0b",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0167-p0168:s01:x00",
+      "section_type": "description",
+      "original_text": "                             Die holzige, verzweigte Wurzel entwickelt einen Strauch, seltener Baum\n        n      J\nvon 1,75— 4 Meter Hohe, mit reichbelaubten, sparrig ausgebreiteten, gegenstandigen,\n                                                                                        abwechselnd sicli\nkreuzenden, gegen die Spitze wiederholt gabeltheiligen, grau oder rotbbraun\n                                                                               berindeten Aesten, in der\n(jabel nut emem Dorn versehen, welcher als eine Verkiimmerung des\n                                                                        Endastes zu betrachten ist. Die",
+      "normalized_text": null,
+      "zh_tw_rendering": "木質分枝根發芽成灌木，高 1.75-4 米。枝條對生或互生，叉狀分枝，灰或紅褐色，叉處具刺。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 167,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 388,
+        "char_end": 1045,
+        "page_text_sha256": "276c88ead16ddd598d9b61193342fb63f1dca6475c2dea85f3acd2afee37d73a",
+        "exact_text_sha256": "a0fc7772723b84f2bc83eee3f49c7eedd9d30e2055a2bba3c619a75e5b151fcb",
+        "source_line_start": 8,
+        "source_line_end": 15,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "a0fc7772723b84f2bc83eee3f49c7eedd9d30e2055a2bba3c619a75e5b151fcb",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0167-p0168:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "             Anatomisches :Die reife Fruclit besitzt eine aus kleinen Tafelzellen bestehencle Oberhaut; clarauf folgt\nerne Reihe clerber, kubischer Zellen dann, 6—10 Schichten ziemlich fest zusammenhangender, tangential\n                                             ,\n                                                                                                         gestreckter\nchlorophyllreicher^ Zellen welche allmahlig in das lockere, cliinnwandige und grosszellige Fruchtfleisch iibergehen,\n                              ,\n\n\ndessen mnere Schichten radial gestellte sind. Letzteres wird von dem langgestreckten verholzten Prosenchym dei\n                                                                                                    ,",
+      "normalized_text": null,
+      "zh_tw_rendering": "成熟果實表皮由小板狀細胞組成，其下為立方細胞層，再下為含葉綠素細胞層，過渡至果肉。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 167,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 5196,
+        "char_end": 5943,
+        "page_text_sha256": "276c88ead16ddd598d9b61193342fb63f1dca6475c2dea85f3acd2afee37d73a",
+        "exact_text_sha256": "b42674fbd877d78d7aacb52e2d448b7b8a6a716842e67c6d4bf04279f206792f",
+        "source_line_start": 64,
+        "source_line_end": 73,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "b42674fbd877d78d7aacb52e2d448b7b8a6a716842e67c6d4bf04279f206792f",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0167-p0168:s03:x00",
+      "section_type": "distribution",
+      "original_text": "             Verbreitung.In Lanbwaldern und Gebiischen durch fast ganz Europa verbreitet bis znm\n60 und 61° nordl. Br.; fehlt in Schottland, dem nordl. Skandinavien und Russland, Griechenland, Siid-\nspanien und Portugal.",
+      "normalized_text": null,
+      "zh_tw_rendering": "分佈於歐洲大部分地區的低地森林和灌木叢，北至北緯 60-61 度，缺於蘇格蘭、北斯堪的納維亞等。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 167,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 6357,
+        "char_end": 6577,
+        "page_text_sha256": "276c88ead16ddd598d9b61193342fb63f1dca6475c2dea85f3acd2afee37d73a",
+        "exact_text_sha256": "0247957fe0c2c3e030feb6c338375f16337ecd298351978d719d9f5dbffc7c33",
+        "source_line_start": 85,
+        "source_line_end": 87,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "0247957fe0c2c3e030feb6c338375f16337ecd298351978d719d9f5dbffc7c33",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0167-p0168:s04:x00",
+      "section_type": "constituents",
+      "original_text": "               Bestandtheile.Vogel fand in dem Safte freie Essigsaure, Zucker, Farbstoff, Schleim und\neine stickstoffhaltige Substanz. Hubert fand darin eine in Alkohol losliche, rothlichgelbe, ekelhaft\nbitter schmeckende Materie von der Beschaffenheit des purgirenden Stoffes der Sennesblatter. Fleury\nerhielt aus   den unreifen Beeren einen' in blassgelben, blumenkohlartigen Massen krystallisirenden Kor-\nper, von mehlteigartigem Geschmacke, welch eii er Rhamnin nannte.          Winckler fand in den unreifen\nBeeren neben Rhamnin ein goldgelbes, bitter schmeckendes Pulver, das als der purgirende Stoff\n(Cathartin, Rhamno- Cathartin) erkannt wurde.           Weitere Versuche haben dargethan, dass in reifen\nBeeren nur Cathartin und kein Rhamnin gefunden wird, woraus Winckler den Schluss zieht, dass\nbeim Reifen der Beeren das Rhamnin in Cathartin und Zucker verwandelt wird. Binswanger erhielt",
+      "normalized_text": null,
+      "zh_tw_rendering": "汁液含醋酸、糖、色素、黏液及含氮物質。未熟果含 Rhamnin，成熟後轉化為 Cathartin 和糖。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 168,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 2015,
+        "char_end": 2914,
+        "page_text_sha256": "31240fa079f94f4868e8fe02d6f3e62a7792fb07c33bfb8ffc9afbb005ce926a",
+        "exact_text_sha256": "11b4b1814b0c8e1aa84e3d205e0f6939bded40287ae518051c55e25aac06a588",
+        "source_line_start": 31,
+        "source_line_end": 39,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "11b4b1814b0c8e1aa84e3d205e0f6939bded40287ae518051c55e25aac06a588",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0167-p0168:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "               Anwendung. In fruheren Zeiten wurden die Beeren frisch und getrocknet als Abfiihrmittel\ngereicht, ebenso die Rinde bei Wassersucht und Podagra; jetzt wird Syrupus Rhamni catharticae bei\nErwachsenen essloffelweis, bei Kinderri theeloffelweis als Abfiihrmittel gegeben. Die Rinde wirkt\nbrechenerregend und abfuhrend. Husemann, Arzneimittell. 623.",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史上鮮果或乾果作瀉藥，樹皮治水腫和痛風。現用 Sirupus Rhamni catharticae 作瀉藥。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 168,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4284,
+        "char_end": 4643,
+        "page_text_sha256": "31240fa079f94f4868e8fe02d6f3e62a7792fb07c33bfb8ffc9afbb005ce926a",
+        "exact_text_sha256": "51537a18263cc9a65d2bf02c23cc5c87296fef0c2bd606586a755f4ac6c902b4",
+        "source_line_start": 59,
+        "source_line_end": 62,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "51537a18263cc9a65d2bf02c23cc5c87296fef0c2bd606586a755f4ac6c902b4",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "037daab4840d25395415197371a9405476162013045924722c221c0a5079772e",
+    "maker_receipt_sha256": "74308fa6552123bdc76151ce1b59f28c5b8dd66e7baadae330330b91025a3e40",
+    "validation_check_sha256": "bceea22cd375d8007b615525bf7338d1a104448b08fb5c7b92ad6b4f0fe9c6b4",
+    "source_disposition_sha256": "74462d98a3e6d5fb671bd9754c3643b1085ee7b5af8fa45e0bfd0586166866a6",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "74308fa6552123bdc76151ce1b59f28c5b8dd66e7baadae330330b91025a3e40",
+      "validation_check_sha256": "bceea22cd375d8007b615525bf7338d1a104448b08fb5c7b92ad6b4f0fe9c6b4",
+      "source_disposition_sha256": "74462d98a3e6d5fb671bd9754c3643b1085ee7b5af8fa45e0bfd0586166866a6"
+    },
+    "naming_artifact_sha256": "e3b0c5d05f577eb8ec0cb59b1c1bc56382c6bc6c234a67f777afea0cad5d568b"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "3e9ee64a20250a82eefb44aad836e6e3fdb7bbc3310d3f6733e84221a9f84a7d"
+}

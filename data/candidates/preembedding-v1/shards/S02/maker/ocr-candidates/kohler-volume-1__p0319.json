@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 319,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "85640977eef8fb1de89d7745e6a06311b707ec1679ce127ba7c48bf266b92040",
+  "render_dpi": 144,
+  "render_sha256": "f293c307e3a800aa9f86f5649889f6e9ac37b94a15517343d9f2a36d07a86476",
+  "input_sha256": "f293c307e3a800aa9f86f5649889f6e9ac37b94a15517343d9f2a36d07a86476",
+  "render_pixel_width": 5522,
+  "render_pixel_height": 8258,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 6.576,
+  "embedded_character_count": 118,
+  "ocr_character_count": 55,
+  "ocr_alpha_ratio": 0.7273,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.017893293547251887,
+      "text": "Malvaceae.",
+      "width": 0.10794742029569271,
+      "x": 0.8363199176378129,
+      "y": 0.9005539716759031
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "12",
+      "width": 0.01739130388027832,
+      "x": 0.784782608639571,
+      "y": 0.19476744194730844
+    },
+    {
+      "confidence": 1,
+      "height": 0.012527510287269727,
+      "text": "WM üller n.d. Nat.",
+      "width": 0.09805629515152658,
+      "x": 0.8411892423841405,
+      "y": 0.1521664775959417
+    },
+    {
+      "confidence": 1,
+      "height": 0.022781006873599963,
+      "text": "Althaca officinalis l.",
+      "width": 0.23170439496592177,
+      "x": 0.3602992543843384,
+      "y": 0.11170071571428908
+    }
+  ],
+  "text": "Malvaceae.\n12\nWM üller n.d. Nat.\nAlthaca officinalis l.",
+  "output_sha256": "344e8d5362ee5820ee36f8e11d414426902c3ae2c040177c10aae0bd513917de",
+  "receipt_sha256": "7400aa648a25404e1dbb929d4a177aec8ce2448a8d7a4dcc9a6d0ecf9e39ef56"
+}

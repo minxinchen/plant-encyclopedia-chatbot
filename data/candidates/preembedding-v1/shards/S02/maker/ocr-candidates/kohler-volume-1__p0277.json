@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 277,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "854e5d0c81edc232ff440b8c902b2fbfad9203207be7e3a2ec2fb6926dcb9e91",
+  "render_dpi": 144,
+  "render_sha256": "3d31e580166c147e12db764e230119dd8bbcf0c86775890656668fc1d2dc56fe",
+  "input_sha256": "3d31e580166c147e12db764e230119dd8bbcf0c86775890656668fc1d2dc56fe",
+  "render_pixel_width": 5822,
+  "render_pixel_height": 7826,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.84,
+  "embedded_character_count": 107,
+  "ocr_character_count": 49,
+  "ocr_alpha_ratio": 0.7347,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.0220392469375853,
+      "text": "Papaveraceae.",
+      "width": 0.11336323038736973,
+      "x": 0.8085527590749257,
+      "y": 0.9228466553269145
+    },
+    {
+      "confidence": 1,
+      "height": 0.013208577557215606,
+      "text": "WM.n.d.Nat.",
+      "width": 0.06645131429036455,
+      "x": 0.853493093684956,
+      "y": 0.1423782693775053
+    },
+    {
+      "confidence": 1,
+      "height": 0.023532229756552114,
+      "text": "Chelidonium majus I.",
+      "width": 0.1777993570963542,
+      "x": 0.4120768853001294,
+      "y": 0.10305946674753408
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "21",
+      "width": 0.009765625,
+      "x": 0.9062500000976562,
+      "y": 0.03343023290231095
+    }
+  ],
+  "text": "Papaveraceae.\nWM.n.d.Nat.\nChelidonium majus I.\n21",
+  "output_sha256": "644d9966cedcb3bcc2b5dca863330ed65f1e6441646120e07b2481f1f15b03aa",
+  "receipt_sha256": "ef5770d57a004edb5131d19a211cd791431a48696616fc30e9c0f44deb5bb590"
+}

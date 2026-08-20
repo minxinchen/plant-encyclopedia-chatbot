@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-4",
+  "volume": 4,
+  "pdf_page": 84,
+  "owner_shard": "S08",
+  "source_pdf": "/Volumes/NO NAME/第四集 mobot31753003431696.pdf",
+  "source_text_sha256": "9cccfe1e5b7597566fb8339e5d33971ad3be9442e5661684f00c179dce66587a",
+  "render_dpi": 144,
+  "render_sha256": "b72ed54d15f6d0c14a47cf14474cc2192f2762c4f2cb1f96c736b01cb955b2a5",
+  "input_sha256": "b72ed54d15f6d0c14a47cf14474cc2192f2762c4f2cb1f96c736b01cb955b2a5",
+  "render_pixel_width": 5768,
+  "render_pixel_height": 8274,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 6.507,
+  "embedded_character_count": 107,
+  "ocr_character_count": 56,
+  "ocr_alpha_ratio": 0.8571,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.020429586607312422,
+      "text": "Tafel 36",
+      "width": 0.06458333478034983,
+      "x": 0.033333332071630646,
+      "y": 0.9622093025564966
+    },
+    {
+      "confidence": 1,
+      "height": 0.02180232509734137,
+      "text": "Caryophyliaceae",
+      "width": 0.13958333260982503,
+      "x": 0.8062499986690458,
+      "y": 0.9723837214447886
+    },
+    {
+      "confidence": 1,
+      "height": 0.02180232509734137,
+      "text": "Silenoideae",
+      "width": 0.08958333043930033,
+      "x": 0.8541666688602108,
+      "y": 0.947674418931465
+    },
+    {
+      "confidence": 1,
+      "height": 0.017788396941290974,
+      "text": "Agrostema",
+      "width": 0.11260949429204081,
+      "x": 0.35827858731193385,
+      "y": 0.002733708567704829
+    },
+    {
+      "confidence": 1,
+      "height": 0.01995055448441274,
+      "text": "Githago L",
+      "width": 0.10662598698101883,
+      "x": 0.4768953408631735,
+      "y": 0.005286350890833291
+    }
+  ],
+  "text": "Tafel 36\nCaryophyliaceae\nSilenoideae\nAgrostema\nGithago L",
+  "output_sha256": "7424ca994fe0b4c3deaf05402bd8985da33680981a9a70c5fab43e3c93bdbd3d",
+  "receipt_sha256": "eb2c38f8504b74836556f7542b4ff784cb3a58e2b760dcacc0aac272dfc20750"
+}

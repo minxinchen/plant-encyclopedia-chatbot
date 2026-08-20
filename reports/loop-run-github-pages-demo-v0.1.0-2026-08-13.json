@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "run_id": "github-pages-demo-v0.1.0-2026-08-13",
+  "started_at": "2026-08-13T10:42:24+08:00",
+  "finished_at": "2026-08-13T10:53:05+08:00",
+  "status": "approved",
+  "cost": {
+    "incremental_usd": 0,
+    "paid_fallback_used": false
+  },
+  "input": {
+    "records_directory": "data/records/",
+    "approved_record_count": 8,
+    "public_summary_section_count": 51,
+    "release_version": "0.1.0"
+  },
+  "stages": [
+    {
+      "name": "public_boundary_and_export",
+      "attempt": 1,
+      "status": "passed",
+      "tool": "deterministic summary-only exporter",
+      "checks": [
+        "Exactly eight sample_reviewed records were exported.",
+        "All 51 public summary sections retain one or more book-page citations.",
+        "Original text, PDFs, OCR, SQLite, embeddings and local services were not exported.",
+        "Taiwan display-name metadata remains separate from book evidence."
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "static_chat_and_safety",
+      "attempt": 2,
+      "status": "passed",
+      "tool": "browser-side deterministic router plus Browser responsive test",
+      "checks": [
+        "Traditional Chinese and English queries route to approved evidence and return Traditional Chinese answers.",
+        "The initial two-character Chinese plant-name matching defect was fixed and revalidated.",
+        "Constipation returns historical Podophyllum evidence with a modern-use warning.",
+        "Dose, non-Kohler, astrology and image-identification questions refuse within policy."
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "security_and_portability",
+      "attempt": 1,
+      "status": "passed",
+      "tool": "deterministic validator, git isolation and secret scan",
+      "checks": [
+        "The public site is an independent git repository, not the AI_WORKSTATION repository.",
+        "No original_text field or recognized GitHub, Gemini or Google key pattern exists in public files.",
+        "The site has no external model call, analytics, database or backend dependency.",
+        "Desktop and 390px mobile layouts render without horizontal overflow."
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "github_pages_release",
+      "attempt": 1,
+      "status": "passed",
+      "tool": "GitHub CLI and live HTTPS browser regression",
+      "checks": [
+        "Public repository minxinchen/kohler-plant-chat-demo was created from the isolated demo directory.",
+        "Main branch and annotated v0.1.0 tag were pushed.",
+        "GitHub Pages reports built with HTTPS enforcement.",
+        "The public URL returns HTTP 200, loads all eight plants and passes English, safety, scope and image refusal probes with no console errors."
+      ],
+      "retry_target": null
+    }
+  ],
+  "review_summary": {
+    "passed": 4,
+    "needs_review": 0,
+    "failed": 0,
+    "warnings": [
+      "This is a text-only public MVP, not a full-book release.",
+      "Approved page coverage remains 1.41%.",
+      "English input is supported, but v0.1.0 answers in Traditional Chinese.",
+      "Image reasoning remains disabled and the local chat API remains private."
+    ]
+  }
+}

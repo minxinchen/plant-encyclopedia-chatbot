@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 373,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "e1c51ce984d1c4f3d97af5f7129eac8add69600be80a4195b9631b64f7d5a5eb",
+  "render_dpi": 144,
+  "render_sha256": "d4ee2216a64710e2d8e918bca21dca1176ffc92508600588f79c42aab353e123",
+  "input_sha256": "d4ee2216a64710e2d8e918bca21dca1176ffc92508600588f79c42aab353e123",
+  "render_pixel_width": 5594,
+  "render_pixel_height": 7934,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.953,
+  "embedded_character_count": 147,
+  "ocr_character_count": 49,
+  "ocr_alpha_ratio": 0.6939,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.019125707565792016,
+      "text": "Lablatae.",
+      "width": 0.08446557947687294,
+      "x": 0.8641458119284626,
+      "y": 0.919942960129293
+    },
+    {
+      "confidence": 1,
+      "height": 0.015048675120822974,
+      "text": "WMüller n.d. Nat",
+      "width": 0.11329948114108102,
+      "x": 0.8332679537715761,
+      "y": 0.1494524065623558
+    },
+    {
+      "confidence": 1,
+      "height": 0.0218715393354022,
+      "text": "Mentha piperita 1.",
+      "width": 0.19547324308027864,
+      "x": 0.40123457179833805,
+      "y": 0.10610465113228862
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494425,
+      "text": "67.",
+      "width": 0.01440329223074821,
+      "x": 0.932098765304379,
+      "y": 0.027616279418091638
+    }
+  ],
+  "text": "Lablatae.\nWMüller n.d. Nat\nMentha piperita 1.\n67.",
+  "output_sha256": "fcc931a37be53ddcbfbc43ac4d9577ff4aa4c68edfa217cc8e00f250ffc77a6a",
+  "receipt_sha256": "49e0a9203a8c83c84688b5fd7cdc497399d84bb9f5047508428c3abe8878e5a4"
+}

@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-2:p0491-p0492",
+  "owner_shard": "S04",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S04/maker/structure-drafts/kohler-volume-2__p0491-p0492.json",
+  "source_draft_sha256": "3bd65328a3bb06afa351f7981cf6219ec8b8effe73c19204805589faf927baf1",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "a5038ba616181ef2688424c7a0df310917fa305463c23636f39c08bb6de7bd54",
+    "validation_check_sha256": "8a24d651b6a29ba9f19d1b2b005eea67a5f186c433ae5c66a187ec6ba74a2d52",
+    "source_disposition_sha256": "4c41ec10df9480d7a413574c6ba051856655c748ebcd67d32d8c50eeeae8dc2a",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Quillaja Saponaria",
+    "authorship_candidate": "Molina",
+    "aliases_candidates": [
+      "Quillaja Smegmadermos"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Quillaja Saponaria",
+      "Quillaja saponaria"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_zh_tw": null,
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_checked",
+    "taxon_id": null,
+    "display_name_source_scope": "unresolved",
+    "display_name_source_evidence_ids": [],
+    "display_name_is_taiwan_public": false,
+    "display_name_answer_policy": "scientific_name_only",
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping.",
+    "checked_at": "2026-08-13T20:39:13+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Quillaja Saponaria",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Quillaja+Saponaria",
+      "retrieved_at": "2026-08-13T20:39:11+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Quillaja saponaria",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Quillaja+saponaria",
+      "retrieved_at": "2026-08-13T20:39:11+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Quillaja smegmadermos",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Quillaja+smegmadermos",
+      "retrieved_at": "2026-08-13T20:39:11+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Quillaja saponaria",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Quillaja%20saponaria",
+      "retrieved_at": "2026-08-13T20:39:13+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears."
+  ]
+}

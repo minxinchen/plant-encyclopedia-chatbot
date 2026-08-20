@@ -1,0 +1,271 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-3-p0175-p0180",
+  "entry_id": "kohler-volume-3:p0175-p0180",
+  "owner_shard": "S06",
+  "book_taxon": {
+    "scientific_name": "Indigofera Anil",
+    "authorship": "L.",
+    "aliases": [
+      "Sichelfrüchtiger Indigo",
+      "Anilindigo",
+      "Anilpflanze",
+      "Anil mal.",
+      "Tarum Kembang"
+    ]
+  },
+  "display_name": "野木藍",
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Indigofera Anil",
+      "Indigofera anil"
+    ],
+    "accepted_scientific_name": "Indigofera suffruticosa",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T17:48:18+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Indigofera+Anil",
+        "query_name": "Indigofera Anil",
+        "retrieved_at": "2026-08-13T17:48:18+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0024064",
+        "query_name": "Indigofera Anil",
+        "retrieved_at": "2026-08-13T17:48:18+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0024064",
+        "query_name": "Indigofera Anil",
+        "retrieved_at": "2026-08-13T17:48:18+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Indigofera+anil",
+        "query_name": "Indigofera anil",
+        "retrieved_at": "2026-08-13T17:48:18+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0054048",
+        "query_name": "Indigofera anil",
+        "retrieved_at": "2026-08-13T17:48:18+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0054048",
+        "query_name": "Indigofera anil",
+        "retrieved_at": "2026-08-13T17:48:18+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL explicitly links the book binomial as a species-level synonym to the accepted taxon."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 175,
+      "evidence_type": "text",
+      "page_text_sha256": "b40cc068030caa1bfcaa6b57ffc7098855f49e3a9a5cfe8438f81b188e841a90",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 176,
+      "evidence_type": "text",
+      "page_text_sha256": "5482b05ff12fdee2287300c8110a3d7c71f94c8b52de4cad4f427c7febce0968",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 178,
+      "evidence_type": "text",
+      "page_text_sha256": "1cf07bc33c62ebecef97e5186ad498e886a0e16b80660b5f3c97af6943554b30",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 177,
+      "evidence_type": "text",
+      "page_text_sha256": "f92f955af50ba76f688d90530e0cbadb8770eaf1e21d5bc40355d51a6f9af758",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-3:p0175-p0180:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                                      Indigofera                        Anil            L.\n          Sichelfrüchtiger Indigo, Anilindigo, Anilpflanze, Anil mal. Tarum                                                         Kembang.\n\n       Familie: Paprikonacese                         Endl.         Gruppe:             Lotoidene       Endl.        Unterfamilie:               @enisteae.\nGattung: Indigofera L.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Indigofera Anil L.，隸屬豆科，別名 Anil 或 Tarum Kembang。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 175,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 427,
+        "page_text_sha256": "b40cc068030caa1bfcaa6b57ffc7098855f49e3a9a5cfe8438f81b188e841a90",
+        "exact_text_sha256": "2efafe9432d8993b65492149e513d8378798809bd67d9f7640ef7be9732ada48",
+        "source_line_start": 1,
+        "source_line_end": 5,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "2efafe9432d8993b65492149e513d8378798809bd67d9f7640ef7be9732ada48",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0175-p0180:s01:x00",
+      "section_type": "description",
+      "original_text": "        Beschreibung. Die Pflanze ist ein am Grunde holziger Halbstrauch von 1 m Höhe,\nselten höher; der Stengel ist grün, kantig, dicht mit Blättern besetzt, oberseits mit weit aus-\ngebreiteten          Ästen.       —      Die Blätter          sind wechselständig                 und    unpaarig           gefiedert.       Das    ganze\nzusammengesetzte Blatt ist 10—12 cm lang und 7 cm breit; die einzelnen Blättchen etwa\n3 cm lang und 1 cm breit; das Hauptblatt, wie die Teilblättchen sind gestielt; der Stiel\ndes ersteren ist um so kürzer je höher es steht, die Stielchen der Einzelblättchen sind etwa\n2--3     mm    lang.       Die Blättchen               stehen       drei-     bis siebenpaarig                an    der     Hauptspindel,          welche\nin das unpaare Blättchen                        endigt;       die Blättchen sind oval länglich oder                                oval, ganzrandig,\nnicht     zugespitzt,           aber     an     der Spitze mit kurzem                    scharfem        Stachelspitzchen             versehen.        Die",
+      "normalized_text": null,
+      "zh_tw_rendering": "基部木質半灌木，高約 1 米。葉互生，奇數羽狀複葉，小葉橢圓形，頂端具短刺尖。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 175,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 428,
+        "char_end": 1490,
+        "page_text_sha256": "b40cc068030caa1bfcaa6b57ffc7098855f49e3a9a5cfe8438f81b188e841a90",
+        "exact_text_sha256": "2e27992138123f9fedd95f7e025b2fac12b3e117f75c2d3ac756e75b7f94ce58",
+        "source_line_start": 6,
+        "source_line_end": 14,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "2e27992138123f9fedd95f7e025b2fac12b3e117f75c2d3ac756e75b7f94ce58",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0175-p0180:s02:x00",
+      "section_type": "distribution",
+      "original_text": "          Vorkommen.                Die Pflanze ist in Südamerika einheimisch,                         wird aber auch dort, wie\nüberhaupt       zwischen        den    Wendekreisen           auch     auf der westlichen              Halbkugel         angebaut.       Zur\nKultur    geeignet      ist in diesen       Breitengraden        jedes        Land,        welches      ein     heisses     und     feuchtes\nKlima besitzt. Man drillt die Samen in Furchen mit 30—50 cm Distanz, und sorgt dafür,",
+      "normalized_text": null,
+      "zh_tw_rendering": "原產南美洲，現於熱帶地區廣泛栽培，需高溫潮濕氣候。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 176,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 858,
+        "char_end": 1353,
+        "page_text_sha256": "5482b05ff12fdee2287300c8110a3d7c71f94c8b52de4cad4f427c7febce0968",
+        "exact_text_sha256": "d87cd6b1396535e17e3efee197c112cc0888f6a9acdb0fcd23a75070c43b2c2e",
+        "source_line_start": 11,
+        "source_line_end": 14,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "d87cd6b1396535e17e3efee197c112cc0888f6a9acdb0fcd23a75070c43b2c2e",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0175-p0180:s03:x00",
+      "section_type": "historical_use",
+      "original_text": "           Anwendung.              In     ihrer Heimat         gelten    die Indigofera-Arten          auch    als Heilmittel.       Das\ngepulverte         Kraut     von        Indigofera     Anil     L. dient       als Heilmittel        verschiedener        Leberkrank-\nheiten,    ferner     als stärkendes               Mittel bei Dyspepsie          und Dysenterie,       allgemeiner        Erschlaffung,\nsowie     als Fiebermittel          bei chronischen Krankheiten;                  die Blätter     werden      als Reiz-    und Abführ-\nmittel, ja sogar als Brechmittel gebraucht. — Mit der Wurzel von Indigofera tinctoria L. behandelt",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：葉粉曾用於治療肝病、消化不良及痢疾，亦作催吐劑；根用於治療結石與梅毒。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 178,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 3738,
+        "char_end": 4378,
+        "page_text_sha256": "1cf07bc33c62ebecef97e5186ad498e886a0e16b80660b5f3c97af6943554b30",
+        "exact_text_sha256": "3d97a21ce81cc75621eee0189680c068c548909976571ef7f8f83372e15fb933",
+        "source_line_start": 41,
+        "source_line_end": 45,
+        "section_index": 3,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "3d97a21ce81cc75621eee0189680c068c548909976571ef7f8f83372e15fb933",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0175-p0180:s04:x00",
+      "section_type": "constituents",
+      "original_text": "             Entstehung            und   Bestandteile.          In dem       fast farblosen Safte der Indigopflanzen befindet\nsich das Indiean              0% H:1 NO!”,           ein Glycosid, welches           demselben         durch Behandeln mit Alkohol",
+      "normalized_text": null,
+      "zh_tw_rendering": "含無色汁液中的 Indican 糖苷，經發酵或酸處理轉化為 Indigblau（靛藍）。",
+      "evidence_indexes": [
+        3
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 177,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 5821,
+        "char_end": 6077,
+        "page_text_sha256": "f92f955af50ba76f688d90530e0cbadb8770eaf1e21d5bc40355d51a6f9af758",
+        "exact_text_sha256": "4d5181315e1519b21160b369f76e041c6115d4b0c16279072777a57a51505442",
+        "source_line_start": 67,
+        "source_line_end": 68,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "4d5181315e1519b21160b369f76e041c6115d4b0c16279072777a57a51505442",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "75fe7e54795b738fe268545471be6a0dcfcf38208492ff5609314ba625ad4933",
+    "maker_receipt_sha256": "ce6a5c683e89401f2f503d69fff4afdc3465ef13d50c70bd00e150fa0168aa5e",
+    "validation_check_sha256": "845f3f86503adb66a2e10ac1a41f4fee8159a7958869e695eab20fe299b3c0d9",
+    "source_disposition_sha256": "bdfb652f4bda35f2e419e997894535a63bbf5cf14ff70393ba2d78c1c238edb5",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "ce6a5c683e89401f2f503d69fff4afdc3465ef13d50c70bd00e150fa0168aa5e",
+      "validation_check_sha256": "845f3f86503adb66a2e10ac1a41f4fee8159a7958869e695eab20fe299b3c0d9",
+      "source_disposition_sha256": "bdfb652f4bda35f2e419e997894535a63bbf5cf14ff70393ba2d78c1c238edb5"
+    },
+    "naming_artifact_sha256": "bf1c2980b149ee2415ed532de30d20834b6149f1b0cce56cd3db24585b19182c"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "142e9c99082cd4e7f8a6bf61ff9b6de1f3737cf610ddd1e2b301e7b625a062b9"
+}

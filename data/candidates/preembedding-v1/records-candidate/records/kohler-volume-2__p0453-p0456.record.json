@@ -1,0 +1,293 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0453-p0456",
+  "entry_id": "kohler-volume-2:p0453-p0456",
+  "owner_shard": "S04",
+  "book_taxon": {
+    "scientific_name": "Garcinia Morella",
+    "authorship": "Desrousseaux",
+    "aliases": [
+      "G. Gutta Wight",
+      "G. pictoria Roxb.",
+      "G. cambogioides Royle",
+      "G. elliptica Wall.",
+      "G. Gaudichaudü et acuminata Planchon et Triana",
+      "Cambogia gutta Lindl.",
+      "Hebradendron campogioides Graham",
+      "Garcinia Morella var. pedicellata Hanb.",
+      "G. Hanburyi Hook."
+    ]
+  },
+  "display_name": "藤黃",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Garcinia Morella",
+      "Garcinia morella"
+    ],
+    "accepted_scientific_name": "Garcinia morella",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T19:35:04+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Garcinia+Morella",
+        "query_name": "Garcinia Morella",
+        "retrieved_at": "2026-08-13T19:35:04+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0002597",
+        "query_name": "Garcinia Morella",
+        "retrieved_at": "2026-08-13T19:35:04+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0002597",
+        "query_name": "Garcinia Morella",
+        "retrieved_at": "2026-08-13T19:35:04+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Garcinia+morella",
+        "query_name": "Garcinia morella",
+        "retrieved_at": "2026-08-13T19:35:04+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0074080",
+        "query_name": "Garcinia morella",
+        "retrieved_at": "2026-08-13T19:35:04+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0074080",
+        "query_name": "Garcinia morella",
+        "retrieved_at": "2026-08-13T19:35:04+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL accepts the queried book binomial at species rank."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 453,
+      "evidence_type": "text",
+      "page_text_sha256": "90a98ed1b215ae255707c1da3eda911c96f50df861fb22bde47fc773671d35f6",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 454,
+      "evidence_type": "text",
+      "page_text_sha256": "639bb3945ca1795e6203fa25456ef43e5e43fbec0fa06f214751e48875061e73",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 455,
+      "evidence_type": "text",
+      "page_text_sha256": "5a969c67552985126b0d8f420b1ba11526f4688da32390381c40de0f48774334",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0453-p0456:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                              Garcinia Morella Desrousseaux.\nSyn. G. Gutta Wight, G. pictoria Roxb., G. cambogioides Royle, G. elliptica Wall.,\nG. Gaudichaudü et acuminata Planchon et Triana, Cambogia gutta Lindl., Hebradendron\n                               campogioides Graham.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Garcinia Morella，同義名包括 G. Gutta、G. pictoria 及 G. cambogioides 等。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 453,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 279,
+        "page_text_sha256": "90a98ed1b215ae255707c1da3eda911c96f50df861fb22bde47fc773671d35f6",
+        "exact_text_sha256": "647cb6568f1507b46bf34326134708dd1e4c1c995f4e0c67ade2d59906913f44",
+        "source_line_start": 1,
+        "source_line_end": 4,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "647cb6568f1507b46bf34326134708dd1e4c1c995f4e0c67ade2d59906913f44",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0453-p0456:s01:x00",
+      "section_type": "description",
+      "original_text": "        Beschreibung.     Ein Baum von 10—18 Meter Höhe,                          mit vielen ausgebreiteten Aesten\nund orangebrauner, dicker Rinde; die jungen Schösslinge glatt.                    Blätter gegenständig, mit kurzen\nStielen,   ohne   Afterblättchen,    10— 12     Ctm.   lang,    3—4   Ctm.    breit,   elliptisch   bis lanzettli\n                                                                                                               - ch\n                                                                                                                ellip-\ntisch, kurz und stumpf zugespitzt, ganzrandig, auf beiden Seiten kahl, dick, lederig, oberseits glänzend\ndunkelgrün, unterseits blasser und mit einer hervorragenden Mittelrippe.        Blüthen eingeschlechtig,",
+      "normalized_text": null,
+      "zh_tw_rendering": "高 10-18 米，樹皮橙褐色。葉對生，橢圓至披針形，厚革質，深綠色有光澤。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 453,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 558,
+        "char_end": 1346,
+        "page_text_sha256": "90a98ed1b215ae255707c1da3eda911c96f50df861fb22bde47fc773671d35f6",
+        "exact_text_sha256": "96540b31b600bbbb2575c47495ddd65924783c21b0c15fa551fe0c0665af6e00",
+        "source_line_start": 11,
+        "source_line_end": 17,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "96540b31b600bbbb2575c47495ddd65924783c21b0c15fa551fe0c0665af6e00",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0453-p0456:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "           Anatomisches. Nach Flückiger befinden sich die Räume, welche das Gummigutt ent-\n halten,  haup tsäc hlic h  in der   Rinde ,   jedo  ch  komm en    diese lben    auch   in   den  Blätt ern,   Blüth en,    Früc  hten\n und im    Holz e   vor.   Letzt eres  ist   weiss ,  färbt sich   aber   durc  h   Alkal ien   schö n   gelb.     Der    Quer schn itt\n eines 5 Ctm. dicken Astes, welchen Flückiger von Dr. Jamie aus Singapore erhielt, zeigte, nament- `\n lich im mittleren Theile der Rinde, zahlreiche              Harz  behä lter  ,    die, im    Allg emei nen    den    Gvta  sssu nass\n                                                                              welc he   an  Grös se   die  Pare  nchy  mzel len   nich  t",
+      "normalized_text": null,
+      "zh_tw_rendering": "樹脂主要存於樹皮，亦見於葉、花、果及木材。木材白色，遇鹼變黃。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 454,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 735,
+        "page_text_sha256": "639bb3945ca1795e6203fa25456ef43e5e43fbec0fa06f214751e48875061e73",
+        "exact_text_sha256": "821e76aa4c385ae656eee34eff081ae8e57f00740ac1e85bd115e0c44f83c0d1",
+        "source_line_start": 1,
+        "source_line_end": 6,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "821e76aa4c385ae656eee34eff081ae8e57f00740ac1e85bd115e0c44f83c0d1",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0453-p0456:s03:x00",
+      "section_type": "distribution",
+      "original_text": "           Vorkommen.     Die Hauptform in den feuchten Wäldern Südindiens und Ceylons; die Varietät\n pedicellata in Kambodia (Kambodscha), Siam und im Delta des Mekong einheimisch.",
+      "normalized_text": null,
+      "zh_tw_rendering": "主產南印度及錫蘭潮濕森林；變種 pedicellata 產柬埔寨、暹羅及湄公河三角洲。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 454,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 1298,
+        "char_end": 1479,
+        "page_text_sha256": "639bb3945ca1795e6203fa25456ef43e5e43fbec0fa06f214751e48875061e73",
+        "exact_text_sha256": "bb1f7d5de7235d87deae3f1ce0e7db66493569b94f5cb863e652ffb09a91e117",
+        "source_line_start": 15,
+        "source_line_end": 16,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "bb1f7d5de7235d87deae3f1ce0e7db66493569b94f5cb863e652ffb09a91e117",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0453-p0456:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "            Ein Reisender, welcher im Jahre 1295— 1297 China (Cambodia) besuchte, spricht von einem\n gelben Safte, der durch Einschnitte in Bäume gewonnen und mit dem Namen Kiang-hwang bezeichnet\n werde. Dieser chinesische Name bedeutet eigentlich Curcuma; er lässt sich jedoch mit ziemlicher\n Sicherheit auf Gummigutt beziehen, da die Gewinnung durch Anschneiden von Bäumen nicht auf\n Curcuma bezogen werden kann. Er führt ausserdem an, dass das Einsammeln und der Verkauf dieses\n Saftes von Weibern besorgt werde. Das chinesische Kräuterbuch Pun-tsao vom Ende des 16. Jahrh.,\n welches eine schlechte Abbildung des Baumes enthält, bezeichnet die Droge mit Tang-hwang. Clusius\n erhielt 1603 von dem holländischen Admiral Jacob van Neck die erste Probe des Gümmigutt unter dem\n Namen Ghittaiemon (von dem javanischen gata, Gummiharz und jamu, heilkräftig, abgeleitet) nach Europa.",
+      "normalized_text": null,
+      "zh_tw_rendering": "1295 年中國記載切樹取汁；1603 年 Clusius 引入歐洲，17 世紀用於瀉下。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 454,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2455,
+        "char_end": 3334,
+        "page_text_sha256": "639bb3945ca1795e6203fa25456ef43e5e43fbec0fa06f214751e48875061e73",
+        "exact_text_sha256": "8e65077ad12188457e37238a0666514755741d371511d9a74588ff9b17197ddf",
+        "source_line_start": 28,
+        "source_line_end": 36,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "8e65077ad12188457e37238a0666514755741d371511d9a74588ff9b17197ddf",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0453-p0456:s05:x00",
+      "section_type": "constituents",
+      "original_text": "               Bestandtheile.    Nac h  Chr  ist iso  n    ent  hal ten    die    bes ser en   Sor ten     in  Pro  zen ten  :   64. 3—7   4.2\n      Harz (Gummiguttgelb), (schlecht      e  Sor te    35. 0—6  1.4 ),     19. 7—   24. 0    Gum  mi      (sc hle cht e    Sor te   14. 2   bis\n      17.2), 4.4—0.2 Faser (schlechte Sorte 7.8    —    19.0 ),   4.0 —   4.8    Stä rke     (sc hle cht e  Sor  te   5—    22).    Cos  tel  o\n      fand in den Röhren 79. 3o%  in  den   Klu mpe  n    67.  6%,    in   dem     pul  ver ige n  Gum   mig  utt     76. 6  0/   Har z.         :",
+      "normalized_text": null,
+      "zh_tw_rendering": "含樹脂 64.3-74.2%，樹膠 19.7-24.0%，纖維及澱粉。主要成分為 Gummiguttgelb。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 455,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 5673,
+        "char_end": 6251,
+        "page_text_sha256": "5a969c67552985126b0d8f420b1ba11526f4688da32390381c40de0f48774334",
+        "exact_text_sha256": "e0dfd3e971afe4ea3a8124d6dd706d403922c65f380ae66ab006f055b8a501f7",
+        "source_line_start": 44,
+        "source_line_end": 47,
+        "section_index": 5,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "e0dfd3e971afe4ea3a8124d6dd706d403922c65f380ae66ab006f055b8a501f7",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "7049620a44f93d8d5de5d8521cff10e75c7f03cf55de9739d3285b4dda16ffe4",
+    "maker_receipt_sha256": "147e42fee40c876caa36afa5180b2fe980e22793d67fe446fc47ed16392f907e",
+    "validation_check_sha256": "162cef65f38093728424b117ae55422a534d8729ea66fff35d7a3f4401fb2d89",
+    "source_disposition_sha256": "eb6dacf7c4ed804b3ab19d84d1db4cfd60776d8dfbb62d1e13bda1c66f668cbc",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "147e42fee40c876caa36afa5180b2fe980e22793d67fe446fc47ed16392f907e",
+      "validation_check_sha256": "162cef65f38093728424b117ae55422a534d8729ea66fff35d7a3f4401fb2d89",
+      "source_disposition_sha256": "eb6dacf7c4ed804b3ab19d84d1db4cfd60776d8dfbb62d1e13bda1c66f668cbc"
+    },
+    "naming_artifact_sha256": "7ed694c14e334da315157d37d6cd274b74ad53e74df8c2a228d082f42bf8a127"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "3bdeb3c801bb428323eef1c81432c61756c984a050260e503a241f41c51edb3d"
+}

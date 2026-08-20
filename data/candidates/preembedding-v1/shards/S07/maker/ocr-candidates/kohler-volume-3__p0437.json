@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 437,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "11e1925ee888f57037e0d767b84f78d22a7686197de12ba35c25b1576b0a4b0a",
+  "render_dpi": 144,
+  "render_sha256": "e991ac2bf5b4d48272a6f1c4e8daf6ea2b4c25924de97e0fba90414c7eed8d48",
+  "input_sha256": "e991ac2bf5b4d48272a6f1c4e8daf6ea2b4c25924de97e0fba90414c7eed8d48",
+  "render_pixel_width": 5486,
+  "render_pixel_height": 8174,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.719,
+  "embedded_character_count": 162,
+  "ocr_character_count": 62,
+  "ocr_alpha_ratio": 0.8387,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.022172598611740812,
+      "text": "Compositae",
+      "width": 0.09974593721489866,
+      "x": 0.7877893690173142,
+      "y": 0.9562102121404876
+    },
+    {
+      "confidence": 1,
+      "height": 0.019314211512368784,
+      "text": "(Anthemideae)",
+      "width": 0.1278419353657093,
+      "x": 0.7704946151360319,
+      "y": 0.9343835918689677
+    },
+    {
+      "confidence": 1,
+      "height": 0.021894610117352165,
+      "text": "Chrysanthemum Marschallii Aschers.",
+      "width": 0.33333333333333326,
+      "x": 0.30303030146103893,
+      "y": 0.037698412760170275
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "31",
+      "width": 0.017316017517405635,
+      "x": 0.9545454546179205,
+      "y": 0.03633720955101971
+    }
+  ],
+  "text": "Compositae\n(Anthemideae)\nChrysanthemum Marschallii Aschers.\n31",
+  "output_sha256": "8fbad3dd3b4afcc615193999d25a41cf17963e12a71d60535b8d897b39cb64be",
+  "receipt_sha256": "33b740bf139162164453bdfca391440e01a0997114fc83ece0d7b54f567c692f"
+}

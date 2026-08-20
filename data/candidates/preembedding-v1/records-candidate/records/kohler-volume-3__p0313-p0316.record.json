@@ -1,0 +1,256 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-3-p0313-p0316",
+  "entry_id": "kohler-volume-3:p0313-p0316",
+  "owner_shard": "S07",
+  "book_taxon": {
+    "scientific_name": "Adonis vernalis",
+    "authorship": null,
+    "aliases": [
+      "Adonis apennina Jacg.",
+      "Ranunculus Tournef.",
+      "Sarpedonia Adans.",
+      "Consili go DC.",
+      "Adamantha Spach."
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Adonis vernalis"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T17:04:26+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Adonis+vernalis",
+        "query_name": "Adonis vernalis",
+        "retrieved_at": "2026-08-13T17:04:24+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Adonis+apennina",
+        "query_name": "Adonis apennina",
+        "retrieved_at": "2026-08-13T17:04:24+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Ranunculus+tournef",
+        "query_name": "Ranunculus tournef",
+        "retrieved_at": "2026-08-13T17:04:24+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Sarpedonia+adans",
+        "query_name": "Sarpedonia adans",
+        "retrieved_at": "2026-08-13T17:04:24+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Adamantha+spach",
+        "query_name": "Adamantha spach",
+        "retrieved_at": "2026-08-13T17:04:24+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 313,
+      "evidence_type": "text",
+      "page_text_sha256": "001600e2eb5807a78a605248b37e04d355ca21258a1c5c273a6b487321edd20b",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 314,
+      "evidence_type": "text",
+      "page_text_sha256": "df602be82cc86ae79793bf9b51b0ad3a7f01463d6c6e9e225cbf32d13b3a3f54",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 315,
+      "evidence_type": "text",
+      "page_text_sha256": "3590398a07c10b9412007316c0ffeaae8a8d3dd3da9b9a2cfae58f1351477bf7",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-3:p0313-p0316:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                            Adonis            vernalis             L.\nFrühlings-Adonis, Christwurz, schwarze, falsche, böhmische Niesswurz, Teufelsauge.                                       Engl.:\n          Adonis.         Franz.: Adonis, Adonide.             Ital: Adonide.           Holl.; Voorjaars-Adonis.\n\n           Syn.: Adonis apennina Jacg.                 Ranunculus Tournef.             Sarpedonia Adans.         Consili go DC.\nsyst.     Adamantha Spach.\n\n           Familie:        Ranunculaceae      Juss.     Tribus: Anemonoideae Less.            Unterfamilie:         Anemoneae\nLess.      Gattung: Adonis Dill.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Adonis vernalis L.，屬毛茛科。異名包括 Adonis apennina 及 Ranunculus。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 313,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 642,
+        "page_text_sha256": "001600e2eb5807a78a605248b37e04d355ca21258a1c5c273a6b487321edd20b",
+        "exact_text_sha256": "7db70073987a307c2b7828d0dee53fa284db603bf974fae3df3e9e4ff9888bf1",
+        "source_line_start": 1,
+        "source_line_end": 9,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "7db70073987a307c2b7828d0dee53fa284db603bf974fae3df3e9e4ff9888bf1",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0313-p0316:s01:x00",
+      "section_type": "description",
+      "original_text": "       Beschreibung: Diese krautartige Pflanze ist ausdauernd und erreicht eine Höhe von\n30 cm. Aus einem bis 3 cm dicken, länglichen, kurzen, schief oder fast senkrecht in der\nErde sitzenden        I     1   11\n                                     aunen Wurzelstock entspringen 10 bis 15 cm lange, glänzend schwarze,\ninnen     weisse    Nebenwurzeln.            Ferner      entwickeln   sich     im Herbst      seitliche   Adventivwurzeln\nund Knospen, wodurch das Rhizom vielköpfig erscheint. Aus den Knospen entwickeln sich\ndie Stengel. Diese sind einfach oder mit wenigen Ästen besetzt, stielrund, gerillt, weichhaarig\nund am Grunde an Stelle der Wurzelblätter mit spiralig gestellten Schuppen besetzt, welche\nals rudimentäre echte Blätter anzusehen sind, insofern sie nicht selten in ein kleines fieder-\nteiliges Blättchen         enden     und    in den Achseln Knospen           tragen.     Diese Schuppen         nehmen     mehr\nund mehr die Gestalt echter Stengelblätter an, indem die Blattscheide kleiner und grün, das\nBlatt selbst aber grösser wird und wiederholt fiederteilig in dreigablige wiederholt                              fiederteilige\nlineale    Zipfel sich auflöst.            Die Stengel    tragen entweder        nur    solche Blätter    und    endigen    mit\neinem Blattschopfe,     oder sie endigen in die einzelne, etwas nickende, bis 5 cm messende\nBlüte.     Bisweilen auch entwickeln sich bei üppigen Exemplaren aus den Achseln der oberen\nBlätter die ebenfalls reich mit fädlich geteilten Blättern besetzten Seitenäste, die dann eben-\nfalls Blüten tragen. Die Blüte, welche von den dichter stehenden oberen Blättern wie von\neiner Hülle gestützt wird, hat aussen fünf weichhaarige,                         bräunlichgrüne oder violettbraune,\nrautenförmige, kahnartig ausgehöhlte, gestreifte, am Rande zerrissen-gezähnelte Kelchblätter.\nDie     13 bis 21 Kronenblätter            stehen     spiralig in mehreren      Umläufen,      so dass zwischen        je zwei\nKelchblättern       mehrere Blumenblätter                zu stehen kommen.",
+      "normalized_text": null,
+      "zh_tw_rendering": "多年生草本，高30公分。根莖短，具黑側根。莖單生或分枝，葉羽狀分裂。花徑5公分，萼片5，花瓣13-21枚，黃色。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 313,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 644,
+        "char_end": 2708,
+        "page_text_sha256": "001600e2eb5807a78a605248b37e04d355ca21258a1c5c273a6b487321edd20b",
+        "exact_text_sha256": "ac3e2fa5f5119bb668747d33f9fa401ef42b02057ffa13a1b87181931ed5c19e",
+        "source_line_start": 11,
+        "source_line_end": 31,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "ac3e2fa5f5119bb668747d33f9fa401ef42b02057ffa13a1b87181931ed5c19e",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0313-p0316:s02:x00",
+      "section_type": "distribution",
+      "original_text": "              Vorkommen.            Die Pflanze. wächst auf grasigen,                 sonnigen Abhängen,          besonders auf\nKalk; sie bildet hier einen herrlichen Frühlingsschmuck, da ihre grossen leuchtenden Blumen\nweithin sichtbar sind.Sie bewohnt Mittel-Europa, das nördliche Asien, Sibirien, hier zugleich\nneben den unten erwähnten Arten auftretend. In Deutschland findet man sie im Elsass, im\nmittleren Rheinthal, in Oberbayern, im nördlichen Thüringen bis zum Harz, in Böhmen und\nOberschlesien.",
+      "normalized_text": null,
+      "zh_tw_rendering": "生長於歐洲中部、北亞及西伯利亞的石灰質草地。德國分佈於阿爾薩斯、萊茵河、巴伐利亞及波希米亞等地。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 314,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 2390,
+        "char_end": 2894,
+        "page_text_sha256": "df602be82cc86ae79793bf9b51b0ad3a7f01463d6c6e9e225cbf32d13b3a3f54",
+        "exact_text_sha256": "7281f09bbc69a7dc67b0ddd1de621acbba31bbdec6787310803042264b2d1ccf",
+        "source_line_start": 30,
+        "source_line_end": 35,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "7281f09bbc69a7dc67b0ddd1de621acbba31bbdec6787310803042264b2d1ccf",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0313-p0316:s03:x00",
+      "section_type": "constituents",
+      "original_text": "           Bestandteile             In dem        Kraute     fand     Linderos             10°), Akonitsäure       an Calcium          und\nKalium gebunden.      Bubnon wies die giftigen Eigenschaften der Pflanze nach, welche Cervello\nals Wirkung des Glycosids Adonidin erkannte. Das Adonidin bleibt beim Fällen eines wein-\ngeistigen Auszuges der Pflanze durch Bleiessig in Lösung, wird aber aus dieser, nach vor-\nsichtiger Neutralisation mit Ammoniak, durch Gerbsäure abgeschieden und aus der Gerbsäure-\nVerbindung durch Eindampfen mit Zinkoxyd abgeschieden. Durch Eindampfen der wässerigen\nLösung und Reinigen mit Äther erhält man das Adonidin als weisses krystallinisches Pulver\nvon     reinem,      starkem,        jedoch       nicht    lange     anhaltendem            bitteren     Geschmack,      welches        im\n_Wasserbade         unter Bräunung            zusammensintert           und beim Erhitzen im Glasrohr Dämpfe aus-\nstösst,    welche         befeuchtetes       blaues       Lakmuspapier            röten;     später    verkohlt    es.   Es    löst    sich\nleicht in Wasser und Alkohol, wenig dagegen in Äther und Chloroform; die Lösung wird durch\nFerrichlorid nicht verändert. Bleiacetat fällt die Lösung nicht, wohl aber Bleiessig; sie\ntrübt     sich     auch     beim     Kochen       nach     Zusatz      eines       Tropfens      verdünnter       Schwefelsäure.         In\nkonzentrierter Schwefelsäure löst sich Adonidin zu einer braunen, allmählich violett werden-\nden     Flüssigkeit;       ‚alkalische Kupferlösung             wird       dadurch         bei 60° reduziert.       Reines     Adonidin\nsoll ohne Rückstand verbrennen.   Es enthält wie das Convallamarin 42,623°/, C, 7,547°/, H,\n49,830°/, ©. Das salzsaure Salz, Adonidinum hydrochlorieum, ist ein amorphes, in Wasser\nlösliches, leicht zusammenbackendes Pulver. — Podwissotzky stellte ein Glycosid Pikro-\nadonidin dar, welches bitter schmeckt, in Alkohol und Wasser leicht, in Chloroform schwer\nlöslich ist. —       Ausserdem            wurde    ein eigentümlicher Zucker,                 Adonit,    C5 H1? O5 in Mengen von\n4°/, des Krautes erhalten.",
+      "normalized_text": null,
+      "zh_tw_rendering": "含阿利酸鈣鉀鹽。主要成分為糖苷 Adonidin，白色結晶，具苦味。另含糖類 Adonit。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 315,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 291,
+        "char_end": 2427,
+        "page_text_sha256": "3590398a07c10b9412007316c0ffeaae8a8d3dd3da9b9a2cfae58f1351477bf7",
+        "exact_text_sha256": "f1470d222d4ddd8cf9a908083693a48831c662eaea690c21682d7ec08d2b6dc4",
+        "source_line_start": 6,
+        "source_line_end": 26,
+        "section_index": 3,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "f1470d222d4ddd8cf9a908083693a48831c662eaea690c21682d7ec08d2b6dc4",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0313-p0316:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "           Anwendung.  Die Pflanzenteile dienen besonders in Sibirien den Einwohnern als harn-\ntreibendes, oft auch sehr schädlich und verhängnisvoll wirkendes Hausmittel. Die diuretischen\nEigenschaften und seinen Einfluss auf die Herzthätigkeit teilt es mit seinen sibirischen Ver-\nwandten, welche dieselbe Verwendung finden. — Das Adonidin wirkt der Digitalis ähnlich,\nals Herzstimulans mit hervortretenden                      diuretischen Eigenschaften.                 Die Einzeldosis für Adonidin\nbeträgt 0,005 g, die Tagesdosis 0,03 g; für das Hydrochlorat empfiehlt Mack 0,004—-0,015\nals Einzeldosis, 0,06 g als Tagesdosis. Man dispensiert beide am besten in Chloroformwasser.\n",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：西伯利亞居民用作利尿劑，但具劇毒。Adonidin 類似洋地黃，曾作心臟刺激劑，劑量極低。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 315,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 2428,
+        "char_end": 3113,
+        "page_text_sha256": "3590398a07c10b9412007316c0ffeaae8a8d3dd3da9b9a2cfae58f1351477bf7",
+        "exact_text_sha256": "b345aa3c92254526b3e3a259831c04e1914c9feabecbf3251025ba8b9e4bab0b",
+        "source_line_start": 27,
+        "source_line_end": 34,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "b345aa3c92254526b3e3a259831c04e1914c9feabecbf3251025ba8b9e4bab0b",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "43209664717e015a91d430b49e5826a7e49830af2327381dbb8aa6b16d14e12a",
+    "maker_receipt_sha256": "2cd9105f0e4b3173b164ee2ac47251edc5e44145afe8dd112360d3862c90a806",
+    "validation_check_sha256": "1e0c3745fd42bb66d9f97290c36df036db76dc2bdc0202b6aab6750b52e625fe",
+    "source_disposition_sha256": "2f54beb1fe26f1c697ada2dc9a5fd6fe91747e06875ad851f8c2af0e57af6a90",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "2cd9105f0e4b3173b164ee2ac47251edc5e44145afe8dd112360d3862c90a806",
+      "validation_check_sha256": "1e0c3745fd42bb66d9f97290c36df036db76dc2bdc0202b6aab6750b52e625fe",
+      "source_disposition_sha256": "2f54beb1fe26f1c697ada2dc9a5fd6fe91747e06875ad851f8c2af0e57af6a90"
+    },
+    "naming_artifact_sha256": "333b00d073e230a435ea9401e06a396da6d5be87ae6548cfdb9bdd82ff2f1afa"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "00783166f02ae5f860afc7ed685dc45780aebadb28338d62231bd6eb742375a3"
+}

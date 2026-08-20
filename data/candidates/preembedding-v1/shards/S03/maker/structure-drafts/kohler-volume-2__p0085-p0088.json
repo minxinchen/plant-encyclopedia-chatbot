@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0085-p0088",
+  "owner_shard": "S03",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 159.852,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0085-p0088",
+    "book_taxon": {
+      "scientific_name_candidate": "Amygdalus eommunis",
+      "authorship_candidate": "L.",
+      "aliases_candidates": [
+        "Prunus amygdalus Baill. (Stokes)",
+        "Mandelbaum",
+        "Almandier",
+        "Almond-tree"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 85,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Amygdalus eommunis L.，同義名 Prunus amygdalus。屬 Rosaceae 科，Amygdalus 屬。俗名 Mandelbaum。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          6
+        ],
+        "exact_source_quote": "                                       Amygdalus eommunis L.\n                                     Syn. Prunus         amygdalus Baill. (Stokes).\n\n                               Mandelbaum          一       Almandier          —        Almond-tree.\n\n            Familie: Rosaceae (Pruneae)                Gattung: Amygdalus Baill."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 85,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "高 5-6 米樹，枝條鐵棕色。葉披針形，鋸齒狀。花先於葉，玫瑰紅或白紅。核果卵形，外殼綠色絨毛，內殼堅硬或易碎。",
+        "warnings": [],
+        "source_line_range": [
+          7,
+          30
+        ],
+        "exact_source_quote": "            Beschreibung.           5 一6Meter hoher Baum mit abstehenden,                     rostbraunen,   im jüngeren Zustande\n grünen, etwas gedrückten, kahlen Aesten, Blätter zerstreutstehend, gestielt, lanzettlich, spitz, drüsig-\n gesägt, netzaderig, kahl, glänzend; Blattstiel oberwürts drüsig (bei der var. amara drüsenlos), so lang\n oder länger als die Breite des Blattes.               Blüthen     fast sitzend, zu 1—2,          vor den Blättern       erscheinend,\n seitenständig. Unterkelch glockig, undeutlich gefurcht, im unteren Theile grün, nach oben braunroth,\n in 5 eiförmig-längliche, stumpfe, aussen braunrothe, innen grüne, am Rande behaarte, etwas vertiefte\n Kelchblátter übergehend. Kronblätter 5, dem Rande des Unterkelchs entspringend, verkehrt-eifórmig,\n von der doppelten Länge der Staubgefässe und von rosenrother oder weisslich-rother Farbe, abfallend.\n Staubgefässe 20—40 an der Zahl, in 2 Kreise gestellt, die inneren gegen den Griffel geneigt, die\n äusseren    etwas    abstehend.     Fäden    rosenroth,     mit    ovalen,       an   beiden Enden      ausgerandeten,     auf dem\n Rücken angehefteten, zweifächerigen, der Länge nach aufspringenden Staubbeuteln. Pollen elliptisch,\n dreifurchig, dreiporig. Der oberständige, freie Stempel mit eiförmig-länglichem, etwas zusammen-\n gedrücktem, einfurchigem Fruchtknoten und fadenförmigem, etwas schief aufsteigendem, einfurchigem\n Griffel, der mit einer schildfórmigen, nach der Griffelfurche zu ausgerandeten, dottergelben Narbe gekrönt\n ist. Der mit 2 (an der Bauchnaht hängenden) Samenknospen ausgestattete Fruchtknoten nebst der\n unteren Hälfte des Griffels zottig behaart. Steinfrucht eifórmig, etwas zusammengedrückt, 4 Ctm. lang,\n 2! Ctm. breit, mit lederartiger, ca. 2 Mm. dicker, grüner, grauweiss-sammethaariger, mit einer Furche\n versehener und dort aufreissender Aussenfruchtschale. Steinschale einfácherig, ein-, selten zweisamig,\n hellbraun, mit tiefen, punktfórmigen Gruben, entweder knochenhart und glänzend oder dünn und sehr\n zerbrechlich und matt (var. fragilis DO.). Same bis 312 Ctm. lang, mit doppelter Samenhaut, unter der\n Spitze am Rande dem Nabelstrang angewachsen, eifórmig, spitz, platt gedrückt, braun, lüngsrunzelig,\n mit   am   spitzen   Ende   befindlichem     Nabel    und   am     rundlichen         Ende   als dunkler    Fleck     auftretendem\n Hagelfleck (chalaza). Embryo ohne Eiweiss, mit kurzem,                           nach oben gerichtetem Würzelchen.              Die\n 2 Samenlappen planconvex."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 86,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "種皮外層褐色，內層白色。細胞含油滴及澱粉粒。苦甜杏仁解剖結構相同，僅化學成分有異。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          21
+        ],
+        "exact_source_quote": "          Anatomisches. Von den beiden Samenhäuten ist die äussere derbhäutig, zimmtbraun und\n mit leicht abreibbaren, braunen Schtippchen bedeckt; die innere Samenhaut ist im Wasser aufgeweicht\n von   der Frucht   leicht trennbar, besitzt eine weisse Farbe        und ist an der abgerundeten Basis mit einer\n kirschbraunen Chalaza versehen.                                                                      m\n          Die braunen Schüppchen, welche die Oberfläche der äusseren Samenhaut bedecken und die\n auch als Schuppenhaare bezeichnet werden, sind eigenthümliche Zellen von eifórmiger, kegel- und\n keulenförmiger, sackartiger, auch eckiger, unregelmüssiger Gestalt und, in Bezug auf die übrigen Zellen,\n von bedeutender Grösse. Die äussere Samenhaut besteht aus mehreren Reihen brauner, dicht verfilzter,\n flach zusammengedrückter,      nach aussen     dunklerer, nach innen hellerer Zellen, welche von Gefässbündeln\n durchzogen sind. Die Stellen, an welchen die Spiralgefässstränge vorhanden sind, zeichnen sich durch\n grössere Dicke aus. Die innere Samenhaut ist durch eine farblose Schicht einer filzigen Membran fest\n mit der äusseren    Samenhaut     verbunden;    sie besteht aus einer, selten 2 Reihen        kleiner, farbloser, fast\n kubischer, nach der äusseren Seite knorpelig verdickter Zellen mit feinkörnigem Inhalte. Die Cotyle-\n donen zeigen ein dünnwandiges, schlaffes Parenchym, welches in den äusseren Schichten kleinzellig\n erscheint, nach innen zu aus grossen kugelig-eckigen Zellen gebildet ist. Der Zelleninhalt der Samen-\n lappen besteht hauptsächlich aus grossen Oeltropfen mit wenigen Aleuronkörnern; auch die innere\n Samenhaut zeigt in geringerem Maasse Oeltropfen, nebst einem feinkörnigen Inhalte, welcher jedoch nicht\n wie das Aleuron von Kali gelöst wird. Die äussere Samenhaut enthält einzelne Krystalle von Caleium-\n oxalat. Alle braunen Theile der Mandel besitzen viel Gerbstoff. Beide Mandeln unterscheiden sich im\n anatomischen   Bau nicht, sondern     sind blos chemisch       von   einander verschieden.    Die Behauptung,    dass\n die bittere Mandel weniger Oel enthält als die süsse, wird von Flückiger bestritten."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 86,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產西亞。現分布於地中海區（西班牙、南法、葡萄牙、西西里、希臘、摩洛哥）及歐洲溫和地區。",
+        "warnings": [],
+        "source_line_range": [
+          22,
+          25
+        ],
+        "exact_source_quote": "          Vorkommen.           Als die eigentliche Heimath des Mandelbaumes wird Vorderasien betrachtet.\n Gegenwärtig    wird er im ganzen     Mittelmeergebiet    (Spanien,     Südfrankreich,   Portugal, Sicilien, Apulien,\n Griechenland, afrikanische Mittelmeerküste, namentlich Marocco) und in den milderen Lagen Mittel-\n europas gezogen, sogar in Südengland und in Südscandinavien."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 87,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "甜杏仁含油 54%、蛋白質、糖。苦杏仁含油 28-44%、苦杏仁苷（Amygdalin）。苦杏仁苷遇酶分解為氫氰酸及苯甲醛。",
+        "warnings": [],
+        "source_line_range": [
+          7,
+          21
+        ],
+        "exact_source_quote": "               Bestandtheile. Die süssen Mandeln enthalten nach Boulay: 54°), fettes Oel, 24°/,\n                                                                                                          eigen-\n     thümliche Proteinsubstanz (Emulsin und Legumin), 6°/, Zucker, 3%, Gummi, 5%, gerbstof\n                                                                                              fhaltige Schale;\n     nach Portes ‘/,°/, Asparagin, nach Zedler 5°) Mineralstoffe Die bitteren Mandeln enthal\n                                                                                                     ten nach\n     Vogel: 28%, (in Wirklichkeit bis 44°) fettes Oel, 30,5%, Proteinsubstanz (Emulsin), 6,59/,\n                                                                                                        Zucker,\n     3%), Gummi, 8,5, gerbstoffhaltige Schale und 2—3,30, Amygdalin.\n               Das fette Oel der Mandeln, welches ungefihr die Hálfte des Gewichts der Mandeln betrágt,\n    ist von hellgelber Farbe, dünnflüssig, besitzt ein spez. Gew. von 0,915— 0,920, ist fast geschmacklos\n     und erstarrt erst bei sehr starken Kältegraden. Es besteht nach Flücki ger fast ganz aus der Glycerin-\n    verbindung der Oelsäure (Oleinsäure) C,,H,,0,.         Das Glykosid Amygdalin (Cy) Ha, NO,,) ist von\n    Robiquet und Boutrond-Charlard im Jahre 1830 in den bitteren Mandeln entdeckt worden; das\n     Verhältniss zum Bittermandelöl und zur Blausäure wurde jedoch erst von Wöhler und Liebig 1837"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 88,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史用途：杏仁油作保護劑，用於咽喉炎、支氣管炎及潤滑。苦杏仁水具鎮靜作用。氫氰酸影響血液及神經系統，具劇毒。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          19
+        ],
+        "exact_source_quote": "„In seiner physiologischen Wirkung unterscheidet sich das Mandelól von den übrigen fetten Oelen nicht.\nIn grösseren Dosen stört es die Verdauung. Das Mandelöl findet als Protectivum zum internen Ge-\nbrauche unter allen fetten Oelen wegen seines milden, angenehmen Geschmackes die häufigste Anwendung,\nz. B. bei Anginen, Heiserkeit, Laryngitis, bei Vergiftungen mit scharfen Stoffen, auch 一 minder gut e\nbei Reizungszuständen entfernter Organe, z. B. Cystitis, Urethritis und Bronchitis. Auch äusserlich\nwird es als reizmilderndes Mittel für sich gern benutzt, z. B. zur Zertheilung von Drüsenanschwellungen,\nferner zur Erweichung verhürteter Sekrete im äusseren Gehörgange, in der Nase und an den Lidrändern,\nselbst zur Einspritzung bei Gonorrhoe.*      Das in seiner Wirkung der Blausäure entsprechende Bitter-\nmandelwusser          ist eine nach längerer Zeit der Aufbewahrung                      klare, farblose, sauer reagirende Flüssig-\nkeit von starkem Geruche und Geschmacke nach bitteren Mandeln. Seine Wirkung gründet sich auf\nden Blausäuregehalt und ist daher eine nervenberuhigende. Durch das Bitter  lelwasser, welches\nauch äusserlich zu Waschungen gebraucht wird, werden alle übrigen Blausäurepräparate ersetzt.\nHusemann             äussert     sich über     die äusserst giftige Blausäure           wie folgt:    „Blausäure     unterscheidet    sich\nvon allen übrigen Neurotica dadurch, dass sie einen entschiedenen Einfluss auf das Blut selbst besitzt,\ndessen Beschaffenheit sie in eigenthümlicher Weise verändert, indem sie sich einerseits chemisch mit\ndem Hämoglobin verbindet und indem sie andererseits die Sauerstoffabgabe seitens der Blutkörper ver-\nringert. Die entfernten Wirkungen äussern sich vorwaltend in Erscheinungen des Nervensystems, wobei\nin hervorragender Weise das Athemzentrum und rasomotorische Centrum afficirt sind“ (Husemann,\nArzneimittell. 1116.)"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "37f542c9db0caad7fdd5dfb6eac95193f2ea24ccff7ea384f7bdd76e82a3ec49"
+}

@@ -1,0 +1,224 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0505-p0508",
+  "entry_id": "kohler-volume-2:p0505-p0508",
+  "owner_shard": null,
+  "book_taxon": {
+    "scientific_name": "Strophanthus hispidus",
+    "authorship": null,
+    "aliases": []
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Strophanthus hispidus"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-20T23:03:32+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Strophanthus+hispidus",
+        "query_name": "Strophanthus hispidus",
+        "retrieved_at": "2026-08-20T23:02:55+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 505,
+      "evidence_type": "text",
+      "page_text_sha256": "98903ef87ba314ed9d55a876579eb52ad2592b757ec584985aa5a7a14f041da3",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 507,
+      "evidence_type": "text",
+      "page_text_sha256": "6822405babecd2cf6089261dc3380335aadf1a921f5c34f1ce1850fc01a79df7",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 508,
+      "evidence_type": "text",
+      "page_text_sha256": "538b686da2856675231e46576b8a45f529b1f81a00c82a7715c500911274f89b",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0505-p0508:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "              Familie: Apocyneae (Apocynaceae),                                            nicht       Asclepiadeae;               Gruppe:              Echiteae;            Gattung:\nStrophanthus D. C.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 505,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 215,
+        "char_end": 415,
+        "source_line_start": 3,
+        "source_line_end": 4,
+        "page_text_sha256": "98903ef87ba314ed9d55a876579eb52ad2592b757ec584985aa5a7a14f041da3",
+        "exact_text_sha256": "1b35c903545b1acb7c3592751f3de2452ee65c0998c774fe0f5885ce8a559b63",
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "1b35c903545b1acb7c3592751f3de2452ee65c0998c774fe0f5885ce8a559b63",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0505-p0508:s01:x00",
+      "section_type": "description",
+      "original_text": "              Beschreibung. Die Gattung Strophanthus, welc\n                           st eh t     au s   .m  il ch  sa ft  fü  hr  en de  n      Sc  hl in  gs tr  äu  ch en  .       Di e     Bl ät  te r     si nd     ge  ge  ns tä  nd  ig  ,      di e\nheimisch ist,           be\n                                        he  ns  tä  nd e       gi pf el  st  än di g.        Ke  lc hz  ip fe  l     in ne  n     am       Gr un   de      mi t    Dr  üs en       be  se tz t.   |\nmeist geknäuelte           n     Bl  üt\n                                       am      Sc  hl un de       mi  t    10     un  ge th  ei lt  en     Sc  hü  pp  ch  en  ;     di  e   Zi  pf el     de s    Sa  um es        si  nd    in\nKrone trichterfó           rm ig ,\n                                          Sp  it ze     au sg  ez og  en  .       De  r     Fr  uc ht  kn  ot  en      ist    vo  n    5    Ne  kt  ar sc  hü  pp  ch  en       um  ge  be  n.\neine lange, bandar              ti ge\n                                   au s    ei ne r     sc hl  an ke  n,       vi el  sa  mi ge  n     Ba  lg ka  ps el  .     Di  e   Sa  me n,      we  lc he     zu    10  0—   20   0      in\nDie Frucht best            eh t\n                                        rl  än ge  rn     si ch    ob  en      in    ei ne n    la  ng  en    Sc  ha ft ,    de ss  en     ob er  er    Th ei l    fe de  rk ro  ne  na  rt  ig\neiner Frucht         st ec ke n,    ve\nmit langen, feimen Seidenhaaren besetzt ist.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 505,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 609,
+        "char_end": 2081,
+        "source_line_start": 6,
+        "source_line_end": 19,
+        "page_text_sha256": "98903ef87ba314ed9d55a876579eb52ad2592b757ec584985aa5a7a14f041da3",
+        "exact_text_sha256": "7bf0820e156a9ada47d34e52954f687d3ec852c29e7b26ba2fc8c7c545e8c03e",
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "7bf0820e156a9ada47d34e52954f687d3ec852c29e7b26ba2fc8c7c545e8c03e",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0505-p0508:s02:x00",
+      "section_type": "distribution",
+      "original_text": "                                                                       he  n     Pf la nz  e    is t    Se ne  ga mb  ie  n     un d     Gu  in ea .      Si  e    wu rd  e\n              Die Heimath dieser westafrika                      ni sc\n                                                                            Uf er n    de s    Ri o   Nu  ne z,      sp ät er   vo n    S m  i t h m a n      in   Si er ra\n zuerst von H       e n d e l o t    in  Se ne ga mb  ie n    an    de  n\n                                                                           e y    ge sa  mm  el te  n   S a m e n     st am mt  en    au  s   Ga  bu n    (1  °  n.   Br .) .\n Leone aufgef       un de n.     Di e   vo n  Gr  if fo n    de    B o l l",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 505,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 6286,
+        "char_end": 7023,
+        "source_line_start": 54,
+        "source_line_end": 59,
+        "page_text_sha256": "98903ef87ba314ed9d55a876579eb52ad2592b757ec584985aa5a7a14f041da3",
+        "exact_text_sha256": "22f6cae8b37a35089b234bdea23a035d9c57a14feeab08031f9eb7ba6c06cd9e",
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "22f6cae8b37a35089b234bdea23a035d9c57a14feeab08031f9eb7ba6c06cd9e",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0505-p0508:s03:x00",
+      "section_type": "constituents",
+      "original_text": "          Bestandtheile, Die Untersuchungen haben an wirksamen Stoffen vorlüufig nur Strophanthin\n ergeben, jedoch Husemann wirft die Frage auf: „Ist nicht zu vermuthen, dass eine nähere Unter-\n suchung, ähnlich wie im Digitalis ein Digitoxin neben den weniger starken Glykosiden, ein Aconitoxin\n neben dem schwach giftigen Aconipikrin ausmittelt?* Helbing fand 24 0/7 fettes Oel von dunkelgrüner\n Farbe, schwach roth opalescirend, in Aether mit smaragdgrüner Farbe löslich.\n              Das    Strophanthin     von Hardy          und      Gallois,       welches    letztere    aus     den von    der Haarkrone\n befreiten,     westafrikanischen         Samen     erhielten,    bildet weisse,      glänzende,        neutral reagirende       Krystalle,\n löslich in Wasser und Alkohol,                   die nach den gemachten Versuchen                     sich weder alkaloidisch        noch\n glykosidisch erwiesen.\n              Das    Strophanthin     Fraser’s       ist ebenfalls ein krystallinischer Körper                ohne   Stickstoff, der beim\n Erhitzen mit verdünnter Schwefelsäure Glykose und einen in Wasser unlöslichen, in rektificirtem Wein-\n geist leicht löslichen, sehr bitteren Paarling,                 Fraser’s    Strophanthidin,       liefert.\n          Das von Gerard neuerdings aus ostafrikanischem Samen durch Tannin erhaltene Glykosid\n  hingegen ist amorph, blassgelb in wässerigen Lösungen, aufschäumend. Gleich dem krystallinischen\n  Körper löst sich das Gerard'sche Glykosid leicht in Wasser und Alkohol, hingegen nicht in Aether\n  und Chloroform. Concentrirte Schwefelsäure färbt nach Helbing grün, später dunkel rothbraun.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 507,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3295,
+        "char_end": 4946,
+        "source_line_start": 34,
+        "source_line_end": 49,
+        "page_text_sha256": "6822405babecd2cf6089261dc3380335aadf1a921f5c34f1ce1850fc01a79df7",
+        "exact_text_sha256": "1772b20ace0f2a93d73365f2fd4277264b626b67015e7750ceade92bb4e17089",
+        "section_index": 3,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "1772b20ace0f2a93d73365f2fd4277264b626b67015e7750ceade92bb4e17089",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0505-p0508:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "                                                                              Ti nk  tu r     be i    He rz le id  en       un d      Wa  ss er su  ch  t.         H u s  e m a  n n\n             Anwendung,                       In Form             ei ne r\n                                                                             h     zu   Di gi ta li s    fo lg en  de rm  as  se  n:      „D ie      gü  ns  ti ge     W i r k u n g ,\nüusser b    si ch   üb  er    di e   W i  r k u n  g     im    Ve rg  le ic\n                                                                                     er su  ch te  n    im   Ge fo  lg e    vo n    He  rz kr an  kh  ei  te n     äu ss er t,    h a t   .\nwelche     Di gi  ta li s   in   me  di  zi na  le  n    Ga  be n    be i    Wa  ss\n                                                           ät ig ke it                    des Herzmuskels                 wesentlich           verstärkt,          die Herzschläge\nihren Grund             da ri n, da ss di es el be di e Th\n                                                                                  En  er  gi e      fo rt  tr ei  bt .      M a n      ha t     di es e    W i r k u n g     de s    Fi ng  er -\nkräftige   r   ma  ch t   un  d    da s    Bl  ut     mi t    gr  ös  se re  r\n                                                                               et  ,     es    is t   ab  er       na  ch    de n     ne  ue st  en      un  d    ex  ak te st  en    Un  te  r-\nhu te s   ei ne   Ze it   la ng     al s   di e    ei nz ig e     be tr ac  ht\n                                                                                ac ht  en ,    da  ss    so   wo  hl     Di gi ta li  s    al s    di e    me is te  n   an  de  re n    so ge  -\nsuchungen         al s  v o l l k o m m e n     fe st ge st el lt     zu     er\n                                                                       e    Ge fä  ss e     be si tz  en  ,     in  so fe rn     si e   ei ne     \"V er  en  ge ru  ng     de  r    Ar te ri en\nnannten Herzgifte eine Wirkung                             au  f    di\n                                                                            ig er  we  is  e      de  r     ve  rs   tä rk te n     F o r t b e  w e g u n g    de  s    Bl  ut es    in    de  n\nherb  ei fü hr en .     Di es er     Ef  fe kt    le gt    no  th   we nd\n                                                                         de  n   W  e g     un  d     er     is t    au ch    im      St an de  ,     di e   ve  rm  eh rt e      Au ss ch ei  -\nGefässen ein bedeutendes Hinder                         ni ss      in\n                                                              el   pr od  uk  te n       ge ra  de  zu        zu      hi nt er tr ei  be n.         Da  ra  uf     be  ru ht      da s    Au s-\ndung von Wasser und Stoffw                             ec hs\n                                                                        s    Di gi ta  li s   na  ch       ei  ni  ge r   Ze  it    de r    Ve  ra  br  ei  ch  un  g    un  d    da s    Au f-   .\n bleiben der harntreibenden Wir                        k u n g      de\n                                                             un   g,      d.  h.   Ve  rg  if tu  ng   se  rs   ch  ei  nu ng  en       au ch     na  ch      lä ng  er em      Ge  br au  ch  e\ntreten der sogen. kumulativen Wi                         rk\n                                                                  Pr of .      T h  o m  a s         Fr  as   er        in     Ed  in   bu rg   h       ge  fu nd en       ha  be n,       da ss\n kleiner Gaben.               Nun          wi ll     ab  er\n                                                               r    Ar  te  ri en      im    Ge  ge   ns  at   ze      zu m     Di gi  ta li  n    in    ei  ne m     au ss  er or  de nt  li  ch\n Strophanthin. diese Verengerun                       g     de\n                                                                 al so     ni ch t    al le in     in     au  sg  ie  bi gs te r     Ma  ni er      di  ur et is ch     wi rk t,     so nd er  n\n geringen Grade hervorbringt,                          un d\n                                                           ht      we rd   en     ka  nn .“        F  r a s  e r      gi eb t   di  e   ge  fä  ss  ve  re ng  er nd  e   W  i r k u n g     de s\n auch längere Zeit hindurch ge                      re  ic\n                                                               k     an     wi e    di  ej en ig  e    de  s    St   ro ph an th  in  s.        „U  nt  er    di es  en    Um   st än  de  n,  “\nDigitalins mindestens 10fach so                          st ar\n                                                    in   St  ro  ph  an  th  us     un  d   St  ro  ph  an   th  in     Mi tt el    zu    be gr  üs  se n,     de ne  n   ei  ne   da ue  rn  de\nsagt Husemann, „h                 ab  en    wi  r\n                                                        im mt       is t        In     Be  zu g      au  f     di  e   Da  rr ei  ch  un  g      de s    Mi  tt el s     äu ss er t    H u s e -\nExistenz im Arzneisc              ha  tz  e     be  st\n                                                ei ne r    Ti nk   tu r      de  n    Vo  rz  ug      vo  r     de   m    St  ro ph   an th  in      gi eb  t:      „B  ei    de r    gr os se  n\nmann, welcher ebenfa                  ll s\n                                               sa  me  n     is t   es    du  rc ha  us      no  th  we  nd   ig  ,     da ss    ma   n      si ch      üb  er    ei  ne   gl  ei ch mä  ss ig  e\n Giftigkeit der Strophan               th  us\n                                           rs  tä nd ig t,      we  lc  he      al  le me  in       zu r     A n  w  e n d u n g      ko mm  t.         M  a n    da  rf   un  te r     ke in en\n Form der Anwendung ve\n                                         d  u n g     ve  rs ch  ie de  ne  r    Ex  tr ak  ti on  sm  it  te   l     od er    ve  rs  ch ie  de  ne r     M e n g e n     de  ss el be n    Ex -\n Umständen durc           h   A  n w e n\n                                                                                     Stärke       darstellen,          wodurch           die Möglichkeit               entsteht, dass\n traktionsmittels              Präparate von verschiedener\n                    un ge n   ei ne s  st är  ke re n  mi  t   ei  ne m    sc hw äc he re n    Au sz ug  e   Ve rg if  tu ng en   he rb  ei ge fü hr t  we  rd  en\n durch Verwechs  el\n                          in   is t  äu ss er st   gi ft ig ;   1,   2  Mg  r.   ge nü ge n,    um    ei  ne n   H u n d   zu   tö dt en .    Na ch    F  r a s e r\n können.“ Stroph    an th\n                            hi ge  n   Th ie re n    St az rh  ei t   de r   Mu sk el n,   so wi e L  ä h m u n g    de r  mo to ri sc he  n   un d   se ns ib le n\n erzeugt es bei warm bl üt\n                            at hi eu  s,      de r    Ba  uc  hg an gl  ie  n    un d    de r  gl at te n   Mu sk el fa  se rn    de s   Ma  ge ns ,   Da  rm es  ,\n Nerven, des Hals     sy mp\n Uterus        und der Blase.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 508,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 1329,
+        "char_end": 8455,
+        "source_line_start": 12,
+        "source_line_end": 70,
+        "page_text_sha256": "538b686da2856675231e46576b8a45f529b1f81a00c82a7715c500911274f89b",
+        "exact_text_sha256": "019212d402d61e2119cc8676e4c825556b3937b525465d675e9dc1dedc5df355",
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "019212d402d61e2119cc8676e4c825556b3937b525465d675e9dc1dedc5df355",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "94368f92dd5676e8a339494734b3ae3406db0980eef8de26b665f13c3da1a486",
+    "maker_receipt_sha256": null,
+    "validation_check_sha256": "c0883aef503fa2af277eb1b16839079eae1068b7d2cc16ba58b5f3c5ea9d149c",
+    "source_disposition_sha256": null,
+    "candidate_source_chain": {
+      "validation_check_sha256": "c0883aef503fa2af277eb1b16839079eae1068b7d2cc16ba58b5f3c5ea9d149c",
+      "package_sha256": "5b9283161b9712045bd4a65dbef4aada84b30c45f990c8bb54f116142fde24e8",
+      "receipt_sha256": "248fe7bb87ed82871e397f68d7d8dfa1ddfe96cb4c789bf3d16f8f101d8dabc2",
+      "recovery_kind": "terminal_body_boundary_split",
+      "source_parent_entry_id": "kohler-volume-2:p0505-p0738"
+    },
+    "naming_artifact_sha256": "e88121e3088aa2d8618ac5e582269c361c903f732d8571ed13380da0d8569dfd"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "fe3db10f3d1f3bea8f6f27d532a384133270890cd88a634af2a8eabe69e0f528"
+}

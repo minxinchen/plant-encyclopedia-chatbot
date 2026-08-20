@@ -1,0 +1,155 @@
+{
+  "schema_version": "2.0",
+  "package_id": "kohler-volume-4:p0002-p0017:child-03:continuation-01",
+  "parent_entry_id": "kohler-volume-4:p0002-p0017",
+  "child_entry_id": "kohler-volume-4:p0002-p0017:child-03",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation-v2:kohler-volume-4:p0002-p0017:child-03:continuation-01:v1",
+  "owner_shard": "S08",
+  "package_sha256": "f94c759f953be281510507d4a70f2bbb6325458926b38341d59d6e48324daadc",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "prompt_version": "plant-structure-line-coordinates-v2",
+  "attempt_sha256": "9e6e3f0666f23ae9cbeea6f487c63fdca825f945c736c7db58ef392d5c25ef84",
+  "raw_response_sha256": "7fc4acdecf4dbfaea738c56992dbfc28ca3acfd03a26bdeeed5ddc516387789d",
+  "elapsed_seconds": 14.077,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 9,
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+      "char_start": 187,
+      "char_end": 492,
+      "source_line_start": 8,
+      "source_line_end": 11,
+      "page_text_sha256": "5b885913e950470bce725dbf9bdd09e42a6883686b3377867b0abe0645efed37",
+      "exact_text_sha256": "d6e372073e996e6a014a821250e5f7ce780b7985fcf73ca53637068438f906ef",
+      "section_index": 0,
+      "section_type": "taxonomy"
+    },
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 9,
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+      "char_start": 347,
+      "char_end": 2410,
+      "source_line_start": 11,
+      "source_line_end": 33,
+      "page_text_sha256": "5b885913e950470bce725dbf9bdd09e42a6883686b3377867b0abe0645efed37",
+      "exact_text_sha256": "1ae969ab4feef14c23e58029fe3ff90e2bbd9a48624812650a279e7f8010cd57",
+      "section_index": 1,
+      "section_type": "description"
+    },
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 9,
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+      "char_start": 2478,
+      "char_end": 2757,
+      "source_line_start": 40,
+      "source_line_end": 43,
+      "page_text_sha256": "5b885913e950470bce725dbf9bdd09e42a6883686b3377867b0abe0645efed37",
+      "exact_text_sha256": "a588312d1b02a6984307dd80a78999314b39462c1541cd8611713e44967bd1c1",
+      "section_index": 2,
+      "section_type": "distribution"
+    },
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 9,
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+      "char_start": 2924,
+      "char_end": 3262,
+      "source_line_start": 48,
+      "source_line_end": 50,
+      "page_text_sha256": "5b885913e950470bce725dbf9bdd09e42a6883686b3377867b0abe0645efed37",
+      "exact_text_sha256": "0bbbbf26fa8b882c548448cec4cc8c9db8ca1b0cf94f815113738da13bfc5c7f",
+      "section_index": 3,
+      "section_type": "historical_use"
+    },
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 11,
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+      "char_start": 2225,
+      "char_end": 2473,
+      "source_line_start": 42,
+      "source_line_end": 53,
+      "page_text_sha256": "684153c7e3b43b1f2f101872e07f99e92554c3d5fb1cf9754503bfe20add68dc",
+      "exact_text_sha256": "91ccf6592afc41fd7b01f780f0cc579bf9c2bfd91c42b0c8a6f5ca6224fa9807",
+      "section_index": 4,
+      "section_type": "plate_description"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-4:p0002-p0017:child-03:continuation-01",
+    "parent_entry_id": "kohler-volume-4:p0002-p0017",
+    "book_taxon": {
+      "scientific_name_candidate": "Boletus bulbosus"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 9,
+        "source_line_range": [
+          8,
+          11
+        ],
+        "exact_source_quote": "               Syn.          Boletus edulis Bull.                    B. esculentus Pers.                 B. crassipes Schum.                  B. aeneus Rosk.\n\n\n               Beschreibung                 :    Der   Stiel des Steinpilzes ist in der                   Jugend knollenformig, spater streckt er"
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 9,
+        "source_line_range": [
+          11,
+          33
+        ],
+        "exact_source_quote": "               Beschreibung                 :    Der   Stiel des Steinpilzes ist in der                   Jugend knollenformig, spater streckt er\nsich mehr und wird keulenformig.                                 Er wird bis zu 16 cm hoch                        bei   4—6 cm Dicke.                   Seine Farbe\n\nist hellbraunlich, im oberen Teile                             ist   er heller als      im unteren Teile,               oft weiBlich; hier zeigt er auch\n\neine mehr oder minder deutliche, manchmal fast verschwindende, regelmaBige, erhabene, weiBe Netz-\nzeichnung. Der Hut ist anfangs fast kugelig und liegt mit seinem Rande dem Stiele fest an. Spater\nbreitet er sich aus, wird halbkugelig oder polsterformig,                                       10—20 oder sogar noch mehr cm breit.                                Seine\n\nOberflache             ist   glatt   und trocken, nach Regenwetter etwas klebrig, heller oder dunkler braun, manchmal\nauch weiBlich.                Das Fleisch ist                fest,   weifi    und verandert nicht seine Farbe                        bei Verletzungen.                Die\n\nRohren         sind anfanglich weifi, spater                         werden sie gelb und                zuletzt    griinlichgelb.          Sie        sind    1   — 3 cm\nlang,       vom Stiele scharf getrennt.                        Vom Fleische losen                 sie    sich      leicht    los.      Ihre Miindungen sind\n\nrundlich, anfangs weifi,                        dann griinlichgelb.           Die Sporen sind olivbraun.                     Von Gestalt sind sie spindel-\nformig mit stumpfem Scheitel, unten sind sie seitlich zugespitzt.                                                 Sie messen 15        — 17      /i    in der       Lange\n                                                                                                                                                                             /\n\n\n\n\nund 5        —6       ft   in der Breite.              Die Membran ist hellbraun und                      glatt."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 9,
+        "source_line_range": [
+          40,
+          43
+        ],
+        "exact_source_quote": "               Vorkommen\n                       *\n                                       :        Der Steinpilz          ist    verbreitet in        Waldern und unter Gebiischen, auch unter\nalten Alleebaumen.                     Er findet sich in ganz Europa und in Nord-Amerika."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 9,
+        "source_line_range": [
+          48,
+          50
+        ],
+        "exact_source_quote": "               Wichtigkeit: Der Steinpilz ist                                einer der besten            und beliebtesten Speisepilze.                        Aufier im\n\nfrischen Zustande                ist       er    auch gedorrt,        als    gewohnliche Konserve                  und      als     Olkonserve          im        Handel."
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 11,
+        "source_line_range": [
+          42,
+          53
+        ],
+        "exact_source_quote": "          — 3 Boletus Satanas. 1 Habitus; 2 Langsschnitt 3 Sporen.\n                          *\n\n\n\n\n         1                                                         ;\n\n\n\n\n         4— 5 Boletus bulbosus. 4 Habitus; 5 junges Exemplar. (Nach Migula.)"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "f1412829b7533ffcf949a8a99e1fc8b9ffb5b0e7440b7e5eada11b8bae0d669d"
+}

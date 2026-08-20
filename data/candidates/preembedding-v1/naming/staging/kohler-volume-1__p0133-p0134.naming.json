@@ -1,0 +1,135 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-1:p0133-p0134",
+  "owner_shard": "S02",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S02/maker/structure-drafts/kohler-volume-1__p0133-p0134.json",
+  "source_draft_sha256": "9fb9e15bdfc2500ee9d158bae54f17aebdfe8c0f2f32396f2fa5c03e455d71d0",
+  "eligibility": {
+    "deterministic_status": "pass",
+    "checked_field": "deterministic_status",
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "4852e5670b7d0c43bfd86a4550744c4bca78ff9e8e375b44e5bdbab928a0f67b",
+    "validation_check_sha256": "2defe30b29c53fba8314d2dc01635712c38dcfb52809cb2c788dc8817b542be4",
+    "source_disposition_sha256": "f13b93fa9dab5e5e9fceb4eb84e696c636366d0184984cf0b791d8202f5c0021",
+    "review_status": "machine_extracted"
+  },
+  "book_name": {
+    "scientific_name_candidate": "Mallotus philippinensis",
+    "authorship_candidate": "Muller Argov.",
+    "aliases_candidates": [
+      "Rottlera tindoria",
+      "Croton philippense",
+      "Croton punctatum",
+      "Kamala",
+      "Kamela",
+      "Kamal",
+      "Punnaga Kesara"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Mallotus philippinensis"
+    ],
+    "accepted_scientific_name": "Mallotus philippensis",
+    "display_name_zh_tw": "粗糠柴",
+    "alternative_names_zh_tw": [
+      "六捻仔",
+      "嘮哩仔",
+      "柿糊木",
+      "菲島桐"
+    ],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0058502",
+    "rationale": "TaiCOL explicitly links the book binomial as a species-level synonym to the accepted taxon.",
+    "checked_at": "2026-08-13T12:27:11+08:00",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Mallotus philippinensis",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Mallotus+philippinensis",
+      "retrieved_at": "2026-08-13T12:27:11+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Mallotus philippinensis",
+          "matched_name_id": 224199,
+          "taxon_id": "t0058502",
+          "taicol_name_status": "not-accepted",
+          "accepted_name": "Mallotus philippensis",
+          "accepted_name_id": 57741,
+          "accepted_usage": [
+            {
+              "usage_id": 179469,
+              "reference_id": 2454,
+              "reference_type": "Book",
+              "publish_year": 2017,
+              "citation": "Ed. Comm. Red List TW Plants,  (2017) The Red List of Vascular Plants of Taiwan, 2017 = 2017 臺灣維管束植物紅皮書名錄.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 276541,
+              "reference_id": 957,
+              "reference_type": "Book Chapter",
+              "publish_year": 1993,
+              "citation": "Hsieh, C.-F., Chaw, S.-M. & Wang, J.-C. (1993) 61. Euphorbiaceae. In: Flora of Taiwan, 2 ed., vol. 3. 414–504.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 117511,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 41503,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0058502",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0058502",
+          "taxon": {
+            "taxon_id": "t0058502",
+            "taxon_status": "accepted",
+            "name_id": 57741,
+            "simple_name": "Mallotus philippensis",
+            "name_author": "(Lam.) Müll. Arg.",
+            "rank": "Species",
+            "common_name_c": "粗糠柴",
+            "alternative_name_c": "六捻仔,嘮哩仔,柿糊木,菲島桐",
+            "synonyms": "Mallotus philippinensis, Macaranga stricta, Mallotus philippensis var. reticulatus, Tanarius strictus, Rottlera aurantiaca, Echinus philippensis, Rottlera philippensis, Rottlera tinctoria, Rottlera tinctoria var. monstruosa, Rottlera affinis, Mappa stricta, Mallotus reticulatus, Mallotus philippensis var. tomentosus, Mallotus bicarpellatus, Croton punctatus, Croton philippensis, Croton laurifolius, Croton distans, Croton coccineus, Aconceveibum trinerve, Croton philippense",
+            "is_in_taiwan": true,
+            "alien_type": "native",
+            "alien_status_note": "native: Ed. Comm. Red List TW Plants, 2017",
+            "not_official": false,
+            "updated_at": "2026-06-18"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

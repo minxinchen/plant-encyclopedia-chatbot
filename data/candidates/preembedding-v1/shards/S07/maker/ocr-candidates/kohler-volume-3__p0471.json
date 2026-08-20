@@ -1,0 +1,124 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 471,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "bcb7961213334b48d42e0073c07be7f68673114e4087ad8e4539f022c26eae2c",
+  "render_dpi": 144,
+  "render_sha256": "f142f4b7b388271c44ed769db2d8d33e51d64d72f4ef32d88e627d7be277d5f9",
+  "input_sha256": "f142f4b7b388271c44ed769db2d8d33e51d64d72f4ef32d88e627d7be277d5f9",
+  "render_pixel_width": 5330,
+  "render_pixel_height": 8198,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.011,
+  "embedded_character_count": 157,
+  "ocr_character_count": 79,
+  "ocr_alpha_ratio": 0.6709,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.3,
+      "height": 0.022804019943116205,
+      "text": "Аросуласеае.",
+      "width": 0.12095621139561286,
+      "x": 0.8256826071875817,
+      "y": 0.9515340368009623
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01891306468418663,
+      "text": "(Carisseae)",
+      "width": 0.0902902121583894,
+      "x": 0.8367676313001129,
+      "y": 0.9340492209248885
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906844729585,
+      "text": "B",
+      "width": 0.020089285506445564,
+      "x": 0.3325892859856165,
+      "y": 0.8125000001386817
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02034883650522379,
+      "text": "(())",
+      "width": 0.02455357101289124,
+      "x": 0.8883928571051614,
+      "y": 0.738372093259016
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883082859107,
+      "text": "7",
+      "width": 0.015625,
+      "x": 0.5625000000837054,
+      "y": 0.718023255951303
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010174418252611783,
+      "text": "2",
+      "width": 0.013392856519336839,
+      "x": 0.05357142865997445,
+      "y": 0.6787790698707872
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372621082103,
+      "text": "4",
+      "width": 0.02455357101289124,
+      "x": 0.8973214289546514,
+      "y": 0.6526162788784124
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010174418252611894,
+      "text": "6",
+      "width": 0.01339285651933686,
+      "x": 0.6294642859144387,
+      "y": 0.5305232561171533
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906844729474,
+      "text": "3",
+      "width": 0.017857142025782438,
+      "x": 0.053571429042912344,
+      "y": 0.28779069759507714
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.021900378522418773,
+      "text": "Aspidosperma Quebracho Schlechtend",
+      "width": 0.31026786379374044,
+      "x": 0.33928570923656226,
+      "y": 0.05523255832503737
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "48",
+      "width": 0.0223214275322281,
+      "x": 0.9174107148053146,
+      "y": 0.008720930414844674
+    }
+  ],
+  "text": "Аросуласеае.\n(Carisseae)\nB\n(())\n7\n2\n4\n6\n3\nAspidosperma Quebracho Schlechtend\n48",
+  "output_sha256": "7276f61bdbddeaea277d37a701aaf01955161c11a2630e7c4d0d2eadcba514dd",
+  "receipt_sha256": "0651fa652f2ac044c4cba048ec8acd7381ed71a9e577e49af9d35dc3733fc8de"
+}

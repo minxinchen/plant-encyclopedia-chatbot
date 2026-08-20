@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 493,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "194464dafa55e0292730a22854c351d5558661bc7532e9fc27de6a096fa96bbb",
+  "render_dpi": 144,
+  "render_sha256": "528c039854ce13c36e59fba0e8790751ac7877bf57df1d1f3e5d65814c0284b3",
+  "input_sha256": "528c039854ce13c36e59fba0e8790751ac7877bf57df1d1f3e5d65814c0284b3",
+  "render_pixel_width": 5594,
+  "render_pixel_height": 8162,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.919,
+  "embedded_character_count": 36,
+  "ocr_character_count": 40,
+  "ocr_alpha_ratio": 0.75,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.019169052441914802,
+      "text": "Monimiaceae",
+      "width": 0.11026886472136166,
+      "x": 0.8177469241837846,
+      "y": 0.9577119854458027
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "B",
+      "width": 0.016949152635941434,
+      "x": 0.5254237286820292,
+      "y": 0.1133720932055422
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "12",
+      "width": 0.023305084184351288,
+      "x": 0.7118644070391803,
+      "y": 0.101744186228798
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372621082214,
+      "text": "8",
+      "width": 0.02118644079492682,
+      "x": 0.3453389828864349,
+      "y": 0.08430232541729321
+    },
+    {
+      "confidence": 1,
+      "height": 0.02040074742029585,
+      "text": "Peumus Boldus Molina.",
+      "width": 0.21186439966844928,
+      "x": 0.40889831075899563,
+      "y": 0.013081395642736804
+    }
+  ],
+  "text": "Monimiaceae\nB\n12\n8\nPeumus Boldus Molina.",
+  "output_sha256": "27a922ae9215cf20019b9183331922ce28509e039e9ded8a677c1158f0a17361",
+  "receipt_sha256": "415fa0a9aad1c8dfdf0717b60a195babed925336d55d6bda89fe3c60b0fd7bd4"
+}

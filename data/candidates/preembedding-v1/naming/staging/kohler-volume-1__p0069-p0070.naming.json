@@ -1,0 +1,234 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-1:p0069-p0070",
+  "owner_shard": "S01",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S01/maker/structure-drafts/kohler-volume-1__p0069-p0070.json",
+  "source_draft_sha256": "6dbb54f95489c6bceb259b2f284f5c41ab2c9508db87d8b262ddca45c252d8ce",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "fad4d69e6290bc540e3bb1420f9ebd28e0a5200932814f0830ba0fec58b276a4",
+    "validation_check_sha256": "f642e39894f321a99a47b7648d3e35e8dabaff339685139c2f00bb789a5df117",
+    "source_disposition_sha256": "5c15459522f305258a542e8c6a00da82bc954f79c520a0f994ffd01f1201c495",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Daphne Mezereum",
+    "authorship_candidate": "L.",
+    "aliases_candidates": [
+      "Thymelaea Mezereum Scop.",
+      "Mezereum officinarum C. A. Meyer",
+      "Kellerhals",
+      "Seidelbast",
+      "Zeiland",
+      "Deutscher oder Berg-Pfeffer",
+      "Mezereon",
+      "Bois gentil"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Daphne Mezereum",
+      "Daphne mezereum"
+    ],
+    "accepted_scientific_name": "Daphne mezereum",
+    "display_name_zh_tw": "歐亞瑞香",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": null,
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "tai2"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary",
+    "rationale": "Tai2 exactly lists the book binomial as a main name or synonym and links it to this accepted species page.",
+    "checked_at": "2026-08-13T17:22:28+08:00",
+    "tai2_code": "999 990 332 25"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Daphne Mezereum",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Daphne+Mezereum",
+      "retrieved_at": "2026-08-13T17:22:22+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Daphne",
+          "matched_name_id": 1177,
+          "taxon_id": "t0023634",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Daphne",
+          "accepted_name_id": 1177,
+          "accepted_usage": [
+            {
+              "usage_id": 176577,
+              "reference_id": 2454,
+              "reference_type": "Book",
+              "publish_year": 2017,
+              "citation": "Ed. Comm. Red List TW Plants,  (2017) The Red List of Vascular Plants of Taiwan, 2017 = 2017 臺灣維管束植物紅皮書名錄.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 277260,
+              "reference_id": 984,
+              "reference_type": "Book Chapter",
+              "publish_year": 1993,
+              "citation": "Chang, C.-E. (1993) 87. Thymelaeaceae. In: Flora of Taiwan, 2 ed., vol. 3. 772–779.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 6948,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": null
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0023634",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0023634",
+          "taxon": {
+            "taxon_id": "t0023634",
+            "taxon_status": "accepted",
+            "name_id": 1177,
+            "simple_name": "Daphne",
+            "name_author": "L.",
+            "rank": "Genus",
+            "common_name_c": "瑞香屬",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": null,
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Daphne mezereum",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Daphne+mezereum",
+      "retrieved_at": "2026-08-13T17:22:22+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Thymelaea mezereum",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Thymelaea+mezereum",
+      "retrieved_at": "2026-08-13T17:22:23+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Mezereum officinarum",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Mezereum+officinarum",
+      "retrieved_at": "2026-08-13T17:22:23+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Deutscher oder",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Deutscher+oder",
+      "retrieved_at": "2026-08-13T17:22:23+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Bois gentil",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Bois+gentil",
+      "retrieved_at": "2026-08-13T17:22:23+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Daphne mezereum",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Daphne%20mezereum",
+      "retrieved_at": "2026-08-13T17:22:28+08:00",
+      "exact_result_count": 1,
+      "exact_results": [
+        {
+          "name": "<em>Daphne</em> <em>mezereum</em> L.",
+          "ebooksearch": "Daphne mezereum",
+          "simnametitle": "<em>Daphne</em> <em>mezereum</em>",
+          "type": "M",
+          "code": "999 990 332 25",
+          "apgfamily": "Thymelaeaceae",
+          "chapgfamily": "瑞香科",
+          "family": "Thymelaeaceae",
+          "chfamily": "瑞香科",
+          "genus": "Daphne",
+          "chgenus": "瑞香屬",
+          "fern": "no",
+          "chname": "歐亞瑞香",
+          "comname": "",
+          "comtype": "",
+          "endetype": "Non-Taiwanese",
+          "result_type": "species"
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "species_url": "https://tai2.ntu.edu.tw/species/999%20990%20332%2025",
+      "accepted_species_record": {
+        "name": "<em>Daphne</em> <em>mezereum</em> L.",
+        "ebooksearch": "Daphne mezereum",
+        "simnametitle": "<em>Daphne</em> <em>mezereum</em>",
+        "type": "M",
+        "code": "999 990 332 25",
+        "apgfamily": "Thymelaeaceae",
+        "chapgfamily": "瑞香科",
+        "family": "Thymelaeaceae",
+        "chfamily": "瑞香科",
+        "genus": "Daphne",
+        "chgenus": "瑞香屬",
+        "fern": "no",
+        "chname": "歐亞瑞香",
+        "comname": "",
+        "comtype": "",
+        "endetype": "Non-Taiwanese"
+      },
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

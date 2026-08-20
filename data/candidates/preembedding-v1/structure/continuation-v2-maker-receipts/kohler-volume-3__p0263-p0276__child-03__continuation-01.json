@@ -1,0 +1,155 @@
+{
+  "schema_version": "2.0",
+  "package_id": "kohler-volume-3:p0263-p0276:child-03:continuation-01",
+  "parent_entry_id": "kohler-volume-3:p0263-p0276",
+  "child_entry_id": "kohler-volume-3:p0263-p0276:child-03",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation-v2:kohler-volume-3:p0263-p0276:child-03:continuation-01:v1",
+  "owner_shard": "S07",
+  "package_sha256": "6998e0432db1504fdc9f9057987a408397a3027b5c6aaba0ce212da9839776ff",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "prompt_version": "plant-structure-line-coordinates-v2",
+  "attempt_sha256": "104c340bf8ec816161138c1de0159ba3eb3f41e3ad7931152eb50e94a1b6c975",
+  "raw_response_sha256": "46761db701f65df1189700da99d65007cf6ee0774be3abdef41c3dbbfdfa8144",
+  "elapsed_seconds": 15.371,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 273,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 0,
+      "char_end": 518,
+      "source_line_start": 1,
+      "source_line_end": 8,
+      "page_text_sha256": "7eae6522e4091d71500b20d675abd4d8a711e644a99e01726c7e8900b9324c29",
+      "exact_text_sha256": "bd71370179f0fa00fa20db07dc3784fdaf7ff4df5dbf30b7e9ef1d7a65232fb8",
+      "section_index": 0,
+      "section_type": "taxonomy"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 273,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 520,
+      "char_end": 3698,
+      "source_line_start": 10,
+      "source_line_end": 47,
+      "page_text_sha256": "7eae6522e4091d71500b20d675abd4d8a711e644a99e01726c7e8900b9324c29",
+      "exact_text_sha256": "f593d286a8bdcb17c5a70e38092d753ebb658a2f89c7432bfd1bd03c722e2687",
+      "section_index": 1,
+      "section_type": "description"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 274,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 0,
+      "char_end": 1824,
+      "source_line_start": 1,
+      "source_line_end": 22,
+      "page_text_sha256": "8f5eaf695c7353ff52d82a765e504c2553d792e24d3ae74e10ea16f37034f0d7",
+      "exact_text_sha256": "7dd64f91575dbb67cadc75010038de75ebba5a27a28b1307c6ed22215291aa95",
+      "section_index": 2,
+      "section_type": "flowering"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 275,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 182,
+      "char_end": 2741,
+      "source_line_start": 5,
+      "source_line_end": 32,
+      "page_text_sha256": "53e2dcc978a4edc1f642e1265b1063a18b71beaed44d6f7ad719857de83ee2b4",
+      "exact_text_sha256": "f0d3fdc92974dd719c32c8a185b021854898f882a86063d3d421242035c93425",
+      "section_index": 3,
+      "section_type": "anatomy"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 275,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 3415,
+      "char_end": 3945,
+      "source_line_start": 39,
+      "source_line_end": 43,
+      "page_text_sha256": "53e2dcc978a4edc1f642e1265b1063a18b71beaed44d6f7ad719857de83ee2b4",
+      "exact_text_sha256": "466bdd13b0f1b291e80d1fcc09e4b2f67bc2cbcee558840c1315a0a833a37b27",
+      "section_index": 4,
+      "section_type": "historical_use"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-3:p0263-p0276:child-03:continuation-01",
+    "parent_entry_id": "kohler-volume-3:p0263-p0276",
+    "book_taxon": {
+      "scientific_name_candidate": "Conyza squarrosa"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 273,
+        "source_line_range": [
+          1,
+          8
+        ],
+        "exact_source_quote": "                                                Conyza                   squarrosa                    L.\n                                                               Sparrige Dürrwurz.\n\n           Syn.:        Conyza vulgaris Lam.                   Inula    Conyza DC.            Inula squarrosa       Bernh.\n\n\n       Familie.    Compositae.e Unterfamilie: Tubiflorae.e Gruppe:                                                   Corymbifera.            Unter-\ngruppe: Asteroideae. Tribus: Imuleae.e Gattung: Conyza L."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 273,
+        "source_line_range": [
+          10,
+          47
+        ],
+        "exact_source_quote": "           Beschreibung.                Die Pflanze            ist eine Staude            von 0,50 bis 1,50 m Höhe,                    zweijährig\noder    ausdauernd.              Die    dicke, braune            oder    gelbbraune,          holzige Pfahlwurzel           ist mit mehreren\n\nschief absteigenden Ästen und zahlreichen Nebenwurzeln versehen; sie treibt nach oben im\nersten Jahre        nur einen Schopf staubig graugrüner                            mehr oder weniger niederliegender rosetten-\n\nartig gruppierter           Blätter,        im zweiten           Jahre       dagegen       einen    oder mehrere         harte,        undeutlich\n\nkantige, mit kurzen abstehenden Wollhaaren oder mit Flaumhaaren besetzte, an der Sonnen-\nseite oft rot gefärbte                 Stengel,    welche        erst in der Blütenregion                sich verzweigen.              Die grund-\n\nständigen Rosettenblätter                  sind sehr verschieden                 von     den Stengelblättern.           Die Rosettenblätter\n\nsind bis zu 15-22                  cm     lang und             5—-8     cm      breit, am       oberen       Ende     in eine      nicht        allzu-\nscharfe Spitze auslaufend,                     am Grunde               in den breiten flachrinnigen Blattstiel verschmälert\nund     hier      mit     langen        weissen         Seidenhaaren            dicht    und     langzottig      besetzt.        Der    Rand      der\n\nBlätter ist entfernt sägezähnig.                        Die mit abstehenden Haaren besetzte Oberfläche ist etwas\nwellig,     die     ebenfalls          haarige      Unterseite          zeigt     zwischen         den stark    hervortretenden              Nerven\n\nund Adern tiefe Maschen, in denen gegen das Licht betrachtet, ein feines Adernetz bei den\njungen     Blättern        zum     Vorschein            kommt.          Dasselbe        verschwindet        in dem Maße          als    die Blatt-\n\nsubstanz       konsistenter             wird      und    ist     bei    ausgewachsenen             Blättern    der Rosette        ebensowenig\n\nmehr nachweisbar als bei den Stengelblättern.                                   Während        die grundständigen        Blätter lanzettlich\n\noder     eilanzettlich       und        gestielt sind, besitzen              die eiförmigen           Stengelblätter keinen            Stiel;    ihre\n\nSubstanz ist erheblich härter, als die der ersteren,                                     die Oberfläche rauh, der Rand ziemlich\nscharf     und      entfernt       gezähnt;         Öber-       und     Unterseite        sind auch        hier behaart.     —     Der Stengel\n\nverästelt      sich erst in der Blütenregion.                          Die Äste entspringen             den Achseln         von Stützblättern\n\nund     endigen        in  einer\n                        ziemlich Ebene oder bilden eine  gekrü mmte   Oberfl äche, die aus den\nendständigen Blütenkörbchen entstanden ist; der Blütenstand ist also ein sehr gut entwickelter\nEbenstrauss.             Jedes    Körbchen          wird        von     einem      schmallanzettlichen              oder linealischen           ganz-"
+      },
+      {
+        "section_type": "flowering",
+        "pdf_page": 274,
+        "source_line_range": [
+          1,
+          22
+        ],
+        "exact_source_quote": "zurückgebogene Spitze auslau fen  ; die mit tle ren sin d lin eal , die inn ers ten fas t pfr iem lic h, all e\nmit anliegender Spitze und violett berandet. Der gemeinsame Blütenboden ist etwas konvex,\nfeingrubig und kahl. Die Blütchen sind nicht von Spreublättchen begleitet. Die Randblüten\nsind rötlich, röhrig und                     weiblich;       ihre ursprüngliche dreizähnige Zunge                      ist bis auf drei spitze\n\nZähne am Rande                       reduziert; der Griffel endet in zwei flache lineale Narben, die\n                                 der Röhre\nsich     an     der Spitze allmählich verbreitern und beiderseits mit sehr kurzen Haaren bedeckt\nsind.  Der Fruchtknoten ist walzig, unterständig mit einem einreihigen aus einfachen langen\nrauhen, von einander getrennten Haaren gebildeten, bleibenden Pappus gekrönt. Die Rand-\nblüten        überragen              nicht     die    innersten     Hüllkelchblätter.           Die Scheibenblüten              sind schmutzig\n\nschwefelgelb und kaum länger als die Randblüten.                                       Sie sind vollständig röhrig, regelmässig,\nfünfzähnig.            Die Antheren                 der    fünf Staubblätter          sind    röhrig: verwachsen;              an   dem    freien\n\nGrunde         sind sie geschwänzt.                        Fruchtknoten,        Griffel und Narbe              sowie     der Haarkelch der\nScheibenblüte            sind         denen         der Randblüten          gleichgestaltet.           Die Rand- und Scheibenfrüchte\nsind gleichgestaltet; es sind braune, längsriefige, rauhhaarige, nahezu walzenförmige Achaenen,\ndie von dem bleibenden Pappus gekrönt sind.                                     Sie besitzen kein Nährgewebe und haben einen\ngeraden,        umgekehrten                 Keimling.\n\n"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 275,
+        "source_line_range": [
+          5,
+          32
+        ],
+        "exact_source_quote": "          ‘ \"Anatomie.\n                   Anatomische Merkmale von hervorragender Bedeutung für die Diagnose\nund die Unterscheidung der Conyza-Blätter von den Digitalis-Blättern bieten die Haare und\n„die Beschaffenheit              der Blattzähne.            Diese     Unterschiede          sind folgende:\n\n       Conyza squarrosa L. besitzt 1. dünne, in eine lange, gebogene Spitze auslaufende\nHaare; 2. stumpfe oder abgebrochene Haare, die sich besonders am Blattrande befinden,\n\"und wahrscheinlich aus den ersten Haaren entstanden                                  sind;    3. mehrzellige Drüsenhaare,                   deren\nfünf bis sechs Zellen viel breiter                       als lang, und        nicht selten      in Doppelreihen             angeordnet        sind.\n\n             Digitalis purpurea L. besitzt 1. spitze mit Kutikularwärzchen                                           dicht besetzte Haare,\n\"welche aus drei bis vier Zellen bestehen; 2. ein- bis zweizellige Gliederhaare und 3. Drüsen-\n\"haare, deren schlanker, zwei- bis dreigliedriger Stiel ein grosses rundes einzelliges Köpfchen\n ‚trägt oder        die aus       einzelligem       Stiel und         zweizelligem        Köpfchen         bestehen.\n\n              Conyza squarrosa L.                  Die Randzähne treten aus dem Rande                              nur sehr wenig hervor\n»und sind nicht mit Haaren besetzt, endigen auch nicht in ein glänzendes Spitzchen.                                                          In die.\n Zähne       treten     kleine      Büschel        von     Nerv           len,    während      seitlich      kleine      bogige     Randnerven\n der Spitze zustreben.\n\n                Digitalis purpurea L. besitzt neben                       grossen Kerbzähnen                sehr kleine Spitzchen               von\nverschiedener            Ausdehnung.           Der        Rand    ist überall       mit     feinen     Härchen        besetzt;      die   grossen\n Zähne       endigen      in ein kurzes,           stark     lichtbrechendes          Spitzchen.       —     In die grossen          Kerbzähne\n  tritt aus der Nervetur des Blattes ein langer,                             gerader,        ungeteilter Nerv, der sich am Ende\n‘in ein Büschel           auflöst.         An seinem Grunde                 gehen     die Nerven            unter rechten Winkeln von\n  ihm     aus     und    bilden      mit     ihm     und zwei         in den      Zahn      eintretenden       Randnerven           grosse    drei-\n  und     viereckige      Felder.\n"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 275,
+        "source_line_range": [
+          39,
+          43
+        ],
+        "exact_source_quote": "                Anwendung.          Man benutzte das Kraut früher um Hexerei und Zauberei zu beschwören;\nes       sollte    auch vor Blitzschlag                   und Hagel vorschonen. — Neben der Herba Conyzae majoris\n .gab     es noch       eine Herba         Conyzae mediae von             Pulicaria      dysenterica       Gärtn.;       ferner    Herba Conyzae\n - minoris von Pulicdria vulgaris Gaertn. und Herba Conyzae minoris coeruleue von Erigeron acer L.\n  —     Alle diese      Kräuter       sind heute           obsolet."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "44fa751bae414dc2c730e5844000121cfa95c1afcd735934dde83c8c88012fe7"
+}

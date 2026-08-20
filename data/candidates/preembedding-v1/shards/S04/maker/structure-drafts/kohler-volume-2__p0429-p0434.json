@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0429-p0434",
+  "owner_shard": "S04",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 179.729,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0429-p0434",
+    "book_taxon": {
+      "scientific_name_candidate": "Acacia Senegal",
+      "authorship_candidate": "Willd.",
+      "aliases_candidates": [
+        "Mimosa n L.",
+        "Acacia Verek",
+        "Mimosa senegalensis",
+        "Acacia rupestris"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 429,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Acacia Senegal Willd.，異名包括 Mimosa n L.、Acacia Verek 及 Mimosa senegalensis。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          3
+        ],
+        "exact_source_quote": "                                       Acacia Senegal Willd.\n   Syn. Mimosa          n        L.    Acacia Verek Guill. et Perott.            Mimosa senegalensis Lami.\n                                               Acacia rupestris Stocks."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 429,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "高至 6 公尺的直立樹或灌木，白硬木，枝條彎曲圓潤，節處具 3 枚黑色鉤狀刺。",
+        "warnings": [],
+        "source_line_range": [
+          8,
+          12
+        ],
+        "exact_source_quote": "         Beschreibung. Acacia Senegal wird als derjenige Baum bezeichnet, der das meiste und\nreinste Gummi liefert. Es ist dies ein bis 6 Meter hoher, aufrechter Baum oder auch Strauch mit\nweissem,   sehr hartem Holze und gekrümmten,          schlanken,   runden Zweigen,   die an den Knoten,   denen die\nBlätter entspringen mit 3 (bisweilen auch 2) kurzen, glänzend schwarzen, hakigen Dornen besetzt sind,\nvon welchen einer unterhalb      des Blattstieles   steht, die beiden   anderen eine seitliche Stellung einnehmen."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 430,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "產於東西非北緯 10-20 度間，東非尼羅河流域稱 Haschab，西非塞內加姆比亞稱 Verek。",
+        "warnings": [],
+        "source_line_range": [
+          43,
+          48
+        ],
+        "exact_source_quote": "            Vorkommen,        A. Senegal ist im östlichen und westlichen Afrika zwischen dem 10. und 20.0\n  n. Br. einheimisch und wahrscheinlich auch in Innerafrika. Im östlichen Afrika häufig auftretend im Strom-\n. gebiete des Weissen Nil und des Atbara, namentlich aber in Kordofan und hier mit dem arabisch\n                                                                                                          en\n  Namen Haschab bezeichnet.        Noch häufiger ist das Auftreten der Gummiacacie, und hier mit Verek\n  benannt, in Senegambien, woselbst sie sehr ausgedehnte Bestände bildet. F lückiger äussert"
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 431,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源於阿拉伯語 kami，古埃及文獻已記載，羅馬時期稱 Gummi acanthinum。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          6
+        ],
+        "exact_source_quote": "            Name und Geschichtliches. Ueber Acacia und Mimosa siehe den Artikel Acacia Catechu\n-Taf. 116. Gummi (althochd. czar, arabisches Gummi = czar von arabien, in späteren Zeiten Gumme\n‚von Arabien, Senegalgummi) von dem arabischen kami, griechischen xöunı, römischen cummi,\n  cummis (commis), nach späterer Schreibart gummis, worunter man einen ausfliessenden Pflanzensaft\n  verstand,                                                                                E\n    -   . Bebon die ägyptischen Denkmäler, welche 1700 Jahre vor Christi Geburt geschaffen wurden,"
+      },
+      {
+        "section_type": "harvest",
+        "pdf_page": 431,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "雨季後東風吹乾樹皮致其破裂，膠液流出，主要於 3-4 月開花前後採集。",
+        "warnings": [],
+        "source_line_range": [
+          41,
+          46
+        ],
+        "exact_source_quote": " flusst wird. Louvet und Pergolotte berichten über die Ernte folgendes: Der volle Saftreichthum\n tritt während der von Juli bis September andauernden Regenzeit ein. Im Dezember und Januar wehen\n von der Küste her die heissen Ostwinde (Mbohio oder Harmattan), welche die Rinde austrocknen und\n aufreissen.     Je anhaltender     und stärker dieser Ostwind             weht,    um    so reichlicher ist das Austreten   des\n Gummi; am reichlichsten ist der Ausfluss jedoch während oder unmittelbar nach der Blüthezeit,\n namentlich zwischen Mitte März und Mitte April, also kurz vor Eintritt der Blätter. Nach Guillemin"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 432,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "成分為阿拉伯酸的鉀、鈣、鎂鹽，對應化學式 C2H32O11 + 3 H2O。",
+        "warnings": [],
+        "source_line_range": [
+          44,
+          46
+        ],
+        "exact_source_quote": "|             Bestandtheile.      Nach Neubauer ist das Gummi als das saure Kali-, Kalk- und Magnesia-\n    salz der Arabinsäure    zu betrachten und entspricht im lufttrockenen Zustande der Formel C.2H320,1\n    + 3 0H; es beansprucht 13,6%, Wasser, welches es bei 100° verlierend, sehr rasch wieder anzieht."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "9f857d038b49797ad2144b484a6fa2675b6b33cf0cf13cee49da762431d52dd1"
+}

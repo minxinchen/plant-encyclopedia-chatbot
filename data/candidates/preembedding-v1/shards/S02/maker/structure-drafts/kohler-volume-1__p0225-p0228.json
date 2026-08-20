@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0225-p0228",
+  "owner_shard": "S02",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 150.488,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0225-p0228",
+    "book_taxon": {
+      "scientific_name_candidate": "Aspidium fllix mas",
+      "authorship_candidate": "Swartz",
+      "aliases_candidates": [
+        "Polystichum mas Rth.",
+        "Polypodium mas L.",
+        "Nephrodium filix",
+        "Lastrea filix",
+        "Wurmfarn"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 225,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Aspidium fllix mas，同義名包括 Polystichum mas 及 Polypodium mas。屬 Polypodiaceae 科。",
+        "warnings": [],
+        "source_line_range": [
+          6,
+          14
+        ],
+        "exact_source_quote": "                                          Aspidium fllix mas Swartz.\nS j n.     Polystichum              mas Rth.               Polypodi                          mas L.        Nephr odium fit\n                                                        Lastrea        fil\n\n\n\n                                   Wurmfarn                       Fougere male                     Aspidium.\n\n            Familie: Polyp odiaceae (Ordnung: Filices).                                   Gattung: Aspidium Sw."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 225,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "根莖粗壯，長逾 1.3 米，具棕色根及鱗片。葉螺旋狀捲曲，成熟葉長約 1 米，寬 1/4 米，羽狀分裂。",
+        "warnings": [],
+        "source_line_range": [
+          16,
+          30
+        ],
+        "exact_source_quote": "            Beschreibung.           Das kraftige, horizontale oder aufsteigende, iiber 1 3 Meter lange, 2             |\n                                                                                                                                                    —        1\n                                                                                                                                                                 / 2w\n                                                                                                                                                                        Ctm.\ndicke, jedoch durch zahlreiche, ziegeldachig gedrangte,                             nach dem Absterben des Blattstieles noch einige\nJahre fortvegetirende Blattstielreste gewohnlich bis 6 Ctm. im Durclimesser baltende Rhizom reiclilich\nmit fadenformigen, braunen, etwas astigen Wurzeln und zahlreichen, rostbraunen, trockenhautigen,\ndurch scheinenden, langzugespitzten, auf Blattstiel und Spindel ubergehenden, allmahlig kleiner werdenden\nSpreuschuppen besetzt.           Ausser den in voller Vegetation stehenden Blattern birgt die Endknospe noch\neine Rosette junger, schneckenformig eingerollter                        ,\n                                                                             ganz von Spreuschuppen bedeckter Blatter.                                            Blatt-\nwedel in      der Regel        zahlreich    aus        dem       Scheitel    des Wurzelstockes            hervorbrechend,                     in   der Jugend\nschneckenformig eingerollt und dicht mit Spreuschuppen besetzt.                                    Das ausgebildete, meist etwas schlaffe,\nim Herbst absterbende Blatt bis               l\n                                                  1"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 225,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "根莖橫切面顯示維管束網，含分泌綠色樹脂的腺體。葉柄基部具 7 至 8 個維管束。",
+        "warnings": [],
+        "source_line_range": [
+          56,
+          77
+        ],
+        "exact_source_quote": "           Anatomisches.            Der Querschnitt durch                    die vordere,         jungere Halfte des Rhizoms zeigt ein\nparenchymatisches Grundgewebe, welches durch ein cylindrisches Gefassbiindelnetz in ein starkes Mark\n                                                                                             —\nund eine ziemlich machtige Rinde getheilt wird. Das von 6 8 Schichten sehr dickwandiger, braun-\ngelber Zellen bedeckte Hauptgewebe besteht aus einem dlinnwandigen, starkehaltigen aus isodiamet-                                        ,\n\n\n\n\nrischen oder etwas axial verlangerten polyedrischen Zellen zusammengesetzten Parenchym mit ein-\n              _                                                                                               ____                                       _\n\n\n\ngestreuten Intercellularraumen, in die einzelne kleine, sehr kurzgestielte Driisen hineinragen.                                                          Letztere\ndurch Ausstiilpung einzelner Parenchymzellen                           entstanden und als deren Tochterzellen zu betrachten,\nbestehen     vorerst     aus   einem kurzen,            cylindrischen Stiele,               der sich nach Bildung einer                           Qnerwand in\neinen grossen, kugeligen bis birnformigen Kopf erweitert, auf dessen Oberflache sich eine dicke Schicht\neines zah fliissigen, griinlichen, glanzenden Harzes (wahrscheinlich der wirksame Arzneistoff) abscheidet.\nAuch     die Blattstielbasis zeigt         dieselben Driisen.                Auf der Grenze zwischen Mark und Rinde befinden\nsich in kreisformiger          Anordnung       cylindrische            oder auch tangential zusammengedriickte Gefassbundel,\nvon deren Netzmaschen,        Rinde durchziehend, Fibrovasalstrange nach den Blattstielen abgehen."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 226,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "生長於北半球陰涼森林或陽坡，海拔至 1800 米。分佈於歐洲、亞洲、北美、墨西哥及南美山區。",
+        "warnings": [],
+        "source_line_range": [
+          28,
+          41
+        ],
+        "exact_source_quote": "            Verbreitung.Der Wurmfarn wachst gesellig, sowohl in schattigen Waldern, namentlich\nWaldschluchten als audi an sonnigen Abhangen in den meisten Landern der nordlichen Halbkugel,\n                     ,\n\n\n\nvon der Ebene bis zu 1800 Meter Meereshohe also in ganz Europa und Asien bis Island und Sachalin\n                                                                ;\n\n\n\n\nund in Nordamerika.   Findet sich auch in Mexico, in den Gebirgen Sudamerikas und in den Berg-\nregionen von Java."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 226,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史記載用於驅蟲。中世紀德國少用，後因 Nuffler 祕方及普魯士腓特烈大帝推廣而知名。",
+        "warnings": [],
+        "source_line_range": [
+          61,
+          87
+        ],
+        "exact_source_quote": "wurmtreibende Eigenschaften schon dem Theophrast bekannt waren.      Dioscorides sagt, dass die\nBlatter von diesem Kraut keinen Stengel haben und dass weder Blumen noch Friichte vorhanden sind.\nPlinius unterschied bereits mannlichen und weiblichen Farn. Galenus und Aetius brachten unsere\nPflanze als Wurmmittel in Anwendung; Valerius Cordus lieferte eine,                                 wenn auch schlechte Abbildur-\nBrunfels, der von dem „Waldtfarn\" in seinem „Teutschen Contrafay ten - Krauterbuche \" eine ziemli^\ngute Abbildung giebt, sagt von letzterem in Bezug auf die ihm zugeschriebenen geheimnissvollen\nKrafte:    „Was nun der Waltfar fur krafft habe. und na.Tnlir.n <W MAti Aarxm-n                                   iof ;   m ™t,™         —   .•*„«   j„„\nbeschworer, sye sagens auch nyemants, denn es                        ist   ein kostlicli    und tiberkostlich ding umb den somen\ndass   man wonder darmit wurcke.                Ich hab        aber noch keinen gesehen,              der reich darmit sey worden',\noder ein eintzig wunder darmit gewurckt habe\" und                             nach Dioscorides hinzu: „Disser wurtzel\n                                                                             fiigt\nfyer   quintlin    genossen,     treibet    aus   die        grosse spulwiirm, mit honigwasser genommen.\n                                                                                                           Aber meer\nwurcket sye genommen mit schwartzer Christwurtz, oder Scamonea, fyer haller\n                                                                             schware.                                          Ist       auch gut\nden miltzsuchtigen.\" Im Mittelalter scheint das Farnkraut in Deutschland als\n                                                                           Wurmmittel wenig ge-\nbrauchlich gewesen zu sein. Erst durch das Nuffler'sche Geheimmittel\n                                                                     gegen Bandwurmer (Nuffler\nNuffer, auch Stuffer, Wundarzt in Murten in der Schweiz), dessen\n                                                                     Hauptbestandtheil gepulverte\nFarnkrautwurzel war und welches die Wittwe an Konig Ludwig XV. in\n                                                                        Frankreich fur den Preis\nvon 18000 Livres verkaufte, kam der Wurmfarn zu hohem Ansehen. Ebenso\n                                                                         erwarb                                           (nach Fltickiger)\nFriedrich    der Grosse von        Daniel Matthieu aus Neuchatel                          (spater in Berlin) ein ahnliches\n                                                                                                                                             Wurm-"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 227,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含揮發油、脂肪油、單寧、糖及 Filixsaure。Filixsaure 為白色結晶，熔點 161 度，溶於乙醚。",
+        "warnings": [],
+        "source_line_range": [
+          57,
+          74
+        ],
+        "exact_source_quote": "               Bestandtheile.               Nach Bock, Luck, Grabowsky, Wackenroder, Malin, Geiger u.                                      A.\n sind in      dem Wurzelstocke enthalten: atherisches Oel (0,4 °/ ), fettes griines Oel (5                    — 6°/   ),   eisengriinender\n Gerbstoff, eigenthiimliche Fettsaure (Pilixsaure), scharfes, adstringirendes Harz, Starkemehl, Zucker (11 °/ ),\n                                                                 —\n Gummi, Pektin, Farbstoff, Mineralstoffe (2 3°/ ). Die 1845 zuerst von Luck aus dem Aetherextrakte\n dargestellte, von Grabowski 1867 naher untersuchte Filixsaure (C 14 H 18 5 ) bildet kleine, weisse Blatt-\n chen oder ein lockeres Kry stallpulver besitzt einen schwachen Geruch und Geschmack, reagirt in\n                                                            ,\n\n\n\n\n atherischer Losung sauer, aussert beim Reiben elektrische Eigenschaften, schmilzt bei 161° und erstarrt\n amorph; sie ist unloslich in Wasser, wenig loslich in wasserhaltigem, gut loslich in kochendem abso-\n lutem Weingeist, Aether, Schwefelkohlenstoff, sehr leicht in fetten und fliichtigen Oelen. Bei kurzer\n Einwirkung von Kalihydrat auf die Filixsaure erhielt Grabowski Buttersaure und Phloroglucin\n (C6   H [OH]\n        3               3 )."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "c3172fc13faa2a237651df550b8579b52f292b3c311bad495024098b4d5b5963"
+}

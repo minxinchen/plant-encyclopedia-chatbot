@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-4",
+  "volume": 4,
+  "pdf_page": 74,
+  "owner_shard": "S08",
+  "source_pdf": "/Volumes/NO NAME/第四集 mobot31753003431696.pdf",
+  "source_text_sha256": "f614a1fd1f595422cb651e6ecf820e78a6df3116dae21c1941a7065a9a100281",
+  "render_dpi": 144,
+  "render_sha256": "000e818eb179a0a97d8c23533ec1dc886140348ac5585e290642b197ef3fdfea",
+  "input_sha256": "000e818eb179a0a97d8c23533ec1dc886140348ac5585e290642b197ef3fdfea",
+  "render_pixel_width": 5768,
+  "render_pixel_height": 8274,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 6.621,
+  "embedded_character_count": 438,
+  "ocr_character_count": 102,
+  "ocr_alpha_ratio": 0.7843,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.017609126984126977,
+      "text": "Tafel 6",
+      "width": 0.06666666413438778,
+      "x": 0.039583334969843134,
+      "y": 0.9751984123611155
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185932098874,
+      "text": "Basidiomycetes",
+      "width": 0.13333332826877564,
+      "x": 0.8291666705322789,
+      "y": 0.9622093029557847
+    },
+    {
+      "confidence": 1,
+      "height": 0.01634918318854439,
+      "text": "Polyporaceae",
+      "width": 0.11676729725909607,
+      "x": 0.8457830165789152,
+      "y": 0.944587036290024
+    },
+    {
+      "confidence": 1,
+      "height": 0.015108448172372446,
+      "text": "(Boleteae)",
+      "width": 0.08353535311659577,
+      "x": 0.876982322847375,
+      "y": 0.9270387991032365
+    },
+    {
+      "confidence": 1,
+      "height": 0.021848467607346822,
+      "text": "1-3 Boletus Satanas Lenz. 4-5 Boletus bulbosus Schäffer",
+      "width": 0.481250008682099,
+      "x": 0.25208332859645055,
+      "y": 0.021802325605399075
+    }
+  ],
+  "text": "Tafel 6\nBasidiomycetes\nPolyporaceae\n(Boleteae)\n1-3 Boletus Satanas Lenz. 4-5 Boletus bulbosus Schäffer",
+  "output_sha256": "012cc56faeee46d64e7aee18ee3ca4983ed604e20383653bb761187ef413cb06",
+  "receipt_sha256": "06be9a86d34186537d9240e8fb9eb92a0a8318d76c326a9685466a6c2445c98f"
+}

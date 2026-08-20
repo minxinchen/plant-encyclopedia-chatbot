@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "run_id": "sample-volume-4-2026-08-03",
+  "started_at": "2026-08-03T13:05:53+08:00",
+  "finished_at": "2026-08-03T13:05:53+08:00",
+  "status": "approved",
+  "cost": {
+    "incremental_usd": 0,
+    "paid_fallback_used": false
+  },
+  "input": {
+    "pages_file": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/volume-4-prototype-pages.json",
+    "name_file": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/sample-name-resolution.json",
+    "page_count": 11,
+    "taxon_count": 2
+  },
+  "stages": [
+    {
+      "name": "extract",
+      "attempt": 1,
+      "status": "passed",
+      "tool": "Poppler pdftotext",
+      "checks": [
+        "11 sampled pages retain source_id, source_path and PDF page",
+        "embedded text remains unmodified evidence, including OCR noise"
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "assemble_records",
+      "attempt": 1,
+      "status": "passed",
+      "tool": "deterministic scientific-name linkage; Qwen adapter for full batches",
+      "checks": [
+        "linked 2 sampled taxa to evidence pages",
+        "plate pages remain distinct from prose pages"
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "resolve_names",
+      "attempt": 1,
+      "status": "passed",
+      "tool": "TaiCOL primary, Tai2 secondary",
+      "checks": [
+        "2 of 2 sampled display names have public source evidence",
+        "Taiwan occurrence is stored separately from the Chinese display name"
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "build_multimodal_index",
+      "attempt": 1,
+      "status": "passed",
+      "tool": "Gemini API Free Tier gemini-embedding-2 plus local exact/BM25",
+      "checks": [
+        "exact and lexical retrieval remain available independently",
+        "multimodal embedding probe: passed"
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "independent_review",
+      "attempt": 1,
+      "status": "passed",
+      "tool": "deterministic gates + Qwen local + Gemini multimodal + sampled GPT/Codex adjudication",
+      "checks": [
+        "Qwen maker probe: failed_overconfident",
+        "independent adjudication: passed",
+        "unanswerable answers must be 本書未記載"
+      ],
+      "retry_target": null
+    }
+  ],
+  "review_summary": {
+    "passed": 5,
+    "needs_review": 0,
+    "failed": 0,
+    "warnings": []
+  }
+}

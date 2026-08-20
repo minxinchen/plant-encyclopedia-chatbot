@@ -1,0 +1,282 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0183-p0186",
+  "entry_id": "kohler-volume-2:p0183-p0186",
+  "owner_shard": "S03",
+  "book_taxon": {
+    "scientific_name": "Illieium anisatum",
+    "authorship": "Loureiro",
+    "aliases": [
+      "Ilieium religiosum Siebold",
+      "Sternanisbaum",
+      "Star-Anise",
+      "Anis étoilé",
+      "Badiane"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Illieium anisatum"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T18:53:54+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Illieium+anisatum",
+        "query_name": "Illieium anisatum",
+        "retrieved_at": "2026-08-13T18:53:51+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0054029",
+        "query_name": "Illieium anisatum",
+        "retrieved_at": "2026-08-13T18:53:51+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0054029",
+        "query_name": "Illieium anisatum",
+        "retrieved_at": "2026-08-13T18:53:51+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Ilieium+religiosum",
+        "query_name": "Ilieium religiosum",
+        "retrieved_at": "2026-08-13T18:53:52+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Anis+toil",
+        "query_name": "Anis toil",
+        "retrieved_at": "2026-08-13T18:53:52+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 183,
+      "evidence_type": "text",
+      "page_text_sha256": "47d33b1a71116381f5783a3fc3b4a001a17183b8793c2e3c727ab5cc28477e5b",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 184,
+      "evidence_type": "text",
+      "page_text_sha256": "8a83f38f8ba800a2f5058c7c53fee1dbaacd3d053c09d02b70720231c76724c4",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 185,
+      "evidence_type": "text",
+      "page_text_sha256": "fc1d81991d9c56760b1f75da67070b47f4bee0a76f8a0cc5c9553fd3a94c4b34",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0183-p0186:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                    Illieium           anisatum              Loureiro.\n\n                                         Syn.:     Ilieium religiosum Siebold.\n\n                    Sternanisbaum        —     lllicium, Star\n                                                           -Anise 一                Anis étoilé, Badiane.\n\n             Familie:     Magnoliaceae       (Unterfamilie:        Wintereae);      Gattung:       Jllicium L.\n",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名Illieium anisatum，同義名Ilieium religiosum。屬Magnoliaceae科，Jllicium屬。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 183,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 447,
+        "page_text_sha256": "47d33b1a71116381f5783a3fc3b4a001a17183b8793c2e3c727ab5cc28477e5b",
+        "exact_text_sha256": "df1f4ae5404dc1e3c84c35e5de64cce67b3172213f8092a0d0436a4b501f1b9d",
+        "source_line_start": 1,
+        "source_line_end": 9,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "df1f4ae5404dc1e3c84c35e5de64cce67b3172213f8092a0d0436a4b501f1b9d",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0183-p0186:s01:x00",
+      "section_type": "description",
+      "original_text": "           Beschreibung. Bis 8 Meter hoher, ästiger Baum mit grauer, schwärzlich-rissiger Rinde\n und röthlichem Holze. Blätter zerstreut, lederig, oberseits dunkler, unterseits heller grün, länglich,\n zugespitzt, am Grunde keilfórmig, 4—8 Ctm. lang, 2—3 Ctm. breit, klein drüsig punktirt, auf 6 一 10 Mm.\n langen Blattstielen. Blüthen einzeln, 2—3 Ctm. im Durchmesser, blattachselstándig, gestielt, etwas\n übergebogen, blass gelblich- oder grünlich-weiss, wohlriechend; der 8—12 Mm. lange Blüthenstiel am\n Grunde mit kleinen Deckschuppen versehen. Kelch unterständig, 3 blätterig, abfallend, mit eifórmigen,\n kronblattartigen Bláttchen, kürzer als die Kronblütter. Kronblätter zahlreich (15— 20), in mehreren\n Reihen, abstehend,       abfallend;   äussere Blätter      eilänglich, die innern      allmählich    schmäler    bis linealisch,\n  bis 16 Mm. lang, bis 6 Mm. breit. Staubgefässe ungefähr 15— 20, wie die Kronblätter in mehreren\n  Reihen, aufsteigend, fast von der Länge der Fruchtblätter, mit eilänglichen, fleischigen Fäden, die sich\n  zu einem 3seitigen, länglichen Connektiv verlängern, dem beiderseits die etwas von einander entfernt\n  stehenden, nach innen der Länge nach aufspringenden Staubbeutelfächer aufgewachsen sind. Pollen\n  oval 3—4 furchig, unter Wasser kugelig, 3—4nabelig. Stempel oberständig, mit meist 8 zuerst auf-\n  steigenden bis aufrechten, mit der zunehmenden Fruchtreife mehr horizontal abstehenden Fruchtblättern\n  (Carpellen), welche der Spitze der Blüthenaxe in einem Wirtel aufgewachsen sind. Die Spitze des\n  Fruchtknotens ist in den pfriemenförmigen, rückwärts gekrümmten Griffel verschmälert, welcher auf\n  seiner Innenseite die papillöse Narbe trägt. Fruchtknoten eineiig; Eichen von der Basis der Naht\n ‚aufsteigend, mit nach aussen und abwärts gekehrtem Keimmund (Micropyle). Frucht erst fleischig,\n  aus meist 8, um eine kurze Zentralsäule sternförmig gestellten, horizontal ausgebreiteten Balgfrüchten\n  bestehend, welche in eine aufwärts gekrümmte Spitze auslaufen. Bei der Reife sind die Balgfrüchte\n  verholzt, an der nach oben gekehrten Bauchnaht bis zur äussersten Spitze aufgesprungen und nachen-\n  förmig ausgebreitet, die Samen zeigend; die Aussenseite ist mattgrau bis rothbraun und unregelmässig\n  gerunzelt,   die   glatte Innenfläche  glänzend roth- bis braungelb.    Der   gelbbraune   Same   einzeln,   glänzend,\n  flachgedrückt, eilänglich, glatt, scharfrandig. Embryo am Grunde des Eiweiss, klein, gekrümmt.",
+      "normalized_text": null,
+      "zh_tw_rendering": "高達8米之樹，葉革質橢圓，花淡黃或綠白。果實由8個蓇葖果組成星狀，成熟時木質化並沿腹縫線裂開。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 183,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 448,
+        "char_end": 2916,
+        "page_text_sha256": "47d33b1a71116381f5783a3fc3b4a001a17183b8793c2e3c727ab5cc28477e5b",
+        "exact_text_sha256": "de3e9fed3eecf419c69428c1caa26706e69a88abb85410138a2624e91ab3f32d",
+        "source_line_start": 10,
+        "source_line_end": 33,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "de3e9fed3eecf419c69428c1caa26706e69a88abb85410138a2624e91ab3f32d",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0183-p0186:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "           Anatomisches.             Die äussere Fruchtschale,              welche    als Sitz des wirksamen          Bestandtheiles,\n des ätherischen     Oeles,   zu     betrachten      ist, besteht     aus    einer, ‘mit einer Epidermis       bedeckten,      trocken\nfleischigen, gegen den Rückennerven dicken, nach den Rändern zu ziemlich dünnen Aussenschicht und\nder mit letzterer verwachsenen Steinschale. Die Aussenschicht wird von einem schlaffen, zsammengefallenen,\nbraunwandigen, von grösseren Oelzellen durchsetzten Parenchym gebildet, welches in der Nähe der Stein-\nschale von einer Reihe Gefässbündel durchzogen ist. Die Oelzellen enthalten Tropfen blassgelben, äthe-\nrischen Oeles und Harzklumpen. Die nach den Rändern und der Spitze zu ziemlich dicke, nach der Mitte\nvertiefte und dünne Steinschale zeigt an ihren dünnen Stellen, also da, wo der Same die Carpellwände\nberührt, nur eine Lage paralleler, gegen die innere Wand senkrecht gestellter, langgestreckter, dünner Palis-\nsadenzellen    mit   farblosen,      dünnen,      getüpfelten,   spröden       Wänden;     der   dickere    Theil,    dessen   Wände\nvon den Samen nicht berrührt werden, besteht aus langgestrecktem, getüpfeltem Holzparenchym, welches\nvon einer, die glänzende Innenwand bildenden Schicht stark verdickter Sclerenchymzellen überdeckt\nwird. Die Samenschale des in arzneilicher Beziehung gänzlich werthlosen Samens besteht aus einer\näusseren Steinschale, die aus einer Reihe langgestreckter, schmaler, senkrecht gestellter Steinzellen\ngebildet ist und aus einer dünnen,              aus mehreren        Reihen    zusammengefallener Zellen zusammengesetzten\nHaut.     Das Endosperm           des Samenkernes       zeigt ein von kleinen Oelzellen          durchsetztes Parenchym.          Der\nInhalt der letzteren Oelzellen besteht aus granulöser Substanz und fettem Oele.",
+      "normalized_text": null,
+      "zh_tw_rendering": "外果皮含油細胞與石細胞層。種子含油細胞與澱粉。日本種種子無藥用價值。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 184,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 152,
+        "char_end": 2010,
+        "page_text_sha256": "8a83f38f8ba800a2f5058c7c53fee1dbaacd3d053c09d02b70720231c76724c4",
+        "exact_text_sha256": "018ebc469fd606cb72552d0d81137ee12c089bc345b795eea8190214a2355213",
+        "source_line_start": 4,
+        "source_line_end": 20,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "018ebc469fd606cb72552d0d81137ee12c089bc345b795eea8190214a2355213",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0183-p0186:s03:x00",
+      "section_type": "distribution",
+      "original_text": "         Vorkommen,      Cochinchina, China, Japan; in letzterem Lande Z. religiosum. I. amisatum\nist namentlich in den südchinesischen Provinzen Jünnan, Kwang-hsi, Kwang-tung, Fo-kien einheimisch,\nüber 2500 Meter in den Gebirgen emporsteigend.",
+      "normalized_text": null,
+      "zh_tw_rendering": "產於交趾支那、中國及日本。中國種主要分佈於雲南、廣西、廣東及福建，海拔可達2500米。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 184,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2012,
+        "char_end": 2256,
+        "page_text_sha256": "8a83f38f8ba800a2f5058c7c53fee1dbaacd3d053c09d02b70720231c76724c4",
+        "exact_text_sha256": "8f20fa0ec14feba8ba6b8611ddcc2bc0bb8d90f691acf0f68bc90fad578e17f1",
+        "source_line_start": 22,
+        "source_line_end": 24,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "8f20fa0ec14feba8ba6b8611ddcc2bc0bb8d90f691acf0f68bc90fad578e17f1",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0183-p0186:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "          Name und Geschichtliches. Sternanis, chinesischer oder indischer Anis, chinesischer Fenchel,\nbezieht   sich auf das Arom, die Gestalt und Abstammung der Früchte.           Illicium von illicere\nanlocken, reizen, wegen           des Aromas.        Badian von badius braun, wegen der braunen Farbe                  der Früchte;\nBadiyan ist übrigens der arabische Name des Fenchels. Anisatum wegen des anisartigen Geruches;\nreligiosum, zu religiösen Zwecken gebräuchlich; Blätter und Rinde werden von den Braminen beim\nGottesdienste zum Räuchern verwendet.\n          Der Sternanis, welcher in seiner Heimath wohl schon seit den frühesten Zeiten ein geschätzter\nArtikel war — um 970 wird er von den Südstaaten als Tribut an den chinesischen Kaiser bezahlt\n— ist 1588 von Thomas Cavendish (Candish, Candi) von den Philippinen zuerst nach London\ngebracht worden. Durch den Apotheker Hugo Morgan und den Drogisten Jacob Garet gelangte\ndie Droge in die Hände des Clusius, der die Früchte abbildete und sie, ohne von der Stammpflanze\nirgend welche Kenntnis zu besitzen, mit dem Namen Anisum Philippinarum insularum belegte.\n          Wegen der völligen Abgeschlossenheit des chinesischen Reiches, namentlich nach de\n                                                                                                r See-\nseite, scheint der Sternanis seine Verbreitung nach den westlichen Ländern, hauptsächl\n                                                                                        ich auf dem\nLandwege über Russland und Arabien gefunden zu haben. In Moskau ist er\n                                                                                  schon Ende des 17.\nJahrhunderts    ein sehr gebräuchliches            Gewürz   gewesen,        während    er nach Deutschland       erst Anfang      des\n18.   Jahrhunderts    gekommen         ist.    Das    chinesische     Kräuterbuch        Pen-tsao     (um    1552)    erwähnt     des\nhui hiang (achthörnigen Fenchels) und schildert die japanesische Frucht als giftig\n                                                                                   .\n       Kaempher war der erste, der den Baum um 1690 in Japan sah und\n                                                                              ihn unter dem Namen\nSomo (Skimmi, Fanna Skimmi, Fanna Skiba) abbildete. Linné\n                                                                bezeichnete den japanesischen Baum\nzuerst mit Badanifera,        später mit Illicium        anisatum,      welcher Name       von Loureiro        auch    auf den da-\nmals noch unbekannten südchinesischen Baum übertragen wurde.",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源於香氣與形狀。1588年經菲律賓傳入倫敦。中國古書《本草》記載日本種有毒。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 184,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2292,
+        "char_end": 4922,
+        "page_text_sha256": "8a83f38f8ba800a2f5058c7c53fee1dbaacd3d053c09d02b70720231c76724c4",
+        "exact_text_sha256": "007a00033eccbecfa3392237a5bb60b9a7d4500b465ec4825091ebb2e6a07afa",
+        "source_line_start": 29,
+        "source_line_end": 56,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "007a00033eccbecfa3392237a5bb60b9a7d4500b465ec4825091ebb2e6a07afa",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0183-p0186:s05:x00",
+      "section_type": "constituents",
+      "original_text": "             Bestandtheile.          Nach Meissner sind in 100 Theilen der Kapseln enthalten: 5,3 ütherisches\n Oel,   2,8 fettes Oel, 10,7 rothbraunes            Hartharz,   9,2    eisengrünender            Gerbstoff,     2,1 Extraktivstoff,   7,6\n gummiger      Extraktivstoff,      6,0 Gummi,      19,8 Stärke (?), 0,2 Benzoésáure (?), 8,4 Apfelsäure,                     apfelsaurer\n Kalk ete. Neuere Untersuchungen haben kein Stärkemehl nachgewiesen. Der ziemlich reichlich vorhandene\n Zucker reduzirt in der Kälte alkalisches Kupfertartrat nicht; der wässerige Auszug erstarrt auf Zusatz\n von Alkohol      zu einer klaren Gallerte.          Die Samen       enthalten       1,8%, ätherisches         Oel, 19,2 Yo fettes Oel\n und keinen Gerbstoff.                                                                                                   ۱\n             Das ätherische      Oel,    welches     neben   einem      Terpen        vorwiegend          aus festem und flüssigem\n Anethol       besteht, besitzt ein spez. Gew. von 0,970;              es    ist leicht    löslich        in Weingeist       und Aether.\n Bezüglich des Anethol siehe Pimpinella Amsum                                    |           :\n         Der von Eykman aus den Früchten des japanesischen Sternanis gewonnene giftige Körper,\n das Sikimin, ist krystallinisch, kein Glykosid, enthált keinen Stickstoff, reagirt nicht auf Lakmuspapier,\n löst sich nicht in Petroleumäther,          wenig in kaltem         Wasser, leichter in heissem, leicht in Alkohol                   und\n‚Eisessig.    Eykman        erhielt aus den geschälten Samen der japanesischen Frucht 52,2?|. aus den un-\n geschálten    30,59,    eines blassgelben,        nicht trocknenden,        fetten Oeles,        welches     nach Geerts       ebenfalls\n giftige Eigenschaften besitzt, jedoch von Eykman, mittels Petroleumäther gewonnen, als völlig un-\n schädlich erkannt worden ist. Flückiger sagt: In beiden Formen des Sternanis scheint ein Alkaloid\n in höchst geringer Menge vorhanden zu sein. (Husemann, Pflanzenstoffe 601.)",
+      "normalized_text": null,
+      "zh_tw_rendering": "含揮發油（主要為茴香腦）、脂肪油、樹脂及酸類。日本種含毒性成分Sikimin。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 185,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2941,
+        "char_end": 5014,
+        "page_text_sha256": "fc1d81991d9c56760b1f75da67070b47f4bee0a76f8a0cc5c9553fd3a94c4b34",
+        "exact_text_sha256": "bc7fff59863f30c93d084df2b7fd02ec89c23a9b0e306367bb951152df30d74c",
+        "source_line_start": 33,
+        "source_line_end": 50,
+        "section_index": 5,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "bc7fff59863f30c93d084df2b7fd02ec89c23a9b0e306367bb951152df30d74c",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "cf1eaca6face164ebefcd8c1a6e9f87bb923da12eff9bd8bd77f72694bfe5c09",
+    "maker_receipt_sha256": "5dcf377c12643e19b8c509ac7b93d4ae5f078bad607d5c23d6ce0cd674e95691",
+    "validation_check_sha256": "c5f14074e7dbecc5f83f3857cafae0349a484d144395b6924befaf105c15af13",
+    "source_disposition_sha256": "1d99a7452f4fdbad416e158776746b4b0b3a6729c515c9ca17edc0b884866402",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "5dcf377c12643e19b8c509ac7b93d4ae5f078bad607d5c23d6ce0cd674e95691",
+      "validation_check_sha256": "c5f14074e7dbecc5f83f3857cafae0349a484d144395b6924befaf105c15af13",
+      "source_disposition_sha256": "1d99a7452f4fdbad416e158776746b4b0b3a6729c515c9ca17edc0b884866402"
+    },
+    "naming_artifact_sha256": "a4fd8faed9f13a33d139e3d4f00089efbf6287e9506ebe2089e5a3d080a56d3b"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "9d1ed1fc8183d15969be0fd4d119331d91f284e0e12bb69e38f2ef4788e1fc65"
+}

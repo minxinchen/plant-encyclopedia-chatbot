@@ -1,0 +1,302 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0077-p0082",
+  "entry_id": "kohler-volume-2:p0077-p0082",
+  "owner_shard": "S03",
+  "book_taxon": {
+    "scientific_name": "Carum Carvi",
+    "authorship": null,
+    "aliases": [
+      "Aegopodium Carum",
+      "Ligusticum Carvi",
+      "Seset Carum",
+      "Apium Carvi",
+      "Bunium Carvi"
+    ]
+  },
+  "display_name": "葛縷子",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Carum Carvi",
+      "Carum carvi"
+    ],
+    "accepted_scientific_name": "Carum carvi",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T13:31:04+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Carum+Carvi",
+        "query_name": "Carum Carvi",
+        "retrieved_at": "2026-08-13T13:30:58+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0014233",
+        "query_name": "Carum Carvi",
+        "retrieved_at": "2026-08-13T13:30:58+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0014233",
+        "query_name": "Carum Carvi",
+        "retrieved_at": "2026-08-13T13:30:58+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Carum+carvi",
+        "query_name": "Carum carvi",
+        "retrieved_at": "2026-08-13T13:30:58+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Aegopodium+carum",
+        "query_name": "Aegopodium carum",
+        "retrieved_at": "2026-08-13T13:30:59+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Ligusticum+carvi",
+        "query_name": "Ligusticum carvi",
+        "retrieved_at": "2026-08-13T13:30:59+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Seset+carum",
+        "query_name": "Seset carum",
+        "retrieved_at": "2026-08-13T13:30:59+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Apium+carvi",
+        "query_name": "Apium carvi",
+        "retrieved_at": "2026-08-13T13:30:59+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Bunium+carvi",
+        "query_name": "Bunium carvi",
+        "retrieved_at": "2026-08-13T13:30:59+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "Tai2 exactly lists the book binomial as a main name or synonym and links it to this accepted species page."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 77,
+      "evidence_type": "text",
+      "page_text_sha256": "1adab52c5bd2867a48918eed8785fcfdd4fe2b13620700b5537b088f6a37f725",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 78,
+      "evidence_type": "text",
+      "page_text_sha256": "d788d7f74b449276d58d408b9f4ffc636fe2a234b0f6f49ed795909a57e17b17",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0077-p0082:s00:x00",
+      "section_type": "description",
+      "original_text": "         Beschreibung. Die zweijährige, spindelfórmige, etwas ästige, aussen blassbräunliche, innen\nschmutzig-weise Wurzel mit !/, bis 1 Meter hohem, gefurchtem, kahlem, vom Grunde an ästigem Stengel.\nBlätter zerstreutstehend, doppelt gefiedert, mit fiedertheiligen Bláttchen und linealischen, spitzen, letzten\nAbschnitten;         die untersten Blätter gestielt, die oberen mit bauchig-scheidenartigem Blattstiele, an dessen\nGrunde   2 Fieder n in kreuzw eiser  Stellun g;  Fieder stücke und  Fieder stückc hen sitzend.  Die   5—12st rahlig   e\nBlüthe ndolde   zuerst  end-,  später  blattee  genstán dig.   Hülle  fehlend   oder,  jedoch  selten,   einblät terig;\nHüllchen       ebenfalls fehlend.             Döldchen        5— 15blüthig, flach.               Blüthen weiss, mit 5 oberstándigen, breit-\nund verkehrt-herzförmigen, gekielten, am oberen Theile eingekrümmt-rinnenförmigen Blumenblättern.\nKelch undeutlich,            aus    einem, dem         Oberkelche        aufsitzenden,         5zühnigen        Rand      bestehend.         Fruchtknoten\nunterständig, länglich, seitlich zusammengedrückt, 10rippig, 2fächerig, 2etig; Eichen hüngend. Die\n5 Staubgefässe mit den Blumenblättern wechselnd, mit pfriemlichen, einwärts gebogenen Fäden und\nrundlic hen,    auf   dem   Rücken      angehef    teten,       2fücher   igen,      grünlic    h-gelbe   n,     der   Länge     nach      aufspr  ingend    en\nStaubbeuteln. Pollen länglich. Frucht 4—5 Mm. lang, beiderseits zusammengedrückt, von der ge-\nwölbten     Griffel basis    und     den     zurück    geschl    agenen        Griffel   n    gekrönt   .        Theilfr   üchtche   n    auf    dem      Quer-\nschnitt e  fast   regelm  ässig     5eckig,     mit     5   stark    hervor   treten    den,      strohg   elben     Rippen      und    ziemlic   h    doppelt\nso breiten  ,   dunkel  roth-b   raunen   ,    glänze    nden     Thälch    en,     im     trockn  en     Zustan   d    sichelf   örmig      gekrüm    mt,      in\nden  Thälch   en    je  ein   erhaben  er,     geschl   ängelt   er    Oelgan    g,    die    beiden      Oelgän   ge     der   Fugenf    läche      sehr    ge-\nnähert, nur      durch     ein   dünnes      Gefäss    bündel      getrenn   t.       Säulch   en     gabelsp  altig.        Same      mit     dem    Frucht-\ngehäuse    verwac   hsen,    einschl  iesslic  h    des   schwac    hen     Lappen    s    auf   der   Fugens   eite     rundli   ch-6la    ppig,     paralle    l\nmit der Fugenfläche          etwas    zusamm    engedr     ückt,      mit    vielem      Eiweiss   .      Embry    o    klein,    in   der    oberen     Spitze\ndes Eiweisses, mit nach oben gerichtetem Würzelchen.",
+      "normalized_text": null,
+      "zh_tw_rendering": "二年生植物，根紡錘形，莖高至一米。葉二回羽狀分裂。花白色，果實壓扁，具五條強脊。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 77,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 492,
+        "char_end": 3175,
+        "page_text_sha256": "1adab52c5bd2867a48918eed8785fcfdd4fe2b13620700b5537b088f6a37f725",
+        "exact_text_sha256": "c18108efaee8f010cbacee2ff334abf03ad8fbe1429fc81091af2143adacf8b0",
+        "source_line_start": 8,
+        "source_line_end": 28,
+        "section_index": 0,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "c18108efaee8f010cbacee2ff334abf03ad8fbe1429fc81091af2143adacf8b0",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0077-p0082:s01:x00",
+      "section_type": "anatomy",
+      "original_text": "           Anatomisches         .      Das     Eiwe  iss     zeig t   auf    dem     Quer   schn  itte     eine   rege   lmäs  sig    5eck   ige  Form    ,    ist\njedoch an Stelle       der  Oelg  änge      etwa  s    eing  edrü  ckt     und     ersc  hein  t    dahe r    5lap  pig;     auss  erde   m    befi ndet    sich\nnoch ein schwacher Lappen auf der                    Fuge  nsei  te.       Die    mitt  lere     Fruc  htsc  hich  t   best  eht   aus   weni   gen     Reih  en\ntangential gestreckter         Zell en.     Die      sich    zu    dopp elte   r    Stär   ke    der    Fruc  htwa   nd     erhe  bend   en    Ripp   en    sind\ninnen mit einem         derb  en  Gefä  ssbü   ndel      ausg esta ttet  .      Die    Oelg   änge     der   Auss  ense  ite    habe   n   im   Quer  schn  itt\neine  gewö  lbt- drei  ecki ge,    die   der    Fuge   nsei  te    eine    brei   t-sc  hwer   tfór  mige     Form   .",
+      "normalized_text": null,
+      "zh_tw_rendering": "胚乳橫切面呈五角形，油管呈弓形或寬新月形。果皮層由切向伸長的細胞組成。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 77,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3176,
+        "char_end": 4100,
+        "page_text_sha256": "1adab52c5bd2867a48918eed8785fcfdd4fe2b13620700b5537b088f6a37f725",
+        "exact_text_sha256": "11037f227a4009327d2c18371520fca9cce886d16f4467a719d679ed2bf11a71",
+        "source_line_start": 29,
+        "source_line_end": 34,
+        "section_index": 1,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "11037f227a4009327d2c18371520fca9cce886d16f4467a719d679ed2bf11a71",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0077-p0082:s02:x00",
+      "section_type": "distribution",
+      "original_text": "           Vorkommen         .       Auf    Wie  sen      der   Ebe  nen      und     Ber   glä nde  r    durc  h    ganz     Eur opa      mit   Aus  sch  lus  s\ndes äussersten Süd       ens    und    durc  h   Asie   n   mit    Aus sch  lus  s     Chin  as    und    Jap ans     verb  reit et;    auc  h   auf     Isla nd,\nDer Frü   cht e   weg  en   vie lfa ch   kult ivir  t,   sog ar    in   Mar  occ  o     und    Tun is.",
+      "normalized_text": null,
+      "zh_tw_rendering": "分佈於歐洲平原與山區（除最南端）及亞洲（除中國與日本），亦見於冰島、摩洛哥與突尼西亞。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 77,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 4101,
+        "char_end": 4527,
+        "page_text_sha256": "1adab52c5bd2867a48918eed8785fcfdd4fe2b13620700b5537b088f6a37f725",
+        "exact_text_sha256": "6ade1179b1ff4dc14df74d15bdd1700fa3282b3636b099d0daa94c3f5d19d84a",
+        "source_line_start": 35,
+        "source_line_end": 37,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "6ade1179b1ff4dc14df74d15bdd1700fa3282b3636b099d0daa94c3f5d19d84a",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0077-p0082:s03:x00",
+      "section_type": "history",
+      "original_text": "              Name    und   Ges chi cht lic hes .    Der   Nam e    Küm mel    (alt hoch deut sch  cumi l, cume l,   cumi ,\ncumin,       karfe, mittelhochdeutsch    chum ,   karb en,  karv e,  kyme l, wilt kome ,  bei  Hil deg ard   Kume  l,   bei\nFuchs Mattkimmel, bei     Boc   k   Mat tky mme  l,     bei  Tab  ern   aem  ont   anu  s     Spei   sekü mmel  ,     in   den    alte n\ndeutschen Arzneibüchern cumich)       stam mt    aus   dem   syri sche  n  kam mon  ,      arab  isch en    kamu  n,     von   kam  an\nwürzen. Karbe ist aus carvi      herv orge gang  en.      Car um    aus   Care um,    Kag   og    der  Alte n,   bezo  gen    auf   die\nLandschaft Karia. Carvi    soll   aus   caru m    ents tand en   sein;    Höf er    leite t   es   von   Garb  e,    Kerb  e   (weg  en\nder gekerbten Blätter) ab. Wahrscheinli       ch    stam mt    Carv i   von  Kar   awy a,     womi  t    die  Arab  er    des  Mitt el-\nalters den Kümmel bezeichneten.         Letz tere s   Wor t    ging ,   in  carv i   umge   wand  elt,     in   die   Schr ifte n   der\nsalernitanischen Schu le und von da in den phar maze utis chen Wort scha tz über .",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源自敘利亞語與阿拉伯語，中世紀經薩勒諾學派進入藥學詞彙，與古希臘名稱有關。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 77,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 4577,
+        "char_end": 5723,
+        "page_text_sha256": "1adab52c5bd2867a48918eed8785fcfdd4fe2b13620700b5537b088f6a37f725",
+        "exact_text_sha256": "99b691387daf9fe7b50bed266e0e98eb1152f5ccc6cf18de8d692b5b7789566c",
+        "source_line_start": 40,
+        "source_line_end": 48,
+        "section_index": 3,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "99b691387daf9fe7b50bed266e0e98eb1152f5ccc6cf18de8d692b5b7789566c",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0077-p0082:s04:x00",
+      "section_type": "constituents",
+      "original_text": "            Bestandtheile.          Nach Tromsdorf         enthält die lufttrockene Kümmelfrucht in 100 Theilen:\n  0,438 ätherisches Oel, 1,5 Pflanzenwachs, 0,3 fettes Harz, 8,0 eisengrünenden Gerbstoff, 2,0 Schleim-\n  zucker mit pflanzensaurem Kali und Kalk, 7,0 grünes, fettes Oel, 4,0 Schleim mit phosphorsauren\n  Salzen, 3,0 äpfelsaures Kali mit Farbstoff, 70,0 Holzfaser.\n          Das ätherische Kümmelöl, welches nach Zeller in wildgewachsenem deutschen Kümmel\n  bis zu 5%, vorkommen soll, ist farblos blassgelb, von durchdringendem Geruch und brennendem, bitter-\n  lichem Geschmacke;        es besitzt ein spez. Gewicht      von 0,88—0,97,       destillirt bei 175—230°   und lässt sich\n  in die beiden Bestandtheile Carven und Carvol zerlegen. Das Carven (C,, H,,) beträgt ca. 30%, des\n  rohen Oeles, besitzt ein spez. Gew. von 0,840, siedet bei 176° und vereinigt sich mit trocknem Chlor-\n  wasserstoff zu bei 50,5% schmelzenden Krystallen mit der Formel C,, H,g + 2 H Cl. Es besitzt einen\n  schwächeren aber feineren Geruch als das rohe Oel. Cürvol (Cio H,, 0), zu ca. 70%, des rohen Oeles,\n  hat ein spez. Gew. von        0,960,   siedet bei 226° und ist derjenige Bestandtheil,          der dem    Kümmel      den\n  eigenthümlichen Geruch verleiht. Beide Bestandtheile sind rechtsdrehend, der erstere stärker als der\n  zweite. (Husemann, Pflanzenstoffe 938.)                    ۱",
+      "normalized_text": null,
+      "zh_tw_rendering": "含揮發油（至5%），主要成分為Carven與Carvol，具特殊氣味。另含脂肪油、樹脂與澱粉。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 78,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 1061,
+        "char_end": 2453,
+        "page_text_sha256": "d788d7f74b449276d58d408b9f4ffc636fe2a234b0f6f49ed795909a57e17b17",
+        "exact_text_sha256": "f7975ceee31262411e4b65fcfb48ee21e06849d73add962bb17e16d0d4857966",
+        "source_line_start": 12,
+        "source_line_end": 25,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "f7975ceee31262411e4b65fcfb48ee21e06849d73add962bb17e16d0d4857966",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0077-p0082:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "             Anwendung.       Der Kümmel wird in Form von Pulver oder Spezies, seltener im Aufguss\n  gegeben und bildet eim angenehm gewürzhaft schmeckendes Stimulans und Carminativum. Husemann,\n  sagt: „Fructus und Oleum Carvi sind ohne sonderliche medizinische Bedeutung. Sie stehen beide im\n  Volke im Ruf als Carminativum und Mittel gegen Magenkrampf. Auch wird Kümmel mit Biersuppe\n   als Galactagogum vom Volke benutzt.“ Oleum Carvi wird in Form von Oelzucker dargereicht. Letzteres\n  tödtet Kaninchen zu 30,0 in 5 Minuten und erzeugt bei Menschen in grósserer Menge Frösteln, Hitze,\n  Kopfeongestionen und Delirien. (Husemann, Arzneimittell. 960.) Die Kümmelfrucht ist ein beliebtes\n  Gewürz; das Kümmelól wird hauptsächlich zur Darstellung des Ktimmelliqueurs verwendet.",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：民間用作驅風劑與胃痙攣藥，亦作催乳劑。大劑量可致發冷、高熱與譫妄。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 78,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2900,
+        "char_end": 3678,
+        "page_text_sha256": "d788d7f74b449276d58d408b9f4ffc636fe2a234b0f6f49ed795909a57e17b17",
+        "exact_text_sha256": "8845c09527d29dd4a6ebe35f8a862736b23b1311710a99ba5e44473833a82c26",
+        "source_line_start": 32,
+        "source_line_end": 39,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "8845c09527d29dd4a6ebe35f8a862736b23b1311710a99ba5e44473833a82c26",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "22768b9afd40ad33a171cb9d0e5501cfe27044e0df74c05de46891f5e8778bbc",
+    "maker_receipt_sha256": "20a4f5f75833a32f74a0910c69f0d5a1e7d26d251056d953dd965803f4f6be0b",
+    "validation_check_sha256": "7fb4cf97b617c3f98a8821a1fa2b2338768fcf801bad5aaf6eaddd3b805f4afb",
+    "source_disposition_sha256": "c1f53580129c46be2266f10e06f95e485a46f261ccec423154298bfcfa6666dc",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "20a4f5f75833a32f74a0910c69f0d5a1e7d26d251056d953dd965803f4f6be0b",
+      "validation_check_sha256": "7fb4cf97b617c3f98a8821a1fa2b2338768fcf801bad5aaf6eaddd3b805f4afb",
+      "source_disposition_sha256": "c1f53580129c46be2266f10e06f95e485a46f261ccec423154298bfcfa6666dc"
+    },
+    "naming_artifact_sha256": "cd93500b895a1f79f33dfa31d4b462f934a0912a5f43091c2d02320c6cfd9b8e"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "c20404f5a1f2e254ac35988d425d569a1ceead037ad5cdb741fb698e38971a23"
+}

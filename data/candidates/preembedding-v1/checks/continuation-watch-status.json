@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "started_at": "2026-08-20T18:57:45+08:00",
+  "status": "blocked_for_heading_boundary_repartition",
+  "iterations": 12,
+  "receipts_passed": 7,
+  "remaining": 34,
+  "continuation_receipts_passed": 7,
+  "continuation_remaining": 34,
+  "recovery_receipts_passed": 0,
+  "recovery_remaining": 9,
+  "unresolved_content_holds": 8,
+  "needs_review": 3,
+  "consecutive_errors": 0,
+  "consecutive_no_progress": 3,
+  "errors": [
+    {
+      "at": "2026-08-20T19:33:30+08:00",
+      "stage": "heading_boundary_repartition",
+      "output": "three receipts cross frozen parent boundaries into different plant taxa; retry is prohibited until source-heading partitions are repaired"
+    }
+  ],
+  "safety": {
+    "external_model_calls": 0,
+    "canonical_writes": false,
+    "embedding_calls": false
+  },
+  "updated_at": "2026-08-20T20:05:00+08:00",
+  "primary_batch_status": "complete",
+  "primary_batch_processed": 230,
+  "primary_receipts_checked": 231,
+  "primary_receipts_needs_review": 0,
+  "primary_needs_review_entry_ids": [],
+  "active_lane": "continuation",
+  "last_validation": {
+    "continuation": {
+      "status": "BLOCKED_FOR_REPARTITION",
+      "package_count": 41,
+      "receipts_found": 10,
+      "deterministic_pass": 7,
+      "needs_review": 3,
+      "needs_review_package_ids": [
+        "kohler-volume-2:p0223-p0230:continuation-02",
+        "kohler-volume-2:p0231-p0246:continuation-02",
+        "kohler-volume-2:p0231-p0246:continuation-03"
+      ],
+      "remaining": 34,
+      "complete": false
+    },
+    "integration_summary_sha256": "25b59ab5c5b75a30612834eaf9c3a883c52d9aac9d6230c5ecf673b86ef14632"
+  }
+}

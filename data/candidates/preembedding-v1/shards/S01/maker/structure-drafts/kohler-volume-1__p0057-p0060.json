@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0057-p0060",
+  "owner_shard": "S01",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 176.007,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0057-p0060",
+    "book_taxon": {
+      "scientific_name_candidate": "Rhamnus Frangula",
+      "authorship_candidate": "L.",
+      "aliases_candidates": [
+        "Frangula vulgaris Reichb.",
+        "Frangula Alnus Mill.",
+        "Frangula Frangula Karst"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "description",
+        "pdf_page": 57,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "3米高灌木，枝無刺，嫩枝及花梗被柔毛。樹皮紅棕色，有白色皮孔。葉橢圓形，全緣，深綠。",
+        "warnings": [],
+        "source_line_range": [
+          12,
+          21
+        ],
+        "exact_source_quote": "                                               — 3 m hoher Straacli (zuweilen auch baumartig) mit wechselstandigen,\ndornenlosen,       abstehenden,   ausgebreiteten Zweigen, deren junge Triebe am oberen Theile sannnt\n                                  fast\nBliithen- und Blattstielen fein und weich behaart sind.   Rinde der jiingeren Aeste glanzend, rothbraun,\nmit weissen, meist quergestreckten Korkwarzen bedeckt; altere Rinde matt-graubraunlich, im spateren Alter\nmattgrau, fein langsrissig, innen im frischen Zustande gelb, ausgetrocknet braungelb bis braun. Blatter\nmeist wechselstandig, zuweilen gegenstiindig, elliptisch meistentheils kurz zugespitzt, ganzrandig, kahl,\noberseita dunkelgriin, unterseits bleichgrun, mit stark hervortretender Mittelrippe; letztere mit beider-\nseits 6  —8 schrag abgehenden, nach dem Rande zu bogig verlaufenden          unterseits behaart en Seiten-\n                                                                                                 ,"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 57,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "樹皮橫切面示厚軟木層，含紅棕色細胞。皮層含黏液道。韌皮部含草酸鈣結晶及黃色色素Frangulin。",
+        "warnings": [],
+        "source_line_range": [
+          47,
+          61
+        ],
+        "exact_source_quote": "         Anatomisches : Der Querschnitt der Rinde zeigt eine starke Korkschicht, die nach aussen aus flachen, nach\ninnen aus gewolbten, regelmassigen, kleinen, mit einem rothbraunen Inhalte versehenen Tafelzellen zusammengesetzt\nist. Unter diesen Korkzellen befindet sich ein, aus tangential gestreckten, dickwandigen Zellen bestehendes Parenchym\nin dem spaterhin durch Trennung der Zellen grossere schleimfuhrende Ramne entstehen. Der Bast wird durch 1- bis\n3reihige, schmale, aus radial gestreckten, chlorophyllhaltigen Zellen bestehenden Markstrahlen in ungleichbreite Bast-\nstrahlen getheilt, die zum grossen Theile aus Bastparenchym bestehen. Letzteres ist aus tangential gestreckten, nach\ninnen zu allmalig quadratisch werdenden Zellen zusammengesetzt und enthalt tangential geordnete Bastbiindel, welche\nvon Strangen krystallreichen Parenchyms umgeben sind.        Die in diesem Parenchym vorkommenden        aus Calcium-   ,\n\n\n\noxolat bestehenden Krystalle besitzen eine rhomboedrische Form und treten in den Zellen einzeln auf, wahrenddeni\ndie in dem ubrigen Parenchym, mit Ausnahme der Markstrahlen, sonst noch vorkommenden Krystalleinlagerungen in\nrosettenformigen Drusen auftreten.    Die Zellen des Parenchyms und der Markstrahlen enthalten einen gelben Farb-\nstoff:   Frangulin."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 57,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分佈於北非、歐洲至北極圈，及中亞至阿爾泰山。芬蘭及拉普蘭分佈至北緯66度。",
+        "warnings": [],
+        "source_line_range": [
+          62,
+          64
+        ],
+        "exact_source_quote": "             Verbreitung.In feuchten Gebiischen und Laubwaldern von Nordafrika durch ganz Europa\nbis zum Polarkreis. In Mittelasien bis zum Altai. Der Faulbaum geht in Finnland und Lappland bis\nzum 66. Breitengrade empor."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 58,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "中世紀作大黃替代品，稱Bhabarbarum plebejorum。17-18世紀用於水腫。1843年Gumprecht重獲重視。",
+        "warnings": [
+          "Historical medical content described as historical, not advice."
+        ],
+        "source_line_range": [
+          6,
+          11
+        ],
+        "exact_source_quote": "Rhabarbersurrogat verwendet, aus welchem Grunde sie Fehr raid mit ihm  andere Aerzte  des  17.  una\n18. Jahrhunderts mit dem Namen Bhabarbarum plebejorum bezeichneten.       Johann    Wyer,    iiirstl.\n\nClevescher Leibarzt, empfahl die Rinde gegen Hydrops. Die Faulbaumrinde   war  lange Zeit      Ver-               m\ngessenheit gerathen, bis sie durcli Gumprecht im Jahre 1843 wieder  zu  Ansehen   gebracht  wurde.\nLobelius nannte den Faulbaum wegen des scblecbten Geruchs der Rinde Arbor foetida."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 58,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含揮發油、樹脂、糖、鞣質、蘋果酸、草酸鈣、類似Cathartin的糖苷及黃色結晶糖苷Frangulin。",
+        "warnings": [],
+        "source_line_range": [
+          36,
+          44
+        ],
+        "exact_source_quote": "          Bestandtheile.     Die Rinde enthalt eine sehr geringe Menge atherischen Oeles, mehrere Harze,\nZucker, eisengrtinenden Gerbstoff, Aepfelsaure, oxalsanren Kalk, ein der Cathartinsaure ahnlicbes, Schwefel\nnnd Stickstoff enthaltendes Glykosid, ferner ein gelbes, krystallinisches, geruch- und geschmackloses\nGlykosid, welcbes Buchner Bhamnoxanthin (C           20  20\n                                                           H 10\n                                                                ), Casselmann Frangulin (C\n                                                                                            6   6 3\n                                                                                                         H\n                                                                                                    ) nannte;"
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 58,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "圖示：帶花果枝（原大）；花蕾、花（放大）；子房、雄蕊、花粉、果實（放大）；核果縱切面。",
+        "warnings": [],
+        "source_line_range": [
+          91,
+          96
+        ],
+        "exact_source_quote": "          A Zweig mit Bluthen und Friicliten, naturl. Grosse; 1 Bliithenknospe, vergrossert; 2 geoffnete Bliithe von\nder Seite, desgl.;   3 dieselbe von oben, desgl.; 4 clieselbe im Langsschnitt, desgl.;    5   Fruchtknoten mit GrifFel und\nNarbe, desgl.; 6 u. 7 Staubgefass, desgl.; 8 Pollenkorner, desgl.; 9 Frucht (Steinbeere), desgl.; 10 dieselbe im Langs-\nschnitt, desgl.; 11, 12, 13, 14 Steinkern von verschiedenen Seitcn, natfirl. Grosse und vergrossert; 15 u. 16\n                                                                                                                dasselbe\nim Langsschnitt, desgl.    Nach der Natur von W. Mil Her."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "941a2844c8d8782ad5280374bc38a7ccc7640eb52cbe4c88c9dc4afd49d866d8"
+}

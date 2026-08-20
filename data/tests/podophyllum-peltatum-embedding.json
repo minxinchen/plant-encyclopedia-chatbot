@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "run_id": "podophyllum-page-embedding-2026-08-11",
+  "batch_id": "volume-1-podophyllum-peltatum-pages-191-192",
+  "hypothesis": "Gemini embedding-2 can retrieve the German habitual-constipation evidence from a Traditional Chinese question, while an explicit evidence-term gate prevents a Libra question from becoming an invented book relation.",
+  "proof_of_done": [
+    "PDF pages 191 and 192 each produce a finite normalized 768-dimensional vector with source hashes.",
+    "The Traditional Chinese constipation question ranks PDF page 192 first.",
+    "The Libra question remains unanswerable because no book relation term is present, regardless of its nearest vector result.",
+    "The batch uses at most four free-tier external model calls and remains source-page traceable."
+  ],
+  "queries": [
+    {
+      "query_id": "habitual-constipation-zh-tw",
+      "question_zh_tw": "哪一種植物的根莖及其樹脂在書中被記載用於習慣性便秘？",
+      "expected_status": "answerable",
+      "required_book_terms": [
+        "Verstopfung",
+        "Obstipation"
+      ]
+    },
+    {
+      "query_id": "libra-plant-zh-tw",
+      "question_zh_tw": "天秤座相關的植物是什麼？",
+      "expected_status": "unanswerable",
+      "required_book_terms": [
+        "Libra",
+        "Waage",
+        "Tierkreis",
+        "Sternzeichen",
+        "Venus"
+      ]
+    }
+  ]
+}

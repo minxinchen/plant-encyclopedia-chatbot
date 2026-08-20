@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 563,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "86a658058d760cd40b17f0cf45799e0d5355aade72da37d6222dd6abfb12a2ce",
+  "render_dpi": 144,
+  "render_sha256": "51ace968299eb1b8fb4d35df7e66e21319faa49c7a0da1a059d29d3a0357e901",
+  "input_sha256": "51ace968299eb1b8fb4d35df7e66e21319faa49c7a0da1a059d29d3a0357e901",
+  "render_pixel_width": 5618,
+  "render_pixel_height": 8006,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.341,
+  "embedded_character_count": 52,
+  "ocr_character_count": 28,
+  "ocr_alpha_ratio": 0.8214,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.022965270375448488,
+      "text": "Myrtaceae.",
+      "width": 0.11940905028434179,
+      "x": 0.8231893408799196,
+      "y": 0.9137614403975912
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436846943,
+      "text": "5",
+      "width": 0.018633539853584624,
+      "x": 0.6521739134583009,
+      "y": 0.1627906977152005
+    },
+    {
+      "confidence": 1,
+      "height": 0.024223719324384385,
+      "text": "Punica Granatum",
+      "width": 0.211392179563273,
+      "x": 0.38912792941985325,
+      "y": 0.10998116375107259
+    }
+  ],
+  "text": "Myrtaceae.\n5\nPunica Granatum",
+  "output_sha256": "d72f0e4c41993baac9107688edb304a6871e0d566db481f0bd6e5b8f06002875",
+  "receipt_sha256": "44c6009f9f4113858dba34f2cfa8d6f466b040a0f075a067f9ae74e197a76f53"
+}

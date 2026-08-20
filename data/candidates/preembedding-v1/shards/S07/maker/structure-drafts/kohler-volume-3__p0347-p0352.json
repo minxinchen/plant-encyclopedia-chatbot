@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-3:p0347-p0352",
+  "owner_shard": "S07",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 176.36,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-3:p0347-p0352",
+    "book_taxon": {
+      "scientific_name_candidate": "Oryza sativa",
+      "authorship_candidate": "L.",
+      "aliases_candidates": [
+        "Reis",
+        "riz",
+        "arroz",
+        "rouz",
+        "arvus",
+        "dhan",
+        "chaval",
+        "ari"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "description",
+        "pdf_page": 347,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "一年生草本，高1.5米，茎中空光滑。葉鞘壓扁，葉舌長尖。葉片線形，長30厘米，寬2厘米，邊緣銳利。",
+        "warnings": [],
+        "source_line_range": [
+          7,
+          16
+        ],
+        "exact_source_quote": "         Beschreibung. Aus                   einer büscheligen Wurzel erhebt sich die, unserem Hafer sehr\nähnliche, e'njährige Staude.                  Der Halm erreicht eine Höhe von 1,5 m; er ist hohl, kahl, glatt,\nselten     gestreift    und      besonders         im     oberen    Teile       völlig     stielrund.       Die kahlen        Blattscheiden\nsind von den Seiten her zusammengedrückt,                                  die der unteren Blätter auf dem Rücken ein\nwenig      gekielt;    am Ansatz          der Knoten          sind sie ebenfalls         kahl.       Das    sehr lange Blatthäutchen\nläuft in eine Spitze aus, an den oberen Blättern ist es ein wenig gestutzt, behaart und ge-\nwimpert        und     rotbraun      gestreift.         Die Blattspreite          erreicht        eine Länge        von    30 cm    und    eine\nBreite von 2 cm; sie ist am Grunde geöhrt und an den Öhrchen gewimpert, breit linealisch,\nzugespitzt, oberseits mit einzelnen Haaren besetzt, unterseits ganz kahl oder nur sehr spär-\nlich behaart; der Rand ist schärflich. Der Blütenstand ist eine Rispe, deren Seitenstrahlen"
+      },
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 348,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "栽培變種繁多。Körnicke分類：I. usitatissima（普通稻），胚乳玻璃質，可煮可烤。1. communis，果實大（5-7毫米）。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          10
+        ],
+        "exact_source_quote": "                      Der       Reis    wird      in einer   grossen     Menge      von   Kulturvarietäten            und   Formen\n          Formen.\ngebaut.    Nach Körnicke               kann man die Va ri et ät en in fo lg en de r We is e gr up pi er en :\n\n          Oryza sativa L.\n          I. usitatissima Körnicke.               Gewöhnlicher Reis.         Der Eiweisskörper ist im Bruch glasig,\n            etwas     glänzend         (koch- und       backfähig).\n\n            1. communis Körnicke.                  Früchte gross (5 bis 7 mm              lang).\n               A. Unbegrannt."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 349,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "野生於東南亞及熱帶澳洲濕地。栽培範圍：亞洲至北緯42度，歐洲至46度（波河平原），北美至36度，南半球至南緯26度。",
+        "warnings": [],
+        "source_line_range": [
+          26,
+          32
+        ],
+        "exact_source_quote": "        Vorkommen und Verbreitung. Der Reis findet sich wild in feuchten Gegenden Süd-\nasiens und des tropischen Australiens und wird in zahllosen Varietäten als Getreidepflanze\nin Asien bis zum 42.°, in Europa bis 46° (Po-Ebene), in Nordamerika bis 36° nördlicher\nBreite    und    auf     der Südhalbkugel         bis 26° südlicher        Breite   kultiviert     und zwar      besonders      in\n\nChina,    Japan,       Korea,    auf den     Philippinen     und    den Sundainseln,        in Vorder-     und Hinterindien,\nauf Ceylon       und     Madagaskar,       in Nordamerika          und   Italien."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 350,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "梵語名vrihi，希臘語oryza。中國栽培約5000年。經內亞傳至朝鮮、日本。歐洲初作藥用，後由阿拉伯人傳入尼羅河三角洲及西班牙。",
+        "warnings": [],
+        "source_line_range": [
+          5,
+          15
+        ],
+        "exact_source_quote": "           Name       und     Geschichte.         Der Name        des Reis      im    Sanskrit      ist vrihi,       welches      in den\n\niranischen       Sprachen        zu brizi wurde;            aus dieser altpersischen Form machten die Griechen\noryza,    woraus      dann      die Bezeichnungen           des Reises in allen europäischen Sprachen entstanden.\nIn China       wird    Reis     seit     etwa    5000 Jahren       kultiviert.       Von      da    gelangte      der Reisbau        nach\n\nInnerasien, Ko     re  a    un d   Ja pa n,   na ch     ga nz    Sü da si en    un d   Per  sie n.     Im    Ab en dl  an d    wu rd e    er\nwo hl  ers t   du rc h    die   Fe ld zü ge   Al ex  an de r   des    Gr os se n    ge na  ue r    be ka nn t,    die  nte   je do ch   zur\nZeit des   Ho ra z    no ch   nic ht   als  Spe ise ,   so nd er n   nur    als  Med  izi n.     Die   Ar  ab er    füh  rte n  de n  Rei s-\nbau im Nildel     ta    un d   in  Sp an ie n   ein .    Um    153 0   ba ut e   ma  n   Rei s   au ch    in  Ita lie n.    Na ch    No rd -\namerika      kam      der Reisbau         im Anfang       des 18. Jahrhunderts."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 351,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "穀物中蛋白質最少，澱粉最多。平均含水12.58%，蛋白質6.73%，脂肪0.88%，澱粉78.48%。米糠含蛋白質11.20%，脂肪7.85%。",
+        "warnings": [],
+        "source_line_range": [
+          42,
+          48
+        ],
+        "exact_source_quote": "           Bestandteile.              Von     allen Getreidearten                ist Reis am       ärmsten     an eiweissartigen Stoffen,\n\ndagegen am reichsten an Stärkemehl. Im Mittel enthält er 12,58 °/, Wasser, 6,73 °/, Eiweiss-\nstoffe, 0,88 %/, Fett, 78,48 °/, Stärke und stickstofffreie Stoffe, 0,51 °/, Rohfaser, 0,82 °/, Asche.\nDie beim Schäl    en   abfal lende   Kleie ,   die   als  Reisf  utter  mehl    in   den  Hande l   gebra   cht  wird,\nenthält im Durchschnitt       12,90  Wasse  r,   11,20    Eiwei sssto ffe,   7,85   Fett, 62,10   Stärk e   und  stick-\nstofffreie Extraktstoffe,    1,60  Rohfa ser,     4,35   Asche .    Es   findet   also  beim  Reis   in   sehr  hohe m"
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 352,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "圖版描述：A開花植株下部（var. melanoceras）；B花序；C var. italica果序；D var. Sundanensis果枝。1-7放大，A-D縮小。",
+        "warnings": [],
+        "source_line_range": [
+          25,
+          31
+        ],
+        "exact_source_quote": "                                                    Tafelbeschreibung.\n          A blühendes Exemplar der Pflanze (var. melanoceras Alef.), unterer Teil. B Blütenrispe. C Frucht-\nrispe der var. italica Körnicke. D Fruchtzweig der var. Sundanensis Kömicke.     1 ein Ährchen von A; 2 das-\nselbe im Längsschnitt; 3 Staubblätter; 4 Ährchen stärker vergrössert nach Entfernung der unteren (grösseren)\nSpelze und eines Perigonblattes; 5 Endosperm mit Keimling von C; 6 Scheinfrucht von C im Längsschnitt;\n7 Frucht von D; 8 dieselbe im Querschnitt. A, B, C, D etwas verkleinert; 1 bis 7 vergrössert. Nach leben-\nden Exemplaren aus dem Königl. botanischen Garten zu Berlin. Fruchtstände aus Japan."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "ea7ab03f3d204f66d757b4031ca164e836bc61797f2c299a3fec0563fdce8706"
+}

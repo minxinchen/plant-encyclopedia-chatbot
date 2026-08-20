@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-2:p0353-p0356",
+  "owner_shard": "S04",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S04/maker/structure-drafts/kohler-volume-2__p0353-p0356.json",
+  "source_draft_sha256": "ee4694c4237e4448a51bb5e8af6924808b721c9bbb79d19bd2c03cf11de34ffe",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "bdd3681178663ab5c4155abb132532cb13669697609d084d065479d24bea5142",
+    "validation_check_sha256": "c0d3263f22da0283abb03b880af9e18c78ac81a4f9b50863e3352e543244c16b",
+    "source_disposition_sha256": "6561c6e25b4a7f2116989d295984f996f00fb0fc4079ff01a20532abf0b4873e",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Gossypium barbadense",
+    "authorship_candidate": null,
+    "aliases_candidates": []
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Gossypium barbadense"
+    ],
+    "accepted_scientific_name": "Gossypium barbadense",
+    "display_name_zh_tw": "海島棉",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": null,
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "tai2"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary",
+    "rationale": "Tai2 exactly lists the book binomial as a main name or synonym and links it to this accepted species page.",
+    "checked_at": "2026-08-13T14:59:18+08:00",
+    "tai2_code": "999 990 443 8"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Gossypium barbadense",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Gossypium+barbadense",
+      "retrieved_at": "2026-08-13T14:59:14+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Gossypium barbadense",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Gossypium%20barbadense",
+      "retrieved_at": "2026-08-13T14:59:18+08:00",
+      "exact_result_count": 1,
+      "exact_results": [
+        {
+          "name": "<em>Gossypium</em> <em>barbadense</em> L.",
+          "ebooksearch": "Gossypium barbadense",
+          "simnametitle": "<em>Gossypium</em> <em>barbadense</em>",
+          "type": "M",
+          "code": "999 990 443 8",
+          "apgfamily": "Malvaceae",
+          "chapgfamily": "錦葵科",
+          "family": "Malvaceae",
+          "chfamily": "錦葵科",
+          "genus": "Gossypium",
+          "chgenus": "棉屬",
+          "fern": "no",
+          "chname": "海島棉",
+          "comname": "",
+          "comtype": "",
+          "endetype": "Non-Taiwanese",
+          "result_type": "species"
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "species_url": "https://tai2.ntu.edu.tw/species/999%20990%20443%208",
+      "accepted_species_record": {
+        "name": "<em>Gossypium</em> <em>barbadense</em> L.",
+        "ebooksearch": "Gossypium barbadense",
+        "simnametitle": "<em>Gossypium</em> <em>barbadense</em>",
+        "type": "M",
+        "code": "999 990 443 8",
+        "apgfamily": "Malvaceae",
+        "chapgfamily": "錦葵科",
+        "family": "Malvaceae",
+        "chfamily": "錦葵科",
+        "genus": "Gossypium",
+        "chgenus": "棉屬",
+        "fern": "no",
+        "chname": "海島棉",
+        "comname": "",
+        "comtype": "",
+        "endetype": "Non-Taiwanese"
+      },
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

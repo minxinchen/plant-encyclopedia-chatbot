@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0247-p0250",
+  "owner_shard": "S03",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 122.616,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "needs_review",
+  "errors": [
+    "invalid_source_line_range:p249:L52-L6",
+    "source_quote_not_exact:p249"
+  ],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0247-p0250",
+    "book_taxon": {
+      "scientific_name_candidate": "Pterocarpus Marsupium",
+      "authorship_candidate": "Roxburgh",
+      "aliases_candidates": [
+        "Sichelfrüchtiger Flügelfruchtbaum",
+        "Kino de l'Inde",
+        "Vengay",
+        "Buja",
+        "Bastard Teak"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "description",
+        "pdf_page": 247,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "高25米樹，外皮褐色片狀剝落，內皮紅色纖維。葉為奇數羽狀複葉，5-7小葉，橢圓形，革質。花淡黃或黃白，總狀花序。果實為不裂的翅果，直徑3-5公分，具網狀脈翅。",
+        "warnings": [],
+        "source_line_range": [
+          7,
+          28
+        ],
+        "exact_source_quote": "           Beschreibung.          Schöner, schlanker, bis 25 Meter hoher, über 2 Meter Umfang besitzender\n Baum    mit   einer   braunen,   schwammigen,   sich in Platten   ablösenden   Aussenrinde   und   einer rothen,\n  faserigen Innenrinde. Die unpaarig gefiederten Blätter mit 5 oder 7 Blättchen; letztere kurz gestielt,\n  bis 10 Ctm. lang, bis fast 6 Otm. breit, oblong bis elliptisch, gewöhnlich ausgerandet, auch stumpf,\n  ganzrandig, lederartig, oberseits glänzend, unterseits matt, mit unterseits stark hervortretendem Mittelnerv\n   und scharf vortretenden, jedoch feinen Seitennerven. Die lockern, rispenartigen Blüthentrauben end-\n   und achselständig, einfach oder zusammengesetzt, vielblüthig, mit kleinen hinfálligen Deckblättern;\n   Traubenzweige und Blüthenstiele kurz bräunlich-grau behaart. Die einzelnen Blüthen gestielt. Der röhrig-\n  glockige Kelch mit 5 kurzen, beinahe gleichlangen, dreieckigen, stumpfen Zähnen, sehr kurz seidenartig\n  behaart. Krone blassgelb oder gelblich-weiss, Fahne fast kreisrund (nach Bentley schmal, zurück-\n   gebogen). Flügel schief verkehrt eifórinig. Schiffchen aus 2, auf dem Rücken verwachsenen Blättchen\n  bestehend. Die bei Bentley and Trimen dargestellten Blüthen besitzen eine länglich-runde, nach oben\n. zurückgebogene Fahne, 2 abwärts gebogene schiefrundliche, seitlich etwas verbreiterte Flügel und ein\n  Schiffchen, welches aus zwei länglichen, gegen einander und etwas nach oben gekrümmten und an den\n  Rändern verwachsenen Blättchen zusammengesetzt ist; sämmtliche Theile der Krone sind wellenfórmig\n  ausgerandet und ziemlich lang genagelt. Staubgefässe 10, in 2 lateralen, fünfgliederigen Bündeln; die\n  Fäden auf die halbe Länge verwachsen, oben frei; Staubbeutel klein, schaukelnd. Fruchtknoten ge-\n  stielt, länglich, mehreiig, sammt dem fadenförmigen ziemlich langen Griffel behaart. Narbe klein, kopfig.\n  Hülse gestielt, nicht aufspringend, fast kreisrund, sichelfórmig, stark zusammengedrückt, einschliesslich\n  des 1 Ctm. breiten Flügelrandes 3 一5 Ctm. im Durchmesser; der häutige, pergamentartige Flügelrand\n  wellig, netzaderig, flaumhaarig. Same meist einzeln oder zwei, durch eine Scheidewand von einander\n  getrennt, ohne Eiweiss."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 248,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "產於東印度及錫蘭，至喜馬拉雅山南麓；主要分佈於中南部，尤以馬拉巴爾海岸森林為多。馬德拉斯地區有人工栽培。",
+        "warnings": [],
+        "source_line_range": [
+          12,
+          15
+        ],
+        "exact_source_quote": "         Vorkommen des Pterocarpus Marsupium: Ostindien und Ceylon bis in die südlichen Vor-\nberge des Himalaya; hauptsächlich in den centralen und südlichen Ländern, namentlich aber in den\nWäldern der Malabarküste vorkommend. In Madras wird der Baum forstwirthschaftlich gezogen,\n"
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 248,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源自希臘語，指帶翅果實。Kino源自印度，最初由非洲Gambia地區發現。1733年Moore發現，1805年Park確認。Fothergill推廣其藥用價值，1774年收錄於愛丁堡藥典。",
+        "warnings": [],
+        "source_line_range": [
+          18,
+          35
+        ],
+        "exact_source_quote": "          Name und Geschichtliches.                  Pterocarpus von zcrévov Flügel und xoegzog Frucht, wegen\nder geflügelten Frucht;          Marsupium,     Geldbeutel,    Börse,     bezogen    auf die Form         der Hülse.     Kino    ist\nindischen Ursprungs, kimi, kuenee ist der Name für den ausschwitzenden Saft der Butea frondosa, welcher\n als Bengalisches Kino in den Handel kommt.\n         Moore, ein Beamter der Royal African Company, war der erste gebildete Europäer, welcher\nim Auftrage seiner Gesellschaft 1733 den oberen Gambia besuchte, dort und zwar bei Pisania den\nPalo de sangue (Blutbaum) der portugiesischen Colonisten (Kano der Mandingo-Neger) antraf und sich\nüber den rothen,       dem   Drachenblute       ähnlichen     Saft Kenntniss      verschaffte.     Dieser Baum       wurde     1805\ndurch Vermittelung des Afrikareisenden Mungo Park, welcher Theile des Baumes an Jos. Banks\nnach London sendete, als Pierocarpus erinaceus erkannt, Der englische Arzt John Fothergill\nmachte    auf die medizinischen Eigenschaften des Kino aufmerksam und führte den Saft als Gummi rubrum\nadstringens Gambiense oder Novum Gummi Africanum adstringens in den Arzneischatz ein. 1774 trat\ndie Droge in der Edinburger Pharmakopóe auf. Anfänglich war Kino sehr theuer, denn es wurden !\num 1780 in London für das Pfund ca. 21 Mark bezahlt. Zu Anfang unseres Jahrhunderts wurde das\nKino von Jamaica (von Coccoloba uvifera abstammend), das Kino der Malabarküste und das Eucalyp-\ntuskino   aus Australien     bekannt.      Diese Kinosorten       verdrängten       sehr bald das afrikanische         Kino.    Die\nAbstammung des Malabarkino von Pterocarpus Marsupium wurde durch Roxburgh festgestellt und\ndurch Kennedy, Royle und Wight bestätigt."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 249,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含75%單寧、24%紅色黏液及1%纖維。含Pyrocatechin、Phloroglucin及Kinoin。Kinoin為單寧酸甲酯，加熱轉化為Kinoroth。",
+        "warnings": [],
+        "source_line_range": [
+          29,
+          48
+        ],
+        "exact_source_quote": "          Bestandtheile               Nach Vauquelin          besteht Malabarkino      aus 75%, (85%) eigenthümlichem,\n. eisengrünendem     Gerbstoff,        24%,   rothem    Schleim    und   1%, Faserstoff.      Nach     Büchner   enthält       Kino\n auch Catechin,       was         Flückiger   in Abrede      stellt, mit dem Bemerken,       dass sich Kino durch das Fehlen\n des Catechin von Catechu und Gambir unterscheide. Eisfeld, Flückiger und Wiesner fanden in\n dem Kino Pyrocatechin, worüber Flückiger folgendes sagt: „Zieht man gepulvertes Kino wiederholt\n mit Aether aus, so hinterlässt dieses beim Verdunsten in äusserst geringer Menge Krystallschüppchen,\n welche in kaltem Wasser sehr leicht löslich sind und in verdünnter Eisenchloridlösung eine grüne, auf\n Zusatz von Alkalien rothe Färbung hervorrufen. Jene Kryställchen dürften daher Pyrocatechin sein;\n merkwürdig genug hat Broughthon (1872) aber letzteres weder in der Rinde noch im Holze des\n lebenden Baumes finden können“        Hlasiwetz erhielt beim Schmelzen des Kino mit Aetzkali 9%\n Phloroglucin. Berzelius und Gerding halten die Kinogerbsäure, welche aus Lösungen durch\n verdünnte Mineralsäure als rothbrauner Niederschlag erhalten wird, für eigenthümlich; Hennig für\n identisch mit der Gallusgerbsáure. Die Kinogerbsäure geht bei längerem Kochen in ganz unlösbares\n Kinoroth GC Ha O,,) über. Etti erhielt durch Kochen des Malabarkino mit Salzsäure und Be-\n handlung mit Aether eine kleine Menge weisser Krystalle von Kinoin (C,, H, 0,), welche, in Wasser\n gelöst, mit Eisenchlorid eine rothe Farbe annehmen. Als Derivate des Kinoins sind Chlormethyl, Pyro-\n catechin und Gallussäure zu betrachten.               Kinoin ist schwer löslich in kaltem Wasser, leichter in heissem\n Wasser   und Alkohol, weniger leicht.in Aether; Leimlósung                   fällt nicht.    Etti betrachtet    es als Gallus-\n sáure-Methyláther des Pyrocatechins (C, H, (OCH,) 0, H, 0,) oder auch als Methyl-Pyrocatechinüther\n der Gallussäure. Bei 130° verwandelt sich Kinoin unter Wasserabscheidung in das amorphe Kinoroth"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 249,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史上用作收斂劑、止血劑及止瀉劑，用於腸道炎症、出血及糖尿病。現主要用作藥物染色劑，如牙膏。",
+        "warnings": [],
+        "source_line_range": [
+          52,
+          6
+        ]
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 250,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "圖版描述：A開花枝條（原大）；1-3花冠部分（放大）；4雄蕊（放大）；5雌蕊（放大）；6果實（原大）；7帶翅果實切面（原大）。",
+        "warnings": [],
+        "source_line_range": [
+          26,
+          29
+        ],
+        "exact_source_quote": "                                              Tafelbeschreibung:\n          A blühender Zweig, natürl. Grösse; 1, 2, 3 Theile der Krone, vergrössert; 4 Staubgefässe, desgl.; 5 Stempel,\ndesgl; 6 Frucht, natürl Grösse; 7 Schnittfüüche der geflügelten Frucht, desgl. Nach einer Originalzeichnung des\nHerrn Professor Schmidt in Berlin,"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "6afe8156da9c51504e374f7ce6a080045998058bc692b9fd20ed7b96457977a8"
+}

@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 687,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "23a728e01259eb73c5cde57a8334e3b6df1fa106c9403e4475c2c4e2d0cffe86",
+  "render_dpi": 144,
+  "render_sha256": "eb51b6a01ab36e8a43cb22cefb76fd8324a0d7a3b61d097153bd212d39b62c92",
+  "input_sha256": "eb51b6a01ab36e8a43cb22cefb76fd8324a0d7a3b61d097153bd212d39b62c92",
+  "render_pixel_width": 6098,
+  "render_pixel_height": 8534,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.194,
+  "embedded_character_count": 53,
+  "ocr_character_count": 46,
+  "ocr_alpha_ratio": 0.7174,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.02068218730744864,
+      "text": "Euphorbiaceae.",
+      "width": 0.14236908700216322,
+      "x": 0.8353195224530323,
+      "y": 0.9693100693934761
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436846943,
+      "text": "10",
+      "width": 0.020325203391928115,
+      "x": 0.8008130079923829,
+      "y": 0.24273255820454165
+    },
+    {
+      "confidence": 1,
+      "height": 0.023325026981414365,
+      "text": "Croton Elateria Bennet.",
+      "width": 0.22154471975163736,
+      "x": 0.39227641868109187,
+      "y": 0.05952380986331518
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "170.",
+      "width": 0.022357723598758185,
+      "x": 0.03252032547196236,
+      "y": 0.018895349159578245
+    }
+  ],
+  "text": "Euphorbiaceae.\n10\nCroton Elateria Bennet.\n170.",
+  "output_sha256": "3de7ede3d22a0c89aefd966ac8823dd210f3ba30a09e5e34e447cc87decb0e9e",
+  "receipt_sha256": "cdc51b76214b873808040ee13d7e4fcd80f47bc34079798e2c557a66cb494812"
+}

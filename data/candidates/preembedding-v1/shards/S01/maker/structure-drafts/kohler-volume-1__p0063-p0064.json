@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0063-p0064",
+  "owner_shard": "S01",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 142.568,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0063-p0064",
+    "book_taxon": {
+      "scientific_name_candidate": "Datura Stramonium L.",
+      "authorship_candidate": null,
+      "aliases_candidates": [
+        "Datura Pseudo stramonium Sieb.",
+        "Stramonium vulgatum Gaertn",
+        "Stramonium spinosum Lam.",
+        "Datura Tatida L.",
+        "D. Stramonium f. chalybaea Koch"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 63,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Datura Stramonium L.，異名包括 Datura Pseudo stramonium 及 Stramonium vulgatum。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          3
+        ],
+        "exact_source_quote": "                                    Datura Stramonium L.\nSy     Datura                 V   Datura Pseudo stramonium          Sieb.     Stramonium vulgatum Gaertn\n                    Stramonium spinosum Lam.                                 foetidum Scop."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 63,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "一年生直立草本，莖中空多分枝。葉卵形，邊緣不規則鋸齒狀，深綠至淺綠，幼葉被毛。",
+        "warnings": [],
+        "source_line_range": [
+          14,
+          20
+        ],
+        "exact_source_quote": "         Beschreibung.        Die einjahrige, senkrecht in den Boden gehende, mit Wnrzelfasern besetzte\nWurzel treibt einen 0.2 1 — m     hohen, aufrechten, wiederholt gabelastigen, krautartigen, hohlen, nur auf\nder Innenseite der Aeste feinhaarigen Stengel von unten fast stielrunder, oben stumpf 3kantiger Form.\nBlatter einzeln oder an den Aesten gepaart, langgestielt, bis 20 cm lang, 15 cm breit, eiformig, spitz,\nungleicli-buclitig gezahnt, die grosseren Zahne oder Lappen mit kleinen Zahnen besetzt, oberseits\ndunkel-, unterseits hellgriin, die jungern fein behaart, die altern nnr an den Nerven mit Harchen besetzt;\nSeitennerven miter einem Winkel, von 35        —40° von der Mittelrippe abgehend. Blattstiel fast stielrund,"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 63,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "葉橫切面含草酸鹽結晶；表皮細胞波狀，具氣孔及腺毛。種皮細胞壁增厚，呈齒狀互鎖。",
+        "warnings": [],
+        "source_line_range": [
+          44,
+          49
+        ],
+        "exact_source_quote": "         Anatomisches :   Der Querschnitt des Blattes zeigt (nacli Fliickiger) eine schmale Mittelschicht,       die zahl-\nreiche, gut ausgebildete Krystalle in sich schliessende Oxalsauredrusen enthalt. Die starker entwiekelte obere Schicht\nbesteht aus Palissadenzellen, die unteren aus Schwammparenchym.        Die Epidermiszellen zeigen namentlich auf der\nBlattunterflache wellenformige Umrisse und sind von zahlreichen Spaltoffnungen unterbrochen; audi entwickeln sich\naus der Epidermis einzelne mehrzellige  ,  von einer kurzen Stielzelle getragene Driisenhaare und 3zellige driisenlose\nHaare. Die Epidermis der Samenschale ist aus einer Reihe gelber, radial gestellter Zellen zusammengesetzt deren   ,"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 63,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產黑海與裏海地區，現廣布歐亞美，從熱帶至北極圈，斯堪的納維亞北至70度緯線。",
+        "warnings": [],
+        "source_line_range": [
+          66,
+          68
+        ],
+        "exact_source_quote": "          Verbreitung.  Wahrscheinlich einheimisch in den Landern des Schwarzen und Caspischen\nMeeres. Gegenwartig an Wegen, auf Schutthaufen und Feldern uber Europa, Asien und Amerika von\nden Tropenlandern bis zum nordlichen Polarkreise verbreitet. In Skandinavien bis zum 70. Breitengrade."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 64,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "葉與種為劇烈麻醉毒藥，作用似曼陀羅但對眼更強。歷史上用於神經病、氣喘及百日咳。",
+        "warnings": [
+          "Historical medical content described as historical, not advice."
+        ],
+        "source_line_range": [
+          60,
+          69
+        ],
+        "exact_source_quote": "          Anwendung.           Blatterund Samen gehoren zu den heftigsten narkotischen Giften.            Ihre\nWirkung ist ahnlich der der Belladonna; jedoch sind die Wirkungen auf das Auge noch starker als\ndiess bei der Belladonna der Fall ist.        Die Stramoniummedikamente welche in der Regel als Absud\n                                                                                        ,\n\n\noder in Tinktur, auch in Form von Cigarren verordnet werden, wirken vorzugsweise auf die Ganglien-\nnerven, auf den Vagus und das Ruekenmark und werden daher bei verschiedenen Nervenleiden in\nAnwendung gebracht. Die Dampfform wendet man mit Vortheil an bei Neurosen der Luftwege, bei\nnervosem Asthma und Keuchhusten. (Husemann, Arzneimittell. 1094.)"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 64,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含劇毒生物鹼 Daturin（1833年發現）。種含0.127%，葉0.038%，莖0.009%，根0.008%。",
+        "warnings": [],
+        "source_line_range": [
+          37,
+          42
+        ],
+        "exact_source_quote": "          Bestandtheile. Die Blatter und Samen enthalten das von Br an des bei der Untersuchung\ndes Samens angedeutete, von Geiger und Hesse im Jahre 1833 entdeckte, sehr giftige Alkaloid:\nDaturin (C 17 H 2 3 3 ).  Nach den Untersuchungen von Giinther enthalten von diesem Alkaloid: die\nWurzeln^ 0,008 °/     die Stengel 0,009 °/\n                        ,                   die Blatter 0,038 °/\n                                                 ,                die Samen 0,127%."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "1d318cc5cf9fdbf4a49a383cc3c9a75f8bc5730dc14d0a4b248e1d20cad3efa7"
+}

@@ -1,0 +1,155 @@
+{
+  "schema_version": "2.0",
+  "package_id": "kohler-volume-1:p0209-p0222:child-01:continuation-01",
+  "parent_entry_id": "kohler-volume-1:p0209-p0222",
+  "child_entry_id": "kohler-volume-1:p0209-p0222:child-01",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation-v2:kohler-volume-1:p0209-p0222:child-01:continuation-01:v1",
+  "owner_shard": "S02",
+  "package_sha256": "3b009204964fdcd9e52c54020632356af740391e7211edae8562a474a621c619",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "prompt_version": "plant-structure-line-coordinates-v2",
+  "attempt_sha256": "3116ac86f54ab5b05b6fbbb5c4ecc300a159c8509aac75a3d67613e6f9a19d5f",
+  "raw_response_sha256": "26c7aba910830a9214dd57ae4af5be54fb3233ce3fa9d778c86a6acf474ff8ba",
+  "elapsed_seconds": 22.456,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 209,
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+      "char_start": 0,
+      "char_end": 392,
+      "source_line_start": 1,
+      "source_line_end": 10,
+      "page_text_sha256": "d864f123138c4372bfae81cca92941406822ea78e273a0d08be4548528b28d26",
+      "exact_text_sha256": "d4d9e3c967d998d3a0ca670794afff6a61a03742474796a222b7c3a2a5aef1fc",
+      "section_index": 0,
+      "section_type": "taxonomy"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 210,
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+      "char_start": 6125,
+      "char_end": 9352,
+      "source_line_start": 84,
+      "source_line_end": 131,
+      "page_text_sha256": "0c7d703474aae47e59f8c05b78f37722c69172f1948414056c824b95ef219ee3",
+      "exact_text_sha256": "719e9f35034e5c0c9e1b02b0d20f5f30e29fd303172a88caabeeb921b351601d",
+      "section_index": 1,
+      "section_type": "description"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 211,
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+      "char_start": 0,
+      "char_end": 1864,
+      "source_line_start": 1,
+      "source_line_end": 22,
+      "page_text_sha256": "cfc0922813972c67577665175b9af0dad485ca36380b1a4b8bb3c8d7d3702cc6",
+      "exact_text_sha256": "4a9e497922352ee9e4547eb4cccb9633a7a40ad70da6706d5a2a7e2aec6d8912",
+      "section_index": 2,
+      "section_type": "distribution"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 212,
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+      "char_start": 1266,
+      "char_end": 1784,
+      "source_line_start": 16,
+      "source_line_end": 22,
+      "page_text_sha256": "cda534bce1453cf95c6edb91a1f784fdb78b840f0832fe55bb295eeb5769c0b3",
+      "exact_text_sha256": "f815dec62249b5dda19c99845caf90aa51d1a3cff061c26b8bc0c6133675b474",
+      "section_index": 3,
+      "section_type": "history"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 211,
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+      "char_start": 3508,
+      "char_end": 3553,
+      "source_line_start": 52,
+      "source_line_end": 52,
+      "page_text_sha256": "cfc0922813972c67577665175b9af0dad485ca36380b1a4b8bb3c8d7d3702cc6",
+      "exact_text_sha256": "4fefc4978225b089b99a290469e87c5dbd859296d47d8dd22b68dbc34011ccdf",
+      "section_index": 4,
+      "section_type": "flowering"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-1:p0209-p0222:child-01:continuation-01",
+    "parent_entry_id": "kohler-volume-1:p0209-p0222",
+    "book_taxon": {
+      "scientific_name_candidate": "Cinchona Calisaya"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 209,
+        "source_line_range": [
+          1,
+          10
+        ],
+        "exact_source_quote": "                                       Cinchona Calisaya Weddell.\n\n                                       Cinchona succirubra Pavon.\n\n                                       Cinchona officinalis Hooker fil.\n\n                               Fieberrindenbaum              Quinquina          Cinchona.\n\n\n            Familie: BuUaceae (Unterfamilie Cinchoneae).                 Gattung: Cinchona L."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 210,
+        "source_line_range": [
+          84,
+          131
+        ],
+        "exact_source_quote": "          Die Cinchonen sind immergrune Baume oder Straucher mit bitterer Rinde und cylindrisch en\noder stumpf -4kantigen, gegenstandigen Zweigen. Die krautigen oder meist lederigen, glanzenden, mit\neiner starken Mittelrippe und feiiicren Seitennerven ausgestatteten      gegenstandigen, auf kurzem, oft\n                                                                                  ,\n\n\npurpurnem Blattstiele befindlichen, ganzrandigen, glatten oder am Rande wenig zuriickgebogenen Blatter\nim Umrisse eiformig, verkehrt eiformig bis fast kreisrund, auch lanzettlich, selten herzformig, vielfach\nan demselben Baum in Form und Beschaffenheit wechselnd, oftmals in den Aderwinkeln der Unterseite\nmit einem oberseits als Erhohung hervortreten, einen Haarbiischel enthaltenden Griibchen ausgestattet\ndie hinfalligen, eiformigen oder dreieckigen Nebenblatter inimer am Grunde driisig. Bluthenstand eine\nendstandige, im unteren Theile mit meist kleineren Laubblattern ausgestattete Rispe bildend. Bliithen\nzwitterig, meist 5- selten 6gliederig, weiss, fleischroth oder purpura, wohlriechend. Kelch glockig, mit\nfreiem, becherformigem, meist 5zahnigem Saume, bleibend.         Krone tellerformig oft weichhaarig, mit\n                                                                                           ,\n\n\n\ncylindrischer oder auch etwas bauchiger, zuweilen stumpf- 5 kantiger, am Schlunde kahler oder behaarter\nRohre und 5 in cler Knospe klappigen, zuletzt abstehenden, am Rande lang gewimperten Saumlappen.\nDie 5 Staubfaden der Kronenrohre ziemlich tief angewachsen, bei der langgriffeligen Bliithenform\nmit kurzen Filamenten und in der Rohre eingeschlossen bei der kurzgriffeligen Form mit langen\n                                                                          ,\n\n\n\nFilamenten und aus der Rohre hervorragend C. Hoivardiana besitzt mittellange Staubfaden und sitzende\n                                                  ;\n\n\n\nNarbe. Staubbeutel langlich oder linealisch, mit dem Riicken angeheftet, 2facherig, mit Langsspalten\nnach innen sich offnend. Pollen rundlich- oseitig, 3porig. Die unterstandige Scheibe polsterformio-,\nder kreiselformige bis ellipsoidische, behaarte Fruchtknoten 2facherig, mit zahlreichen, aufsteio*enden,\nziegeldachig sich deckenden Samenknospen auf linealischen Samentragern.          Der fadenformige Griffel\nvon der Lange der Blumenrohre oder kurzer, Narbe 21appig, bei C. Howardiana fast sitzend. Lappen                        '\n\n\n\n\nlinienformig. Samenkapsel eiformig oder langlich, an der Seite etwas zusammengedruckt, von dem\nKelchsaume gekront, beiderseits mit einer als Langsfurche sich darstellenden Naht, scheidewandspaltig-\n2klappig aufspringend, glatt oder auf jeder Klappe mit 4 6 Langsrippen.       —   Die mit fleischigem\nEndosperm ausgestatteten Samen zahlreich,                 auf flugelig-kantigen, zuletzt freien Samen-\n                                                      dachziegelig,\ntragern, schildformig, ringsum mit hautig-netzigem, unregelmassig zerschlitztem Fliigelrande; letzterer\ngezahnt oder gewimpert. Embryo in der Mitte des fleischigen Eiweisses, gerade, mit eiformigen bis\nfast kreisrunden Cotyledonen und cylindrischem, abwarts gerichtetem Wlirzelchen,"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 211,
+        "source_line_range": [
+          1,
+          22
+        ],
+        "exact_source_quote": "         Verbreitung.      In dem westliclien Siidamerika und zwar in den Staaten Bolivia, Peru, Ecuador,\nColumbia und einem Theile von Venezuela auftretend, hauptsachlich in den ostlichen Cordilleren ein-\nlieimiscli, nirgends in geschlossenen Bestanden, sondern immer nur zerstreut vorkommend.       Das Gebiet\nihres Vorkommens erstreckt sich vom 10° nordl. Breite bis zum 19° und 22° siidl. Breite und bildet\nhier einen Glirtel von ca. 2100                —\n                                     2200 Meter Hohe. Die den grossten Alkaloidgehalt besitzenden\nCichonen beflnden sich indessen nur in den feuchten, 12               —\n                                                             13 ° C. Mitteltemperatur besitzenden Nebel-\nregionen der Cordilleren, die sicb vom 7° nordl. Breite bis zum 15° siidl. Breite erstrecken und sich\n     —\n2100 3400 Meter liber den Meeresspiegel erheben und zwar in jenen Regionen, „wo 9 Monate hin-\ndurch der Regen vorherrscht, ein eigentlicher Wechsel der Jahreszeiten aber so wenig stattfindet, dass\ndie Cinchonen fortwahrend Bliithen und Friichte tragen\".       Die Versuche die Cinchonen nach anderen\nLandern zu verpflanzen sind zum Theil und zwar auf Jamaica, Java, Ceilon und Ostindien vorztiglich\ngegliickt, wohingegen die Kulturen in Queensland, Neuseeland, Mauritius, Californien, Mexico, Trinidad,\nMartinique keine giinstigen Erlolge aufzuweisen hatten.       Eine Ausrottnng der so hoch geschatzten\n Cinchonen durch Abschalen und Abhauen ist nach Karsten nicht zu befiirchten, da die zuruckgebliebenen\n Stocke, sobald ihnen nur die Rincle verbleibt, immer wieder neue Schosslinge treiben und ohnedies die\n Vermehrung durch Samen auf dem gelichteten Waldboden rasch von Statten geht. Trotzdem ist man,\n selbst in der Heimath der Cinchonen, bemtiht, durch forstwirthschaftliche Behandlung die Anzucht zu\nverbessern.\n"
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 212,
+        "source_line_range": [
+          16,
+          22
+        ],
+        "exact_source_quote": "            Diese vorziigliche Pflanze ist von dem in Puno (Peru) ansassigen Kaufmann Charles Ledger im\n Jahre 1851 am Mamore, einem linksseitigen Zuflusse des Madeira ausfindig gemacht worden. Aber\n erst im Jahre 1865 gelang es seinem Diener Manuel Incra Namani Samen dieser Cinchona in etwa\n 15 ° siidl. Breite und 68° westl. Lange von Greenwich aufzutreiben und seinem Herrn zu iiberbringen.\n Der Same wurde von der Hollandischen Regierung angekauft und auf Java mit ausgezeichnetem Erfolge\n ausgesat (Fliickiger).\n"
+      },
+      {
+        "section_type": "flowering",
+        "pdf_page": 211,
+        "source_line_range": [
+          52,
+          52
+        ],
+        "exact_source_quote": "            Bliithezeit.          April, Mai."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "6a361c2944f5fe0b22b1485743db68f87ac71dbe4ae44c59e97b7b54007e38b6"
+}

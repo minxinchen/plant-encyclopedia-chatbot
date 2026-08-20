@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 351,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "684d6648a252d7161e290513c3c2c6f3139e923d50dfd7e79a98cbf9c893efb9",
+  "render_dpi": 144,
+  "render_sha256": "1eeaa653079a4d746ba45b105d3c61d6175511b4eb2f3d8a048632b3a83458f6",
+  "input_sha256": "1eeaa653079a4d746ba45b105d3c61d6175511b4eb2f3d8a048632b3a83458f6",
+  "render_pixel_width": 5690,
+  "render_pixel_height": 8042,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 6.24,
+  "embedded_character_count": 210,
+  "ocr_character_count": 51,
+  "ocr_alpha_ratio": 0.6863,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01794720263708205,
+      "text": "Lablatae.",
+      "width": 0.0855605747621212,
+      "x": 0.835262622316386,
+      "y": 0.906458434970359
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "14",
+      "width": 0.014373716476001941,
+      "x": 0.6262833674550176,
+      "y": 0.23546511638408174
+    },
+    {
+      "confidence": 1,
+      "height": 0.005813953422364793,
+      "text": "10",
+      "width": 0.014373716476001941,
+      "x": 0.8501026693800688,
+      "y": 0.18168604658615983
+    },
+    {
+      "confidence": 1,
+      "height": 0.016121031746031855,
+      "text": "WMiller n.d. Nat.",
+      "width": 0.10882956512173159,
+      "x": 0.8069815199802021,
+      "y": 0.14087301597252722
+    },
+    {
+      "confidence": 1,
+      "height": 0.02262706605214926,
+      "text": "Thimus vulgaris I",
+      "width": 0.18704683428138136,
+      "x": 0.3900494770226852,
+      "y": 0.08679693191343363
+    }
+  ],
+  "text": "Lablatae.\n14\n10\nWMiller n.d. Nat.\nThimus vulgaris I",
+  "output_sha256": "4ff06162f09bd96a3ecac494a9ada84c4fb3de0454dd6a896f3003dd7d5f9cf3",
+  "receipt_sha256": "d4d5ca97e047465c8c41be1addd2bc6e7375bd85973f94d3ac087e8305e7a798"
+}

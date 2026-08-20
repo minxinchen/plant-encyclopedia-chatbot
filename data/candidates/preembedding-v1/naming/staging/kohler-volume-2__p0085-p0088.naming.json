@@ -1,0 +1,132 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-2:p0085-p0088",
+  "owner_shard": "S03",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S03/maker/structure-drafts/kohler-volume-2__p0085-p0088.json",
+  "source_draft_sha256": "0a79e6bebf4a37dfc5b20d5ce15fbf89ee9389960d82cf563f79d29bdce9afcf",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "250ce77956f9078e4899ec5eb38e4aef42680517b47e31765497009ee0dc1d1e",
+    "validation_check_sha256": "fd21c34b1f71fd0f911eeff34d95c622aa83179480a5aad89616554749083890",
+    "source_disposition_sha256": "083e8d66e8bd25003da19edd23c4b18a48f96bf99e0c1bc6dd352a64bb1fc7ef",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Amygdalus eommunis",
+    "authorship_candidate": "L.",
+    "aliases_candidates": [
+      "Prunus amygdalus Baill. (Stokes)",
+      "Mandelbaum",
+      "Almandier",
+      "Almond-tree"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Amygdalus eommunis",
+      "Amygdalus communis",
+      "Prunus amygdalus",
+      "Prunus dulcis"
+    ],
+    "accepted_scientific_name": "Prunus amygdalus",
+    "display_name_zh_tw": "扁桃",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_asserted",
+    "taxon_id": null,
+    "authority_record_id": "aphia-quarantine-prunus-dulcis",
+    "display_name_source_scope": "taiwan_government_public",
+    "display_name_source_evidence_ids": [
+      "aphia"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary",
+    "rationale": "Visual review of Köhler volume 2 PDF page 85 confirms that the printed name is Amygdalus communis L.; the staging form Amygdalus eommunis is an OCR error. Kew POWO treats Amygdalus communis L. as a synonym of accepted Prunus amygdalus Batsch and also lists Prunus dulcis as a synonym. Taiwan's Animal and Plant Health Inspection Agency publicly pairs 扁桃 with Prunus dulcis. The Taiwan display name therefore resolves through that documented synonym chain; no Taiwan occurrence is asserted.",
+    "checked_at": "2026-08-13T14:04:00+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Amygdalus eommunis",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Amygdalus+eommunis",
+      "retrieved_at": "2026-08-13T14:00:51+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Prunus amygdalus",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Prunus+amygdalus",
+      "retrieved_at": "2026-08-13T14:00:52+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Amygdalus eommunis",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Amygdalus%20eommunis",
+      "retrieved_at": "2026-08-13T14:00:54+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "kohler_page_visual",
+      "authority": "Köhler source PDF visual review",
+      "query_name": "Amygdalus eommunis",
+      "source_url": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+      "retrieved_at": "2026-08-13T14:02:00+08:00",
+      "record_locator": "PDF page 85, taxon heading",
+      "evidence_excerpt": "Amygdalus communis L.",
+      "assertion_scope": "source_name_visual_correction_only",
+      "evidence_source_scope": "kohler_source_visual"
+    },
+    {
+      "source_id": "kew_powo",
+      "authority": "Royal Botanic Gardens, Kew — Plants of the World Online",
+      "query_name": "Amygdalus communis L.",
+      "record_url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:12110-2",
+      "retrieved_at": "2026-08-13T14:04:00+08:00",
+      "evidence_excerpt": "Amygdalus communis L. is a synonym of Prunus amygdalus Batsch; Prunus dulcis (Mill.) D.A.Webb is included among its synonyms.",
+      "assertion_scope": "external_scientific_name_metadata_only",
+      "evidence_source_scope": "non_taiwan_scientific_authority"
+    },
+    {
+      "source_id": "aphia",
+      "authority": "農業部動植物防疫檢疫署",
+      "query_name": "Prunus dulcis",
+      "source_url": "https://www.aphia.gov.tw/upload/klbaphiq/files/news/5876/10503181.pdf",
+      "retrieved_at": "2026-08-13T14:04:00+08:00",
+      "display_name": "扁桃",
+      "evidence_excerpt": "扁桃 (Prunus dulcis)",
+      "authority_record_id": "aphia-quarantine-prunus-dulcis",
+      "assertion_scope": "external_taiwan_public_name_only",
+      "evidence_source_scope": "taiwan_government_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "The maker OCR form eommunis is not the printed book name; PDF page 85 visually confirms communis.",
+    "Kew currently accepts Prunus amygdalus, while the Taiwan government source uses its synonym Prunus dulcis; retain this synonym chain with the display name 扁桃.",
+    "杏仁、杏仁果、扁桃仁 are food or seed terms in Taiwan public sources and are not projected here as the plant display name.",
+    "External taxonomy and Taiwan naming evidence does not import food, toxicity, cultivation, or medicinal claims into the Köhler book-fact layer.",
+    "No Taiwan occurrence claim was established."
+  ]
+}

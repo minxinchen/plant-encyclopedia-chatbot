@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 529,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "676c11805d920c850bb95b8627d5bdfc9ee1ef145e1ac29b959f11280f6be5ce",
+  "render_dpi": 144,
+  "render_sha256": "6de28bb5c96669ec878f792498f1a20552388a672cef0615f137387559cb0ea2",
+  "input_sha256": "6de28bb5c96669ec878f792498f1a20552388a672cef0615f137387559cb0ea2",
+  "render_pixel_width": 5894,
+  "render_pixel_height": 8378,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.878,
+  "embedded_character_count": 162,
+  "ocr_character_count": 52,
+  "ocr_alpha_ratio": 0.6346,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.0203488365052239,
+      "text": "Palmae",
+      "width": 0.06597938026820716,
+      "x": 0.8103092783607417,
+      "y": 0.9694767447415741
+    },
+    {
+      "confidence": 1,
+      "height": 0.016832162463475853,
+      "text": "(Cocoineae)",
+      "width": 0.09923817457826811,
+      "x": 0.7916180255643885,
+      "y": 0.9472525233420616
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883082859107,
+      "text": "12",
+      "width": 0.02474226894472753,
+      "x": 0.905154638929698,
+      "y": 0.5348837213219426
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729363,
+      "text": "E",
+      "width": 0.020618555661739812,
+      "x": 0.45773195907634656,
+      "y": 0.1380813953276353
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "4",
+      "width": 0.010309277830869906,
+      "x": 0.23092783520827642,
+      "y": 0.08139534918280267
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "13",
+      "width": 0.02061855700588966,
+      "x": 0.3030927832496325,
+      "y": 0.06395348859898475
+    },
+    {
+      "confidence": 1,
+      "height": 0.02259619841499927,
+      "text": "Elaeis guineensis L.",
+      "width": 0.17751373011432459,
+      "x": 0.3730988065238914,
+      "y": 0.021405389194310565
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "77",
+      "width": 0.01649484506705179,
+      "x": 0.898969072208742,
+      "y": 0.02906976765321667
+    }
+  ],
+  "text": "Palmae\n(Cocoineae)\n12\nE\n4\n13\nElaeis guineensis L.\n77",
+  "output_sha256": "57fd92336b6fde39907e86217ed3640223978f1320d32ddb353169978225ae37",
+  "receipt_sha256": "af6818d3fff57123d0712f5f80d24ccdc5d45d50bdf2889d2609fa6df1975644"
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 589,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "c32ab7eb142857725923e4a31836d75f7d31dff300a8e478c082dedb0eeec9cb",
+  "render_dpi": 144,
+  "render_sha256": "f36d4f1b8567b88ad836410f4abdf48ed97b098b5fd6f009f0265b667114e627",
+  "input_sha256": "f36d4f1b8567b88ad836410f4abdf48ed97b098b5fd6f009f0265b667114e627",
+  "render_pixel_width": 5522,
+  "render_pixel_height": 7730,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 1.943,
+  "embedded_character_count": 46,
+  "ocr_character_count": 37,
+  "ocr_alpha_ratio": 0.7838,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01889534791310632,
+      "text": "Labiatae.",
+      "width": 0.10162601470947263,
+      "x": 0.839430893864776,
+      "y": 0.9302325588377782
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "13",
+      "width": 0.014227641953362347,
+      "x": 0.6747967483661371,
+      "y": 0.14970930270851257
+    },
+    {
+      "confidence": 1,
+      "height": 0.020354604910290397,
+      "text": "Rosmarinus officinaliş 1",
+      "width": 0.3130081176757812,
+      "x": 0.32926830120275985,
+      "y": 0.0944767443345974
+    }
+  ],
+  "text": "Labiatae.\n13\nRosmarinus officinaliş 1",
+  "output_sha256": "8f8fa0ec8a73f2ddc27946db01bb43853643b51e68992ac4da7a75318202c481",
+  "receipt_sha256": "cbba42c1f6ffd82759e42dfec323450e39a8d82b5e2858b92dbb3869cb958256"
+}

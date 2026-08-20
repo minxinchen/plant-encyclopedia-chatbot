@@ -1,0 +1,139 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-2:p0339-p0344",
+  "owner_shard": "S04",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S04/maker/structure-drafts/kohler-volume-2__p0339-p0344.json",
+  "source_draft_sha256": "35b64ba43447b3e3b011e9ec1dbc292afefc263d378e1833e758e61933aeba94",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "8e49e7c8a44b7a1cb80bddaed5ce93aa75e6897dab03b87e937a4a290684f558",
+    "validation_check_sha256": "048583cd79b01fc711e121f2069ba8a8b6e081946ccd43c004ac5f48bcb1a982",
+    "source_disposition_sha256": "5ea81327c6dfcca13ddbe82e0692da0fd14d5b4217db7ba1d5c7c77ee78c60b0",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Cassia aeutifolia",
+    "authorship_candidate": "Delile",
+    "aliases_candidates": [
+      "Cassia lenitiva Bisch.",
+      "C. Senna gL.",
+      "C. lanceolata Collad.",
+      "C. orientalis Pers.",
+      "Senna acutifolia Batka."
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Cassia aeutifolia"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_zh_tw": null,
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_checked",
+    "taxon_id": null,
+    "display_name_source_scope": "unresolved",
+    "display_name_source_evidence_ids": [],
+    "display_name_is_taiwan_public": false,
+    "display_name_answer_policy": "scientific_name_only",
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping.",
+    "checked_at": "2026-08-13T14:45:22+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Cassia aeutifolia",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Cassia+aeutifolia",
+      "retrieved_at": "2026-08-13T14:45:20+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Cassia acutifolia",
+          "matched_name_id": 54821,
+          "taxon_id": "t0073057",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Cassia acutifolia",
+          "accepted_name_id": 54821,
+          "accepted_usage": [
+            {
+              "usage_id": 39024,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0073057",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0073057",
+          "taxon": {
+            "taxon_id": "t0073057",
+            "taxon_status": "accepted",
+            "name_id": 54821,
+            "simple_name": "Cassia acutifolia",
+            "name_author": "Delile",
+            "rank": "Species",
+            "common_name_c": "旃那",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Cassia lenitiva",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Cassia+lenitiva",
+      "retrieved_at": "2026-08-13T14:45:20+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Senna acutifolia",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Senna+acutifolia",
+      "retrieved_at": "2026-08-13T14:45:20+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Cassia aeutifolia",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Cassia%20aeutifolia",
+      "retrieved_at": "2026-08-13T14:45:22+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears."
+  ]
+}

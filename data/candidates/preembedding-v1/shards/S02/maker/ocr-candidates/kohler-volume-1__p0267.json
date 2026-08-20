@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 267,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "759228c62cb25eb079aa72de261f52f346304c7fae38a58d43af626086ad2cfb",
+  "render_dpi": 144,
+  "render_sha256": "6ac3342eacaab8e2ba1e6a5f84bd3a143d28b597ae84490bf03bfe7b159b5204",
+  "input_sha256": "6ac3342eacaab8e2ba1e6a5f84bd3a143d28b597ae84490bf03bfe7b159b5204",
+  "render_pixel_width": 5594,
+  "render_pixel_height": 8162,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 5.365,
+  "embedded_character_count": 459,
+  "ocr_character_count": 58,
+  "ocr_alpha_ratio": 0.6552,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01889534791310632,
+      "text": "Linaceae.",
+      "width": 0.08050847364058542,
+      "x": 0.059322033359792074,
+      "y": 0.9229651167229527
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "11",
+      "width": 0.016949152635941434,
+      "x": 0.8050847459984134,
+      "y": 0.6700581399178148
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "15",
+      "width": 0.019067796025365902,
+      "x": 0.8644067799269356,
+      "y": 0.19767441881600734
+    },
+    {
+      "confidence": 1,
+      "height": 0.020458425794328994,
+      "text": "Linum usitatissimum 1.",
+      "width": 0.20338983163129748,
+      "x": 0.4194915254979105,
+      "y": 0.13070436475479452
+    },
+    {
+      "confidence": 1,
+      "height": 0.013135485232822486,
+      "text": "W. Müller a d. Nat.",
+      "width": 0.10203912185691022,
+      "x": 0.8557601010002428,
+      "y": 0.13442062968399981
+    }
+  ],
+  "text": "Linaceae.\n11\n15\nLinum usitatissimum 1.\nW. Müller a d. Nat.",
+  "output_sha256": "30210f5b631ce0fb466463eb100e50cafcbd3687b282983be2d1b6190c41bfce",
+  "receipt_sha256": "b3df7ab3a789dafee559e1f0ad67c19b0a81b3d16ed525dac2623f552492e571"
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 389,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "ac2db227d359b12152fc6daa08ee57df3eaacb507614714089efb2fd46052974",
+  "render_dpi": 144,
+  "render_sha256": "d0009eab59a2728fd9a7a41a5f327211791755203a8ea0103de03f721b3232e2",
+  "input_sha256": "d0009eab59a2728fd9a7a41a5f327211791755203a8ea0103de03f721b3232e2",
+  "render_pixel_width": 6122,
+  "render_pixel_height": 8078,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.062,
+  "embedded_character_count": 682,
+  "ocr_character_count": 60,
+  "ocr_alpha_ratio": 0.8,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.024214050126454167,
+      "text": "Euphorbiaceae",
+      "width": 0.12482721019165677,
+      "x": 0.7527204935127406,
+      "y": 0.9544627425646726
+    },
+    {
+      "confidence": 1,
+      "height": 0.021576805720253667,
+      "text": "(Hippomaneae)",
+      "width": 0.11722057402446007,
+      "x": 0.7546081026249606,
+      "y": 0.932525550557812
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494425,
+      "text": "2",
+      "width": 0.009578543807823636,
+      "x": 0.7758620690204178,
+      "y": 0.46075581434853186
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "5",
+      "width": 0.013409961580606033,
+      "x": 0.21264367818958205,
+      "y": 0.12790697695554232
+    },
+    {
+      "confidence": 1,
+      "height": 0.023319259522453284,
+      "text": "Manihot utilissima Müll Arg.",
+      "width": 0.2432950204579618,
+      "x": 0.34482758722312634,
+      "y": 0.04935515918274147
+    }
+  ],
+  "text": "Euphorbiaceae\n(Hippomaneae)\n2\n5\nManihot utilissima Müll Arg.",
+  "output_sha256": "1074d499756f09d080315baefdc4d7a43e063077fbbd668075e8dcaca223b07a",
+  "receipt_sha256": "99afa80c20c309c84c4eac779b6f636f7eb4d9c36f4776fe24812cd55e015f05"
+}

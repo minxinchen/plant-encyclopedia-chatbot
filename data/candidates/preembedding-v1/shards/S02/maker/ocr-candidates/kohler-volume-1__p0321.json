@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 321,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "f8974ce8a0308af1e5584aac913d7aaa148b0be6a02b912e0d9b4212a81db76f",
+  "render_dpi": 144,
+  "render_sha256": "395a55434c699332fc94f077018593f3ab2b96db29734b42c4365b26bdf99c60",
+  "input_sha256": "395a55434c699332fc94f077018593f3ab2b96db29734b42c4365b26bdf99c60",
+  "render_pixel_width": 5678,
+  "render_pixel_height": 7970,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.306,
+  "embedded_character_count": 90,
+  "ocr_character_count": 61,
+  "ocr_alpha_ratio": 0.623,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01794163007584826,
+      "text": "Rosaceae",
+      "width": 0.08591213066929893,
+      "x": 0.7080643420103095,
+      "y": 0.9212617432712582
+    },
+    {
+      "confidence": 1,
+      "height": 0.024194853646414605,
+      "text": "(Potentilleae.)",
+      "width": 0.13744735717773438,
+      "x": 0.8078069347913699,
+      "y": 0.9261293174918106
+    },
+    {
+      "confidence": 1,
+      "height": 0.018173492144024528,
+      "text": "(Rubeae.)",
+      "width": 0.07786926652063564,
+      "x": 0.8386163878857252,
+      "y": 0.909517904923321
+    },
+    {
+      "confidence": 1,
+      "height": 0.07994186310541063,
+      "text": "•000",
+      "width": 0.30612244247394016,
+      "x": 0.038775512946703325,
+      "y": 0.14970930075561595
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "10",
+      "width": 0.016326529733981854,
+      "x": 0.6938775515615806,
+      "y": 0.1497093022462399
+    },
+    {
+      "confidence": 1,
+      "height": 0.023074285378531845,
+      "text": "Rubas Jdaeus I",
+      "width": 0.16155402308387018,
+      "x": 0.4182025819058138,
+      "y": 0.11273611368314329
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "73.",
+      "width": 0.01836734628278902,
+      "x": 0.9163265308381974,
+      "y": 0.029069767674404723
+    }
+  ],
+  "text": "Rosaceae\n(Potentilleae.)\n(Rubeae.)\n•000\n10\nRubas Jdaeus I\n73.",
+  "output_sha256": "7765fa6f1449b83e40aa9f048f7afc6c4accd8175d51b5a15b00f1c9c0eb21ec",
+  "receipt_sha256": "5541a27bdb15c8952dcb4cea937d7ea29f269e8ebbc76a5b829e85721a89ab55"
+}

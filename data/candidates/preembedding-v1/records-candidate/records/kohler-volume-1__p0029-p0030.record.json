@@ -1,0 +1,243 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0029-p0030",
+  "entry_id": "kohler-volume-1:p0029-p0030",
+  "owner_shard": "S01",
+  "book_taxon": {
+    "scientific_name": "Pinus silvestris",
+    "authorship": null,
+    "aliases": [
+      "Kiefer",
+      "Fohre",
+      "Kienbaum",
+      "Scotch Fir",
+      "Pin-sauvage"
+    ]
+  },
+  "display_name": "歐洲松",
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Pinus silvestris",
+      "Pinus sylvestris"
+    ],
+    "accepted_scientific_name": "Pinus sylvestris",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T13:12:00+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Pinus+silvestris",
+        "query_name": "Pinus silvestris",
+        "retrieved_at": "2026-08-13T13:08:46+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0075319",
+        "query_name": "Pinus silvestris",
+        "retrieved_at": "2026-08-13T13:08:46+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0075319",
+        "query_name": "Pinus silvestris",
+        "retrieved_at": "2026-08-13T13:08:46+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Scotch+fir",
+        "query_name": "Scotch fir",
+        "retrieved_at": "2026-08-13T13:08:47+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL's nameMatch for the book spelling Pinus silvestris returns the accepted species Pinus sylvestris, taxon t0075319, with Taiwan public name 歐洲松 and cultured-in-Taiwan metadata. Taiwan Forestry Research Institute and the Ministry of Agriculture Knowledge Entry independently pair Pinus sylvestris with 歐洲赤松."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 29,
+      "evidence_type": "text",
+      "page_text_sha256": "cc2953aef2959cc63775f97ea90e7111be5546791991dc93e15272bda3c7e092",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 30,
+      "evidence_type": "text",
+      "page_text_sha256": "e229513c98c9e56ab01923f1c70e9d4c4432a636c170f921b20f85c308861c70",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0029-p0030:s00:x00",
+      "section_type": "description",
+      "original_text": "         Beschreibung. Immergriiner, tiefwurzelnder, bis 40 m hoher Baum, mit in der Jugend rost-\nbrauner, abblatternder, im Alter am unteren Theil des Stammes graubrauner, innen rothbrauner, rissiger,\ndickborkiger Rinde.    Die ei-kegelformigen, harzigen Knospen mit lanzettlichen am Rande gefransten         ,\n\n\n\nSchuppen besetzt. Blatter nadelformig, 4—6 cm lang, 1V2 nim breit, zu zweien in einer gemeinschaft-\nlichen, querrunzeligen, anfangs silberweissen, spater braunen Scheide stehend, spitz, planconvex, auf der\nausseren gewollten Seite dunkelgriin, auf der inneren blaugriin. Die jnngen Triebe und die Basis des\nmannlichen Katzchens mit braunlichen, langlich - lanzettlichen, leicht abfallenden Schuppen besetzt.\nMannliche Bluthen traubenformig vereinigt, langlich-eiformig, 7 mm lang, mit schwefelgelben, zwei-\nfacherigen Staubblattern letztere mit einem rundlichen Fortsatze.",
+      "normalized_text": null,
+      "zh_tw_rendering": "常綠深根樹，高至40米。樹皮幼時紅褐色剝落，老時灰褐。葉針形，長4-6公分，兩針一束。雄花穗狀，雌花球形。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 29,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 457,
+        "char_end": 1344,
+        "page_text_sha256": "cc2953aef2959cc63775f97ea90e7111be5546791991dc93e15272bda3c7e092",
+        "exact_text_sha256": "8b40dd8374e297d2c3c658a74b38ccdfd1cbcd7e26bb1d09ed8af830da45eaee",
+        "source_line_start": 15,
+        "source_line_end": 26,
+        "section_index": 0,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "8b40dd8374e297d2c3c658a74b38ccdfd1cbcd7e26bb1d09ed8af830da45eaee",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0029-p0030:s01:x00",
+      "section_type": "anatomy",
+      "original_text": "            Anatomisches : Die das Harz produzirenden Harzgange treten sowohl in der Rinde als im Holze auf unci bilclen                       •\n\n\n\n\nsich aus Interzellulargangen,     deren  angrenzende    Zellen   von  den  umliegenden    charakteristisch   etwas verschieden    sind. Die\nHarzgange des      Rindengewebes     werden   bei  Beginn    ihrer  Bildung    von  chlorophylllosen,   Tropfchen   fliichtigen  Oeles  ent-\nhaltenden, mit triibem Inhalte angefiillten Zellen umschlossen, die sich durch Theilung vermehren.                        Aus dem Jnter-\nzellulargange wird allmahlig ein runder Kanal, der sich durch Zellauflosung mehr und mehr erweitert. NachDippel\n fiillen sich sowohl die den Harzgang umgebenden ein bis zwei Zellenreihen, als auch das zunachst liegende\n                                                                                                                               Parenchym\nbis zum Herbste mehr und mehr mit Starkemehl, welches bis zum Beginn der nachsten Vegetationsperiode ver-\nschwindet und sich nach der        Ansicht   der  letzteren   in Harz   umgewandelt    hat.   „Die  Harzgange   im  Holze  der  Abietmeen\nbestehen in der Jugend       immer   aus  einem  Strange    von   zartwandigen,     unverholzten   und  in  der Regel   em en  verhaltmss-\nmassig kleinen,    durch  Auseinanderweichen      der wenigen     centralen   Zellen gebildeten  Interzellulargang   mit umschliessenden\nHolzparenchym      ,  dessen  Inhalt  in der  Ruhezeit    aus   Starkemehl     besteht  und  spater  erst  eine chemische    Umwandlung\nin fliichtiges Oel und Balsam resp. Harz erleidet.\"",
+      "normalized_text": null,
+      "zh_tw_rendering": "樹脂道存在於皮與木中，由細胞間隙形成。木部樹脂道含澱粉，後轉化為揮發油與樹脂。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 29,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 2784,
+        "char_end": 4414,
+        "page_text_sha256": "cc2953aef2959cc63775f97ea90e7111be5546791991dc93e15272bda3c7e092",
+        "exact_text_sha256": "ca6362ce41625f5e3fe40ac1641d6c16076e43642c480e96b15318809e28bfe4",
+        "source_line_start": 42,
+        "source_line_end": 58,
+        "section_index": 1,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "ca6362ce41625f5e3fe40ac1641d6c16076e43642c480e96b15318809e28bfe4",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0029-p0030:s02:x00",
+      "section_type": "distribution",
+      "original_text": "            Verbreitung. Ueber ganz Europa und den grossten Theil Nordasiens verbreitet, Sandboden\nliebend, auf Kalk weniger gut gedeihend,                  bis   zum    70.  Grad    nordlicher   Breite    hinaufgehend.    |\n                                                                                                                              Die    Eiefer\nist ein Baum der Ebenen, in                 denen     sie   grosse     ausgedehnte      Waldungen        bildet;   sie  erreicht    jedoch,\nnamentlich in        Spanien,    bedeutende      Meereshohen,         geht     aber  wohl    nirgends    bis  zur   Grenze    des    Baum-\nwuchses.       Nach Luerssen ist              die   Verbreitung         in   vertikaler    Beziehung       folgende:     im   nordlichen\nNorwegen bis 227 m,     im sudlichen  Norwegen    bis  1027 m;   in  den  mitteldeutschen     Gebirgen   bis  786  m;\nin den bairischen Alpen bis    1597  m;   im Engadin    bis 1948    m;  in  der  Sierra  Nevada    1623      2110  m.           —",
+      "normalized_text": null,
+      "zh_tw_rendering": "分布於全歐洲及北亞大部，喜沙土，耐至北緯70度。平原成林，西班牙等地達高海拔，但不達樹線。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 29,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4415,
+        "char_end": 5443,
+        "page_text_sha256": "cc2953aef2959cc63775f97ea90e7111be5546791991dc93e15272bda3c7e092",
+        "exact_text_sha256": "c7dc4e75f273360b3f26c0d98dc0f1433d594cbbf1a76dd57ac62c7fcdd701e8",
+        "source_line_start": 59,
+        "source_line_end": 66,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "c7dc4e75f273360b3f26c0d98dc0f1433d594cbbf1a76dd57ac62c7fcdd701e8",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0029-p0030:s03:x00",
+      "section_type": "historical_use",
+      "original_text": "              Anwendung.        Die Kiefern- und Fichtensprossen werden hauptsachlich zur Bereitung\n    der Tinct Pini composita, in seltenen Fallen wohl auch im Aufguss als harnabsonderndes und blut-\n    reinigendes Mittel, ebenso auch zu Inhalationen bei Lungenkrankheiten verwendet. Das Harz dient zur\n    Bereitung von Pflastern, Salben und zum Rauchern bei chronischen Lungenkatarrhen                  seltener findet\n                                                                                                             ;\n\n    eine innerliche Anwendung gegen Gonorrhoe und Blenorrhoen des Darmkanals statt.",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：嫩芽製複方酊劑，或煎劑利尿淨血，吸入治肺病。樹脂製膏藥，煙熏治慢性肺卡他。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 30,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 6353,
+        "char_end": 6971,
+        "page_text_sha256": "e229513c98c9e56ab01923f1c70e9d4c4432a636c170f921b20f85c308861c70",
+        "exact_text_sha256": "98cab973c098e444bab8f11e7adaa83904a0a7c0660614c83ce6614d1eb792cc",
+        "source_line_start": 75,
+        "source_line_end": 81,
+        "section_index": 3,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "98cab973c098e444bab8f11e7adaa83904a0a7c0660614c83ce6614d1eb792cc",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0029-p0030:s04:x00",
+      "section_type": "constituents",
+      "original_text": "              Bestandtheile. Nach Forchhammer enthalten die Kiefernsprossen kleine Mengen einer bei\n    75° C. schmelzenden Substanz, das Boloretin, und nach Kawalier einen (auch in der Rinde vor-\n    kommenden) in Aether unloslichen                  das Pinipikrin (C22H36O11, Husem. 337).\n                                                  Bitterstoff:                                   Die Rinde\n    enthalt neben dem bereits genannten Pinipikrin eine klebrige Snbstanz: das Pmihorretin (C 2 4H 38 05),\n    einen rothen harzigen Farbstoif: das Phlobaphen und die Gerbsauren: Pinicortannsaure (C3 2 38 023)                           H\n                                          H\n    und Tannecortepinsciure (C 28 26 Oi 2).   Im Splint befindet sich Coniferin (G 1Q 22 8              H\n                                                                                                 2 HO), aus              +\n    welchem durch Umsetzung Vanillin zu gewinnen ist. Die Nadeln der Kiefer enthalten um Weihnachten\n                                              H                               H\n    nach Kawalier Ceropinsaure (C 36 68 5), Pinitannsdure (C 7 8 4) und Oxypinitannsdure (C14 n 9\n                                                                                                          ),\n                                                                                                                                 H\n                                                                      H\n    an deren Stelle im Friihjahre die Tannopinsdnre (C 28 30 13) gefunden wird.        Die Samen enthalten\n    fettes Oel; das gemeine Harz besteht aus               3—\n                                                    5°/ Terpenthinol, 5              —\n                                                                           10 / Feuchtigkeit und den Harz-\n                                  H\n    sauren: Sylvinsdare (C 20 30 O 2 ) und Pininsaure (Husemann, Pflanzenstoffe. 340).",
+      "normalized_text": null,
+      "zh_tw_rendering": "含Boloretin、Pinipikrin、Piniborretin、Phlobaphen及單寧酸。樹脂含松油、松脂酸及松香酸。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 30,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4367,
+        "char_end": 6352,
+        "page_text_sha256": "e229513c98c9e56ab01923f1c70e9d4c4432a636c170f921b20f85c308861c70",
+        "exact_text_sha256": "094d7cc12ec354e0c34541817be36f1c6ef91dd58178319ab066f37deb75e56d",
+        "source_line_start": 54,
+        "source_line_end": 74,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "094d7cc12ec354e0c34541817be36f1c6ef91dd58178319ab066f37deb75e56d",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "The book spelling silvestris is normalized to TaiCOL's accepted spelling sylvestris.",
+    "歐洲松 is the TaiCOL display name; 歐洲赤松 is retained as a Taiwan government/forestry alternative name.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "bf7c6dfe4fbcf2368c58d8af0ebf3899b9e314752470a66d31b62adcbd5d732f",
+    "maker_receipt_sha256": "fff3f320a607db07f07d10030e16753653666217b705d8d924ebdbdd931182e6",
+    "validation_check_sha256": "292cc1efbb17044bfa65a663f3966a451df1d9e352eab88bbad4f83e70b38adf",
+    "source_disposition_sha256": "c37a786a90d2a067482274e035f63dedbebe645ece6c2042e23dc7a516e52027",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "fff3f320a607db07f07d10030e16753653666217b705d8d924ebdbdd931182e6",
+      "validation_check_sha256": "292cc1efbb17044bfa65a663f3966a451df1d9e352eab88bbad4f83e70b38adf",
+      "source_disposition_sha256": "c37a786a90d2a067482274e035f63dedbebe645ece6c2042e23dc7a516e52027"
+    },
+    "naming_artifact_sha256": "fa71b5ff360bcdb28c3ed27f5b6311664d3b6fad2f16f4fa6b5f4fbae1b9315e"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "ae6b13a72b023915354cb294ca6eb42b9f41df79915033f146eb6d783f0f12a5"
+}

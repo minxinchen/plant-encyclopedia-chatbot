@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-1:p0099-p0100",
+  "owner_shard": "S01",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S01/maker/structure-drafts/kohler-volume-1__p0099-p0100.json",
+  "source_draft_sha256": "e1db8a04bd099855020e16cdfa2b847737d40b668e9de8a0b149738dcb1e73eb",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "a431224f63c318b6072052c7c4ec8c72b21206a2181860d2e3c0dbb148c2cbd0",
+    "validation_check_sha256": "996284188a3ddac2daab0a39c45f6e09b38e7ad8414fdfd073d201c5af4f2b2d",
+    "source_disposition_sha256": "5b26f9627830d2291d206a4877bac920ce6c9a25c67dc0c20738baeafb076982",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Thymus Serpyllum",
+    "authorship_candidate": "L.",
+    "aliases_candidates": [
+      "Quendel",
+      "wilder Thymian",
+      "Feldkiimmel",
+      "Betony",
+      "Thyme",
+      "Serpolet"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Thymus Serpyllum",
+      "Thymus serpyllum"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_zh_tw": null,
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_checked",
+    "taxon_id": null,
+    "display_name_source_scope": "unresolved",
+    "display_name_source_evidence_ids": [],
+    "display_name_is_taiwan_public": false,
+    "display_name_answer_policy": "scientific_name_only",
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping.",
+    "checked_at": "2026-08-13T19:48:29+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Thymus Serpyllum",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Thymus+Serpyllum",
+      "retrieved_at": "2026-08-13T19:48:26+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Themus",
+          "matched_name_id": 19004,
+          "taxon_id": "t0017420",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Themus",
+          "accepted_name_id": 19004,
+          "accepted_usage": [
+            {
+              "usage_id": 24601,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": null
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0017420",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0017420",
+          "taxon": {
+            "taxon_id": "t0017420",
+            "taxon_status": "accepted",
+            "name_id": 19004,
+            "simple_name": "Themus",
+            "name_author": null,
+            "rank": "Genus",
+            "common_name_c": null,
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": null,
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2026-05-14"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Thymus serpyllum",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Thymus+serpyllum",
+      "retrieved_at": "2026-08-13T19:48:26+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "wilder thymian",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=wilder+thymian",
+      "retrieved_at": "2026-08-13T19:48:27+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Thymus serpyllum",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Thymus%20serpyllum",
+      "retrieved_at": "2026-08-13T19:48:29+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears."
+  ]
+}

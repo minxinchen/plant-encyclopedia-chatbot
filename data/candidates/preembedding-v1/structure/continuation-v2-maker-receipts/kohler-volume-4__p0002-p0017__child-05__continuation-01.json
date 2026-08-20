@@ -1,0 +1,155 @@
+{
+  "schema_version": "2.0",
+  "package_id": "kohler-volume-4:p0002-p0017:child-05:continuation-01",
+  "parent_entry_id": "kohler-volume-4:p0002-p0017",
+  "child_entry_id": "kohler-volume-4:p0002-p0017:child-05",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation-v2:kohler-volume-4:p0002-p0017:child-05:continuation-01:v1",
+  "owner_shard": "S08",
+  "package_sha256": "607f3c0f33db463f14e5ff16e713ede0a24bbc42ba00a90a60b9039c53970b23",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "prompt_version": "plant-structure-line-coordinates-v2",
+  "attempt_sha256": "d2bb5b3634e22f45953afd4edb50d139786fb08871139fcd8c66baef6ee98e88",
+  "raw_response_sha256": "462dbbff5fbcb867fe11f8ff67def079982d3611f565d426a05f670fb7cc67b4",
+  "elapsed_seconds": 11.078,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 17,
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+      "char_start": 567,
+      "char_end": 872,
+      "source_line_start": 14,
+      "source_line_end": 18,
+      "page_text_sha256": "2635b500b2a6759ac6194d1671461f76e491f7ed631b69a314767f16a8b9bfd6",
+      "exact_text_sha256": "4f437ac13b010d17970c4384dc3f5f642d05fd99a1537d45f62f06c00019ed4c",
+      "section_index": 0,
+      "section_type": "taxonomy"
+    },
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 17,
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+      "char_start": 933,
+      "char_end": 2916,
+      "source_line_start": 24,
+      "source_line_end": 43,
+      "page_text_sha256": "2635b500b2a6759ac6194d1671461f76e491f7ed631b69a314767f16a8b9bfd6",
+      "exact_text_sha256": "c788802a1c3dc6f17cb5917633dc99305de6df44392711727ad801e0c729d698",
+      "section_index": 1,
+      "section_type": "description"
+    },
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 17,
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+      "char_start": 2917,
+      "char_end": 3051,
+      "source_line_start": 44,
+      "source_line_end": 45,
+      "page_text_sha256": "2635b500b2a6759ac6194d1671461f76e491f7ed631b69a314767f16a8b9bfd6",
+      "exact_text_sha256": "a624df7301a9cfb722d78f81d445b162e6181395854a0d808ffb8370b41b3174",
+      "section_index": 2,
+      "section_type": "anatomy"
+    },
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 17,
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+      "char_start": 3053,
+      "char_end": 3257,
+      "source_line_start": 47,
+      "source_line_end": 49,
+      "page_text_sha256": "2635b500b2a6759ac6194d1671461f76e491f7ed631b69a314767f16a8b9bfd6",
+      "exact_text_sha256": "fb291e8085fab52d8d5ab6d92508a332dbcebd041c3cd2e44f5f7bd83b17074d",
+      "section_index": 3,
+      "section_type": "distribution"
+    },
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 17,
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+      "char_start": 3605,
+      "char_end": 4257,
+      "source_line_start": 57,
+      "source_line_end": 62,
+      "page_text_sha256": "2635b500b2a6759ac6194d1671461f76e491f7ed631b69a314767f16a8b9bfd6",
+      "exact_text_sha256": "1ec0fb4b624d14e1ae698e85e6914f98beea570d24445c6f0bb748e870a54dfa",
+      "section_index": 4,
+      "section_type": "historical_use"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-4:p0002-p0017:child-05:continuation-01",
+    "parent_entry_id": "kohler-volume-4:p0002-p0017",
+    "book_taxon": {
+      "scientific_name_candidate": "Amanita caesarea"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 17,
+        "source_line_range": [
+          14,
+          18
+        ],
+        "exact_source_quote": "                       Amanita caesarea (Scop.) Pers.\n                    Kaiserpilz, Kaiserling, orangegelber                   Blatterpilz.     Franz.:    Amanite des Cesars.\n\n\n                  Syn. Agaricus caesareus Schaff.                   Ag. aurantiacus Bull.             Amanita aurantlaca Pers."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 17,
+        "source_line_range": [
+          24,
+          43
+        ],
+        "exact_source_quote": "                  Beschreibung: Aus dem             fadlichen unterirdischen weiBen                 My eel entwickeln sich die jungen\nFruchtkorper in Form                 rundlicher weifier Knollen, welche von einer weiBen allgemeinen Hiille                                                      urn-\n\ngeben     sind.        Bei weiterer Entwickelung zerreifit diese Hiille iibe\n                      Hute 2r0.Be. eckige, gelbweiBe Lappen oder Warze\nverdeckte Basis des Stieles mit einer weiBen lappigen Manschette                                     Aus dieser erhebt sich\n                                                                                                      (volva).\n\nder   am Grande weiBe, oben gelbliche                            Stiel   bis   zu einer Hohe von 18 cm bei einer Dicke von\n2   — 2,5 cm, Der             Stiel ist nicht    hohl,          sondern    voll,   nach der Mitte hin                   flockig,       markig und            tragt\n\nnahe dem Hute einen gelben,                     schlaff         und lappig herabhangenden Ring,                              als    Rest der Innenhiille,\nvelum partiale, welche in der Jugend die Lamellenschicht bedeckte. Der Stiel verlauft zentral in\nden roten, orangegelben oder dunkelgoldgelben Hut. Dieser ist kreisrund, glatt und glanzend, am\nRande        gestreift,      besitzt   einen Durchmesser bis zu 20                   cm und        tragt           auf der Oberflache mehrere\ngroBere weifie eckige Hautfetzen der allgemeinen Hiille                             (s.   o.).   Das Fleisch des Pilzes ist dicht und\nhellgelb.           Der Hut tragt an der Unterseite die radialgestellten, ungleichen,                                        oft verzweigten, mit dem\nStiele nicht verwachsenen gelben Lamellen.                              Die Sporen sind fast farblos,                   glatt,       mit hellerem Rande\nversehen, bis 18             (x   lang und breit, unten mit einem Spitzchen versehen.\n"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 17,
+        "source_line_range": [
+          44,
+          45
+        ],
+        "exact_source_quote": "                  Anatomie: Die anatomischen Verhaltnisse sind denen \\ on Amanita muscaria in alien Teilen\nder Pjflanzen sehr ahnlich."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 17,
+        "source_line_range": [
+          47,
+          49
+        ],
+        "exact_source_quote": "        Yorkommen: Der Pilz findet sich auf Heideplatzen und auf Waldwiesen Siideuropas, seltener\nSuddeutschlands, vom Spatsommer bis in den Herbst. Auch in Nord-Amerika und am Himalaya ist\ner verbreitet."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 17,
+        "source_line_range": [
+          57,
+          62
+        ],
+        "exact_source_quote": "                  Geschichtliches : Die Romer und Griechen hielten diesen Pilz fur\n                                                                                   eine sehr hohe Delikatesse;\ner    hieB        boletus.        Sueton   erzahlt,       daB Kaiser Tiberius             dem    Asellus           Sabinus            100000         Sestertien\n(30000 M.) Honorar zahlte fur einen Dialog, in dem der Kaiserschwamm,                                                                            die Drossel\n                                                                      die Bekkasige,\nund die Auster urn den Vorrang als Delikatesse stritten."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "33e96f79b2eede4fbc886bf7ad6f69d933a260e4c4128390228f9d840696204b"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "V7agRGEaMRCIjf7o",
+  "name": "Plant Encyclopedia - Inner Evidence Gates",
+  "nodes": [
+    {
+      "parameters": {},
+      "id": "manual-trigger",
+      "name": "Manual sample trigger",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [0, 0]
+    },
+    {
+      "parameters": {
+        "command": "set -eu; : \"${PLANT_ENCYCLOPEDIA_LAB:?missing PLANT_ENCYCLOPEDIA_LAB}\"; : \"${PLANT_ENCYCLOPEDIA_SECRETS_ENV:?missing PLANT_ENCYCLOPEDIA_SECRETS_ENV}\"; set -a; . \"$PLANT_ENCYCLOPEDIA_SECRETS_ENV\"; set +a; python3 \"$PLANT_ENCYCLOPEDIA_LAB/scripts/run-review-loop.py\""
+      },
+      "id": "run-loop",
+      "name": "Run targeted review loop",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [260, 0]
+    },
+    {
+      "parameters": {
+        "command": "set -eu; : \"${PLANT_ENCYCLOPEDIA_LAB:?missing PLANT_ENCYCLOPEDIA_LAB}\"; python3 \"$PLANT_ENCYCLOPEDIA_LAB/scripts/validate-loop-run.py\""
+      },
+      "id": "validate-loop",
+      "name": "Validate zero-cost run",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [520, 0]
+    },
+    {
+      "parameters": {
+        "content": "## Portable inner harness\nThis workflow is not the autonomous outer loop. It runs deterministic batch gates for the agent-driven contract in LOOP.md. The outer loop discovers work, selects tools, commissions an independent checker, persists state and decides whether to stop. The lab and secret-env paths come from environment variables; GEMINI_API_KEY is loaded at runtime from the project-specific Git-ignored env file and is never stored in workflow JSON.",
+        "height": 260,
+        "width": 460
+      },
+      "id": "loop-contract",
+      "name": "Loop contract",
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [0, -360]
+    }
+  ],
+  "connections": {
+    "Manual sample trigger": {
+      "main": [[{"node": "Run targeted review loop", "type": "main", "index": 0}]]
+    },
+    "Run targeted review loop": {
+      "main": [[{"node": "Validate zero-cost run", "type": "main", "index": 0}]]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "active": false,
+  "versionId": "a2fa8b3d-258b-43cf-b25e-284020260803",
+  "meta": {
+    "templateCredsSetupCompleted": false
+  },
+  "tags": []
+}

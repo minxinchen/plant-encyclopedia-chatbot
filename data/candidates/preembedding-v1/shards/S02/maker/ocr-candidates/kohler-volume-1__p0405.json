@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 405,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "8fb718ba6fd103fa6c0cf3530ea42ec5f0e4ef6dd33fc97924b476c6653a4efb",
+  "render_dpi": 144,
+  "render_sha256": "07ee729e69faf23855cfe6b6a191e2be7ac7fe4523e615fea332a551608da184",
+  "input_sha256": "07ee729e69faf23855cfe6b6a191e2be7ac7fe4523e615fea332a551608da184",
+  "render_pixel_width": 5750,
+  "render_pixel_height": 7898,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.733,
+  "embedded_character_count": 136,
+  "ocr_character_count": 55,
+  "ocr_alpha_ratio": 0.6545,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.022046560332888654,
+      "text": "Erythroxylaceae.",
+      "width": 0.17171487626327797,
+      "x": 0.758453940544307,
+      "y": 0.9373778826384014
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "12",
+      "width": 0.02195608778285721,
+      "x": 0.10379241497084685,
+      "y": 0.3313953488741469
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372621082103,
+      "text": "13",
+      "width": 0.021956087782857195,
+      "x": 0.11976047897533786,
+      "y": 0.23255813937078162
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "10",
+      "width": 0.015968064196428156,
+      "x": 0.662674650696197,
+      "y": 0.1889534886207871
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883082858996,
+      "text": "WM",
+      "width": 0.031936125794288506,
+      "x": 0.8962075857056502,
+      "y": 0.13372093036990773
+    },
+    {
+      "confidence": 1,
+      "height": 0.02180232509734137,
+      "text": "Erythroxylon Coca Lam.",
+      "width": 0.25349301538285507,
+      "x": 0.37524950282753444,
+      "y": 0.09883720952981767
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "82.",
+      "width": 0.019960078621430344,
+      "x": 0.9101796415941417,
+      "y": 0.03197674419249241
+    }
+  ],
+  "text": "Erythroxylaceae.\n12\n13\n10\nWM\nErythroxylon Coca Lam.\n82.",
+  "output_sha256": "a9aa9b0c08ebd45f84341b114c7cc28e85a10488ea0833edc8832a5cc669932e",
+  "receipt_sha256": "ca72830101e1f62456e262186668bf9974bb33016b148642df56a03315a95a2f"
+}

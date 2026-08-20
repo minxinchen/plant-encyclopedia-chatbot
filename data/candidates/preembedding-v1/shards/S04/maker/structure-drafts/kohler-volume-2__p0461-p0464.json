@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0461-p0464",
+  "owner_shard": "S04",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 143.113,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0461-p0464",
+    "book_taxon": {
+      "scientific_name_candidate": "Croton Tiglium L.",
+      "authorship_candidate": null,
+      "aliases_candidates": [
+        "Tiglium officinale Klotzsch",
+        "Croton Jamalgota Hamilt.",
+        "Croton Pavana Hamilt.",
+        "Purgir-Kroton",
+        "Graine de Tilly ou de Moluques",
+        "Croton"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 461,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "大戟科，Croton 屬。異名包括 Tiglium officinale 及 Croton Jamalgota。俗名 Purgir-Kroton。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          7
+        ],
+        "exact_source_quote": "                                              Croton Tiglium L.\n          Syn. Tiglium officinale Klotzsch.             - Croton Jamalgota Hamilt.           (nach Flückiger).\n                                     Croton Pavana Hamilt.            (nach Karsten).\n\n                      Purgir-Kroton —         Graine de Tilly ou de Moluques —                  Croton.\n\n            Familie: Ewphorbiaceae (Unterfamilie:                  Crotoneae); Gattung: Croton (L.) Müller Arg."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 461,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "高至 6 米之樹或灌木，枝條星狀毛。葉卵形，長 8-16 公分，具腺體。花序頂生，雌雄同株。",
+        "warnings": [],
+        "source_line_range": [
+          9,
+          18
+        ],
+        "exact_source_quote": "            Beschreibung.        Ein      bis 6 Meter   hoher,     krummer   Baum     oder Strauch,     welcher   oft schon\nvom Grunde aus schlanke, kahle Aeste treibt und mit einer dünnen, aschgrauen Rinde bedeckt ist. Die\nstielrunden, grünlichgrauen Zweige sind mit kleinen Korkwarzen und halbkreisrunden Blattnarben aus-\ngestattet; die jungen Zweige zerstreut sternhaarig. Blätter zerstreut, abstehend, ziemlich lang gestielt,\naus der Basis fingerfórmig 3—®dnervig, sternhaarig, später kahl, 8—16 Ctm. lang, 4—7 Ctm. breit,\neiförmig, zugespitzt, am stumpfen bis abgerundeten Grunde beiderseits mit einer rundlichen Drüse besetzt,\nder Rand mehr oder weniger kerbig gesägt oder auch ganz, mit ungefähr 3 Mm. langen, pfriemen-\nförmigen, abstehenden oder etwas zurückgehogenen, bald abfallenden Nebenblättern. Blüthentrauben\ngipfelstándig, vielblüthig, einfach oder am Grunde dann und wann mit einem Aestchen ausgestattet,\nim   unteren    Theile   der Aehre     die weiblichen   Blüthen,     im oberen    die männlichen,      mit lanzett-pfriem-"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 462,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "種皮由緊密石細胞組成。胚乳含脂肪油及蛋白質。內含草酸鈣晶體。",
+        "warnings": [],
+        "source_line_range": [
+          23,
+          32
+        ],
+        "exact_source_quote": "             Anatomisches            .\n                                               ge  rt er     St ei nz el le n     zu sa  mm  en  ge se tz t,        di e   mi t    fa st   ve  rh ol zt  en ,     br äu nl ic he n,   .\n  radial gestellter, sehr            ve  rl än\n                                            et     si nd ;   di e   in ne re     Sa  me  nh  au  t    ze ig t   ei n   se hr    za rt es ,   ve  rw or  re ne  s   Pa  re  nc  hy m\n  porösen Wänden ausges              ta  tt\n                                   el ch  en     fe in er    ab ro ll ba re r     Sp ir  al ge fä ss e.       Di e    dü nn  e    Ob  er  ha ut      de s   Sa  me ns     be st eh t\n. mit verzwe    ig te n    Bü  nd\n                             La  ge     au s   kl  ei ne n    ec ki ge n,     we  ni g    di  ck  wa nd ig  en     pa  re  nc hy  ma  ti  sc he  n    Ze  ll en ;   di e   in ne re ,\n  in ihre r  äu  ss er en\n                                  e  Sc  hi  ch t   au s   de rb en ,    ku rz     fa de  nf ór  mi ge n,      ve rf il zt en   Ze ll  en   mi t   po  rö se  n   Wa nd  un  ge  n."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 462,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產南東印度（馬拉巴、錫蘭、安汶及菲律賓），現廣布東印度、中國及蘇門答臘等地。",
+        "warnings": [],
+        "source_line_range": [
+          46,
+          50
+        ],
+        "exact_source_quote": "                   Vorkommen.                     Im südlichen Ostindien (Malabar, Ceylon, Amboina und den Philippinen) ein-\n                      durch ganz            Ostindien,         Ceylon, Cochinchina                  und China, auf den Sundainseln,                             Philippinen            und\n   heimisch;\n    Mauritius der Samengewinnung halber kultivirt.\n"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 463,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "種子含 64% 胚乳與 36% 種皮。成分包括脂肪油、Crotonin、樹脂、澱粉及蛋白質。",
+        "warnings": [],
+        "source_line_range": [
+          10,
+          15
+        ],
+        "exact_source_quote": "       ` Bestandth eil e. Die Sam en  bes teh en    nac h   Nim  mo     aus    64% , Ker n   und     36   %,  Scha le.\n Brandes fand in den Kernen Spuren eine s flü cht ige n  Oel es, 17 %/o  fett es Oel mit   Cro ton säu re   und  Cro -\n tonin, 0.32 0/, erotonsaure             Salze und Farbstoff,            1.0 0/, braungelbes, in Aether unlósliches Harz, 0.65%,\n Stearin und Wachs, 2.0 5 9/,  Ext rak tiv sto ff,     Zuc ker , üpf els aur es  Kal i  und    Kal k,  5.7 1%,   Stä rke  mit\n phosphorsaurem Kalk und  Mag nes ia,    10. 17    9/,  Gum  mi  etc,    1.0 1  Y,  Eiw eis s,   2.0  Y,  Glu ten ,   39. 0%\n- Samenschale        und Holzfaser, 22.5 o               Wasser.      Das Crotonin von Brandes                   ist nach Weppen              fettsaure"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 463,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史上用作強效瀉藥。印度用作魚毒。根治水腫，葉治蛇咬。具強烈刺激性。",
+        "warnings": [
+          "Historical medical content described as historical, not advice."
+        ],
+        "source_line_range": [
+          39,
+          47
+        ],
+        "exact_source_quote": "           Anwendung.               Früher in Substa nz, jet zt nur noc h das dar aus gew onn ene Oel als Dra sti cum .\n                           je nach der Grósse              der Gabe        drastisch,     schleimhautentzündend,              sogar     tödlich.      Ein-\n   Letzteres wirkt\n   reibungen auf den Unterleib sol len hef tig es Lax ire n, sog ar blu tig e Stü hle her vor bri nge n.\n                Das weissliche, leichte Holz, welches                     einen ähnlichen         Geschmack        wie die Samen           besitzt,    soll\n\n   auch ähnliche Wirkung äussern. Beide, sow        ohl    Sam   en   als   Hol z,    wer den    in   Ind  ien   als  Fis chb etä  ubu ngs  -\n   mittel verwendet. Die Wurzel braucht man           auf  Amb   oin a    geg  en    Was ser suc ht.        Sel bst   die  Blä tte r  sol len\n    purgirend wirken, und wer    den in  der  Hei mat h    geg en    Sch lan  gen bis  s   ang ewe  nde   t."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "a9b001117d18e8426e0d185c8f1bded38c446e6921ead30848d3df079473ca4c"
+}

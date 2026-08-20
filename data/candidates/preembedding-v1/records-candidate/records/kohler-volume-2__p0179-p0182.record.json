@@ -1,0 +1,296 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0179-p0182",
+  "entry_id": "kohler-volume-2:p0179-p0182",
+  "owner_shard": "S03",
+  "book_taxon": {
+    "scientific_name": "Acacia Catechu",
+    "authorship": "Willd.",
+    "aliases": [
+      "Mimosa Catechu L. fil",
+      "Mimosa Sundra Roxb.",
+      "Acacia Suma Kurz",
+      "Mimosa Suma Roxb."
+    ]
+  },
+  "display_name": "兒茶",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Acacia Catechu",
+      "Acacia catechu"
+    ],
+    "accepted_scientific_name": "Acacia catechu",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T18:41:33+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Acacia+Catechu",
+        "query_name": "Acacia Catechu",
+        "retrieved_at": "2026-08-13T18:41:33+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0023075",
+        "query_name": "Acacia Catechu",
+        "retrieved_at": "2026-08-13T18:41:33+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0023075",
+        "query_name": "Acacia Catechu",
+        "retrieved_at": "2026-08-13T18:41:33+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Acacia+catechu",
+        "query_name": "Acacia catechu",
+        "retrieved_at": "2026-08-13T18:41:33+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0060767",
+        "query_name": "Acacia catechu",
+        "retrieved_at": "2026-08-13T18:41:33+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0060767",
+        "query_name": "Acacia catechu",
+        "retrieved_at": "2026-08-13T18:41:33+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL accepts the queried book binomial at species rank."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 179,
+      "evidence_type": "text",
+      "page_text_sha256": "b2e373e78f584657e1c6bfdf786c3c34b5a768929fc9cf86028d7d0ae2b2778e",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 180,
+      "evidence_type": "text",
+      "page_text_sha256": "7a2649f52f822113b17c0ec6b480527c0735e91f320b6969ca5d40de377ea668",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 181,
+      "evidence_type": "text",
+      "page_text_sha256": "95b2c831cf68e077855b5e577913c482fbf12a7cbc5e90224bc0788e268ede04",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 182,
+      "evidence_type": "text",
+      "page_text_sha256": "3d62062cf601343155a7ba8588b2922d93b491bd2ef3a2842ef8197ab4b30d02",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0179-p0182:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                          Acacia Catechu Willd.\n                          syn. Mimosa         Catechu L. fil, Mimosa           Sundra Roxb.\n                (Letztere Form wird von -einigen Botanikern als besondere Art betrachtet.)\n\n                                                     Catechu -Acacie.\n          Familie:      Leguminosae, (Unterfamilie: Mimosaceae); Gattung: Acacia Willd.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Acacia Catechu Willd.，同義名 Mimosa Catechu 及 Mimosa Sundra。隸屬豆科含羞草亞科。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 179,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 405,
+        "page_text_sha256": "b2e373e78f584657e1c6bfdf786c3c34b5a768929fc9cf86028d7d0ae2b2778e",
+        "exact_text_sha256": "1a740235074ea948e8d51296ee7a0661e71b35eba2d199d84a073808ad3ac9d0",
+        "source_line_start": 1,
+        "source_line_end": 6,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "1a740235074ea948e8d51296ee7a0661e71b35eba2d199d84a073808ad3ac9d0",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0179-p0182:s01:x00",
+      "section_type": "description",
+      "original_text": "          Beschreibung.       Oft etwas verkrüppelter Baum von 10 Meter Hóhe, mit aufrechtem Stamme,\nsehr verzweigter, reichblätteriger, umfangreicher Krone und faseriger, dunkelbrauner, herbe schmecken-\nder Rinde. Aeste zerstreutstehend, stielrund, jüngere Aeste mit gepaarten Stacheln und mit einem\nweisslichen oder grauen, kurzhaarigen Ueberzuge bedeckt. Blätter zerstreut, bis 30 Ctm. lang, zuerst\naufrecht, später abstehend oder zurückgebogen, doppelt und paarig gefiedert. Spindel 4kantig, grau\nbehaart, mit 8 bis 30 Fiederpaaren, auf der Oberfläche flachrinnig und kurz unter dem untersten Fiederpaare,\nsowie unter den obersten Fiederpaaren mit einer länglichen bis rundlichen, schüsselfórmigen Drüse. Fiedern\n30 bis 60 ‫مدهتتع‬‎ mit bläulich-grünen, sitzenden, linealischen, 5 Mm. langen, 1 Mm. breiten, an der Spitze",
+      "normalized_text": null,
+      "zh_tw_rendering": "高約10米，樹幹直立，枝葉茂密。樹皮深褐色味苦。葉長至30公分，二回羽狀複葉，羽片30至60枚。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 179,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 406,
+        "char_end": 1231,
+        "page_text_sha256": "b2e373e78f584657e1c6bfdf786c3c34b5a768929fc9cf86028d7d0ae2b2778e",
+        "exact_text_sha256": "a1f43b2f2747e0d936abf31fed89c31981b3007ae0ad554122f18e3782c649b9",
+        "source_line_start": 7,
+        "source_line_end": 14,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "a1f43b2f2747e0d936abf31fed89c31981b3007ae0ad554122f18e3782c649b9",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0179-p0182:s02:x00",
+      "section_type": "distribution",
+      "original_text": "        Vorkommen.      Vorder- und Hinterindien, Ceylon; besonders                            auf den Gebirgen von Koro-\nmandel, Ceylon und in Bengalen; im Himalaya bis 1000 Meter Hóhe.",
+      "normalized_text": null,
+      "zh_tw_rendering": "產於前印度、後印度及錫蘭；特別在科羅曼德爾、錫蘭山脈及孟加拉；喜馬拉雅山海拔1000米以下。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 180,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 472,
+        "char_end": 658,
+        "page_text_sha256": "7a2649f52f822113b17c0ec6b480527c0735e91f320b6969ca5d40de377ea668",
+        "exact_text_sha256": "8627513874fecc3f026e433d342b3feddb59f4c764aff13d2d34c8f09ec7ccf5",
+        "source_line_start": 8,
+        "source_line_end": 9,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "8627513874fecc3f026e433d342b3feddb59f4c764aff13d2d34c8f09ec7ccf5",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0179-p0182:s03:x00",
+      "section_type": "history",
+      "original_text": "          Name uud Geschichtliches. Acacia von «xama Stachel, Dorn, ex Spitze, wegen der\n bedornten Aeste. Mimosa von uıuely eine Bewegung machen, wegen der Reizbarkeit der Blätter\n mehrerer Arten, die sich beim Berühren zusammenklappen; auch von ¡uZuos Spötter, Schauspieler,\n Nachahmer. Wegen Catechu, hindostanisch catchu Baumsaft, siehe Uncaria Gambir.\n          Flückiger hält die Vermuthung des Campany, welcher das um 1221 im Zolltarife von\n Barcelona anftretende Catomaplum als Catechu deutet, für sehr zweifelhaft, jedoch glaubt er in dem\n Cacho, welches Barbosa 1514 als Ausfuhrartikel von Cambay (nördl. von Bombay) erwähnt, unser\nheutiges Acacien-Catechu zu erkennen. Garcia del Orta giebt 1563 von ,Cate* eine ; Beschreibung",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源自希臘語刺或尖。1514年Barbosa提及Cacho，1563年Garcia del Orta描述製法及出口至中國。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 180,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 696,
+        "char_end": 1433,
+        "page_text_sha256": "7a2649f52f822113b17c0ec6b480527c0735e91f320b6969ca5d40de377ea668",
+        "exact_text_sha256": "482956166ccac6cf0e4b3929991173226f42f486b705df3ebe2974112e7b89e7",
+        "source_line_start": 13,
+        "source_line_end": 20,
+        "section_index": 3,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "482956166ccac6cf0e4b3929991173226f42f486b705df3ebe2974112e7b89e7",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0179-p0182:s04:x00",
+      "section_type": "constituents",
+      "original_text": "          Bestandtheile.     Sowohl Catechu als Gambir enthalten eigenthümlichen, eisengrünenden\n Gerbstoff (Catechugerbsüure) eigenthümliche, krystallinische Säure (Catechin, Catechusäure), Gummi,\n Beimengungen von Unreinlichkeiten.       Nach Flückiger’s Versuchen giebt gutes Pegu -Catechu\n0,6 ‎‫ ولا‬Asche.\n          Das im Holze der oben beschriebenen Acacien reichlich vorkommende und in Spalten\n desselben bisweilen in krystallinischen Ablagerungen auftretende Catechin, zuerst von Runge\n bemerkt, von Nees von Esenbeck und Döbereiner rein dargestellt, mit der Zusammensetzung\n Cio He De (Hlasiwetz)            C,,H,,0,    (Gautier)    ‫نور‬‎ Hat       (Liebermann         und   Tauchert),      ausserdem",
+      "normalized_text": null,
+      "zh_tw_rendering": "含特異鐵綠色鞣質（Catechugerbsäure）、結晶酸（Catechin）、樹膠及雜質。Catechin亦見於Gambir。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 181,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2175,
+        "char_end": 2886,
+        "page_text_sha256": "95b2c831cf68e077855b5e577913c482fbf12a7cbc5e90224bc0788e268ede04",
+        "exact_text_sha256": "defca25457434fbf0cc347ffa3f9d96cfcdfe0544354b8c7a251ca82125da60d",
+        "source_line_start": 25,
+        "source_line_end": 32,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "defca25457434fbf0cc347ffa3f9d96cfcdfe0544354b8c7a251ca82125da60d",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0179-p0182:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "         Anwendung. Als adstringirendes Mittel bei chronischen Katarrhen der Schleimhäute, Dysen-\nterie, gegen Blutungen, äusserlich als Zahntinktur, zu Mundwässern, bei Skorbut und übelriechendem\nAthem, gegen Wundheit der Brustwarzen, auch zu Einspritzungen bei Tripperkrankheiten und nament-\nlich gegen Nachtschweisse. Bei innerlicher Anwendung sind, wegen der Umwandlung in Catechugerb-\nsüure, Brechweinstein,            Eisen- und andere Metallsalze, Leim-                    und Eiweissstoffe       zu meiden.        Husemann\näussert sich hierüber: ,Therapeutisch ist das von den ostindischen Eingeborenen benutzte Catechu für\nsich oder háufiger als Adjuvans anderer Adstringentia gebraucht, ohne dass man besondere Indication",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：作收斂劑治慢性黏膜卡他、痢疾、出血；外用治牙痛、口臭、瘧疾及夜汗。",
+      "evidence_indexes": [
+        3
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 182,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 208,
+        "char_end": 939,
+        "page_text_sha256": "3d62062cf601343155a7ba8588b2922d93b491bd2ef3a2842ef8197ab4b30d02",
+        "exact_text_sha256": "7ef24ece19a1e4c46ac9ee197a6f8b4ba3f1e2cc8f8045890bf0463bd64942b3",
+        "source_line_start": 4,
+        "source_line_end": 10,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "7ef24ece19a1e4c46ac9ee197a6f8b4ba3f1e2cc8f8045890bf0463bd64942b3",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "6dea3edf6bc6f16a09b6577ac86d1becdfd75fb0596470583856e58031ce2848",
+    "maker_receipt_sha256": "33f111f610431576be2f92975c6f10a636562045a4694624abfab31201e7837f",
+    "validation_check_sha256": "43fad1893d0a654e8fd5955e190a7c08573040b6d6ec50d4580149cb8dfe26f3",
+    "source_disposition_sha256": "6fea021ef0103bdd5fb58fffc4bec44f6e3ca3f48a5419094c58f92f958dca85",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "33f111f610431576be2f92975c6f10a636562045a4694624abfab31201e7837f",
+      "validation_check_sha256": "43fad1893d0a654e8fd5955e190a7c08573040b6d6ec50d4580149cb8dfe26f3",
+      "source_disposition_sha256": "6fea021ef0103bdd5fb58fffc4bec44f6e3ca3f48a5419094c58f92f958dca85"
+    },
+    "naming_artifact_sha256": "c92f9c9eeed8e8cb2e17e9b496dd62a6c1313878c61ff3cc91127d7498cc5290"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "6dcc158b22927218078b64385905535491026f2893d220ea37b6f80834ba77bf"
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 521,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "f62f2ffd00085ec58f6511e1867d3839bea87ffa7a1d74c874d5eebf771435f9",
+  "render_dpi": 144,
+  "render_sha256": "09c59abc6fd53139bb3bb7245eb1637c8e033e3f23ef443c1561eb5f2807fd58",
+  "input_sha256": "09c59abc6fd53139bb3bb7245eb1637c8e033e3f23ef443c1561eb5f2807fd58",
+  "render_pixel_width": 5462,
+  "render_pixel_height": 8330,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.727,
+  "embedded_character_count": 96,
+  "ocr_character_count": 44,
+  "ocr_alpha_ratio": 0.75,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.022430156904553522,
+      "text": "Cyperaceae",
+      "width": 0.10009342026241609,
+      "x": 0.019798078428617794,
+      "y": 0.9691628287011377
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441861213199683,
+      "text": "(Cariceae)",
+      "width": 0.0753880268506672,
+      "x": 0.033259423724434585,
+      "y": 0.9505813950408631
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252612005,
+      "text": "A",
+      "width": 0.013303769698842727,
+      "x": 0.5920177381217537,
+      "y": 0.3343023258591591
+    },
+    {
+      "confidence": 1,
+      "height": 0.018216339368668844,
+      "text": "Carex arenaria L.",
+      "width": 0.15762331410002606,
+      "x": 0.43005752412544196,
+      "y": 0.05920578378271846
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "73",
+      "width": 0.022172948055296238,
+      "x": 0.9246119741430837,
+      "y": 0.02180232572007701
+    }
+  ],
+  "text": "Cyperaceae\n(Cariceae)\nA\nCarex arenaria L.\n73",
+  "output_sha256": "9b00edb01d7aad28db2e3f5afc072e773568b4e859c9e6ea703330eaabefec1f",
+  "receipt_sha256": "bc2277e158eab75880290887059056d2fdb08eec6305b9907ef4613eb06d5a36"
+}

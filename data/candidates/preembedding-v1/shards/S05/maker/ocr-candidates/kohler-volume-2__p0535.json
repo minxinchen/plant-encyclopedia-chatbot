@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 535,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "7a5f9c72457a44fe51ce501540ef461026c1afe1e000f42860e2ff7c9b7d7ce5",
+  "render_dpi": 144,
+  "render_sha256": "f8002474b4047b6bd8251c8ee0d9b62fb482c8ee8d62ee3435dd5fcb770c5364",
+  "input_sha256": "f8002474b4047b6bd8251c8ee0d9b62fb482c8ee8d62ee3435dd5fcb770c5364",
+  "render_pixel_width": 5738,
+  "render_pixel_height": 7874,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.474,
+  "embedded_character_count": 342,
+  "ocr_character_count": 63,
+  "ocr_alpha_ratio": 0.5873,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.019735529309227395,
+      "text": "Coniferae",
+      "width": 0.09791037271913827,
+      "x": 0.5934750921475884,
+      "y": 0.9225450262760161
+    },
+    {
+      "confidence": 1,
+      "height": 0.02306562567514081,
+      "text": "(lupressineae.)",
+      "width": 0.1576918257264721,
+      "x": 0.7727477110620286,
+      "y": 0.9179730013758243
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "14",
+      "width": 0.013944223350696339,
+      "x": 0.8884462151008804,
+      "y": 0.2848837210214653
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "16",
+      "width": 0.01593625488696737,
+      "x": 0.7709163348075123,
+      "y": 0.26017441857375934
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "13",
+      "width": 0.015936254886967482,
+      "x": 0.8326693226361976,
+      "y": 0.21656976762414681
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "10",
+      "width": 0.017928286423238404,
+      "x": 0.5657370521867872,
+      "y": 0.1555232559671702
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "12",
+      "width": 0.01593625488696737,
+      "x": 0.7549800796282296,
+      "y": 0.15697674442565623
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "15",
+      "width": 0.013944223350696339,
+      "x": 0.8784860557383305,
+      "y": 0.14970930241681424
+    },
+    {
+      "confidence": 1,
+      "height": 0.02036613982821267,
+      "text": "Juniperus Sabina L.",
+      "width": 0.23904381551411463,
+      "x": 0.3944223129600742,
+      "y": 0.09300595281393409
+    }
+  ],
+  "text": "Coniferae\n(lupressineae.)\n14\n16\n13\n10\n12\n15\nJuniperus Sabina L.",
+  "output_sha256": "66757bc711119b9de12a75f910516ffed7fe72e052eec092e494efaa60296c61",
+  "receipt_sha256": "f322337acaefa00f0a15bbf6b32ff26b71ab002f6da00a634151281b7f3acb4a"
+}

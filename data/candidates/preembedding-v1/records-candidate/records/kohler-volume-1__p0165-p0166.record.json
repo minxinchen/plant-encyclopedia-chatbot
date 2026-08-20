@@ -1,0 +1,261 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0165-p0166",
+  "entry_id": "kohler-volume-1:p0165-p0166",
+  "owner_shard": "S02",
+  "book_taxon": {
+    "scientific_name": "Digitalis purpurea",
+    "authorship": null,
+    "aliases": [
+      "Rother Fingerhut",
+      "Foxglove",
+      "Digitale",
+      "Fingerkraut",
+      "Waldglocklin",
+      "brauner Fingerhut",
+      "Campanula silvestris seu Digitalis purpurea"
+    ]
+  },
+  "display_name": "毛地黃",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Digitalis purpurea"
+    ],
+    "accepted_scientific_name": "Digitalis purpurea",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T15:22:59+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Digitalis+purpurea",
+        "query_name": "Digitalis purpurea",
+        "retrieved_at": "2026-08-13T15:22:59+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0053379",
+        "query_name": "Digitalis purpurea",
+        "retrieved_at": "2026-08-13T15:22:59+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0053379",
+        "query_name": "Digitalis purpurea",
+        "retrieved_at": "2026-08-13T15:22:59+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL accepts the queried book binomial at species rank."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 165,
+      "evidence_type": "text",
+      "page_text_sha256": "e5d5913e3e52d5cf10cedd1142e8ec7835e145b2490ccbdcc942f7b9bca06b1c",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 166,
+      "evidence_type": "text",
+      "page_text_sha256": "4f942258cb6bd680f0cb0a27f9252f95db44e81895b2dac32bab58f0acd38e8f",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0165-p0166:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                         Digitalis        purpurea L.\n                          Rother Fingerhut             Foxglove, Digitalis            Digitale.\n\n            Familie: Scrophulariaceae. Grattung: Digitalis Tourn.",
+      "normalized_text": null,
+      "zh_tw_rendering": "紫花毛地黃，玄參科毛地黃屬，二年生植物。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 165,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 0,
+        "char_end": 232,
+        "page_text_sha256": "e5d5913e3e52d5cf10cedd1142e8ec7835e145b2490ccbdcc942f7b9bca06b1c",
+        "exact_text_sha256": "f53eb76ee796a8368ebad65ecf9dbf770d74f950c4b0baa3213927e747b896f1",
+        "source_line_start": 1,
+        "source_line_end": 4,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "f53eb76ee796a8368ebad65ecf9dbf770d74f950c4b0baa3213927e747b896f1",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0165-p0166:s01:x00",
+      "section_type": "description",
+      "original_text": "            Beschreibung. 2 jahrige Pflanze mit verastelt faseriger Wurzel und \\ bis 1 % Meter hohem,\n krautartigem, aufrechtem, meist einfacliem, stielrundem oder undeutlich 5kantigem, sammetartig-grau-\n filzigem Stengel.   Blatter 5—20 Ctm. lang, zerstreut, eiformig bis eilanzettlich, gekerbt, runzelig,\n unterseits mit stark hervortretendem, kleinmaschigem Adernetze, weichhaarig, oberseits dunkelgrun,\n unterseits mattgriin, die untersten in den langen, geflugelten Blattstiel verschmalert, die mittleren kurz\n gestielt, die obersten sitzend und allmalig in die sitzenden, aus eiformigem Grande lanzettformigen,\n zugespitzten   nach oben immer kleiner werdenden, ganzrandigen Deckblatter iibergehend; sammtliche",
+      "normalized_text": null,
+      "zh_tw_rendering": "莖高至1米，灰絨毛；葉卵形至披針形，皺縮，下表面網脈顯著。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 165,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 233,
+        "char_end": 949,
+        "page_text_sha256": "e5d5913e3e52d5cf10cedd1142e8ec7835e145b2490ccbdcc942f7b9bca06b1c",
+        "exact_text_sha256": "fbe6dbd4dafa3451abb6435db208faa60a12539e592c07e26d439967fa72ba6a",
+        "source_line_start": 5,
+        "source_line_end": 11,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "fbe6dbd4dafa3451abb6435db208faa60a12539e592c07e26d439967fa72ba6a",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0165-p0166:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "           Anatomisches : Die Epidermis der oberen Blattflache zeigt vieleckige Zellen mit wenigen Spaltoffnungen,\n die der JQnterflache Zellen mit wellenformigem Umriss und zablreiche Spaltoffnungen.   Auf beiden Flachen befinden\n sich weiche, einfache^ gewohnlich 4zellige Haare mit gerundeter Spitze.  Zwischen letzteren treten kurze, einzellige\n Haare mit an der Spitze befindlichen, senkrecht getheilten Drusen auf. Die untere Blattflache erscheint schwammig,\n die obere zeigt ein Palissadengewebe.    Krystallablagerungen fehlen (Fliickiger).",
+      "normalized_text": null,
+      "zh_tw_rendering": "葉上表皮多角細胞，下表皮波狀細胞；具多細胞柔毛及腺毛；無結晶。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 165,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 3319,
+        "char_end": 3867,
+        "page_text_sha256": "e5d5913e3e52d5cf10cedd1142e8ec7835e145b2490ccbdcc942f7b9bca06b1c",
+        "exact_text_sha256": "b6e6ba4e04a66c72e70d2e9c24994bf5468cfe30c394906346ff929d79cd8bb8",
+        "source_line_start": 42,
+        "source_line_end": 46,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "b6e6ba4e04a66c72e70d2e9c24994bf5468cfe30c394906346ff929d79cd8bb8",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0165-p0166:s03:x00",
+      "section_type": "distribution",
+      "original_text": "            Verbreitung  In den Gebirgswaldern durch ganz Westeuropa, von Portugal und Spanien bis\n                           1\n\n                               .\n\n\n zum sudlichen Skandinavien (64° nordl. Br.). Auf Corsika und Sardinien. Haufig im Harz, in den Vogesen\n und auf dem Schwarzwalde. Vielfach als Zierpflanze kultivirt und dann kahl oder nur wenig behaart.",
+      "normalized_text": null,
+      "zh_tw_rendering": "分佈於西歐山區，從葡萄牙至北緯64度，常見於哈茨山及黑森林。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 165,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 3868,
+        "char_end": 4235,
+        "page_text_sha256": "e5d5913e3e52d5cf10cedd1142e8ec7835e145b2490ccbdcc942f7b9bca06b1c",
+        "exact_text_sha256": "ff4b0dacf7b5194ca4a791d2b71a9054c43a037b911285fbe3cc41c7180c9865",
+        "source_line_start": 47,
+        "source_line_end": 54,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "ff4b0dacf7b5194ca4a791d2b71a9054c43a037b911285fbe3cc41c7180c9865",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0165-p0166:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "            Name und Geschichtliches.             Der Name Fingerhut (Fuchs), Fingerkraut oder Wald-\n glocklin      bei Bock, braun^r Fingerhut bei Tabernaemontanus ist aus der Form der Bliithen\n abgeleitet.    Digitalis von digitus Finger, digitalis zum Finger gehorig, digitale Fingerhandschuh.\n            Die Pflanze   kommt in den Schriften      der alten klassischen Schriftsteller nicht vor (ellefioQog\n levxog des Dioscorides       nach Sibthorp\n                                   ist                und Fraas Digitalis ferruginea L.); sie war den letz-\nteren vollig unbekannt; hingegen ist sie nach Fliickiger in den nordischen Landern schon friihzeitig\narzneilich benutzt worden.   Das angelsachsische Wort Fox glove ftir Digitalis soil nach Pereira bis\nin das 11. Jahrhundert zuriickreichen. Die arzneiliche Benutzung scheint nach dem aus dem 13. Jahr-\nhundert stammenden Arzneibuche von Wales (The Physicians of Myddfay) sich damals nur auf\nHerstellung ausserlicher Medikamente erstreckt zu haben.    Die erste Abbildung unserer Pflanze, unter\ndem Nam en Campanula silvestris seu Digitalis purpurea, lieferte Fuchs. Man hatte zu damaliger\nZeit jedoch noch keine rechte Idee von den Heilkraften der Pflanze; ja Murray nennt sie im Jahre\n1776 noch ein zweideutiges Mittel. Erst durch die Erfahrungen des englischen Arztes Withering,\nwelcher im Jahr 1775 anfing Digitalis gegen Wasser sucht zu verordnen, kam die Pflanze als Arznei-\npflanze in Ruf und namentlich waren es die Erfahrungen des Thilenius, weiche der Pflanze Eingang\nin die deutschen     Pharmakopoen verschafften.",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源自花形；18世紀前用途不明，Withering於1775年用於治療水腫。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 165,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4271,
+        "char_end": 5857,
+        "page_text_sha256": "e5d5913e3e52d5cf10cedd1142e8ec7835e145b2490ccbdcc942f7b9bca06b1c",
+        "exact_text_sha256": "37e91c6c0788fa01004a4657c381e9e99a51e5dd6f3c48420d6e194ab3a6e8f4",
+        "source_line_start": 56,
+        "source_line_end": 72,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "37e91c6c0788fa01004a4657c381e9e99a51e5dd6f3c48420d6e194ab3a6e8f4",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0165-p0166:s05:x00",
+      "section_type": "constituents",
+      "original_text": "              Bestandtheile. Die Pflanze ist vielfach untersucht, jedoch ttber die wirksamen Bestand-\n    theile immer noch niclits Sicheres festgestellt worden.           Morin fand zwei Sauren: eine der Vale-\n    riansaure ahnliche, eine farblose, fliichtige, widrig sauer schmeckende Fliissigkeit bildende, die er\n    Antirrhinsaure nannte, und die Digitalsaure, welche in saner schmeckenden nnd stark saner reagirenden\n    weissen Nadeln von schwachem, eigenthumlicliem Geruche krystallisirt.           Kosmann erhielt bei seinen\n    Untersnclmngen grune, sternformig grnppirte Nadeln, die er mit Digitolemsaitre bezeichnete. Im\n    Jahre 1845 gelang esHomolle einen nentralen, stickstofffreien, krystalliniscben Bestandtheil von sehr\n    bitterem Geschmacke in dem Fingerhnte anfzufinden, der als ein einfacher Korper betrachtet nnd als\n    das medizinisch Wirksame angesehen nnd mit dem Namen Digitalin bezeichnet wnrde; jedocli Walz\n    fand, dass dieses Homolle'sche Digitalin noch mit 2 anderen Stoffen gemengt sei, die er Digitalosin\n    nnd Digitalacerin benannte. Aber auch diese Stoffe erwiesen sich bei spateren Untersuchnngen als\n    nicht rein nnd es wurden, da das Digitalosin der wirksame Bestandtheil sein sollte, Namenverande-\n    rangen vorgenommen; Digitalosin wnrde mit Digitalin nnd Digitalin mit Digitaletin benannt. Nach\n    Nativelle sind in dem Fingerhnte 3 eigenthumliche Stoffe enthalten: das wirksame krystallinische\n    Digitalin, das gleichfalls wirksame amorphe, bitter schmeckende Digitalein und das nnwirksame kry-\n    stallinische, geschmacklose substance crystallises inerte (Digitin).     Das Digitalin bildet eine ans feinen\n    seidenglanzenden, weissen, strahlig oder biischelig vereinigten Nadeln bestehende krystallinische geruch-\n    lose Masse von nentraler Reaktion nnd intensivem, lange anhaltendem bitterem Geschmacke.                Es lost\n    sich wenig in kochendem Wasser, in Aether nnd Benzol gar nicht, in Chloroform leicht und besitzt die\n    vorlaufig berechnete Formel C4 9 H 78 O 3 o. Digitalein besteht in einem farblosen, amorphen, leicht in Wasser\n    loslichen Korper, von bitterem Geschmacke mit einer Znsammensetzung von 54,72 °/ C, 9,22 °/ H u. 36,06 °/ 0.",
+      "normalized_text": null,
+      "zh_tw_rendering": "含毛地黃素、毛地黃苷等成分，化學性質複雜，歷史上有多種命名與結構爭議。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 166,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 96,
+        "char_end": 2319,
+        "page_text_sha256": "4f942258cb6bd680f0cb0a27f9252f95db44e81895b2dac32bab58f0acd38e8f",
+        "exact_text_sha256": "3c552758916020e5c4116e95bc23dfecddb2d5fa9321c88b50a81e5c2a4cd8d4",
+        "source_line_start": 6,
+        "source_line_end": 26,
+        "section_index": 5,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "3c552758916020e5c4116e95bc23dfecddb2d5fa9321c88b50a81e5c2a4cd8d4",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "8571d061d24e53ffc5e92d9e55760aeae99ba922b883f09c1caf4a4066871e3a",
+    "maker_receipt_sha256": "7569455a952f64123b90370766617676da6edf4d2fafdb84caf19341227a4e73",
+    "validation_check_sha256": "fb58010d0bc9287005d9faf4b69bef5287bb69f1829516b60cfe83ad5c915b77",
+    "source_disposition_sha256": "d4c33f505d3634b0a5d23c571f8d246f05f8339add0a49e63568e910ad0f5525",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "7569455a952f64123b90370766617676da6edf4d2fafdb84caf19341227a4e73",
+      "validation_check_sha256": "fb58010d0bc9287005d9faf4b69bef5287bb69f1829516b60cfe83ad5c915b77",
+      "source_disposition_sha256": "d4c33f505d3634b0a5d23c571f8d246f05f8339add0a49e63568e910ad0f5525"
+    },
+    "naming_artifact_sha256": "e01f234be3a06fe00bb59c5361b39d934d1ac923fa10bb4b1a7751f5956b3e95"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "f12d2e4b3f90c4e36b384b57faa87db8ac01c357a8e090c7a7a61b85c142bbe9"
+}

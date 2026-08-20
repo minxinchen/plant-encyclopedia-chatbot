@@ -1,0 +1,193 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-3:p0175-p0180",
+  "owner_shard": "S06",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S06/maker/structure-drafts/kohler-volume-3__p0175-p0180.json",
+  "source_draft_sha256": "f8326ff963dfdab4843baa24bb6b9887ca151daed987f1dcba8f6b6d65948f85",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "75fe7e54795b738fe268545471be6a0dcfcf38208492ff5609314ba625ad4933",
+    "validation_check_sha256": "845f3f86503adb66a2e10ac1a41f4fee8159a7958869e695eab20fe299b3c0d9",
+    "source_disposition_sha256": "bdfb652f4bda35f2e419e997894535a63bbf5cf14ff70393ba2d78c1c238edb5",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Indigofera Anil",
+    "authorship_candidate": "L.",
+    "aliases_candidates": [
+      "Sichelfrüchtiger Indigo",
+      "Anilindigo",
+      "Anilpflanze",
+      "Anil mal.",
+      "Tarum Kembang"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Indigofera Anil",
+      "Indigofera anil"
+    ],
+    "accepted_scientific_name": "Indigofera suffruticosa",
+    "display_name_zh_tw": "野木藍",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0054048",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary",
+    "rationale": "TaiCOL explicitly links the book binomial as a species-level synonym to the accepted taxon.",
+    "checked_at": "2026-08-13T17:48:18+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Indigofera Anil",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Indigofera+Anil",
+      "retrieved_at": "2026-08-13T17:48:18+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Indigofera",
+          "matched_name_id": 1669,
+          "taxon_id": "t0024064",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Indigofera",
+          "accepted_name_id": 1669,
+          "accepted_usage": [
+            {
+              "usage_id": 179666,
+              "reference_id": 2454,
+              "reference_type": "Book",
+              "publish_year": 2017,
+              "citation": "Ed. Comm. Red List TW Plants,  (2017) The Red List of Vascular Plants of Taiwan, 2017 = 2017 臺灣維管束植物紅皮書名錄.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 276129,
+              "reference_id": 549,
+              "reference_type": "Book Chapter",
+              "publish_year": 1993,
+              "citation": "Huang, T.-C. & Ohashi, H. (1993) 57. Leguminosae. In: Flora of Taiwan, 2 ed., vol. 3. 160–396.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 7479,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": null
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0024064",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0024064",
+          "taxon": {
+            "taxon_id": "t0024064",
+            "taxon_status": "accepted",
+            "name_id": 1669,
+            "simple_name": "Indigofera",
+            "name_author": "L.",
+            "rank": "Genus",
+            "common_name_c": "木藍屬",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": null,
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Indigofera anil",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Indigofera+anil",
+      "retrieved_at": "2026-08-13T17:48:18+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Indigofera anil",
+          "matched_name_id": 121843,
+          "taxon_id": "t0054048",
+          "taicol_name_status": "not-accepted",
+          "accepted_name": "Indigofera suffruticosa",
+          "accepted_name_id": 22625,
+          "accepted_usage": [
+            {
+              "usage_id": 179677,
+              "reference_id": 2454,
+              "reference_type": "Book",
+              "publish_year": 2017,
+              "citation": "Ed. Comm. Red List TW Plants,  (2017) The Red List of Vascular Plants of Taiwan, 2017 = 2017 臺灣維管束植物紅皮書名錄.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 276142,
+              "reference_id": 549,
+              "reference_type": "Book Chapter",
+              "publish_year": 1993,
+              "citation": "Huang, T.-C. & Ohashi, H. (1993) 57. Leguminosae. In: Flora of Taiwan, 2 ed., vol. 3. 160–396.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 114814,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 2824,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0054048",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0054048",
+          "taxon": {
+            "taxon_id": "t0054048",
+            "taxon_status": "accepted",
+            "name_id": 22625,
+            "simple_name": "Indigofera suffruticosa",
+            "name_author": "Mill.",
+            "rank": "Species",
+            "common_name_c": "野木藍",
+            "alternative_name_c": null,
+            "synonyms": "Anila tinctoria var. normalis,Anila tinctoria var. polyphylla,Anila tinctoria var. vera,Indigofera angolensis,Indigofera anil,Indigofera anil var. drepanocarpa,Indigofera anil var. oligosperma,Indigofera anil var. polyphylla,Indigofera articulata,Indigofera bergii,Indigofera comezuelo,Indigofera divaricata,Indigofera drepanocarpa,Indigofera guatimala,Indigofera micrantha,Indigofera orthocarpa,Indigofera suffruticosa var. uncinata,Indigofera sumatrana,Indigofera tinctoria var. anil,Indigofera tinctoria var. brachycarpa,Indigofera tinctoria var. macrocarpa,Indigofera tinctoria var. torulosa,Indigofera uncinata",
+            "is_in_taiwan": true,
+            "alien_type": "native",
+            "alien_status_note": "native: Ed. Comm. Red List TW Plants, 2017",
+            "not_official": false,
+            "updated_at": "2026-03-25"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

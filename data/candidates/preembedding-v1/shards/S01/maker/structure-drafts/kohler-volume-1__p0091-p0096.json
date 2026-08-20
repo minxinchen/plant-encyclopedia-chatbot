@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0091-p0096",
+  "owner_shard": "S01",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 243.575,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0091-p0096",
+    "book_taxon": {
+      "scientific_name_candidate": "Papaver somniferum L.",
+      "authorship_candidate": null,
+      "aliases_candidates": [
+        "Mohn",
+        "Schlafmohn",
+        "Gartenmohn",
+        "Pavot officinal",
+        "Garden Poppy",
+        "Opium Poppy",
+        "White Poppy",
+        "Papaver officinale Gmel.",
+        "Papaver somniferum var. album DC.",
+        "Papaver somniferum var. nigrum DC."
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 91,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "罌粟科罌粟屬，學名 Papaver somniferum L.，俗名 Mohn、Schlafmohn、Gartenmohn。",
+        "warnings": [],
+        "source_line_range": [
+          11,
+          16
+        ],
+        "exact_source_quote": "                                             Papaver somniferum L.\n\nMohn, Schlafmohn, Gartenmohn                                         Pavot        officinal                Garden Poppy, Opium Poppy,\n                                                                 White Poppy,\n\n           Familie: Papaveraceae.                  Gattung: Papaver Tourn."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 91,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "一年生植物，高約 1.5 米，莖藍綠色中空。葉互生，深裂。花單生，直徑 10 厘米以上，花瓣白色帶紫或紫色。",
+        "warnings": [],
+        "source_line_range": [
+          22,
+          43
+        ],
+        "exact_source_quote": "           Beschr eibung.                 Einj ahrige   ,\n                                                              -\n                                                             \\ l      j\n                                                                          /2\n                                                                             m. hohe Pflanze mit einfacher oder wenig verastelter r\n\n\nstielrunder    ,    weisser Wurzel                                                                                     doldfentraubig verasteltem,\n\nkahlem, blaugriinem, innen markigem Stengel.                                 Blatter zerstreut,            eilanglich bis langlich, ungetheilt,\n\nungleich eingeschnitten gesagt, unten mit verschmalertem Grande, buchtig, die oberen mit herzformigem\nGrande halbstengelumfassend, blaugriin, kalil.                            Bliithen einzeln, langgestielt, endstandig, vor                dem Auf-\nbliihen iiberhangend, spater aufrecht.                      Bliitlienstiel stielrund,          meist abstehend borstig behaart, blaugriin.\nKelch 2blatterig, hinfallig; Kelchblatter langlich, kahnformig, blaulich -bereift, meist kahl.  Krone\n4blatterig, 10 cm. und mehr im Durchmesser; Kronblatter umgekehrt eirund, meist breiter als lang,\noben abgerundet, ganzrandig oder ausgeschweift, an der Basis keilformig, paarig gegeniiberstehend und\nnnter sich mit                                           Knospe zusammengeknittert, abfallend, ent-\n                       dem Kelchblatterpaare ab wecliselnd                    ,       in der\n\nweder weiss mit violettem Grande (P. officinale GmeL, P. somniferum /?. album DC.) oder lieller oder\ndnnkler purpnrn, mit dnnkel- violettem Grande (P. somniferum GmeL, P. somniferum a. nigrum DC)."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 92,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "蒴果表皮具氣孔，內含乳管與篩管。種子具雙層種皮，內含油質胚乳與胚。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          15
+        ],
+        "exact_source_quote": "                           Die Oberflache der Kapsel besteht aus einer diinnen, reichlich mit Spaltoffnungen besetzten\n               Anatomisches:\nEpidermis; darauf folgt erne Reihe dichtgedrangter kleiner, im Quersclinitt\n                                                             ,                 rundlich-quadratischer oder wenig  tan-\n\ngential gedehnter Zellen, deren nur rait wenig Poren versehene Wande, namentlich nach aussen, sehr dick sind.      Die\n                                                                               welche  allmahlig  in ein schlaffes,\ndarauffolgende Schicht besteht aus grosseren,mehr                tangential gedehnten Zellen,\ngrosszelliges, mehr and mehr dunnwandiges Parenchym iibergehen, das von grosseren Intercellularraumen durcnzogen\nist.       Das lockere   Parenchym enthalt auf der Grenze gegen die Epidermis einen Kreis sehr zerstreuter Biindel kleiner\nNetzgefasse und etwas tiefer einen weitlaufigen Kreis grosserer Gefassbiindel; beide Kreise sind durch querabzweigende,\nbogenformig aufsteigende oder oft fast horizontal verlaufende Strange verbunden.          Im  innern Kreis enthalten die\n\nGefassbiindel verzweigte Milch- und Siebrohren.    Die innere Fruchtwand besteht aus grossen, horizontal gestreckten\nZellen, deren      Wande von zahlreichen kleinen, spiralig geordneten Poren durchsetzt sind (Fluckiger)."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 92,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源於日耳曼語 mago 或希臘語 μακός。古希臘已用其汁液止痛，希波克拉底時代僅知種子與汁液，後由 Diokles 記載鴉片。",
+        "warnings": [],
+        "source_line_range": [
+          26,
+          46
+        ],
+        "exact_source_quote": "               Name und Geschichtliches.    Der Name Mohn, althochdeutsch mago, mittelhochdeutsch\nmalien, magsat, magsonikrcmt, magsamlyn, bei Cordus: malm, bei Fuchs n. Bock: magsamen, slavisch\nmrik, litauisch agima, esthnisch maggona, lettisch maggons, soil mit dem Mrptxov der Griechen urverwandt\nund anspielend auf den, auf schlankem Stengel hoch emporragenden Mohnkopf auf eine Wurzel zuruck-\nzufubren sein, der das griechische prjyLog (Lange), lateinische magnus und sanskritische mah (gross)\nentsprungen ist. Grassmarnn erwahnt noch der von A. Pictet angenommenen Abstammung von dem\nlitauischen megmi, ich schlafe, was er jedocb unter Hinweis auf den Umstand, dass der litauische Vokal\nauf ursprlinglich.es i zuriickweist (uz-migti einschlafen, migdinti, miginti einschlafern), wahrend in dem\nNamen unserer PjElanze iiberall der a-Laut hervortritt, fiir unwahrscheinlich halt. Papaver, bei Plinius\nder Name fiir Schlafmohn, soil von papa (Kinderbrei) abgeleitet sein, weil man fruher den Speisen\nder Kinder, um ihnen eine einschlafernde Wirkung zu geben, Mohnsaft zusetzte; die Endsilbe ver soil\nausdem lateinischen vemvm               =\n                           echt (echtes Schlafmittel) entstanden sein.\n                                          •\n                                                                       Das weiter unten erwahnte\n                                                                             *\n\n\n\n\nOpium stammt von dem griechischen otuov, dem Verkleinerungsworte von orzog Mohnsaft."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 94,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "主要生物鹼為嗎啡（Morphin），1804 年由 Sertürner 發現。其他包括可待因、那可汀、罌粟鹼等，具苦味與鹼性。",
+        "warnings": [],
+        "source_line_range": [
+          46,
+          53
+        ],
+        "exact_source_quote": "           Morphin: C 17 H 19 N0 3         + H O; Sertiirner 1804—1816.\n                                                        2          Morphin ist das wichtigste Alkaloid des Opiums; es\nenthalt in krystallinisch em Zustande 1 Atom Krystallwasser und bildet feine weisse, seidenglanzende Nadeln, oder\nwenn es durch langsames Verdunsten aus weingeistiger Losung gewonnen worden ist bildet es farblose, halbdurch-\nsichtige, sechsseitige, klinorrhornbische Saulen; es ist geruchlos, schmeckt trocken schwach, in Losung stark bitter.\nSpez. Gew. 1,317—1,326.      Reagirt deutlich alkalisch.  Bei Erhitzung des Morphins mit uberschussiger Salzsaure in\nzugeschmolzenen Rohren bildet sich unter Abspaltung von H 2 O eine neue Base, das Apomorphin C H N0                                              .\n                                                                                                      17    17    2"
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 96,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "圖版描述：A 白花變種全株；B 紅花變種花；1-9 顯示雌蕊、花粉、蒴果及種子之放大與切面圖。",
+        "warnings": [],
+        "source_line_range": [
+          64,
+          73
+        ],
+        "exact_source_quote": "                                                                Tafelbesehreibung\n              A Pflanze der weissen Unterart in natiirl. Grosse; B Bliithe der rothen Unterart, desgl.;                                  1    Stempel mit\nStaubgefassen, desgl.; 2 Staubgefasse   von verschiedenen Seiten, vergrossert; 3 Pollen, unter Wasser gesehen, desgl.;\n                                                 ,\n\n\n\n4 Stempel, natiirl. Grosse; 5 derselbe im Querschnitt, desgl.; 6 reife Fruchtkapsel, desgl.; 7 Same, natiirl. Grosse und\nvergrossert; 8 derselbe im Langsschnitt, vergrossert; 9 derselbe im Querschnitt, desgl. Nach der Natur\n                                                                                                        von W. Miiller."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "ffe4f43f328e02e7d36bb3ecb23c09819eb9233bde305ffbade17963c145f296"
+}

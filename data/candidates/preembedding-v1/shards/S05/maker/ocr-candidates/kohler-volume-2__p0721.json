@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 721,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "5b8bdacbee51fe065a469fcaa7e033a2e27cc5283c8f3e0ba2f2c044ca2d69a8",
+  "render_dpi": 144,
+  "render_sha256": "7c5d70f7c27fd155e677398ff686a34caa24a4b07de67f17ab53117134ec0db6",
+  "input_sha256": "7c5d70f7c27fd155e677398ff686a34caa24a4b07de67f17ab53117134ec0db6",
+  "render_pixel_width": 5846,
+  "render_pixel_height": 7658,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.414,
+  "embedded_character_count": 600,
+  "ocr_character_count": 67,
+  "ocr_alpha_ratio": 0.6716,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.02180232509734137,
+      "text": "Lingiberaceae.",
+      "width": 0.16952379807936369,
+      "x": 0.7638095285555562,
+      "y": 0.9127906976439165
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729363,
+      "text": "3",
+      "width": 0.011428571506472973,
+      "x": 0.12190476177057302,
+      "y": 0.6526162792811236
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252612005,
+      "text": "12",
+      "width": 0.017142856640038062,
+      "x": 0.1276190477990286,
+      "y": 0.42877907007064164
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "3ª",
+      "width": 0.020952379649300412,
+      "x": 0.6666666675801117,
+      "y": 0.31686046519945443
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494425,
+      "text": "6",
+      "width": 0.009523809382170331,
+      "x": 0.11999999997558151,
+      "y": 0.2950581399081248
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "5",
+      "width": 0.009523809382170345,
+      "x": 0.8590476191898672,
+      "y": 0.10319767446744399
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "10",
+      "width": 0.017142856640038007,
+      "x": 0.7085714289180762,
+      "y": 0.09011627889494855
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185932098874,
+      "text": "Elettaria Cardamomum WhiteetMaton",
+      "width": 0.4171428519305353,
+      "x": 0.2933333307252087,
+      "y": 0.05232558193107539
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "186",
+      "width": 0.026666667261551202,
+      "x": 0.8666666661025577,
+      "y": 0.026162790705542283
+    }
+  ],
+  "text": "Lingiberaceae.\n3\n12\n3ª\n6\n5\n10\nElettaria Cardamomum WhiteetMaton\n186",
+  "output_sha256": "a6c1dec92553ca7e3377a6fecbcda26acb0314d9ecc00d1d6818c04f0847a830",
+  "receipt_sha256": "fe53111aefcedacb47d67336d4fa917837f7b5de3ec3b204770459239c278d8b"
+}

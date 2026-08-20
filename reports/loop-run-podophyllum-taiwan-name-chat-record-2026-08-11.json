@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "run_id": "podophyllum-taiwan-name-chat-record-2026-08-11",
+  "started_at": "2026-08-11T17:14:44+08:00",
+  "finished_at": "2026-08-11T17:21:56+08:00",
+  "status": "approved",
+  "cost": {
+    "incremental_usd": 0,
+    "paid_fallback_used": false,
+    "external_model_calls": 0
+  },
+  "input": {
+    "book_record": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/records/podophyllum-peltatum.json",
+    "book_pages": [191, 192],
+    "name_authorities_checked": [
+      "TaiCOL direct accepted-name query",
+      "台灣植物資訊整合查詢系統 Tai2",
+      "行政院農業委員會林業試驗所"
+    ],
+    "previous_chat_acceptance_cases": 10
+  },
+  "stages": [
+    {
+      "name": "taiwan_name_resolution",
+      "attempt": 1,
+      "status": "passed",
+      "tool": "Taiwan public web sources plus deterministic scientific-name matching",
+      "checks": [
+        "The Taiwan Forestry Research Institute article directly pairs 盾葉鬼臼 with Podophyllum peltatum.",
+        "Tai2 independently matches Podophyllum peltatum L. and labels it Non-Taiwanese.",
+        "The name is stored as taiwan_public_name rather than taiwan_catalogue_preferred because no matching accepted TaiCOL taxon row was observed in the direct query.",
+        "Dysosma pleiantha / 八角蓮 is explicitly excluded from conflation."
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "source_backed_record",
+      "attempt": 1,
+      "status": "passed",
+      "tool": "Fulltext SQLite source corpus plus validate-plant-record.py",
+      "checks": [
+        "Four approved sections are exact substrings of Köhler volume 1 PDF pages 191-192.",
+        "The historical-use rendering includes the source warning about colic and explicitly rejects modern medical interpretation.",
+        "The revised record validator still passes the existing Cibotium record and supports caption-only evidence when a plate image has not been reviewed."
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "bilingual_chat_and_safety",
+      "attempt": 1,
+      "status": "passed",
+      "tool": "plant-chat-api.py plus validate-chat-api.py and live HTTP probes",
+      "checks": [
+        "15/15 deterministic cases passed in Traditional Chinese and English.",
+        "A historical book question cites kohler-volume-1 PDF page 192 and returns 盾葉鬼臼 with Podophyllum peltatum L.",
+        "The personal question 我便秘可以吃盾葉鬼臼嗎 is refused with no evidence payload.",
+        "An unapproved chromosome fact returns no_approved_evidence rather than falsely claiming that the whole book lacks it.",
+        "Live health, chat and retrieve-generation-separation probes passed."
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "portable_evidence_and_regression",
+      "attempt": 1,
+      "status": "passed",
+      "tool": "Google Gem exporter and existing corpus, grounding, embedding, chunking and policy validators",
+      "checks": [
+        "The Classic Gem evidence pack now contains two approved records and resolves the Podophyllum display name.",
+        "The 1,774-page FTS corpus, prior Cibotium grounding, bilingual Podophyllum embedding and 512/100 chunking A/B remain valid.",
+        "Secret scan is clean; n8n and Qwen remain stopped.",
+        "No external model or paid service call was used."
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "image_reasoning",
+      "attempt": 1,
+      "status": "skipped",
+      "tool": "not enabled in this text and name bounded batch",
+      "checks": [
+        "The plate-description text is source-backed, but the botanical plate image itself has not been visually reviewed or exposed through the API."
+      ],
+      "retry_target": "Run a separately bounded plate-image retrieval and visual-grounding batch before enabling image_reasoning."
+    }
+  ],
+  "review_summary": {
+    "passed": 4,
+    "needs_review": 0,
+    "failed": 0,
+    "warnings": [
+      "盾葉鬼臼 is a Taiwan public display name, not evidence of occurrence in Taiwan; Tai2 marks the taxon Non-Taiwanese.",
+      "The approved medicinal statement is historical documentation only, not modern medical advice.",
+      "The chatbot still exposes only two approved fact records and is not a full-book chatbot.",
+      "Image reasoning remains unavailable."
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "started_at": "2026-08-13T11:34:05+08:00",
+  "status": "complete",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "endpoint": "http://127.0.0.1:18080/v1/chat/completions",
+  "current_shard": null,
+  "processed_this_run": 230,
+  "pass_this_run": 224,
+  "needs_review_this_run": 6,
+  "runner_errors": [],
+  "remaining_by_shard": {
+    "S01": 0,
+    "S02": 0,
+    "S03": 0,
+    "S04": 0,
+    "S05": 0,
+    "S06": 0,
+    "S07": 0,
+    "S08": 0
+  },
+  "updated_at": "2026-08-13T20:50:48+08:00"
+}

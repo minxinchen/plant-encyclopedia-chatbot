@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 601,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "46685b6b541e6ff79902058cf56dcff0570e3a39dc9a4fc4d05792e6a719552f",
+  "render_dpi": 144,
+  "render_sha256": "72d2facd3e9f77a9b370eedf1ca313de754d40141e5fe18fa21a5c6770fbc907",
+  "input_sha256": "72d2facd3e9f77a9b370eedf1ca313de754d40141e5fe18fa21a5c6770fbc907",
+  "render_pixel_width": 5558,
+  "render_pixel_height": 7754,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.302,
+  "embedded_character_count": 21,
+  "ocr_character_count": 32,
+  "ocr_alpha_ratio": 0.7812,
+  "candidate_disposition": "candidate_quality_gain",
+  "staging_disposition": "candidate_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01930805993458584,
+      "text": "Labiatae.",
+      "width": 0.09878715330341692,
+      "x": 0.8491658950138762,
+      "y": 0.9297154462752957
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "13",
+      "width": 0.012170385076925472,
+      "x": 0.7241379311126529,
+      "y": 0.1438953490694015
+    },
+    {
+      "confidence": 1,
+      "height": 0.02325581368945895,
+      "text": "Marrubium",
+      "width": 0.1318458425132461,
+      "x": 0.37119675584783934,
+      "y": 0.1046511629953869
+    },
+    {
+      "confidence": 1,
+      "height": 0.027428042320978063,
+      "text": "vulgare I",
+      "width": 0.1411937885218425,
+      "x": 0.5085106125622759,
+      "y": 0.09965807184256226
+    }
+  ],
+  "text": "Labiatae.\n13\nMarrubium\nvulgare I",
+  "output_sha256": "d851a3094977913681483b52353eb90e7157aaf990b86827361c3ec6c3262bfc",
+  "receipt_sha256": "cf479ae7fbf30b60bf085f6098b2290dd26be40d641f209c5ff7e8895fb7499d"
+}

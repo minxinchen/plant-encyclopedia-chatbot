@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "autonomy_level": "L1_report_and_candidate",
+  "per_iteration": {
+    "maximum_batches": 1,
+    "maximum_pdf_pages": 6,
+    "maximum_changed_strategy_retries": 1,
+    "maximum_wall_minutes": 30,
+    "maximum_incremental_usd": 0,
+    "maximum_external_model_calls": 4
+  },
+  "circuit_breakers": {
+    "same_failure_limit": 3,
+    "paid_fallback": "stop",
+    "source_mutation": "stop",
+    "maker_checker_deadlock": "escalate",
+    "name_authority_conflict": "escalate"
+  }
+}

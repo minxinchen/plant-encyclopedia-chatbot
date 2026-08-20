@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 353,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "1bb128256e5413b47fc15802d6384ff27f0ef158ca8d2b88d685f8d12f8d75de",
+  "render_dpi": 144,
+  "render_sha256": "8b6bdef8fcd7bb25983310ca87460a14dd1b7a67a3badc1b5a61ad3e8e857f49",
+  "input_sha256": "8b6bdef8fcd7bb25983310ca87460a14dd1b7a67a3badc1b5a61ad3e8e857f49",
+  "render_pixel_width": 6242,
+  "render_pixel_height": 7910,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.365,
+  "embedded_character_count": 99,
+  "ocr_character_count": 63,
+  "ocr_alpha_ratio": 0.6032,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.019477772334265286,
+      "text": "Cannabineae.",
+      "width": 0.12536921282372027,
+      "x": 0.7697279178610037,
+      "y": 0.9226739044927654
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252612005,
+      "text": "20",
+      "width": 0.01657458508561649,
+      "x": 0.8545119709746871,
+      "y": 0.6598837211789266
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "8",
+      "width": 0.014732965053364133,
+      "x": 0.3848987109171485,
+      "y": 0.15261627889494855
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "15",
+      "width": 0.018416206316705153,
+      "x": 0.5524861880018684,
+      "y": 0.15261627912750664
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "10",
+      "width": 0.011049723790023114,
+      "x": 0.8434622469447675,
+      "y": 0.15988372116242466
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01622278160519075,
+      "text": "W.Müller n.d. Nal.",
+      "width": 0.1031886975320161,
+      "x": 0.795551138618407,
+      "y": 0.12342930700359345
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.020446888984195777,
+      "text": "Humulus Lupulus I",
+      "width": 0.17863720426913104,
+      "x": 0.4088397778101858,
+      "y": 0.1103670639486487
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010174418252611894,
+      "text": "50",
+      "width": 0.011049723790023114,
+      "x": 0.8766114179392427,
+      "y": 0.01744186076831611
+    }
+  ],
+  "text": "Cannabineae.\n20\n8\n15\n10\nW.Müller n.d. Nal.\nHumulus Lupulus I\n50",
+  "output_sha256": "be1c064e392dd0d42d26c5401b952dc6a6f41d7200c607bf2490a4f6ce7a47bf",
+  "receipt_sha256": "17b54884f98f544cb1222dbdb275b3860d4200d1db6d464fa0de273bb07ee5a8"
+}

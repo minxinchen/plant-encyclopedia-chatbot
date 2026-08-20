@@ -1,0 +1,155 @@
+{
+  "schema_version": "2.0",
+  "package_id": "kohler-volume-2:p0261-p0268:child-01:continuation-01",
+  "parent_entry_id": "kohler-volume-2:p0261-p0268",
+  "child_entry_id": "kohler-volume-2:p0261-p0268:child-01",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation-v2:kohler-volume-2:p0261-p0268:child-01:continuation-01:v1",
+  "owner_shard": "S03",
+  "package_sha256": "32daea7dad0618dca8a94071caa5f64ae1b2da7ce5538261360937e1092a9b9e",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "prompt_version": "plant-structure-line-coordinates-v2",
+  "attempt_sha256": "6294acea6d0a067f609a900638c600874022e527bc3187c8565c20576d551114",
+  "raw_response_sha256": "5994b0f1998768c52ebb86302662a67e9523eaf3d639fd06a12928f0b4ff4009",
+  "elapsed_seconds": 31.036,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 261,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 0,
+      "char_end": 418,
+      "source_line_start": 1,
+      "source_line_end": 7,
+      "page_text_sha256": "62755fd6dc715658b807b89a2370490d9eaf2a11a6d1f241dbea329fe9795089",
+      "exact_text_sha256": "84926c92c89df9e99c1764666fe06931546c58c1703ca25480c31849b526ee36",
+      "section_index": 0,
+      "section_type": "taxonomy"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 261,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 2817,
+      "char_end": 4271,
+      "source_line_start": 33,
+      "source_line_end": 46,
+      "page_text_sha256": "62755fd6dc715658b807b89a2370490d9eaf2a11a6d1f241dbea329fe9795089",
+      "exact_text_sha256": "e3c863a8ca21d41c3c44d8b5f5314870561569c84477be4c569cafe492c840ff",
+      "section_index": 1,
+      "section_type": "description"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 261,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 4460,
+      "char_end": 4973,
+      "source_line_start": 50,
+      "source_line_end": 54,
+      "page_text_sha256": "62755fd6dc715658b807b89a2370490d9eaf2a11a6d1f241dbea329fe9795089",
+      "exact_text_sha256": "4e0a8d35a6053e5ac4007559abb389e6a5d0d8c98c281bdb223c652246fa83f3",
+      "section_index": 2,
+      "section_type": "anatomy"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 262,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 640,
+      "char_end": 1796,
+      "source_line_start": 9,
+      "source_line_end": 19,
+      "page_text_sha256": "92c96fe89d530ce6c97892ee8a3778654bb5edc9049ab164625ae01f5b9c8dd8",
+      "exact_text_sha256": "da200f6100602cf21823f79a6daa83e61ae245d3e12391093df8f9403b5978d2",
+      "section_index": 3,
+      "section_type": "distribution"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 262,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 1798,
+      "char_end": 3369,
+      "source_line_start": 21,
+      "source_line_end": 36,
+      "page_text_sha256": "92c96fe89d530ce6c97892ee8a3778654bb5edc9049ab164625ae01f5b9c8dd8",
+      "exact_text_sha256": "021da7d6826dd70c6816ea65b8e05e4fc11b538b66dfc2d157896383f4782ae7",
+      "section_index": 4,
+      "section_type": "history"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-2:p0261-p0268:child-01:continuation-01",
+    "parent_entry_id": "kohler-volume-2:p0261-p0268",
+    "book_taxon": {
+      "scientific_name_candidate": "Camellia Thea"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 261,
+        "source_line_range": [
+          1,
+          7
+        ],
+        "exact_source_quote": "                                           Camellia Thea Link.\n       Syn. Camellia viridis Lk.   C. Bohea Griff. Thea chinensis L.                                    Th. Bohea m\n                             Th. viridis L. Th. stricta Hayne.\n\nTheestrauch, Chinesischer Thee — Thé 一                             Green Tea, Black Tea, Bohea Tea, Pekoe.\n\n           Familie: Ternstroemiaceae; Gattung: Camellia L.; Thea L."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 261,
+        "source_line_range": [
+          33,
+          46
+        ],
+        "exact_source_quote": "    |    Camellia Thea Lk. (Thea chinensis L., Th: viridis L.) ist ein aufrechter, buschig verzweigter,\n1—2, seltener bis 9 Meter hoher, kahler, nur an den jüngsten Trieben, Blattstielen                           und Blattknospen\nsteif behaarter Strauch mit kurz gestielten, derben, abwechselnden, 2—12 Ctm. langen (nach Flückiger\nbis 10 Ctm. langen, bis 5 Ctm. breiten), lanzettlichen, verkehrt-eilanzettlichen oder länglich-eiförmigen\nBlättern, welche nach oben in die gestumpfte Spitze, nach unten in den kurzen Stiel verschmälert sind j\nder Rand ist mit nicht sehr zahlreichen, am Grunde wenig hervortretenden, kurzen Sügezühnen ver-\nsehen, das Adernetz stark ausgeprügt, auf der Oberseite mit leichten wellenfórmigen Erhöhungen, die\nUnterseite bei einigen Abarten etwas flaumig. Die weissen Blüthen besitzen die Grüsse einer Apfel-\nblüthe und sind wohlriechend (nach Flückiger sind Blätter und Blüthen ohne auffallenden Geruch und\nGeschmack), nickend und entspringen einzeln, zu zweien oder dreien den Blattwinkeln. Die Blüthenstiele\nsind mit   zwei   bis drei Brakteen       unter dem    Kelche      ausgestattet.      Kelchblätter    rundlich,   stumpf,   kahl\noder seidenhaarig. Kronblätter abstehend, verkehrt eiförmig, stumpf, auf dem Rücken kahl oder weich-\nhaarig. Staubgefässe und Griffel kahl. Fruchtknoten zottig behaart. Die dreiknöpfige, holzige Kapsel\n‚kahl, mit drei Samen. Letzterer glänzend braun, von. der Grösse eines Kirschkernes."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 261,
+        "source_line_range": [
+          50,
+          54
+        ],
+        "exact_source_quote": "          Anatomisches.      Der Blattquerschnitt zeigt nach Flückiger unter der Epidermis der Ober-\nseite eine zweischichtige Lage von Palissadenzellen, während die untere Hälfte aus Schwammparenchym\nbesteht, in welches abgerundete Oxalatdrusen eingestreut sind. Auf beiden Seiten befinden sich unter\nder Epidermis dickwandige, poröse, oft unregelmässig zweischenklige Zellen, welche in das Gewebe hinein-\nragen und oft strebepfeilerartig die Epidermis beider Seiten stützen (Idioblasten). Letztere Zellen treten"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 262,
+        "source_line_range": [
+          9,
+          19
+        ],
+        "exact_source_quote": "               Vorkommen:            Die Theepflanze ist wild nur in Oberassam          in Bengalen       aufgefunden      worden,\n    sonst in Ostasien (China, Japan, Ostindien) häufig angebaut. In China zwischen dem 27. und 40. Breiten-\n    grade in Meereshóhen von 170—500 Meter; in Japan bis zum 45.9; in Ostindien (nach Flückiger) in\n    Oberassam     und den südlich davon         gelegenen   Berglündern     Cachar    und Silhet,      bis herab      in die hóher\n     gelegenen Bezirke von Chittagong und Östlich vom bengalischen Meerbusen. Namentlich sollen sich\n     die Vorlinder des Himalaya im nordwestlichen Indien und die Nilagiriberge in Südindien ganz vorzüg-\n     lich zur Theekultur eignen. Flückiger führt ausserdem noch die West Duars, östlich von Darjee-\n     ling, Dehra Doon (31° n. Br., 78° óstl. L.), das Kangrathal (32? n. Br. 76° östl. L.) und Ceylon als\n    .theeerzeugende Orte Indiens an. Neuerdings werden auch in Nordamerika grosse Anstrengungen ge-\n     macht, die Theekultur einzuführen. Flückiger bezeichnet auch Java und in Europa Sicilien, Portugal\n     und Westfrankreich als geeignet zur Anlegung von Theepflanzungen."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 262,
+        "source_line_range": [
+          21,
+          36
+        ],
+        "exact_source_quote": "            Name und Geschichtliches. Der Name Thee ist chinesischen Ursprungs; das Wort wird in\n    der berühmten Theeprovinz Fokien mit Tscha, Tschai, Tschäh wiedergegeben. Camellia zu Ehren des\n    Georg Jos. Kamell (Camellius), Apotheker der mährischen Jesuiten-Mission auf Manilla, welcher\n    1639 auf den Philippinen Pflanzen sammelte.      ۱\n            Nach einer japanesischen Sage hat der fromme Buddha-Apostel Darma, um beim Beten nicht\n    zu ermüden, die Augenlider abgeschnitten und sie von sich geworfen; daraus soll der Theestrauch ent-\n    standen    sein, dem   die Kraft innewohnt,     den Schlaf zu vertreiben.         Nach     den chinesischen Sagen ist die\n    Theepflanze von den Buddhistenpriestern von Indien nach China gebracht worden. Ob die Theepflanze\n    schon ursprünglich in China einheimisch war, bleibt ungewiss; es wird vermuthet, dass dieselbe von\n    Assam, wo sie jetzt noch wild angetroffen wird, nach China übersiedelte. Der Gebrauch des Thee-\n    trinkens soll angeblich im Jahre 150 v. Chr. von einem Diener des Kaisers Buttei, Namens                               Schiba-\n    Schojo, erfunden worden sein. Nach andern Quellen (Siebold) ist der Thee im 9. Jahrhundert                             unserer\n    Zeitrechnung aus Korea nach China gebracht worden, während sich der Theegenuss in Japan bis zum\n    Jahre 729 n. Chr. zurückverfolgen lässt. Wieder andere Quellen besagen, dass der Thee 810 n. Chr.\n    durch den buddhistischen Priester Tenkiyodayschi von China nach Japan und von dort nach Korea\n    gebracht worden ist."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "abfe34b6336e2258547b0f2a8534c3f35b4f9c25ed7f926600cecfb4dee95606"
+}

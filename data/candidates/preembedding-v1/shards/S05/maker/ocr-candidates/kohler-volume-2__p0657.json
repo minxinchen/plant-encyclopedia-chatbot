@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 657,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "d1390287a0f3440f624f3626decfd0fdba180edb2e12d09a9ce2e7ae83409040",
+  "render_dpi": 144,
+  "render_sha256": "1aa91adf8f4b4d7dde78ccca25fb91e45b139766c14570c5a716df48fb703a02",
+  "input_sha256": "1aa91adf8f4b4d7dde78ccca25fb91e45b139766c14570c5a716df48fb703a02",
+  "render_pixel_width": 5318,
+  "render_pixel_height": 7874,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.141,
+  "embedded_character_count": 116,
+  "ocr_character_count": 53,
+  "ocr_alpha_ratio": 0.6226,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.023042907790532197,
+      "text": "Leğuminosae.",
+      "width": 0.1380537147914085,
+      "x": 0.8191451873349659,
+      "y": 0.9296122670012679
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "10",
+      "width": 0.015053763088500816,
+      "x": 0.5677419354091546,
+      "y": 0.26889534892405276
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.008720929660494314,
+      "text": "9",
+      "width": 0.010752687720300164,
+      "x": 0.053763440978559604,
+      "y": 0.17441860508254348
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "12",
+      "width": 0.015053763088500816,
+      "x": 0.5032258064396206,
+      "y": 0.16715116300405508
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372621082103,
+      "text": "13",
+      "width": 0.025806452209203745,
+      "x": 0.5935483865405593,
+      "y": 0.16424418568073795
+    },
+    {
+      "confidence": 1,
+      "height": 0.020446889930301193,
+      "text": "Cassia acutifolia Delile.",
+      "width": 0.2645161274421232,
+      "x": 0.3483871008757125,
+      "y": 0.11918604682732992
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "156",
+      "width": 0.02365591242449927,
+      "x": 0.9182795706157072,
+      "y": 0.024709302488487905
+    }
+  ],
+  "text": "Leğuminosae.\n10\n9\n12\n13\nCassia acutifolia Delile.\n156",
+  "output_sha256": "0a4a8c3593798d7407a0af2687f97a8aa90967ffce6f23cc428aeb91e400d4af",
+  "receipt_sha256": "5d47fb39d5b9d245728c3462ae5f9167f6424f566a70a303d82d1162846e7cd4"
+}

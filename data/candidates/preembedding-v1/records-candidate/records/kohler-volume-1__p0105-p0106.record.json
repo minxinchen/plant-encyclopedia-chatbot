@@ -1,0 +1,284 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0105-p0106",
+  "entry_id": "kohler-volume-1:p0105-p0106",
+  "owner_shard": "S01",
+  "book_taxon": {
+    "scientific_name": "Althaea officinalis",
+    "authorship": null,
+    "aliases": [
+      "Eibisch",
+      "Heilwurz",
+      "Sammt- oder weisse Pappel",
+      "Marsh Mallow",
+      "Guimauve",
+      "Radix Althaeae",
+      "Folia Althaeae",
+      "Flores Althaeae"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Althaea officinalis"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T20:08:09+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Althaea+officinalis",
+        "query_name": "Althaea officinalis",
+        "retrieved_at": "2026-08-13T20:08:01+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Sammt-+oder",
+        "query_name": "Sammt- oder",
+        "retrieved_at": "2026-08-13T20:08:02+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Marsh+mallow",
+        "query_name": "Marsh mallow",
+        "retrieved_at": "2026-08-13T20:08:02+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Radix+althaeae",
+        "query_name": "Radix althaeae",
+        "retrieved_at": "2026-08-13T20:08:02+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Folia+althaeae",
+        "query_name": "Folia althaeae",
+        "retrieved_at": "2026-08-13T20:08:02+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Flores+althaeae",
+        "query_name": "Flores althaeae",
+        "retrieved_at": "2026-08-13T20:08:02+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 105,
+      "evidence_type": "text",
+      "page_text_sha256": "56e5f6a83925940460b6d872b33e83aeac505385180212c3c0616e6504e051fc",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 106,
+      "evidence_type": "text",
+      "page_text_sha256": "47a84f0f6cae2466208a9b5563bdbd2eae5a7c7d926a401c8c689fd9914112fc",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0105-p0106:s00:x00",
+      "section_type": "description",
+      "original_text": "           Beschreibung.              Das knrze,     dicke, mehrkopfige, mit starken, einfachen oder verzweigten,\nfleischigen, bis     %\n                     Meter langen,    senkrecbt   in  den   Boden    steigenden   Wurzeln      versehene    Rhizom     treibt\n\neinen oder mehrere,     unten  holzige,  oben  krautartige,    aufrechte,   1\n                                                                                  /4\n                                                                                      —\n                                                                                      Meter   hohe,\n                                                                                              1\n                                                                                                       sammetartig-filzige,\nzerstreut   astige, innen  markige,    kaum   hohle   Stengel,    die  sammt    den   Aesten    mit  zerstrent   stehenden,\ngestielten,   4—8   cm. langen,   3—6    cm.  breiten,   eiformigen,    spitzen,  am    Grande     oft  herzf ormigen     un-    ,\n\n\n\n\ngleieh kerbig-gesagten,    schwacb           3—\n                                          Slappigen,    beiderseits   weicb-   und   sammetbaarigen       Blattern   besetzt\n",
+      "normalized_text": null,
+      "zh_tw_rendering": "根莖粗厚多頭，具肉質根；莖直立，被絨毛；葉卵形，邊緣鋸齒狀，兩面被柔毛；花腋生，萼雙重，花瓣五枚，淡紅白色。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 105,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 338,
+        "char_end": 1605,
+        "page_text_sha256": "56e5f6a83925940460b6d872b33e83aeac505385180212c3c0616e6504e051fc",
+        "exact_text_sha256": "adf24899b53b07f9ad5da175d11f1bf3e3b91d25af8f46129fd0ec6adfca232a",
+        "source_line_start": 10,
+        "source_line_end": 28,
+        "section_index": 0,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "adf24899b53b07f9ad5da175d11f1bf3e3b91d25af8f46129fd0ec6adfca232a",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0105-p0106:s01:x00",
+      "section_type": "anatomy",
+      "original_text": "                                      Wurzelqnerschnitt zeigt eine, aus etwa   10  Reihen   ansehnlicher,     gelber,   fast kubischer,\n            Anatomisches : Der\n                                                        welche   allmahlig  in die  aus  grosseren,    wenig  tangential    gestreckten\n tangential gestreckter Zellen gebildete Korkschicbt,\n                                                 Die   von        oder zweireihigen      in  der  Aussenrmde      verlaufenden    Mark-\n Zellen bestehende schmale Rinde iibergeht.                 ein-                          ,\n\n\n\n strahlen durch schnittene Innenrinde wird durch  einzelne,   zu weitlaufigen   Kreisen   geordnete,    aus 3—   dO  Zellen  bestehende\n                                                                                                          ganze             und   Innen-\n Bastbundel bezeichnet, die in der Mhe       des  Cambiums     immer   zahlreicher    auftreten.      Die          Mittel-\n\n rinde besteht hauptsachlich aus   rundlichen,  sehr   stiirkereichen  Parenchymzellen            m\n                                                                                                  welchen    Drusen    yon   Kalkoxalat\n                                                  Schleimschlauche,     mit  stark  quellendem     Schleiminhalte     eingebettet   smd.\n und einzelne oder mehrere beisammenliegende\n                                                                     aus  ungefahr    10  Reihen    zarter,  flacher     tangential   ge-\n Die den Bast von dem Holze trennende Cambialzone           besteht\n                                       Das dicke   fleischige Holz  zeigt in  einem   der Rinde   ahnlichen    Parenchym      emreihige,\n streckter Zellen ohne festen Inhalt.\n                                                  Markstrahlen,    schwache.    zerstreute,   gelbliche,   aus  luplel-   und   Ireppen-\n schmale, sich gegen das Centrum verlierende\n                       Gefassgruppen  und  ebenfalls   Schleimschlauche,    wie   sie in der Rinde auftreten.\n eefassen bestehende",
+      "normalized_text": null,
+      "zh_tw_rendering": "根橫切面示皮層含澱粉細胞及粘液囊；木質部具管胞群及粘液囊；葉橫切面示柵狀組織及草酸鈣結晶。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 105,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4041,
+        "char_end": 6137,
+        "page_text_sha256": "56e5f6a83925940460b6d872b33e83aeac505385180212c3c0616e6504e051fc",
+        "exact_text_sha256": "de76b1eff78e0652dafa59d4f25fc35b74d8dcbb001938461f26412d267666f8",
+        "source_line_start": 58,
+        "source_line_end": 82,
+        "section_index": 1,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "de76b1eff78e0652dafa59d4f25fc35b74d8dcbb001938461f26412d267666f8",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0105-p0106:s02:x00",
+      "section_type": "distribution",
+      "original_text": "                                                 an Graben, Zaunen, vorzuglich  auf feuchtem,  salzigem\n         Verbreitung. In feuchten  Geblischen,\n                                                       und      ganzen  hoheren  Nordens,  ebenso  iiber\n Boden durch ganz Europa mit Ausnahme  Skandinaviens        des\n                                                    In Deutschland  (namentlich  Ntirnberg,  Bamberg),\n das ffemassigte West- und Nordasien verbreitet.",
+      "normalized_text": null,
+      "zh_tw_rendering": "分佈於歐洲（除斯堪的納維亞）、德國及溫帶西亞北亞，生長於潮濕草地、溝渠及鹽鹼地。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 105,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 7013,
+        "char_end": 7484,
+        "page_text_sha256": "56e5f6a83925940460b6d872b33e83aeac505385180212c3c0616e6504e051fc",
+        "exact_text_sha256": "aa8b8823e7a46938eb69a79e051003d0f9aafd4a67c2faaf3118e18b1a8a2d67",
+        "source_line_start": 93,
+        "source_line_end": 98,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "aa8b8823e7a46938eb69a79e051003d0f9aafd4a67c2faaf3118e18b1a8a2d67",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0105-p0106:s03:x00",
+      "section_type": "history",
+      "original_text": "                                              Name Eibisch                          mittelhochdeutsch\n             Name und Geschichtliches.    Der               (althochdeutsch ibisca,\n                                                                                               Bock\n            Ivsch,Tbischa, Ywesche, bei Hildegard  Ibischa, Ibiscum,  bei Brunschwig      und\n Ibsche,\n\n   !\n               einem Worte                                                  he ursprunglich nicht angehort hat. Althaea\n   ftLG%og),\n                                                                            abgeleitet, mit welchem Worte Diosco rides\n   t   von Aldaia (aldoc\n unsere Pflanze bezeiehnete.",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源於古高地德語 ibisca，Dioscorides 稱之為 Althaea，中世紀文獻如 Hildegard 及 Bock 亦有記載。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 105,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 7536,
+        "char_end": 8236,
+        "page_text_sha256": "56e5f6a83925940460b6d872b33e83aeac505385180212c3c0616e6504e051fc",
+        "exact_text_sha256": "d846f42c522d94e5dbb5b05b33243833d6bb75fa5ce14c45b3290037eb96bc41",
+        "source_line_start": 100,
+        "source_line_end": 111,
+        "section_index": 3,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "d846f42c522d94e5dbb5b05b33243833d6bb75fa5ce14c45b3290037eb96bc41",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0105-p0106:s04:x00",
+      "section_type": "constituents",
+      "original_text": "             Bestandtheile. Die offizinellen Theile der Pflanze sind sammtlich reich an Schleim, der\nnach Buchner beispielsweise in der trocknen Wurzel ca. 30°/ betragt.       Ausser dem Pflanzenschleim\nfand Buchner in der Wurzel 37°/ Starkemehl, 8°/ Zucker, 2% Asparagin, ll°/ Pektin, lV »/ fettes\n                                                                                             4\nOel, Pflanzenschleim, Aepfelsaure, schwefelsaure, phosphorsaure Kali-, Kalk- und Bittererdesalze. Die\nvon Bacon aus der Wurzel erhaltene krystallinische Substanz, die er Althaein nannte, ist von Plisson\nals Asparagin erkannt worden.    Letzteres ist fast geschmacklos und krystallisirt in grossen Prismen\noder Oktaedern des rhombischen Systemes.      Aus gut geschalter, bei 100° getrockneter Eibischwurzel\nerhielt Fliickiger 4,88% Asche, die reich an Phosphaten war.      (Husemann, Pflanzenst. 825.)",
+      "normalized_text": null,
+      "zh_tw_rendering": "全株富含粘液，根含約30%粘液、37%澱粉、8%糖、2%天冬酰胺及礦物質鹽類；Bacon 所稱 Althaein 實為天冬酰胺。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 106,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 1913,
+        "char_end": 2808,
+        "page_text_sha256": "47a84f0f6cae2466208a9b5563bdbd2eae5a7c7d926a401c8c689fd9914112fc",
+        "exact_text_sha256": "57017cb13b35d552c3c58b14074d8895b6d271bd8aafaf983d909c8e3e13d6c1",
+        "source_line_start": 27,
+        "source_line_end": 35,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "57017cb13b35d552c3c58b14074d8895b6d271bd8aafaf983d909c8e3e13d6c1",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0105-p0106:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "            Anwendung.    Eibischwurzel und Eibischblatter dienen in Form von wiisserigeri Auszugen\nals demulcirende Mittel bei JKatarrhen der Respiralionsorgane und als Vehikel fur scharfe Arzneistoffe.\nFlir den inneren Gebrauch verwendet man vorzugsweise die Wurzel, die namentlich auch in Pulver-\nform als Consistenzmittel der Pillen und Pastillen gebraucht wird.      Die Blatter finden meist nur\nausserlich in Form von wasserigen Auszugen zu Gargarismen und Collutorien, Klystiren und in Ver-\nbindung mit anderen erweichenden Krautern zu Cataplasmen Anwendung. (Husemann, Arzneimittel-\n                                                                       &   V\nlehre 332.)",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史上根與葉之水浸劑用於呼吸道卡他之緩和劑，根亦作藥丸賦形劑；葉外用於漱口、灌腸及軟膏。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 106,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 2809,
+        "char_end": 3488,
+        "page_text_sha256": "47a84f0f6cae2466208a9b5563bdbd2eae5a7c7d926a401c8c689fd9914112fc",
+        "exact_text_sha256": "b2f1090ef062aa72841d5db72c554564275e64679ca6b54db06b0e6f4d02cffc",
+        "source_line_start": 36,
+        "source_line_end": 43,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "b2f1090ef062aa72841d5db72c554564275e64679ca6b54db06b0e6f4d02cffc",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "bc9efb149bfa7310c07db38a04757e67c345ab13ab35baa32d51af0e2a05c2a8",
+    "maker_receipt_sha256": "e923611f1699a5091615008d4a7f92d1829459e55331d67c7172de8fab305a7a",
+    "validation_check_sha256": "2cb1da7090abf1ee6d809b75564065a7670f22d05e73f7ca3d30acf26f7da96e",
+    "source_disposition_sha256": "90620310f834beb2a782642de5c3b430a53cf14a66dabca9ac25f95d4be2b704",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "e923611f1699a5091615008d4a7f92d1829459e55331d67c7172de8fab305a7a",
+      "validation_check_sha256": "2cb1da7090abf1ee6d809b75564065a7670f22d05e73f7ca3d30acf26f7da96e",
+      "source_disposition_sha256": "90620310f834beb2a782642de5c3b430a53cf14a66dabca9ac25f95d4be2b704"
+    },
+    "naming_artifact_sha256": "bc9b85d834018fb297a36c88950b460b9a2d79ed0a755524087351737c797d05"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "fd8826d31f73738afe8b75ef882ad8e9b0dfffb9c588e3aef21c0c91a05c0e8b"
+}

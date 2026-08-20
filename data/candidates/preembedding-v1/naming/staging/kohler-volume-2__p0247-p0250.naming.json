@@ -1,0 +1,191 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-2:p0247-p0250",
+  "owner_shard": "S03",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S03/maker/structure-drafts/kohler-volume-2__p0247-p0250.json",
+  "source_draft_sha256": "542cc6f21d8cd8d07bce8bea838409586518b8ce340d05ea57f2060192953f6d",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "78f2f0c426266ba36d4ae6ebe8d9a30fa2eb88d7327252d3c855a35d448e03f6",
+    "validation_check_sha256": "dbdaf77d1671d4d62f1b7ee6243543ec39ed0c06d1eb7099e2355c5d3bc3d9db",
+    "source_disposition_sha256": "e036327ad15b19b2cc1196687b1f78951fe366e8389f67d36ce07b25b0400e4f",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "needs_review",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Pterocarpus Marsupium",
+    "authorship_candidate": "Roxburgh",
+    "aliases_candidates": [
+      "Sichelfrüchtiger Flügelfruchtbaum",
+      "Kino de l'Inde",
+      "Vengay",
+      "Buja",
+      "Bastard Teak"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Pterocarpus Marsupium",
+      "Pterocarpus marsupium"
+    ],
+    "accepted_scientific_name": "Pterocarpus marsupium",
+    "display_name_zh_tw": "囊果紫檀",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": null,
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "tai2"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary",
+    "rationale": "Tai2 exactly lists the book binomial as a main name or synonym and links it to this accepted species page.",
+    "checked_at": "2026-08-20T23:03:21+08:00",
+    "tai2_code": "409 098 02 0"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Pterocarpus Marsupium",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Pterocarpus+Marsupium",
+      "retrieved_at": "2026-08-20T23:02:49+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Pterocarpus",
+          "matched_name_id": 2343,
+          "taxon_id": "t0024643",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Pterocarpus",
+          "accepted_name_id": 2343,
+          "accepted_usage": [
+            {
+              "usage_id": 8213,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": null
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0024643",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0024643",
+          "taxon": {
+            "taxon_id": "t0024643",
+            "taxon_status": "accepted",
+            "name_id": 2343,
+            "simple_name": "Pterocarpus",
+            "name_author": "Jacq.",
+            "rank": "Genus",
+            "common_name_c": "紫檀屬",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": null,
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Pterocarpus marsupium",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Pterocarpus+marsupium",
+      "retrieved_at": "2026-08-20T23:02:49+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Sichelfr chtiger",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Sichelfr+chtiger",
+      "retrieved_at": "2026-08-20T23:03:07+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Bastard teak",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Bastard+teak",
+      "retrieved_at": "2026-08-20T23:03:07+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Pterocarpus marsupium",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Pterocarpus%20marsupium",
+      "retrieved_at": "2026-08-20T23:03:21+08:00",
+      "exact_result_count": 1,
+      "exact_results": [
+        {
+          "name": "<em>Pterocarpus</em> <em>marsupium</em> Roxb.",
+          "ebooksearch": "Pterocarpus marsupium",
+          "simnametitle": "<em>Pterocarpus</em> <em>marsupium</em>",
+          "type": "M",
+          "code": "409 098 02 0",
+          "apgfamily": "Fabaceae",
+          "chapgfamily": "豆科",
+          "family": "Fabaceae",
+          "chfamily": "豆科",
+          "genus": "Pterocarpus",
+          "chgenus": "紫檀屬",
+          "fern": "no",
+          "chname": "囊果紫檀",
+          "comname": "",
+          "comtype": "",
+          "endetype": "cultivated",
+          "result_type": "species"
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "species_url": "https://tai2.ntu.edu.tw/species/409%20098%2002%200",
+      "accepted_species_record": {
+        "name": "<em>Pterocarpus</em> <em>marsupium</em> Roxb.",
+        "ebooksearch": "Pterocarpus marsupium",
+        "simnametitle": "<em>Pterocarpus</em> <em>marsupium</em>",
+        "type": "M",
+        "code": "409 098 02 0",
+        "apgfamily": "Fabaceae",
+        "chapgfamily": "豆科",
+        "family": "Fabaceae",
+        "chfamily": "豆科",
+        "genus": "Pterocarpus",
+        "chgenus": "紫檀屬",
+        "fern": "no",
+        "chname": "囊果紫檀",
+        "comname": "",
+        "comtype": "",
+        "endetype": "cultivated"
+      },
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

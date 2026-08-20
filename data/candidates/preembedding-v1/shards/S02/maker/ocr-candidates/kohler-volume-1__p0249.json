@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 249,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "6e9fb17a927f3404dc2a35466958e7913b6e56e429eb0955ad14863886c595e9",
+  "render_dpi": 144,
+  "render_sha256": "a3bcc1b15602ac5f6330b569932d41af3f9dd3f946ef3b5bd409b9d66292f56f",
+  "input_sha256": "a3bcc1b15602ac5f6330b569932d41af3f9dd3f946ef3b5bd409b9d66292f56f",
+  "render_pixel_width": 5798,
+  "render_pixel_height": 7622,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.73,
+  "embedded_character_count": 53,
+  "ocr_character_count": 33,
+  "ocr_alpha_ratio": 0.7576,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.021931667176503966,
+      "text": "Coniferae.",
+      "width": 0.08402742587292211,
+      "x": 0.8453908679160513,
+      "y": 0.8996446314927682
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "WM.",
+      "width": 0.026717557745464693,
+      "x": 0.8969465649726875,
+      "y": 0.10029069772125665
+    },
+    {
+      "confidence": 1,
+      "height": 0.02304324460408047,
+      "text": "• Picea excelsa Ik",
+      "width": 0.1491608601039205,
+      "x": 0.42160277481330666,
+      "y": 0.05170512180957654
+    }
+  ],
+  "text": "Coniferae.\nWM.\n• Picea excelsa Ik",
+  "output_sha256": "92b3a7e771a5d1d9e8816d5b7f3538649dd99f6456c16c159afa8620aab1ea76",
+  "receipt_sha256": "4801f6dd8584b6447257a43d2385f7222ecfbc3970be63c21408281c8157e570"
+}

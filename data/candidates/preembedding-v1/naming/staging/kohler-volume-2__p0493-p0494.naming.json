@@ -1,0 +1,173 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-2:p0493-p0494",
+  "owner_shard": "S04",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S04/maker/structure-drafts/kohler-volume-2__p0493-p0494.json",
+  "source_draft_sha256": "1565424ef7e319b57310ce03e186a512f091fb808cdcf06a9689ea1bf89fd6e3",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "780435bb45634e2be8ac15e2953fda02a97d067c3f54923480e8b4c66a7c85b7",
+    "validation_check_sha256": "6159258f6f3f11c5507d0626099d38b35fd0116581b6e64b610d8bb5deb6a3f7",
+    "source_disposition_sha256": "f416a800dea7cc392444083ca6df4854cab8f4c0218c47c69340143df1acb693",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Abrus preeatorius",
+    "authorship_candidate": "L.",
+    "aliases_candidates": [
+      "Kranzerbse",
+      "Paternostererbse",
+      "Abrusbohne",
+      "a réglisse",
+      "Réglisse d'Amerique",
+      "Indian Liquorice",
+      "Semen Jequirity"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Abrus preeatorius"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_zh_tw": null,
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_checked",
+    "taxon_id": null,
+    "display_name_source_scope": "unresolved",
+    "display_name_source_evidence_ids": [],
+    "display_name_is_taiwan_public": false,
+    "display_name_answer_policy": "scientific_name_only",
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping.",
+    "checked_at": "2026-08-13T20:42:51+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Abrus preeatorius",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Abrus+preeatorius",
+      "retrieved_at": "2026-08-13T20:42:48+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Abrus precatorius",
+          "matched_name_id": 20359,
+          "taxon_id": "t0033543",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Abrus precatorius",
+          "accepted_name_id": 20359,
+          "accepted_usage": [
+            {
+              "usage_id": 179488,
+              "reference_id": 2454,
+              "reference_type": "Book",
+              "publish_year": 2017,
+              "citation": "Ed. Comm. Red List TW Plants,  (2017) The Red List of Vascular Plants of Taiwan, 2017 = 2017 臺灣維管束植物紅皮書名錄.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 275928,
+              "reference_id": 549,
+              "reference_type": "Book Chapter",
+              "publish_year": 1993,
+              "citation": "Huang, T.-C. & Ohashi, H. (1993) 57. Leguminosae. In: Flora of Taiwan, 2 ed., vol. 3. 160–396.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 318060,
+              "reference_id": 8031,
+              "reference_type": "Checklist",
+              "publish_year": 2017,
+              "citation": "GISD, - (2017) Global Invasive Species Database",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 97393,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 10,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0033543",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0033543",
+          "taxon": {
+            "taxon_id": "t0033543",
+            "taxon_status": "accepted",
+            "name_id": 20359,
+            "simple_name": "Abrus precatorius",
+            "name_author": "L.",
+            "rank": "Species",
+            "common_name_c": "雞母珠",
+            "alternative_name_c": "美麗相思子,雞母真珠",
+            "synonyms": "Abrus abrus, Abrus cyaneus, Abrus tunguensis, Glycine abrus, Abrus squamulosus, Abrus precatorius var. novo-guineensis, Abrus precatorius subsp. africanus, Abrus pauciflorus, Abrus minor, Abrus maculatus",
+            "is_in_taiwan": true,
+            "alien_type": "native",
+            "alien_status_note": "native: Ed. Comm. Red List TW Plants, 2017",
+            "not_official": false,
+            "updated_at": "2026-03-25"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Indian liquorice",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Indian+liquorice",
+      "retrieved_at": "2026-08-13T20:42:49+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Semen jequirity",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Semen+jequirity",
+      "retrieved_at": "2026-08-13T20:42:49+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Abrus preeatorius",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Abrus%20preeatorius",
+      "retrieved_at": "2026-08-13T20:42:51+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears."
+  ]
+}

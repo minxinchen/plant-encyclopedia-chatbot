@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 265,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "2ce0f162e8b4d0448ea30e4802aa2c84f21465c788f0fe313eb38d0fea636296",
+  "render_dpi": 144,
+  "render_sha256": "83b95b260629e9b03a6206b37887815e3824856283867f514c551749cb71814e",
+  "input_sha256": "83b95b260629e9b03a6206b37887815e3824856283867f514c551749cb71814e",
+  "render_pixel_width": 5942,
+  "render_pixel_height": 8090,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.607,
+  "embedded_character_count": 196,
+  "ocr_character_count": 59,
+  "ocr_alpha_ratio": 0.661,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.027124329218788823,
+      "text": "Tiliaceae.",
+      "width": 0.08627218881384252,
+      "x": 0.06676053032365456,
+      "y": 0.9288237922080427
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494425,
+      "text": "5",
+      "width": 0.011857706980476612,
+      "x": 0.7193675892633848,
+      "y": 0.7979651164197528
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "10",
+      "width": 0.01581027683255487,
+      "x": 0.7687747035600071,
+      "y": 0.31395348832182124
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "13",
+      "width": 0.01581027683255476,
+      "x": 0.8063241107932089,
+      "y": 0.20203488393495395
+    },
+    {
+      "confidence": 1,
+      "height": 0.024423919026813845,
+      "text": "Tilia ulmifolia Scop.",
+      "width": 0.16630448077998394,
+      "x": 0.4247528986111837,
+      "y": 0.1287764127687664
+    },
+    {
+      "confidence": 1,
+      "height": 0.010197489507614566,
+      "text": "W. Müller n.d. Nat",
+      "width": 0.09486165584381323,
+      "x": 0.8063241139753267,
+      "y": 0.13662790720726958
+    }
+  ],
+  "text": "Tiliaceae.\n5\n10\n13\nTilia ulmifolia Scop.\nW. Müller n.d. Nat",
+  "output_sha256": "7a97ccb6119a3d1e0c850d7306d4e514087751ec7701318a59af9b460555681a",
+  "receipt_sha256": "e65adef747b846505439cafa08d0b9397bfd01f9e2611d6a21f72500ae985eca"
+}

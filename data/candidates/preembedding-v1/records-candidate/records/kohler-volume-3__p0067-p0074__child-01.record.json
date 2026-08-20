@@ -1,0 +1,406 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-3-p0067-p0074-child-01",
+  "entry_id": "kohler-volume-3:p0067-p0074:child-01",
+  "owner_shard": null,
+  "book_taxon": {
+    "scientific_name": "Hevea brasiliensis",
+    "authorship": null,
+    "aliases": []
+  },
+  "display_name": "巴西橡膠樹",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Hevea brasiliensis"
+    ],
+    "accepted_scientific_name": "Hevea brasiliensis",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-20T23:02:57+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Hevea+brasiliensis",
+        "query_name": "Hevea brasiliensis",
+        "retrieved_at": "2026-08-20T23:02:57+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0053928",
+        "query_name": "Hevea brasiliensis",
+        "retrieved_at": "2026-08-20T23:02:57+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0053928",
+        "query_name": "Hevea brasiliensis",
+        "retrieved_at": "2026-08-20T23:02:57+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL accepts the queried book binomial at species rank."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 67,
+      "evidence_type": "text",
+      "page_text_sha256": "ef1b0b1c2435d4b6397ef7a6f73455ba625b20da9df6c56fb7773b0dee661f5b",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 69,
+      "evidence_type": "text",
+      "page_text_sha256": "015e22cd5c7551b6d97eae395daf9304f5d30fc9764a492524d980ef82e09305",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 68,
+      "evidence_type": "text",
+      "page_text_sha256": "1e285f7026efc02c0e0053840777e42f47dc7f9c477bf0d67fb2ba323ed6d83a",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 72,
+      "evidence_type": "text",
+      "page_text_sha256": "9c0df83a8eeb61e2cc5d884e0c2f879717be3d29ceaf2591b89af1f83cfae94c",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 73,
+      "evidence_type": "text",
+      "page_text_sha256": "6ac19ac533ae40283743c0f8679ba1bc8dc5ab99a0035a85f63d038b052fde53",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 74,
+      "evidence_type": "text",
+      "page_text_sha256": "bfbd6e0e61dbb5541441a83f4bb8ce6e5b6b70e69836bbf205210e936864f308",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-3:p0067-p0074:child-01:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                       Hevea brasiliensis Müller Argoviensis.\n                                     Hevea guianensis Aublet.\n                                      1. Hevea brasiliensis (DC) Müll. Arg.\nBrasilianischer        Federharzbaum;          Kautschukbaum            v. Javitaa       —    Hev&    du Bresil. —             Parä\n                                Rubber-tree.       —     Pao de Xeringa —              Siringuru.\n\n             Syn. Dtiphonia brasiliensis Willdenow.                Siphonia Kunthiana Baillon.\n\n             Familie: Zuphorbiaceae Juss.              Unterfamilie:        Acalypheae Juss.        Gattung: Hevea Aubl.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 67,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 647,
+        "source_line_start": 1,
+        "source_line_end": 9,
+        "page_text_sha256": "ef1b0b1c2435d4b6397ef7a6f73455ba625b20da9df6c56fb7773b0dee661f5b",
+        "exact_text_sha256": "529912aaf0da112759621a710027188107a7595d3f7ac4683230f5d773e8e95c",
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "529912aaf0da112759621a710027188107a7595d3f7ac4683230f5d773e8e95c",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0067-p0074:child-01:s01:x00",
+      "section_type": "description",
+      "original_text": "             Beschreibung.          Ein milchsaftführender Banm von 17—20 m Höhe und 60 cm Durch-\nmesser       mit schöner       üppiger Krone.          Die Rinde     ist graubraun, wenig dick; das Holz weiss und\nnicht sehr fest.           Die Blätter stehen wechselständig,               an der Spitze der Zweige             gehäuft;        sie\nsind gestielt,      zusammengesetzt,         dreizählig;     der gemeinsame Blattstiel ist etwa               so lang als die\nBlattfläche, d. i. bis 16 cm lang, schlank, nahezu stielrund, kaum rinnig, am Grunde etwas\n aufgeblasen; die Stiele der 3 Blätichen dagegen sind oben rinnig, unterseits convex, bis 1 cm\n lang; die Blättchen, welche den Blütenrispen nahe stehen, sind 6—7 cm lang und 4 cm breit,\n andere ältere werden bis 16 cm lang und 6—-7 em breit, häutiglederig, ganzrandig, lanzettlich,\nbeiderseitig           gleichmässig         verschmälert,            oben    in    eine      verlängerte        Spitze         aus-\nlaufend;       beiderseits Kahl, oben lebhaft grün, unten graugrün bereift und mit vielen sehr kleinen\nweissen Punkten besetzt. — Mittelnerv gelbgrün auf beiden Seiten stark hervortretend; Seiten-\nnerven bis 20 auf jeder Seite des Mittelnerven, beinahe gegenständig, im Winkel von 60—70°\nbis dicht an den Rand verlaufend; Adern nahezu senkrecht auf den Seitennerven, nur wenig\nverästelt.   Blüten grünlich, weissfilzig, in langgestielten, lockeren, zusammengesetzten\nTrauben, die nichtin den Blattachseln sitzen und sowohl dem Holze alter als jüngerer Zweige\nentspringen.    DBlütenstielchen, die sehr kleinen Deckblättchen und Rispenaxe weissfilzig.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 67,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 649,
+        "char_end": 2277,
+        "source_line_start": 11,
+        "source_line_end": 26,
+        "page_text_sha256": "ef1b0b1c2435d4b6397ef7a6f73455ba625b20da9df6c56fb7773b0dee661f5b",
+        "exact_text_sha256": "c7be70678b2589024ba14a0d05ae50574634dd421db3edbbb4de50615a9e94b7",
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "c7be70678b2589024ba14a0d05ae50574634dd421db3edbbb4de50615a9e94b7",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0067-p0074:child-01:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "         Anatomisches. Die Milchröhren der Euphorbiaceen sind bereits in der Jugend an-\n gelegt; sie sind ungegliedert, segmentiert und bestehen aus kürzeren oder längeren Zellen, deren\n Enden    genau    aufeinander        stossen,     manchmal          an   der     Berührungsstelle        eingeschnürt Fraben\n niemals ‚nebeneinander verschoben sind. Nach Scott entstehen die Milchbehälter der Hevea\n durch Zellfusion, ähnlich den Gefässen; bei H. brasiliensis und Spruceana beobachtete er das\n Entstehen der Milchschläuche durch Resorption der Querwände von Zellenreihen. Calvert\n stellte fest, dass bei jungen        Pflanzen      der Hevea brasiliensis in der Mittelrinde                  des hypokotylen\n und epikotylen Stammes Milchschläuche reichlich, in der Aussenrinde                                   und dem Marke aber\n nicht vorhanden      waren.     Dieselben wurden              bei älteren        Pflanzen      aber    auch    im    Marke      und\n der Aussenrinde      gefunden      und    Verf.    glaubt      an    Verbindungen           dieser    Systeme       unter   sich in\n den Knoten.      Ähnliches nimmt de Bary an, doch konnte Chimani                                      nirgends Anastomosen\nnachweisen.       Er fand   die Schläuche          bei Z. brasiliensis          besonders     im Rindenteil          und     gekenn-\nzeichnet durch eigentümliche Ausstülpungen, welche oft in längere Nebenzweige übergehen,\naber    niemals   mit anderen Systemen             in Verbindung          treten.   —   Die Milchschläuche von Z. guia-\nnensis sind im Phloemteil       des Stammes         kranzförmig           angeordnet     und     verlaufen       zu 2—3       neben-\n                                                                                                                       8",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 69,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 3075,
+        "char_end": 4892,
+        "source_line_start": 36,
+        "source_line_end": 51,
+        "page_text_sha256": "015e22cd5c7551b6d97eae395daf9304f5d30fc9764a492524d980ef82e09305",
+        "exact_text_sha256": "c68ac95c0f97da74f4123c37f216a1ee8065689d3fb5b1197ee00a75fb63d3d7",
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "c68ac95c0f97da74f4123c37f216a1ee8065689d3fb5b1197ee00a75fb63d3d7",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0067-p0074:child-01:s03:x00",
+      "section_type": "distribution",
+      "original_text": "           Vorkommen  und Verbreitung.  Hevea brasiliensis Müll. Argov. wächst wild\n                                                                                    in der\nbrasilianischen Provinz Para, an den Nebenflüssen d\n                                                     es Amazonas, am Apure und Javito, an\nden Mündungen des Orinoko (H. & B). Neu\n                                             erdings sind reiche Bestände am unteren B\n                                                                                       eni,\nam     Mayutala     und Aquiri           aufgefunden          worden,      auch      am    Marome        und Itenez        an    der brasilia-",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 68,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 5040,
+        "char_end": 5718,
+        "source_line_start": 54,
+        "source_line_end": 61,
+        "page_text_sha256": "1e285f7026efc02c0e0053840777e42f47dc7f9c477bf0d67fb2ba323ed6d83a",
+        "exact_text_sha256": "99c5cd1a7975232c8840d6d37f084535197a75d1ea058d01377bba7609672f4a",
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "99c5cd1a7975232c8840d6d37f084535197a75d1ea058d01377bba7609672f4a",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0067-p0074:child-01:s04:x00",
+      "section_type": "harvest",
+      "original_text": "          Bereitung des Kautschuks            aus Hevea-Arten.          Die    angeführten       Spezies     liefern   den\nParä-     und   den     Amazonas-Kautschuk,               auch    den    von    Uruguay.       Die    ersteren   sind die\ngeschätztesten aller Kautschukarten. Die Darstellung ist im Wesentlichen die gleiche. Der\nBaum wird nicht gefällt, wie bei der Gewinnung der Guttapercha; man verwundet ihn in\nder kälteren Jahreszeit durch einen horizontalen Schnitt am Grunde und mehrere senk-\nrechte längs der Seiten des Baumes; in die letzten münden schief absteigende Kanäle, die\nihnen seitlich Milch zuführen. Die Milch sammelt man in flachen ungebrannten Thongefässen,\ndie mit Lehm an den Baum geklebt werden.           Der Saft riecht ammoniakalisch, hält sich\naber höchstens einen Tag unverändert. Man versetzt ihn deshalb mit 3°/, Ammoniak, wo-\ndurch er länger haltbar und transportfähig wird.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        3
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 72,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 912,
+        "source_line_start": 1,
+        "source_line_end": 10,
+        "page_text_sha256": "9c0df83a8eeb61e2cc5d884e0c2f879717be3d29ceaf2591b89af1f83cfae94c",
+        "exact_text_sha256": "80ed0ddfa6dfa07aba1f06eba722d1b7357c5ffbfee90aa423d9351f084d3223",
+        "section_index": 4,
+        "section_type": "harvest"
+      },
+      "exact_text_sha256": "80ed0ddfa6dfa07aba1f06eba722d1b7357c5ffbfee90aa423d9351f084d3223",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0067-p0074:child-01:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "        Pharmazeutisch wichtig ist der Kautschuk als Deckmittel für offene                           Wunden    oder\nzur Verhinderung der Verdunstung oder des Austrocknens.   Zu diesem Zwecke                           stellt man die\nCollemplastra, Kautschukpflaster, dar, welche bei hoher Klebkraft eine ziemlich grosse Quantität\nmedikamentösen        Stoffes    aufnehmen     können   und    die bedeckten      Teile vollkommen     schützen.    —\nAuch das Senfpapier kann als ein solches Collemplastrum angesehen werden, da es das\nentölte Senfpulver durch ein Kautschukhäutchen festhält. — Kautschukschläuche werden aus\nvulkanisiertem Kautschuk erhalten, indem man Platten davon um Röhren legt und an der\nBerührungsstelle mit heissen Messern schneidet, wodurch die Schnittflächen dann zusammen-\nkleben;    oder man     presst    erweichten    Kautschuk      durch   Röhrenformen      in kaltes   Wasser.\n",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        4
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 73,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 1146,
+        "char_end": 2050,
+        "source_line_start": 15,
+        "source_line_end": 24,
+        "page_text_sha256": "6ac19ac533ae40283743c0f8679ba1bc8dc5ab99a0035a85f63d038b052fde53",
+        "exact_text_sha256": "4ec710cdf2382df3133be6f2acc1e77012c4f4ae33f64b50a315f626fef72d22",
+        "section_index": 0,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "4ec710cdf2382df3133be6f2acc1e77012c4f4ae33f64b50a315f626fef72d22",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0067-p0074:child-01:s06:x00",
+      "section_type": "history",
+      "original_text": "          Gesehiehte und Statistik.          Die erste Erwähnung erfährt der Kautschuk durch Antonio\nHerera (1549—1625),             welcher von Bällen berichtet, mit denen die Eingeborenen von Hayti\nspielten; 1615 erzählt           Juan de Torquemada von ähnlichen Spielbällen der Mexikaner, her-\ngestellt aus der Milch des Ulequahuitl-Ul& (Castilloa elastica Cerv.) und von den wasserdichten\nKleidern und Schuhen, welche aus diesen Säften hergestellt würden.    1751 veröffentlichte\nFresneau die Beschreibung des Cachuchu der Südamerikaner (Castilloa), nachdem schon 1736\nCh. de la Condamine diejenige von Siphonia elastica (Hevea guianensis) nebst den Eigenschaften\ndes Kautschuks gegeben und Muster von Syphoniakautschuk der Pariser Akademie über-\nsandt hatte.   1768 formte Grossart   die ersten Kautschukröhren und seit 1771 benutzte\nMagellaen den Kautschuk zum Radieren von Bleistiftzeichnungen, 1879 gelangte der Kautschuk\nnach Deutschland.   1775 beschrieb Aublet die Darstellung des Hevea-Kautschuks bei den\n Garipons und Mainas in französisch Guyana.      Bis 1820 benutzte man Kautschuk zur Dar-\nstellung von Röhren, Stopfen, elastischen Verbänden, wasserdichtem Firniss für Leder. .1820\nstellte Thomas Hankock elastische Gewebe und Makintosh wasserdichte Zeuge dar.           1839\nerfand Goodyear das Vulkanisieren des Kautschuks und 1852 wurde das Ebonit erfunden.\nSeit 1881 hat man mit der Kultur der Kautschukpflanzen.begonnen, zu welcher sich besonders\ndie Stammpflanze des Ceara-Kautschuk,     Manihot Glaziovii Müll. Arg., ausgezeichnet eignet,\nebenso die des indischen Kautschuk,   Urostigma elasticum Mig., und manche Kautschuklianen;\nwogegen      die Kultur    von     Hevea-    und Castilloa-Arten ihrer hohen Ansprüche an Boden und\nKlima     wegen   immer     noch     viele   Schwierigkeiten      bietet.   Der   vielseitigen   Anwendung,        die\nder Kautschuk findet, entspricht die beträchtliche Produktion. 1890 wurden auf den Markt\ngebracht: 165000 Doppelzentner (a 100 Ko.) Parä-K., 15 000 Ztr. Castilloa-K., 3000 Ztr. Cearä-K.,\n600 Ztr. Mangabeira-K., 5000 Ztr. indischer K., 3000 Ztr. Borneo-K., 3000 Ztr. Madagascar-K.\nund 60,000 Ztr. afrikanischer K., Quantitäten, die in fortwährendem Steigen begriffen sind.\n(Zeitschr. f. angew. Chemie 1891). Indien exportierte 1893/94 allein 9616 Owt.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        4
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 73,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 2051,
+        "char_end": 4376,
+        "source_line_start": 25,
+        "source_line_end": 49,
+        "page_text_sha256": "6ac19ac533ae40283743c0f8679ba1bc8dc5ab99a0035a85f63d038b052fde53",
+        "exact_text_sha256": "2529d4e094a2cea5a4bbf03f92c5f73ecc9402cf5630e960dcda54d70a0b75e3",
+        "section_index": 1,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "2529d4e094a2cea5a4bbf03f92c5f73ecc9402cf5630e960dcda54d70a0b75e3",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0067-p0074:child-01:s07:x00",
+      "section_type": "constituents",
+      "original_text": "         Bestandteile. Die Zusammensetzung der Hevea-Milch untersuchte Faraday; er fand -\n56,37°/, Wasser, Säuren und dgl, 31,70°/, Kautschuk, 2,90°/, Wasserlösliches, 1,90°/, Albumin,\n7,13°/, färbenden Bitterstoff, Proteide und Wachs.  Der Rohkautschuk besteht hauptsächlich\naus Reinkautschuk C° H°?, welches durch Auflösen von Rohkautschuk in Chloroform und\nFüllen durch Alkohol erhalten werden kann. Er bildet eine weisse, in der Wärme elastische\nMasse, welche in der Kälte spröde ist und bei 50° erweicht; er schmilzt bei 120° zu einer\nklebrigen nicht wieder fest werdenden Masse. Angezündet brennt er mit leuchtender stark\nrussender Flamme; bei der trocknen Destillation geht er in mehrere Kohlenwasserstoffe,\nWasser, 00? und CO über. Unter den Kohlenwasserstoffen findet sich Isopren © Hs, Schmizp.\n38°, Kautschin (Dipenten) C' H!% Sdp. 180°, Heven (C? H®)n Sdp. 315°.. Isopren kann durch\nanhaltende    Behandlung        mit Salzsäure   in einen      Stoff verwandelt    werden,    welcher    nach   dem\nAuskochen mit Wasser die Elastizität und                die wesentlichsten Eigenschaften         des Kautschuks\n                                                                                                       8a",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        4
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 73,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 4378,
+        "char_end": 5605,
+        "source_line_start": 51,
+        "source_line_end": 63,
+        "page_text_sha256": "6ac19ac533ae40283743c0f8679ba1bc8dc5ab99a0035a85f63d038b052fde53",
+        "exact_text_sha256": "df24ea2d0569bcd04266f3d489fad18700468922cc2ff3041c4543e843209398",
+        "section_index": 2,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "df24ea2d0569bcd04266f3d489fad18700468922cc2ff3041c4543e843209398",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0067-p0074:child-01:s08:x00",
+      "section_type": "literature",
+      "original_text": "          Litteratur. Droge Payen,            tec hn.  Che mie    187 2.   I   168 .   Ha ge r,   Pha rm.   Pra xis    1.\n(1876) 779. II. 226.      Hof er,  Kau tsc  huk    und Gut tap erc ha    188 0.     Wie sne r,  Roh sto ffe 154 —15 9.\nWieg  an d,    Pha rma c.  IV.  Auf l. 384 .    F.  v. Hö hn el ,    Gew  inn  ung     und   Sor ten   von  K.    188 7.\nFerguson, All about India rubber and Gutta-Percha. Colombo, Ceylon 1887. Hanausek, T.F. in\nRealencyklopädie       der   Pharmacie      1888. IV. 647.     und    in     Erdmann -König     Warenkunde        1895.\n345. Flückiger, Grundriss der Pharm. 1894. 151. Tschirch, Indische Nutz- und Heilpfl.\n195. Schmidt, Handbuch d. Pharm. Chemie IH. Aufl. TI Bd. — Caoutchouc: Pharm. Gall.\n(1884) 45. — Cahuchu: Hisp. (1884) 28. Blastica seu India Rubber: U. St. Ph. (1894) 106.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        5
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 74,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 218,
+        "char_end": 1049,
+        "source_line_start": 5,
+        "source_line_end": 12,
+        "page_text_sha256": "bfbd6e0e61dbb5541441a83f4bb8ce6e5b6b70e69836bbf205210e936864f308",
+        "exact_text_sha256": "9ff1f5936ed3828fd01cf859273305a21f6543d05e22e2b96384115c5103b817",
+        "section_index": 3,
+        "section_type": "literature"
+      },
+      "exact_text_sha256": "9ff1f5936ed3828fd01cf859273305a21f6543d05e22e2b96384115c5103b817",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0067-p0074:child-01:s09:x00",
+      "section_type": "other",
+      "original_text": "           Präparate   und Fabrikat.      Payen    1. c. Hager       1. c.    Dieterich’s   Manuale    Pharmaceut.,\nCollemplastra. (VI) 106—113. — Charta                  Sinapis: Hisp. 488.         U. St. Pharm.       1894. 86.     —\nKautschuklösung Dieterich 1. c. 489.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        5
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 74,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 1050,
+        "char_end": 1321,
+        "source_line_start": 13,
+        "source_line_end": 15,
+        "page_text_sha256": "bfbd6e0e61dbb5541441a83f4bb8ce6e5b6b70e69836bbf205210e936864f308",
+        "exact_text_sha256": "c958f51a123dcb57b70ecb43b7b43267f6892e17fb9fc9e6779f35f5ad09711f",
+        "section_index": 4,
+        "section_type": "other"
+      },
+      "exact_text_sha256": "c958f51a123dcb57b70ecb43b7b43267f6892e17fb9fc9e6779f35f5ad09711f",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "66e5cd1bee6d9c7a3a5456302ec5f05f8ec7f6c44b4b17cc7e947c672c912a2e",
+    "maker_receipt_sha256": null,
+    "validation_check_sha256": null,
+    "source_disposition_sha256": "3c75f7f6e86d939c9bf4f22a66f74934a2540211200aea959e4750e0f0c44104",
+    "candidate_source_chain": {
+      "source_disposition_sha256": "3c75f7f6e86d939c9bf4f22a66f74934a2540211200aea959e4750e0f0c44104",
+      "boundary_overlay_plan_sha256": "c7c0253e52f0583570699f98cc9c8fa3dda15857551bc2b94d6430ed0afd008a",
+      "boundary_segment_sha256": "34527701661afa4066138741308da00283374e15e9e897fbcba1e40f2d962779",
+      "source_parent_entry_id": "kohler-volume-3:p0067-p0074",
+      "continuation_v2_receipts": [
+        {
+          "package_id": "kohler-volume-3:p0067-p0074:child-01:continuation-01",
+          "package_sha256": "b4e8e0fa6fdc6c8aac9bbbbdafbeda1d216659ecf9810173f25295bf1730efff",
+          "receipt_sha256": "8b4e9f4252101918618b4940f701ea78d6de52ff1a6ec8127293a7e613dc392f",
+          "attempt_sha256": "fa27c6c5d175fc4448276d0944fd95df33aaa27575f8a2e71a5f5958fcfcc0dd",
+          "validation_check_sha256": "cb936eeb49e594897b0aeeb3daae6b2d2e190e4445e08999ce396f1f6a779398"
+        },
+        {
+          "package_id": "kohler-volume-3:p0067-p0074:child-01:continuation-02",
+          "package_sha256": "558f9c9b9549692eee8fbf37486468716ff76e2a303cbc2f79f965f696d91883",
+          "receipt_sha256": "5673e467a436192a46eac6659c0a3c707108a8c046a25d5301a9be36ed821087",
+          "attempt_sha256": "0343fed88541bbebc59de8cfc145e743edee860f240c6fa1127858b1b9058420",
+          "validation_check_sha256": "44ceab83ff8fe07d3670c15408e54115664180e1e678f7d6e205293b4e8fb81c"
+        }
+      ]
+    },
+    "naming_artifact_sha256": "b6bbb232ef255cf3caa2eb50c875d2e004dc0f9527bb2e48cf9a7b4f757a9327"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "1a62e41a0798d28dfb6bf0d8cfa595fa9c83e6533fe287d51869f5f3a840de42"
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 465,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "06ce6d91eb31c0c3d31327ed2312c00714957fa770ed26f354f73723e9c4bfbb",
+  "render_dpi": 144,
+  "render_sha256": "1bd41ebc078b4740f1f3e04c598d7873cbd0ccbe386566e35c428b9dd3cfdf02",
+  "input_sha256": "1bd41ebc078b4740f1f3e04c598d7873cbd0ccbe386566e35c428b9dd3cfdf02",
+  "render_pixel_width": 5570,
+  "render_pixel_height": 8186,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.396,
+  "embedded_character_count": 74,
+  "ocr_character_count": 52,
+  "ocr_alpha_ratio": 0.8654,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.02050264487190845,
+      "text": "Loganiaceae",
+      "width": 0.11117176689837485,
+      "x": 0.1474055682594558,
+      "y": 0.9548649568863979
+    },
+    {
+      "confidence": 1,
+      "height": 0.020717484610421333,
+      "text": "(Strychneae)",
+      "width": 0.1133898076093579,
+      "x": 0.14736492416398655,
+      "y": 0.9329552113830979
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02331349206349198,
+      "text": "Strychnos łoxifera Bentham.",
+      "width": 0.25854701272947794,
+      "x": 0.3739316192549192,
+      "y": 0.030505952593909647
+    }
+  ],
+  "text": "Loganiaceae\n(Strychneae)\nStrychnos łoxifera Bentham.",
+  "output_sha256": "114950f8b279ae8bcfa1b5377e5438785d63864463d7450c232ecd2576a77db5",
+  "receipt_sha256": "2cfe9119b05d97e624586293a3376db399008c05cd995c65468e80446e8415f1"
+}

@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 517,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "cc0bc1916a976336bfb5df157ab78a4cd6547b99efb44ee2d7501007dfa13f1a",
+  "render_dpi": 144,
+  "render_sha256": "06c9e917152ee7b020b9c75a63a666f727dae3e37e2f7097023d0065e69e9429",
+  "input_sha256": "06c9e917152ee7b020b9c75a63a666f727dae3e37e2f7097023d0065e69e9429",
+  "render_pixel_width": 5966,
+  "render_pixel_height": 8282,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.705,
+  "embedded_character_count": 121,
+  "ocr_character_count": 52,
+  "ocr_alpha_ratio": 0.8077,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.0203488365052239,
+      "text": "Urticaceae",
+      "width": 0.08669354567514631,
+      "x": 0.39112903278742683,
+      "y": 0.963662791253202
+    },
+    {
+      "confidence": 1,
+      "height": 0.019048106102716345,
+      "text": "(Artocarpeae)",
+      "width": 0.10489167983210118,
+      "x": 0.38102190070900305,
+      "y": 0.938877109719261
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "71",
+      "width": 0.01814516056996074,
+      "x": 0.830645161469052,
+      "y": 0.030523255917298764
+    },
+    {
+      "confidence": 1,
+      "height": 0.02325581368945895,
+      "text": "Castilloa elastica Cerv.",
+      "width": 0.20362902344422568,
+      "x": 0.39112903496807533,
+      "y": 0.01453488385294488
+    }
+  ],
+  "text": "Urticaceae\n(Artocarpeae)\n71\nCastilloa elastica Cerv.",
+  "output_sha256": "f9e51b18e91dc1c654f10b77765c3a546b7b9ecf4f33c13490d8d0d1248d50f4",
+  "receipt_sha256": "46afbdee9b11eda344809b55092b8c0594e782d4691652aea0aaddedcd62118a"
+}

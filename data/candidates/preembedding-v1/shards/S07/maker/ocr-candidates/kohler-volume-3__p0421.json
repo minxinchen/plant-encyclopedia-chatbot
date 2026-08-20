@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 421,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "28faa0ff3639c5a4a4c9eaca0c70706b1c5bc2121c23cffc2621930f149e5ad7",
+  "render_dpi": 144,
+  "render_sha256": "b4127d9938dd8c2839c51af46dba0e9a8039230e1565b40dc1b01d98581be5c9",
+  "input_sha256": "b4127d9938dd8c2839c51af46dba0e9a8039230e1565b40dc1b01d98581be5c9",
+  "render_pixel_width": 5486,
+  "render_pixel_height": 8030,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.154,
+  "embedded_character_count": 69,
+  "ocr_character_count": 42,
+  "ocr_alpha_ratio": 0.8333,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01889534791310632,
+      "text": "Umbelliferae",
+      "width": 0.10191082781388894,
+      "x": 0.7728237782798921,
+      "y": 0.9593023259998422
+    },
+    {
+      "confidence": 1,
+      "height": 0.02215330941336502,
+      "text": "(Cumineae)",
+      "width": 0.09571212746408408,
+      "x": 0.7748615588956825,
+      "y": 0.9358710198956223
+    },
+    {
+      "confidence": 1,
+      "height": 0.024824659029642704,
+      "text": "Cuminum Cyminum I.",
+      "width": 0.18683651950432006,
+      "x": 0.3779193200779885,
+      "y": 0.021802325397487055
+    }
+  ],
+  "text": "Umbelliferae\n(Cumineae)\nCuminum Cyminum I.",
+  "output_sha256": "9141552bd5c4996a65ca601634c70d85efab1d8724c676883613a9e0a8879ce8",
+  "receipt_sha256": "af4fa8334cab407e509b3475b0a5c3d2b158cb4a7e2f351c0c3c42f7177acbaf"
+}

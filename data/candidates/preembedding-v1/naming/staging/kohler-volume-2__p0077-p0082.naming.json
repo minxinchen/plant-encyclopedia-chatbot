@@ -1,0 +1,227 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-2:p0077-p0082",
+  "owner_shard": "S03",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S03/maker/structure-drafts/kohler-volume-2__p0077-p0082.json",
+  "source_draft_sha256": "be19966a7dc9cccd7f09156a3da6526e9645be75a88a62c7cd23dbd466feef64",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "22768b9afd40ad33a171cb9d0e5501cfe27044e0df74c05de46891f5e8778bbc",
+    "validation_check_sha256": "7fb4cf97b617c3f98a8821a1fa2b2338768fcf801bad5aaf6eaddd3b805f4afb",
+    "source_disposition_sha256": "c1f53580129c46be2266f10e06f95e485a46f261ccec423154298bfcfa6666dc",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Carum Carvi",
+    "authorship_candidate": null,
+    "aliases_candidates": [
+      "Aegopodium Carum",
+      "Ligusticum Carvi",
+      "Seset Carum",
+      "Apium Carvi",
+      "Bunium Carvi"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Carum Carvi",
+      "Carum carvi"
+    ],
+    "accepted_scientific_name": "Carum carvi",
+    "display_name_zh_tw": "葛縷子",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": null,
+    "rationale": "Tai2 exactly lists the book binomial as a main name or synonym and links it to this accepted species page.",
+    "checked_at": "2026-08-13T13:31:04+08:00",
+    "tai2_code": "999 990 553 5",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "tai2"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Carum Carvi",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Carum+Carvi",
+      "retrieved_at": "2026-08-13T13:30:58+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Parum",
+          "matched_name_id": 15740,
+          "taxon_id": "t0014233",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Parum",
+          "accepted_name_id": 15740,
+          "accepted_usage": [
+            {
+              "usage_id": 21337,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": null
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0014233",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0014233",
+          "taxon": {
+            "taxon_id": "t0014233",
+            "taxon_status": "accepted",
+            "name_id": 15740,
+            "simple_name": "Parum",
+            "name_author": null,
+            "rank": "Genus",
+            "common_name_c": null,
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": null,
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Carum carvi",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Carum+carvi",
+      "retrieved_at": "2026-08-13T13:30:58+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Aegopodium carum",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Aegopodium+carum",
+      "retrieved_at": "2026-08-13T13:30:59+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Ligusticum carvi",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Ligusticum+carvi",
+      "retrieved_at": "2026-08-13T13:30:59+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Seset carum",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Seset+carum",
+      "retrieved_at": "2026-08-13T13:30:59+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Apium carvi",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Apium+carvi",
+      "retrieved_at": "2026-08-13T13:30:59+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Bunium carvi",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Bunium+carvi",
+      "retrieved_at": "2026-08-13T13:30:59+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Carum carvi",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Carum%20carvi",
+      "retrieved_at": "2026-08-13T13:31:04+08:00",
+      "exact_result_count": 1,
+      "exact_results": [
+        {
+          "name": "<em>Carum</em> <em>carvi</em> L.",
+          "ebooksearch": "Carum carvi",
+          "simnametitle": "<em>Carum</em> <em>carvi</em>",
+          "type": "M",
+          "code": "999 990 553 5",
+          "apgfamily": "Apiaceae",
+          "chapgfamily": "繖形科",
+          "family": "Apiaceae",
+          "chfamily": "繖形科",
+          "genus": "Carum",
+          "chgenus": "葛縷子屬",
+          "fern": "no",
+          "chname": "葛縷子",
+          "comname": "",
+          "comtype": "",
+          "endetype": "Non-Taiwanese",
+          "result_type": "species"
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "species_url": "https://tai2.ntu.edu.tw/species/999%20990%20553%205",
+      "accepted_species_record": {
+        "name": "<em>Carum</em> <em>carvi</em> L.",
+        "ebooksearch": "Carum carvi",
+        "simnametitle": "<em>Carum</em> <em>carvi</em>",
+        "type": "M",
+        "code": "999 990 553 5",
+        "apgfamily": "Apiaceae",
+        "chapgfamily": "繖形科",
+        "family": "Apiaceae",
+        "chfamily": "繖形科",
+        "genus": "Carum",
+        "chgenus": "葛縷子屬",
+        "fern": "no",
+        "chname": "葛縷子",
+        "comname": "",
+        "comtype": "",
+        "endetype": "Non-Taiwanese"
+      },
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

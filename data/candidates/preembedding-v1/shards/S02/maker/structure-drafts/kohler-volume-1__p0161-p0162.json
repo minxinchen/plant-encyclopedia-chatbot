@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0161-p0162",
+  "owner_shard": "S02",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 133.443,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0161-p0162",
+    "book_taxon": {
+      "scientific_name_candidate": "Lavandula vera",
+      "authorship_candidate": "D. C.",
+      "aliases_candidates": [
+        "L. officinalis Chaix",
+        "L. angustifolia Ehrh. (Moench)",
+        "L. Spica a. L.",
+        "L. Spica Lois.",
+        "L. vulgaris a. Lam.",
+        "L. pyrenaica D. C."
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "description",
+        "pdf_page": 161,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "30-60公分高，短毛半灌木，莖彎曲堅硬，枝條四棱形，幼時灰白色具星狀毛，老時無毛。",
+        "warnings": [],
+        "source_line_range": [
+          10,
+          13
+        ],
+        "exact_source_quote": "                                                Centimeter hoher, kurzhaariger Halbstrauch, dessen krummer,\nderbholziger, bis 6 Centimeter (in den Garten bis 1 Meter) langer Stamm viele, meist einfache,\nvierkantige, am Grande beblatterte, unter der Bliithenahre blattlose, ruthenformige                                 in der Jugend\n                                                                                                                      ,"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 161,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分佈於西地中海乾燥貧瘠山坡：義大利、科西嘉、南法、東西班牙及北非。常作藥用栽培。",
+        "warnings": [],
+        "source_line_range": [
+          80,
+          83
+        ],
+        "exact_source_quote": "           Verbreitung.           An trocknen, unfruchtbaren Hangen des westlichen Mittelmeergebietes                           :   Italien,\nCorsika, Sudfrankreich, Ostspanien, Nordafrika. Zu medizinischen Zwecken (bis nach Norwegen) haufig\nin Garten kultivirt und daraus hie und da verwildert.   Als Handelspflanze wird der Lavendel in ziem-\nlicher Menge in England angebaut.     In Sudfrankreich 1500 Meter in die Bergregionen emporsteigend."
+      },
+      {
+        "section_type": "flowering",
+        "pdf_page": 161,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "在德國與法國，花期為七月及八月。",
+        "warnings": [],
+        "source_line_range": [
+          85,
+          85
+        ],
+        "exact_source_quote": "           Bltithezeit.        In Deutschland und Frankreich Juli und August."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 161,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "萼片肋由13個平行維管束構成，凹陷處具透明白色薄壁組織及大型腺體，類似百里香。",
+        "warnings": [],
+        "source_line_range": [
+          87,
+          90
+        ],
+        "exact_source_quote": "          Anatomisclies : Die Rippen des Kelches werclen durch 13 parallel laufende Gefassbiindel gebildet, von\ndenen 3 in den hervortretenden, gerundeten blauen Zahn laufen und 4, sammt dem umgebenden Parenchym am Kelch-\nrande hervortreten und gewissermassen 4 Zahne bilden. Die Vertiefungen zwischen den Rippen bestehen aus einer\ndurchscheinenden Parenchymschicht, welche mit sehr grossen und zahlreichen Driisen vom Charakter der Blatt- unci"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 162,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史用途：外用治風濕與癱瘓；精油內服治偏頭痛與神經興奮；亦用於香水及薰香。",
+        "warnings": [
+          "Historical medical content described as historical, not advice."
+        ],
+        "source_line_range": [
+          57,
+          61
+        ],
+        "exact_source_quote": "              Anwendung.  Lavendel findet fast nur ausserlich Anwendung zu Bahungen, Umschlagen und\nBadern bei Rheumatismus und Lahmungen.         Das Lavendelol gehort zu den stark toxisch wirkenden\nOelen; es wird innerlich bei Migrane und nervoser Aufregung benutzt und wird des angenehmen\nGeruchs wegen vielfach zur Darstellung von Parfumerien verwendet. Mit Benzoe und anderen Harzen\ndienen die Lavendelbliithen zur Herstellung verschiedener Raucherpulver."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 162,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含揮發油與鐵綠色單寧。德國鮮花含油量達1.5%，英國1.2-1.6%，南法乾花約3%。",
+        "warnings": [],
+        "source_line_range": [
+          30,
+          33
+        ],
+        "exact_source_quote": "          Bestandtheile. Aetherisches Oel, eisengrunender Gerbstoff. Das in den Driiscn enthaltene\n Oel wird sowohl aus den Bliithen als Stengeln und Blattern dargestellt, doch ist das Oel der Bliithen\n viel feiner und von angenehmerem Geruche. Frische, deutsche Blumen geben bis 1,5         atherisches Oel;\n                                                                                      °/"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "ec9670036e851fe3b72a8ad3bd29043754fee2a90ca974603552cdae33c80f29"
+}

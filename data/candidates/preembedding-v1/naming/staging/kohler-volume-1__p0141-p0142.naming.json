@@ -1,0 +1,150 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-1:p0141-p0142",
+  "owner_shard": "S02",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S02/maker/structure-drafts/kohler-volume-1__p0141-p0142.json",
+  "source_draft_sha256": "8d90f98d10dd72a22f08b1bae41ba89817112b89b917d34c44f9332d1fe87ad2",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "4c50e064b3c74d08d66188b6b8bb3fbd4558dc77e764474503789253b8b2cd3c",
+    "validation_check_sha256": "f43899ce5ae31d17176832d41c2dff1b5f3fe9d3fec66ba14ff9a7e80f02080a",
+    "source_disposition_sha256": "ff5158d2751789aef498a6d30d367dbce2474ef4859226202b682afdb80b9369",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Melilotus officinalis",
+    "authorship_candidate": "Desr.",
+    "aliases_candidates": [
+      "Trifolium Melilotus officinalis a. L.",
+      "Trifolium Petitpierr eanum Hayne",
+      "Melilotus arvensis Wallr.",
+      "Melilotus Petitpierr eanus Willd.",
+      "Melilotus Petitpierr eanus et diffusa Koch.",
+      "Melilotus altissimus Thuill.",
+      "Trifolium Melilotus officinalis y. L.",
+      "Trifolium macrorrhizum W. et K.",
+      "Melilotus macrorrhizus Pers.",
+      "Trifolium officinale Hayne",
+      "Melilotus officinalis Willd."
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Melilotus officinalis"
+    ],
+    "accepted_scientific_name": "Melilotus officinalis",
+    "display_name_zh_tw": "黃香草木樨",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0058517",
+    "rationale": "TaiCOL accepts the queried book binomial at species rank.",
+    "checked_at": "2026-08-13T12:51:25+08:00",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Melilotus officinalis",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Melilotus+officinalis",
+      "retrieved_at": "2026-08-13T12:51:25+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Melilotus officinalis",
+          "matched_name_id": 57841,
+          "taxon_id": "t0058517",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Melilotus officinalis",
+          "accepted_name_id": 57841,
+          "accepted_usage": [
+            {
+              "usage_id": 286782,
+              "reference_id": 3024,
+              "reference_type": "Journal Article",
+              "publish_year": 2022,
+              "citation": "Chang-Yang, C.-H., Su, M.-h., Chiang, P.-H. & Hsieh, C.-F. (2022) Updating the Checklist of the Naturalized Flora in Taiwan. <i>Taiwania</i> 67(1): 1–8.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 179715,
+              "reference_id": 2454,
+              "reference_type": "Book",
+              "publish_year": 2017,
+              "citation": "Ed. Comm. Red List TW Plants,  (2017) The Red List of Vascular Plants of Taiwan, 2017 = 2017 臺灣維管束植物紅皮書名錄.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 276195,
+              "reference_id": 549,
+              "reference_type": "Book Chapter",
+              "publish_year": 1993,
+              "citation": "Huang, T.-C. & Ohashi, H. (1993) 57. Leguminosae. In: Flora of Taiwan, 2 ed., vol. 3. 160–396.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 320669,
+              "reference_id": 9991,
+              "reference_type": "Checklist",
+              "publish_year": 2012,
+              "citation": "Forestry Bureau, C. (2012) 外來入侵植物全國現狀調查計畫（4/4）101年度期末成果報告 = Survery of Invasive Alien Plants in Taiwan (4/4) 2012 Final Report",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 117978,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 41589,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0058517",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0058517",
+          "taxon": {
+            "taxon_id": "t0058517",
+            "taxon_status": "accepted",
+            "name_id": 57841,
+            "simple_name": "Melilotus officinalis",
+            "name_author": "(L.) Lam.",
+            "rank": "Species",
+            "common_name_c": "黃香草木樨",
+            "alternative_name_c": null,
+            "synonyms": "Melilotus altissimus, Medicago officinalis, Melilotus melilotus-officinalis, Melilotus officinalis subsp. officinalis, Trifolium officinale, Melilotus pallidus, Melilotus neglectus, Melilotus arvensis, Melilotus arenarius, Trifolium officinalis",
+            "is_in_taiwan": true,
+            "alien_type": "naturalized",
+            "alien_status_note": "naturalized: Chang-Yang et al., 2022 (Origin: Europe)|naturalized: Ed. Comm. Red List TW Plants, 2017|naturalized: Huang & Ohashi, 1993|naturalized: Forestry Bureau, 2012 (A類歸化植物)|naturalized: 原生於歐洲",
+            "not_official": false,
+            "updated_at": "2026-07-16"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

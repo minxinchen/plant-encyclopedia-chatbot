@@ -1,0 +1,276 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0493-p0494",
+  "entry_id": "kohler-volume-2:p0493-p0494",
+  "owner_shard": "S04",
+  "book_taxon": {
+    "scientific_name": "Abrus preeatorius",
+    "authorship": "L.",
+    "aliases": [
+      "Kranzerbse",
+      "Paternostererbse",
+      "Abrusbohne",
+      "a réglisse",
+      "Réglisse d'Amerique",
+      "Indian Liquorice",
+      "Semen Jequirity"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Abrus preeatorius"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T20:42:51+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Abrus+preeatorius",
+        "query_name": "Abrus preeatorius",
+        "retrieved_at": "2026-08-13T20:42:48+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0033543",
+        "query_name": "Abrus preeatorius",
+        "retrieved_at": "2026-08-13T20:42:48+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0033543",
+        "query_name": "Abrus preeatorius",
+        "retrieved_at": "2026-08-13T20:42:48+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Indian+liquorice",
+        "query_name": "Indian liquorice",
+        "retrieved_at": "2026-08-13T20:42:49+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Semen+jequirity",
+        "query_name": "Semen jequirity",
+        "retrieved_at": "2026-08-13T20:42:49+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 493,
+      "evidence_type": "text",
+      "page_text_sha256": "4acabd7a35d226559393e487bfdae596a6ed3c839f45d14a67f18b40f8f8f7a6",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 494,
+      "evidence_type": "text",
+      "page_text_sha256": "a8acf1626cae6ea65318a443219fc19f7f93e2ebbd6640c61bccdf1bfe102e0d",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0493-p0494:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "            Familie: Leguminosae (Papilionaceae); Unterfamilie: Vicieae;\n                                                                                Gattung: Abrus L.",
+      "normalized_text": null,
+      "zh_tw_rendering": "隕豆科，蝶形花亞科，Vicieae族，Abrus屬。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 493,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 256,
+        "char_end": 426,
+        "page_text_sha256": "4acabd7a35d226559393e487bfdae596a6ed3c839f45d14a67f18b40f8f8f7a6",
+        "exact_text_sha256": "3ba33e1346cd354ee1fa123b1a146b4bb509a002187e82629f3a9f0cdf7602b0",
+        "source_line_start": 5,
+        "source_line_end": 6,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "3ba33e1346cd354ee1fa123b1a146b4bb509a002187e82629f3a9f0cdf7602b0",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0493-p0494:s01:x00",
+      "section_type": "description",
+      "original_text": "            Beschreibung. Ein kleiner holziger Strauch mit windenden Zweige\n                                                                                  n und einer langen, ver-\n   zweigten, gedrehten Wurzel von 12 und mehr Mm. Durchmesser. Sten\n                                                                      gel schlank, cylindrisch, verzweigt,\n  mit einer glatten oder gefurchten, braunen Rinde.      Blätter abwechselnd, kurz gestielt, spreizend,\n  5—15 Ctm. lang, 8—15jochig paarig gefiedert, am Grunde der\n                                                                        Spindel mit kleinen pfriemlichen\n  Afterblüttchen.   Fiederblättchen einander gegenüberstehend, sehr kurz gestielt, 12—20\n                                                                                               Mm. lang,\n  oblong, mit sehr stumpfer, abgestutzter oder etwas ausgerandeter Spit\n                                                                        ze und kleinem Stachelspitzchen,\n  dünn, beiderseits glatt. Blüthen klein, kurz gestielt, in langgest\n                                                                     ielte, blattachselständige Trauben\n  geordnet, mit etwas gebogener Blüthenspindel. Kelch klein, glockenf\n                                                                      örmig, mit 5 sehr seichten Zähnen,\n  häutig, fein behaart. Krone schmetterlingsförmig, rosenroth; Fahne ei\n                                                                            förmig, aufrecht, mit kurzer\n  Klaue (Nagel); Flügel schmal, sichelfórmig oblong; Schiffchen länger al\n                                                                           s die Flügel, mit 2 nicht ver-\n  bundenen Klauen (Nägeln). Staubgefässe 9; die Filamente in eine oben\n                                                                           gespaltene Scheide verwachsen,\n  9 abwechselnd lünger und 4 kürzer. Staubbeutel gleichfórmig. Fruchtkn\n                                                                           oten kurz gestielt, sehr klein,\n  flaumig. Griffel gebogen, kahl; Narbe kopfförmig. Hülse 3 Ctm. und darübe\n                                                                               r lang, breit oblong, kurz\n  geschnäbelt, zusammengedrückt, 2klappig sich óffnend, zwischen den Same\n                                                                               n unvollständig gefüchert.\n  Samen 4—6, kugelig-eifórmig, lebhaft scharlachroth, stark glänzend, ca. 6—\n                                                                                 7 Mm. lang, mit harter\n  äusserer Samenschale und einem grossen schwarzen Flecken am Nabel. Same\n                                                                                     nlappen planconvex.\n  Eiweiss fehlt.",
+      "normalized_text": null,
+      "zh_tw_rendering": "小型木質灌木，莖細長，葉互生羽狀複葉。花小，蝶形，玫瑰紅色。莢果長3公分以上，含4-6顆鮮紅發亮種子，具黑色斑點。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 493,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 427,
+        "char_end": 3225,
+        "page_text_sha256": "4acabd7a35d226559393e487bfdae596a6ed3c839f45d14a67f18b40f8f8f7a6",
+        "exact_text_sha256": "71d6f9296f5f7badb2fdde63986be835bc39898edfe2d36b1df0dd0aba9d720b",
+        "source_line_start": 7,
+        "source_line_end": 38,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "71d6f9296f5f7badb2fdde63986be835bc39898edfe2d36b1df0dd0aba9d720b",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0493-p0494:s02:x00",
+      "section_type": "distribution",
+      "original_text": "           Vorkommen,     In Ostindien einheimisch; gegenwürtig durch fast alle Tropenlünder verbreitet.",
+      "normalized_text": null,
+      "zh_tw_rendering": "原產東印度，現廣泛分佈於熱帶地區。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 493,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3330,
+        "char_end": 3434,
+        "page_text_sha256": "4acabd7a35d226559393e487bfdae596a6ed3c839f45d14a67f18b40f8f8f7a6",
+        "exact_text_sha256": "61af206bdb8c355f020bf55b8d6303fb4d63c839dffdd9a18cfb2b5b18b5a7c7",
+        "source_line_start": 40,
+        "source_line_end": 40,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "61af206bdb8c355f020bf55b8d6303fb4d63c839dffdd9a18cfb2b5b18b5a7c7",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0493-p0494:s03:x00",
+      "section_type": "history",
+      "original_text": "            Name und Geschichtliches, Paternostererbsen, Kranzerbsen, weil die schön ro\n                                                                                            then Samen\n  zu Rosenkränzen und in der Heimath als Halsschmuck verwendet werden. Abru\n                                                                                    s von 08006 zart,\n  zierlich; nach Prosper Alpinus (gest. 1617) ist Abrus der Name der Pflanze in\n                                                                                    Aegypten, woselbst\n  die Samen zu Halsbändern benutzt werden; precatorius von precari beten, wegen der.\n                                                                                         Benutzung der\n  Samen zu Rosenkränzen.\n           Die Pflanze und ihre Wurzel   wird schon im Sanskrit und zwar   in den medizinischen Schriften\n  des Sasruta erwähnt, woraus auf eine uralte Benutzung des Abrus in Indien gesc\n                                                                                        hlossen werden\n  darf. Die Aehnlichkeit der Wurzel mit dem Süssholz ist durch Sloane (1700) nachgewi\n                                                                                          esen worden,\n  welcher die Pflanze mit Phaseolus glycyrrhitis bezeichnete. Ihre Einführung in die Beng. ph.\n                                                                                                erfolgte\n  1844, in die Pharm. of India 1868.      Der Gebrauch der Samen in der Augenheilkunde gehört\n  der Neuzeit an.",
+      "normalized_text": null,
+      "zh_tw_rendering": "種子用於念珠與項鍊。梵文醫書Susruta已有記載。1844年引入孟加拉藥典，1868年入印度藥典。種子用於眼科屬近代。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 493,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3435,
+        "char_end": 4990,
+        "page_text_sha256": "4acabd7a35d226559393e487bfdae596a6ed3c839f45d14a67f18b40f8f8f7a6",
+        "exact_text_sha256": "1ebb839c203c16d2118ee46b68373200b6fc863793cb47d1488eed7d992d02cb",
+        "source_line_start": 41,
+        "source_line_end": 58,
+        "section_index": 3,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "1ebb839c203c16d2118ee46b68373200b6fc863793cb47d1488eed7d992d02cb",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0493-p0494:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "           Bezüglich des Samens und seiner arzneilichen Verwendung, worauf es hier ankommt, hatte\n Herr Professor Husemann die Güte uns folgendes mitzutheilen:\n           „Die Abrussamen sind 1882 von dem Pariser Augenarzte Wecker in die augenärztliche\n Therapie eingeführt worden, weil ein Aufguss derselben im Stande ist, auf der Augenbindehaut eine\n  croupóse Entzündung hervorzurufen, welche die Hornhaut nicht beeinträchtigt und dadurch die unter\n. dem Namen des granulären Pannus bekannte Augenaffektion zur Heilung zu bringen. Die sogenannte\n. Jequirity-Ophthalmie wird dadurch hervorgerufen, dass man die Augen mit einem kalt bereiteten Auf-\n  gusse wiederholt wäscht, und es genügt, die Waschungen 3mal täglich an 3 aufeinanderfolgenden\n  Tagen vorzunehmen.     Wecker lässt 10 Gr. Semen Abri (ohne die Hülse!) mit 500 Gr. Wasser\n  4 Stunden maceriren und filtriren. Diese Form ist die allgemein gebräuchliche und beste.",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：1882年Wecker引入眼科，用種子浸液誘發結膜炎症以治療顆粒性角膜雲翳。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 493,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 5808,
+        "char_end": 6737,
+        "page_text_sha256": "4acabd7a35d226559393e487bfdae596a6ed3c839f45d14a67f18b40f8f8f7a6",
+        "exact_text_sha256": "de6f65da66be1fddb2a010b39d5ff40c5b7129602ea216c03f0efae33d9e6d2e",
+        "source_line_start": 68,
+        "source_line_end": 77,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "de6f65da66be1fddb2a010b39d5ff40c5b7129602ea216c03f0efae33d9e6d2e",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0493-p0494:s05:x00",
+      "section_type": "constituents",
+      "original_text": "            „Man führte,       gem äss      den    neu ere n     The ori en     über    Ent zün  dun  g    und    Eit eru ng,     die    Jequ irit y-\nEntzündung zuerst auf Bacillen zurück, welche sich in dem Aufgusse der Paternostererbsen in grosser\nMenge bilden und auch in dem Secrete der hierdurch hervorgerufenen Augenentzündung in grosser\nMenge vorhanden sind. Diese Ansicht fand um so mehr allgemeinen Anklang, als eine aus den Pater\nnostererbsen dargestellte krystallinische Substanz die Entzündung nicht bewirkte. Obschon eine Theil-\nnahme     dies er Baci llen ,   wel che    sich   übr ige ns    auc h   in   Auf güs sen    von    Erb sen   und    and ere n   Hül  sen  frü cht en   -\nbilden, an der Erzeug         ung     der   Aug ene  ntz  ünd  ung    sich    nich t   ganz    best reit en  läss t, ist   doc h   sow  ohl     dies e\nWir  kun g:   als  auc h   die   toxi sche    Wir kun g,     die   sich   z.  B.   bei   dire kter   Ein  spr itz ung    in  die   Ven  en     dur ch\nsofo rtig en   Herz stil lsta nd   zu   erk  enn en    gieb t,   hau pts äch  lic h    auf  eig  ent hüm lic he    Stof fe   zu   bezi  ehen  ,   die\nsich   in   and ere n   Leg  umi nos  en      (mit    Aus  nah  me     von     Rhy  nch osi a     prec  ator ia)     nich t     find en.     Dur  ch\nchemische Untersuchungen ist das merkwürdige Ergebniss zu Tage gekommen, dass das Gift der\nAbrussamen nicht zu den Alkaloiden oder Glykosiden, wie die meisten Pflanzengifte, sondern zu den\nEiweisskörpern gehört und sich somit sehr enge an entzündungerregende thierische Gifte anschliesst,\nindem ja die aktiven Prinzipien des Schlangengiftes (und nach Kobert’s neuesten Untersuchungen\nauch das Spinnengift und das Gift der Ricinusólkuchen, sowie auch das Gift einzelner Pilze) ferment-\nartig wirkende Eiweisskörper sind. Bruylante und Vennemann bezeichnen das von ihnen als\nJequiritine genannte Prinzip als ein bei der Keimung sich bildendes, bei Erhitzen auf 65° inaktiv\nwerdendes, in einem Macerate aus Jequiritipulver nicht entstehendes, stickstoffhaltiges Ferment, welches\n(ohne Beziehung zu Bakterien) schon zu !/,,—!/;oo Mgr. am Kaninchenauge und zu 1—11/, Mgr.\nam Menschenauge Entzündung hervorruft und das durch die Erzeugung von lokalem hämorrhagischen\nOedem bei Subcutanapplication und einer mit starkem Blutergusse verbundenen Entzündung des Darmes\nbei direkter Einführung in das Blut sich den oben angeführten Eiweissstoffen auf das engste an-\nschliesst. Auch Warden und Waddell kamen zu dem Schluss, dass das Abrusgift, welches sie\nAbrin nannten, und auch in dem Stamme und in der Wurzel nachwiesen, zu den Proteiden gehöre.\nDie neueste Arbeit von Martins zeigt, dass ähnlich wie das Schlangengift, auch das Abrusgift nicht\nein einziger Eiweisskörper ist, sondern aus Abrusparaglobulin und Abrusalbumose besteht. Das erstere\nlöst sich in 15%, Kochsalzlösung und coagulirt durch Hitze bei 75—80°; aus seinen Lösungen wird\nes durch Sättigung mit Natriumchlorid und Magnesiumsulfat gefällt. Die Albumose löst sich in\nWasser, wird nicht durch Siedehitze gefällt, wohl aber durch Salpetersäure (der Niederschlag löst sich\nbeim Erwärmen) und färbt sich mit Kupfervitriol und kaustischem Kali hellroth. Beide bewirken\nschon in sterilisirten Lösungen Augenentzündung und in grösseren Dosen subcutan Vergiftung. Das\nParaglobulin ist 6mal giftiger als die Albumose. Erhitzen schwächt die Wirkung beider Körper ab;\nzwischen 75—80° wird die des Paraglobulins, bei 85° die der Albumose völlig aufgehoben.“ Siehe",
+      "normalized_text": null,
+      "zh_tw_rendering": "毒素為蛋白質（Abrin），非生物鹼或糖苷。含Abrusparaglobulin與Abrusalbumose，加熱可失活。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 494,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 3505,
+        "page_text_sha256": "a8acf1626cae6ea65318a443219fc19f7f93e2ebbd6640c61bccdf1bfe102e0d",
+        "exact_text_sha256": "9c34dcb247dc9ca1dd70170456cf28c8a8c5811b0cce6dd57d3894306c54c4b5",
+        "source_line_start": 1,
+        "source_line_end": 33,
+        "section_index": 5,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "9c34dcb247dc9ca1dd70170456cf28c8a8c5811b0cce6dd57d3894306c54c4b5",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "780435bb45634e2be8ac15e2953fda02a97d067c3f54923480e8b4c66a7c85b7",
+    "maker_receipt_sha256": "f59c076730ed2ccd602dc72f25da48120fbee1f5cd2bfaf8134f7e7769e1da89",
+    "validation_check_sha256": "6159258f6f3f11c5507d0626099d38b35fd0116581b6e64b610d8bb5deb6a3f7",
+    "source_disposition_sha256": "f416a800dea7cc392444083ca6df4854cab8f4c0218c47c69340143df1acb693",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "f59c076730ed2ccd602dc72f25da48120fbee1f5cd2bfaf8134f7e7769e1da89",
+      "validation_check_sha256": "6159258f6f3f11c5507d0626099d38b35fd0116581b6e64b610d8bb5deb6a3f7",
+      "source_disposition_sha256": "f416a800dea7cc392444083ca6df4854cab8f4c0218c47c69340143df1acb693"
+    },
+    "naming_artifact_sha256": "752d8c4467e1f7cd0f57c93d6f40ecb2e5e66ffdc3f5e85561217a4dc058df14"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "c50cf68556b10c0c4bf4823667828f1fe227497028ed070cf4c6b715a3819120"
+}

@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0499-p0500",
+  "owner_shard": "S04",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 121.691,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0499-p0500",
+    "book_taxon": {
+      "scientific_name_candidate": "Areca Catechu L.",
+      "authorship_candidate": "L.",
+      "aliases_candidates": [
+        "Betel-Palme",
+        "Arekanuss",
+        "Catechu-Palme",
+        "Pinang",
+        "Noix d'Arec",
+        "Betel-Nut Palm"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 499,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Areca Catechu L.，屬棕櫚科，俗稱檳榔或阿勒卡。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          3
+        ],
+        "exact_source_quote": "                                                             Areca Catechu L.\n     Betel-Palme, Arekanuss, Catechu-Palme, Pinang 一                                             Noix d'Arec 一               Betel-Nut Palm.\n            Familie: Palmae (Unterfamilie: Arecineae); Gattung: Areca L."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 499,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "高12-17公尺，莖細長不分枝，葉羽狀，花單性，雌雄同株。",
+        "warnings": [],
+        "source_line_range": [
+          4,
+          14
+        ],
+        "exact_source_quote": "            Beschreibung. Eine 12—17 (auch 19) Mtr. hohe Palme mit schlankem, unverzweigtem\n   '[, Mtr. dickem Stamme und dunkelgrüner Blattkrone Wurzel aus zahlreichen, fingerdicken, ver-\n   worrenen Wurzelfasern zusammengesetzt. Das Holz ist weiss, faserig, in der Jugend schwammig und\n   zähe, im Alter hart und hornartig, ein weiches, weisses, sehr umfangreiches\n                                                                                 Mark einschliessend.\n   Blätter aus 6— 9 endständigen, 1—4 Mtr. langen Wedeln bestehend. Wedel gefiedert, vor der Ent-\n   wickelung hornförmig zusammengerollt. Die einander gegenüberstehenden, etwas verschobenen Fiedern\n   nervig, parallel gefaltet, kahl, die obersten verschmolzen, ihr gestutztes Ende ausgefressen gezähnt;\n   die übrigen lanzettförmig, spitz. Die kahle, unbewehrte Blattspindel etwas zusammengedrückt, eckig\n   gefurcht,      gekielt,      mit     dem     erweiterten      Grunde       den   Stamm       umfassend        und     an demselben      nach     dem\n   Abfallen einen etwas erhabenen Ring zurücklassend.                               Blüthen      eingeschlechtig,          einhäusig,     in einfach"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 499,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "種子胚乳細胞厚壁含蛋白質，遇碘變褐；棕色組織遇鹼變紅，遇鐵變綠。",
+        "warnings": [],
+        "source_line_range": [
+          45,
+          52
+        ],
+        "exact_source_quote": "           Anatomisches. Das weisse hornige Eiweiss des Samens besteht aus grossen, dickwandigen\n  Zellen,      welche    mit     einer       eiweissartigen      Masse     angefüllt    sind,     die sich unter Zusatz von               Jod braun\n  färbt. Die Zellwände sind mit grossen Porenkanälen ausgestattet. Das braune Gewebe, welches den\n  Eiweisskörper durchsetzt, besteht aus dünnwandigen, kleinen Parenchymzellen mit rothbraunem Inhalte.\n  Die dünnen Wände dieser Zellen sind spiralig gestreift und sowohl in dieses Gewebe als auch in das-\n  jenige der braunen Oberfläche des Samens sind feine Spiralgefüsse eingestreut. Sämmtliche braune\n  Zellen färben sich roth bei Behandlung mit Aetzlauge und nehmen grüne Farbe an bei Einwirkung von\n  Eisenchlorid."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 499,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產蘇門答臘群島，現廣泛栽培於東亞熱帶沿海地區。",
+        "warnings": [],
+        "source_line_range": [
+          53,
+          55
+        ],
+        "exact_source_quote": "           Vorkommen.       Wahrscheinlich auf den Sundainseln einheimisch; gegenwärtig in verschie-\n  denen Spielarten durch den ganzen tropischen Theil von Ostasien (Ostindien, Ceylon, Stid-China,\n  indischem Archipel) namentlich in der Nähe der Seeküsten kultivirt."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 500,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史用途：與荖葉、石灰嚼食，視為保健，使口氣清新，染紅口腔。",
+        "warnings": [
+          "Historical medical content described as historical, not advice."
+        ],
+        "source_line_range": [
+          62,
+          75
+        ],
+        "exact_source_quote": "           Anwendung.                           Di e Be te ln üs se   ha be\n                                                                           te Ei  we is sk ör pe r    de s  Sa  me  ns   wi rd  ge  wö hn li ch  in 4  St üc ke\n   wie für uns der Tabak.                       De r ha rt e   ma rm or ir\n                                                 n    Bl at t    de s  Be  te lp fe ff er  s     (P ip er    Be  tl e    L. ,   Ch  av ic  a     Be tl  e    Mi  ch  .)     ge  wi ck el t\n   zerschnitten, getrocknet          ,   in   ei                                                                                                                                ge ka ut .\n                                                            vo n    Mä  nn  er  n     un d     Fr au  en ,     äh nl  ic h     wi e     be i   un  s     de r    Ta  ba k,\n   und mit etwas Catechin un                d    Ka  lk\n                                            ga nz    In di  en ,     de n    ma la  yi  sc he   n    Ar ch ip  el     un d    Sü  d- Ch  in  a     ve  rb re it  et     is t,   er ze ug t\n   Diese Sitte, we   lc  he      du rc h                                                                                                                                   di e   Zä hn  e\n                                                       al s    Ge su  nd he  it     er ha  lt  en d,    ma  ch  t     de n    At   he m      wo  hl ri  ec  he  nd  ,\n    einen starken Speich        el fl us s,    gi lt\n                                            de n    Ga um   en      zi eg  el ro th .      Di  es e    Fä  rb  un  ge  n     we rd  en      be i    de  n    do  rt ig  en      Vö lk er -\n   schwarz, die Li       pp  en     un d\n    schaften für schön gehalten.                                                                                                hn pu  lv  er s       un  d     al s   Ba   nd   wu rm  -"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 500,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "成分含單寧、脂肪、阿勒卡紅素、糖及揮發油。",
+        "warnings": [],
+        "source_line_range": [
+          44,
+          50
+        ],
+        "exact_source_quote": "                                                                   fand      in     den      Arecanüssen:               eisengrünenden                Gerbstoff,          Legumin,\n                  Bestandtheile.                    Morin\n                                      l,   re ic  hl ic h   Fe tt .     Ne ue   re   Un  te  rs uc  hu ng  en     ha be n    53  %    Fe tt ,    30  %,     Em ul  si n,\n  rothe Materie, ätherisches       Oe                                                                                                                                 is t\n                                sä ur e     un d     Ar  ec ar  ot  h     er  ge be n.      De r     ro th e    Fa rb st of f,    da s      Ar  ec  ar  ot   h,\n  Zucker, Gerbs&ure, Ga  ll  us                                                                                                                      üs si  gk ei  te n,\n                                      un  d    Ae th  er ,     lö sl ic h     in   ko  ch en  de  m    Wa  ss  er    un d    al ka li sc he  n    Fl"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "9456ffff437643d3caea12ab27e9eac1b42a5e0a5e77c1efc295ab552b6face9"
+}

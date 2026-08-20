@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "promotion_scope": "naming-eligibility-staging-only",
+  "promoted_at": "2026-08-20T23:01:36+08:00",
+  "source_path": "data/candidates/preembedding-v1/integration-v2/consolidated-embedding-ready-candidate-manifest.json",
+  "target_path": "data/candidates/preembedding-v1/integration/embedding-ready-candidate-manifest.json",
+  "source_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+  "source_content_sha256": "366da989ed0f3593065444fe3fdd819d55ed472100f1c43a7870992c8d1e370b",
+  "previous_content_sha256": "249c43f499e681dc587009bde77e1c12a0ff16fc3fedaed9f0e768888c5c2905",
+  "candidate_count": 274,
+  "validation": {
+    "status": "PASS",
+    "complete": true,
+    "regular_primary_candidates": 231,
+    "continuation_v2_child_candidates": 34,
+    "recovery_v2_candidates": 9,
+    "total_candidates": 274,
+    "unique_entry_ids": 274,
+    "unresolved_content_holds": 0,
+    "errors": []
+  },
+  "canonical_writes": false,
+  "chunk_writes": false,
+  "embedding_calls": false,
+  "index_writes": false,
+  "write_requested": true,
+  "receipt_sha256": "87948ef203a6dca5101a8e8374cddf8077d6949a5317e7bf7f0551d3e438fe61"
+}

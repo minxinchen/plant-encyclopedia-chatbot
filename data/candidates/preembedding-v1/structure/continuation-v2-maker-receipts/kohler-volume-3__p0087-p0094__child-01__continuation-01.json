@@ -1,0 +1,155 @@
+{
+  "schema_version": "2.0",
+  "package_id": "kohler-volume-3:p0087-p0094:child-01:continuation-01",
+  "parent_entry_id": "kohler-volume-3:p0087-p0094",
+  "child_entry_id": "kohler-volume-3:p0087-p0094:child-01",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation-v2:kohler-volume-3:p0087-p0094:child-01:continuation-01:v1",
+  "owner_shard": "S06",
+  "package_sha256": "e92e5d82cd65dcd52abb1f9751fe159a2feae9ae7c64910b1e8e601aa82a82f5",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "prompt_version": "plant-structure-line-coordinates-v2",
+  "attempt_sha256": "b183f0b261586afc5527c25f247d1ad2492d7fdd79b05da0c2ed6acf6d36015b",
+  "raw_response_sha256": "7867f3bbfaa48ae209d502e5c444575853afd190c94560d7cfc3164f6e242341",
+  "elapsed_seconds": 23.709,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 87,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 0,
+      "char_end": 563,
+      "source_line_start": 1,
+      "source_line_end": 9,
+      "page_text_sha256": "622c18ef625054a66e41fae1a65e64b26ecebda64b94f5aaa706f1f4c8d16169",
+      "exact_text_sha256": "db078a0fcc95bcbaea7d406f821c876fdc122849dfae10a794d78476a5bf17e1",
+      "section_index": 0,
+      "section_type": "taxonomy"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 87,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 565,
+      "char_end": 3666,
+      "source_line_start": 11,
+      "source_line_end": 38,
+      "page_text_sha256": "622c18ef625054a66e41fae1a65e64b26ecebda64b94f5aaa706f1f4c8d16169",
+      "exact_text_sha256": "9cd5f3bbeae6c005b8ba5821b6263342dffe37dba4618b6f0333cb2c361e1a32",
+      "section_index": 1,
+      "section_type": "description"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 89,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 938,
+      "char_end": 2486,
+      "source_line_start": 14,
+      "source_line_end": 32,
+      "page_text_sha256": "a761fcd6200e50e8a347b35444a6278b69f87f3576eb8598a30598e6bd094502",
+      "exact_text_sha256": "315fcf14632d9051b42e3c73823cbeaa3653c4bb9107ae0717aba6a5dbd522d3",
+      "section_index": 2,
+      "section_type": "anatomy"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 89,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 2487,
+      "char_end": 4583,
+      "source_line_start": 33,
+      "source_line_end": 53,
+      "page_text_sha256": "a761fcd6200e50e8a347b35444a6278b69f87f3576eb8598a30598e6bd094502",
+      "exact_text_sha256": "95829d998d28e364074a0f5dbf6dbed68882dc076c234d6069ae36769264c9b9",
+      "section_index": 3,
+      "section_type": "harvest"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 92,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 340,
+      "char_end": 2240,
+      "source_line_start": 6,
+      "source_line_end": 27,
+      "page_text_sha256": "65eb9d2d71037f68ad85f04752bf2d298e8249dfeb5a05ffad3d19dc65a51f2d",
+      "exact_text_sha256": "852a5229138d56bf5158f2ff5815b8799630a88aa71273025bd5bafd6fdaf2eb",
+      "section_index": 4,
+      "section_type": "literature"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-3:p0087-p0094:child-01:continuation-01",
+    "parent_entry_id": "kohler-volume-3:p0087-p0094",
+    "book_taxon": {
+      "scientific_name_candidate": "Landolphia comorensis"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 87,
+        "source_line_range": [
+          1,
+          9
+        ],
+        "exact_source_quote": "  Landolphia comorensis (Bojer) K, Schumann var, florida\n                 (Benth.) K. Schumann.\n        Blütenreiche, prächtige Landolphia.  Kautschuk-Liane oder Kirindo                                          der Comoren,\n                                   Voa hine der West-Afrikaner,\n\n               Syn. Landolphia florida Bentham.                Vahea Lam.\n\n           Familie: Apocynaceae.e Unterfamilie: Plumieroideae.                               Sektion:          Arduineae               Trib.:\n  Landolphüinae K. Sch. Gattung: Landolphia Palis.-Beauv."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 87,
+        "source_line_range": [
+          11,
+          38
+        ],
+        "exact_source_quote": "               Beschreibung.         Diese    sehr   lange,     schlanke,         milchende     Liane        ist     eine        Zierde     des\n  tropischen       Afrikas.      Ihr Stamm       erlangt     etwa    30   cm      von   der Wurzel           entfernt          schon      einen\n  Durchmesser           von 20-25 em.         Derselbe kriecht, einer riesigen Boa constrietor nicht unähnlich,\n  oft weite Str eck en auf der Erd e hin, bis er eine n Bau m find et, an dem er emp orr ank en kann .\n  Dann        teilt er sich in mehrere          schlanke     Aste, die bis zum          Gipfel des Baumes                 emporklimmen\n  und von        hier aus     lange hängende,        reich beblätterte Zweige              herabsenden.            Diese,        mit dichten\n  Büscheln       grosser      schneeweisser,      herrlich    nach Jasmin         duftender Blüten       geschmückt,                gleichen\n  prächtigen Gui rla nde n und Fest ons, mit den en der Bau m sein über dies meis t dich tes Lau bda ch\n  noch besonders schmückt.               Junge Zweige sind grün und gefleckt, ältere braun mit zahlreichen\n  Tundlichen        hellgelben      Lenticellen besetzt; alle zerbrechlich und mit porösem Mark erfüllt.\n  In Entfernungen von 20-25 cm ents           tehe n    Kno  ten  ,   an    den en     sich   der    Zwe ig    bis    zu   8    mm\n: verdickt. Daselbst   ende t  der  Trie b  und   gabe  lt   sich    wick elig     in  eine n   stär kere n   Blat  tzwe ig,    und\n  in einen kürzeren beblätterten      Blü  ten zwe ig;     meis  t  find et   sich   auch    in  der   Gab elu ng    eine   klei ne\n  einzelne Blütenrispe. —     Die  Blät ter  sind    gest ielt ,   geg ens  tän dig     in  gek  reu zte n   Paar en,     einf ach,\n  ungeteilt, ganzrandig, kahl. Der Stie         l   ist  bis    10  mm      lang ,   rinn ig,   die   Blat tflä che    bis  zu    14\n  cm     lang und       6—7    cm   breit, an    der Spitze stumpf,         am     Grunde     meist   abgerundet,                daher breit-\n\n  lanzettlich, eilanzettlich oder oval. Die  Blat tllä che   ist  ober seit s  dun kel grü n   glän zend ,  die\n  Unterseite heller; der Rand ist etwas   well ig  und   mit   eine r sehr    sch mal en   hell en  Lini e um-\n  zogen.        Die Nerven       sind beiderseits         hervortretend,       bedeutend      heller als die Blattfläche, der\n  Mittelnerv        mit    einem     scharfen     Kiele     versehen.      Von      dem     letzteren gehen unter Winkeln\n  von    60-—-70°    beiderseits      7—8     unregelmässig         gestellte     Seitennerven        aus,     die        sich     wiederum\n\n  nach dem Rande zu gabeln und mit den vor her geh end en und nac hfo lge nde n Ner ven zus amm en-\n\n  fliessen. Die stärkeren Adern bilden     mit  den    Sei ten ner ven    wie   der um    Win kel   von    60—  70°\n  und vereinigen sich mit den Adern   des Nac hba rne rve n   in  eine r  sehr   bem  erk  ens wer ten   Zie kza ck\n  linie, welche in der Mitte zwischen   zwei  Ner ven ,  dies en    ung  efäh r   para llel  geri chte t  verl äuft ."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 89,
+        "source_line_range": [
+          14,
+          32
+        ],
+        "exact_source_quote": "       Anatomie. Chimani hat in seiner Arbeit über die Milchsaftröhren auch diejenige\nder Landolphien untersucht. Er kam dabei zu folgendem Resultat bezüglich der Apocyneen\nim allgemeinen und der Gattungen Landolphia und Hancornia im besonderen:\n               1. Die Apocyneen haben ungegliederte Milchröhren.\n               2. Die Milchschläuche sind segmentiert; sie bilden kürzere oder längere Zellen,\n                  deren Enden genau aufeinander passen, manchmal an der Berührungsstelle ein-\n                  geschnürt sind, aber sich niemals nebeneinander verschieben.\n               =” Landolphia       und       Hancorniaarten    zeigen     eine partielle    Obliteration       der Milchsaft-\n                  schläuche.           Die    Markscheide      zeigt    hier    grosse     Lücken,      um      welche       sich\n                  die    Milchschläuche         herumziehen.       Beide       Gattungen     sind    reich     an    Gerbstoff-\n                  schläuchen.\n               4. Die Durchmesser             der Milchsaftröhren       betragen   bei:\n                 Dandolphia florida           1210995         mmerdiekerZweise\n                       x     Heudelotii       19       0   3’ ame,         5\n                       4     Kirkii               De   Ve yo nr            ei\n                       Er    madagascariensis        VEREINE         FE     5\n                       a     owariensis       ZIP      INN ONE.            ä\n                       E     Petersian«       25—5— 7 „=3     mm     ,„    h;\n"
+      },
+      {
+        "section_type": "harvest",
+        "pdf_page": 89,
+        "source_line_range": [
+          33,
+          53
+        ],
+        "exact_source_quote": "          Produkte. Die Arten der Gattung Landolphia haben sämtlich einen an Kautschuk\nreichen Milchsaft. Aus ihm gewinnt man den afrikanischen Kautschuk, und zwar je nach dem\nVorkommen der einzelnen Arten, den Kauts chuk von Madagaskar von Landolphia\ngummifera (Lam. & Poir) K. Sch., den ostafrikanischen von L. Kirkü Dyer, L. Petersiana\n(Klotzsch), Dyer, Z. comorensis (Boj.) var. florida (Benth.) K. Sch.; den westafrikanischen von\nL.; comorensis var. florida (Benth.) K. Sch., L. owariensis Pal. Beauv., L. Petersiana (Klotzsch)\nDyer und Z. Heudelottii A. DC.\n        Die Bereitung des Kautschuks ist in allen Gegenden Afrikas nahezu die gleiche.\nAlle Teile der Landolphien sind reich an Milchsaft. Beim Verwunden der Bäume fliesst er\naus,   aber    in den meisten          Fällen   erhärtet   er sehr schnell       an der Luft und überzieht               die ver-\nwundete Stelle          mit    einer    undurchlässigen Haut,           die das weitere Nachströmen                 des Saftes\nverhindert.      —      Am    ostafrikanischen     Festlande    wird     daher in einigen      Fällen        zwar    die Milch\naufgefangen und durch Zusatz von 3°/, Ammoniak                           flüssig erhalten     und dann         in der Hitze\noder   durch     Zusatz       von Salzwasser      aus   derselben der Kautschuk abgeschieden;                 in den meisten\nGegenden aber benutzt man gerade das schnelle Erhärten der Lianenmilch.                               Nachdem die Liane\nangeschnitten        ist, lässt der Sammler         die ersten Mengen der austretenden Milch auf seine Arme\nfliessen und dort eoagulieren. Die erhärteten Massen werden auf einen Stock gesteckt und darauf\nwerden die halb erhärteten oder noch flüssigen Teile des Saftes unter Drehen des Stabes auf-\ngewickelt. — Der erhärtete Saft wird dann in Formen gebracht, und zwar der durch Hitze coagu-\nlierte in „balls“ von der Grösse einer Orange (mpira nkuba der Eingeborenen) und der durch Er-\n                                                                                                                    13"
+      },
+      {
+        "section_type": "literature",
+        "pdf_page": 92,
+        "source_line_range": [
+          6,
+          27
+        ],
+        "exact_source_quote": "         Litteratur. Beschreibung und Abbildungen.  Zandolphia.. A. DC., Prodrom. VII. 320.\nBentham & Hooker, Genera Plant. II. 692. 7. K. Schumann in Engler & Prantl, Pflanzen-\nfam. IV. (2) 128. Syst. Bot. 474. Oliver & Hooker, Icones t. 1228. Botan. Mag. t. 6963.\nKew. Rep. 1880. 38. Walp. Ann. II. 29. Karsten, Flora von Deutschl. I. 616. Luerssen,\nMed.-ph. Bot. 1061. Vahea. Kosteletzki, Med. Pharm. Flora IH. 1065. Henkel, Botan.\n153. Klotzsch, Pl. tinn. t. 13. Blume, Mus. bot. Lugd.-bat. I. 150. Baillon, Tr. de Bot.\nmed.-pharm. 1275. Hist. des Pl.X. 175. Landolphia ovariensis. Palisot de Beauvois, Flore\nd’Oware t. 34. S. 55. .L. Kirkü. Engler & Prantl, Pf.-Fam. IV. (2) 128, Fig. 50 A. C. E.\nL. comorensis var. florida K. Sch. Engler & Prantl, 1: c. IV (2) 128, Fig. 50 B. und 129, Fig. 51.\nChristy,           New.-Commere.              Pl.     I p. 8.         de     Wewre,                    les     Cautchoucs           africains.        Bruxelles,\nHayez Ann. Soc. Sc. de Bruxelles tome XIX, part. II. 1895.                                                           L. gummifera (Lam. & Poir) K.\nSch.        Lam.     t. 169.      Baillon,          Histoire    des Pl.X.         Fig. IH.                   112.      De    Wewre,         l. c.\n\n       Hancornia speciosa Gomez. Gomez Obs. bot. med. pl. bras. in Act. Acad. olyss. 1821.\nN        DC., Prodrom. VII. 325. Bent &       hHoaok\n                                                   m er, Genera Plant. II 693 n. 9. J. Müller\nArg. in Martius flora bras. VI. 23. t. 8. Kosteletzki,,l. ec... 1070. Henkel Bor 153\nKarsten, 1. c. II. 616. K. Schumann in Engler & Bransl, 1» e. 12V...) 182, re 1er\n             Anatomie.         Chimani,           Bot. Zentralblatt            1895.              Arch.             Pharm.      233     (1835),8.,258.           —\nInaug. Diss.         1895.     43 und      f. —      Hancornia         45.\n\n"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "97949363e284d724f9759300ddf484d437717f9af6290c53346fafb38a417e46"
+}

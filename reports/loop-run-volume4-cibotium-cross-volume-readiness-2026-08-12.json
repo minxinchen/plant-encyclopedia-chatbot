@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "run_id": "volume4-cibotium-cross-volume-readiness-2026-08-12",
+  "started_at": "2026-08-12T12:30:00+08:00",
+  "finished_at": "2026-08-12T12:40:00+08:00",
+  "status": "approved",
+  "cost": {
+    "incremental_usd": 0,
+    "paid_fallback_used": false,
+    "external_model_calls": 1,
+    "batch_embed_items": 11
+  },
+  "input": {
+    "source_id": "kohler-volume-4",
+    "record_id": "cibotium-barometz",
+    "pdf_pages": [30, 31, 32],
+    "taiwan_display_name": "金狗毛蕨",
+    "name_authority": "https://taicol.tw/zh-hant/taxon/t0026463",
+    "occurrence_source": "https://tai2.ntu.edu.tw/species/113%20001%2001%200"
+  },
+  "stages": [
+    {
+      "name": "bounded_source_ranges",
+      "status": "passed",
+      "checks": [
+        "The batch is exactly three adjacent PDF pages.",
+        "PDF page 31 retains only the image-adjudicated distribution range; scrambled history and medicinal text are excluded.",
+        "PDF page 32 retains only the approved opening anatomy passage about Cibotium barometz and Penawar Djambi.",
+        "Taiwan naming and occurrence metadata remain separate from book facts."
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "embedding_and_retrieval",
+      "status": "passed",
+      "checks": [
+        "One Gemini Free Tier request embedded six candidate chunks and five queries.",
+        "Pure semantic and hybrid retrieval ranked PDF page 32 first for Traditional Chinese and English Penawar Djambi questions.",
+        "The distribution question ranked the approved PDF page 31 range first.",
+        "Chromosome and Cibotium taiwanense wrong-name questions were refused by the exact book-term gate."
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "four_volume_main_index_and_chat",
+      "status": "passed",
+      "checks": [
+        "The main index contains 31 approved children across 15 parent pages and 15 approved query vectors.",
+        "All four bounded volume fixtures pass bilingual retrieval and absent-evidence refusal regression.",
+        "The deterministic chat API passes 28 cases, including Cibotium Taiwan-name metadata and wrong-name protection.",
+        "The Classic Gem evidence pack still contains all four approved records."
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "portable_n8n_and_readiness",
+      "status": "passed",
+      "checks": [
+        "PEHybridIdx001 replays all four canonical packages and validates the new Cibotium fixture without model calls.",
+        "The imported n8n 2.12.3 workflow remains inactive and its SQLite integrity check is ok.",
+        "Cross-volume deterministic validation marks the system ready only for a first bounded production-batch proposal.",
+        "n8n and Qwen remain stopped."
+      ],
+      "retry_target": null
+    }
+  ],
+  "review_summary": {
+    "passed": 4,
+    "failed": 0,
+    "verdict": "promote",
+    "readiness": "ready_for_first_bounded_production_batch_proposal",
+    "warnings": [
+      "No volume is fully reviewed.",
+      "The 512/100 profile is a portable contract, not universally better than page baselines.",
+      "Volume 2 still depends on hybrid term gating for the approved toxicity question.",
+      "Image reasoning remains disabled and requires a separate visual-grounding batch."
+    ]
+  }
+}

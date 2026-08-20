@@ -1,0 +1,63 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.ai-workstation/schemas/plant-loop-run.schema.json",
+  "title": "Plant encyclopedia review loop run",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "run_id", "started_at", "finished_at", "status", "cost", "input", "stages", "review_summary"],
+  "properties": {
+    "schema_version": {"const": "1.0"},
+    "run_id": {"type": "string", "minLength": 1},
+    "started_at": {"type": "string", "format": "date-time"},
+    "finished_at": {"type": "string", "format": "date-time"},
+    "status": {"enum": ["approved", "needs_review", "failed"]},
+    "cost": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["incremental_usd", "paid_fallback_used"],
+      "properties": {
+        "incremental_usd": {"type": "number", "maximum": 0},
+        "paid_fallback_used": {"const": false}
+      }
+    },
+    "input": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["pages_file", "name_file", "page_count", "taxon_count"],
+      "properties": {
+        "pages_file": {"type": "string"},
+        "name_file": {"type": "string"},
+        "page_count": {"type": "integer", "minimum": 1},
+        "taxon_count": {"type": "integer", "minimum": 1}
+      }
+    },
+    "stages": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["name", "attempt", "status", "tool", "checks", "retry_target"],
+        "properties": {
+          "name": {"type": "string"},
+          "attempt": {"type": "integer", "minimum": 1, "maximum": 3},
+          "status": {"enum": ["passed", "needs_review", "failed", "skipped"]},
+          "tool": {"type": "string"},
+          "checks": {"type": "array", "items": {"type": "string"}},
+          "retry_target": {"type": ["string", "null"]}
+        }
+      }
+    },
+    "review_summary": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["passed", "needs_review", "failed", "warnings"],
+      "properties": {
+        "passed": {"type": "integer", "minimum": 0},
+        "needs_review": {"type": "integer", "minimum": 0},
+        "failed": {"type": "integer", "minimum": 0},
+        "warnings": {"type": "array", "items": {"type": "string"}, "uniqueItems": true}
+      }
+    }
+  }
+}

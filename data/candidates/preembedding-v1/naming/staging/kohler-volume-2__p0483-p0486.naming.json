@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-2:p0483-p0486",
+  "owner_shard": "S04",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S04/maker/structure-drafts/kohler-volume-2__p0483-p0486.json",
+  "source_draft_sha256": "742a5f1c80bd0750ce930ae268bed7c0342d861e120f483b6a9d5f375f8076bb",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "9ccd3e3dd7b0f24b24dceef80298057edcb6d3aab8ca3002e47422dee9fa59bc",
+    "validation_check_sha256": "6236a94520a9d15fd8513b21cb8190ecfb00cbe78f970fcd7ddc1356146a29f2",
+    "source_disposition_sha256": "693f78a11da18eb7d0d31c0b6869ec6a2ea5fe704616a849f42885d8b0bc898e",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Alpinia offieinarum",
+    "authorship_candidate": "Hance",
+    "aliases_candidates": [
+      "Alpinia Galanga Sw. (Willd)",
+      "Maranta Galanga L.",
+      "Rhizoma Galangae",
+      "Radix Galangae minoris"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Alpinia offieinarum",
+      "Alpinia galanga"
+    ],
+    "accepted_scientific_name": "Alpinia galanga",
+    "display_name_zh_tw": "高良薑",
+    "alternative_names_zh_tw": [
+      "紅荳蔻",
+      "良薑",
+      "大良薑",
+      "蠻薑",
+      "南薑"
+    ],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0033716",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol_book_alias"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary",
+    "rationale": "A scientific alias explicitly printed in the Köhler entry exactly matches a TaiCOL species with a Taiwan public name.",
+    "checked_at": "2026-08-13T20:32:20+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Alpinia offieinarum",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Alpinia+offieinarum",
+      "retrieved_at": "2026-08-13T20:32:20+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Alpinia galanga",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Alpinia+galanga",
+      "retrieved_at": "2026-08-13T20:32:20+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Alpinia galanga",
+          "taxon_id": "t0033716",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Alpinia galanga",
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0033716",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0033716",
+          "taxon": {
+            "taxon_status": "accepted",
+            "simple_name": "Alpinia galanga",
+            "name_author": "(L.) Willd.",
+            "rank": "Species",
+            "common_name_c": "高良薑",
+            "alternative_name_c": "紅荳蔻,良薑,大良薑,蠻薑,南薑",
+            "synonyms": "Alpinia alba, Languas pyramidata, Languas vulgare, Zingiber galanga, Languas galanga, Hellenia alba, Amomum galanga, Alpinia galanga var. pyramidata, Zingiber medium, Maranta galanga, Heritiera alba, Galanga officinalis, Galanga major, Amomum medium, Alpinia viridiflora, Alpinia rheedei, Alpinia pyramidata, Alpinia carnea, Alpinia bifida",
+            "is_in_taiwan": true,
+            "alien_type": "naturalized",
+            "alien_status_note": "naturalized: Chang-Yang et al., 2022|naturalized: Ed. Comm. Red List TW Plants, 2017|naturalized: 原生於南亞",
+            "not_official": false,
+            "updated_at": "2026-04-29"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "The Taiwan accepted name is linked through a scientific alias printed in Köhler; Köhler facts remain attached to the book taxon."
+  ]
+}

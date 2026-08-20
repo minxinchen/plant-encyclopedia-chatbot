@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 483,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "d2e29fa88629649d9046f08d1f63206768be43251575a5f8b70c780fdd7a01b2",
+  "render_dpi": 144,
+  "render_sha256": "b25139df03f0abc058c876ee740db52a293e7008eb489fef5c1f6ee3b0a89041",
+  "input_sha256": "b25139df03f0abc058c876ee740db52a293e7008eb489fef5c1f6ee3b0a89041",
+  "render_pixel_width": 5186,
+  "render_pixel_height": 7814,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.344,
+  "embedded_character_count": 68,
+  "ocr_character_count": 41,
+  "ocr_alpha_ratio": 0.8049,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.022326791097247445,
+      "text": "Compositae",
+      "width": 0.10527769581975788,
+      "x": 0.8620219827243075,
+      "y": 0.9648540462798809
+    },
+    {
+      "confidence": 1,
+      "height": 0.02034883650522379,
+      "text": "(Inuleae)",
+      "width": 0.08533916844024425,
+      "x": 0.8752735236755744,
+      "y": 0.9404069769266516
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "B",
+      "width": 0.01750547041272904,
+      "x": 0.08752735223346043,
+      "y": 0.20058139553112364
+    },
+    {
+      "confidence": 1,
+      "height": 0.026768892530411037,
+      "text": "Conyza squarosa L.",
+      "width": 0.19493146363217023,
+      "x": 0.4047224507680936,
+      "y": 0.053476018636856804
+    }
+  ],
+  "text": "Compositae\n(Inuleae)\nB\nConyza squarosa L.",
+  "output_sha256": "18a598af1f2aa3221b8e3f2e6c36fa82735263c31066daa82de5e769028547b4",
+  "receipt_sha256": "7e6f4a70956807aadfa62659eb5b3c7f0d115ce39ecbe689a1f7c18e09829c60"
+}

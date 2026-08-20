@@ -1,0 +1,122 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 1,
+  "owner_shard": "S06",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "4fdd1754f39a8e85e16df95db64e558adc45730ca4e62dd14f8f23535d601b89",
+  "render_dpi": 144,
+  "render_sha256": "4de8d845a7a54c26a9944e31dd0ca0d2a2a6efc660f6dc829865778ad8e7c02a",
+  "engine": "Apple Vision VNRecognizeTextRequest accurate",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 60.376,
+  "embedded_character_count": 48,
+  "ocr_character_count": 137,
+  "ocr_alpha_ratio": 0.7956,
+  "candidate_disposition": "candidate_quality_gain",
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.03488371864197748,
+      "text": "Ad S",
+      "width": 0.1023965108962287,
+      "x": 0.8845315919686302,
+      "y": 0.9622093037188784
+    },
+    {
+      "confidence": 1,
+      "height": 0.030523254757835683,
+      "text": "KÖHLER'S",
+      "width": 0.2875816935584659,
+      "x": 0.3006535985003604,
+      "y": 0.6468023258550938
+    },
+    {
+      "confidence": 1,
+      "height": 0.007267442014482262,
+      "text": "INTERNATIONALE",
+      "width": 0.09150326819646926,
+      "x": 0.05010893224163465,
+      "y": 0.5828488371409455
+    },
+    {
+      "confidence": 1,
+      "height": 0.008964344622596876,
+      "text": "ERSTE",
+      "width": 0.043681363264719636,
+      "x": 0.07619853351018484,
+      "y": 0.5914480601711227
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494425,
+      "text": "PHARMACEUTISCHE",
+      "width": 0.10239651089622862,
+      "x": 0.04575163391281529,
+      "y": 0.5712209304701403
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "AUSSTELLUNG",
+      "width": 0.07843136787414552,
+      "x": 0.05882353298376962,
+      "y": 0.5610465117685901
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "WIEN 1883.",
+      "width": 0.058823528743925546,
+      "x": 0.06753812743086945,
+      "y": 0.5523255816093725
+    },
+    {
+      "confidence": 1,
+      "height": 0.049433560598464266,
+      "text": "Medizinal-Pflanzen.",
+      "width": 0.5422100339617048,
+      "x": 0.17564312858518147,
+      "y": 0.5462352897541598
+    },
+    {
+      "confidence": 1,
+      "height": 0.014632936507936511,
+      "text": "Mor Bot, Garten",
+      "width": 0.14379084677923298,
+      "x": 0.3703703730156123,
+      "y": 0.48685515868837614
+    },
+    {
+      "confidence": 1,
+      "height": 0.025112789774697886,
+      "text": "BAND III.",
+      "width": 0.1773244199298677,
+      "x": 0.35905020980521163,
+      "y": 0.4111354655380003
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185932098874,
+      "text": "(Ergänzungsband).",
+      "width": 0.2505446615673247,
+      "x": 0.3180827911299179,
+      "y": 0.38372093082884673
+    }
+  ],
+  "text": "Ad S\nKÖHLER'S\nINTERNATIONALE\nERSTE\nPHARMACEUTISCHE\nAUSSTELLUNG\nWIEN 1883.\nMedizinal-Pflanzen.\nMor Bot, Garten\nBAND III.\n(Ergänzungsband).",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-ocr-sha256=e54202ae838c94203816fd3331f4c37f7acac436188d481eab506c540c3d66d6",
+  "input_sha256": "4de8d845a7a54c26a9944e31dd0ca0d2a2a6efc660f6dc829865778ad8e7c02a",
+  "output_sha256": "feb8fd9d912ec7c8b3617e54bde7c525b1e31007e9e7615384fcdf0060f185d8",
+  "staging_disposition": "candidate_quality_gain",
+  "terminal": true,
+  "receipt_sha256": "57b3933c398a62b0bdc187853be7bffd705c61a61567623871dcff9e3d1f56ab"
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 457,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "17ab226e5844456196a72a602e0623718b19cd453e59cd330f4b20afa2b89381",
+  "render_dpi": 144,
+  "render_sha256": "8b2c59edf5eb9f719a203e163ef06294f8290af49c1ddc9281d2ada8785c391e",
+  "input_sha256": "8b2c59edf5eb9f719a203e163ef06294f8290af49c1ddc9281d2ada8785c391e",
+  "render_pixel_width": 5822,
+  "render_pixel_height": 8342,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.997,
+  "embedded_character_count": 91,
+  "ocr_character_count": 55,
+  "ocr_alpha_ratio": 0.7636,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.021961870647612014,
+      "text": "Papilionaceae",
+      "width": 0.11464548551536413,
+      "x": 0.5999689225295588,
+      "y": 0.9606760416948309
+    },
+    {
+      "confidence": 1,
+      "height": 0.02080119602263919,
+      "text": "(Dalbergieae)",
+      "width": 0.1085060949264558,
+      "x": 0.5999136195701994,
+      "y": 0.9387273087125922
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": ".3",
+      "width": 0.016666665853298387,
+      "x": 0.06875000040668414,
+      "y": 0.32848837230437944
+    },
+    {
+      "confidence": 1,
+      "height": 0.020803286915733743,
+      "text": "Piscidia erythrina I.",
+      "width": 0.17302534134572678,
+      "x": 0.44577899722857717,
+      "y": 0.021575100793718716
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "41",
+      "width": 0.01874999891550888,
+      "x": 0.9125000003599539,
+      "y": 0.020348837420658406
+    }
+  ],
+  "text": "Papilionaceae\n(Dalbergieae)\n.3\nPiscidia erythrina I.\n41",
+  "output_sha256": "1b13bb9c4964d3dfac904eeff17a221360170687130c0153d09dc40c6ee775e3",
+  "receipt_sha256": "645b78b525eafcce46e47b7c39ce755843acc0740f875e1eff848ab5a4f223dd"
+}

@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 297,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "5de2b994a62fa447e1c59b34b8fbca1480c4a60671b3c461b117d2868d07cb5d",
+  "render_dpi": 144,
+  "render_sha256": "664da27de493da44ecc47aaec4094b9c52b9db2e95f91f75a553d67889887d4f",
+  "input_sha256": "664da27de493da44ecc47aaec4094b9c52b9db2e95f91f75a553d67889887d4f",
+  "render_pixel_width": 5534,
+  "render_pixel_height": 7946,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.333,
+  "embedded_character_count": 133,
+  "ocr_character_count": 69,
+  "ocr_alpha_ratio": 0.6377,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.02217175468565924,
+      "text": "Cupuliferae.",
+      "width": 0.1128811089061944,
+      "x": 0.8600521395969146,
+      "y": 0.925687378455931
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "11",
+      "width": 0.016701460563898762,
+      "x": 0.25052192097066023,
+      "y": 0.19476744207182128
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "12",
+      "width": 0.01878914330419995,
+      "x": 0.4968684762732654,
+      "y": 0.18459302346075335
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "8",
+      "width": 0.01043841302225057,
+      "x": 0.8329853863124655,
+      "y": 0.19186046551132274
+    },
+    {
+      "confidence": 1,
+      "height": 0.016121031746031744,
+      "text": "w.Müller n. d. Nat.",
+      "width": 0.10438412614697412,
+      "x": 0.8371607566029221,
+      "y": 0.14533730200918205
+    },
+    {
+      "confidence": 1,
+      "height": 0.01889534791310632,
+      "text": "Quercus",
+      "width": 0.08559498691830536,
+      "x": 0.388308977542935,
+      "y": 0.11482558204635374
+    },
+    {
+      "confidence": 1,
+      "height": 0.019554492027040515,
+      "text": "sessiliflora Sm.",
+      "width": 0.17133750806846515,
+      "x": 0.48635629951293013,
+      "y": 0.11740298678603467
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "31.",
+      "width": 0.018789143304199896,
+      "x": 0.9269311066568771,
+      "y": 0.03197674416484453
+    }
+  ],
+  "text": "Cupuliferae.\n11\n12\n8\nw.Müller n. d. Nat.\nQuercus\nsessiliflora Sm.\n31.",
+  "output_sha256": "5092c1fdfa7c7fadcb9f46bfeefbb848c0c1c8c027c0e2f10649d69d2fd78100",
+  "receipt_sha256": "f915f12a946483b4988edb422dd64a09ca2dfa02ea9323f5dbf834f5fe97e9d7"
+}

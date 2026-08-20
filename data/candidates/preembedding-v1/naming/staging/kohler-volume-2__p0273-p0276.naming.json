@@ -1,0 +1,147 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-2:p0273-p0276",
+  "owner_shard": "S03",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S03/maker/structure-drafts/kohler-volume-2__p0273-p0276.json",
+  "source_draft_sha256": "1df4b7158195a980c0e5f26029290746e686c2039839c951218c9df93c01d7a7",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "7cc37c36f4816cfd65f9fefdc80fd8852c58e41e51078e0ce59d128eff8c7629",
+    "validation_check_sha256": "3ca4a815699b994bbc9f43f3282d3dc69eb6b5369841d15f136236c7ad1fab87",
+    "source_disposition_sha256": "acfd3cf5cb77d1021fcdc68addb1a2357627c51319cb9c4422d89b98fcc69d5f",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Polyporus fomentarius",
+    "authorship_candidate": "Fries",
+    "aliases_candidates": [
+      "Boletus fomentarius L.",
+      "Feuerschwamm",
+      "Zunderschwamm",
+      "Agaric de Chéne",
+      "Fungus igniarius praeparatus"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Polyporus fomentarius"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_zh_tw": null,
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_checked",
+    "taxon_id": null,
+    "display_name_source_scope": "unresolved",
+    "display_name_source_evidence_ids": [],
+    "display_name_is_taiwan_public": false,
+    "display_name_answer_policy": "scientific_name_only",
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping.",
+    "checked_at": "2026-08-13T20:41:17+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Polyporus fomentarius",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Polyporus+fomentarius",
+      "retrieved_at": "2026-08-13T20:41:14+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Boletus fomentarius",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Boletus+fomentarius",
+      "retrieved_at": "2026-08-13T20:41:15+08:00",
+      "result_total": 2,
+      "name_match_results": [
+        {
+          "matched_name": "Boletus fomentarius var. applanatus",
+          "taxon_id": "t0035791",
+          "taicol_name_status": "not-accepted",
+          "accepted_name": "Ganoderma lipsiense",
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0035791",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0035791",
+          "taxon": {
+            "taxon_status": "accepted",
+            "simple_name": "Ganoderma lipsiense",
+            "name_author": "(Batsch) G.F. Atk. 1908",
+            "rank": "Species",
+            "common_name_c": "樹舌靈芝滑孢變種",
+            "alternative_name_c": null,
+            "synonyms": "Agaricus lipsiensis,Boletus applanatus,Boletus fomentarius var. applanatus,Boletus lipsiensis,Elfvingia applanata,Elfvingia megaloma,Fomes applanatus,Fomes applanatus fo. leucophaeus,Fomes gelsicola,Fomes incrassatus,Fomes leucophaeus,Fomes longoporus,Fomes megaloma,Fomes stevenii,Friesia applanata,Ganoderma applanatum,Ganoderma applanatum var. laevisporum,Ganoderma flabelliforme,Ganoderma gelsicola,Ganoderma incrassatum,Ganoderma leucophaeum,Ganoderma megaloma,Phaeoporus applanatus,Placodes applanatus,Polyporus applanatus,Polyporus concentricus,Polyporus incrassatus,Polyporus leucophaeus,Polyporus lipsiensis,Polyporus megaloma,Polyporus merismoides,Polyporus stevenii,Polyporus subganodermicus,Scindalma gelsicola,Scindalma incrassatum,Scindalma leucophaeum,Scindalma lipsiense,Scindalma megaloma,Scindalma stevenii,Ungularia subganodermica",
+            "is_in_taiwan": true,
+            "alien_type": "native",
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        },
+        {
+          "matched_name": "Boletus fomentarius var. ungulatus",
+          "taxon_id": "t0042629",
+          "taicol_name_status": "not-accepted",
+          "accepted_name": "Phellinus igniarius",
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0042629",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0042629",
+          "taxon": {
+            "taxon_status": "accepted",
+            "simple_name": "Phellinus igniarius",
+            "name_author": "(Fr.) Quel.",
+            "rank": "Species",
+            "common_name_c": "火木層孔菌",
+            "alternative_name_c": null,
+            "synonyms": "Agaricus igniarius,Boletus fomentarius var. ungulatus,Boletus igniarius,Fomes igniarius,Fomes igniarius fo. alni,Fomes igniarius fo. nigricans,Fomes igniarius var. trivialis,Fomes nigricans,Fomes nigricans var. nigricans,Fomes trivialis,Ganoderma trivialis,Mucronoporus igniarius,Mucronoporus nigricans,Ochroporus alni,Ochroporus igniarius,Ochroporus igniarius var. trivialis,Phellinus alni,Phellinus igniarius fo. alni,Phellinus igniarius subsp. nigricans,Phellinus igniarius var. igniarius,Phellinus igniarius var. trivialis,Phellinus nigricans,Phellinus nigricans var. alni,Phellinus trivialis,Placodes igniarius,Placodes nigricans,Polyporites igniarius,Polyporus igniarius,Polyporus igniarius var. nigricans,Polyporus nigricans fo. trivialis,Pseudofomes nigricans,Pyropolyporus igniarius,Scindalma igniarium,Scindalma nigricans",
+            "is_in_taiwan": true,
+            "alien_type": "native",
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Fungus igniarius",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Fungus+igniarius",
+      "retrieved_at": "2026-08-13T20:41:15+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Polyporus fomentarius",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Polyporus%20fomentarius",
+      "retrieved_at": "2026-08-13T20:41:17+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears."
+  ]
+}

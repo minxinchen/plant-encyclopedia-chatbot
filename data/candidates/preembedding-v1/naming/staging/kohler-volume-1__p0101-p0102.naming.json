@@ -1,0 +1,148 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-1:p0101-p0102",
+  "owner_shard": "S01",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S01/maker/structure-drafts/kohler-volume-1__p0101-p0102.json",
+  "source_draft_sha256": "d79815e90780e106f34c4702fdd3350cbd204fdba22e7513e65a5fdb5bc49c18",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "507444563c2591ac204d6baaedb1dec477ed83e5b74d0efa8fc179e1365d70ee",
+    "validation_check_sha256": "46ef21694fcedecd2acfdb785a667ce4c8902cd91baf4179cd3686972401cda6",
+    "source_disposition_sha256": "d803a5f5d96d9fdf7b8b6a7d57267940d0c7a939a17103c2c0ed4bfeac8a47f7",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Symphytum officinale",
+    "authorship_candidate": null,
+    "aliases_candidates": [
+      "Schwarzwurz",
+      "Wallwurz",
+      "Beinwell",
+      "Comfrey",
+      "Consoude (grande)",
+      "Radix Consolidae majoris",
+      "Radix Symphyti"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Symphytum officinale"
+    ],
+    "accepted_scientific_name": "Symphytum officinale",
+    "display_name_zh_tw": "康復力",
+    "alternative_names_zh_tw": [
+      "康復力"
+    ],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0055493",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary",
+    "rationale": "TaiCOL accepts the queried book binomial at species rank.",
+    "checked_at": "2026-08-13T19:53:36+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Symphytum officinale",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Symphytum+officinale",
+      "retrieved_at": "2026-08-13T19:53:36+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Symphytum officinale",
+          "matched_name_id": 24407,
+          "taxon_id": "t0055493",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Symphytum officinale",
+          "accepted_name_id": 24407,
+          "accepted_usage": [
+            {
+              "usage_id": 286640,
+              "reference_id": 3024,
+              "reference_type": "Journal Article",
+              "publish_year": 2022,
+              "citation": "Chang-Yang, C.-H., Su, M.-h., Chiang, P.-H. & Hsieh, C.-F. (2022) Updating the Checklist of the Naturalized Flora in Taiwan. <i>Taiwania</i> 67(1): 1–8.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 201834,
+              "reference_id": 3319,
+              "reference_type": "Book",
+              "publish_year": 2018,
+              "citation": "Chung, S.-W. (2018) Illustrated Flora of Taiwan = 台灣原生植物全圖鑑, vol. 6.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 178537,
+              "reference_id": 2454,
+              "reference_type": "Book",
+              "publish_year": 2017,
+              "citation": "Ed. Comm. Red List TW Plants,  (2017) The Red List of Vascular Plants of Taiwan, 2017 = 2017 臺灣維管束植物紅皮書名錄.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 321000,
+              "reference_id": 9991,
+              "reference_type": "Checklist",
+              "publish_year": 2012,
+              "citation": "Forestry Bureau, C. (2012) 外來入侵植物全國現狀調查計畫（4/4）101年度期末成果報告 = Survery of Invasive Alien Plants in Taiwan (4/4) 2012 Final Report",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 128600,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 5056,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0055493",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0055493",
+          "taxon": {
+            "taxon_id": "t0055493",
+            "taxon_status": "accepted",
+            "name_id": 24407,
+            "simple_name": "Symphytum officinale",
+            "name_author": "L.",
+            "rank": "Species",
+            "common_name_c": "康復力",
+            "alternative_name_c": "康復力",
+            "synonyms": "Symphytum officinale subsp. uliginosum, Symphytum uliginosum, Symphytum officinale var. officinale",
+            "is_in_taiwan": true,
+            "alien_type": "naturalized",
+            "alien_status_note": "naturalized: Chang-Yang et al., 2022 (Origin: Europe)|naturalized: Chung, 2018|naturalized: Ed. Comm. Red List TW Plants, 2017|naturalized: Forestry Bureau, 2012 (B類歸化植物)|naturalized: 原生於歐洲",
+            "not_official": false,
+            "updated_at": "2026-07-16"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

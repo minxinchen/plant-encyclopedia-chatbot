@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "shard_id": "S06",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page_range": [
+    1,
+    204
+  ],
+  "page_count": 204,
+  "entry_count": 32,
+  "eligible_local_structure_count": 27,
+  "ocr_page_count": 5,
+  "work_item_count": 37,
+  "disposition_counts": {
+    "eligible_local_structure": 27,
+    "hold_span_over_limit": 4,
+    "already_approved_overlap": 1
+  },
+  "input_hashes": {
+    "pages_jsonl_sha256": "6ae214c4cf59388e0d534ec728ed996a470467fd86386886b817dd4b9ae7b665",
+    "entries_jsonl_sha256": "5d945d3ed82038ea58ad0654388aa4270a59f1d1b44c875a17ffcf0591b1ca00",
+    "ocr_jsonl_sha256": "5153768d344d19e0c514b677897a1338ca8b3155517b5d790bef0a915b6aa387",
+    "work_items_jsonl_sha256": "a7490ea4233dfcf3b9ac02c61202a93dccd63de9133cd6e57cac49fb3e0c6514"
+  },
+  "write_scope": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S06/maker",
+  "canonical_write_allowed": false
+}

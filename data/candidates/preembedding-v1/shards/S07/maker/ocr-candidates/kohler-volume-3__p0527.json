@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 527,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "d829386e95fcd1eafa098b32d77faedc3576b9551c4ee9acb18b06296b3c7f2f",
+  "render_dpi": 144,
+  "render_sha256": "a6ba2fe6e977d44c57b0a20f8a92377f447e3684cfb65b4ba565ce5b6170bb5e",
+  "input_sha256": "a6ba2fe6e977d44c57b0a20f8a92377f447e3684cfb65b4ba565ce5b6170bb5e",
+  "render_pixel_width": 5918,
+  "render_pixel_height": 8426,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.137,
+  "embedded_character_count": 39,
+  "ocr_character_count": 49,
+  "ocr_alpha_ratio": 0.6735,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01744185932098863,
+      "text": "Palmae",
+      "width": 0.06625258451127736,
+      "x": 0.7805383048458104,
+      "y": 0.9622093029339824
+    },
+    {
+      "confidence": 1,
+      "height": 0.019636854292854444,
+      "text": "(Cocoineae).",
+      "width": 0.1017243660102457,
+      "x": 0.7617672153610009,
+      "y": 0.9385827358715467
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252612005,
+      "text": "2",
+      "width": 0.01035196632988708,
+      "x": 0.09523809540648502,
+      "y": 0.07703488406652348
+    },
+    {
+      "confidence": 1,
+      "height": 0.02331349206349209,
+      "text": "Taf. I. Cocos nucifera I",
+      "width": 0.2070393319857322,
+      "x": 0.3913043494200624,
+      "y": 0.018849206410768926
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494425,
+      "text": "76",
+      "width": 0.01863353939379675,
+      "x": 0.8985507253686641,
+      "y": 0.030523255954636452
+    }
+  ],
+  "text": "Palmae\n(Cocoineae).\n2\nTaf. I. Cocos nucifera I\n76",
+  "output_sha256": "c9a92f7740b10b876db31633736309c6e7f86874884da5808b802d56367a50e7",
+  "receipt_sha256": "2477d94f9586fb1aa7e04f2bc551bcaad37f92696b70297f3a9563936568bedf"
+}

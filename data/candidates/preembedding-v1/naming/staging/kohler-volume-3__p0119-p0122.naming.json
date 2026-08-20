@@ -1,0 +1,231 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-3:p0119-p0122",
+  "owner_shard": "S06",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S06/maker/structure-drafts/kohler-volume-3__p0119-p0122.json",
+  "source_draft_sha256": "122e99cd64aee607db12e83c7df8912a605f83bd3a981efce942a512ab7e5a64",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "505498a2eee74450a8814b5d1f24e2497bfa4a2a8eaecdcc3df4c53a83cf79b9",
+    "validation_check_sha256": "36069a3b99ca74c16d2b519c0ad77f3a4559cf15bd129c11dbaa3f9adcd84f11",
+    "source_disposition_sha256": "029deda8b6d552ea72ee62c1b20d695a0463303404c5a6b5b3fa6f9961077fca",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Aethusa Cynapium",
+    "authorship_candidate": "L.",
+    "aliases_candidates": [
+      "Hundspetersilie",
+      "Katzenpetersilie",
+      "kleiner oder Garten-Schierling",
+      "Gleisse",
+      "Fool's Parsley",
+      "Petite Ciguë",
+      "Faux Persil",
+      "Ciguë des jardins",
+      "Ache des chiens",
+      "Honds-pieterselie",
+      "Cicuta minor",
+      "Cicuta menor",
+      "Coriandrum Cynapium"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Aethusa Cynapium",
+      "Aethusa cynapium"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_zh_tw": null,
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_checked",
+    "taxon_id": null,
+    "display_name_source_scope": "unresolved",
+    "display_name_source_evidence_ids": [],
+    "display_name_is_taiwan_public": false,
+    "display_name_answer_policy": "scientific_name_only",
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping.",
+    "checked_at": "2026-08-13T15:01:58+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Aethusa Cynapium",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Aethusa+Cynapium",
+      "retrieved_at": "2026-08-13T15:01:53+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Aethus",
+          "matched_name_id": 6122,
+          "taxon_id": "t0009507",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Aethus",
+          "accepted_name_id": 6122,
+          "accepted_usage": [
+            {
+              "usage_id": 11720,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": null
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0009507",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0009507",
+          "taxon": {
+            "taxon_id": "t0009507",
+            "taxon_status": "accepted",
+            "name_id": 6122,
+            "simple_name": "Aethus",
+            "name_author": null,
+            "rank": "Genus",
+            "common_name_c": null,
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": null,
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Aethusa cynapium",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Aethusa+cynapium",
+      "retrieved_at": "2026-08-13T15:01:53+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "kleiner oder",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=kleiner+oder",
+      "retrieved_at": "2026-08-13T15:01:54+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Petite cigu",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Petite+cigu",
+      "retrieved_at": "2026-08-13T15:01:54+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Faux persil",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Faux+persil",
+      "retrieved_at": "2026-08-13T15:01:54+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Cigu des",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Cigu+des",
+      "retrieved_at": "2026-08-13T15:01:54+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Ache des",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Ache+des",
+      "retrieved_at": "2026-08-13T15:01:54+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Cicuta minor",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Cicuta+minor",
+      "retrieved_at": "2026-08-13T15:01:54+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Cicuta menor",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Cicuta+menor",
+      "retrieved_at": "2026-08-13T15:01:54+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Coriandrum cynapium",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Coriandrum+cynapium",
+      "retrieved_at": "2026-08-13T15:01:54+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Aethusa cynapium",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Aethusa%20cynapium",
+      "retrieved_at": "2026-08-13T15:01:58+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears."
+  ]
+}

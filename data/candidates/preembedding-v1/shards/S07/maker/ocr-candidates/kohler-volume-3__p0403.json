@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 403,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "4fd144617e7fe74f11308c69806e24a2389f854a7c620416ec7794c46556571d",
+  "render_dpi": 144,
+  "render_sha256": "e3435da1c30d1f615630b465fcb2744dee1d4f575c573404bddd1a4ab69f1293",
+  "input_sha256": "e3435da1c30d1f615630b465fcb2744dee1d4f575c573404bddd1a4ab69f1293",
+  "render_pixel_width": 5630,
+  "render_pixel_height": 8330,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.461,
+  "embedded_character_count": 58,
+  "ocr_character_count": 43,
+  "ocr_alpha_ratio": 0.7442,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.023572306784372388,
+      "text": "Apocynaceae.",
+      "width": 0.12271126000564588,
+      "x": 0.03004221832108124,
+      "y": 0.9533301259130821
+    },
+    {
+      "confidence": 1,
+      "height": 0.02180232509734148,
+      "text": "Landolphia Watsonii H.B. K.",
+      "width": 0.24946237117686176,
+      "x": 0.41075268288468747,
+      "y": 0.05668604673911992
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "14",
+      "width": 0.021505375426216222,
+      "x": 0.9419354841148488,
+      "y": 0.008720930240426084
+    }
+  ],
+  "text": "Apocynaceae.\nLandolphia Watsonii H.B. K.\n14",
+  "output_sha256": "00f3b9fa45bad766de208a9776dc7266523cd5b04efad9bb53038368126c1aa4",
+  "receipt_sha256": "abfe4c93d8d3ab7507b18b38f33af11dff8d857ca074445815df65ac6fa8f803"
+}

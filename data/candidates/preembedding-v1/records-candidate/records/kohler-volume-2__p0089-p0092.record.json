@@ -1,0 +1,284 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0089-p0092",
+  "entry_id": "kohler-volume-2:p0089-p0092",
+  "owner_shard": "S03",
+  "book_taxon": {
+    "scientific_name": "Quercus lusitanica",
+    "authorship": "Webb",
+    "aliases": [
+      "Quercus infectoria Olivier",
+      "Quercus lusitanica Webb, var. a infectoria D. C."
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Quercus lusitanica"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-20T23:03:14+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Quercus+lusitanica",
+        "query_name": "Quercus lusitanica",
+        "retrieved_at": "2026-08-20T23:02:45+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Quercus+infectoria",
+        "query_name": "Quercus infectoria",
+        "retrieved_at": "2026-08-20T23:03:07+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 89,
+      "evidence_type": "text",
+      "page_text_sha256": "cd055cd3f1d945b46dbc5b13ecb55cde82f6510b610bc790f87f083dddb57a6c",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 90,
+      "evidence_type": "text",
+      "page_text_sha256": "31aa693c2b4c38217b6672a991da39c4929733ed1445d8ac5a3a108fbcc9eb8b",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 91,
+      "evidence_type": "text",
+      "page_text_sha256": "9bfc0191c966e44f6d3d5f5fb0cf956fbd99dd4e20ff54a5b80e15cf5634c3d9",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0089-p0092:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "          Quercus lusitanica Webb, var. a infectoria D. C.\n                                       Syn. Quercus infectoria Olivier.\n\n                   Färber- oder Galläpfeleiche 一 Chéne d'Alep —                     Gall-oak.\n\n         Familie: Cupuliferae.         Gattung: Quercus L.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Quercus lusitanica，異名 Quercus infectoria，屬櫟屬，科殼斗科。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 89,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 285,
+        "page_text_sha256": "cd055cd3f1d945b46dbc5b13ecb55cde82f6510b610bc790f87f083dddb57a6c",
+        "exact_text_sha256": "6de4e84c1c38e5cd0d8c285270ede05d35275717838f81c461c0734dc7466b73",
+        "source_line_start": 1,
+        "source_line_end": 6,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "6de4e84c1c38e5cd0d8c285270ede05d35275717838f81c461c0734dc7466b73",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0089-p0092:s01:x00",
+      "section_type": "description",
+      "original_text": "         Beschreibung.          Diese von Olivier zuerst beschriebene, jetzt zur Formenreihe der orienta-\nDechen   Quercus   lusitanica   Webb    gezogene   Eiche   ist ein Büumchen   von   ca.   2 Meter    Hóhe;    sie er-\nscheint jedoch wegen der schon von unten anfangenden, starken Verästelung gewöhnlich strauchartig.\nAeste zerstreutstehend, graubraun berindet. Blätter kurz gestielt (mit 2—10 Mm. langem Stiele), oval-\nlänglich oder länglich-verkehrt-eiförmig, 5 Ctm. lang, 21, Ctm. breit, stumpf, buchtig- oder ein-\ngeschnitten gesägt, die Zähne mit feinem Stachelspitzchen versehen, kahl oder auf der unteren Seite\nmit wenigen Haaren besetzt, netzaderig, alljährlich abfallend. Die häutigen, hinfälligen Nebenblätter\nlanzettförmig, bráunlich.   Männliche Blüthen einzeln oder zu mehreren aus besonderen Knospen,\noder aus den unteren Knoten der Blattknospen hervorbrechend,          schlaffe, unterbrochene,      dünne Kätzchen\nbildend. Das meist 5lappige, häutige Perigon am Rande der Lappen stark gewimpert. Staubgefässe\nmit ovalen, unten und oben ausgerandeten, zweifächerigen, am Grunde des Rückens angehefteten, der\nLänge nach aufspringenden Staubbeutel.    Pollen rundlich, dreinabelig. Weibliche Blüthen fast\nsitzend, in den Blattwinkeln     der oberen Blätter; sonst wie bei unseren     einheimischen Eichen.         Früchte\nim zweiten Jahre reifend, zu 1—3,        walzig, bis 4 Ctm. lang und 12 Mm. dick, kurz zugespitzt, glänzend\nbraun, mit kurzem, bis 8 Mm.       langem,   dickem Fruchtstiel    Becher   glockenförmig,    mit kleinen, ziegel-\ndachartigen, breiteiförmigen, dicht- und kurzbehaarten, auf dem Rücken gekielten Schuppen.         Der\neiweisslose Same die Nuss vollständig ausfüllend, daher von gleicher Form, mit dunkelbraun geaderter\ndünner Samenhaut. Embryo gerade, mit kurzem, nach oben gerichtetem Würzelchen. Samenlappen\nplanconvex.",
+      "normalized_text": null,
+      "zh_tw_rendering": "高約2米灌木狀，葉卵狀長圓形，果實次年成熟，杯狀果托鐘形，種子無胚乳。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 89,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 286,
+        "char_end": 2155,
+        "page_text_sha256": "cd055cd3f1d945b46dbc5b13ecb55cde82f6510b610bc790f87f083dddb57a6c",
+        "exact_text_sha256": "084bc686f6fa59be80af4ab257072297ffa66d09d27ecb4a5f481a16f6cf2008",
+        "source_line_start": 7,
+        "source_line_end": 25,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "084bc686f6fa59be80af4ab257072297ffa66d09d27ecb4a5f481a16f6cf2008",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0089-p0092:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "         Anatomisches. Der Kern des Galläpfels besteht, so weit er nicht von dem Insekt zerstört                        `\nworden ist, aus einem engen Gewebe von Parenchymzellen, die mit rundlichen, meist mit einem Kreuz-\nspalt versehenen Stärkekörnern angefüllt sind; einzelne Zellen enthalten grosse, zusammengeballte, gelb-\nrothe Harzkórner. Hierauf folgt nach aussen hin die harte Schale der Kammer, welche aus grossen,",
+      "normalized_text": null,
+      "zh_tw_rendering": "蟲瘿核心為含澱粉細胞，外層為石細胞，中層含單寧與草酸鈣結晶。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 89,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3109,
+        "char_end": 3531,
+        "page_text_sha256": "cd055cd3f1d945b46dbc5b13ecb55cde82f6510b610bc790f87f083dddb57a6c",
+        "exact_text_sha256": "0fbe2abe662bcd3c85e57b3360311af52acfe7315d08343aed8da70cd7877ccd",
+        "source_line_start": 37,
+        "source_line_end": 40,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "0fbe2abe662bcd3c85e57b3360311af52acfe7315d08343aed8da70cd7877ccd",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0089-p0092:s02:x01",
+      "section_type": "anatomy",
+      "original_text": "                                                                                                         y\n radial gestreckten, mit geschichteten, porósen Wänden versehenen Steinzellen zusammengesetzt ist. Die\n nun folgende Mittelschicht, welche den gróssten Theil der Galle bildet, besteht aus einem schlaffen,\n gegen den Umfang von einzelnen Gefüssbündeln durchzogenen Parenchym, dessen grosse, kugelige Zellen\n mit ziemlich dicken, porösen Wänden ausgestattet sind. Nach dem Umfange zu nehmen die Zellen\n dieser Schicht sehr an Grösse ab, besitzen sehr dicke, feste Wände und bilden eine Art Rinde; nach\n dem Kerne zu werden die Zellen gestreckter und dünnwandiger. Die ganze ausserhalb der Steinschale\n liegende Schicht, mit Ausnahme der äusseren Rindenschicht, besitzt als Zellinhalt Chlorophyll und Gerb-\n stoff. Letzterer tritt in glashellen, scharfkantigen Stücken auf. Die Steinzellen und die anstossenden\n gestreckteren Zellen der Mittelschicht sind reich an Kalkoxalatkrystallen. Nur der stärkeführende Kern\n der Galle dient dem Insekt als Nahrung, es ist daher ganz ohne Einfluss auf die Menge des Gerbstoff-\n gehaltes, ob das Insekt ausfliegt, oder, wie es häufig vorkommt, in der Galle zu Grunde geht.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 90,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 1215,
+        "page_text_sha256": "31aa693c2b4c38217b6672a991da39c4929733ed1445d8ac5a3a108fbcc9eb8b",
+        "exact_text_sha256": "6c4f5bd8e6bee04579e1ea93bccbbe29cb8bb5426f93cdfed4baa1286e3cf22c",
+        "source_line_start": 1,
+        "source_line_end": 12,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "6c4f5bd8e6bee04579e1ea93bccbbe29cb8bb5426f93cdfed4baa1286e3cf22c",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0089-p0092:s03:x00",
+      "section_type": "distribution",
+      "original_text": "          Vorkommen.        Im Ostgebiete des Mittelmeeres einheimisch,       in Cypern,   Kleinasien,    Meso-\n potamien, Syrien, östlich bis zum Tigris.",
+      "normalized_text": null,
+      "zh_tw_rendering": "原產東地中海區，包括塞浦路斯、小亞細亞、美索不達米亞、敘利亞至底格里斯河。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 90,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 1216,
+        "char_end": 1370,
+        "page_text_sha256": "31aa693c2b4c38217b6672a991da39c4929733ed1445d8ac5a3a108fbcc9eb8b",
+        "exact_text_sha256": "813c0c4e96b0fc75af3bb548da3959803f5d3ae215039164d0594c2e31797d4e",
+        "source_line_start": 13,
+        "source_line_end": 14,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "813c0c4e96b0fc75af3bb548da3959803f5d3ae215039164d0594c2e31797d4e",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0089-p0092:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "           Schon zur Zeit des Hippokrates und Theophrast sind die kleinasiatischen und griechischen\n Galläpfel sowohl medizinisch als technisch benutzt worden und zu Zeiten des Plinius verwendete man\n bereits mit Galläpfel getränktes Papier als chemisches Reagens zur Prüfung des Kupfervitriols auf\n Eüsenvitriol Die besten Galläpfel sollen zu jener Zeit aus Kommagene, der nordöstlichsten Provinz\n des alten Syriens, bezogen worden sein. Die Araber waren schon sehr frühzeitig mit der aus Gall-\n äpfeln und Eisenvitriol bestehenden   schwarzen   Tinte bekannt.   Celsus    und   Alexander    Trallianus\n benutzten Galla häufig als Heilmittel; der letztere namentlich zum Schwarzfärben der Haare, als\n Magenpflaster und als blutstillendes Mittel. Die Galläpfel bildeten nach den Kreuzzügen einen regel-\n mássigen Ausfuhrartikel Kleinasien.     Albertus Magnus kannte schon die Entstehung der Gallen\n durch den im Innern sitzenden Wurm (Flückiger).",
+      "normalized_text": null,
+      "zh_tw_rendering": "古希臘羅馬時期用於醫藥與技術，阿拉伯人製墨，中世紀用於止血與染髮。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 90,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 1837,
+        "char_end": 2784,
+        "page_text_sha256": "31aa693c2b4c38217b6672a991da39c4929733ed1445d8ac5a3a108fbcc9eb8b",
+        "exact_text_sha256": "014412e13d2fd4a376e01860d1fa32314430b94ae19a68b4ae866435177ed891",
+        "source_line_start": 20,
+        "source_line_end": 29,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "014412e13d2fd4a376e01860d1fa32314430b94ae19a68b4ae866435177ed891",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0089-p0092:s05:x00",
+      "section_type": "constituents",
+      "original_text": "              Bestandtheile.       Ausser ca. 70%, eisenbläuender Gerbsäure fand Guibourt in den Galläpfeln\n2%, Gallussäure,        2%, Ellagsäure       und    Luteogallussáure,       2,5%, braunen   Extraktivstoff,   2 99, Gummi,\n2%, Stürkemehl, 0,7%, Chlorophyll und ätherisches Oel, 1,3%, (nach Flückiger 3°/,) Zucker, Albumin\nund Salze.",
+      "normalized_text": null,
+      "zh_tw_rendering": "含約70%單寧酸，另含沒食子酸、鞣酸、膠質、澱粉及揮發油。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 91,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3165,
+        "char_end": 3505,
+        "page_text_sha256": "9bfc0191c966e44f6d3d5f5fb0cf956fbd99dd4e20ff54a5b80e15cf5634c3d9",
+        "exact_text_sha256": "1aea246c17d4d3b9ee354e36bb6f2123ad23886a46d5e909b141b2ac860bf576",
+        "source_line_start": 40,
+        "source_line_end": 43,
+        "section_index": 5,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "1aea246c17d4d3b9ee354e36bb6f2123ad23886a46d5e909b141b2ac860bf576",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "9ffa16d51e122e540fe550ce154ddeaef8e173379436c726df7da9f576f54851",
+    "maker_receipt_sha256": "cc959346df1167dcc41c82e9725189bb6e546e55b330cd58d8279526969c885d",
+    "validation_check_sha256": "c369e2db546c1cccfb973465ef0930b72f46684e89946c7f54292544c7ccb1d8",
+    "source_disposition_sha256": "98875fbb19c3ef0e6722cc76fa7663bc127b6dd714d108a220fa0acf5ab09749",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "cc959346df1167dcc41c82e9725189bb6e546e55b330cd58d8279526969c885d",
+      "validation_check_sha256": "c369e2db546c1cccfb973465ef0930b72f46684e89946c7f54292544c7ccb1d8",
+      "source_disposition_sha256": "98875fbb19c3ef0e6722cc76fa7663bc127b6dd714d108a220fa0acf5ab09749"
+    },
+    "naming_artifact_sha256": "79b7760a62f40688296efa121e178648c361166404abbcf14fa7fb30463d6ec8"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "7e1fd1fc6aa47a2e7ca9f865a1f3184f6222d72abb95516d2f3c94b049493a07"
+}

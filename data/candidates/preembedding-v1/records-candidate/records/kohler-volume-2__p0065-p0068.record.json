@@ -1,0 +1,269 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0065-p0068",
+  "entry_id": "kohler-volume-2:p0065-p0068",
+  "owner_shard": "S03",
+  "book_taxon": {
+    "scientific_name": "Triticum vulgare",
+    "authorship": "L.",
+    "aliases": [
+      "Weizen",
+      "Froment",
+      "Bled",
+      "Wheat",
+      "Triticum Spelta",
+      "Triticum turgidum",
+      "Triticum compositum"
+    ]
+  },
+  "display_name": "小麥",
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Triticum vulgare"
+    ],
+    "accepted_scientific_name": "Triticum aestivum",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T12:27:42+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Triticum+vulgare",
+        "query_name": "Triticum vulgare",
+        "retrieved_at": "2026-08-13T12:27:42+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0055679",
+        "query_name": "Triticum vulgare",
+        "retrieved_at": "2026-08-13T12:27:42+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0055679",
+        "query_name": "Triticum vulgare",
+        "retrieved_at": "2026-08-13T12:27:42+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL explicitly links the book binomial as a species-level synonym to the accepted taxon."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 65,
+      "evidence_type": "text",
+      "page_text_sha256": "218bda6ba31d1009cc80c574b21e2cf0092a4bb36e18844fd4a6ec571bf1734a",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 66,
+      "evidence_type": "text",
+      "page_text_sha256": "7ec7a153aff3143eee22b964dfe24066479da383cac2d4a3421511288c44acfa",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 67,
+      "evidence_type": "text",
+      "page_text_sha256": "4a1b6111064d0271d3e1e6ffb403c0fde769c927cd8b2147dd85f44c25a86888",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0065-p0068:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "   8     Familie:    Gramineae.    Gattung:     Triticum L.\n\n          Beschreibung. Der ein- oder zweijährige Wurzelstock treibt einen oder einige meterhohe,\nstielrunde, aufrechte, glatte, zartgestreifte Halme, die locker mit langen, bandförmigen, lebhaft grünen,\nspitzen Blättern besetzt sind. Blattscheiden gestreift, ziemlich lang, jedoch den folgenden Knoten\nmeistentheils nicht erreichend; Blatthäutchen   kurz, stumpf, an   den Seiten mit zarten, halmumfassenden\nAehrchen. Aehre bis 10 und mehr Ctm. lang, deutlich vierkantig, mit zäher, nicht zerfallender Spindel,\ngipfelstándig. Aehrchen meist vierblüthig, wechselständig, sitzend, die 2 一 3 unteren Blüthen fruchtbar.\nHüllspelzen und Deckspelzen fast gleichlang, pergamentartig, nur oberwärts nervig; Hüllspelzen ge-\ndunsen, breit-eifórmig, oben gestutzt, im unteren Theile des Rückens abgerundet-gewólbt, im oberen\nTheile mit einem deutlichen, in eine kurze breite Stachelspitze auslaufenden Kiele; Aussenspelzen ge-\ndunsen, mit oder ohne Endgrane. Fruchtknoten an dem Scheitel behaart, die federigen Narben auf\nseiner Spitze tragend. Caryopse am Scheitel behaart, schmal gefurcht. Früchte frei, aus den Spelzen\nherausfallend.\n          Durch die Kultur sind zahlreiche Abarten gebildet worden, die sich in Bezug auf die Be-\nschaffenheit der Aehren in zwei Hauptgruppen bringen lassen, von denen sich die eine durch lockere,\nlängere Aehren, die andere durch dichtere, kürzere Aehren auszeichnet. Erstere Gruppe zerfällt\nin den begrannten Grannenweizen (meist Winterfrucht) und den unbegrannten Kolbenweizen\n(Winter- und Sommerfrucht); letztere Gruppe zerfällt in den begrannten Igelweizen (Sommerfrucht)\nund in den unbegrannten Bickel- oder Binkelweizen (Sommerfrucht).",
+      "normalized_text": null,
+      "zh_tw_rendering": "禾本科小麥屬，一年或二年生，莖直立光滑，葉帶狀。穗長至10公分，四稜形。分為有芒與無芒、冬麥與春麥等變種。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 65,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 134,
+        "char_end": 1864,
+        "page_text_sha256": "218bda6ba31d1009cc80c574b21e2cf0092a4bb36e18844fd4a6ec571bf1734a",
+        "exact_text_sha256": "3ee79bf0ecd7f55a2e3d53d31321a1fcd565575a8c2e28225a10fabac6aaea04",
+        "source_line_start": 5,
+        "source_line_end": 24,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "3ee79bf0ecd7f55a2e3d53d31321a1fcd565575a8c2e28225a10fabac6aaea04",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0065-p0068:s01:x00",
+      "section_type": "distribution",
+      "original_text": "         Vorkommen.      Das Vaterland des Weizens, der schon von den alten Aegyptern gebaut                             `\nwürde, ist wahrscheinlich Persien und Palästina. Gegenwärtig in den gemässigten Zonen der Erde\nzur Mehlgewinnung allenthalben angebaut und in vielen Spielarten kultivirt. Sein Anbau reicht nörd-\nlich bis Drontheim und Petersburg.",
+      "normalized_text": null,
+      "zh_tw_rendering": "原產於波斯與巴勒斯坦，古埃及已種植。現全球溫帶地區廣泛栽培以製粉，北至特隆赫姆與聖彼得堡。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 66,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 499,
+        "char_end": 851,
+        "page_text_sha256": "7ec7a153aff3143eee22b964dfe24066479da383cac2d4a3421511288c44acfa",
+        "exact_text_sha256": "4c08974c6f62f82dc8acbe0f720acc29a064940f404979cbf5338b9b4badbea3",
+        "source_line_start": 7,
+        "source_line_end": 10,
+        "section_index": 1,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "4c08974c6f62f82dc8acbe0f720acc29a064940f404979cbf5338b9b4badbea3",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0065-p0068:s02:x00",
+      "section_type": "history",
+      "original_text": "         Name und Geschichtliches.          Der Name Weizen, Waizen (althochdeutsch hueizi, hueizzi,\nweizi, weizzi, semala, simala, mittelhochdeutsch semele, siemel, keren, weize, weisse, bei Bock Weyssen,\nbei Fuchs gemeiner Weytzen) ist ein allgemein verbreiteter und unbekannten Ursprungs. Die gothische\nBezeichnung ist hvaiteis, hvaiti, die altnordische hueti. Ebenso ist das Wort Dinkel, althochdeutsch\ndinkil unbekannter Herkunft, wohingegen Spelz (althochdeutsch spelza, spelzo, angelsächsisch und\nniederdeutsch spelt, italienisch spelta, spanisch espelta, französisch épeautre) von spalten — weil die\nAehre gespalten erscheint — abstammen soll. Wegen Triticum siehe Trit. repens L.\n         Der Weizen ist ein schon seit den ältesten Zeiten bekanntes Nahrungsmittel; er ‘wurde schon\nbei den Griechen in mehreren Arten unterschieden, worüber Wittstein nach Fraas folgende Zu-\nsammenstellung giebt: Triticum monococcum L. =             Tign, Theophr,      Galen,   -4r019-Lera Dioskorides,\nTiphe Plinius; Triticum Spelta L. = Zea Homer, Theophrast (soll in den ältesten Zeiten die\nHauptgetreideart gewesen sein); Triticum Zea Host = \"OAvga der Alten; Triticum vulgare var. hibernum\n(Winterweizen) = IIvoog Homer, Theophrast, Dioskorides; Triticum vulgare var. aestivum\n(Sommerweizen) = voog oıravıog Theophrast, Dioskorides.",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源流不明，古希臘羅馬文獻已有記載。古埃及人種植，西元前2世紀已有製粉技術，1716年列文虎克以顯微鏡觀察澱粉粒。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 66,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 853,
+        "char_end": 2182,
+        "page_text_sha256": "7ec7a153aff3143eee22b964dfe24066479da383cac2d4a3421511288c44acfa",
+        "exact_text_sha256": "eb1188c974d2f5d439a8d79407e8b2e46fe0c957c81e93507d07cffc8c442bf6",
+        "source_line_start": 12,
+        "source_line_end": 25,
+        "section_index": 2,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "eb1188c974d2f5d439a8d79407e8b2e46fe0c957c81e93507d07cffc8c442bf6",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0065-p0068:s03:x00",
+      "section_type": "anatomy",
+      "original_text": " seltigane des Wassers). Sie besteht aus SE         kugelfórmigen di eifórmigen oder kantigen Kugel-\n ausschnitten gleichenden, auch gänzlich polyédrischen, mikroskopischen, einfachen oder zusammenge-\n setzten Körnern,     welche      aus übereinanderliegenden      Schichten     bestehen,     die einen meist excentrischen\n Kern umschliesen. Die Schichten beruhen auf verschiedener Dichtigkeit und sollen durch die damit\n zusammenhängende Eigenschaft, ungleiche Mengen Wassers einzulagern und verschiedene Lichtbrechungen\n darzubieten,     erst sichtbar    gemacht     werden;     überhaupt   nach Schleiden         und Anderen   keine   anderen\n Eigenschaften zeigen, als diejenigen, die durch die mehr oder weniger grössere Dichtigkeit bedingt sind.\n Leuwenhoek, Raspail und Nägeli sind der Ansicht, dass die Stärkekörner aus einer in Speichel\n löslichen Granulose und einer in Speichel unlöslichen Cellulose bestehen; letztere umkleidet nach Delfs,\n Jessen u. A. sämmtliche Schichten in Form von dünnen Häutchen. Hierüber aussert sich Flückiger\n wie folgt: „Nach Nägeli besteht das Stärkekorn aus vorherrschender Granulose, der eigentlichen `\n Stärkesubstanz, welcher eine geringe Menge Cellulose eingelagert ist. Diese sehr allgemein ange-\n nommene Ansicht ist als nicht bewiesen zu erachten.“ Die Stärkekörner zeigen gleiche Eigenschaften\n wie die doppelt brechenden Krystalle; im polarisirten Lichte erscheint ein schwarzes Kreuz, dessen\n Arme   sich im Mittelpunkte        kreuzen.    Bei Gegenwart      von Jod färben sie sich blau, bei Berührung          von\n Brom pomeranzengelb. Hinsichtlich der Grösse der Stärkekörner ist zu bemerken, dass dieselbe neben\n der Form für manche Pflanzen bezeichnend ist. So beträgt beispielsweise der Durchmesser der Kartoffel-\n stärke in Millimetern 0,14— 0,185, von Arowroot 0,14, von Bohnen 0,075, von Sago 0,045—0,070, von `\n Linsen 0,067, von Erbsen 0,05, von Hirsen 0,010, von Mais 0,05. Die Weizenstürke stimmt mit Roggen-\n und Gerstenstärke überein, doch glaubt Wiesner auch hier in der Grösse ein Unterscheidungsmerkmal\n gefunden zu haben; nach letzterem beträgt die häufigste Grösse vom Weizen 0,019—0,029 Mm. bei\n grossen Kórnern, 0,0058— 0,0072 Mm. bei kleinen Kórnern; vom Roggen 0,036 Mm. bei grossen Körnern,\n 0,0063 Mm. bei kleinen Körnern;         von der Gerste 0,020 Mm.         bei grossen Körnern,     0,0063 Mm. bei kleinen\n  Körnern. Die Weizenstärke kommt auch in zusammengesetzten Körnern (2—25 Theilkörnern) vor; ihre\n. Form ist eine linsenfórmige, kugelige und polyédrische. Die im Handel vorkommende Weizenstärke bildet\n unregelmässige,     eckige Stücken,    welche im zerriebenen Zustande ein sehr feines, bläulich-weisses,           mattes,\n geruch- und geschmackloses, im kalten Wasser und Weingeist unlösliches Pulver 'geben. Sie giebt\n mit 100 Theilen Wasser einen weisslichen, wenig durchscheinenden, bläulich schillernden Kleister.",
+      "normalized_text": null,
+      "zh_tw_rendering": "澱粉粒呈球形或多面體，具同心層與偏心核。遇碘變藍，遇溴變橙黃。小麥澱粉粒直徑約0.019至0.029毫米。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 67,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 2912,
+        "page_text_sha256": "4a1b6111064d0271d3e1e6ffb403c0fde769c927cd8b2147dd85f44c25a86888",
+        "exact_text_sha256": "b1b3eb56aee589bad1cbc11789310ad3e9308aa2f8fbafcd12b9d30a5365f76d",
+        "source_line_start": 1,
+        "source_line_end": 28,
+        "section_index": 3,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "b1b3eb56aee589bad1cbc11789310ad3e9308aa2f8fbafcd12b9d30a5365f76d",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0065-p0068:s04:x00",
+      "section_type": "constituents",
+      "original_text": "           Bestandtheile. Der Weizen enthält nach den Untersuchungen von Saussure, Boussingault\n u. A. 50—600/, Stärkemehl, 15—20°%, Kleber, 1,5%, Gummi, 1,5%, Zucker, 1%, Fett, 129, Faser,\n 2,5°/, Mineralstoffe. Nach Kekule sind in der Kleie enthalten: 67,5%, Kleber, Zucker und Stürkemehl,\n 4,1%, Fett, 0,29, Faser, 5,6%, Mineralstoffe. Ritthausen erhielt aus Weizen 4 besondere Proteinstoffe\n (Wittstein)        In der Asche ist Kali, Magnesia,          Phosphorsäure,     Kalkerde,     Kieselsäure, Eisenoxyd   und\n wenig Natron gefunden worden.               (Husemann, Pflanzenstoffe 115.)",
+      "normalized_text": null,
+      "zh_tw_rendering": "含50-60%澱粉，15-20%麩質，1.5%膠質與糖，1%脂肪，12%纖維及2.5%礦物質。麩皮含高量麩質與礦物質。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 67,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3032,
+        "char_end": 3627,
+        "page_text_sha256": "4a1b6111064d0271d3e1e6ffb403c0fde769c927cd8b2147dd85f44c25a86888",
+        "exact_text_sha256": "cb410f4248f3153fbb49b4404b0840d28f9e413176644c91777779329a7b8672",
+        "source_line_start": 32,
+        "source_line_end": 37,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "cb410f4248f3153fbb49b4404b0840d28f9e413176644c91777779329a7b8672",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0065-p0068:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "          Anwendung.              Das Weizenmehl (Farina Tritici) dient äusserlich zu Umschlägen, die daraus\n gebackene      Brodkrume   mit Milch     ebenfalls      zu Umschlägen,   mit Milch, Glycerin und Kalicarbonatlösung\n  bei Drüsenverhärtung (Frauenbrüste), ferner als Konstituens zu Pillen, zur Herstellung von Oblaten,\n  als Antidot bei Vergiftungen mit Jod, Quecksilber, Kupfer etc. auch mit Wasser und Milch gekocht\n  zu nähernden Suppen, namentlich aber zur Bereitung des Stárkemehls. Hauptverwendung findet es\n  zur Herstellung des Weissbrodes und zur Bereitung von Weissbier und Branntwein. Die Weizenkleie\n  (Purfur Tritiei) wird zu Bädern verwendet und dient in Substanz genommen, vermóge des mechanischen\n  Reizes auf die Darmschleimhaut, als stuhlbefórderndes Mittel (Grahambrod). In Bezug auf das Stürke-\n  mehl äussert sich Husemann wie folgt: „Das Amylum wird als solches vom Organismus nicht resorbirt,\n  sondern verwandelt sich in den Tractus eingeführt in Dextrin und Glykose, bei welcher Metamorphose\n  Speichel und Bauchspeichel, nach Schiff auch der Darmsaft und nach Funk das Sekret des Processus\n  vermiformis betheiligt sind. Es ist zwar kein plastisches Nahrungsmittel, kann aber als Sparmittel\n  wie andere Kohlehydrate dienen. Das Amylum Tritici wird nicht als angebliches Plasticum, sondern,\n  abgesehen von seiner ziemlich selten in praxi vorkommenden antidotarischen Verwendung gegen akute\n  Jod- und Bromvergiftung, nur als Protektivum — sowohl in Substanz als Streupulver bei Intertrigo,\n. Ekzem und anderen Hautaffektionen, als auch besonders in Abkochnngen zu Klystieren bei entzünd-\n  lichen und akuten katarrhalischen Affektionen des Mastdarmes und des Dickdarmes, selbst bei Ge-\n  schwürbildung (Dysenterie) — als Contentivum (zu Kleisterverbänden) und als Grundlage für\n  gewisse Arzneiformen (Pulver, Trochisken, Mucilagines, Pseudogallerten) benutzt.“      (Husemann,\n  un            399.)",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：麵粉製敷料、藥丸及解毒劑；麩皮作瀉藥。澱粉轉化為糖與酒精，用於保護劑、灌腸及藥劑賦形劑。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 67,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3629,
+        "char_end": 5564,
+        "page_text_sha256": "4a1b6111064d0271d3e1e6ffb403c0fde769c927cd8b2147dd85f44c25a86888",
+        "exact_text_sha256": "f48d0a2b53346a970cc9a1d4e2cee6c755ea20c410383924664acc25c2063f41",
+        "source_line_start": 39,
+        "source_line_end": 58,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "f48d0a2b53346a970cc9a1d4e2cee6c755ea20c410383924664acc25c2063f41",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "a8741387f03decc30f99c2eab4cc5b859339a44414c7d69a10a299263b27cc66",
+    "maker_receipt_sha256": "1709d6f3deed11b6d667dcc065dd1511083e8d858601e766452a25935e2e961f",
+    "validation_check_sha256": "2c80f479eddd953801ff1050a38b02b9a9542e778d56043b6255c673bcac0cca",
+    "source_disposition_sha256": "5bba30943f31a8492cd8b13e48a1241c451880b47724a7a32e66f78193fd1805",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "1709d6f3deed11b6d667dcc065dd1511083e8d858601e766452a25935e2e961f",
+      "validation_check_sha256": "2c80f479eddd953801ff1050a38b02b9a9542e778d56043b6255c673bcac0cca",
+      "source_disposition_sha256": "5bba30943f31a8492cd8b13e48a1241c451880b47724a7a32e66f78193fd1805"
+    },
+    "naming_artifact_sha256": "c8366b3d556ba01308970d9a4738a35d0ac5fbdcd585d12d81dd296d77a4bdd6"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "3df659f69985f1741f6922ec078223ae410c9178c425d3f8f17122f145f59be1"
+}

@@ -1,0 +1,278 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0285-p0288",
+  "entry_id": "kohler-volume-2:p0285-p0288",
+  "owner_shard": "S04",
+  "book_taxon": {
+    "scientific_name": "Pimpinella Saxifraga",
+    "authorship": "L.",
+    "aliases": [
+      "Bibernelle",
+      "Bockspetersilie",
+      "Pfefferwurzel",
+      "Steinpeterlein",
+      "Steinpimpinelle",
+      "weisse deutsche Theriakwurzel",
+      "Boucage"
+    ]
+  },
+  "display_name": "玉山茴香",
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Pimpinella Saxifraga",
+      "Pimpinella saxifraga"
+    ],
+    "accepted_scientific_name": "Pimpinella niitakayamensis",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T12:31:58+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Pimpinella+Saxifraga",
+        "query_name": "Pimpinella Saxifraga",
+        "retrieved_at": "2026-08-13T12:27:43+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0024534",
+        "query_name": "Pimpinella Saxifraga",
+        "retrieved_at": "2026-08-13T12:27:43+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0024534",
+        "query_name": "Pimpinella Saxifraga",
+        "retrieved_at": "2026-08-13T12:27:43+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Pimpinella+saxifraga",
+        "query_name": "Pimpinella saxifraga",
+        "retrieved_at": "2026-08-13T12:27:43+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "Tai2 exactly lists the book binomial as a main name or synonym and links it to this accepted species page."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 285,
+      "evidence_type": "text",
+      "page_text_sha256": "964efa93d25e066f67564a3ccb892209053bc778c97069b529318edf5f639828",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 286,
+      "evidence_type": "text",
+      "page_text_sha256": "e24981575a87b3461b7a6d557d7b330df64ce45fb440d34d8cc3c3ccbbb028be",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 288,
+      "evidence_type": "text",
+      "page_text_sha256": "fa2e4a2ee850cf6c46d00d4f31e5165a3d34347f6523f8b429dc9545f968a253",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0285-p0288:s00:x00",
+      "section_type": "description",
+      "original_text": "           Beschreibung. Ausdauernde Pflanze mit meist mehrköpfigem, 1l, Ctm. dickem Wurzelkopf,\nwelcher in die allmählich sich verjüngende, spindelförmige, einfache oder wenigästige, rótlilich-braune,\nfleischige, über 20 Ctm. lange, gedrehte Wurzel übergeht. Stengel bis 50 Ctm. hoch, glatt, cylindrisch,\nhäufig schon von unten auf ästig, feingestreift, kahl oder am unteren Theile mehr oder weniger flaumhaarig,\nwenig beblättert, nach oben sehr armblätterig, zu oberst fast blattlos. Blätter fiedertheilig, unpaarig,\nkahl oder behaart; Grundblätter lang gestielt, einfach gefiedert, mit eirunden bis runden, eingeschnitten-\ngekerbt-gesägten sitzenden Blättchen (die beiden untersten jedoch bisweilen gestielt, das gipfelstándige\nstets gestielt, mehr oder weniger dreilappig); die Stiele mit einem kurzen scheidigen Theil den Stengel",
+      "normalized_text": null,
+      "zh_tw_rendering": "多年生植物，具多頭狀紡錘形根莖，莖高至50公分，光滑圓柱形，葉羽狀分裂，基生葉長柄。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 285,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 317,
+        "char_end": 1151,
+        "page_text_sha256": "964efa93d25e066f67564a3ccb892209053bc778c97069b529318edf5f639828",
+        "exact_text_sha256": "527ad736e36934e17acb236037a339681c24824f98e0785ad197ec17174fcc91",
+        "source_line_start": 5,
+        "source_line_end": 12,
+        "section_index": 0,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "527ad736e36934e17acb236037a339681c24824f98e0785ad197ec17174fcc91",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0285-p0288:s01:x00",
+      "section_type": "anatomy",
+      "original_text": "         Anatomisches. Die hell-graulich-gelbe Oberfläche der Wurzel ist mehr oder weniger tief\nund breit längsrunzelig, das Rhizom ziemlich dicht und fein gerunzelt, die Wurzel, besonders gegen\ndie Spitze hin, nur querhöckerig.\n         Der Querschnitt    der Wurzelrinde zeigt eine Aussenrinde,   welche     aus   einem aussen   gelbbraunen,\ninnen farblosen Korke besteht; die dünne Mittelrinde ist aus einem tangential gestreckten, stärkekörner-\nführenden Parenchym zusammengesetzt, in welchem sich ein Kreis von weiten Balsamgängen befindet;\ndie sehr dicke, nach aussen zerrissene und lückige Innenrinde besteht aus stärkereichen Markstrahlen\nund etwas schmäleren, weniger stärkemehlreichen Baststrahlen. Die Markstrahlen zeigen etwas in die",
+      "normalized_text": null,
+      "zh_tw_rendering": "根皮外層黃褐色，內層無色；中皮含樹脂道；內皮厚且多澱粉，木質部含梯紋及網紋導管。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 286,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 902,
+        "char_end": 1647,
+        "page_text_sha256": "e24981575a87b3461b7a6d557d7b330df64ce45fb440d34d8cc3c3ccbbb028be",
+        "exact_text_sha256": "d99daa76bc1b5850c64b0dd4f79ae832d4ae30f1a3ffa11ebc79f49c06056a3d",
+        "source_line_start": 13,
+        "source_line_end": 20,
+        "section_index": 1,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "d99daa76bc1b5850c64b0dd4f79ae832d4ae30f1a3ffa11ebc79f49c06056a3d",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0285-p0288:s02:x00",
+      "section_type": "distribution",
+      "original_text": "         Vorkommen.      P. Saxifraga auf trocknen Wiesen und sonnigen Hügeln durch fast ganz\nEuropa mit Ausschluss der südlichsten Gebiete und des nördlichen Russland verbreitet; bis nach Arme-\nnien und Caucasien. Die var. nigra in der Gegend von Berlin, Frankfurt a/O. und im obern Rhonethale.\n         P. magna auf Waldwiesen und in Gebüschen, mit etwas geringerem Verbreitungsgebiete und\nnicht so gemein wie Saxifraga, aber höher (als var. rosea) in die Voralpen emporsteigend.",
+      "normalized_text": null,
+      "zh_tw_rendering": "分佈於歐洲乾燥草地及陽坡，除最南端及北俄外；變種nigra見於柏林及萊茵河上游。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 286,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2846,
+        "char_end": 3327,
+        "page_text_sha256": "e24981575a87b3461b7a6d557d7b330df64ce45fb440d34d8cc3c3ccbbb028be",
+        "exact_text_sha256": "18c44de31f68ffdfb1a8db295d1d7fa070f712783724aaa50d0d34f6ff31d453",
+        "source_line_start": 35,
+        "source_line_end": 39,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "18c44de31f68ffdfb1a8db295d1d7fa070f712783724aaa50d0d34f6ff31d453",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0285-p0288:s03:x00",
+      "section_type": "history",
+      "original_text": "         Name und Geschichtliches. Pimpinella (Saxifraga: althochd. bibinella, pibenella; mittel-\nhochd. Bebinella, Bebinelle, Bebonillen, Benevelle, Bevenella, Bevenelle, Bevenille, Bevornelle, Bibe-\nnele, Bibernal, Bibnellen, Bybenel Bybnel, Bympinel, Pympenella; bei Hildegard Bivenella, Bibe\nnella; bei Cordus      Bibenelle;   bei Tabernaemontanus       Steinbibernell,    Steinpeterlein, bei Brunsch-\nwig und Fuchs       Bibinellen.     Magna: bei Brunschwig u. A. wild Bestenaw, gross Bibernell) siehe\nPimpinella   Anisum.     Auch Flückiger     ist der Ansicht, dass Pimpinella       als eine lateinische Form der\ndeutschen Benennung „Bibernell“ zu betrachten ist. Saxifraga von sawifragus (saxum Fels und fran-\ngere brechen), weil die meisten Arten steinigen, felsigen Boden lieben und mit ihren Wurzeln die Steine",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源於拉丁語，意為破石，古希臘羅馬稱Caucalis，中世紀文獻視為治膀胱結石之藥。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 286,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3412,
+        "char_end": 4235,
+        "page_text_sha256": "e24981575a87b3461b7a6d557d7b330df64ce45fb440d34d8cc3c3ccbbb028be",
+        "exact_text_sha256": "510f5cb503a623cc2723700a522828492c4ff47414ef4a13b2f1927f4524f8c3",
+        "source_line_start": 43,
+        "source_line_end": 50,
+        "section_index": 3,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "510f5cb503a623cc2723700a522828492c4ff47414ef4a13b2f1927f4524f8c3",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0285-p0288:s04:x00",
+      "section_type": "constituents",
+      "original_text": "  geistigen Extrakte fand Buchheim einen in Alkohol und Aether löslichen, in Wasser unlöslichen,\n  stickstofffreien, krystallisirbaren Körper, das Pimpinellin, welches bei 97% schmilzt, bei 150° sich zer-\n  setzt und in weingeistiger Auflösung einen sehr scharfen, beissenden Geschmack äussert. Bezüglich\n  der Zusammensetzung fand Buchheim 63.48 C und 4.07 H.                                |\n             Das ätherische Oel ist goldgelb, dünnflüssig, leichter als Wasser, von bitterem, kratzendem\n  Geschmack und durchdringendem, petersilienartigem Geruch. Das ätherische Oel der var. nigra, welches\n  nach Bley in einer Ausbeute von 0.38%, gewonnen wird, ist hellblau, von schwächerem Geruch, mit\n  einem   brennenden,     hinterher kratzenden      Geschmack.      Husemann,       Pflanzenstoffe   937.",
+      "normalized_text": null,
+      "zh_tw_rendering": "含揮發油、樹脂、澱粉及Pimpinellin；變種nigra之油呈藍色，具強烈氣味及灼燒感。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 288,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 805,
+        "page_text_sha256": "fa2e4a2ee850cf6c46d00d4f31e5165a3d34347f6523f8b429dc9545f968a253",
+        "exact_text_sha256": "142495f2b00e48a300f340e0f832baa32d9e11c9d1d1c24d40a0bff75fd4384d",
+        "source_line_start": 1,
+        "source_line_end": 8,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "142495f2b00e48a300f340e0f832baa32d9e11c9d1d1c24d40a0bff75fd4384d",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0285-p0288:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "            Anwendung.           In Form      von Pulver,    im Aufguss und in Tinktur         als ein   die Sekretion     der\n  Schleimhäute der Respirationsorgane beförderndes Mittel bei katarrhalischen Leiden und chronischer\n  Laryngitis, als Kaumittel gegen Zungenlähmung, in Tinktur und Gurgelwässern gegen Heiserkeit, Rauh-\n  heit des Halses,     zu Zahnpulvern       etc.   „Die   Radix   Pimpinellae    verdankt    ihren   Ruf als Arzneimittel\n  besonders Stahl und seiner Schule, welche sie nicht allein als Expectorans bei Katarrhen der Respi-\n  rationsorgane, sondern auch bei Magenkatarrhen und Hydrops empfahlen.“ Die von Harnisch be-\n  hauptete grössere Wirksamkeit der Pimpin. nigra wird bezweifelt, dagegen angenommen, dass magna\n  wegen ihrer stärkeren Rinde und ihrer zahlreichen, weiteren Balsamgänge schärfere Wirkung besitzt.\n  Der Ruf, den die Wurzel beim Volke bei Anginen und Heiserkeit besitzt, wird auf ihr scharfes Princip\n  zurückgeführt. Pimp. magna wurde früher gegen Steinbeschwerden, der frischgepresste Saft gegen\n  Sommersprossen, das destillirte Wasser gegen Augenkrankheiten verwendet; auch gegen Pest und son-\n  stige ansteckende Krankheiten. Husemann, Arzneimittel. 1148.",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：治呼吸道卡他、喉炎及牙痛；曾用於治結石、雀斑、眼疾及瘟疫等傳染病。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 288,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 807,
+        "char_end": 2016,
+        "page_text_sha256": "fa2e4a2ee850cf6c46d00d4f31e5165a3d34347f6523f8b429dc9545f968a253",
+        "exact_text_sha256": "b3b0d1fc567520b7f2c9cc1a51ef053f3d97472e8e0b21eb00a4080d580790e2",
+        "source_line_start": 10,
+        "source_line_end": 21,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "b3b0d1fc567520b7f2c9cc1a51ef053f3d97472e8e0b21eb00a4080d580790e2",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Tai2 treats the exact historical book binomial as a synonym of a different accepted name; Köhler facts remain attached to the book taxon and must not be reinterpreted as facts about the Taiwan accepted taxon.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "e61ba7eb414b75a5b738ba143210e220abd8a99f67c5c50c61b770ffb02cb566",
+    "maker_receipt_sha256": "7d32ecd0813f153a5759f60d86f74dea87e7acceb5d50597be074a58cb9a758b",
+    "validation_check_sha256": "e586401b2e050b52e07362d24c544767502065e13f31d5fd4ac162aa60c558d0",
+    "source_disposition_sha256": "21258612a5a886037babeab0fe0523fc26a8e30bf303b1b7a438174b97f3f281",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "7d32ecd0813f153a5759f60d86f74dea87e7acceb5d50597be074a58cb9a758b",
+      "validation_check_sha256": "e586401b2e050b52e07362d24c544767502065e13f31d5fd4ac162aa60c558d0",
+      "source_disposition_sha256": "21258612a5a886037babeab0fe0523fc26a8e30bf303b1b7a438174b97f3f281"
+    },
+    "naming_artifact_sha256": "da4bd57b42a58dbd72582fdd954fb9e94b1826367151009e299d9b04b6051713"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "92d44f43d24e23db3fe498c4900e2523c36a97ee149eae49d08a0578d8db90d0"
+}

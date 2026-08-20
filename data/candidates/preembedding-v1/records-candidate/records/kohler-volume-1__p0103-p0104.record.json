@@ -1,0 +1,269 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0103-p0104",
+  "entry_id": "kohler-volume-1:p0103-p0104",
+  "owner_shard": "S01",
+  "book_taxon": {
+    "scientific_name": "Larix decidua",
+    "authorship": null,
+    "aliases": [
+      "Larix DC.",
+      "Larix excelsa Lk.",
+      "Finns Larix L.",
+      "L. sibiria Ledeb.",
+      "L. intermedia Fischer",
+      "L. Ledebourii Rupr.",
+      "Pinus Ledebourii Endl."
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Larix decidua"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T19:59:50+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Larix+decidua",
+        "query_name": "Larix decidua",
+        "retrieved_at": "2026-08-13T19:59:47+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Larix+excelsa",
+        "query_name": "Larix excelsa",
+        "retrieved_at": "2026-08-13T19:59:47+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Finns+larix",
+        "query_name": "Finns larix",
+        "retrieved_at": "2026-08-13T19:59:47+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Pinus+ledebourii",
+        "query_name": "Pinus ledebourii",
+        "retrieved_at": "2026-08-13T19:59:47+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 103,
+      "evidence_type": "text",
+      "page_text_sha256": "440c7ea24e4acd67f07b1e8561fa2160acd054a5105bfa38a924495f96503a1e",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 104,
+      "evidence_type": "text",
+      "page_text_sha256": "b07d6d57562a1a157eef752f02b8ccc2871003e121755bb49427e3e7161a07b6",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0103-p0104:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                           Larix decidua Miller.\n\n   Sy      Larix                     DC.    Larix     excelsa Lk.   Finns Larix L.      A hies                 am\n\n         Gemeine Larche, europaische Larche, Larchentanne                            Larch           Meleze.\n\n\n          Familie:   Coniferae.         Gattung: Larix Lk.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名Larix decidua，別名Larix excelsa。屬松科，歐洲產。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 103,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 0,
+        "char_end": 350,
+        "page_text_sha256": "440c7ea24e4acd67f07b1e8561fa2160acd054a5105bfa38a924495f96503a1e",
+        "exact_text_sha256": "32a5732f3c9ba02b58e7aa6ae53dcb4f68321dba325878895a42da445b549177",
+        "source_line_start": 1,
+        "source_line_end": 8,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "32a5732f3c9ba02b58e7aa6ae53dcb4f68321dba325878895a42da445b549177",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0103-p0104:s01:x00",
+      "section_type": "description",
+      "original_text": "          Beschreibung.     Bis 45 Meter holier Baum mit deutlicher Pfahlwurzel und zahlreichen Seiten-\nwurzeln, welche ziemlich tief in den Boden eindringen und pyramidaler, fast horizontalastiger Krone,\nderen feinere Verzweigungen abwarts hangen. Junge Rinde glatt und gelb, braun, altere aussen grau,\ninnen rothbraun, etwas rissig.    Nadeln an den Maitrieben einzeln, an den alteren Trieben zu 30 40             —\n                                                      —\nund mehr gebiischelt, schmal linealisch, 22 38 Mm. lang, stumpflicli, oberseits schmal gekielt, unter-\nseits schwacbkielig oder convex, weich und krautig, hellgnin, beiderseits mit Reihen weisser Piinktchen\n(Spaltoffnungen), im Herbst abfallend und dann kleine Hocker auf der Rinde hinterlassend.       Mannliche",
+      "normalized_text": null,
+      "zh_tw_rendering": "高45米，具主根。樹冠金字塔形。嫩皮黃，老皮灰。針葉成束，長22-38毫米，秋季脫落。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 103,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 351,
+        "char_end": 1137,
+        "page_text_sha256": "440c7ea24e4acd67f07b1e8561fa2160acd054a5105bfa38a924495f96503a1e",
+        "exact_text_sha256": "37f7fd91c088e018cb2607a674844946b7d21c5557d4f175b37aad14c0db34d9",
+        "source_line_start": 9,
+        "source_line_end": 16,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "37f7fd91c088e018cb2607a674844946b7d21c5557d4f175b37aad14c0db34d9",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0103-p0104:s02:x00",
+      "section_type": "distribution",
+      "original_text": "          Verbreitung    In den Waldern der Gebirge von Mitteleuropa, namentlich Alpen und Karpathen,\n                         1\n\n                             .\n\n\n\n          —\nvon 900 2300 Meter emporsteigend.      Sie ist durch\" Kultur weit nach Norden und Siiden verbreitet,\nentwickelt ihren schonen Wuchs und ihre vorziiglichen technischen Eigenschaften aber nur im Gebirge.",
+      "normalized_text": null,
+      "zh_tw_rendering": "分佈於中歐山區，如阿爾卑斯山，海拔900-2300米。經栽培向北向南擴散。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 103,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 3799,
+        "char_end": 4176,
+        "page_text_sha256": "440c7ea24e4acd67f07b1e8561fa2160acd054a5105bfa38a924495f96503a1e",
+        "exact_text_sha256": "ce6bc2edd857826be5017f3fc26a9e29a780083e044ecfd31ae9a4c53022e9f9",
+        "source_line_start": 52,
+        "source_line_end": 61,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "ce6bc2edd857826be5017f3fc26a9e29a780083e044ecfd31ae9a4c53022e9f9",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0103-p0104:s03:x00",
+      "section_type": "history",
+      "original_text": "          Name und Geschichtlich.es.        Der Name Larche, althochdeutsch lerbom, lerchboum,\nmittelhochdeutsch larche, lerche, bei Cordus und Bock Lerchenbaiim, bei Fuchs Lorclibaum, ist aus\ndem lateinischen Larix, womit Plinius die Larche bezeichnete, hervorgegangen. Larix soil wegen\ndes, mit dem Fette vergleichbaren Terpenthins aus lardum, laridum (Speck) entsprungen und nach\nDioscorides der gallische Name des Larchenharzes sein.\n         Schon der beriihmte, zu Casars Zeiten lebende, romische Architekt Marcus Vitruvius Pollio\ngedenkt in seinem, 13 v. Chr. verfassten Werke „de architectural des Larchenholzes und prei^t ihr\nhoniggelbes, heilkraftiges Harz. Dioscorides, Plinius und Galenus hatten ebenfalls Kenntni^s von\ndem Larchenterpenthin. Durch letzteren erfahren wir, dass der Name Terpenthin urspriinglich dem\nHarzsafte der Pistacia Terebintlms L. beigelegt war und erst spater auf die Harze der Coniferen tiber-\ntragen wurde.         Wort Terpenthin scheint der persischen Bezeichnung Termentin, Turmentin\nentlehnt zu sein.    Die Bezeichnung venetianischer Terpenthin (Terebinthina veneta) riihrt von\n                                                    —\nJohann Winkler aus Andernacb (1487 1574) her; sie bezieht sich auf die Stadt Venedig, die ur-\nspriinglich der Stapelplatz des Larchenterpeuthins war, von wo aus letzterer in den Handel gebracht\nwurde.    Matthiolus giebt uns eine Beschreibung der Gewinnung des Larchenterpenthins bei Trient.",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源於拉丁語Larix。古羅馬建築師維特魯威提及木材與樹脂。威尼斯松節油名稱源自威尼西亞貿易。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 103,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4178,
+        "char_end": 5644,
+        "page_text_sha256": "440c7ea24e4acd67f07b1e8561fa2160acd054a5105bfa38a924495f96503a1e",
+        "exact_text_sha256": "665cf03837eeedcaecb0b1bc01f81842b03ef535d7816704fd9eab6057d2ba87",
+        "source_line_start": 63,
+        "source_line_end": 78,
+        "section_index": 3,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "665cf03837eeedcaecb0b1bc01f81842b03ef535d7816704fd9eab6057d2ba87",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0103-p0104:s04:x00",
+      "section_type": "constituents",
+      "original_text": "          Bestandtheile.           Der      venetianische   Terpenthin    liefert   bei   derungefahr 15,\n                                                                                                Destination\nseltener bis 25°/ atherischen Oeles, welches der Hauptmenge nach bei 157° siedet; ein kleiner Theil geht\nerst gegen 190° iiber.   Das erstere entspricht der Formel Ci Hi 6 (Fltickiger). Das Harz besitzt nach\nMaly die Formel C 44: H 62 4       Die Bestandtheile des frischen Balsames sind nach Unverdorben\n                                    .\n\n\n\n\nfolgende: 2 fliichtige Oele, von denen das eine leicht, das andere weniger leicht destillirbar ist, geringe\nMengen von Bern stein saure, viel Pininsaure und wenig Silvinsaure, indifferentes, in Steinol unlosliches\nHarz, bitteren Extraktivstoff.    Maly halt jedoch die Pinin- und Silvinsaure fur unreine Abietinsaure.\nBerzelius fand in einem alten Balsam atherisches Oel, welches aus 2 Oelen bestand, von denen das\neine in Steinol loslich, das andere in letzterem unloslich war.    Stenhouse hat aus der Larchenrinde\neine krystallisirbare, in Wasser schwer, in Aether leicht losbare Substanz isolirt, die er Larixsdare\n—   Cio Hio O5 (Larixin, Larixinsaure) nannte.   (Husemann, Pflanzenstoff 347, 342.)",
+      "normalized_text": null,
+      "zh_tw_rendering": "含揮發油、松脂酸、松香酸。樹脂含C44H62O4。樹皮含Larixsäure。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 104,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 2470,
+        "char_end": 3734,
+        "page_text_sha256": "b07d6d57562a1a157eef752f02b8ccc2871003e121755bb49427e3e7161a07b6",
+        "exact_text_sha256": "837196318717c5644322ae4ff6fcfb5e5a84d575bdd43bba1e07688a6f22420d",
+        "source_line_start": 33,
+        "source_line_end": 49,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "837196318717c5644322ae4ff6fcfb5e5a84d575bdd43bba1e07688a6f22420d",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0103-p0104:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "          Anwendung.    Der Larchepterpenthin wird innerlich in Pillenform, in Bissen und als Emulsion\ngegeben, auch ausserlich zu Salben und Pflastern verwendet.      Bei innerlicher Anwendung wird der\nvenetianische Terpenthin den anderen Terpenthinen vorgezogen.                  (Husemann, Arzneimittell. 543.)            Im\nUebrigen siehe Ptnns Pinaster Sol. Der Larchenterpenthin ist ein gewohnlicher Bestandtheil der Lacke\nund Firnisse.  Das Holz der Larche ist als Bauholz und namentlich zu Rohren bei Wasserleitungen\nsehr geschatzt.",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：樹脂內服製丸或乳劑，外用製膏。木材用於建築及水管。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 104,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 3865,
+        "char_end": 4405,
+        "page_text_sha256": "b07d6d57562a1a157eef752f02b8ccc2871003e121755bb49427e3e7161a07b6",
+        "exact_text_sha256": "09a7e20e2383bf58c5250816b072a6c1cd89c5a7a7e225643f12c3c48abb8690",
+        "source_line_start": 55,
+        "source_line_end": 60,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "09a7e20e2383bf58c5250816b072a6c1cd89c5a7a7e225643f12c3c48abb8690",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "fa7ae4d71e58d0a5040f952449c4f59f1c0e48a6e4e4556f011de436eaa7f475",
+    "maker_receipt_sha256": "df09d71ec30a744a4444858490d4151b6d1ed37a913cde2b77331891abd93ad8",
+    "validation_check_sha256": "f731107f6f7eb5fe3be413d9fa5c3856164480d462a953ee4da4c159dfd3f248",
+    "source_disposition_sha256": "1b8e3ce6f66eaf77e59243acc572c75f606db81cd5b2eef16e5a6240e8bf1d35",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "df09d71ec30a744a4444858490d4151b6d1ed37a913cde2b77331891abd93ad8",
+      "validation_check_sha256": "f731107f6f7eb5fe3be413d9fa5c3856164480d462a953ee4da4c159dfd3f248",
+      "source_disposition_sha256": "1b8e3ce6f66eaf77e59243acc572c75f606db81cd5b2eef16e5a6240e8bf1d35"
+    },
+    "naming_artifact_sha256": "7325483826a6f63e7ec810b10c619338745141383a08932ce05a8808a5ed0358"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "823e573372fd441b075867e4d600167759ab25d18a5ed1038577877da77e8711"
+}

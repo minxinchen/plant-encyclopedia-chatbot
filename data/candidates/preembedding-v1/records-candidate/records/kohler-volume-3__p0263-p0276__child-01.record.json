@@ -1,0 +1,232 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-3-p0263-p0276-child-01",
+  "entry_id": "kohler-volume-3:p0263-p0276:child-01",
+  "owner_shard": null,
+  "book_taxon": {
+    "scientific_name": "Schleichera trijuga",
+    "authorship": null,
+    "aliases": []
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Schleichera trijuga"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-20T23:03:40+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Schleichera+trijuga",
+        "query_name": "Schleichera trijuga",
+        "retrieved_at": "2026-08-20T23:03:00+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 263,
+      "evidence_type": "text",
+      "page_text_sha256": "fb81d3f606e09c0af521ffc13b374dd570d544e0204cd47ed82cb1ba22eee5c5",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 264,
+      "evidence_type": "text",
+      "page_text_sha256": "79e76c0c59baae1e90d7227efec45d006198ccb6f440a28b4140f20aa5887b2d",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 265,
+      "evidence_type": "text",
+      "page_text_sha256": "6ba9665a96790dd41bfaedb2d838aae2775d6bd830be85ecd7fd67fbc3565f9d",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-3:p0263-p0276:child-01:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                             Schleichera                   trijuga Willd.\nEngl.: Ceylon Oak; Ind.: kosimb, kosum, kussumb, gausam (Hindost. u. Mar.); pumaram\n(Tam.); may, roatangha (Tel.); puvam (mal.); sagade, sagdimarra chakota (Can.); kassuma,\n       koham (panch mehals); gyoben (Birm.); kon (Singhal.); puvu, kula (Tamil).\n       Syn. schleichera pubescens Roth. Melicocea trijuga Juss. Seytalia trijuga Roxb.                         Stad-\nmannia trijuga Spreng. (ussambium spinosum Hamilt. Pistacia oleosa Lour.\n        Familie: Sapindaceae Unterfamilie: Eusapindaceae.                      Tribus:     Anomophyllae        Sub-\ntribus: Schleichereae. Gattung: Schleichera Willd.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 263,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 684,
+        "source_line_start": 1,
+        "source_line_end": 8,
+        "page_text_sha256": "fb81d3f606e09c0af521ffc13b374dd570d544e0204cd47ed82cb1ba22eee5c5",
+        "exact_text_sha256": "a49771c1f6c4822bf6612b60c6b3d556bbba5c3dd0ccc976825975c573ee7723",
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "a49771c1f6c4822bf6612b60c6b3d556bbba5c3dd0ccc976825975c573ee7723",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0263-p0276:child-01:s01:x00",
+      "section_type": "description",
+      "original_text": "        Beschreibung. Ein bis 20 m hoher Baum, dessen Stamm !/, bis 1 m im Durchmesser\nhält und von aschgrauer oder graubrauner Rinde mit tiefen unregelmässigen Längsfurchen\nbedeckt   ist. Die wenigen  aufsteigenden grossen Äste bilden                     eine breite, runde Krone.\nDie älteren Zweige sind kahl, die jüngeren zuweilen schwach                       behaart.   Die abwechselnd\nstehenden Blätter      sind paarig gefiedert      und besitzen keine Nebenblätter.               Der Blattstiel ist\nkahl oder auch fein behaart, auf der Oberseite mit einer Längsrinne versehen und im Mittel\n5 bis 8 cm lang.  Meist sind drei, seltener zwei oder vier Paar Blättchen vorhanden; diese\nsind länglich-elliptisch,    eineinhalb-    bis zweimal so lang als breit, fast ganz ungestielt,                am\nGrunde abgerundet, oben spitz, beiderseits kahl, oder an der Unterseite zuweilen flaumhaarig,\nvon dick lederartiger Substanz (wenn ausgewachsen), mit starker Mittelrippe und jederseits\nzehn bis achtzehn auf der Unterseite kräftig hervortretenden Seitennerven; die alten Blätter\nsind tiefgrün, die jungen zuerst rot, dann hellgrün, die Blättchen des untersten Paares sind\ngewöhnlich 6 bis 10 cm lang, die mittleren sind meist etwas grösser, und die obersten er-\nreichen eine Länge von 20 cm.       Die kleinen Blüten sind zu verzweigten rispenförmigen\nInflorescenzen vereinigt, welche aus den Achseln der oberen Blätter entspringen und sind\nanscheinend      polygamisch-diöcisch,      d. h. es sind        männliche     Blüten   vorhanden      mit einem\nRudimente des Fruchtknotens und anscheinend Zwitterblüten, aber mit unwirksamen Blüten-\nstaube und geschlossen bleibenden Antheren an verkürzten Staubblättern, also eigentlich\nweibliche Blüten, und zwar auf verschiedenen Pflanzen.   Beide Blütenformen sind hellgrün\ngefärbt. Der Kelch ist unterständig, vier- bis sechsteilig, die Abschnitte in der Knospenlage\nklappig oder sich schmal deckend, breit eiförmig, stumpf, etwa 1 mm lang. Blumenblätter\nfehlen. Die vier bis acht Staubblätter sind auf einem flachen, am Rande etwas welligen\nund   gelappten,    ringförmigen   Diskus   inseriert,     besitzen   lange,   dünne,    kahle    Staubfäden   und\nrundliche Antheren, welche mit nach innen gerichteten Längsspalten sich öffnen. Der Frucht-\nknoten ist kegelförmig, drei-, seltener vierfächerig, schwach behaart, an der Spitze in einen\nkurzen   starren   Griffel übergehend,      der von      einer   drei- bis vierlappigen    kopfförmigen      Narbe\nmit zurückgekrümmten Lappen gekrönt ist. In jedem Fruchtknotenfache befindet sich eine\ngekrümmte, apotrope und aufsteigende Samenknospe. Die Frucht ist Kugelig oder eiförmig,\nüber kirschgross,     im trockenen Zustande      dick krustenartig,       Kahl, häufig mit einzelnen kurzen,\nspitzigen Fortsätzen und durch Fehlschlagen meist einfächerig. Der Same ist vom Samen-\nmantel umhüllt, mit ziemlich dicker, krustenartiger Schale, ohne Nährgewebe. Der Embryo\nist vom Rücken des Samens gegen die Bauchfläche hufeisenförmig zusammengefaltet,                                das\nkurze Würzelchen wird nebst dem unteren Teile der Keimblätter von einer weiten Falte                            der\nSamenschale aufgenommen.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 263,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 685,
+        "char_end": 3908,
+        "source_line_start": 9,
+        "source_line_end": 42,
+        "page_text_sha256": "fb81d3f606e09c0af521ffc13b374dd570d544e0204cd47ed82cb1ba22eee5c5",
+        "exact_text_sha256": "304cdabb3ef1fcba3e7263801b1c4810c1fca8f8f934bf9a9485dee0bbb494a7",
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "304cdabb3ef1fcba3e7263801b1c4810c1fca8f8f934bf9a9485dee0bbb494a7",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0263-p0276:child-01:s02:x00",
+      "section_type": "flowering",
+      "original_text": "         Blütezeit. Die alten Blätter werden in Indien im Februar abgeworfen, und die Blüten\n erscheinen mit den jungen zuerst purpurroten Blättern im März.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 264,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 156,
+        "source_line_start": 1,
+        "source_line_end": 2,
+        "page_text_sha256": "79e76c0c59baae1e90d7227efec45d006198ccb6f440a28b4140f20aa5887b2d",
+        "exact_text_sha256": "678c8a35d8e5ff1bc837678f7df4a020ce4fc9a5cd5085acfc8638ec7b263260",
+        "section_index": 2,
+        "section_type": "flowering"
+      },
+      "exact_text_sha256": "678c8a35d8e5ff1bc837678f7df4a020ce4fc9a5cd5085acfc8638ec7b263260",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0263-p0276:child-01:s03:x00",
+      "section_type": "constituents",
+      "original_text": "          Pharmazeutisch und technisch wichtig sind das aus den Samen gepresste Öl und\n das Sekret der Lackschildlaus auf den Zweigen des Baumes, der Gummilack. Die Samen\n bestehen nach Thümmel und Kwasnick aus etwa 45°/, Schalen und 55°/, Kotyledonen;\n letztere enthalten etwa 65 bis 68°/, Fett, welches, auf das Gewicht der ganzen Samen über-\n tragen, etwa 36°/, der letzteren ausmacht. Neben diesem fetten Öl geben die Samen noch\n freie Blausäure, welche als Zersetzungsprodukt von vorhandenem Amygdalin aufzufassen ist,\n da es den genannten Forschern gelang, neben Rohrzucker auch Traubenzucker und Benzaldehyd\n (Bittermandelöl) in den Pressrückständen bezw. ihren Destillationsprodukten nachzuweisen.\n         Das fette Öl der Samen ist unter dem Namen Makassar-Öl bekannt. Es ist hellgelb,\n bei gewöhnlicher Temperatur butterweich, und trennt sich in der Ruhe in einen festeren und\n einen flüssigeren Teil. Bei 21 bis 22° schmilzt es zu einer klaren Flüssigkeit, welche deutlich\n nach Blausäure riecht; der feste Bestandteil schmilzt, von der Flüssigkeit befreit, bei 28°.\n Das Öl besitzt die Verseifungszahl 230 bis 238,5, die Säurezahl 62,4, die Esterzahl ungefähr\n 176; die Hehnersche Zahl liegt bei 90,6, die Jodzahl bei 53,46.\n        Bestandteile. Das Makassaröl enthält 3,14°/, freier Ölsäure; das übrige Fett besteht\naus Glyceriden und zwar 70°/, der Ölsäure, 5 °/, der Palmitinsäure und 25 °/, der Arachinsäure;\nferner enthält das Ol 0,03 bis 0,05°/, Blausäure und 6,32°/, Glycerin.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 264,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 753,
+        "char_end": 2250,
+        "source_line_start": 11,
+        "source_line_end": 27,
+        "page_text_sha256": "79e76c0c59baae1e90d7227efec45d006198ccb6f440a28b4140f20aa5887b2d",
+        "exact_text_sha256": "873e44c0039db8b2e70d28615441e05d84d07e870dc7291432b0639142af6e00",
+        "section_index": 3,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "873e44c0039db8b2e70d28615441e05d84d07e870dc7291432b0639142af6e00",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0263-p0276:child-01:s04:x00",
+      "section_type": "literature",
+      "original_text": "         Litteratur.    Beschreibung und Abbildungen.        Rumph., Herb. Amb.“I. tab. 57 (Cussambium).\n— Gaertn., Fruct. II. p. 486. tab. 180. Fig. 11 (Koo—n)     Wil.\n                                                               ld., Spec. plant. IV. p. 1096.—\nJuss., in Mem. Mus. Par. II. (1817). p. 187. tab. 8. (Melicoeca trjjug    —a)\n                                                                            Rot.\n                                                                               h, Nov. pl. spec.\npP: 385 (Schleichera pubescens). —Roxb., Fl. Ind. I. p. 277. — DC., Prodr. I. p- 615. — Spreng,,\nSyst. I. p. 243 (Stadmannia trijuga). — Buch.-Ham. in Mem. Wern. Soc. V. 2. (1826). P- 356\n(Cussambium spinosum) et 357 (Uussambium pubescens). — Kosteletzky, Med. pharm. Fl. V. D-\n1829 (Sechleichera trijuga und aculeata). — Blume, Rumphia II. p. 147. — Endl., Gen. p. 1072\n                                                                                                      52",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 265,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 5056,
+        "char_end": 6052,
+        "source_line_start": 64,
+        "source_line_end": 74,
+        "page_text_sha256": "6ba9665a96790dd41bfaedb2d838aae2775d6bd830be85ecd7fd67fbc3565f9d",
+        "exact_text_sha256": "e9c19191c9d444c79885478700b29754a1803a4a2b8c2f1c646af2e4736da75d",
+        "section_index": 4,
+        "section_type": "literature"
+      },
+      "exact_text_sha256": "e9c19191c9d444c79885478700b29754a1803a4a2b8c2f1c646af2e4736da75d",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "ca4c6c652e8917bc73133862f0ca63eec2a1d1f69412c61eabe9e6ffa285671a",
+    "maker_receipt_sha256": null,
+    "validation_check_sha256": null,
+    "source_disposition_sha256": "c1c0a54db482cc52dad57af10733c846daae4a930e459f212bc3cdb01e73cb15",
+    "candidate_source_chain": {
+      "source_disposition_sha256": "c1c0a54db482cc52dad57af10733c846daae4a930e459f212bc3cdb01e73cb15",
+      "boundary_overlay_plan_sha256": "c7c0253e52f0583570699f98cc9c8fa3dda15857551bc2b94d6430ed0afd008a",
+      "boundary_segment_sha256": "83144a1de46f66f96187f65ab3e0164474e475ac843d0e19940aa63811edc95e",
+      "source_parent_entry_id": "kohler-volume-3:p0263-p0276",
+      "continuation_v2_receipts": [
+        {
+          "package_id": "kohler-volume-3:p0263-p0276:child-01:continuation-01",
+          "package_sha256": "3363b1079f41e32be3d5242a8db16c9b9c894a85cda8bc6f7ff37f71c0162056",
+          "receipt_sha256": "af66f53d8a9f26562efafd0dccf04e5c5dcde832690cbe874cedd3ab43e126e1",
+          "attempt_sha256": "4d96c4fe3dd7f0b87121074e8c36c31f26af4b983a4c6da6985474199d6ae826",
+          "validation_check_sha256": "e4545201a65ecda6da2d80073e821181f15423c3ffe18952505d7c75a3eeef6e"
+        }
+      ]
+    },
+    "naming_artifact_sha256": "5c645aec7ca40c7eea57d24075beccf24b65ccc3fa6f0b2a51f81938c1649e1e"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "ccc758acd0277462c946994748bdf44aac8ce534225eacaf19dd24b5cda6de5f"
+}

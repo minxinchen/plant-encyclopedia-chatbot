@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 417,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "3cff49cc8f6abc2186e32213a636bda47396170a6f270c2a85f00feff6c73d43",
+  "render_dpi": 144,
+  "render_sha256": "dda6afaaaa432272dec54c275ca173e4a1d1ed497cb82019fdf56cce23fffdaa",
+  "input_sha256": "dda6afaaaa432272dec54c275ca173e4a1d1ed497cb82019fdf56cce23fffdaa",
+  "render_pixel_width": 5318,
+  "render_pixel_height": 8246,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.701,
+  "embedded_character_count": 60,
+  "ocr_character_count": 45,
+  "ocr_alpha_ratio": 0.7111,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.0182646796816871,
+      "text": "Umbelliferae",
+      "width": 0.10392992459810702,
+      "x": 0.7903773801750823,
+      "y": 0.9574374277764972
+    },
+    {
+      "confidence": 1,
+      "height": 0.01923314162663048,
+      "text": "(Ammieae)",
+      "width": 0.09025937007023743,
+      "x": 0.7949604061269016,
+      "y": 0.9329706382568376
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436846943,
+      "text": "5",
+      "width": 0.0180180182823768,
+      "x": 0.06306306284079359,
+      "y": 0.32122093031936716
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "7",
+      "width": 0.013513513711782665,
+      "x": 0.5112612610119764,
+      "y": 0.12500000034559333
+    },
+    {
+      "confidence": 1,
+      "height": 0.017174768069433743,
+      "text": "Cicuta virosa I",
+      "width": 0.13995508047250604,
+      "x": 0.4097521904918764,
+      "y": 0.0633602904273094
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "21",
+      "width": 0.013513513711782665,
+      "x": 0.9234234232116763,
+      "y": 0.017441860860159863
+    }
+  ],
+  "text": "Umbelliferae\n(Ammieae)\n5\n7\nCicuta virosa I\n21",
+  "output_sha256": "5395d9abf285dbb9ce490495515d3a28a0d545e850c035e0f92ce0acaf827508",
+  "receipt_sha256": "0147c928fba58da79457aeb389334c5857669b412861f5d884ec12f79ef956ce"
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 701,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "886752b416d64b344a672a993dc51f9432b8689949a4a75344d1dc5e78e4363f",
+  "render_dpi": 144,
+  "render_sha256": "be80daae79b21647b43a9d991d57248a365974a869fe23a9f9c08a0b489b7003",
+  "input_sha256": "be80daae79b21647b43a9d991d57248a365974a869fe23a9f9c08a0b489b7003",
+  "render_pixel_width": 5366,
+  "render_pixel_height": 7910,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.302,
+  "embedded_character_count": 100,
+  "ocr_character_count": 46,
+  "ocr_alpha_ratio": 0.7826,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.020627381309630377,
+      "text": "Leguminosae.",
+      "width": 0.1478344097472074,
+      "x": 0.8050977826253622,
+      "y": 0.9300932863403485
+    },
+    {
+      "confidence": 1,
+      "height": 0.020429586607312422,
+      "text": "Pterocarpus santalinus l. fil",
+      "width": 0.37259100752267227,
+      "x": 0.2976445427911263,
+      "y": 0.07986111068599722
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729363,
+      "text": "176",
+      "width": 0.029978584824946863,
+      "x": 0.8865096372984473,
+      "y": 0.024709302427926016
+    }
+  ],
+  "text": "Leguminosae.\nPterocarpus santalinus l. fil\n176",
+  "output_sha256": "8e1ba2f24a80f7bef51b1e990357db5885f1d227375b1db4b175c6b7fa78cc93",
+  "receipt_sha256": "deaf6669e6f5c12ec7f3f1afe817d9a016b3d58b1722776ab4a23292ad08eb2e"
+}

@@ -1,0 +1,265 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0141-p0142",
+  "entry_id": "kohler-volume-1:p0141-p0142",
+  "owner_shard": "S02",
+  "book_taxon": {
+    "scientific_name": "Melilotus officinalis",
+    "authorship": "Desr.",
+    "aliases": [
+      "Trifolium Melilotus officinalis a. L.",
+      "Trifolium Petitpierr eanum Hayne",
+      "Melilotus arvensis Wallr.",
+      "Melilotus Petitpierr eanus Willd.",
+      "Melilotus Petitpierr eanus et diffusa Koch.",
+      "Melilotus altissimus Thuill.",
+      "Trifolium Melilotus officinalis y. L.",
+      "Trifolium macrorrhizum W. et K.",
+      "Melilotus macrorrhizus Pers.",
+      "Trifolium officinale Hayne",
+      "Melilotus officinalis Willd."
+    ]
+  },
+  "display_name": "黃香草木樨",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Melilotus officinalis"
+    ],
+    "accepted_scientific_name": "Melilotus officinalis",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T12:51:25+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Melilotus+officinalis",
+        "query_name": "Melilotus officinalis",
+        "retrieved_at": "2026-08-13T12:51:25+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0058517",
+        "query_name": "Melilotus officinalis",
+        "retrieved_at": "2026-08-13T12:51:25+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0058517",
+        "query_name": "Melilotus officinalis",
+        "retrieved_at": "2026-08-13T12:51:25+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL accepts the queried book binomial at species rank."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 141,
+      "evidence_type": "text",
+      "page_text_sha256": "34a0ff4b76087cf49bb26d20ecff84193093bd5074af214b73a1e4585fa9d6e4",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 142,
+      "evidence_type": "text",
+      "page_text_sha256": "38619ddcd7e1167d42a601865922480fa70706259d253298c4ac230d6868ba74",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0141-p0142:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                   Melilotus officinalis                   D esr.\nSyn.-     Trifolium Melilotus      officinalis    a.   L.    Trifolium Petitpierr eanum Hayne.                           Melilotus\narvensis Wallr.         Melilotus Petitpierr eanus Willd.        Melilotus Petitpierr eanus et diffusa                           Koch.\n\n\n\n                                  Melilotus altissimus Thuill.\n\nSyn. Trifolium Melilotus officinalis y. L.                   Trifolium macrorrhizum             W. et K.                 Melilotus\n          macrorrhizus Pers.           Trifolium officinale Hayne.          Melilotus officinalis Willd.\n\n\n               Steinklee, Honigklee, Schotenklee                     Melilot officinal               Melilot.\n\n\n           Familie: Papilionaceae.        Gattung: Melilotus Tourn.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Melilotus officinalis Desr.，同義名包括 Trifolium Melilotus 等。俗名 Steinklee、Honigklee。隸屬 Papilionaceae 科。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 141,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 111,
+        "char_end": 943,
+        "page_text_sha256": "34a0ff4b76087cf49bb26d20ecff84193093bd5074af214b73a1e4585fa9d6e4",
+        "exact_text_sha256": "cb38bdc5e04662f1658a7a1576581cbd52bfea567fdc8369912d5a5a8f26dd29",
+        "source_line_start": 6,
+        "source_line_end": 21,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "cb38bdc5e04662f1658a7a1576581cbd52bfea567fdc8369912d5a5a8f26dd29",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0141-p0142:s01:x00",
+      "section_type": "description",
+      "original_text": "           Beschreibung.        A. Melilotus officinalis Desr.        Pflanze 2jahrig.       Die schiefe, fast geringelte,\nastige,   mit Wurzelfasern besetzte Wurzel treibt emen ^  gewohnlich erst niederliegenden, dann auf-\nsteigenden, astigen, unten fast stielrunden, oben etwas kantigen, %                —\n                                                                            1 Meter hohen Stengel, der,\nsammt den Aesten, mit 3zahligen, nicht sehr zahlreichen, ziemlich lang gestielten, bis 4 Cm. langen,\nvon borstig-pfriemlichen und ganzrandigen Nebenblattern begleiteten Blattern besetzt ist. Blattchen\nkahl, hochstens unterseits langs der Mittelrippe sparsam mit kurzen Haaren besetzt, gesagt, fast\ngestiitzt, die der unteren Blatter rautenformig   die der oberen lanzettlich.\n                                                         ,                        Bliithenstand eine blatt-\nachselstandige gestielte lange Traube bildend, mit einseitig herabhangenden Bluthen.",
+      "normalized_text": null,
+      "zh_tw_rendering": "二年生植物，莖高約 1 米，先匍匐後上升。葉為三出複葉，葉片無毛，下部葉菱形，上部葉披針形。花序為腋生總狀花序。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 141,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 944,
+        "char_end": 1925,
+        "page_text_sha256": "34a0ff4b76087cf49bb26d20ecff84193093bd5074af214b73a1e4585fa9d6e4",
+        "exact_text_sha256": "50a119fab4c830b6af44a7b5b5aefaa1f6ecf6732de4b907d4ce7cc1adf6ee68",
+        "source_line_start": 22,
+        "source_line_end": 31,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "50a119fab4c830b6af44a7b5b5aefaa1f6ecf6732de4b907d4ce7cc1adf6ee68",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0141-p0142:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "           Anatomisches:  Der Querschnitt des sehr kleinzelligen Blattes zeigt nach Fliickiger in der oberen Halfte\neine Palissadenschicht  in der unteren Schwammparenchym.\n                         ,                                      Die Epidermis lasst auf beiden Seiten wellenformige\nWolbungen erkennen. An Bluthen und Blattern machen sich vereinzelte Driisenhaare bemerkbar. Die Gefassbundel\nder Blatter sind mit zahlreichen Oxalatkrystallen ausgestattet.",
+      "normalized_text": null,
+      "zh_tw_rendering": "葉橫切面顯示上層為柵狀組織，下層為海綿組織。表皮呈波浪狀。花與葉具腺毛。葉維管束含大量草酸鹽結晶。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 141,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4553,
+        "char_end": 5014,
+        "page_text_sha256": "34a0ff4b76087cf49bb26d20ecff84193093bd5074af214b73a1e4585fa9d6e4",
+        "exact_text_sha256": "b6e7d5732dc39b391625ba990706a8f8a14f4a2e8cec927ab469b38347fad6e0",
+        "source_line_start": 80,
+        "source_line_end": 84,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "b6e7d5732dc39b391625ba990706a8f8a14f4a2e8cec927ab469b38347fad6e0",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0141-p0142:s03:x00",
+      "section_type": "distribution",
+      "original_text": "           Verbreitung.       An Flussufern, Graben, Zaunen, in feuchten Gebiischen, Hecken durch einen\ngrossen Theil von Europa mit Ausschluss des Nordens und durch Mittelasien.",
+      "normalized_text": null,
+      "zh_tw_rendering": "分佈於歐洲大部分地區（不含北部）及中亞。生長於河岸、溝渠、籬笆及潮濕灌木叢中。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 141,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 5016,
+        "char_end": 5194,
+        "page_text_sha256": "34a0ff4b76087cf49bb26d20ecff84193093bd5074af214b73a1e4585fa9d6e4",
+        "exact_text_sha256": "b840486c847e52616e4f7a78704d5c2bb1710077ade3671748dfff71895dd4f3",
+        "source_line_start": 86,
+        "source_line_end": 87,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "b840486c847e52616e4f7a78704d5c2bb1710077ade3671748dfff71895dd4f3",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0141-p0142:s04:x00",
+      "section_type": "constituents",
+      "original_text": "         Bestandtheile. Der Steinklee enthalt Harzstoffe, Kohlehydrate, wenig Gerbstoff, pflanzen-\nsaure Kali- und Kalksalze, einen zuerst 1820 von Vogel in den Tonkabohnen entdeckten, von ihm\nfiir Benzoesaure gelialtenen,  von Guibourt als eigenthiimlich erkannten und Cumarin genannten\nkrystallinischen Stoff, eine eigenthiiinliche krystallinische, aromatische Saure: Melilot satire und ein\n                                                                           ,\n\n\natherisches Oel: Melilotol.   Cumarin, mit der Pormel C9 H 6 2 ausserdem in den Tonkabohnen,                  ,",
+      "normalized_text": null,
+      "zh_tw_rendering": "含樹脂、碳水化合物、少量單寧、植物酸鉀鈣鹽、香豆素（Cumarin）、香豆酸（Melilotsäure）及揮發油（Melilotol）。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 142,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 1313,
+        "char_end": 1896,
+        "page_text_sha256": "38619ddcd7e1167d42a601865922480fa70706259d253298c4ac230d6868ba74",
+        "exact_text_sha256": "2c3a860681af571502646354d59ed0a6ac25e5e8b794799c43b6eaa1a0c7d066",
+        "source_line_start": 23,
+        "source_line_end": 30,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "2c3a860681af571502646354d59ed0a6ac25e5e8b794799c43b6eaa1a0c7d066",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0141-p0142:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "                Anwendung.   Der Steinklee dient als wohlriechender Zusatz zu Spezies fur Krauterkissen\ntmd Kataplasmen, auch im Axifguss zu Bahungen. Er ist ein Bestandtheil der Species emollientes und\ndes fruher offizinellen Emplastrum Meliloti.       ^Cumarin ist in grossen Graben toxisch, theils lokal\nirritirend, theils narkotisch; 4,0 konnen Nausea, Schwindel, Erbrechen, Schlafsucht\n                                                                                     und mehrstiindio-es\nUnwohlsein, 2,5 heftige Kopfschmerzen und Kuctus herbeifiihren.        Nach Kohler setzt Cumarin bei\nKalt- und Warmbliitern nicht. allein die Grosshirnfunktion und Eeflexerregbarkeit in\n                                                                                          hohem Grade\nherab, sondern auch die Hemnrangsmechanismen im Herzen, den Herzmuskel und das\n                                                                                          Gefassnerven-\ncentrum etc.\" Steinkleepulver wird unter den Schnupftabak gemischt, auch zur Geschmacksverbesserung\ndes Schweizerkases benutzt.                          (Husemann, Arzneimmittell. 409.)",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：作藥枕及敷劑之芳香添加劑。香豆素大劑量具毒性，可致噁心、眩暈。粉末曾混入鼻煙或用於改善乳酪風味。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 142,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4088,
+        "char_end": 5240,
+        "page_text_sha256": "38619ddcd7e1167d42a601865922480fa70706259d253298c4ac230d6868ba74",
+        "exact_text_sha256": "2d3af94cc752dbf183b82d343003f405aa981d11ef3a7436afed50665f167413",
+        "source_line_start": 60,
+        "source_line_end": 71,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "2d3af94cc752dbf183b82d343003f405aa981d11ef3a7436afed50665f167413",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "4c50e064b3c74d08d66188b6b8bb3fbd4558dc77e764474503789253b8b2cd3c",
+    "maker_receipt_sha256": "b10d20eb6d12117066f69edf71e656f184c144fab172d654d35c7882a0cc0b79",
+    "validation_check_sha256": "f43899ce5ae31d17176832d41c2dff1b5f3fe9d3fec66ba14ff9a7e80f02080a",
+    "source_disposition_sha256": "ff5158d2751789aef498a6d30d367dbce2474ef4859226202b682afdb80b9369",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "b10d20eb6d12117066f69edf71e656f184c144fab172d654d35c7882a0cc0b79",
+      "validation_check_sha256": "f43899ce5ae31d17176832d41c2dff1b5f3fe9d3fec66ba14ff9a7e80f02080a",
+      "source_disposition_sha256": "ff5158d2751789aef498a6d30d367dbce2474ef4859226202b682afdb80b9369"
+    },
+    "naming_artifact_sha256": "192b40a3cb7c698342668fea375c4863c22f1f470adb9cb392ea0d4c151e6486"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "41b4941a5940c114f746a44a3dc0d2bfff429572b7d64792efb7163c01650931"
+}

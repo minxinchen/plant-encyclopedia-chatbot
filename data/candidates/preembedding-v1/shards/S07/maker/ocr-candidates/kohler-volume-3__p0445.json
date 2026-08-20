@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 445,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "7240253c71dc58db57aff7290b388b24757e9d369c37dc22bcb2633ea373e7f0",
+  "render_dpi": 144,
+  "render_sha256": "3b43255d668a1e4bb5d75510ee0a8c67e63a76cdb97461d1c801a4c5e305fa2b",
+  "input_sha256": "3b43255d668a1e4bb5d75510ee0a8c67e63a76cdb97461d1c801a4c5e305fa2b",
+  "render_pixel_width": 6014,
+  "render_pixel_height": 8330,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.728,
+  "embedded_character_count": 106,
+  "ocr_character_count": 74,
+  "ocr_alpha_ratio": 0.6892,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01949872478606207,
+      "text": "Papilionaceae",
+      "width": 0.11688473460438487,
+      "x": 0.7685194027600577,
+      "y": 0.9633611025313842
+    },
+    {
+      "confidence": 1,
+      "height": 0.021051353878445034,
+      "text": "(Genisteae)",
+      "width": 0.08482650610116815,
+      "x": 0.7865605904745117,
+      "y": 0.9415092069551805
+    },
+    {
+      "confidence": 1,
+      "height": 0.011662513963759946,
+      "text": "2 a",
+      "width": 0.024144869584303646,
+      "x": 0.12072434555660741,
+      "y": 0.8110119047686823
+    },
+    {
+      "confidence": 1,
+      "height": 0.010243632490672727,
+      "text": "2 c",
+      "width": 0.022132794935624672,
+      "x": 0.07645875321126211,
+      "y": 0.6845238093209529
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436846943,
+      "text": "2d",
+      "width": 0.024144869584303633,
+      "x": 0.10261569422193269,
+      "y": 0.6279069767728556
+    },
+    {
+      "confidence": 1,
+      "height": 0.01027823913665038,
+      "text": "2 e",
+      "width": 0.020120724216922306,
+      "x": 0.09054325982312837,
+      "y": 0.5580357142193068
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "A",
+      "width": 0.01207243479215181,
+      "x": 0.4828973841330992,
+      "y": 0.19476744213822883
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883082859107,
+      "text": "8",
+      "width": 0.020120724216922292,
+      "x": 0.36619718291165954,
+      "y": 0.17441860486118677
+    },
+    {
+      "confidence": 1,
+      "height": 0.02325581368945895,
+      "text": "Sarothamnus scoparius Koch",
+      "width": 0.24748489882919816,
+      "x": 0.35613682314576317,
+      "y": 0.01453488385294488
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "35",
+      "width": 0.018108650878235544,
+      "x": 0.873239437111184,
+      "y": 0.02616279090903062
+    }
+  ],
+  "text": "Papilionaceae\n(Genisteae)\n2 a\n2 c\n2d\n2 e\nA\n8\nSarothamnus scoparius Koch\n35",
+  "output_sha256": "5fe16c3bb678be743d7d8b6515e7717dec0b2f58a1287cd6051bbe7a536eaf34",
+  "receipt_sha256": "768df7a77a9ac2dcc49bd770d5faa964ad0109082b39faca2898548f810304ab"
+}

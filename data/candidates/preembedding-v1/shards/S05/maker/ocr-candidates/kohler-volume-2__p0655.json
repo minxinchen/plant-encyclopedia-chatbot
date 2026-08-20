@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 655,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "2ae152c51ccecaaece8a2a16218c01bf66e296638a9a4f5b98137739d85807d8",
+  "render_dpi": 144,
+  "render_sha256": "5d12ca8ef0f2eaa41884b9cd04d1d11eafd44c4afd421af09280f98a2307e2fb",
+  "input_sha256": "5d12ca8ef0f2eaa41884b9cd04d1d11eafd44c4afd421af09280f98a2307e2fb",
+  "render_pixel_width": 5858,
+  "render_pixel_height": 8066,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 5.697,
+  "embedded_character_count": 71,
+  "ocr_character_count": 41,
+  "ocr_alpha_ratio": 0.8293,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.022460731249006938,
+      "text": "Leğuminosae.",
+      "width": 0.12621329260654135,
+      "x": 0.8418933529690494,
+      "y": 0.9008335875951383
+    },
+    {
+      "confidence": 1,
+      "height": 0.024749870338137248,
+      "text": "Trigonella Foenum graecum 1.",
+      "width": 0.2986925052163379,
+      "x": 0.39362667178942473,
+      "y": 0.10183028473539302
+    }
+  ],
+  "text": "Leğuminosae.\nTrigonella Foenum graecum 1.",
+  "output_sha256": "d7750d504e4905e8e45cf7afec7aa31b6c0f8886b4c45e67f0915c1f1c7962e9",
+  "receipt_sha256": "8a9db434206a24e6086b8e97d203c52fcbc9a1b98796128f1db261b50b245957"
+}

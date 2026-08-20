@@ -1,0 +1,274 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0135-p0140",
+  "entry_id": "kohler-volume-1:p0135-p0140",
+  "owner_shard": "S02",
+  "book_taxon": {
+    "scientific_name": "Vitis vinifera",
+    "authorship": null,
+    "aliases": [
+      "Weinrebe",
+      "Weinstock",
+      "Vigne",
+      "Grape Vine"
+    ]
+  },
+  "display_name": "葡萄",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Vitis vinifera L.",
+      "Vitis vinifera"
+    ],
+    "accepted_scientific_name": "Vitis vinifera",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T12:35:11+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Vitis+vinifera+L.",
+        "query_name": "Vitis vinifera L.",
+        "retrieved_at": "2026-08-13T12:35:11+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0049337",
+        "query_name": "Vitis vinifera L.",
+        "retrieved_at": "2026-08-13T12:35:11+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0049337",
+        "query_name": "Vitis vinifera L.",
+        "retrieved_at": "2026-08-13T12:35:11+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Vitis+vinifera",
+        "query_name": "Vitis vinifera",
+        "retrieved_at": "2026-08-13T12:35:11+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL accepts the queried book binomial at species rank."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 135,
+      "evidence_type": "text",
+      "page_text_sha256": "f7418bd4cb2075dbb84822273822d8df8b5ab50f839c04f03741bb7d98c437a7",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 137,
+      "evidence_type": "text",
+      "page_text_sha256": "b0fcfcd2972a9f04fea302f666f5c4eaaf0b08d85a983a639533df5f1b62eb6e",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 139,
+      "evidence_type": "text",
+      "page_text_sha256": "a029b47b3552c8c415bd5a7e4b93610c3305dff104e77104c23019e62115371a",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0135-p0140:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                             Vitis vinifera L.\n\n                             Weinrebe, Weinstock                        Vigne              Grape Vine\n\n             Familie: Ampelideae.        Gattung:        Vitis L.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Vitis vinifera L.，屬葡萄科，德語稱 Weinrebe 或 Weinstock。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 135,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 0,
+        "char_end": 232,
+        "page_text_sha256": "f7418bd4cb2075dbb84822273822d8df8b5ab50f839c04f03741bb7d98c437a7",
+        "exact_text_sha256": "fb8c48521928aa76c315a0bbf167b6e5dd6563c35aaacd0d28e9672a93cb08b8",
+        "source_line_start": 1,
+        "source_line_end": 5,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "fb8c48521928aa76c315a0bbf167b6e5dd6563c35aaacd0d28e9672a93cb08b8",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0135-p0140:s01:x00",
+      "section_type": "description",
+      "original_text": "             Beschreibung.         Schlingender    Strauch,         der       iin    wilden       Zustande     10    und        mehr Meter\nemporrankt, mit holziger, starker, astiger, tief in den Boden\n                                                                     w       Wurzel                              7\n\nholzigem, hoch emporklimmendeni oder flach niedergestrecktem\n                                                                   mit aufrechten, oft sehr langen,\\in-\n                                                                                      ,\n\n\nund hergebogenen Aesten versehenem, oft ziemlich dickem Stamme.         Das porose, zahe, biegsame, mit\ndeutlichen Jabrringen und breiten Markstrablen ausgestattete,\n                                                              in jungen Zweigen grune Holz umschliesst\nein schwaromiges, weisses, spater braunes, in alten\n                                                    Stammen scbwindendes Mark.                                   Aeltere       Stamme und\nAeste mit einer graubraunen, abblatternden, faserig-zerreissenden\n                                                                                           Borke bedeckt.       Zweige als Langtriebe",
+      "normalized_text": null,
+      "zh_tw_rendering": "攀援灌木，野生可達10米以上，莖木質多分枝，皮灰褐色剝落，枝有長短之分。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 135,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 234,
+        "char_end": 1464,
+        "page_text_sha256": "f7418bd4cb2075dbb84822273822d8df8b5ab50f839c04f03741bb7d98c437a7",
+        "exact_text_sha256": "eeb3c4ca4816279d7fc017090d9c93937efe7e9f717782e06ea70c7c355ec8a4",
+        "source_line_start": 7,
+        "source_line_end": 22,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "eeb3c4ca4816279d7fc017090d9c93937efe7e9f717782e06ea70c7c355ec8a4",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0135-p0140:s02:x00",
+      "section_type": "distribution",
+      "original_text": "        Verbreitung DerWeinstock wird derzeit in alien Erdtheilen kultivirt. Die Weinkulturgrenze\n                                         :\n\n\n\ngeht in Europa von der Mundung der Loire (47 ^2°) zum Rhein bis 51°, erreicht bei Griineberg zwischen\n52 und 53° die nordlichste Grenze (wird jedoch noch hoher hinauf am Spalier gezogen), sinkt dann rasch\nin   siidostlicher          Richtung und erreicht                in   Besserabien nur noch den 46°                n.    Br.    In   Norwegen wird\nnoch unter dem 61 Breitengrade an den Ufern des Sognafjords Weinknltur getrieben.     Die siidliche\nGrenze der nordlichen Zone reicht bis zu 30° n. Br., geht im Seeklima jedoch bis zu 10° hinab. In\nNordamerika erstreckt sich der Weinbau bis zu 50° n. Br. In vertikaler Richtung steigt die Rebe in\nUngarn bis 300 Meter, am Nordabhange der Alpen und in Mitteldeutschland bis 500 Meter, an der\nSiidseite der Alpen bis 800 Meter, in Piemont bis 970 Meter.   Er gedeiht am besten in Regionen\nderen Mitteltemperatur im Juni 14—16°, im Juli 16                                      —\n                                                     18°, im September 13—14° R. betragt.      Die\nmittlere Jahrestemperatur darf 17° nicht iibersteigen.                                   In heissen Landern gedeiht er nicht mehr.                Er\nkommt in den weinbauenden Landern vielfach verwildert vor.",
+      "normalized_text": null,
+      "zh_tw_rendering": "全球栽培，歐洲北界至51-53度，南界至30度，垂直分佈可達970米。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 137,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 1915,
+        "char_end": 3292,
+        "page_text_sha256": "b0fcfcd2972a9f04fea302f666f5c4eaaf0b08d85a983a639533df5f1b62eb6e",
+        "exact_text_sha256": "3d7b26be08bdee64a1cf03b95917f9e864a2c9d8a8fb3cfd05b08ff433d77db4",
+        "source_line_start": 32,
+        "source_line_end": 48,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "3d7b26be08bdee64a1cf03b95917f9e864a2c9d8a8fb3cfd05b08ff433d77db4",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0135-p0140:s03:x00",
+      "section_type": "history",
+      "original_text": "             Name und Geschichtliches.  Der Name Rebe, althochdeutsch reba, rebo, mittelhochdeutsch\nreben, rebstock, soil wegen seiner Ranken verwandt sein mit Reif.   Grassmann fiihrt das Wort auf\ndas altindische rabh, in der Bedeutung fassen, anfassen, sich anklammern, sich woran halten zuriick.\nDas Wort Wein, als Bezeichnung des gegohrenen Saftes, stammt nach letzterem nicht, wie man\nvielfach      annimmt, aus                   dem   altindischen venas, lieblich,             sondern aus    dem Semitischen.            Die   diesem\nSprachstamme angehorenden Sprachen, das Arabische, Aethiopische und Hebraische, bezeichnen den\nWein                                                                                                                   Vitis    Weinrebe, Wein\nranke (keltisch gwid, Strauch) angeblich von viere, binden, flechten, wegen der rankenden Beschaffenheit;\n     fi              weintragend.\n\n              Als      die    ei^entliche          Heimat des Weines             sind     die   Lander zwischen dem Kaukasus und dem\nHindukusch zu betrachten, von wo aus                             die Kultur sich           schon in den fruhesten Zeiten fiber Kleinasien\nund von dort fiber Griechenland verbreitet haben mag.        Der Weinstock               alten Griechen",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源於印歐語系，原產高加索至興都庫什，古希臘羅馬時期已廣泛栽培。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 137,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 3294,
+        "char_end": 4586,
+        "page_text_sha256": "b0fcfcd2972a9f04fea302f666f5c4eaaf0b08d85a983a639533df5f1b62eb6e",
+        "exact_text_sha256": "f52e999798b3bf57b4f15b3d262adb3bffef1119a6a9d19a15d1bf720019ef14",
+        "source_line_start": 50,
+        "source_line_end": 62,
+        "section_index": 3,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "f52e999798b3bf57b4f15b3d262adb3bffef1119a6a9d19a15d1bf720019ef14",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0135-p0140:s04:x00",
+      "section_type": "constituents",
+      "original_text": "             Bestandtheile.                  Die jungen Weinblatter         enthalten:   saures       weinsaures Kalium,                  weins'auren\nKalk, Quercetin, Quercitrin, Gerbstoff, Amylum, Weinsaure, Apfelsaure, Gummi, Inosit, Zucker, Oxal-\nsaure, Ammon, phosphorsauren Kalk, Gyps; in den alteren Blattern fehlt Inosit und Apfelsaure. Das im\nFriihjahr aus den Zweigen ausfliessende Thranenwasser, die Rebthranen, enthalten nach Husemann:\nKohlensanre,         salpetersaures           Kalium, Gyps, phosphorsauren Kalk, Magnesium, Ammonsalze                                        ,       Zucker,\nweinsauren Kalk, Inosit, Bernsteinsaure, Oxalsaure; nach Witt stein ist dieses Thranenwasser wasserhell,\nneutral,           von fadem Geschmack, mit einem spezifischen Gewicht von 1,0021 raid enthalt:\n             geruchlos,\nKali, Kalk und etwas Magnesia verbunden mit Weinsteinsaure, Citronensaure, Milchsaure, Salpetersaure,\nwenig Phosphorsaure, Schwefelsaure, Chlor, Kieselsaure und Albumin.\n             Die    reifen      Beeren enthalten nach               Witt stein:     Zucker (Traubenzucker und Schleimzucker),\n                                          Wein steins                       saures weinsteinsaures Kali, weinsteinsauren Kalk,\n                                                                                              Wachs\ngiebt die Bestandtheile                   der Weinbeeren folgendermassen an:             Dextrose, Levulose, Inosit, Weinsaure\nTraubensaure, Apfelsaure, Bernsteinsaure, Glycolsaure (?), Kohlensanre, Farbstoff, Spur von Quercitrin,\nQuercetin, Gerbstoff, nebst den allgemein verbreiteten Albuminaten etc.      Das   en o tannin ist nach",
+      "normalized_text": null,
+      "zh_tw_rendering": "葉含酒石酸鉀、槲皮素；果含葡萄糖、果糖、酒石酸、蘋果酸及色素。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 139,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 104,
+        "char_end": 1791,
+        "page_text_sha256": "a029b47b3552c8c415bd5a7e4b93610c3305dff104e77104c23019e62115371a",
+        "exact_text_sha256": "959c695659fb0819376f1a607f8fbdae49f8ea60d53b74be82d3d7046316e47e",
+        "source_line_start": 6,
+        "source_line_end": 21,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "959c695659fb0819376f1a607f8fbdae49f8ea60d53b74be82d3d7046316e47e",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0135-p0140:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "                                      .    Die Weinbeeren werden frisch zur sogen. Traubenkur verwendet, getrocknet\nals Rosinen,                  Der Wein dient als belebendes Mittel im Collapsus urn dem Sinken der\n                    zu Theespezies.\nHerzthatigkeit entgegenzutreten bei akuter Erschlaffung etc.\n                                                 ,             Er leistet ausgezeichnete Dienste bei\nscrophulosen und rachitischen Kindern (Ungarwein), bei skorbutischen Zustanden (Rothwein), auch in\nfieberhaften Affektionen (Portwein) etc.                        Auch ausseiiich findet er Anwendung als Klystir bei Chlorose,\nPhthisis und zu Badern.\n",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：鮮果用於葡萄療法，酒用於急救虛脫、佝僂症及壞血病，亦作灌腸。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 139,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 5715,
+        "char_end": 6377,
+        "page_text_sha256": "a029b47b3552c8c415bd5a7e4b93610c3305dff104e77104c23019e62115371a",
+        "exact_text_sha256": "be0ddc43621dafaf3b398581a37504fbda09aadda9f7cac482722400ad5b064a",
+        "source_line_start": 77,
+        "source_line_end": 85,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "be0ddc43621dafaf3b398581a37504fbda09aadda9f7cac482722400ad5b064a",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "9e7d251f8d4d40299b44d952c0ac88215e95ff7325ab7c940a092a31d1d1b04e",
+    "maker_receipt_sha256": "bfbc37209c6c9f0dbde4687fc0e3d345b0bf5845b140721d592f1102e4381f40",
+    "validation_check_sha256": "a7fb38fce59d5c42d53710b0af520115c8ba572ab8641076828bd7d6e1190f52",
+    "source_disposition_sha256": "17ecd0d3db8f2a5dbc15237df28e452fda063e43644e9bc09ea6f8b2806e9287",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "bfbc37209c6c9f0dbde4687fc0e3d345b0bf5845b140721d592f1102e4381f40",
+      "validation_check_sha256": "a7fb38fce59d5c42d53710b0af520115c8ba572ab8641076828bd7d6e1190f52",
+      "source_disposition_sha256": "17ecd0d3db8f2a5dbc15237df28e452fda063e43644e9bc09ea6f8b2806e9287"
+    },
+    "naming_artifact_sha256": "7f319f8509da2793848d5420e5d114a6ce243da0664188bc669334960f19da9e"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "33b446e7e5bbfe6a3124047ae5ac796c94d73b6e116fb4009f665c3bc71054f8"
+}

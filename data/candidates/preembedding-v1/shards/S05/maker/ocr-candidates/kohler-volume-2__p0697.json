@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 697,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "0ba3ef91739f443f6b99635ee7af4553095545111f86b7629291671a4153ec43",
+  "render_dpi": 144,
+  "render_sha256": "f8baaee0870222f411637e5b21b3e167be840331f1d6922da9ef230aac785765",
+  "input_sha256": "f8baaee0870222f411637e5b21b3e167be840331f1d6922da9ef230aac785765",
+  "render_pixel_width": 5678,
+  "render_pixel_height": 7970,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.807,
+  "embedded_character_count": 59,
+  "ocr_character_count": 54,
+  "ocr_alpha_ratio": 0.6481,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.0203488365052239,
+      "text": "Myrtaceae.",
+      "width": 0.132653058405374,
+      "x": 0.8346938800660204,
+      "y": 0.9171511631185121
+    },
+    {
+      "confidence": 1,
+      "height": 0.04069767301044769,
+      "text": "Q",
+      "width": 0.05102040707899003,
+      "x": 0.8959183680282229,
+      "y": 0.23546511679815885
+    },
+    {
+      "confidence": 1,
+      "height": 0.02180232509734137,
+      "text": "co",
+      "width": 0.040816325663192043,
+      "x": 0.8081632659665899,
+      "y": 0.15406976775656178
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "8",
+      "width": 0.010204081415797983,
+      "x": 0.9265306122512846,
+      "y": 0.15261627932957322
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "5",
+      "width": 0.01224489796460504,
+      "x": 0.691836734759194,
+      "y": 0.11482558140179477
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "4",
+      "width": 0.014285714513412096,
+      "x": 0.5387755102092803,
+      "y": 0.09593023279472113
+    },
+    {
+      "confidence": 1,
+      "height": 0.020383443151201552,
+      "text": "Pimenta officinalis lindl:",
+      "width": 0.28571427964234414,
+      "x": 0.3632653115053585,
+      "y": 0.06101190516439481
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185932098863,
+      "text": "174 .",
+      "width": 0.04081632566319193,
+      "x": 0.8979591836990163,
+      "y": 0.02180232615345923
+    }
+  ],
+  "text": "Myrtaceae.\nQ\nco\n8\n5\n4\nPimenta officinalis lindl:\n174 .",
+  "output_sha256": "e46e35afabb3257963fd6b85ac1bb75e2014a8bb778609b9dea25db0dfdcf7c1",
+  "receipt_sha256": "914f2d814c5d99378441e315f9bc183f37d989571cac87d806aec50cb56ebfb4"
+}

@@ -1,0 +1,155 @@
+{
+  "schema_version": "2.0",
+  "package_id": "kohler-volume-3:p0215-p0224:child-01:continuation-02",
+  "parent_entry_id": "kohler-volume-3:p0215-p0224",
+  "child_entry_id": "kohler-volume-3:p0215-p0224:child-01",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation-v2:kohler-volume-3:p0215-p0224:child-01:continuation-02:v1",
+  "owner_shard": "S07",
+  "package_sha256": "dac930cbee692c40cc10aebf102f37e45cd0f480477e1cd859effb90601bd780",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "prompt_version": "plant-structure-line-coordinates-v2",
+  "attempt_sha256": "4a80346ee91ac62ccb546e37b286b19393a983d7387f41934176701e09207121",
+  "raw_response_sha256": "b8789a5fe0b233cc24fba4385ba84f04b4059c163efe8767ae1f95a09e2449ff",
+  "elapsed_seconds": 20.303,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 221,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 2221,
+      "char_end": 3625,
+      "source_line_start": 30,
+      "source_line_end": 44,
+      "page_text_sha256": "d58efb056066a7ec68cb8dffccabf4ecccca157438931c929d8efc0ce9a6fdeb",
+      "exact_text_sha256": "258ffba22f95e2632927ae1d0d0cfd8c3b1115d4f1e7483b10791085c3e479c4",
+      "section_index": 0,
+      "section_type": "constituents"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 221,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 3626,
+      "char_end": 4758,
+      "source_line_start": 45,
+      "source_line_end": 56,
+      "page_text_sha256": "d58efb056066a7ec68cb8dffccabf4ecccca157438931c929d8efc0ce9a6fdeb",
+      "exact_text_sha256": "cb4caf9361b390b79ff7772b2b8107d2694f8027a4fb89c9a02e599d59b86224",
+      "section_index": 1,
+      "section_type": "harvest"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 222,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 1878,
+      "char_end": 4004,
+      "source_line_start": 18,
+      "source_line_end": 39,
+      "page_text_sha256": "0b8370595f1a565ce5ae581d48a0aeea54eb51f5879d5ed0eadde5ded6607211",
+      "exact_text_sha256": "b846de55866bc3a9af0c81c03e1c2c8b1cb97ae2fde7772c85417169defca42d",
+      "section_index": 2,
+      "section_type": "historical_use"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 222,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 4006,
+      "char_end": 5795,
+      "source_line_start": 41,
+      "source_line_end": 59,
+      "page_text_sha256": "0b8370595f1a565ce5ae581d48a0aeea54eb51f5879d5ed0eadde5ded6607211",
+      "exact_text_sha256": "a3b984797f5c09f1c5157f418e095d50c794be00247fb68cc8a73db34c442a1a",
+      "section_index": 3,
+      "section_type": "history"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 223,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 445,
+      "char_end": 5411,
+      "source_line_start": 7,
+      "source_line_end": 55,
+      "page_text_sha256": "14e0dfd55f8a9ee295ba899313044eae6986c58db185d63806b37e860f7c6ef3",
+      "exact_text_sha256": "1f4a4f8f47d7cf174ea3ca02cab5cb1c765ea8b3d47545e72fd6f55b42594646",
+      "section_index": 4,
+      "section_type": "distribution"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-3:p0215-p0224:child-01:continuation-02",
+    "parent_entry_id": "kohler-volume-3:p0215-p0224",
+    "book_taxon": {
+      "scientific_name_candidate": "Santalum album"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "constituents",
+        "pdf_page": 221,
+        "source_line_range": [
+          30,
+          44
+        ],
+        "exact_source_quote": "           Bestandteile. Petersen analysierte ostindisches und Makassar-Sandelholz; er fand in\n  beiden eine eisengrüne Gerbsäure, Harz, Calciumoxolat und ca. 7,5°/, Eisen- und Mangan-\n   haltende Asche; ostindisches Holz gab nach Dragendorfs Verfahren 5°/, ätherisches Öl,\n. Makassar-Holz 3,75°/,. Ostindisches und Makassar-Sandelholzöl enthalten 90 bis 97 °/, Santalol,\n  C®H®%O. Ferner Santalal C!5H?O und einen verseifbaren Körper, wahrscheinlich einen\n  Santalolester (Parry.). Das Santalol C’’H?°O verhält sich wie ein Sesquiterpenalkohol; ein\n Atom      H lässt    sich darin      durch     die Acetylgruppe       ersetzen,    eine   Eigenschaft,   welche    den\n  Santalolgehalt eines Sandelöls zu bestimmen gestattet. Das Santalol siedet bei 310°; das\n Santalal bei 300°. (Chapoteaut). — Im südaustralischen, festen Öl von Santalum Preissianum\n Mig. fanden 1891 Schimmel & Co. einen alkoholartigen Körper C!5H*O, welcher 1893 von\n Berkenheim genauer studiert wurde. Der Alkohol bildete Krystalle, die bei 101 bis 103°\n  schmolzen, von PC15 nicht angegriffen wurden, dagegen durch PCl? in ein Chlorsubstitutions-\n produkt 0% H®C10 (Schmelzpunkt 119 bis 120°) verwandelt wurden. Der Essigester bildete\n hexagonale,         bei 68,5     bis 69,5° schmelzende      Tafeln.      Auch     ein Methyläther   konnte    erhalten\n werden.      Kaliumpermanganat bildete aus dem Alkohol eine Säure C’H1+0?."
+      },
+      {
+        "section_type": "harvest",
+        "pdf_page": 221,
+        "source_line_range": [
+          45,
+          56
+        ],
+        "exact_source_quote": "          Verfälschungen und Prüfung.    Wie alle ätherischen Öle von einiger Bedeutung er-\n leidet auch das Sandelholzöl vielfache Verfälschungen und Zusätze, namentlich wurden\n Rizinusöl, Kopaivabalsamöl und virginisches Zedernöl (von Juniperus virginiana L.) in umfang-\n reichstem Masse dazu verwandt.     Diese Ole sind zunächst spezifisch leichter; sie besitzen\n kein optisches        Drehungsvermögen           und keine acetylierbaren           Bestandteile.   Deshalb     eignet\n sich die Bestimmung des Santalolgehaltes in ganz hervorragender Weise zur Prüfung des\n Öles, besonders unter gleichzeitiger Berücksichtigung der physikalischen Eigenschaften des-\n selben.  Schimmel    & Co. stellen, z. T. im Verein mit Cripps (l. c.) und Parry (I. c.),\n folgende Forderungen an ein gutes Sandelholzöl: 1) Das spezifische Gewicht liege nicht unter\n 0,975 bei 15°. 2) Das Drehungsvermögen betrage — 17° bis — 19° im 100 mm-Rohr.     3) Ein\n Teil Öl löse sich klar in fünf Teilen Weingeist von 70°|,. 4) Das Ol enthalte mindestens\n 90°/, Santalol.       —     Zur Bestimmung des letzteren sollen 20 g Sandelholzöl mit dem gleichen"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 222,
+        "source_line_range": [
+          18,
+          39
+        ],
+        "exact_source_quote": "        Anwend ung . Das osti ndis che und Mak ass ar- San del hol zöl ist seit sein er Ent dec kun g\nals Parfüm zur Anwendung gekommen. Bei rituellen Gebräuchen, zur Salbung der Toten,\nzur   Verbreitung       angenehmer         Gerüche       ist    es    in    Indien    bekannt    und    geschätzt.         In    der\nParfümerie Europas, Chinas und Japans spielt das Öl ebenfalls eine hervorragende Rolle,\nwelche allerdings nicht alle Sandelholzöle mit ihm teilen. Das australische Öl scheint in\nseinen beiden Handelssorten hierzu weniger geeignet. Medizinische Anwendung hat das Öl\nerst in neuerer Zeit gefunden.                  Bufalini und Martini wenden das Öl bei                           chronischen\nLungenaffektionen in Dosen von                 0,6 g in Kapseln zwei- bis achtmal täglich an.                    Sie rühmen\nden guten Erfolg auf das Allgemeinbefinden, die Zunahme des Körpergewichts und die Ver-\nflüssigung des Auswurfs, wenngleich die Bazillen davon nicht infiziert werden. — Posner\nsubstituiert das Sandelöl dem Kopaivabalsam bei Behandlung der Gonorrhöe und zieht seine\nAnwendung der lokalen Therapie durch Injektion vor. Es soll auch besser vertragen werden.\nals   Kopaivabalsam.          Als     Dosis     werden         zehn    bis    zwölf    Kapseln    mit   je 0,5    g       Sandelöl\npro   Tag     vorgeschlagen,         als Geschmackskorrigens                  nötigenfalls    Pfeffermünzöl      angewendet.\nDass hierbei die verschiedenen Sandelöle nicht beliebig für einander gesetzt werden können,\nist bereits aus früher Gesagtem ersichtlich.      Die Anwendung in Form von Kapseln oder\nPillen scheint der in Emulsion vorzuziehen zu sein; für Pillen empfiehlt Calmel eine Masse aus\n4 g Kolophon, 5 g Sandelöl und 0,5 g gebrannter Magnesia, welche gute Pillen giebt und\nvon den Patienten gern genommen wird.                          Reines Sandelöl soll auf der Zunge brennen,                      wie\nKrotonöl; Letzel berichtet von einigen Fällen starker Diarrhöe, Dyspepsie und kongestiven\nSchmerzen in der Magengegend; indessen scheinen diese Beobachtungen nur vereinzelt vor-\nzukommen."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 222,
+        "source_line_range": [
+          41,
+          59
+        ],
+        "exact_source_quote": "        Geschichte und Export des Sandelholzes und des Sandelholz-Öles. Sandelholz, in\nIndien Chandana genannt, wird zuerst etwa im fünften Jahrhundert vor Chr. in der Nirukta,\ndem ältesten Kommentar der Veda genannt. Sodann findet es Erwähnung in den alten\nSanskritepen, der Ramayana               und      Mahabharata,             deren einzelne Teile ein sehr verschiedenes\nAlter aufweisen. In der Mitte des ersten Jahrhunderts nach Chr. wird das Holz als XvAa\noayakiva unter den indischen Waren genannt, die im persischen Meerbusen eingeführt werden.\nIm sechsten Jahrhundert kannte man in Indien und Ceylon die Darstellung des Sandelholz-\nöles, und benutzte dasselbe u. a. zum Einbalsamieren fürstlicher Leichen, während das Holz\nals kostbares Baumaterial für Tempel                     und andere Heiligtümer diente.   Kleinere Stücke\ndienten damals schon zu Schnitzwerken                    und zu rituellen Zwecken; man fügte es, wie auch\nheute noch, den Scheiterhaufen der Reichen hinzu, wenn man ihre Leichen verbrannte. In\neuropäischen Gebrauch scheint das Holz und sein flüchtiges Öl erst ziemlich spät gekommen\nzu sein; Constantinus               Africanus      von Salerno             spricht    erst im elften Jahrhundert           User\nZeitrechnung davon; in dem Compendium Aromaticorum des Saladinus um 1488 wird es unter\nden Arzneimitteln der italienischen Apotheken genannt. Man unterschied dort rotes gelbes\nund weisses Sandelholz, welches sämtlich dieselbe Droge von etwas verschiedener Färbun\ngewesen zu sein scheint; jedenfalls hat das rote färbende Sandelholz des heutigen Handels\nwelches von Pferocarpus santalinus  L.  fil. (Fam . Papi lion acea e, Ufam . Dalb ergi eae) Se .\nnichts mit jenen Hölzern zu thun. Nach 1500 indessen hat man unter rotem Sandelholz doch"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 223,
+        "source_line_range": [
+          7,
+          55
+        ],
+        "exact_source_quote": "         Uber den Umfang der Produktion und des Exports von Sandelholz liegen zur\n                                                                                       . Zeit\nnur für ostindisches und Makassar-Holz zuverlässige Nachrichten vor. Zu\n                                                                        nächst werden die\nstatistischen Daten wohl nur in Ostindien und Makassar gewissenhaft. ve\n                                                                         rzeichnet; sodann\naber ist in den meisten übrigen in betracht kommenden Ländern die Produktion\n                                                                               der indischen\n segenüber          eine   so geringe,     dass    sie zu     einem ausgedehnten Export keine Veranlassung giebt.\n In Indien hat die Regierung, welche die Produktion seit Abschluss eines Vertrage\n                                                                                  s mit Hyder\n Ali, Fürsten von Mysore (1770) in eigenen Händen hat, die Menge de\n                                                                    s zu schlagenden Holzes\n dem jeweiligen Bedarf angepasst; sie gestattet gegenwärtig eine\n                                                                  Produktion von 2000 bis\n 2500 tons —           2000000        bis 2500000 Ko.          Von     diesen Mengen,         die hauptsächlich        in Mysore,\n Coimbatore          und     Canara     gewonnen      werden ‚ werden         zwei Drittel im Lande            verwertet,     sei es\n zur Ölbereitung, sei es zu Schnitzereien oder zu Räucherungen in den Tempeln;                                       ein geringer\n Anteil     dient    auch     seines    Gerbstoffes    wegen      zur Herstellung          künstlichen      Ebenholzes;     nur     ein\n Drittel etwa          wird nach Europa und Amerika exportiert.                        Da eine Überproduktion ängstlich\n vermieden          wird, um     die Bäume         zu schonen,       so wurde Produktion         wie Export       in den letzten\n Jahren erheblich eingeschränkt. Während in den J ahren 1882 bis 1889 noch 2500 bis 2800 tons\n an den Markt gelangten, wurden 1890 nur 2400 tons, 1893 nur 2250 tons, 1894: 1760 tons,\n 1895:     2298 tons und         1896:    2063    tons produziert;        von diesen sind 777 bis 790 tons von Bombay\n und Tellicherry aus nach Amerika und Europa verschifft worden. — Das Makassarholz\n von Timor, Sumba und holländisch Indien erschien im Jahre 1893 in Quantitäten von\n 3561 Pieuls, 1894 von 1536 Pieuls (A 661/, Ko.) am Markte; es ist nicht ausgeschlossen, dass\n dasselbe allmählich vom Markte verschwindet, um so mehr als durch mangelhafte Bearbeitung\n der Ölertrag des Holzes erheblich geringer und das Öl selbst minderwertiger ist, als das\n ostindische. — Das westindische Sandelholz teilt sein Schicksal; auch dieses\n                                                                                       liefert nur\n ein weniger geschätztes dickes Öl; die Lieferungen sind zeitweise unterbrochen worden. Über\n                                                                                                die\n australischen         und     afrikanischen Hölzer           lässt sich zur Zeit nichts sagen;               besonders erstere\nwerden sogleich an Ort und Stelle zur Ölbereitung benutzt;                                  das Öl (s. u.) ist von sehr            ab-\nweichender Beschaffenheit, und kann dem indischen Öl nicht                                  substituiert werden.   Auch            die\nätherischen Öle sind Exportartikel.                    Von Madras und der Malabarküste werden jährlich etwa\n12900      englische       Pfund Sandelöl         versandt,    wovon    1500 Pfund         nach England gehen        (Dymock);\ndoch klagte man früher über vielfache und grobe Verfälschungen des Öles. Holmes schätzte\n1886      das    in England       destillierte     Öl für      das beste,     während       eine als „German         Sandal       Oil“\nbezeichnete Sorte durch Zedernholzöl verfälscht sei.                            Diese Verhältnisse treffen heute nicht\nmehr       zu;   denn      einesteils    werden       dem     Kontinent ‚ namentlich          auch    von    Schimmel       & Co.\nin Leipzig, aus Blöcken erster Klasse, dem kostbarsten Material, und mit allen                                       Hilfsmitteln\nmoderner Technik Öle erhalten, welche den weitgehendsten Ansprüchen gerecht werden, —\nund ausserdem kennt man heute sehr genau die Beschaffenheit guter Öle und die Mittel zur\nErkennung ihrer Verfälschungen, so dass es leicht ist, von gutem Öl das minderwertige zu\nunterscheiden und letzteres zu verwerfen.  In Leipzig wird Sandelöl seit 1871 destilliert,\naber      erst seit 1887        erfreut sich dasselbe medizinischer Anwendung in grösserem Umfange,\nbesonders        seit es Eingang         in mehrere         europäische     Pharmacopöen         erlangt hat."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "7c0b3008fd5898bc1eb8a2075aa3077122270c74c79b0286e0f909ccf8519530"
+}

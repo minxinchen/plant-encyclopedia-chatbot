@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-3:p0241-p0244",
+  "owner_shard": "S07",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 156.851,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-3:p0241-p0244",
+    "book_taxon": {
+      "scientific_name_candidate": "Gelsemium sempervirens",
+      "authorship_candidate": "Ait.",
+      "aliases_candidates": [
+        "Gelsemium nitidum Mich.",
+        "Gelsemium lucidum Poir.",
+        "Bignonia sempervirens L.",
+        "Lisianthus sempervirens Mill.",
+        "Anonymos sempervirens Walt."
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 241,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Gelsemium sempervirens，隸屬馬錢科，同義名包括 G. nitidum 及 Bignonia sempervirens。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          7
+        ],
+        "exact_source_quote": "                                   Gelsemium                        sempervirens                             Ait.\n                        Engl.: Yellow Jasmine.               False Jessamine, wild yellow Jessamine.\n\n             Syn. Gelsemium nitidum Mich.      Gelsemium lucidum                                  Poir.         Bignonia    sempervirens     L.\n    Lisianthus sempervirens Mill. Anonymos sempervirens Walt.\n\n              Familie: Loganiaceae.               Tribus: Gelsemieae.              Gattung: Gelsemium Juss."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 241,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "攀援灌木，高約一公尺。葉對生，披針形，革質，全緣。花黃色，漏斗鐘形，五裂，雄蕊五枚。",
+        "warnings": [],
+        "source_line_range": [
+          8,
+          23
+        ],
+        "exact_source_quote": "          Beschreibung. Ein windender Strauch von Meterhöhe. Die dünnen, hin und\n                                                                                        her\n. gebogenen, ziemlich schlanken Zweige besitzen eine glänzend braune kahle Ri\n                                                                              nde und 3 bis\n    5 cm    lange Internodien.          Die Blätter         sind gegenständig,             durch      eine Stipularlinie        verbunden,\n3     bis 8 mm lang gestielt, lanzettlich, zweieinhalb- bis viermal, seltener bis fünfma\n                                                                                         l so lang\n    als breit,    im Mittel 5 bis          7 cm    lang und      1,5 bis 2,5 cm             breit,      am      Grunde     in den Blattstiel\n    verschmälert,        nach oben zu allmählich und lang zugespitzt,                              ganzrandig,           ziemlich dick und\n    lederartig,    beiderseitig     ganz     kahl,    die Oberseite           häufig glänzend             und     dunkelgrün,    die Unter-\n    seite hellgrün;        die Mittelrippe         entsendet        sieben     bis zehn Paar            nicht sehr deutlich hervor-\n    tretender     Seitennerven.       In den Achseln            der oberen            Blätter     entspringen je ein Paar             ein- bis\n    dreiblütige, bis 1 cm           lange Kurzzweige,            welche         dicht mit acht bis zwölf Brakteen besetzt\n    sind; diese sind       1 bis    3 mm     lang, von        dreieckiger Gestalt, mit breiter Basis                       sitzend, stumpf-\n    lich, gelbgrün,        nach     oben     zu häufig etwas bräunlich.                    Meist ist an jedem Kurzzweige nur\n    eine Blüte     entwickelt.       Die Blüte       ist actinomorph            und     fünfzählig       gebaut.         Der Kelch    besteht"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 242,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分佈於北美西部至中美洲，包括維吉尼亞、佛羅里達、阿拉巴馬、路易斯安那、墨西哥至瓜地馬拉。",
+        "warnings": [],
+        "source_line_range": [
+          18,
+          25
+        ],
+        "exact_source_quote": "                                                                                       m m t     vo r     an    F l u s s u f e r n    u n  d    d e r  M e e r e s -\n                                    und Verbreitung.       Di  e    P f l a n z e k o\n             Vorkommen\n                                                                                  Ih r   V e r b r e i t u n g s b e z i r k      e r s t r e c k t    si ch    v o n\n           im westlichen            Nord- und in M  i t t e l a m e r i k a .\nküste\n                                 g i a , Fl or id a, A l e b a m a , L o u i s i a n a , M e x i k o bi s G u a t e m a l a .\nVirginia, über Carolina, G e o r"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 243,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "根含 0.1% 劇毒生物鹼 Gelseminin，及微量無定形生物鹼、糖苷 Aesculin。Gelsemin 指樹脂狀產物。",
+        "warnings": [],
+        "source_line_range": [
+          6,
+          17
+        ],
+        "exact_source_quote": "           Bestandteile.             Die Wurzel             enthält          0,1°),    des     sehr giftigen Alkaloids                  @elseminin,\n'C”®H®N?O3            (Spiegel,           Göldner),            sowie     sehr     kleine       Mengen        eines     amorphen           Alkaloids,\nwelches       vorläufig       als     amorphes            Gelseminin.           bezeichnet          wird.        Ferner     findet       man      etwa\n:0,04°/, des Glycosids Aeseulin, welches früher als Gelseminsäure bezeichnet wurde und dem\n‚die fluorescierenden Eigenschaften des alkalischen Auszugs der Wurzel zuzuschreiben sind.\n'V. Coblentz indessen tritt in jüngster Zeit für die Existenz einer Gelseminsäure ein (Am.\n.J. of Pharm.         1897. 229) und           zeigt,      dass        sie sich, ebenso            wie ihre Derivate,             wesentlich       von\nAesculir unterscheidet. Sie schmilzt bei 206°. Ihre Salze sind nicht krystallisierbar; das\nKaliumsalz bläht sich beim Erhitzen stark auf. Näheres bleibt abzuwarten. — Heute be-\nzeichnet man mit Gelsemin kein Alkaloid, sondern das nach amerikanischer Vorschrift aus\n‚der Gelsemiumwurzel erhaltene harzartige Produkt, das Resinoid, welches auf ähnliche\n Weise wie das Podophyllin gewonnen wird."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 243,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史上用作劇毒藥，治神經痛及週期性疾病。中毒致呼吸麻痹死亡，曾以人工呼吸急救。",
+        "warnings": [
+          "Historical medical content described as historical, not advice."
+        ],
+        "source_line_range": [
+          30,
+          38
+        ],
+        "exact_source_quote": "              Anwendung und Wirkung.                           Die Gelsemiumwurzel wirkt als heftiges Gift.                                Sie dient\nin     Substanz       wie     in Abkochung               als     Antineuralgicum              und    Antiperiodicum.             Das     Gift   wirkt\n zunächst          auf Gehirn       und     Rückenmark;              später     werden        die Atmungsorgane               und    das Herz      be-\n einflusst.        Dem      Patienten        scheinen          die Gegenstände               vor    Augen     zu     tanzen,        die Augenlider\n und die Zungenempfindlichkeit werden gelähmt.                                        Die Vergiftung führt bei Erwachsenen                        sehr\n oft, bei Kindern           immer     zum Tode;            derselbe          erfolgt nicht         durch Blutvergiftung,            sondern durch\n Lähmung           der Respirationsorgane.                 Deshalb           benutzt    man        neuerdings       stundenlang fortgesetzte\nkünstliche Respiration als Gegenmittel bei derartigen Vergiftungen.\n"
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 244,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "圖版描述：A 根莖，B 花枝，C 果枝。含花縱切、果實、種子及圖解。採自柏林皇家標本館。",
+        "warnings": [],
+        "source_line_range": [
+          16,
+          21
+        ],
+        "exact_source_quote": "                                                         Tafelbeschreibung:\n          A Wurzelstock. B Blütenzweig. C fruchttragender Zweig. 1 Blüte im Längsschnitt; 2 Fruchtknoten:\nim Längsschnitt; 3 Frucht; 4 Frucht, querdurchschnitten; 5 Fruchthälfte, von innen gesehen; 6 Same; 7 Unterer\nTeil des Samens im Längsschnitt; 8 Diagramm. A, B, C, 1 natürliche Grösse, 2 bis 5 in doppelter Grösse,\n6 bis 8 stärker vergrössert.     Nach Exemplaren des Köngl. Herbars zu Berlin, gesammelt von Curtiss.\n(Nr. 2256) bei Jacksonville, Florida, und von Geo V. Nash (Nr. 2166) in Lake City, Columbia."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "7cb380831c2c9cd6066bafb2f86f8fe2ee637e39ec71f4c8214913bfbefa8eb5"
+}

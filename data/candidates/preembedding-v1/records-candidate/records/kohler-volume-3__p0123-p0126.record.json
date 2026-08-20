@@ -1,0 +1,336 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-3-p0123-p0126",
+  "entry_id": "kohler-volume-3:p0123-p0126",
+  "owner_shard": "S06",
+  "book_taxon": {
+    "scientific_name": "Cuminum Cyminum",
+    "authorship": "L.",
+    "aliases": [
+      "Mutterkümmel",
+      "Kronen-Kümmel",
+      "Kreuz-Kümmel",
+      "Haber-Kümmel",
+      "Pfeffer-Kümmel",
+      "Garten-Kümmel",
+      "langer Kümmel",
+      "römischer Kümmel",
+      "ägyptischer Kümmel",
+      "Cumin",
+      "Komijn",
+      "Kummen",
+      "Spis Kummin",
+      "Comino",
+      "Cominho"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Cuminum Cyminum",
+      "Cuminum cyminum"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T15:13:52+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Cuminum+Cyminum",
+        "query_name": "Cuminum Cyminum",
+        "retrieved_at": "2026-08-13T15:13:48+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Cuminum+cyminum",
+        "query_name": "Cuminum cyminum",
+        "retrieved_at": "2026-08-13T15:13:48+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0053119",
+        "query_name": "Cuminum cyminum",
+        "retrieved_at": "2026-08-13T15:13:48+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0053119",
+        "query_name": "Cuminum cyminum",
+        "retrieved_at": "2026-08-13T15:13:48+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Mutterk+mmel",
+        "query_name": "Mutterk mmel",
+        "retrieved_at": "2026-08-13T15:13:49+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Kronen-K+mmel",
+        "query_name": "Kronen-K mmel",
+        "retrieved_at": "2026-08-13T15:13:49+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Kreuz-K+mmel",
+        "query_name": "Kreuz-K mmel",
+        "retrieved_at": "2026-08-13T15:13:49+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Haber-K+mmel",
+        "query_name": "Haber-K mmel",
+        "retrieved_at": "2026-08-13T15:13:49+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Pfeffer-K+mmel",
+        "query_name": "Pfeffer-K mmel",
+        "retrieved_at": "2026-08-13T15:13:49+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Garten-K+mmel",
+        "query_name": "Garten-K mmel",
+        "retrieved_at": "2026-08-13T15:13:49+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Spis+kummin",
+        "query_name": "Spis kummin",
+        "retrieved_at": "2026-08-13T15:13:49+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned a cross-genus synonym link that requires independent taxonomy review; it was not auto-promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 123,
+      "evidence_type": "text",
+      "page_text_sha256": "b4b030f01048635075ef9b455ada6bd8d2dca0514d0b40320b48b4201541d19f",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 124,
+      "evidence_type": "text",
+      "page_text_sha256": "05f8e6bd5fa541a772200545ac3daecf973f886dffcc45746305b72e01404c70",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 125,
+      "evidence_type": "text",
+      "page_text_sha256": "10601a2e6b5a52b0955e9e44d7c7930d169f3b57b7c0eacdc838663b9fd45038",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-3:p0123-p0126:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "         Familie: Umbelliferae Juss. Unterfamilie: Orthospermae Juss.                                       Tribus: Oumineae Koch.\n  Gattung: (uminum L.                                                                                                      i",
+      "normalized_text": null,
+      "zh_tw_rendering": "隕形科，Orthospermae亞科，Oumineae族，Cuminum屬。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 123,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 474,
+        "char_end": 729,
+        "page_text_sha256": "b4b030f01048635075ef9b455ada6bd8d2dca0514d0b40320b48b4201541d19f",
+        "exact_text_sha256": "c5b55d178e19a1640bda8769b5cd90a9b1632c2c4a4a4e25e8be678195f4dd99",
+        "source_line_start": 6,
+        "source_line_end": 7,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "c5b55d178e19a1640bda8769b5cd90a9b1632c2c4a4a4e25e8be678195f4dd99",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0123-p0126:s01:x00",
+      "section_type": "description",
+      "original_text": "             Beschreibung.           Die einjährige Pflanze            hat eine büschelig          verzweigte,        dünne weissliche\n Phahlwurzel.           Der Stengel wird etwa 30 cm hoch, ist schlank,                               kahl, gerillt und trägt nur\n wenige      lange,     gabelspaltige,      sparrig      abstehende        Aste.     Die Blätter          sind wechselständig,             ein-\n. fach, untere        doppelt-,    obere    bisweilen       nur     einfach-dreizählig        eingeschnitten.          Die unteren Ab-\n schnitte sind zweizipfelig, die Spitze dreizipfelig.                          Die Zipfel sind lineal-fadenförmig,                     scharf\n pfriemlich     zugespitzt.         Die Blattscheide           ist nur     wenig     entwickelt,     kurz     und     hautrandig.          Das\n ganze Blatt wird          etwa 20 cm        lang und        ebenso breit, sodass           die ausgebreitete Spreite ungefähr\n  ein gleichseitiges       Dreieck      bildet.       Die      einzelnen      drei Teile     haben      eine Länge          von     ungefähr\n 10 cm, die einzelnen Zipfel eine solche von 5 cm. — Die Blüten stehen in zusammengesetzten",
+      "normalized_text": null,
+      "zh_tw_rendering": "一年生植物，莖高約30公分，葉互生，一回至二回羽狀分裂，裂片線形。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 123,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 731,
+        "char_end": 1918,
+        "page_text_sha256": "b4b030f01048635075ef9b455ada6bd8d2dca0514d0b40320b48b4201541d19f",
+        "exact_text_sha256": "e4928dfd16d47b6ebb34cbe705fcac4508aed5206f4410b6dd9e8b7ccc388dfa",
+        "source_line_start": 9,
+        "source_line_end": 17,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "e4928dfd16d47b6ebb34cbe705fcac4508aed5206f4410b6dd9e8b7ccc388dfa",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0123-p0126:s02:x00",
+      "section_type": "distribution",
+      "original_text": "             Vorkommen.               Die Pflanze           ist in Ägypten        und     Äthiopien           einheimisch ‚ wird             aber in\nallen Mittelmeerländern,                  sowie       in Ostindien        kultiviert.      In Deutschland             dient        sie    höchstens\nals Zierpflanze.",
+      "normalized_text": null,
+      "zh_tw_rendering": "原產埃及與衣索比亞，地中海沿岸及東印度栽培，德國僅作觀賞。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 124,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 1967,
+        "char_end": 2280,
+        "page_text_sha256": "05f8e6bd5fa541a772200545ac3daecf973f886dffcc45746305b72e01404c70",
+        "exact_text_sha256": "32a2b50cfc37c347b25389b40ee57301de34ae21d854470e65729197a76f844f",
+        "source_line_start": 23,
+        "source_line_end": 25,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "32a2b50cfc37c347b25389b40ee57301de34ae21d854470e65729197a76f844f",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0123-p0126:s03:x00",
+      "section_type": "history",
+      "original_text": "       Name und Geschichte. Der Name kommt von dem griechischen Namen des Kümmels\n—= Kvwov. Die Pflanze selbst ist in den Mittelmeerländern schon seit den ältesten Zeiten\nbekannt und findet schon im alten Testament bei Jesaias und im Evangelium Matthäi Er-\nwähnung.          —   Dioscorides           beschrieb           das Kvumov       als eine Kulturpflanze Kleinasiens                        und Süd-\nitaliens; ebenso war sie im römischen und altdeutschen Arzneischatz ein häufig gebrauchtes\nMittel.",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源自希臘文，聖經舊約與新約均有記載，古羅馬與德國藥典常用。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 124,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 2282,
+        "char_end": 2785,
+        "page_text_sha256": "05f8e6bd5fa541a772200545ac3daecf973f886dffcc45746305b72e01404c70",
+        "exact_text_sha256": "0f663c77b53fde1b127d5c5463a133796b1330d62f25c5416b9cca00d21f40f4",
+        "source_line_start": 27,
+        "source_line_end": 32,
+        "section_index": 3,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "0f663c77b53fde1b127d5c5463a133796b1330d62f25c5416b9cca00d21f40f4",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0123-p0126:s04:x00",
+      "section_type": "constituents",
+      "original_text": "         Bestandteile. Nach Untersuchungen von Bley enthalten die Früchte 7-8 °/, fettes,\n3—4°/, ätherisches ÖL, Da Harz, () 8°/, Gummi und 15°/, Proteinsubstanzen. Nach den\nErfahrungen von Schimmel & Co. in Leipzig gaben marokkanische Früchte 3°/,, ostindische\n3—8,9%/,, malteser 3,5°/,, syrische 3—4°/, ätherisches Öl, dessen spezifisches Gewicht bei 15°\nzwischen 0,890 und 0,930 schwankte. Dasselbe ist eine farblose oder schwach gelbliche\nFlüssigkeit, von dem eigentümlichen Geruch der Früchte und von erwärmendem Geschmack,\nlöslich in drei Teilen Weingeist.   An der Luft oxydiert es sich und muss vor Licht und Luft",
+      "normalized_text": null,
+      "zh_tw_rendering": "含7-8%脂肪油，3-4%揮發油，含Cymol與Cuminol，具特殊氣味。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 125,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 786,
+        "char_end": 1407,
+        "page_text_sha256": "10601a2e6b5a52b0955e9e44d7c7930d169f3b57b7c0eacdc838663b9fd45038",
+        "exact_text_sha256": "1d3ee2f772b2244b1007fed2e30630393fe51deb9cd045541c43f0f7fc1543ca",
+        "source_line_start": 8,
+        "source_line_end": 14,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "1d3ee2f772b2244b1007fed2e30630393fe51deb9cd045541c43f0f7fc1543ca",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0123-p0126:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "           Anwendung.           Die Wirkung des Mutterkümmels gleicht der des Kümmels, nur übertrifft\nsie die letztere       an Intensität.           Man     benutzt       den Mutterkümmel                   in Südeuropa          als Arzneimittel\nan Stelle des Kümmels bei Verdauungsschwäche, zu Umschlägen auf den Leib und zu Klystieren\nbei Kolik; eine ähnliche Wirkung hat auch das Emplastrum Cumini aus einer Harzmischung mit\nCuminpulver und Cuminöl. — In Deutschland findet er noch Anwendung in der Veterinär-",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：南歐用於消化不良、腹痛及灌腸，德國用於獸醫及製油。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 125,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 4206,
+        "char_end": 4718,
+        "page_text_sha256": "10601a2e6b5a52b0955e9e44d7c7930d169f3b57b7c0eacdc838663b9fd45038",
+        "exact_text_sha256": "2f8bee1a26642b205e35b3425600cd59a9fcfe23c3459cc82a761dc733ba6183",
+        "source_line_start": 40,
+        "source_line_end": 44,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "2f8bee1a26642b205e35b3425600cd59a9fcfe23c3459cc82a761dc733ba6183",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "TaiCOL supplied a cross-genus synonym link; automatic promotion was blocked pending independent taxonomy evidence.",
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "e03e30448d981020d59496aa65636bfdcab9d1409e16e9bf555afa5e438e53d7",
+    "maker_receipt_sha256": "67a3add0d0c4977fe37d079ca953cade6bbea421f87fae01d1bcb2e6e65eea33",
+    "validation_check_sha256": "001e906ad319d88a47ea3ddcbb1a124e7b41edf8648ae6b714f161565cfc1da2",
+    "source_disposition_sha256": "a483b98a378c7d21ed07100911f50d444d40da1486e28e83cdfc8dc6eb449a7d",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "67a3add0d0c4977fe37d079ca953cade6bbea421f87fae01d1bcb2e6e65eea33",
+      "validation_check_sha256": "001e906ad319d88a47ea3ddcbb1a124e7b41edf8648ae6b714f161565cfc1da2",
+      "source_disposition_sha256": "a483b98a378c7d21ed07100911f50d444d40da1486e28e83cdfc8dc6eb449a7d"
+    },
+    "naming_artifact_sha256": "11e927a1f162e3519c71be0274e11c792de3c34ae04359273b01d649aff19381"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "d4db843f1045463998032fa9c80b5756b9959faef2d60c373f9f04358e67df42"
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 593,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "1b0100a7b3b8bb859cc255141fbdee8361db2bdf3afd6d355c2b1049daec0732",
+  "render_dpi": 144,
+  "render_sha256": "fff36d1b779977bf5ee2ba0688354a47572301d7b2d8956f2028333cc887d284",
+  "input_sha256": "fff36d1b779977bf5ee2ba0688354a47572301d7b2d8956f2028333cc887d284",
+  "render_pixel_width": 5642,
+  "render_pixel_height": 7730,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.99,
+  "embedded_character_count": 8,
+  "ocr_character_count": 28,
+  "ocr_alpha_ratio": 0.8214,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.018231955785599996,
+      "text": "Rosaceae.",
+      "width": 0.10859321511310083,
+      "x": 0.8363347366202661,
+      "y": 0.9294942146127567
+    },
+    {
+      "confidence": 1,
+      "height": 0.01889534791310621,
+      "text": "Rosa centifolia L.",
+      "width": 0.2266401622606361,
+      "x": 0.3856858853507953,
+      "y": 0.10465116320914458
+    }
+  ],
+  "text": "Rosaceae.\nRosa centifolia L.",
+  "output_sha256": "55263bd4717481a786feae8f5cf4d8c84addc0e5bb767e22e4591a612aecb6c8",
+  "receipt_sha256": "d67b9a7fc830007df67470e51398fafa99168afbe96254a4d3009d611ee68c28"
+}

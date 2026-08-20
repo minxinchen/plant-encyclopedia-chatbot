@@ -1,0 +1,389 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0365-p0372-child-01",
+  "entry_id": "kohler-volume-2:p0365-p0372:child-01",
+  "owner_shard": null,
+  "book_taxon": {
+    "scientific_name": "Pinus Laricio",
+    "authorship": null,
+    "aliases": []
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Pinus Laricio",
+      "Pinus laricio"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-20T23:03:29+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Pinus+Laricio",
+        "query_name": "Pinus Laricio",
+        "retrieved_at": "2026-08-20T23:02:54+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0024539",
+        "query_name": "Pinus Laricio",
+        "retrieved_at": "2026-08-20T23:02:54+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0024539",
+        "query_name": "Pinus Laricio",
+        "retrieved_at": "2026-08-20T23:02:54+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Pinus+laricio",
+        "query_name": "Pinus laricio",
+        "retrieved_at": "2026-08-20T23:02:54+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 365,
+      "evidence_type": "text",
+      "page_text_sha256": "1bedc93c66f68ef11afc12d511b2d52f17b940c154f21a156839b024796f0d8b",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 366,
+      "evidence_type": "text",
+      "page_text_sha256": "dca1e375ee3ccbbcea198a6557089a8c5313c4635a2b696b4ea4a6b65c031b3a",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 369,
+      "evidence_type": "text",
+      "page_text_sha256": "0543b85272c029d3c2cb8342ce336e279c1a334f32ecc77d71ce290ad72e1d92",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 370,
+      "evidence_type": "text",
+      "page_text_sha256": "699400e14edf81d39c4ddbc197220ef12cefad27b8036f5f91dc5d060e78c5cd",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 371,
+      "evidence_type": "text",
+      "page_text_sha256": "7e198f04592a1ca417bcbf6bdbc89d7367d5ada4a48109ad4b6d033b32b0d914",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 372,
+      "evidence_type": "text",
+      "page_text_sha256": "54d2448d823f08d7b33e4b3c08d63ab52d19857e77fba6099d6599211b00888a",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0365-p0372:child-01:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                         Pinus Laricio Poir.\n                            Syn. Pinus austriaca Hoss.            Pinus nigricans Host.\n\n                                                    Schwarzkiefer.\n\n          Familie: Coniferae (Abietineae);           Gattung: Pinus L.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 365,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 288,
+        "source_line_start": 1,
+        "source_line_end": 6,
+        "page_text_sha256": "1bedc93c66f68ef11afc12d511b2d52f17b940c154f21a156839b024796f0d8b",
+        "exact_text_sha256": "6e850990390942f68fccb86990d1e989099e2df59a5a0ae941593c14c56e89bc",
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "6e850990390942f68fccb86990d1e989099e2df59a5a0ae941593c14c56e89bc",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0365-p0372:child-01:s01:x00",
+      "section_type": "description",
+      "original_text": "         Beschreibung. Ein Baum von 30 und mehr Meter Höhe und 1 Meter Dicke, mit pyra-\nmidenförmiger, im späteren Alter schirmartig gewólbter Krone, die aus horizontal abstehenden Ast-\nquirlen zusammengesetzt ist. Junge Rinde glatt, grünlichbraun, im Alter tiefrissig, mit schwarzgrauer\nBorke bedeckt. Die grossen, walzigen, lang zugespitzten Knospen mit dicht anliegenden, weissen,\nsilberglänzenden Schuppen. Die halbrunden, 9 bis 10 Ctm., selten 12 bis 16 Ctm. langen Nadeln zu\n2 aus einer Scheide, starr, spitz, dunkelgrün, häufig gedreht, an den Kanten rauh, die stützenden\nSchuppen lanzettlich-pfriemlich, breit weiss berandet, an der Spitze weiss, wimperig gefranzt. Männ-\nliche Blüthen walzenfórmig, nach oben etwas verjüngt, 1*/, Ctm. lang, fast sitzend, gelb. Staub-\nblätter aus schuppenförmigen, gelben, 2fächerigen, der Länge nach aufspringenden Staubbeuteln\nbestehend, die mit breitrundlichen, dicht angefressen gezähnten Fortsätzen versehen sind. Pollen\n3knöpfig, gelb, aus einem planconvexen Verbindungsgliede mit beiderseits je einer kugeligen Anschwel-\nlung bestehend. Weibliche Kätzchen an der Spitze der diesjährigen Triebe, einzeln oder zu meh-\nreren,   aufrecht,   oval, roth,   an der Basis mit lanzettförmigen        Brakteen,     aus zahlreichen,   von je einer\nBraktee gestützten Fruchtblättern zusammengesetzt, welche der Spindel ziegeldachfórmig angeheftet\nsind. Brakteen rundlich am zerfressenen Rande nach aussen gebogen, kürzer als das Fruchtblatt.\nFruchtblätter kurz und breit gestielt, fleischig, breit rhombisch, gespitzt, nach vorn verdickt und mit\ndiesem verdickten Ende nach aussen hervortretend. Eichen 2, zu beiden Seiten des Fruchtblattgrundes,\nmit abwärts gerichtetem, 2zähnigem Knospenmund. Zapfen einzeln oder zu 2 bis 4wirtelig, fast\nsitzend, bald aufrecht,      bald horizontal    oder schief abwärts     stehend,     eifórmig   bis eikegelförmig,   5 bis\n8 Ctm. lang, am Grunde 3 Ctm. dick, gelbbraun. Die holzigen Schuppen innen hellbraun, auf dem\nRücken unter dem schildfórmig verdickten Ende (Apophyse) sckwärzlich. Apophysen glänzend, fast\nrhombisch,    die unteren    und mittleren     am   vorderen   Rande   abgerundet,     die unteren fast 5 eckig, sämmt-\nlich flach pyramidal bis gewölbt mit querlaufendem, auf den unteren Apophysen bogigem Kiele; das\nuntere Apophysenfeld durch einen Längskiel noch einmal getheilt. Der grosse, flach pyramiden-\nförmige Nabel kurz gespitzt Der ovale Same 5 bis 6 Mm. lang, weisslich bis aschgrau, mit halb-\n                                                                  ist als der Same.\neiförmigem, braungestreiftem Flügel ausgestattet, der 3mal so lang;",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 365,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 289,
+        "char_end": 2935,
+        "source_line_start": 7,
+        "source_line_end": 33,
+        "page_text_sha256": "1bedc93c66f68ef11afc12d511b2d52f17b940c154f21a156839b024796f0d8b",
+        "exact_text_sha256": "f7fefc4aabd2b562ae556e8d4d3c0d88768381c44246ef4c9341e801baa7d09f",
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "f7fefc4aabd2b562ae556e8d4d3c0d88768381c44246ef4c9341e801baa7d09f",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0365-p0372:child-01:s02:x00",
+      "section_type": "distribution",
+      "original_text": "             Vorkommen.             Die Verbreitung der Schwarzkiefer sammt ihren Formen erstreckt sich von\nSüdspanien bis Kleinasien             und vom       Wiener    Walde bis Sicilien,         am häufigsten in Spanien, auf Corsica,\nin den Apenninen, in Bithynien, im Wiener Walde und am Nordrande der österreichischen Alpen auf-\ntretend.                                                                                                          .",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 366,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 999,
+        "char_end": 1448,
+        "source_line_start": 11,
+        "source_line_end": 14,
+        "page_text_sha256": "dca1e375ee3ccbbcea198a6557089a8c5313c4635a2b696b4ea4a6b65c031b3a",
+        "exact_text_sha256": "388dddbb45f466edc2448f5615e1f9b60ab6d5f9e0580729f3abf7436954756e",
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "388dddbb45f466edc2448f5615e1f9b60ab6d5f9e0580729f3abf7436954756e",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0365-p0372:child-01:s03:x00",
+      "section_type": "constituents",
+      "original_text": "           Bestandtheile. Terpenthin, welcher als eine Lösung von Harz in\n                                                                                   Terpenthinöl zu be-\ntrachten ist, enthält bis 30 %, Terpenthinöl, Harz und Harzsänre (Pimarsäur\n                                                                            e, Pininsäure, Sylvinsäure,\n Abietinsäure), wenig Ameisensäure und Bernsteinsäure. In frischem Terpen\n                                                                            thin findet sich Abietin-\n säureanhydrit, welches Wasser aufnimmt, und sich in wetzsteinähnlichen Kr\n                                                                                 ystallen abscheidend,\n Trübung und Bodensatz verursacht. Flückiger hält diesen Absatz im amerikan\n                                                                                ischen Terpenthin für\n Abietinsäure, während er in dem Absatz des französischen Terpenthins Pimarsäu\n                                                                                 re vermuthet. Nach\n Flückiger werden in Frankreich bei sorgfältiger Dampfdestillation aus 100 Theile\n                                                                                      n Rohterpenthin\n 19.5 Oel, 68 Rückstand und 12.5 Wasser und Unreinlichkeiten gewonnen. Das bei\n                                                                                        der Destillation\n zurückbleibende Harz ist der gekochte Terpenthin (Terebinthina cocta), aus dem durch vo\n                                                                                              rsichtiges\n Schmelzen, bis zur vollständigen Entfernung des Wassers, das Colophonium gewonnen wird.\n                                                                                               Letzteres\n bildet eine gelbe, durchsichtige, oder braunrothe, durchscheinende Masse mit einem spez. Gew. vo\n                                                                                                       n\n 1.07 und einem Schmelzpunkte von 90 bis 1009, ist spröde, zerreiblich, auf dem Bruche gross- un\n                                                                                                       d\n flachmuschelig, scharfkantig, glasglünzend, fast geruch- und geschmacklos, erweicht bei 809, ist mi\n                                                                                                       t\n Wasserdämpfen destillirbar und löst sich in absolutem Weingeist, Aceton, Chloroform und Schwefel\n                                                                                                       -\n kohlenstoff, Aether und ätherischen       Oelen,     theilweise   in Steinöl,    lässt sich mit Fett und Wachs       zu-\n sammenschmelzen und giebt mit ätzenden Alkalien Harzseifen, Die Lösungen sind schwach fluore\n                                                                                                s-\n cirend. Das Colophonium besteht zum grössten Theile aus dem Anhydrit der Abietinsäure und besitz\n                                                                                                  t\n die Formel C,,H,,0,.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 369,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 3172,
+        "source_line_start": 1,
+        "source_line_end": 34,
+        "page_text_sha256": "0543b85272c029d3c2cb8342ce336e279c1a334f32ecc77d71ce290ad72e1d92",
+        "exact_text_sha256": "cfa9d7000553c6c3969a0fd93c17ceb24e9e56bea40e4e96b3f53be1ec8d8ebd",
+        "section_index": 3,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "cfa9d7000553c6c3969a0fd93c17ceb24e9e56bea40e4e96b3f53be1ec8d8ebd",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0365-p0372:child-01:s04:x00",
+      "section_type": "literature",
+      "original_text": "         Litteratur.            Abbildung und Beschreibung. Nees v. Esenb., Pl. med., Taf. 76 und 77\n(Pinaster); Bentley             und Trimen, Med. plant, Taf. 256 (Pinaster); Luerssen, Handb. der syst.\nBot. II, 112 f£; Karsten, Deutsche                 Flora     323 ff; Wittstein,             Pharm.     842.\n\n           Drogen und Präparate.               Terebinthina          communis          (T. vulgaris,     Galipot,      Thus     ieee\nBalsamum      Terebinthina        communis):       Ph. germ.         268;    Ph. austr. 131;         Ph. hung. 448;           Ph. ross. 407;\nCod. med. 80; Ph. belg. 67; Ph. Neerl 261; Brit. ph. 318; Ph. dan. 52; Ph. suec. 28; Ph. U. St. 332.\nFlückiger,        Pharm. 64, 90 (Colophonium);               Flückiger and Hanb.,              Pharm. 543; Hist. d. Drog. II, 378;\nBerg, Waarenk. 542.\n       Oleum T'erebinthinae TW                      ES Ph. germ. 204; Ph. austr. 100; Ph. hung. 323; Ph. ross.\n210; Ph. helv. 98;         Ph. belg. 67;       Ph. Neerl           172;     Brit. ph. 228; Ph. dan. 40;             Ph. suec.    19; Ph. U.\nSt. 244.\n           Oleum Terebinthinae sulfuratum: Ph. dan. 169; Ph. suec. 140.\n           Colophonium (Terebinthina cocta): Ph. germ. 62; Ph. austr. 110; Ph. hung. 369; Ph. helv.\n27; Cod. med. 48; Ph. Neerl. 80; Ph. dan. 197; Ph. suec.                               176; Ph. U. St. 280.\n           Ceratum resinae: Ph. U. St. 71.\n           Confectio Terebinthinae: Brit. ph. 90.\n           Emplastrum          adhaesivum: Ph. germ. 75; Ph. helv, 33; Ph. Neerl. 94,\n           Emplastrum ad Rupturas: Ph. hung. 167,\n           Emplastrum aromaticum: Ph. Neerl. 89,",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        3
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 370,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2765,
+        "char_end": 4422,
+        "source_line_start": 31,
+        "source_line_end": 50,
+        "page_text_sha256": "699400e14edf81d39c4ddbc197220ef12cefad27b8036f5f91dc5d060e78c5cd",
+        "exact_text_sha256": "8618cbbc9374715bcc490e82db92ecf63bb38b222630aaf98697dd2cab54f2b5",
+        "section_index": 4,
+        "section_type": "literature"
+      },
+      "exact_text_sha256": "8618cbbc9374715bcc490e82db92ecf63bb38b222630aaf98697dd2cab54f2b5",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0365-p0372:child-01:s05:x00",
+      "section_type": "literature",
+      "original_text": "             Bezügl. der Drogen und Präparate siehe auch Hager,           Pharm.    Prx. II, 1117, III, 1153.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        4
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 371,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2528,
+        "char_end": 2637,
+        "source_line_start": 40,
+        "source_line_end": 40,
+        "page_text_sha256": "7e198f04592a1ca417bcbf6bdbc89d7367d5ada4a48109ad4b6d033b32b0d914",
+        "exact_text_sha256": "34cbaae9b05d41c5f262b94eefdbeeff8b19208efba88fc19856845f4ff708a9",
+        "section_index": 1,
+        "section_type": "literature"
+      },
+      "exact_text_sha256": "34cbaae9b05d41c5f262b94eefdbeeff8b19208efba88fc19856845f4ff708a9",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0365-p0372:child-01:s06:x00",
+      "section_type": "distribution",
+      "original_text": "schuppen hervorragend. In den nördlichen und nordwestlichen Staaten Nordamerikas; durch Britisch-\nNordamerika bis zum 62° n. Br. vorkommend.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        5
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 372,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 649,
+        "char_end": 789,
+        "source_line_start": 8,
+        "source_line_end": 9,
+        "page_text_sha256": "54d2448d823f08d7b33e4b3c08d63ab52d19857e77fba6099d6599211b00888a",
+        "exact_text_sha256": "12e815b501fa4f219f7543b2d6b8e815f958944ab7d69c9c25a8af5cb1f8d68e",
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "12e815b501fa4f219f7543b2d6b8e815f958944ab7d69c9c25a8af5cb1f8d68e",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0365-p0372:child-01:s07:x00",
+      "section_type": "harvest",
+      "original_text": "            Die, wie      bei der Weisstanne,        in der Rinde   befindlichen   Blasen   enthalten   den   Balsam;   sie\nwerden in Unter-Canada vermittelst eiserner Kännchen mit ausgezogener,                 scharfer Lippe angestochen und         |\nso ihres Inhaltes entleert. Das Geschäft ist sehr mühsam und wird hauptsächlich nur von Indianern\nbetrieben.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        5
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 372,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 790,
+        "char_end": 1150,
+        "source_line_start": 10,
+        "source_line_end": 13,
+        "page_text_sha256": "54d2448d823f08d7b33e4b3c08d63ab52d19857e77fba6099d6599211b00888a",
+        "exact_text_sha256": "403f080c5320630a3b6723c2c1a75ee8a3a6c6a952659f1e6c8c02e8452c42f5",
+        "section_index": 3,
+        "section_type": "harvest"
+      },
+      "exact_text_sha256": "403f080c5320630a3b6723c2c1a75ee8a3a6c6a952659f1e6c8c02e8452c42f5",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0365-p0372:child-01:s08:x00",
+      "section_type": "constituents",
+      "original_text": "    |      Der Canadabalsam ist ganz klar, von hellgelber, grünlich angehauchter Farbe, schwach fluores- |\ncirend; der Geruch ist angenehm aromatisch, der Geschmack bitter, mit absolutem Alkohol oder Aceton\nist er nicht klar mischbar. Flückiger erhielt aus guter Waare 249/, Oel (C,oHıs), welches grösstentheils\nbei 160—167° siedet und die Polarisationsebene nach links dreht, während das in Benzol gelöste Harz\nrechts polarisirt; ausserdem 60%, in kochendem Alkohol lösliches Harz und 16%, in Aether lösliches\nHarz. Nach Flückiger ist dieser Balsam erst im 18. Jahrhundert nach Europa gelangt; 1759 findet",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        5
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 372,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 1151,
+        "char_end": 1757,
+        "source_line_start": 14,
+        "source_line_end": 19,
+        "page_text_sha256": "54d2448d823f08d7b33e4b3c08d63ab52d19857e77fba6099d6599211b00888a",
+        "exact_text_sha256": "c8f85ab80377d9bbebdf69e93efbd488d7a9c34c4d913988870c460bc591bf0c",
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "c8f85ab80377d9bbebdf69e93efbd488d7a9c34c4d913988870c460bc591bf0c",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "e987aeaaae96f4e515a6f153b5b92264a8f9c2d41d966d4ab45eb71d1488ea5a",
+    "maker_receipt_sha256": null,
+    "validation_check_sha256": null,
+    "source_disposition_sha256": "901bbc8df58091d2ed9ecb922c423309668bef2febab44841855d4fff448f45a",
+    "candidate_source_chain": {
+      "source_disposition_sha256": "901bbc8df58091d2ed9ecb922c423309668bef2febab44841855d4fff448f45a",
+      "boundary_overlay_plan_sha256": "c7c0253e52f0583570699f98cc9c8fa3dda15857551bc2b94d6430ed0afd008a",
+      "boundary_segment_sha256": "3219db2899946250a4565967bf11df142828c7ddae0feba47b7e954ce7e4ae3c",
+      "source_parent_entry_id": "kohler-volume-2:p0365-p0372",
+      "continuation_v2_receipts": [
+        {
+          "package_id": "kohler-volume-2:p0365-p0372:child-01:continuation-01",
+          "package_sha256": "7b8fbff7a460e064e7971f64906f439beadfe94d31a42bc072bab4121f6c2adf",
+          "receipt_sha256": "8e6f7de8fc2ae1387d29635f4bb163a00992a16ef0790144b354789dbeb8ac4b",
+          "attempt_sha256": "e6f98a28db258c3f03624677c2031fadf88462a12de6110bef030cc9c7cfb065",
+          "validation_check_sha256": "d78872b753c2950ba61594cef590ce19b412fad5a6a5243a13dcc491470e760e"
+        },
+        {
+          "package_id": "kohler-volume-2:p0365-p0372:child-01:continuation-02",
+          "package_sha256": "c7567e041351828322f864d10e392dc8fc49f1df3ad67665bc6e40ce26a20d01",
+          "receipt_sha256": "e84d6ac6ccb6bea34c9df6120452282be7a5670d5ad8e08105d425f3cde03eed",
+          "attempt_sha256": "a1bfb6ba51f3eb4ad62dc38d31447bafe42fe52db43415edf09b012bd038b7bb",
+          "validation_check_sha256": "cca73ccce0c5f517ef26be58afc4bb4e7f2205123983a6eb0fe538efbca32734"
+        }
+      ]
+    },
+    "naming_artifact_sha256": "8f8445e692091e44980e791e591133338fbf10cd3c7275c9c57632ee35a9a4e0"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "e649a8aa2b245d00e3b6dfcda551a45fbd75768c16e9a4a70420eb6dde3a7db7"
+}

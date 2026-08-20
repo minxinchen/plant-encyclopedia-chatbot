@@ -1,0 +1,146 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-2:p0205-p0208",
+  "owner_shard": "S03",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S03/maker/structure-drafts/kohler-volume-2__p0205-p0208.json",
+  "source_draft_sha256": "6f64bd3e24d687dea7037fe8ca77ebf2c517ce758e0a421b732eca9da37c9fc4",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "f2d50d6c690e4c589c26e1a5da6773d952886387c782704c87811b9069d666d4",
+    "validation_check_sha256": "f5bd55275d5018480e7621ac19c3bd169dd75cefd02dc8d847ff751357ff781f",
+    "source_disposition_sha256": "7c0bd10d17a4b777d3a96f5e94775f983b9ea58b38f11980dcd3e5147fefc507",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Rosmarinus officinalis",
+    "authorship_candidate": null,
+    "aliases_candidates": [
+      "Salvia Rosmarinus Spenn.",
+      "Rosmarin",
+      "Rosemary",
+      "Romarin"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Rosmarinus officinalis",
+      "Salvia rosmarinus"
+    ],
+    "accepted_scientific_name": "Salvia rosmarinus",
+    "display_name_zh_tw": "迷迭香",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0055120",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol_book_alias"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary",
+    "rationale": "A scientific alias explicitly printed in the Köhler entry exactly matches a TaiCOL species with a Taiwan public name.",
+    "checked_at": "2026-08-13T19:50:31+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Rosmarinus officinalis",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Rosmarinus+officinalis",
+      "retrieved_at": "2026-08-13T19:50:30+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Rosmarinus officinalis",
+          "matched_name_id": 23960,
+          "taxon_id": "t0055120",
+          "taicol_name_status": "not-accepted",
+          "accepted_name": "Salvia rosmarinus",
+          "accepted_name_id": 128751,
+          "accepted_usage": [
+            {
+              "usage_id": 125811,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0055120",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0055120",
+          "taxon": {
+            "taxon_id": "t0055120",
+            "taxon_status": "accepted",
+            "name_id": 128751,
+            "simple_name": "Salvia rosmarinus",
+            "name_author": "Spenn.",
+            "rank": "Species",
+            "common_name_c": "迷迭香",
+            "alternative_name_c": null,
+            "synonyms": "Rosmarinus officinalis",
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2026-06-18"
+          },
+          "auto_promotion_blocked": {
+            "book_binomial": "Rosmarinus officinalis",
+            "accepted_name": "Salvia rosmarinus",
+            "reason": "cross-genus synonym links require independent taxonomy review"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Salvia rosmarinus",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Salvia+rosmarinus",
+      "retrieved_at": "2026-08-13T19:50:31+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Salvia rosmarinus",
+          "taxon_id": "t0055120",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Salvia rosmarinus",
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0055120",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0055120",
+          "taxon": {
+            "taxon_status": "accepted",
+            "simple_name": "Salvia rosmarinus",
+            "name_author": "Spenn.",
+            "rank": "Species",
+            "common_name_c": "迷迭香",
+            "alternative_name_c": null,
+            "synonyms": "Rosmarinus officinalis",
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2026-06-18"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "The Taiwan accepted name is linked through a scientific alias printed in Köhler; Köhler facts remain attached to the book taxon."
+  ]
+}

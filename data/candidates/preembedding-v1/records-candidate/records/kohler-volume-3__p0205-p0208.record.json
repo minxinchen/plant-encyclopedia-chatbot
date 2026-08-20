@@ -1,0 +1,291 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-3-p0205-p0208",
+  "entry_id": "kohler-volume-3:p0205-p0208",
+  "owner_shard": "S07",
+  "book_taxon": {
+    "scientific_name": "Piscidia Erythrina",
+    "authorship": "L.",
+    "aliases": [
+      "Erythrina piscipula L.",
+      "Ichtyomethia P. Browne",
+      "Piscipula Loeffling"
+    ]
+  },
+  "display_name": "毒魚豆",
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Piscidia Erythrina",
+      "Piscidia erythrina",
+      "Piscidia piscipula"
+    ],
+    "accepted_scientific_name": "Piscidia piscipula",
+    "display_name_source_scope": "non_taiwan_traditional_fallback",
+    "taiwan_occurrence_status": "not_asserted",
+    "checked_at": "2026-08-13T13:07:31+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Piscidia+Erythrina",
+        "query_name": "Piscidia Erythrina",
+        "retrieved_at": "2026-08-13T12:27:46+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0014748",
+        "query_name": "Piscidia Erythrina",
+        "retrieved_at": "2026-08-13T12:27:46+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0014748",
+        "query_name": "Piscidia Erythrina",
+        "retrieved_at": "2026-08-13T12:27:46+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Piscidia+erythrina",
+        "query_name": "Piscidia erythrina",
+        "retrieved_at": "2026-08-13T12:27:46+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Erythrina+piscipula",
+        "query_name": "Erythrina piscipula",
+        "retrieved_at": "2026-08-13T12:55:40+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Piscipula+loeffling",
+        "query_name": "Piscipula loeffling",
+        "retrieved_at": "2026-08-13T12:55:40+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "Kew POWO explicitly maps the book name Piscidia erythrina to the accepted name Piscidia piscipula. No Taiwan public plant-name record was found in TaiCOL or Tai2, so the Traditional-Chinese-readable name 毒魚豆 from Chinese Wikipedia is retained only as a last-resort non-Taiwan translation. No Taiwan occurrence is inferred."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 205,
+      "evidence_type": "text",
+      "page_text_sha256": "de9b247ac7a3052050a45b21602c3c20b9324c2b553a60bedd32d8fffa4f7328",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 206,
+      "evidence_type": "text",
+      "page_text_sha256": "4741c7ac0e9cec18926a586d5117b42dd35017cfa2c9ba083ee697cdf86c74c2",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 207,
+      "evidence_type": "text",
+      "page_text_sha256": "3950da6f6cfce9575e2a91ddeb7f80947e6f97d41e977d1cb709ed29d7eeb673",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-3:p0205-p0208:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "             Syn. Erythrina piscipula L., Ichtyomethia P. Browne, Piscipula Loeffling.\n\n             Familie: Papilionaceae Jussieu.                   Gruppe: Dalbergieae DC.                       Gattung: Piscidia I;",
+      "normalized_text": null,
+      "zh_tw_rendering": "同義名包括 Erythrina piscipula、Ichtyomethia 及 Piscipula。隸屬於 Papilionaceae 科，Dalbergieae 族，Piscidia 屬。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 205,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 350,
+        "char_end": 567,
+        "page_text_sha256": "de9b247ac7a3052050a45b21602c3c20b9324c2b553a60bedd32d8fffa4f7328",
+        "exact_text_sha256": "28144fe44673a6ecccc667ad81b076ca40bd821f870b4e72c3fb5ebf22c03617",
+        "source_line_start": 5,
+        "source_line_end": 7,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "28144fe44673a6ecccc667ad81b076ca40bd821f870b4e72c3fb5ebf22c03617",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0205-p0208:s01:x00",
+      "section_type": "description",
+      "original_text": "             Beschreibung.            Ein    Baum       von    6-8        m    Höhe     mit     glatter heller Rinde               und    unregel-\n mässig abstehenden Ästen.                   Die Blätter sind wechselständig, unpaarig gefiedert, mit zwei bis\n vier seitlichen Fiederpaaren.                  Das Blatt wird im ganzen bis 15 cm lang, wovon etwa 7 cm\n auf    den Blattstiel,           7 cm   Länge       auf      die Blattfläche          vom     ersten       Fiederpaare           aus    gerechnet\n werden muss.           Der Grund des Blattstiels, etwa 1—2 cm lang, ist aufgetrieben, der Stiel selbst\n stielrund,     nur     oberseits        schwach      rinnig.       Die       einzelnen Fiederblättchen                  sitzen    ebenfalls     auf",
+      "normalized_text": null,
+      "zh_tw_rendering": "高 6-8 公尺之樹，樹皮光滑色淺。葉互生，奇數羽狀複葉，長約 15 公分。小葉橢圓形，全緣，革質，易脫落。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 205,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 569,
+        "char_end": 1331,
+        "page_text_sha256": "de9b247ac7a3052050a45b21602c3c20b9324c2b553a60bedd32d8fffa4f7328",
+        "exact_text_sha256": "9288ed8e4cdafe165b753ebc1bc0ee0213da0e264719d6b1ae3730c7d48a1f1e",
+        "source_line_start": 9,
+        "source_line_end": 14,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "9288ed8e4cdafe165b753ebc1bc0ee0213da0e264719d6b1ae3730c7d48a1f1e",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0205-p0208:s02:x00",
+      "section_type": "distribution",
+      "original_text": "            Vorkommen.                Die Pflanze           wächst     in Ebenen        und     hügeligen       Gegenden        Westindiens,\ndes nördlichen Südamerikas, und des südlichen Nordamerikas. Sie findet sich auf den An-\ntillen, besonders auf Jamaika, in Mexiko, Texas und Florida.   Daselbst gedeiht sie in\nGebüschen,         am     liebsten        auf vulkanischem            Boden     in der Nähe           des Meeres.",
+      "normalized_text": null,
+      "zh_tw_rendering": "產於西印度、南美北部及北美南部。常見於安地列斯群島，尤以牙買加、墨西哥、德州及佛羅里達為多，喜火山土壤。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 206,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 1951,
+        "char_end": 2380,
+        "page_text_sha256": "4741c7ac0e9cec18926a586d5117b42dd35017cfa2c9ba083ee697cdf86c74c2",
+        "exact_text_sha256": "65e9cdfb4cfbeda1838bc0ee1811442a2c6001305ae3c5e5c4acac73c82033ec",
+        "source_line_start": 20,
+        "source_line_end": 23,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "65e9cdfb4cfbeda1838bc0ee1811442a2c6001305ae3c5e5c4acac73c82033ec",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0205-p0208:s03:x00",
+      "section_type": "anatomy",
+      "original_text": "           Anatomie.            Auf       dem     Querschnitt         der    aufgeweichten         Rinde     erkennt       man     unter    der\nLupe      eine     sehr     dünne         Korkschicht;           darauf     folgt    eine     grüne    Mittelrinde        und     eine weisse\nInnenrinde,        welche          durch        bräunliche        Bastbündel         sefeldert     erscheint.       Bei     stärkerer Ver-\ngrösserung         erscheint        der    Kork        etwa     dreissig Lagen         stark;     unter     ihm     folgt ein dem          Kork\nverwandtes          Gewebe          und         das     zartmaschige         Rindenparenchym,              dessen     Zellen       schwache\ntangentiale Streckung besitzen.                        In dieses eingebettet finden sich einzelne- harzhaltige braune\nZellen,    deren     Inhalt        in Wasser          und   Glycerin        nicht, dagegen        in Alkohol      und     Alkalien     löslich",
+      "normalized_text": null,
+      "zh_tw_rendering": "橫切面顯薄木栓層，其下為綠色中皮及白色內皮。內皮含棕色木質纖維束，夾雜含樹脂細胞，不溶於水但溶於酒精。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 206,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 3748,
+        "char_end": 4717,
+        "page_text_sha256": "4741c7ac0e9cec18926a586d5117b42dd35017cfa2c9ba083ee697cdf86c74c2",
+        "exact_text_sha256": "8b685a7401e810b6c4dbb3753923815cbc4cafc32a64a6b65bb56a0eca347026",
+        "source_line_start": 40,
+        "source_line_end": 46,
+        "section_index": 3,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "8b685a7401e810b6c4dbb3753923815cbc4cafc32a64a6b65bb56a0eca347026",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0205-p0208:s04:x00",
+      "section_type": "constituents",
+      "original_text": "              Bestandteile.               Unter den Bestandteilen hat A. ©. Nagle einen Bitterstoff isoliert, dem\ner den Namen                 Piseidin und die Formel                         0% H%* O8 giebt.                 Zu     seiner Darstellung wird das\nFluidextrakt mit etwas Kalkbrei vermengt                                        und         das Gemisch            eine halbe Stunde                an einem\nwarmen          Orte       digeriert;           man      presst       aus,     filtriert      und     versetzt        das        Filtrat mit Wasser             bis\nzur beginnenden Trübung und stellt das Ganze mehrere Tage beiseite.                                                                Dann         scheidet sich\ndas Piscidin           in kleinen               farblosen      Prismen         ab, die        durch       Umkrystallisieren               aus    Alkohol        ge-\nreinigt werden               können.            Der     Körper        schmilzt bei 192°,               ist unlöslich             in Wasser,        leicht lös-",
+      "normalized_text": null,
+      "zh_tw_rendering": "分離出苦味成分 Piscidin，分子式 C20H22O8。為無色稜柱結晶，熔點 192 度，不溶於水，易溶於熱酒精、苯及氯仿。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 207,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 813,
+        "char_end": 1873,
+        "page_text_sha256": "3950da6f6cfce9575e2a91ddeb7f80947e6f97d41e977d1cb709ed29d7eeb673",
+        "exact_text_sha256": "0231c11b6102820f04fb4aa8ed49769e71219ceb9c700059bf18bf9b9ece5896",
+        "source_line_start": 9,
+        "source_line_end": 15,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "0231c11b6102820f04fb4aa8ed49769e71219ceb9c700059bf18bf9b9ece5896",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0205-p0208:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "              Anwendung.                  Bei     den      Eingeborenen,              die     den      Baum         auf     Jamaika,        Manaka,             auf\nSt. Vincenz            aber Murungi oder Mulungs                             nennen,        ist derselbe längst als Gift bekannt.                              Der\nDominikaner-Mönch                    Jean         Baptiste          Labat           erzählt    schon       1722      in seinem           Buche      „Nouveau\nvoyage         aux     iles de l’Amerique,                 contenant          l’histoire naturelle            de ce pays“,              dass man        auf    den\nAntillen       mit dem Saft der Pflanze                        die Jagdpfeile          vergifte.          Getroffene         Tiere       sänken     sofort be-\ntäubt um und stürben,                           ohne\n                                              dass ihr Fleisch ungeniessbar würde. — Die verbreitetste An-",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史記載原住民用以毒魚，魚肉可食。1722 年 Labat 記載用於毒箭。Hamilton 於 1830 年發現其麻醉止痛及催眠作用。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 207,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 2213,
+        "char_end": 3178,
+        "page_text_sha256": "3950da6f6cfce9575e2a91ddeb7f80947e6f97d41e977d1cb709ed29d7eeb673",
+        "exact_text_sha256": "44395e3f15187e4af10521d757d09d545cc614282b985eb5f070687aa94ab1d8",
+        "source_line_start": 20,
+        "source_line_end": 26,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "44395e3f15187e4af10521d757d09d545cc614282b985eb5f070687aa94ab1d8",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "TaiCOL and Tai2 provide no exact record for this species; 毒魚豆 is not presented as a Taiwan official/public plant name.",
+    "The Chinese name is the permitted last-resort translation tier and must remain lower priority than any future Taiwan government or academic record.",
+    "Taiwan occurrence is not asserted.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "213020b57c1c940dba83209e104ab42a6aa567d0b99dcb5da01a68b937bac2d7",
+    "maker_receipt_sha256": "05557a395620a97232501160e44b2b8bae971d8995ccd91bca60016df097b60c",
+    "validation_check_sha256": "91a54e88b89ef5475e4e4f8d1a2abb0fb8b46d34a1c3839f94e43fa09d991b9c",
+    "source_disposition_sha256": "42b351b3bbc6c5cea98aa150789170e1373df9eef70de6c1ecdd82d4235b4202",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "05557a395620a97232501160e44b2b8bae971d8995ccd91bca60016df097b60c",
+      "validation_check_sha256": "91a54e88b89ef5475e4e4f8d1a2abb0fb8b46d34a1c3839f94e43fa09d991b9c",
+      "source_disposition_sha256": "42b351b3bbc6c5cea98aa150789170e1373df9eef70de6c1ecdd82d4235b4202"
+    },
+    "naming_artifact_sha256": "cfda0efa75dc76fd2693581728a6edb21536bd3b4cbcb6e510cb9d91e44a6457"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "ba978a82a7cf43b1f29eb9b5c79a52f1736e854a175ba1f2b4fcb8b343b7d272"
+}

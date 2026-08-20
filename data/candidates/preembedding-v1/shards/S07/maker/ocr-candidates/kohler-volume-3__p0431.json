@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 431,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "0673ad7541c2debaec4390a4dfa7c34cbc0e0fd3fba638f791ee5a1ee12a2bcc",
+  "render_dpi": 144,
+  "render_sha256": "19cc1d3d01c221a6c0afca7479f2cf751fb3f77968a488255bfb19c2525f67f6",
+  "input_sha256": "19cc1d3d01c221a6c0afca7479f2cf751fb3f77968a488255bfb19c2525f67f6",
+  "render_pixel_width": 5678,
+  "render_pixel_height": 8234,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.732,
+  "embedded_character_count": 146,
+  "ocr_character_count": 59,
+  "ocr_alpha_ratio": 0.7966,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01744185932098874,
+      "text": "Convolvulaceae",
+      "width": 0.13263157906292156,
+      "x": 0.7999999983895919,
+      "y": 0.9607558147435754
+    },
+    {
+      "confidence": 1,
+      "height": 0.016500416256132633,
+      "text": "(Convolvuleae)",
+      "width": 0.11593631222951328,
+      "x": 0.8083476322003819,
+      "y": 0.9416044429671752
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "8",
+      "width": 0.012631578239605576,
+      "x": 0.09473684252932,
+      "y": 0.31104651163435293
+    },
+    {
+      "confidence": 1,
+      "height": 0.02185423601241332,
+      "text": "Convolvulus Scammonia L.",
+      "width": 0.22736840556851395,
+      "x": 0.39578947911047996,
+      "y": 0.011627906946242161
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "28",
+      "width": 0.016842105234269655,
+      "x": 0.9010526314881283,
+      "y": 0.017441860676472465
+    }
+  ],
+  "text": "Convolvulaceae\n(Convolvuleae)\n8\nConvolvulus Scammonia L.\n28",
+  "output_sha256": "d07e07f0b1bc2976f5c8cdee985c76cf3029511ee1a9aeeda282f1ba07ed8223",
+  "receipt_sha256": "b587d04da1d5ddb9eb0b816cfb91f77fa4316cc30027a5c5b2e0e9bc36e833a5"
+}

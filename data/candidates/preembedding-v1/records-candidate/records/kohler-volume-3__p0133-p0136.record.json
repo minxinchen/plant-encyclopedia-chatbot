@@ -1,0 +1,289 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-3-p0133-p0136",
+  "entry_id": "kohler-volume-3:p0133-p0136",
+  "owner_shard": "S06",
+  "book_taxon": {
+    "scientific_name": "Macrotomia cephalotes",
+    "authorship": "De Candolle",
+    "aliases": [
+      "Munbya cephalotes Boissier",
+      "Munbya conglobata Boissier",
+      "Arnebia Cephalotes DC.",
+      "Arnebia densiflora Ledebour",
+      "Lithospermum densiflorum Ledebour"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Macrotomia cephalotes"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T15:45:42+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Macrotomia+cephalotes",
+        "query_name": "Macrotomia cephalotes",
+        "retrieved_at": "2026-08-13T15:45:39+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Munbya+cephalotes",
+        "query_name": "Munbya cephalotes",
+        "retrieved_at": "2026-08-13T15:45:39+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Munbya+conglobata",
+        "query_name": "Munbya conglobata",
+        "retrieved_at": "2026-08-13T15:45:39+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Arnebia+cephalotes",
+        "query_name": "Arnebia cephalotes",
+        "retrieved_at": "2026-08-13T15:45:39+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Arnebia+densiflora",
+        "query_name": "Arnebia densiflora",
+        "retrieved_at": "2026-08-13T15:45:39+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Lithospermum+densiflorum",
+        "query_name": "Lithospermum densiflorum",
+        "retrieved_at": "2026-08-13T15:45:39+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 133,
+      "evidence_type": "text",
+      "page_text_sha256": "d9ecf8d50c3ba90290f53801be76b240963f0f69a059c7365ae6663021da58f2",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 135,
+      "evidence_type": "text",
+      "page_text_sha256": "da699b1556e11dd23dd9cf612feba8d8ec9883f0c1527bc45fe6b74f76ce26f9",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 136,
+      "evidence_type": "text",
+      "page_text_sha256": "63bb90792b16bdc82ca46f4722c782d1fc33a113da937b1508bfbf56170f5d93",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-3:p0133-p0136:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                           Macrotomia cephalotes                                    De Candolle.\n                                                       Syrische Alkanna.\n          Syn. Munbya cephalotes Boissier. Munbya conglobata Boissier.                               Arnebia     Cephalotes DC.\n  Arnebia densiflora Ledebour. Lithospermum densiflorum Ledebour.\n              Familie: Borraginaceae.            Unterfamilie:        Anchuseae.        Gattung: Macrotomia DO.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Macrotomia cephalotes，同物異名包括 Munbya 及 Arnebia 屬種，隸屬於紫草科。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 133,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 475,
+        "page_text_sha256": "d9ecf8d50c3ba90290f53801be76b240963f0f69a059c7365ae6663021da58f2",
+        "exact_text_sha256": "6724832924e24ce76c07a1d2c25b6cf9fec95530e680cfa14de76d9009e7b83e",
+        "source_line_start": 1,
+        "source_line_end": 5,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "6724832924e24ce76c07a1d2c25b6cf9fec95530e680cfa14de76d9009e7b83e",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0133-p0136:s01:x00",
+      "section_type": "description",
+      "original_text": "              Beschreibung.         Die schöne,      ausdauernde Pflanze          ist eine Zierde     der alpinen Gegenden\n  des Orients.       Aus   einer     dicken,     in eine srosse Anzahl         konzentrischer Blätter zerklüfteten,                     mit\n ‚rotem Farbstoff übersättigten,             meist einköpfigen Wurzel,          welche,      vielfach hin- und hergebogen,\n  schief in dem Boden verläuft,                entspringt ein von einer Blattrosette umgebener, kantiger, rauh\n                                                                                                               -\n  haariger,    beblätterter,       nicht    ästiger Stengel, welcher 30-50 em hoch wird.        Der Wurzelkopf\n  älterer Pflanzen läuft zunächst in einen bis 10 cm langen Zopf di\n                                                                      chter grauhaarig borstiger\n ‚Schuppen aus, die aus den Resten vorjähriger Basalblätter bestehen.",
+      "normalized_text": null,
+      "zh_tw_rendering": "多年生植物，產於東方高山，具紅色染料，根多頭且彎曲，莖高 30-50 公分，被毛。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 133,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 476,
+        "char_end": 1431,
+        "page_text_sha256": "d9ecf8d50c3ba90290f53801be76b240963f0f69a059c7365ae6663021da58f2",
+        "exact_text_sha256": "3de3999cf9ade408a28c8596a9c033143a52ca0bfdbeaaa47ace03f03d71b584",
+        "source_line_start": 6,
+        "source_line_end": 14,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "3de3999cf9ade408a28c8596a9c033143a52ca0bfdbeaaa47ace03f03d71b584",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0133-p0136:s02:x00",
+      "section_type": "distribution",
+      "original_text": "         Vorkommen. Die Pflanze wächst an felsigen, sonnigen Stellen alpiner Gegenden des\n‘Orients, am Berge Chelmos auf dem Pelopones, auf dem bithynischen Olymp, in den nord-\n‚anatolischen Gebirgen, Lycien, dem Cilicischen Taurus, in Capadocien, am Akdagh, Berydagh\nin Cataonien, Belchendagh bei Charput, am Goeldagh in Klein-Armenien.",
+      "normalized_text": null,
+      "zh_tw_rendering": "生長於東方高山岩石陽處，分佈於希臘、小亞細亞、卡帕多西亞及亞美尼亞等地。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 135,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 337,
+        "page_text_sha256": "da699b1556e11dd23dd9cf612feba8d8ec9883f0c1527bc45fe6b74f76ce26f9",
+        "exact_text_sha256": "b819e47f52a36e707c33ce7324077ce8016a33ccc4e7fb332cc5e95e10034b3a",
+        "source_line_start": 1,
+        "source_line_end": 4,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "b819e47f52a36e707c33ce7324077ce8016a33ccc4e7fb332cc5e95e10034b3a",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0133-p0136:s03:x00",
+      "section_type": "historical_use",
+      "original_text": "           Geschiehte.            Die Wurzel dieser Pflanze sammelte Professor Haussknecht auf seiner\nReise nach Luristan 1883 und sprach schon damals die Vermutung aus, dass dieselbe als\n„Radix Alkannae“ gebraucht werden könnte; diese Originalexemplare befinden sich im Städtischen\nMuseum zu Weimar. Inzwischen ist sogenannte syrische Alkanna im Handel erschienen und\nich verdanke der Güte der Firma Gehe & Co. ausgezeichnete Muster der Droge, die im\nBegriffe steht, der ungarischen Wurzel                   wirksame Konkurrenz                zu machen.            Das genaue Studium\n‚dieser und der Haussknecht’schen Wurzel ergab mir die vollständige Identität beider Drogen.",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史記載 Haussknecht 於 1883 年採集，認為可作 Radix Alkannae 使用，與市售敘利亞阿爾坎根一致。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 135,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 338,
+        "char_end": 1015,
+        "page_text_sha256": "da699b1556e11dd23dd9cf612feba8d8ec9883f0c1527bc45fe6b74f76ce26f9",
+        "exact_text_sha256": "0b445b9e450fa690fabb2be31cae8b0f8a94188891abf24f2ad4d90d87990513",
+        "source_line_start": 5,
+        "source_line_end": 11,
+        "section_index": 3,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "0b445b9e450fa690fabb2be31cae8b0f8a94188891abf24f2ad4d90d87990513",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0133-p0136:s04:x00",
+      "section_type": "anatomy",
+      "original_text": " begleitet; es folgt das Cambium, dann das Phlo            &m     mi t   mä ss ig    ve  rd ic kt  en    Ba st fa se rn    Mn\n                                                                zw  is ch en     de ne n    Si eb  rö hr en     ab er    ni ch t\n 0,30°—0,33 mm Länge und 0,030—0,050 mm Weite,\n mehr zu erkennen sind. Das Rind      en  pa  re nc hy m    sc he in t   zu er st   de r   Sit z   de s   Fa rb st of fe s   zu\n sein, während über Kork und Epider    mi s    die  Dr og e    ke in en   Au fs ch lu ss    gie  bt.     Äh nl ic he    Fa rb -\n stoffzellenschichten scheinen aber na ch tr äg li ch  du rc h   ein   Fo lg em er is te  m   in  ne rh al b   de r  Ge fä ss -\n bündel      gebildet       zu werden        und     selbst     längere      Zeit    in teilungsfähigem            Zustande          zu kleiben,\n sodass Farbstoffschichten und Holz                    sc hi  ch te n    mi  te in an de  r    ab we  ch se ln      un d    sic h    als  du nk le\n Linien bez. graubraune Schichten er                      ke nn tl ic h    ma ch en .       Gü ns ti ge n    Fa ll es    kö  nn en     da nn    di e\n färbenden Schich       te n    sic h   de ra rt   ve rm  eh re  n,     da ss   sie ,   sel bst    in  Bl ät te r   ze rf al le nd ,   sic h   un d.",
+      "normalized_text": null,
+      "zh_tw_rendering": "解剖顯示木質部無中心，具螺旋管胞，色素位於皮層薄壁細胞及後生形成的色素層中。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 136,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 1275,
+        "page_text_sha256": "63bb90792b16bdc82ca46f4722c782d1fc33a113da937b1508bfbf56170f5d93",
+        "exact_text_sha256": "d837c9ff94f1f63c82643cee7a816247b7fbd87dc16db564c9f653f1134010d3",
+        "source_line_start": 1,
+        "source_line_end": 10,
+        "section_index": 4,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "d837c9ff94f1f63c82643cee7a816247b7fbd87dc16db564c9f653f1134010d3",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0133-p0136:s05:x00",
+      "section_type": "constituents",
+      "original_text": "         Bestandteile. Beim Ausziehen der zerkleinerten Wurzel gaben 280 g eines Durch-\n schnittsmusters 26 g Rohalkannin, das sind 9,13°/,. Der Farbstoff scheint mit dem aus Alkanna.\n erhaltenen        identisch       zu sein.        Ich hoffe      darüber      weiter       berichten     zu können.            Jedenfalls      ist\n die Ausbeute eine um 50—80°/, reichere                            und der Umstand,                  dass nahezu         die ganze Droge\n aus    färbenden Rindenstücken                 besteht,      die nicht abblättern,             sichert ihr eine bleibende                Bevor-\n zugung vor der ungarischen Wurzel. Freilich wird der Alkannafarbstoff wenig mehr ge:\n braucht, doch giebt es immerhin Operationen, bei denen er durch andere Farbstoffe nur\n schwer      ersetzt werden           kann,     z. B. zum        Färben      von     Fetten     und     ätherischen       Ölen.",
+      "normalized_text": null,
+      "zh_tw_rendering": "成分分析顯示含 9.13% 粗阿爾坎紅素，產量高於匈牙利阿爾坎根，用於脂肪及精油染色。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 136,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 3053,
+        "char_end": 3967,
+        "page_text_sha256": "63bb90792b16bdc82ca46f4722c782d1fc33a113da937b1508bfbf56170f5d93",
+        "exact_text_sha256": "720cb5c7eb3e0e7219f24481a63703056b4f9bdb562bced7d428f6b679271313",
+        "source_line_start": 26,
+        "source_line_end": 33,
+        "section_index": 5,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "720cb5c7eb3e0e7219f24481a63703056b4f9bdb562bced7d428f6b679271313",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "4e2b55362d0541d7715e5fc60ad02f3a14fe5e0affeb56ef3f20c3965b51f0e3",
+    "maker_receipt_sha256": "d2673aa62cde31ac30b1ea8d703993d30cfb839f73c4393bdbf969118d80f102",
+    "validation_check_sha256": "571b088a76e7cfe70c935d79719cdf556df8b9b6904da85da1b058eb0ef5099a",
+    "source_disposition_sha256": "0a0f0cec2574f79bddc00bb66d0013664147d75a03107be1f5e40ce36c8e8645",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "d2673aa62cde31ac30b1ea8d703993d30cfb839f73c4393bdbf969118d80f102",
+      "validation_check_sha256": "571b088a76e7cfe70c935d79719cdf556df8b9b6904da85da1b058eb0ef5099a",
+      "source_disposition_sha256": "0a0f0cec2574f79bddc00bb66d0013664147d75a03107be1f5e40ce36c8e8645"
+    },
+    "naming_artifact_sha256": "f6b72f0f9f2b7a0e306393d2cfed69f4ef5d9e0390f809916204810c707bda73"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "c59c581866cb59740b1430b500cbc3730888204e02d0a0fc12e4be22c254c0e6"
+}

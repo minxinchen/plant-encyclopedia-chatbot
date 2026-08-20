@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 479,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "05dec0deb1d57406f5df10c07c921bc95d8d7173aec7afb9a35298c8440e671d",
+  "render_dpi": 144,
+  "render_sha256": "12ce438559605df7332049bbe80c5d2f56b3e23f6a8e5dcb6ae456db605d167d",
+  "input_sha256": "12ce438559605df7332049bbe80c5d2f56b3e23f6a8e5dcb6ae456db605d167d",
+  "render_pixel_width": 5918,
+  "render_pixel_height": 8438,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.76,
+  "embedded_character_count": 86,
+  "ocr_character_count": 54,
+  "ocr_alpha_ratio": 0.8519,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.022159258524576786,
+      "text": "Sapindaceae",
+      "width": 0.10367162291703491,
+      "x": 0.6272532145936885,
+      "y": 0.9649378125648166
+    },
+    {
+      "confidence": 1,
+      "height": 0.02407538890838623,
+      "text": "(Sapindoideae).",
+      "width": 0.12125710753099583,
+      "x": 0.6205308653532003,
+      "y": 0.9429041661780359
+    },
+    {
+      "confidence": 1,
+      "height": 0.023371170437525235,
+      "text": "Schleichera trijuga Willd.",
+      "width": 0.20910972584423626,
+      "x": 0.4140786789441936,
+      "y": 0.01587301547697173
+    }
+  ],
+  "text": "Sapindaceae\n(Sapindoideae).\nSchleichera trijuga Willd.",
+  "output_sha256": "1f597ff7a835d307fb713c35f1b602c1f10b58949b66d7d8b9fd4c1ef5a5b575",
+  "receipt_sha256": "7dfacea4e0171112807b3295d845d7d0f116992bf5fdbd2be1f51a1603ece423"
+}

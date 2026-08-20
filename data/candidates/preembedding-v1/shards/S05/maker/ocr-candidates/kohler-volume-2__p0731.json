@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 731,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "93aa7a6d32fcb72fda2a6bbbf7c76bf6cf3515e588c8f5261f28de8b46dba63a",
+  "render_dpi": 144,
+  "render_sha256": "4c397e29e34bc8a9573ecddec170d1abd675520a62047bd2078f9d4cd0bb767f",
+  "input_sha256": "4c397e29e34bc8a9573ecddec170d1abd675520a62047bd2078f9d4cd0bb767f",
+  "render_pixel_width": 5414,
+  "render_pixel_height": 7706,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.406,
+  "embedded_character_count": 116,
+  "ocr_character_count": 55,
+  "ocr_alpha_ratio": 0.7091,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.02110088060772608,
+      "text": "Dipterocarpeai.",
+      "width": 0.16960136505105416,
+      "x": 0.7932984927226339,
+      "y": 0.9356704899071504
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "12",
+      "width": 0.01859504064372841,
+      "x": 0.3595041328806151,
+      "y": 0.2630813955810295
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "10",
+      "width": 0.0185950406437283,
+      "x": 0.9111570253186316,
+      "y": 0.0988372094555422
+    },
+    {
+      "confidence": 1,
+      "height": 0.021475036938985226,
+      "text": "Dipterocarpus",
+      "width": 0.15112633122973823,
+      "x": 0.3324946846115785,
+      "y": 0.05321596972544351
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185932098874,
+      "text": "retusus Blume",
+      "width": 0.1632231373810482,
+      "x": 0.5061983496849923,
+      "y": 0.055232558766104556
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837072887116,
+      "text": ". 191",
+      "width": 0.05371900839795507,
+      "x": 0.9049586785145212,
+      "y": 0.01453488452413032
+    }
+  ],
+  "text": "Dipterocarpeai.\n12\n10\nDipterocarpus\nretusus Blume\n. 191",
+  "output_sha256": "608b637e4e078bf20d94d9b83668cf6d5bee34dd7764ca08f85583283c95cdc1",
+  "receipt_sha256": "631260e889886e82857a56d8c4f3c5d3f5ac31964e425080881f236a7b9c37b6"
+}

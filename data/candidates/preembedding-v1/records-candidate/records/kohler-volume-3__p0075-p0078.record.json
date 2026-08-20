@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-3-p0075-p0078",
+  "entry_id": "kohler-volume-3:p0075-p0078",
+  "owner_shard": "S06",
+  "book_taxon": {
+    "scientific_name": "Anthemis nobilis",
+    "authorship": null,
+    "aliases": [
+      "Chamomilla nobilis Godron",
+      "Chamaemelum nobile Allioni"
+    ]
+  },
+  "display_name": "羅馬洋甘菊",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Anthemis nobilis L.",
+      "Anthemis nobilis"
+    ],
+    "accepted_scientific_name": "Anthemis nobilis",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T12:41:51+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Anthemis+nobilis+L.",
+        "query_name": "Anthemis nobilis L.",
+        "retrieved_at": "2026-08-13T12:41:51+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0052599",
+        "query_name": "Anthemis nobilis L.",
+        "retrieved_at": "2026-08-13T12:41:51+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0052599",
+        "query_name": "Anthemis nobilis L.",
+        "retrieved_at": "2026-08-13T12:41:51+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Anthemis+nobilis",
+        "query_name": "Anthemis nobilis",
+        "retrieved_at": "2026-08-13T12:41:51+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL accepts the queried book binomial at species rank."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 75,
+      "evidence_type": "text",
+      "page_text_sha256": "f9c9fe225513c2003763af865c98864500f74de12bbf39f2579731d08aa6a130",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 76,
+      "evidence_type": "text",
+      "page_text_sha256": "7e837db4ae2381b63a771fbf24b2177d53939440b32c556042f1ee74202177ce",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 77,
+      "evidence_type": "text",
+      "page_text_sha256": "3b44c772e8454146008ff3da787fa7694452de18b7f8c69c879acd266709ae0b",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-3:p0075-p0078:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "             Syn.        Chamomilla nobilis Godron.               Chamaemelum nobile Allioni.\n\n            Familie: Compositae Adans. Abteilung: TubulifloraeDC. Unterabteilung: Corymbiferae\n Vaill.    Gruppe: SenecionoideLess ae . Unterfamilie: Anthemideae Cass. Gattung: Anthemis L.",
+      "normalized_text": null,
+      "zh_tw_rendering": "菊科，管狀花亞科，菊苣族，菊屬。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 75,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 425,
+        "char_end": 708,
+        "page_text_sha256": "f9c9fe225513c2003763af865c98864500f74de12bbf39f2579731d08aa6a130",
+        "exact_text_sha256": "1b6cbb003d0df16505fa2243ae633d65e61d8d068e6b95fa4c95bef3916c27c7",
+        "source_line_start": 6,
+        "source_line_end": 9,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "1b6cbb003d0df16505fa2243ae633d65e61d8d068e6b95fa4c95bef3916c27c7",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0075-p0078:s01:x00",
+      "section_type": "description",
+      "original_text": "             Beschreibung.              Die Pflanze ist ausdauernd.               Zahlreiche senkrechte Nebenwurzeln ent-\n springen     aus        einem       nahezu       horizontalen    verzweigten,          walzenförmigen,           sehr    tief liegenden\n vielköpfigen Rhizom,                welches      nach oben zahlreiche, 15—30 cm hohe, stielrunde gerillte Stengel\n treibt, von denen einige sich an der Erde hinstrecken, oft Wurzeln treiben und einen Rasen\n bilden, während               andere      mehr    oder    weniger    senkrecht     in die Höhe         streben.     Während      erstere\nkeine Blüten treiben, verzweigen                          sich die aufrechten        in zentrifugaler Richtung              und       bilden\n einen    Corymbus,            dessen      Enden    je 1 Köpfchen       tragen.         Die Blätter       sind     wechselständig, ab-\n stehend, sitzend einfach, im ganzen Umfang länglich-lanzettlich bis spatelförmig; die Blattfläche\n ist indessen           doppelt      fiederschnittig,       die Abschnitte        stehen    an    der Mittelrippe          entfernt     von\n einander beinahe gegenständig und sind wiederum in schmale, borstliche, ganzrandige, an der\n Spitze 2—Steilige Zipfel mit aufgesetztem                        Stachelspitzchen         geteilt.      Das     ganze   Blatt hat      eine\n Länge von 2—3 cm, während die Zipfelchen 2—3 mm lang sind. Stengel und Blätter sind\n in der Jugend dicht flaumhaarig, im Alter wird die Pflanze kahler; auch nimmt ihre Behaarung\n auf feuchterem Standpunkt ab, so dass sie bald rein grün, bald mehr oder. weniger graugrün\n erscheint. Der Blütenstiel ist behaart, nach oben etwas verdickt und blattlos. Das Köpfchen",
+      "normalized_text": null,
+      "zh_tw_rendering": "多年生，具水平根莖，莖高15-30公分，葉二回羽狀深裂，頭狀花徑2-3公分。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 75,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 710,
+        "char_end": 2426,
+        "page_text_sha256": "f9c9fe225513c2003763af865c98864500f74de12bbf39f2579731d08aa6a130",
+        "exact_text_sha256": "209f8c45512a05e47ff07e6d7082417e4ff4518fa379cb7954b5c1cf37b4bae1",
+        "source_line_start": 11,
+        "source_line_end": 25,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "209f8c45512a05e47ff07e6d7082417e4ff4518fa379cb7954b5c1cf37b4bae1",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0075-p0078:s02:x00",
+      "section_type": "flowering",
+      "original_text": "             Blütezeit.      Juli bis August.",
+      "normalized_text": null,
+      "zh_tw_rendering": "花期為七月至八月。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 76,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 1642,
+        "char_end": 1687,
+        "page_text_sha256": "7e837db4ae2381b63a771fbf24b2177d53939440b32c556042f1ee74202177ce",
+        "exact_text_sha256": "094e111e8b56e369c6f4c722ae29a97034894237128072965b67a9ab6c09517f",
+        "source_line_start": 21,
+        "source_line_end": 21,
+        "section_index": 2,
+        "section_type": "flowering"
+      },
+      "exact_text_sha256": "094e111e8b56e369c6f4c722ae29a97034894237128072965b67a9ab6c09517f",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0075-p0078:s03:x00",
+      "section_type": "distribution",
+      "original_text": "             Vorkommen.            In Portugal,         Spanien,    Frankreich          wild;         in Süddeutschland             verwildert,\n\nin England, Nordamerika und in Deutschland                               in der Nähe Leipzigs (Borna, Kieritzsch)                              an-\ngebaut.       Die Pflanze wächst auf Sandboden,                         am Rande stehender Gewässer,                        aber auch auf\nsehr trocknen Stellen, wo sie dann sehr behaart erscheint.                                       Durch Kultur gehen die Röhren-",
+      "normalized_text": null,
+      "zh_tw_rendering": "野生於葡萄牙、西班牙、法國；德國南部歸化；英國、北美及德國萊比錫附近栽培。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 76,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 1689,
+        "char_end": 2246,
+        "page_text_sha256": "7e837db4ae2381b63a771fbf24b2177d53939440b32c556042f1ee74202177ce",
+        "exact_text_sha256": "3668c36eee988e3ede2b069ba4a7abc5027456851d0ca934b92b8bcc7da9e2be",
+        "source_line_start": 23,
+        "source_line_end": 27,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "3668c36eee988e3ede2b069ba4a7abc5027456851d0ca934b92b8bcc7da9e2be",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0075-p0078:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "          Offieinell sind in vielen                 europäischen        Staaten      die gefüllten Blüten                  der PflaIrnze; ’ in\nDeutschland       dienen      sie als Volksheilmittel              als Flores      Chamomillae           romanae.      Man sammelt             bei",
+      "normalized_text": null,
+      "zh_tw_rendering": "歐洲多國藥用，德國作民間藥，稱羅馬洋甘菊。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 76,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 4633,
+        "char_end": 4922,
+        "page_text_sha256": "7e837db4ae2381b63a771fbf24b2177d53939440b32c556042f1ee74202177ce",
+        "exact_text_sha256": "d8eec84f635162f9ad79a0e4cf45688e6452afbbb396a8155b4ca05b144a34de",
+        "source_line_start": 56,
+        "source_line_end": 57,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "d8eec84f635162f9ad79a0e4cf45688e6452afbbb396a8155b4ca05b144a34de",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0075-p0078:s05:x00",
+      "section_type": "constituents",
+      "original_text": "          Bestandteile.          Das      ätherische              Öl (0,7—1°/,)        enthält nach            Schmidt        die Be ‚ Amyl-\n\nund Hexylester der Isobuttersäure, Angelikasäure und der Methylerotonsäure, neben Anthemol\n01H1°O0, einer bei 213,5 —214,5° siedenden Flüssigkeit.  Es ist von blaugrüner Farbe, hat\nein ‚Bez Gew. v. 0,860 bis 20° (0,905—915                                      bei 15%, Schimmel & Co.).                     Ella Amermann",
+      "normalized_text": null,
+      "zh_tw_rendering": "含0.7-1%揮發油，含異丁酸酯、當歸酸酯及洋甘菊醇，呈藍綠色。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 77,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 2482,
+        "char_end": 2943,
+        "page_text_sha256": "3b44c772e8454146008ff3da787fa7694452de18b7f8c69c879acd266709ae0b",
+        "exact_text_sha256": "cce8a7023833962283e63ea830ad18f5b95118314bf9dea51f8b9cac3be2027b",
+        "source_line_start": 32,
+        "source_line_end": 36,
+        "section_index": 5,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "cce8a7023833962283e63ea830ad18f5b95118314bf9dea51f8b9cac3be2027b",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "13e7f686bb5c3496c78fa6e2f0377ce520633c5278138ca2dd4f8ef617c38a1f",
+    "maker_receipt_sha256": "c41b35c5d2679744d6c20ccbeb01ad4c7eea89e381ee4a3c758fa3fb7a5d4122",
+    "validation_check_sha256": "b70389e18f1d6bc4ec521dc12f999ec8b1596161051840cdbd067ce4f0d2d078",
+    "source_disposition_sha256": "71fad48cab1c6fe5b0af5cefb9d3cdc251c417382eae7ec94b04cf5ba900e2f7",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "c41b35c5d2679744d6c20ccbeb01ad4c7eea89e381ee4a3c758fa3fb7a5d4122",
+      "validation_check_sha256": "b70389e18f1d6bc4ec521dc12f999ec8b1596161051840cdbd067ce4f0d2d078",
+      "source_disposition_sha256": "71fad48cab1c6fe5b0af5cefb9d3cdc251c417382eae7ec94b04cf5ba900e2f7"
+    },
+    "naming_artifact_sha256": "451efbf67c355007ad9afd15b9ec05b42c70df90f45829e7045584e02ee5d2fd"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "ca1c4b11d630bfb47d7509ee0c3bc52cb7156aaf0a06a2db8a09be25a7ac8449"
+}

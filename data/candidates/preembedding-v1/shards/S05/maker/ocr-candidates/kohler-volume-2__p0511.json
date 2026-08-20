@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 511,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "07a26523f8bb296125ae27d59e3404b61904b29a3eb5aa04aa5a851f19ed6f42",
+  "render_dpi": 144,
+  "render_sha256": "da80abdf381f82c5922b7f61eb3bc9c1fe61995d278adbe9fba1ac14f904257e",
+  "engine": "Apple Vision VNRecognizeTextRequest accurate",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 29.874,
+  "embedded_character_count": 45,
+  "ocr_character_count": 39,
+  "ocr_alpha_ratio": 0.7949,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.020441121525234696,
+      "text": "Gramineae (Hordeae.)",
+      "width": 0.23092782463825923,
+      "x": 0.7175257807117982,
+      "y": 0.9418604655555276
+    },
+    {
+      "confidence": 1,
+      "height": 0.02331349206349209,
+      "text": "Triticum repens L.",
+      "width": 0.23505154461927819,
+      "x": 0.381443297948093,
+      "y": 0.09300595196757144
+    }
+  ],
+  "text": "Gramineae (Hordeae.)\nTriticum repens L.",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-ocr-sha256=e54202ae838c94203816fd3331f4c37f7acac436188d481eab506c540c3d66d6",
+  "input_sha256": "da80abdf381f82c5922b7f61eb3bc9c1fe61995d278adbe9fba1ac14f904257e",
+  "output_sha256": "a2ecc92b950ce585c1160b6c4981592b6d994d2ed7187c2f690d43654954640c",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "receipt_sha256": "e1f96c8eb12ef239e63c5d0fb356d318a901fc6518ade5fb10bc79ed306707a1"
+}

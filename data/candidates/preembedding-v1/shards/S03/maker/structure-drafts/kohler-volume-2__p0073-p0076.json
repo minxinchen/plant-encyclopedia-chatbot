@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0073-p0076",
+  "owner_shard": "S03",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 123.715,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "needs_review",
+  "errors": [
+    "invalid_source_line_range:p73:L31-L4",
+    "invalid_source_line_range:p74:L48-L28",
+    "source_quote_not_exact:p73",
+    "source_quote_not_exact:p74"
+  ],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0073-p0076",
+    "book_taxon": {
+      "scientific_name_candidate": "Inula Helenium",
+      "authorship_candidate": "L.",
+      "aliases_candidates": [
+        "Aster Helenium Scop.",
+        "Aster officinalis AM.",
+        "Helenium vulgare Bauh.",
+        "Corvisartia Helenium Mer."
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "description",
+        "pdf_page": 73,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "多年生植物，根粗壯多頭，莖高1-2米，葉皺縮，頭狀花序頂生，含雌花與兩性花。",
+        "warnings": [],
+        "source_line_range": [
+          9,
+          29
+        ],
+        "exact_source_quote": "          Beschreibung. Ausdauernde Pflanze, mit 2—5 Ctm. dicker, fleischiger, ästiger, mehrköpfiger,\ngeringelter, aussen gelblich-brauner, innen weisslicher, zerstreut-faseriger Wurzel und einzelnen oder\nmehreren     aufrechten, gefurchten,       1—2 Meter hohen,    einfachen    oder ästigen, unten weichhaarigen,      nach\noben filzigen Stengeln. Die zerstreutstehenden, runzeligen, oberseits kurz-rauhhaarigen, unterseits weich-\nfilzigen Blätter am Rande ungleich kerbig gesägt; die wurzelständigen eilänglich oder länglich-elliptisch,\nin den bis 30 Ctm. langen, rinnigen Blattstiel verschmälert, mit dem Stiel bis 1 Meter lang; Stengel-\nblätter mehr eifórmig, allmählig kleiner werdend, die unteren gestielt, die oberen, mehr zugespitzten,\nsitzend, halbstengelumfassend. Die endständigen, doldenrispig geordneten, bis 8 Ctm. im Durchmesser\nhaltenden Blüthenkórbchen bestehen aus weiblichen Rand- und zwitterigen Scheibenblüthen. Hüllkelch\nhalbkugelig, dachziegelig-vielblätterig; die äusseren Blätter abstehend, eiförmig, filzig, die mittleren\nlänglich oder lanzettlich, die inneren lanzett- oder linien-spatelförmig. Der kahle Blüthenboden wenig\ngewölbt, eckig-randgezihnt-grubig. Randblüthen zahlreich, gelb, mit schmal-linealischer, langer,\nSzühniger Zunge und unterständigem, unten gekrümmtem, fast stielrundem, fácherigem, eineiigem\nFruchtknoten; ohne Staubgefässe; Pappus scharfhaarig, schmutzig-weiss. Scheibenblüthen gelb,\nbecherförmig, mit 5spaltigem Saume und geradem Fruchtknoten; die 5 Staubgefässe mit oberhalb\nfreien, unter dem Beutel gegliederten Fäden und zu einer Röhre verwachsenen,               2 fácherigen Staubbeuteln,\njedes Fach nach unten in eine lange, stachelig-gezähnte Borste auslaufend, mit einem inneren Längs-\nspalt sich óffnend. Pollen ovallänglich, stachelig, 3farchig, unter Wasser rundlich -3seitig, 3nabelig.\nBeide Blüthen      2narbig.      Achänen    fast 4seitig, kahl, braun, am    Grunde   schief genabelt.    Der eiweiss-\nlose, das Fruchtgehäuse ausfüllende Same mit geradem Embryo.                 Samenlappen lanzettförmig, planconex,\nnach unten gekehrt."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 73,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "根橫切面示外皮層、皮層及髓，含油室，內含黃褐色香脂及晶體。",
+        "warnings": [],
+        "source_line_range": [
+          31,
+          4
+        ]
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 74,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分佈於歐洲、北亞及中亞濕地，荷蘭、瑞士及德國有栽培，亦見於北美與日本。",
+        "warnings": [],
+        "source_line_range": [
+          6,
+          10
+        ],
+        "exact_source_quote": "               Verbreitung.          Auf feuchten       Wiesen,     an Gräben    und Flussufern        durch Europa,      Nord-   und\n  Mittelasien verbreitet. Besonders häufig auf feuchten Waldplätzen des mittleren und südlichen Russ-\n  lands. Als Arzneipflanze in Holland, der Schweiz und Deutschland (Cölleda und Erfurt) angebaut, als\n  Gartenpflanze auch in Nordamerika und Japan.\n"
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 74,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源於拉丁文inula或希臘文，古希臘羅馬時期已作藥用及食用，中世紀稱Enula campana。",
+        "warnings": [],
+        "source_line_range": [
+          13,
+          28
+        ],
+        "exact_source_quote": "               Name       und    Geschichtliches.        Das Wort Alant, zuerst im 7. Jahrh.              bei Isidor vorkommend,\n  althochdeutsch und bei Hildegard alant, mittelhochdeutsch alan, elne, olant, olent, mittelniederdeutsch\n  alantwortel soll aus dem lateinischen inula, griechischen &Ac»tov verdorben sein. Grassmann hält alant,\n  elne, éhevvoy (lateinische Form ala) für urverwandt, Worte, die sich an die Wurzel al (wahrscheinlich in\n   der Bedeutung von wachsen) anlehnen. Nach Anderen soll Inula von ivoew, ausleeren, reinigen, auf die\n  Wirkung der Wurzel bezogen, abgeleitet sein; das Wort wird auch als eine Entstellung von Helenium\n  betrachtet. Helenium beziehen einige auf rAMos Sonne, wegen der Form der Blüthen, andere auf\n  éhéviov (ehevy kleiner Korb), wegen der Form des Hüllkelches, noch andere auf ‫امم‬‎ (Wiesengrund,\n  Aue, Marschgegend).                                  |\n          Schon zu Zeiten der hyppokratischen Aerzte war Alant eine sehr geschätzte Pflanze, die nicht\n blos als Arzneipflanze benutzt wurde, sondern auch ihrer gesundheiterhaltenden Eigenschaften wegen\n vielfach zu Speisezwecken          diente.    Celsus, Plinius        und Dioscorides         beschrieben die Pflanze; Plinius\n  erklärt, sie sei aus den Thrünen der Helena entstanden und rühmt die Wirkung hinsichtlich der Er-\n  haltung der Frauenschónhei Columella und Palladius gaben Anleitung zum Anbau, welcher in\n  vorzüglicher Weise in Campania betrieben wurde, woher der im Mittelalter gebräuchliche Name Enula\n| campana stammte. Fuchs und Matthiolus gaben Abbildungen."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 74,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含菊糖、阿蘭酮（Helenin）、樹脂、膠質、揮發油及阿蘭酸等成分。",
+        "warnings": [],
+        "source_line_range": [
+          48,
+          28
+        ]
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 75,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史上用於止咳及治療皮膚病，菊糖曾建議用於糖尿病麵包，但對結核桿菌作用存疑。",
+        "warnings": [],
+        "source_line_range": [
+          30,
+          38
+        ],
+        "exact_source_quote": "         Anwendung.      Zur Bereitung des Inulin; sonst in Substanz, Latwergen und Extrakt innerlich\ngegen Hustenreiz, äusserlich in Abkochungen oder als Zusatz zu Salben bei Hautausschlägen,\nScabies u.s. w. Ist nur noch wenig in Gebrauch. Die von De Korab gemachte Beobachtung, wonach\nAlantkampfer die Entwickelung der Tuberkelbacillen hemmen soll, wird bezweifelt. „Inulin verhält\nsich im Thierkérper analog dem Amylum und scheint nach Lehmann sogar schneller als dieses\nresorbirt zu werden.       Bouchardat        konnte    es weder im Urin, noch in den Excrementen                wieder finden.\nKobert empfahl neuerdings wegen der Unschädlichkeit des Linksfruchtzuckers (Levulose) das Inulin\nzur Darstellung von Kleberbrod ohne Amylum für Diabetiker.“ (Husemann, Arzneimittel. 341.)\n"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "a9bda2d044bbb8aaba2ac852e35715a60029ee1f15181ab4c0942b00c46a25aa"
+}

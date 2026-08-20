@@ -1,0 +1,282 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0155-p0158",
+  "entry_id": "kohler-volume-2:p0155-p0158",
+  "owner_shard": "S03",
+  "book_taxon": {
+    "scientific_name": "Schoenocaulon offieinale",
+    "authorship": "Asa Gray",
+    "aliases": [
+      "Veratrum officinale",
+      "Sabadilla officinarum",
+      "Helonias officinalis",
+      "Asagraea dm",
+      "Asagr. caracasana"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Schoenocaulon offieinale"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T17:26:38+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Schoenocaulon+offieinale",
+        "query_name": "Schoenocaulon offieinale",
+        "retrieved_at": "2026-08-13T17:26:35+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Veratrum+officinale",
+        "query_name": "Veratrum officinale",
+        "retrieved_at": "2026-08-13T17:26:36+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Sabadilla+officinarum",
+        "query_name": "Sabadilla officinarum",
+        "retrieved_at": "2026-08-13T17:26:36+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Helonias+officinalis",
+        "query_name": "Helonias officinalis",
+        "retrieved_at": "2026-08-13T17:26:36+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Asagr+caracasana",
+        "query_name": "Asagr caracasana",
+        "retrieved_at": "2026-08-13T17:26:36+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 155,
+      "evidence_type": "text",
+      "page_text_sha256": "df4f55aa5d6547a6a99c8709b6872ae5873549abaaa5094d5bf28d0958e86eae",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 156,
+      "evidence_type": "text",
+      "page_text_sha256": "cccf1a65875d61edee29a15f89372612ebed1f37979cfd08324651ff943116bc",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 158,
+      "evidence_type": "text",
+      "page_text_sha256": "24077f25777b68ed5c37e929d140e71a85cf916c3a2cad28fbc4464c80030299",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0155-p0158:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                               Schoenocaulon offieinale Asa Gray.\n  Syn. Veratrum officinale SE    Sabadila officinarum Brandt, Helonias officinalis Don.,\n                     Asagraea dm    Lindl, Asagr. caracasana Ernst.\n\n  Mexikanisches        Läusekraut,      gebräuchliche Sabadille, Sabadilla, Cebadilla —                Cevadille —\n                                                     Cevadilla.\n\n          Familie: Liliaceae (Colchicaceae).          Gattung: Schoenocaulon A. Gray; Sabadilla Brandt, Asa-\n  graea Lindl.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名Schoenocaulon offieinale，同物異名包括Veratrum officinale等。屬百合科，俗稱墨西哥蝨草。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 155,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 527,
+        "page_text_sha256": "df4f55aa5d6547a6a99c8709b6872ae5873549abaaa5094d5bf28d0958e86eae",
+        "exact_text_sha256": "185afcc7ac2d1f64813d7a4c33f28ed22604ecd8adcfa6eefcf6505e5c9c0f84",
+        "source_line_start": 1,
+        "source_line_end": 9,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "185afcc7ac2d1f64813d7a4c33f28ed22604ecd8adcfa6eefcf6505e5c9c0f84",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0155-p0158:s01:x00",
+      "section_type": "description",
+      "original_text": "           Beschreibung.          Zwiebelgewüchs mit ausdauernder, eifórmiger, bis 4 Ctm. langer, bis 2/2 Ctm.\n  dicker, von    Blattresten   umhüllter, vielschaliger Zwiebel, deren   äusserste   Schale   dunkel- kastanienbraun,\n  trocken, an der Spitze zerfetzt ist und einen halsartigen, zerfaserten, die Blattbasen umschliessenden\n  Schopf bildet. Blätter am Grunde scheidenartig, sümmtlich der Zwiebel entspringend, 6.—12 Ctm.\n breit, !5-—1!/, Meter lang, zugespitzt, steif, grasartig, oberseits flachrinnig, auf dem Rücken gekielt,\n  beiderseits kahl, glatt, scharfrandig, parallel- 20—30-nervig. Blüthenschaft aufrecht, einfach, bis 2-\n  (gewöhnlich 1-) Meter lang, unten kantig, oben stielrund, unbeblättert, innen mit weissem, lockerem\n  Marke angefüllt, am Ende        die /,—*/, Meter lange, 12 Mm. dicke, reichblüthige,        ührenfórmige Blüthen-\n  traube tragend. Blüthen in den Achseln sehr kleiner Deckblütter, die unteren zwitterig, die oberen männ-\n  lich, mit derbem, 2 Mm. langem, gebogenem Blüthenstielchen. Perigon bis fast zum Grunde 6theilig,\n  grüngelb, die Abschnitte ca. 4 Mm lang, linienlanzettförmig, etwas fleischig, stumpf, 3nervig, am\n  Grunde mit einer querovalen Honiggrube versehen, bleibend. Staubgefässe 6, dem Grunde der Perigon-\n  abschnitte    eingefügt, die 3 inneren   kürzer als die 3 äusseren, später etwas     auswachsend,   zuletzt sämmt-\n liche 1!/ bis 2 mal länger als die Kronenabschnitte. Staubfäden fadenförmig-pfriemlich, am Grunde\n etwas verflacht; Staubbeutel nierenförmig, durch Scheidewandverkümmerung einfächerig, am oberen\n Rande mit einer halbkreisförmigen, später aufspringenden Naht, nach dem Oeffnen flach ausgebreitet,\n 2 lappig. Pollen gelb, elliptisch, feinkörnig, mit einer Furche. Fruchtknoten der Zwitterblüthe von\n der Länge der Staubgefässe, oberständig, eiförmig-länglich, aus 3, in der Mitte zusammenhängenden\n Fächern bestehend, deren jedes mit einem kurzen, auswärts gebogenen, pfriemenförmigen, schiefnarbigen\n  Griffel versehen   ist; Fruchtknoten     der männlichen   Blüthe verkümmert.       Eichen   4—6 in jedem Fache,\n   zweireihig der Bauchnaht angeheftet, gegenläufig, aufsteigend. Fruchtkapsel von dem vertrockneten\n   Perigon und den Staubfäden unterstützt, 8—15 Mm. lang, 4—8 Mm. breit, papierartig, etwas aufgeblasen,\n\" liehtbraun, auch dunkler, dreifächerig; Fächer in dem untern Theile mit der Bauchnaht verwachsen,\n  oben frei und etwas spreizend, durch die kurzen Griffel gespitzt, auf der Rückenmitte schwach kielig,\n  jedes Fach 2—6, selten einsamig. Samen bis 9 Mm. lang, bis 2 Mm. dick, länglich oder lanzettförmig,\n  meist etwas gekrümmt, unregelmässig kantig, an der Spitze schnabelartig verlängert und oft etwas ge-\n  dreht, mit schwarzbrauner, glänzender, Ee                 Samenschale. Embryo sehr klein, im Grunde\n  eines hartfleischigen Eiweiss.",
+      "normalized_text": null,
+      "zh_tw_rendering": "具多年生鱗莖，葉基生，花莖直立，花序穗狀。花雜性或雄性，蒴果三室，種子長橢圓形，具黑色光澤種皮。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 155,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 529,
+        "char_end": 3377,
+        "page_text_sha256": "df4f55aa5d6547a6a99c8709b6872ae5873549abaaa5094d5bf28d0958e86eae",
+        "exact_text_sha256": "2294b7ed6e6a4f513f51c9ca8eb896ba809464b03c00915453b8b4cc0eda50a8",
+        "source_line_start": 11,
+        "source_line_end": 38,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "2294b7ed6e6a4f513f51c9ca8eb896ba809464b03c00915453b8b4cc0eda50a8",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0155-p0158:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "          Anatomisches. Die ein graubraunes, óliges Eiweiss umschliessende Samenschale zeigt im\n Querschnitt eine Epidermis aus weiten, fast quadratischen, nach aussen verdickten, braunen Zellen be-\n stehend; hierauf folgen zwei und mehr Lagen dünnwandiger, tangential gedehnter mehr oder minder\n zusammengedrückter Zellen, deren innerste Lage mit dem gelblichen, concentrisch-strahligen Endosperm\n fest zusammenhängt. Die grossen, weiss- und dickwandigen, nicht auffallend porósen Zellen des En-\n dosperm besitzen wellenfórmige Höhlungen und schliessen kórnig-schleimiges Protoplasma und Oel-\n tropfen ein.",
+      "normalized_text": null,
+      "zh_tw_rendering": "種皮橫切面示外層厚壁細胞，內層薄壁細胞與胚乳相連。胚乳細胞含波狀空腔、顆粒原質及油滴。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 156,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 607,
+        "page_text_sha256": "cccf1a65875d61edee29a15f89372612ebed1f37979cfd08324651ff943116bc",
+        "exact_text_sha256": "f9165a8f2bbf23469b09d297dbd7eb1398d1f862fe3890cb7746497baa650b0a",
+        "source_line_start": 1,
+        "source_line_end": 7,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "f9165a8f2bbf23469b09d297dbd7eb1398d1f862fe3890cb7746497baa650b0a",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0155-p0158:s03:x00",
+      "section_type": "distribution",
+      "original_text": "          Vorkommen.        Auf Bergwiesen Mexicos bis zur Meeresküste, vorzüglich am Ostabhange der\n Vulkanenreihe des Cofre de Perote und Pik von Orizaba (hier mit schmäleren und weniger rinnen-\n förmigen Blättern), namentlich aber an der Küste von Venezuela auf grasreichen und feuchten Stellen,\n bis 1000       Meter   emporsteigend.       Ferner    in Guatemala.        Die       Anpflanzungen     bei Vera      Cruz, Alvarado,\n Tlacatalpan      am    mexikanischen      Golfe sollen nach       Flückiger          wieder    eingegangen   sein.",
+      "normalized_text": null,
+      "zh_tw_rendering": "產於墨西哥山地至海濱，委內瑞拉沿海濕地及危地馬拉。曾於墨西哥灣沿岸種植，後已廢棄。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 156,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 609,
+        "char_end": 1157,
+        "page_text_sha256": "cccf1a65875d61edee29a15f89372612ebed1f37979cfd08324651ff943116bc",
+        "exact_text_sha256": "953fe17456f7a99b8caf279e0213b18c206a72ddf6145d991717c3fe4cc81fae",
+        "source_line_start": 9,
+        "source_line_end": 13,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "953fe17456f7a99b8caf279e0213b18c206a72ddf6145d991717c3fe4cc81fae",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0155-p0158:s04:x00",
+      "section_type": "constituents",
+      "original_text": "        Bestandtheile. Nach Meissner enthalten die Samen in 100 Theilen: 0,58 Sabadillin (nach\nFlückiger ca. 1%, eines Alkaloidgemenges, bestehend aus Veratrin, Sabadillin, Cevadillin, Veratridin,\nSabatrin),      9,79    bitteren Extraktivstoff,      0,65 zuckerartigen          Extraktivstoff,    4,82 Gummi,       24,63 mildes,\nfettes   Oel,    0,10 Wachs,         1,45 scharfes,    in Aether      lósliches     Harz,      8,43 in Aether     unlösliches    Harz,\n1,11 Pflanzenleim,        1,11 Phyteumakolla          mit Kalisalzen,     1,06 Traganth         mit oxalsaurer     Magnesia,     20,56\nFaser, 6,00 Wasser etc.",
+      "normalized_text": null,
+      "zh_tw_rendering": "種子含約1%生物鹼混合物（包括Veratrin、Sabadillin等），另含苦味提取物、糖類、膠質、脂肪油及樹脂。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 156,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3757,
+        "char_end": 4380,
+        "page_text_sha256": "cccf1a65875d61edee29a15f89372612ebed1f37979cfd08324651ff943116bc",
+        "exact_text_sha256": "7bebd31f70f4f7178da2912a4275c7ec0bd86ba2dbbd5565421b42d811c135ff",
+        "source_line_start": 46,
+        "source_line_end": 51,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "7bebd31f70f4f7178da2912a4275c7ec0bd86ba2dbbd5565421b42d811c135ff",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0155-p0158:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "          Anwendung. Früher in Substanz und Aufguss als Excitans und Irritans, namentlich aber\nals      tbehrlicher Bestandtheil des Läusepulvers. Gegenwärtig besteht die Hauptverwendung der Droge\nin der Gewinnung des Veratrin. Letzteres ist sowohl als Antipyreticum als auch wegen seiner irri-\ntirenden Wirkung auf die Haut, als ableitendes Mittel sehr geschätzt. Die entfernte Wirkung, welche\nbei grösseren Dosen eine toxische ist, äussert sich bei Verabreichung von medizinalen Dosen in ga-\nstrischen Symptomen und in einem Herabsinken der Temperatur und des Pulses. „Als die auffallendste\nphysiologische Wirkung des Veratrins ergiebt sich Vernichtung der Erregbarkeit der quergestreiften\nMuskeln nach voraufgegangener Steigerung der Erregbarkeit in der Weise, dass auf einen einfachen\nReiz der Muskelnerven oder des Muskels selbst nicht eine kurze Zuckung, sondern eine sich nur lang-\nsam wieder lösende tetanische Contraction erfolgt. Therapeutisch kommt Veratrin in erster Linie wegen\nseiner irritirenden Wirkung auf die Haut als Ableitungsmittel bei schmerzhaften, namentlich neural-\ngischen Leiden, wo es sich als vortreffüiches Palliativum, nicht selten auch als wirkliches Heilmittel\nbewährt, in Betracht. Die entfernten Wirkungen auf Puls und Körpertemperatur machen dasselbe zu\neinem trefflichen Antipyreticum, welches namentlich bei akutem Gelenkrheumatismus und bei Lungen- -\nentzündung treffliche Dienste leistet.“ (Husemann, Arzneimittellehre 886.)-\n",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史上用作驅蝨劑及興奮劑。現主要用於提取Veratrin，作為退熱藥及皮膚刺激劑，用於神經痛及急性風濕。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 158,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 539,
+        "char_end": 2005,
+        "page_text_sha256": "24077f25777b68ed5c37e929d140e71a85cf916c3a2cad28fbc4464c80030299",
+        "exact_text_sha256": "e02f562edb1907a8d2234b7eeb1f31097781dce1826aaf07ee57f9c0f4a7ab4d",
+        "source_line_start": 8,
+        "source_line_end": 23,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "e02f562edb1907a8d2234b7eeb1f31097781dce1826aaf07ee57f9c0f4a7ab4d",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "f446a86583e06a96edc878b11802f9808cc6c634d5abbe5bd8b88866337a232d",
+    "maker_receipt_sha256": "03c916091bf91c37784cc1e1f0c30df63d2461c8202e9f51365514559e2d29ac",
+    "validation_check_sha256": "bbb0c72f929759e63b2676a1a0eb81d95f0b77c0fc75f7978a2d136fda0d36e5",
+    "source_disposition_sha256": "595b516fbe0530a86c1952e3ab2505932bea78e8ac68ff5640a004de884d0f75",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "03c916091bf91c37784cc1e1f0c30df63d2461c8202e9f51365514559e2d29ac",
+      "validation_check_sha256": "bbb0c72f929759e63b2676a1a0eb81d95f0b77c0fc75f7978a2d136fda0d36e5",
+      "source_disposition_sha256": "595b516fbe0530a86c1952e3ab2505932bea78e8ac68ff5640a004de884d0f75"
+    },
+    "naming_artifact_sha256": "7d87c4674f6b236aa48249b59c0b1037347715663d83b3351f9f835441d566e3"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "69ad426ddb547c4315df198da049e439e5d7e409890689627bd84d6ba59c798e"
+}

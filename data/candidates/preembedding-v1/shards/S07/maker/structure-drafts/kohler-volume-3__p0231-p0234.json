@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-3:p0231-p0234",
+  "owner_shard": "S07",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 134.265,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-3:p0231-p0234",
+    "book_taxon": {
+      "scientific_name_candidate": "Strychnos toxifera",
+      "authorship_candidate": "Bentham",
+      "aliases_candidates": [
+        "Curarepflanze",
+        "Pfeilgiftliane",
+        "Woorara",
+        "Urari"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 231,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "科：馬錢科；亞科：馬錢亞科；屬：馬錢屬。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          4
+        ],
+        "exact_source_quote": "                                    Strychnos                toxifera            Bentham.\n                                     Curarepflanze,       Pfeilgiftliane, Woorara,        Urari.\n         Familie:         Loganiaceae Endlicher.               Unterfamilie:            Strychneae Blume.            Gattung:\nStrychnos L."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 231,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "攀援藤本，莖粗過10公分，灰黑皺皮，白硬木。枝條具黃紅毛，常形成鉤狀卷鬚。",
+        "warnings": [],
+        "source_line_range": [
+          5,
+          15
+        ],
+        "exact_source_quote": "         Beschreibung.  Eine klimmende Liane mit einem oft mehr als 10 cm starken Stamm,\nder in vielen Schlangenwindungen an den benachbarten Bäumen emporklettert. — Die Stamm-\nrinde ist grauschwarz und runzelig rauh, das Holz weiss und hart. Die dünnen, kletternden,\nsehr regelmässig dichasial entwickelten Zweige sind mit weissgrauer Rinde bedeckt, welche\nsich in Ringeln ablöst, und tragen an den jungen Trieben lange, abstehende, gelbrote oder\nrote, später braune Haare, welche besonders an den Knoten büschelig gehäuft sind.   Wenn\ndie Zweige nicht zur vollen Entwickelung kommen, so bilden sie sich zu oft beblätterten\nkrummstabähnlichen Ranken um, deren Stellung an Stelle eines Zweiges oder in der Gabel\nzweier Zweige sie zweifellos als Zweigranken erkennen lassen. Diese Krallenranken haben\neine Länge von 3 bis 4 cm, sind seitlich zusammengedrückt und längskantig und überall mit\nrötlichgelben abstehenden Haaren bedeckt. An der ersten und Hauptkrümmung sind sie am"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 232,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "產於英屬蓋亞那。",
+        "warnings": [],
+        "source_line_range": [
+          15,
+          15
+        ],
+        "exact_source_quote": "           Vorkommen.              In britisch Guyana."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 232,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史用途：煮製樹皮製箭毒，供原住民狩獵與戰爭使用。",
+        "warnings": [],
+        "source_line_range": [
+          40,
+          43
+        ],
+        "exact_source_quote": "        Pharmazeutisch wiehtig ist Curare, das durch Auskochen der Rinde und jungen Zweige\nerhaltene Pfeilgift. Dasselbe wird in dem nördlichen und nordöstlichen Teile von Südamerika\nvon den Eingeborenen dargestellt und dient ihnen zur Vergiftung der Pfeile bei der Jagd\nund im Kriege.            Ausser        in den genannten Gegenden                   werden Strychnos-Arten           auch    anderwärts"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 233,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "成分：含毒鹼士的寧（Curarin）與無毒的Curin，可經化學分離。",
+        "warnings": [],
+        "source_line_range": [
+          28,
+          39
+        ],
+        "exact_source_quote": "          Bestandteile.         Das wirksame Prinzip des Curare ist das giftige Alkaloid Curarin, neben\ndem   sich   in vielen        Extrakten      noch     das ungiftige        Curin     findet.    Man    trennt   beide     Alkaloide,\nindem man das Curare so lange mit Schwefelsäure von 1°/, auszieht,                                      als der Auszug durch\n Metaphosphorsäure nachgefällt wird.   Ist das Extrakt erschöpft, so wird aus der schwefel-\nsauren Lösung durch Ammoniak das Curin (nebst etwas Curarin) gefällt und der Niederschlag\nmit wasserfreiem Äther ausgeschüttelt.    Hierdurch wird Curin gelöst, Curarin nicht.   Das\ndurch Abdampfen erhaltene Curin wird durch wiederholtes Lösen in Alkohol und Fällen mit\nWasser gereinigt. Die von Curin befreite Lösung wird dann durch Platinchlorid gefällt, das\n‚Platindoppelsalz     wird     durch Schwefelsäure             zersetzt      bei gleichzeitiger Neutralisation            mit wein-\ngeistigem Ammoniak.             Man     dunstet schliesslich in Vacuum                   ein und entzieht        der Masse          das\nCurarin   durch     Chloroform        und    Äther,     und reinigt das            Alkaloid    durch    wiederholtes       Lösen     in\nWasser. —"
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 234,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "圖版：葉與花枝原大，花、雄蕊、柱頭放大。採自柏林皇家標本館。",
+        "warnings": [],
+        "source_line_range": [
+          50,
+          52
+        ],
+        "exact_source_quote": "          A Blatt und Blütenzweig, nat. Gr. 1 Blüte, vergrössert; 2 Staubblatt, vergrössert; 3 Narbe, ver--\ngrössert. Nach Exemplaren des Königl. Herbars zu Berlin, gesammelt 1843 von Schomburgk in Brit. Guyana.\nNo. 637 u. No. 1465) am Ufer des Sururuflusses und im Kanukugebirge."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "241dca6237717b226cb44c714789198e4ca57efade2cef996acffe372d14e33f"
+}

@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0197-p0200",
+  "owner_shard": "S02",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 182.946,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0197-p0200",
+    "book_taxon": {
+      "scientific_name_candidate": "Cinnamomum Camphora",
+      "authorship_candidate": "F. Nees et Eberm.",
+      "aliases_candidates": [
+        "Laurus Camphora L.",
+        "Camphora officinarum C. G. Nees (Bauhin)",
+        "Persea Camphora Spr."
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 197,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "樟樹，樟科樟屬。異名包括 Laurus Camphora 及 Camphora officinarum。",
+        "warnings": [],
+        "source_line_range": [
+          6,
+          13
+        ],
+        "exact_source_quote": "                                     Cinnamomum Camphora F. Nees et Eb erm.\n                     Syn. Laurus Camphora                                                        L.         Camphora officinarum                C. G.                 Nees (Bauhin)\n                                                                                                 Persea Camphora Spr.\n\n\n              Kampherbaum, Kampherlorheer                                                                            Camphrier du Japon                                      Camphor                tree.\n\n                    Familie: Laureae.                                           Gattung: Cinnamomum Burm."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 197,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "高達40米之大樹，樹皮灰褐色龜裂，木材淡色帶紅褐紋。葉互生，紙質至近革質。",
+        "warnings": [],
+        "source_line_range": [
+          16,
+          26
+        ],
+        "exact_source_quote": "                    Beschreibung.\n                          ..   Grosser,\n                               -         bis   40 Meter holier, bis 3 Meter dicker Baum, mit rissiger, grau-\n                    Q    ,\n\n brauner Stanimrmde und leichtem, weissem, rothbraun\n                                                             geadertem Holze. Die end- nnd achselstandigen,\n kahlen Laubknospen mit breit-eiforniigen, stumpfen,\n                                                           dachigen Deckschuppen. Blatter abwechselnd ge-\n stellt, ZiemllCh\n Stellt. ziemlich Stmt."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 198,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "產於中國東部、海南及日本南部。歐洲僅於溫室栽培。",
+        "warnings": [],
+        "source_line_range": [
+          3,
+          13
+        ],
+        "exact_source_quote": "                                                         mittleren  China,   auf der  Insel Hainan   nnd   in\n         Verbreitung. In den ostlichen Provinzen des\n                                                                   Ausfuhrartikel   bildet.  In  Japan  tritt\ngrosser Menge anf Formosa, woselbst das Holz einen bedeutenden\n                                                                  nnd   Sikok;   auf Nippon     nur am  sud-\nder Kampherbaum nur in dem sudliclien Theile anf: in Kiusiu\n                                                                          In  Europa   wird  er  von JNeapei\nlichen Theile nnd hier auch nur in einzelnen giinstigen Lagen   (Idsu).\n                                                            nordlich   in  Kalthausern   der  verschiedenen\nbis zu den Inseln des Lago maggiore knltivirt; ausserdem\nbotanischen Garten."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 198,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "中國六世紀前已用樟木。古阿拉伯及希臘醫方記載樟腦用於風濕及神經熱，當時極昂貴。",
+        "warnings": [
+          "Historical medical content described as historical, not advice."
+        ],
+        "source_line_range": [
+          30,
+          45
+        ],
+        "exact_source_quote": "         Den Chinesen, die das Holz    des Kampherbaumes   schon   vor  dem   6. Jahrhundert   unserer  Zeit-\n\n                                   der  Kampher, trotz des Mangels    schriftlicber Nachweise,  wahrschein-\nrechnung technisch benutzten,  ist\n                                     gewesen.  Die  ersten schriftlichen  Belege    iiber die Kenntniss   des\nlich schon zu jener Zeit bekannt\n                                      Gedichten              zu   Anfang     des       Jahrhunderts        lebenden      sudarabischen\nKamphers besitzen wir in den                           des                         6.\n\nFursten Imru-1-Kais zu       Hadramaut       und    in   den    Rezepten     des    urn   550   n.   Chr.    in   Amida     in   Mesopo-\ntamien einheimischen Arztes        Aetius,    in   denen     Caphura      genannt      wird.     Letzterer      gab   die   Anweisung,\nzur Herstellung eines bei     gichtischen     und   rheumatischen        Beschwerden        ausserlich    anzuwendenden         und   sehr\ngeschatzten Acopon viride, in dem            neben      andern      Zuthaten     Kampher       enthalten     war;    ferner    zu   einem\nebenfalls Kampher enthaltenden          Oleum     Salca,      welches     er   als   ein   kostbares     Praparat      gegen     Schwer-\nhorigkeit bezeichnete;     es  wird   aber   bemerkt,       dass    man   Kampher       hinzufugen      solle,    wenn     er  zu   haben\nsei.  Aus dieser Bemerkurg,       iiberhaupt      aus    alien   Berichten     geht    hervor,    dass  in  damaliger      und   spaterer"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 199,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "樟腦分子式 C10H16O，樟腦油 C10H16。可轉化為樟腦酸或松油烯。",
+        "warnings": [],
+        "source_line_range": [
+          44,
+          54
+        ],
+        "exact_source_quote": "             Bestandtheile. Der Laurineen- oder Japanhampher besitzt die Formel C 10 H 16 O, der Borneo-\n    kampher C 10 H 18 O. D^s atherische Oel hat die Zusammensetzung von C 10 H 16 siedet bei 180° und     ,\n\n\nV   hat ein spez. Grew, von 0,945. Der Laurineenkampher lost sich in 1000 Theilen Wasser, leicht in\n    Alkohol, Aether, Oelen und Schwefelkohlenstoff.       Beim Erhitzen mit alkoholischer Kalilosung geht er\n    in Borneokampher uber, wahrend bei Behandlung des Borneokamphers mit Salpetersaure Laurineen-\n    kampher entsteht. Durch Destination des Borneokamphers mit wasserfreier Phosphorsaure geht ein\n    Kohlenwasserstoff, Borneen                    =\n                                     C 10 H 16 fiber, der bei 160° siedet, leichter als Wasser ist und\n                                                         '"
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 200,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "圖版描述：開花枝條、花部解剖、雄蕊、雌蕊、花粉及果實。由 W. Müller 繪製。",
+        "warnings": [],
+        "source_line_range": [
+          42,
+          52
+        ],
+        "exact_source_quote": "                                                        Tafelbesehreibung\n                  A bliihencler Zweig, naturl. Grosse; 1 Bluthen, auf verschiedenen Entwicklungsstufen vergrossert; 2 Bliithe\n     im Langsschnitt, desgl.; 3a Bluthengrundriss,          desgl.;   3b u. 4 fruchtbares Staubgefass der inneren Reihe,       von    ver-\n*>\n\n\n     schiedenen Seiten, desgl.; 5 fruchtbares Staubgefass der ausseren Reihe;           6,   7 unfruchtbares Staubgefass der ausseren\n     Reihe von verschiedenen Seiten, desgl.; 8 unfruchtbares Staubgefass            der innersten Reihe,     desgl.;   9 Pollen,   desgl.;\n\n     10 Stempel, desgl.; 11 Fruchtbecher mit Frucht, desgl.;            12 Frucht ohne Fruchtbecher, desgl.      Von W. Miiller ge-\n     zeichnet nach einem uns von Herrn Professor         Fliickiger gutigst libersandten Exemplare."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "91713f9c04770a0616fcea62734b8242b60836f9a9e09fe53de81c52521cc68a"
+}

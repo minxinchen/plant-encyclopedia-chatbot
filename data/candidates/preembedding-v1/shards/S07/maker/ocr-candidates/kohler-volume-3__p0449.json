@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 449,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "787fe816dd08e7378e9786863f4adc0d6788cfd909c2ad6ab8238bb5604d0c10",
+  "render_dpi": 144,
+  "render_sha256": "18cb182191f9bcfc768bd622757670c56d36a9a77a17689885bd46e40cc1a676",
+  "input_sha256": "18cb182191f9bcfc768bd622757670c56d36a9a77a17689885bd46e40cc1a676",
+  "render_pixel_width": 5666,
+  "render_pixel_height": 7946,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.611,
+  "embedded_character_count": 137,
+  "ocr_character_count": 59,
+  "ocr_alpha_ratio": 0.7966,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.020145331110273168,
+      "text": "Umbelliferae",
+      "width": 0.10024762319424219,
+      "x": 0.8490615251631999,
+      "y": 0.958677334505715
+    },
+    {
+      "confidence": 1,
+      "height": 0.025805842308771032,
+      "text": "(Scandineae)",
+      "width": 0.10437272752276383,
+      "x": 0.8449623121500952,
+      "y": 0.9296842878980722
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "5",
+      "width": 0.010183299201254388,
+      "x": 0.03665987781790641,
+      "y": 0.14244186086015986
+    },
+    {
+      "confidence": 1,
+      "height": 0.022590648560297022,
+      "text": "Anthriscus silvestris Hoffm.",
+      "width": 0.2571838124239395,
+      "x": 0.3928350776185445,
+      "y": 0.0550892463738637
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "37",
+      "width": 0.020366598402508762,
+      "x": 0.8961303462162609,
+      "y": 0.013081395560193387
+    }
+  ],
+  "text": "Umbelliferae\n(Scandineae)\n5\nAnthriscus silvestris Hoffm.\n37",
+  "output_sha256": "57e89c537c89ecefa2c4cd33294a88a975dede20330cff49ee0c749681e5850e",
+  "receipt_sha256": "8a22656ca71c9ea0b84f2a49320b1f2e03c943607f206dd988b02b60f6796306"
+}

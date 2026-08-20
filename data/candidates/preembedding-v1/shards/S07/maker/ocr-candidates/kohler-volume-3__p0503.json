@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 503,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "8d032bd884d4966e5a7f7269c4ecb2cef0bdafbdec50125436b974244fe3054b",
+  "render_dpi": 144,
+  "render_sha256": "bea083fc57fd5a0227cf5705d8edb69eaf3c0336a911f49146199c998f23d976",
+  "input_sha256": "bea083fc57fd5a0227cf5705d8edb69eaf3c0336a911f49146199c998f23d976",
+  "render_pixel_width": 5846,
+  "render_pixel_height": 8222,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.522,
+  "embedded_character_count": 105,
+  "ocr_character_count": 62,
+  "ocr_alpha_ratio": 0.7742,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.3,
+      "height": 0.02248943987346841,
+      "text": "Аросуласвае",
+      "width": 0.1043627218887564,
+      "x": 0.8365941484627859,
+      "y": 0.9589587686223211
+    },
+    {
+      "confidence": 1,
+      "height": 0.019723396452646424,
+      "text": "(Plumeroideae)",
+      "width": 0.11862382662678694,
+      "x": 0.8304840049557946,
+      "y": 0.9385394645819336
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "7",
+      "width": 0.01020408175480425,
+      "x": 0.6979591835103529,
+      "y": 0.21075581432672963
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "3",
+      "width": 0.012244897573729097,
+      "x": 0.30204081643762526,
+      "y": 0.0901162793475313
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "5",
+      "width": 0.014285714057698906,
+      "x": 0.40612244900856553,
+      "y": 0.059593023418720525
+    },
+    {
+      "confidence": 1,
+      "height": 0.02042958660731231,
+      "text": "Acocanthera abyssinica K.Sch.",
+      "width": 0.2510204022565813,
+      "x": 0.3775510232577495,
+      "y": 0.0173611107236169
+    }
+  ],
+  "text": "Аросуласвае\n(Plumeroideae)\n7\n3\n5\nAcocanthera abyssinica K.Sch.",
+  "output_sha256": "ae8126738d913f8da3ec4dffcf5524cb9a5435c0eae150696e2e5572b8eea461",
+  "receipt_sha256": "4088a350cf6078aa26b3d64ecd1ef6150c4fac88cbea59ddde6e1ee702d4b81c"
+}

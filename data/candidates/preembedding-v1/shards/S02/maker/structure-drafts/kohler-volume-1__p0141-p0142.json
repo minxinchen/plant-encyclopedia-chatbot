@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0141-p0142",
+  "owner_shard": "S02",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 131.974,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0141-p0142",
+    "book_taxon": {
+      "scientific_name_candidate": "Melilotus officinalis",
+      "authorship_candidate": "Desr.",
+      "aliases_candidates": [
+        "Trifolium Melilotus officinalis a. L.",
+        "Trifolium Petitpierr eanum Hayne",
+        "Melilotus arvensis Wallr.",
+        "Melilotus Petitpierr eanus Willd.",
+        "Melilotus Petitpierr eanus et diffusa Koch.",
+        "Melilotus altissimus Thuill.",
+        "Trifolium Melilotus officinalis y. L.",
+        "Trifolium macrorrhizum W. et K.",
+        "Melilotus macrorrhizus Pers.",
+        "Trifolium officinale Hayne",
+        "Melilotus officinalis Willd."
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 141,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Melilotus officinalis Desr.，同義名包括 Trifolium Melilotus 等。俗名 Steinklee、Honigklee。隸屬 Papilionaceae 科。",
+        "warnings": [],
+        "source_line_range": [
+          6,
+          21
+        ],
+        "exact_source_quote": "                                   Melilotus officinalis                   D esr.\nSyn.-     Trifolium Melilotus      officinalis    a.   L.    Trifolium Petitpierr eanum Hayne.                           Melilotus\narvensis Wallr.         Melilotus Petitpierr eanus Willd.        Melilotus Petitpierr eanus et diffusa                           Koch.\n\n\n\n                                  Melilotus altissimus Thuill.\n\nSyn. Trifolium Melilotus officinalis y. L.                   Trifolium macrorrhizum             W. et K.                 Melilotus\n          macrorrhizus Pers.           Trifolium officinale Hayne.          Melilotus officinalis Willd.\n\n\n               Steinklee, Honigklee, Schotenklee                     Melilot officinal               Melilot.\n\n\n           Familie: Papilionaceae.        Gattung: Melilotus Tourn."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 141,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "二年生植物，莖高約 1 米，先匍匐後上升。葉為三出複葉，葉片無毛，下部葉菱形，上部葉披針形。花序為腋生總狀花序。",
+        "warnings": [],
+        "source_line_range": [
+          22,
+          31
+        ],
+        "exact_source_quote": "           Beschreibung.        A. Melilotus officinalis Desr.        Pflanze 2jahrig.       Die schiefe, fast geringelte,\nastige,   mit Wurzelfasern besetzte Wurzel treibt emen ^  gewohnlich erst niederliegenden, dann auf-\nsteigenden, astigen, unten fast stielrunden, oben etwas kantigen, %                —\n                                                                            1 Meter hohen Stengel, der,\nsammt den Aesten, mit 3zahligen, nicht sehr zahlreichen, ziemlich lang gestielten, bis 4 Cm. langen,\nvon borstig-pfriemlichen und ganzrandigen Nebenblattern begleiteten Blattern besetzt ist. Blattchen\nkahl, hochstens unterseits langs der Mittelrippe sparsam mit kurzen Haaren besetzt, gesagt, fast\ngestiitzt, die der unteren Blatter rautenformig   die der oberen lanzettlich.\n                                                         ,                        Bliithenstand eine blatt-\nachselstandige gestielte lange Traube bildend, mit einseitig herabhangenden Bluthen."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 141,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "葉橫切面顯示上層為柵狀組織，下層為海綿組織。表皮呈波浪狀。花與葉具腺毛。葉維管束含大量草酸鹽結晶。",
+        "warnings": [],
+        "source_line_range": [
+          80,
+          84
+        ],
+        "exact_source_quote": "           Anatomisches:  Der Querschnitt des sehr kleinzelligen Blattes zeigt nach Fliickiger in der oberen Halfte\neine Palissadenschicht  in der unteren Schwammparenchym.\n                         ,                                      Die Epidermis lasst auf beiden Seiten wellenformige\nWolbungen erkennen. An Bluthen und Blattern machen sich vereinzelte Driisenhaare bemerkbar. Die Gefassbundel\nder Blatter sind mit zahlreichen Oxalatkrystallen ausgestattet."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 141,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分佈於歐洲大部分地區（不含北部）及中亞。生長於河岸、溝渠、籬笆及潮濕灌木叢中。",
+        "warnings": [],
+        "source_line_range": [
+          86,
+          87
+        ],
+        "exact_source_quote": "           Verbreitung.       An Flussufern, Graben, Zaunen, in feuchten Gebiischen, Hecken durch einen\ngrossen Theil von Europa mit Ausschluss des Nordens und durch Mittelasien."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 142,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含樹脂、碳水化合物、少量單寧、植物酸鉀鈣鹽、香豆素（Cumarin）、香豆酸（Melilotsäure）及揮發油（Melilotol）。",
+        "warnings": [],
+        "source_line_range": [
+          23,
+          30
+        ],
+        "exact_source_quote": "         Bestandtheile. Der Steinklee enthalt Harzstoffe, Kohlehydrate, wenig Gerbstoff, pflanzen-\nsaure Kali- und Kalksalze, einen zuerst 1820 von Vogel in den Tonkabohnen entdeckten, von ihm\nfiir Benzoesaure gelialtenen,  von Guibourt als eigenthiimlich erkannten und Cumarin genannten\nkrystallinischen Stoff, eine eigenthiiinliche krystallinische, aromatische Saure: Melilot satire und ein\n                                                                           ,\n\n\natherisches Oel: Melilotol.   Cumarin, mit der Pormel C9 H 6 2 ausserdem in den Tonkabohnen,                  ,"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 142,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史用途：作藥枕及敷劑之芳香添加劑。香豆素大劑量具毒性，可致噁心、眩暈。粉末曾混入鼻煙或用於改善乳酪風味。",
+        "warnings": [
+          "Contains historical toxicity information regarding Coumarin; not medical advice."
+        ],
+        "source_line_range": [
+          60,
+          71
+        ],
+        "exact_source_quote": "                Anwendung.   Der Steinklee dient als wohlriechender Zusatz zu Spezies fur Krauterkissen\ntmd Kataplasmen, auch im Axifguss zu Bahungen. Er ist ein Bestandtheil der Species emollientes und\ndes fruher offizinellen Emplastrum Meliloti.       ^Cumarin ist in grossen Graben toxisch, theils lokal\nirritirend, theils narkotisch; 4,0 konnen Nausea, Schwindel, Erbrechen, Schlafsucht\n                                                                                     und mehrstiindio-es\nUnwohlsein, 2,5 heftige Kopfschmerzen und Kuctus herbeifiihren.        Nach Kohler setzt Cumarin bei\nKalt- und Warmbliitern nicht. allein die Grosshirnfunktion und Eeflexerregbarkeit in\n                                                                                          hohem Grade\nherab, sondern auch die Hemnrangsmechanismen im Herzen, den Herzmuskel und das\n                                                                                          Gefassnerven-\ncentrum etc.\" Steinkleepulver wird unter den Schnupftabak gemischt, auch zur Geschmacksverbesserung\ndes Schweizerkases benutzt.                          (Husemann, Arzneimmittell. 409.)"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "b10d20eb6d12117066f69edf71e656f184c144fab172d654d35c7882a0cc0b79"
+}

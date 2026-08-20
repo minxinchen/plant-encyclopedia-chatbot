@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0251-p0254",
+  "owner_shard": "S03",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 138.595,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0251-p0254",
+    "book_taxon": {
+      "scientific_name_candidate": "Gentiana lutea",
+      "authorship_candidate": "L.",
+      "aliases_candidates": [
+        "Gelber, edler, gebráuchlicher, gemeiner, grosser Enzian",
+        "Bitterwurz",
+        "Gentiane",
+        "Gentian"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "description",
+        "pdf_page": 251,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "多年生植物，高30-60公分，根粗壯，莖中空，葉對生，花黃色，10-25年後開花。",
+        "warnings": [],
+        "source_line_range": [
+          7,
+          15
+        ],
+        "exact_source_quote": "         Beschreibung. Lang ausdauernde Pflanze mit 30—60 Ctm. (sogar 11/¿ Meter) langer, oben\nbis 4 Ctm. dicker, einfacher oder wenig ästiger, eylindrischer und gewöhnlich mehrkópfiger, fleischiger,\naussen bräunlicher oder gelblich-grauer, geringelt-runzeliger, innen gelber oder rothgelber Wurzel.\nNach Flückiger treibt das geringelte Rhizom jührlich etwa 8 in gekreuzter Stellung dicht über ein-\nander stehende     Blätter; später    geht die Hauptwurzel       verloren    und    wird   durch     eine    (selten   mehrere)\n11/, Meter lange, bis 6 Ctm. dicke Nebenwurzel ersetzt. An der Spitze des Rhizoms entwickeln sich\naus den Achseln der Blattpaare vierzeilig geordnete Knospen, die sich zu neuen, später blühbaren\nAchsen ausbilden.      Stengel meist zu mehreren aus einer Wurzel, ‫الو‬‎ bis 11/, Meter hoch, kräftig ent-\nwickelt, stielrund,    innen hohl, kahl; die blühbaren sich erst nach 10 bis 25 Jahren entwickelnd."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 252,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "根橫切面顯示外皮、中皮及內皮，含脂肪細胞，無髓及澱粉，木質部具放射狀維管束。",
+        "warnings": [],
+        "source_line_range": [
+          19,
+          32
+        ],
+        "exact_source_quote": "         Anatomisches. Der Querschnitt der Wurzel zeigt eine aus Korkzellen bestehende Aussenrinde,\neine stark entwickelte Mittelrinde und eine in gleichem Umfange entwickelte Innenrinde. Die Mittel-\nrinde ist ein etwas lückiges Parenchym, dessen derbwandige, kugelige, farblose Zellen halbfestes,\ntropfenförmiges Fett enthalten. Die Innenrinde zeigt in abwechselnder Reihenfolge dunklere und\ndichtere   Baststrahlen   und schmälere,       hellere,    lockere Markstrahlen.     Die Zellen     der Baststrahlen         sind\nmehr gestreckt und enger, die Zellen der Markstrahlen gleichen. denen der Mittelrinde; Bastzellen\nfehlen. Das Kambium bildet einen dunkleren Ring, dessen Zellen klein und inhaltslos sind. Das weiche,\nfleischige, gegen die Mitte schwammige, dunkelpunktirte Holz besteht aus nach dem Umfange zu strahlig\ngeordneten Gefässbündeln, welche durch ziemlich breite Markstrahlen von einander getrennt sind. Die\nGefässbündelstreifen zeigen in einem dichten und dunkleren Parenchym, in lockeren Radialreihen ge-\nordnet, die gelbwandigen Netzgefässe, welche von Siebsträngen begleitet sind. Die Markstrahlen zeigen\nnach dem Umfange hin mehrere Reihen auf dem Querschnitte radial gestreckter Parenchymzellen; nach\nder Mitte der Wurzel zu lösen sich die Strahlen in ein nicht mehr scharf begrenztes, schlaffes Gewebe\nauf.   Mark ist nicht vorhanden;        Stärkemehl        ebenfalls nicht."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 252,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "產於南歐高山草甸，海拔950-2000公尺，分佈至波西米亞森林及巴伐利亞南部。",
+        "warnings": [],
+        "source_line_range": [
+          35,
+          41
+        ],
+        "exact_source_quote": "         Vorkommen.      Auf Gebirgswiesen Südeuropas, bis zu den Vogesen, dem Schwarzwalde und\nSüdbaiern, in Meereshöhen von 950—2000 Meter. Flückiger sagt über das Vorkommen: „Sie findet\nsich in Portugal, in den spanischen Gebirgen, in den Pyrenäen, den Cevennen, in der Auvergne, im\nJura, den Vogesen und im Schwarzwald, durch die Alpenkette bis nach Bosnien und den südlichen\nDonauländern, nicht in Griechenland, wohl aber in den centralen Apenninen, auf Sardinien und Corsica.\nAuf den deutschen Mittelgebirgen kommt sie noch vor, in der Schwäbischen Alp, bei Würzburg, stellen-\nweise in Thüringen, aber nicht weiter nördlich, auch nicht in England.“"
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 252,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源自伊利里亞國王Gentius，古時用於治療瘟疫、消耗症及風濕，16世紀稱Bitterwurz。",
+        "warnings": [],
+        "source_line_range": [
+          43,
+          57
+        ],
+        "exact_source_quote": "           Name und Geschichtliches.                 Enzian (althochd. ence yen, enczien, genciaene, genczen, hemer,\nmittelhochd.    Enci, Encia, Enzigan, Scertwerze,            bei Cordus      und Fuchs   Bitterwurz,     bei Brunschwig\nEnzian) ist aus dem lateinischen Namen Gentiana hervorgegangen. Gentiana, nach Dioskorides und\nPlinius von dem illyrischen König Gentius (gest. 167 v. Chr.) abgeleitet, der die Enzianwurzel an-\ngeblich gegen die Pest empfahl. „Encian hat seinen nammen vom Gentiano eim Kunig der Illyrier,\nwelcher yn am ersten erfunden und sein tugent erkundete (Brunfels).*\n          Der von den Alten benutzte Enzian, ist jedenfalls nicht lutea gewesen, denn diese Pflanze\nkommt in Griechenland gar nicht vor; hingegen glaubt Fraas in Tevrıavn des Dioskorides lutea an-\nnehmen zu dürfen, da es wahrscheinlich ist, dass letzterer die Pflanze aus Illyrien erhalten hatte. Nach\nWittstein benutzte Cletius Abascantus die Enzianwurzel gegen Auszehrung, Origines den frisch\ngepressten Saft gegen Blutspeien und Coelius Aurelianus gegen Spulwürmer; auch wurde die\nPflanze gegen Gicht und Wechselfieber angewendet. Celsus zählt die Wurzel zu den Antidoten.\nTragus bemerkt, dass sie zur Erweiterung von Wunden und als Pessarium diene; diese Eigenschaft\nwurde von Häberl wieder in empfehlende Erinnerung gebracht. Die Botaniker des 16. Jahrhunderts\nlieferten Abbildungen unter dem Namen Bitterwurz."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 253,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含揮發油、苦味質Gentiopikrin、無味Gentisin、脂肪油、膠質及糖，不含澱粉。",
+        "warnings": [],
+        "source_line_range": [
+          35,
+          41
+        ],
+        "exact_source_quote": "                 Bestandtheile.     Nach Henry und Caventou enthält die Enzianwurzel ein flüchtiges,\n        riechendes Princip, gelben Bitterstoff (Gentiopikrin), einen geschmacklosen Körper (Gentisin), fettes\n        Oel, klebrige Materie, welche nach Leconte ein Gemenge von fettem Oele, Wachs und Kautschuk ist,\n        Schleimzucker, Gummi. Nach Path soll auch Gerbstoff vorhanden sein, was Maisch und Flückiger\n        in Abrede       stellen; letzterer mit dem      Bemerken:      „Die Reaktionen,      welche    angegeben      worden    sind, um\n        das Vorkommen von Gerbstoff in Enzianwurzel darzuthun, dürften wohl auf das Gentiopikrin zurück-\n        zuführen sein“. Stärkemehl ist nicht vorhanden."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 254,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史用途：作苦味健胃劑，用於消化不良及慢性消化障礙，大劑量可致頭痛。",
+        "warnings": [],
+        "source_line_range": [
+          15,
+          22
+        ],
+        "exact_source_quote": "          Anwendung. In Substanz, Aufguss, Absud, als Extrakt und Tinktur bildet die Wurzel ein\nkräftiges, bitteres Tonicum, welches die Verdauung kräftigt und die Verdauungsbeschwerden beseitigt.\nGrosse Dosen sollen jedoch die Verdauung stören, Kopfschmerz und Congestionen erzeugen. „Vom\ntherapeutischen Gesichtspunkte ist Enzian das vorzüglichste Amarum“, das sich als Stomachicum\nbei atonischer Dyspepsie und chronischen Digestionsstörungen in ihren Folgezuständen bewährt und\nfast alle übrigen bitteren Mittel, selbst diejenigen, welche, wie Lignum Quassiae, grössere Intensität der\nBitterkeit zeigen, ersetzen kann.“     Die fäulnissbeschränkende Wirkung auf thierische Stoffe ist von\nEbeling erwiesen worden. Enzian wurde schon in früheren Zeiten bei Gicht in Anwendung gebracht."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "fded457fa231f3ea8993a0e9972630afad152107b2c5191344ba58ece2663793"
+}

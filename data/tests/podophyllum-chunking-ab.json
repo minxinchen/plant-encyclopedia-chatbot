@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "run_id": "podophyllum-chunking-ab-2026-08-11",
+  "batch_id": "volume-1-podophyllum-pages-191-192-chunking-ab",
+  "source_id": "kohler-volume-1",
+  "source_filename": "書第一集 mobot31753002839139.pdf",
+  "volume": 1,
+  "record_id": "podophyllum-peltatum",
+  "scientific_name": "Podophyllum peltatum L.",
+  "display_name": "盾葉鬼臼",
+  "pdf_pages": [191, 192],
+  "acceptance_gate": true,
+  "author": "Nio (Master)",
+  "profiles": [
+    {"profile_id": "page-baseline", "strategy": "one whole PDF page per chunk"},
+    {"profile_id": "section-aware-512-100-v1", "target_token_units": 512, "overlap_token_units": 100},
+    {"profile_id": "section-aware-1024-200-v1", "target_token_units": 1024, "overlap_token_units": 200}
+  ],
+  "token_unit_contract": "Provider-neutral regex units: Unicode word sequences or individual non-whitespace punctuation. These are deterministic portable chunk units, not a claim about Gemini's private tokenizer.",
+  "queries": [
+    {
+      "query_id": "habitual-constipation-zh-tw",
+      "question": "哪一種植物的根莖及其樹脂在書中被記載用於習慣性便秘？",
+      "input_language": "zh-Hant",
+      "expected_status": "answerable",
+      "required_book_terms": ["Verstopfung", "Obstipation"],
+      "expected_pdf_page": 192,
+      "expected_pdf_pages": [192]
+    },
+    {
+      "query_id": "habitual-constipation-en",
+      "question": "Which plant's rhizome and resin does the book describe as being used for habitual constipation?",
+      "input_language": "en",
+      "expected_status": "answerable",
+      "required_book_terms": ["Verstopfung", "Obstipation"],
+      "expected_pdf_page": 192,
+      "expected_pdf_pages": [192]
+    },
+    {
+      "query_id": "chromosome-count-zh-tw",
+      "question": "這兩頁是否記載 Podophyllum peltatum 的染色體數目？",
+      "input_language": "zh-Hant",
+      "expected_status": "unanswerable",
+      "required_book_terms": ["Chromosom", "Chromosomenzahl", "chromosome"],
+      "expected_pdf_page": null,
+      "expected_pdf_pages": []
+    }
+  ],
+  "selection_rule": [
+    "All answerable queries must rank a term-bearing page-192 chunk first.",
+    "The unanswerable query must remain blocked by the deterministic source-term gate.",
+    "All chunks must retain source_id and pdf_page and be exact substrings of the parent page.",
+    "Among passing profiles, maximize mean MRR, then recall@1, then the mean relevant-versus-nonrelevant cosine margin; exact ties prefer fewer chunks."
+  ]
+}

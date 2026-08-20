@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 527,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "d4b246e6218da9263c24f9f8febb811bc1a6f0e84b977e22d53a01449d0271fc",
+  "render_dpi": 144,
+  "render_sha256": "182c60b006b681992362288da273a6d40f4e4da1e177093a7c7e9553c5e17477",
+  "input_sha256": "182c60b006b681992362288da273a6d40f4e4da1e177093a7c7e9553c5e17477",
+  "render_pixel_width": 6074,
+  "render_pixel_height": 8342,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.395,
+  "embedded_character_count": 122,
+  "ocr_character_count": 32,
+  "ocr_alpha_ratio": 0.75,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.017873567248147593,
+      "text": "Iridaceae.",
+      "width": 0.10113543060884822,
+      "x": 0.7939298185200011,
+      "y": 0.8986876291770373
+    },
+    {
+      "confidence": 1,
+      "height": 0.021865770930335593,
+      "text": "Iris germánica",
+      "width": 0.16566865385715573,
+      "x": 0.3752495074776097,
+      "y": 0.11627907010031191
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013144841269841168,
+      "text": "9. II.",
+      "width": 0.023952094345716435,
+      "x": 0.8742514979369221,
+      "y": 0.03050595250752175
+    }
+  ],
+  "text": "Iridaceae.\nIris germánica\n9. II.",
+  "output_sha256": "b0f818e0a8c44e44d17e2904ac28de4520cf6b01ced828e979e5d5eab91c78f6",
+  "receipt_sha256": "b365f546d2f054635333278dcb9bce91ba2ed8bc47149e1fccb87f3ae3efb4b6"
+}

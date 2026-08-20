@@ -1,0 +1,293 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-3-p0155-p0160",
+  "entry_id": "kohler-volume-3:p0155-p0160",
+  "owner_shard": "S06",
+  "book_taxon": {
+    "scientific_name": "Chrysanthemum roseum",
+    "authorship": "Weber & Mohr",
+    "aliases": [
+      "Chrysanthemum carneum Karsten",
+      "Chrysanthemum coceineum Willdenow",
+      "Chrysanthemum tanacetifolium Willdenow",
+      "Chrysanthemum coronopifolium Willdenow",
+      "Pyrethrum carneum Marschall v. Bieberstein",
+      "Tanacelum carneum G. H. Schultz Bipontinus"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Chrysanthemum roseum"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T17:02:22+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Chrysanthemum+roseum",
+        "query_name": "Chrysanthemum roseum",
+        "retrieved_at": "2026-08-13T17:02:18+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Chrysanthemum+carneum",
+        "query_name": "Chrysanthemum carneum",
+        "retrieved_at": "2026-08-13T17:02:19+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Chrysanthemum+coceineum",
+        "query_name": "Chrysanthemum coceineum",
+        "retrieved_at": "2026-08-13T17:02:19+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0073233",
+        "query_name": "Chrysanthemum coceineum",
+        "retrieved_at": "2026-08-13T17:02:19+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0073233",
+        "query_name": "Chrysanthemum coceineum",
+        "retrieved_at": "2026-08-13T17:02:19+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Chrysanthemum+tanacetifolium",
+        "query_name": "Chrysanthemum tanacetifolium",
+        "retrieved_at": "2026-08-13T17:02:19+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Chrysanthemum+coronopifolium",
+        "query_name": "Chrysanthemum coronopifolium",
+        "retrieved_at": "2026-08-13T17:02:19+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Pyrethrum+carneum",
+        "query_name": "Pyrethrum carneum",
+        "retrieved_at": "2026-08-13T17:02:19+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Tanacelum+carneum",
+        "query_name": "Tanacelum carneum",
+        "retrieved_at": "2026-08-13T17:02:19+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 155,
+      "evidence_type": "text",
+      "page_text_sha256": "af0420c0f990d2c148f8935918a8a0b2eb0e3b160caa0a676d51891d6f7f18ae",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 159,
+      "evidence_type": "text",
+      "page_text_sha256": "467c81b98c8410eb0909ecccd15524a2179927c1de4c25d425cbdfba57272a50",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 156,
+      "evidence_type": "text",
+      "page_text_sha256": "01d06b16ec94132c53e2dd270644e92e6eb0898a54b0f596c9f403452c193480",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 158,
+      "evidence_type": "text",
+      "page_text_sha256": "02775191629bc9bc0e3e3f119bd0c8d61cad26004eb7bf0e871ff57511043390",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-3:p0155-p0160:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "              Chrysanthemum                             roseum            Weber            & Mohr.\n                  Rosafarbene      persische Wucherblume,                persisches Flohkraut.\n\n              Chrysanthemum                             Marschallii Ascherson.\n                          Marschall’s     Wucherblume,         armenisches        Flohkraut.\n     Familie: Compositae Juss. Unterabteilung: Zubuliflora DO. Sektion: Senecionoideae.\nUnterfamilie: Anthemid.ae Gattung: Chrysanthemum L. Rotte: Pyrethrum Bentham & Hook.\n                             Chrysanthemum               roseum    Weber         & Mohr,\n                  Rosafarbene      persische Wucherblume,                persisches Flohkraut,\n         Syn. Chrysanthemum carneum Karsten. — Chr. coceineum Willdenow. — Chr. tanaceti-\nFfolium Willdenow. — Chr. coronopifolium Willdenow. — Pyrethrum carneum Marschall v. Bieber-\nstein. — Tanacelum carneum ©. H. Schultz Bipontinus.",
+      "normalized_text": null,
+      "zh_tw_rendering": "菊科，亞屬Zubuliflora，節Senecionoideae。同義名包括Chrysanthemum carneum及Pyrethrum carneum。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 155,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 959,
+        "page_text_sha256": "af0420c0f990d2c148f8935918a8a0b2eb0e3b160caa0a676d51891d6f7f18ae",
+        "exact_text_sha256": "b69fec7b09d6c175715d901e9da397573d89e57fb2ffa431b6fc4eaed568eb93",
+        "source_line_start": 1,
+        "source_line_end": 12,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "b69fec7b09d6c175715d901e9da397573d89e57fb2ffa431b6fc4eaed568eb93",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0155-p0160:s01:x00",
+      "section_type": "description",
+      "original_text": "          Beschreibung.      Die Wurzel besteht aus mehreren, bis 20 cm langen, federkieldicken,\nbraunen    Nebenwurzeln,     welche      aus    einem   fingerdicken,     braunschwarzen,       etwa    10 cm   langen,\nschief in der Erde sitzenden Rhizom hervorbrechen; das letztere treibt neben einigen nicht\nblühenden Sprossen mehrere aufrechte, bis 80 cm hohe, scharf 5—6-kantige, zehnriefige,\nmarkige, nur unter den Blütenköpfen hohle Stengel,                  welche oben 3—5 oder mehr seitliche\nÄste tragen. Die Blätter der nicht blühenden Triebe,                2—5 an der Zahl, sind lang gestielt und\nbis etwa 20 cm lang,        wovon der Stiel die Hälfte            oder    ein Drittel      beträgt.    Die Blattfläche\nist zweifach fiederschnittig, zeigt auf jeder Seite der Mittelrippe 6—7 Fiederpaare erster\nOrdnung, welche ungefähr 2 em lang sind und wiederum etwa 0,5 cm lange Fiederschnitte\nzweiter Ordnung bilden.     Die letzteren Zipfel haben an der Aussenseite gewöhnlich noch\n1—2 Zähne. Alle Zipfel haben geschweifte, schwachbogige Ränder, sind eiförmig\nund     laufen   in eine nicht          glashelle, stumpfe          Spitze        aus. —    Die Stengelblätter sind",
+      "normalized_text": null,
+      "zh_tw_rendering": "根莖斜生，莖高至80公分，五至六稜。葉二回羽狀深裂，裂片橢圓形，邊緣波狀，頂端鈍。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 155,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 960,
+        "char_end": 2146,
+        "page_text_sha256": "af0420c0f990d2c148f8935918a8a0b2eb0e3b160caa0a676d51891d6f7f18ae",
+        "exact_text_sha256": "0b8e56f917eb33bc0da6cd6d1a47e9a3bb768b937547407747d93ec83d9fc3ef",
+        "source_line_start": 13,
+        "source_line_end": 24,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "0b8e56f917eb33bc0da6cd6d1a47e9a3bb768b937547407747d93ec83d9fc3ef",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0155-p0160:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "          Anatomisches.     Die Blüten der beiden beschriebenen Pflanzen zeigen im anatomischen\nBau   sehr viel Übereinstimmung          sowohl unter     sich, als auch mit Chrıysanthemum cinerariaefolium\nBentham & Hooker. Untersuchungen der Struktur liegen vor von Kirkby, Schrenk, Unger,\nTschirch und Hanausek.        Aus denselben ergiebt sich folgendes: Die Blütenstiele von\nChrysanthemum roseum sind von Oollenchym umkleidet, welches sich sowohl auf den Riefen\nals auch in den Vertiefungen ausbreitet; die Riefen besonders sind mit Haaren ausgekleidet,\nwelche ähnlich denen von Chr. cinerariaefolium Bentham & Hooker aus einem Stielchen von\n1—4 Zellen und langer, darauf ruhender, zweispitziger Querzelle bestehen, also \"T-förmig\nsind. Die Zellen des Stiels sind bei Chr. Marschallii gewöhnlich alle drei oder vier, bei Chr.\nroseum Web. & Mohr nur die Basal- oder Gipfelzelle mit gelbem Inhalt erfüllt. Nach Unger\nsollen die Querzellen bei Chr. roseum Web. & Mohr (Pyrethrum carneum) leierförmig gebogen\nsein; ich fand nur wellige Zellen, allerdings von verschiedener Form; auch bemerkte ich,\ndass der Stiel oft nahe       dem     einen    Ende   befestigt    und   dass    dieses   Ende   oft   dick und    ab-\nserundet war. Dagegen fand ich solche leierförmige, auch dreizipfelige Querzellen bei Chr.\nMarschalliü Asch. Die Querzellen sind länger als bei Chr. cinerariaefolium. — Die Schuppen",
+      "normalized_text": null,
+      "zh_tw_rendering": "花莖被厚角組織，具T形毛。果莢壁含草酸鹽結晶。腺體由4-10細胞組成，具短柄及球形頭。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 159,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 471,
+        "char_end": 1869,
+        "page_text_sha256": "467c81b98c8410eb0909ecccd15524a2179927c1de4c25d425cbdfba57272a50",
+        "exact_text_sha256": "a7a0043986ad9491dc55124b5a4e17378b085226c2296b000d33b2ba6077b7e7",
+        "source_line_start": 8,
+        "source_line_end": 22,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "a7a0043986ad9491dc55124b5a4e17378b085226c2296b000d33b2ba6077b7e7",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0155-p0160:s03:x00",
+      "section_type": "distribution",
+      "original_text": "        Vorkommen.     Die Pflanze. wächst, mit der folgenden, in den Hochgebirgen des\nKaukasus, Armeniens und Nord-Persiens und erreicht Höhenlagen von 2000 Metern, wo sie\neine Zierde      der sonnigen     Triften ist.",
+      "normalized_text": null,
+      "zh_tw_rendering": "產於高加索、亞美尼亞及北波斯的高山，海拔達2000公尺，生長於陽光充足的草地。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 156,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 3402,
+        "char_end": 3621,
+        "page_text_sha256": "01d06b16ec94132c53e2dd270644e92e6eb0898a54b0f596c9f403452c193480",
+        "exact_text_sha256": "469b77d84c3250cd2a4bb0554e789b35d5dc8c4e9c0df8df2370c5f2e5033660",
+        "source_line_start": 36,
+        "source_line_end": 38,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "469b77d84c3250cd2a4bb0554e789b35d5dc8c4e9c0df8df2370c5f2e5033660",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0155-p0160:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "        Offieinell sind die nicht vollst          än di g     en tw ic ke lt  en    Bl  üt en    be id er   Pf la nz  en     als    Flo res\nChrysanthemi persici und Flores      Ch ry sa nt he mi    cau cas iei    un  d    ihr     Pu lv er     als   In  se  kt  en  pu  lv  er  .\nIm getrockneten Zustande       sin d   be id e   Bl üt en  kö pf e    ni ch t    all zu   sc  hw er    zu   un te rs ch  ei de n.      Ab -",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史上未完全發育的花頭及其粉末被用作殺蟲劑，稱為Flores Chrysanthemi persici。",
+      "evidence_indexes": [
+        3
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 158,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 780,
+        "char_end": 1198,
+        "page_text_sha256": "02775191629bc9bc0e3e3f119bd0c8d61cad26004eb7bf0e871ff57511043390",
+        "exact_text_sha256": "6c394af840809838ad0af6cc8df61476e79ab4b2d6e87627fb5d2b6a5024fa07",
+        "source_line_start": 12,
+        "source_line_end": 14,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "6c394af840809838ad0af6cc8df61476e79ab4b2d6e87627fb5d2b6a5024fa07",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "dd2f49fe419dfe363ca2719475548a547b7a45c8ada83c85f5349acf30359d91",
+    "maker_receipt_sha256": "40cae4f4f4ca94c7dfe723300918574f9b010ad5f6dd283da48138557d9467c8",
+    "validation_check_sha256": "7a9b48501622ce05b0b29a683cda73d7590a2047b46ac42d74980d27ff8dacef",
+    "source_disposition_sha256": "5c052d1ce818c3fc4374253cf40bb18e768009e9d178bf00564c8fc916bc0314",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "40cae4f4f4ca94c7dfe723300918574f9b010ad5f6dd283da48138557d9467c8",
+      "validation_check_sha256": "7a9b48501622ce05b0b29a683cda73d7590a2047b46ac42d74980d27ff8dacef",
+      "source_disposition_sha256": "5c052d1ce818c3fc4374253cf40bb18e768009e9d178bf00564c8fc916bc0314"
+    },
+    "naming_artifact_sha256": "2c10f8bbde222606b77f533c77910e79781c24d64b3ad4e5ed5d1ab135452c8b"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "7374b1baaa731372cc1387146bee218e94ac687cf79042d55640a125ab403a9a"
+}

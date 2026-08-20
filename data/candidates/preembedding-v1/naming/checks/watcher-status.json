@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "watcher_status": "running",
+  "pid": 73075,
+  "started_at": "2026-08-13T13:26:24+08:00",
+  "updated_at": "2026-08-16T00:30:23+08:00",
+  "poll_interval_seconds": 30,
+  "integration_status": "incomplete_awaiting_local_maker",
+  "integration_candidate_count": 227,
+  "integration_fingerprint": "38b4810f3df110a5a677709dab7f0f35e9380a6458128af1cd0f38c8f4753726",
+  "fingerprint_changed": true,
+  "iterations": 2415,
+  "canonical_writes": false,
+  "last_lane_exit_code": 1,
+  "last_lane": null,
+  "last_lane_error": "Traceback (most recent call last):\n  File \"/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/tools/run-naming-lane.py\", line 162, in <module>\n    main()\n    ~~~~^^\n  File \"/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/tools/run-naming-lane.py\", line 95, in main\n    validation = run(\"validate-naming-staging.py\")\n  File \"/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/tools/run-naming-lane.py\", line 25, in run\n    process = subprocess.run(\n        [sys.executable, str(TOOLS / script), *args],\n    ...<2 lines>...\n        capture_output=True,\n    )\n  File \"/opt/homebrew/Cellar/python@3.14/3.14.3_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/subprocess.py\", line 577, in run\n    raise CalledProcessError(retcode, process.args,\n                             output=stdout, stderr=stderr)\nsubprocess.CalledProcessError: Command '['/opt/homebrew/opt/python@3.14/bin/python3.14', '/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/tools/validate-naming-staging.py']' returned non-zero exit status 1."
+}

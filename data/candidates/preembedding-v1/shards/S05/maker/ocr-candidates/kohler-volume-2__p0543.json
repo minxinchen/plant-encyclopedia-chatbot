@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 543,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "e2235c41dac2dd42a54efbf16287bf5cd5a45d0c444c085735276ebe5976e8e4",
+  "render_dpi": 144,
+  "render_sha256": "bdbd2c9090bd0678c308b4c734c10c7416c26422f4143f284345a43fbdc7a22c",
+  "input_sha256": "bdbd2c9090bd0678c308b4c734c10c7416c26422f4143f284345a43fbdc7a22c",
+  "render_pixel_width": 5618,
+  "render_pixel_height": 8126,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.065,
+  "embedded_character_count": 95,
+  "ocr_character_count": 45,
+  "ocr_alpha_ratio": 0.8444,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01744185932098874,
+      "text": "Lauraceae",
+      "width": 0.1029411764705882,
+      "x": 0.8277310912027311,
+      "y": 0.9127906984645057
+    },
+    {
+      "confidence": 1,
+      "height": 0.029763521656157477,
+      "text": "Sassafras officinale Ness v. Eseno.",
+      "width": 0.40648485837742104,
+      "x": 0.2810193369869017,
+      "y": 0.11221328471537784
+    }
+  ],
+  "text": "Lauraceae\nSassafras officinale Ness v. Eseno.",
+  "output_sha256": "226d293b91c8f7c9505e0d25547afca724476ed5ed6b595d54c23b483e7141ad",
+  "receipt_sha256": "fe01cc5edfc070970dd658b4271ba57b0710086750d0e966eebdd8b6658063c4"
+}

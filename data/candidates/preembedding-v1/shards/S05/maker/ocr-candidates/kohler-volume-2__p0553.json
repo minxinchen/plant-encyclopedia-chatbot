@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 553,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "5432052a1e95b61e85d97edc0b1800ee99482b039a752c4c620aa6fcd534d463",
+  "render_dpi": 144,
+  "render_sha256": "bdd2d8473b1b632f13c704595decd6a0aa4ecb0e9cdc916ea1247389e75b7137",
+  "input_sha256": "bdd2d8473b1b632f13c704595decd6a0aa4ecb0e9cdc916ea1247389e75b7137",
+  "render_pixel_width": 5678,
+  "render_pixel_height": 7862,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 1.894,
+  "embedded_character_count": 244,
+  "ocr_character_count": 42,
+  "ocr_alpha_ratio": 0.8095,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.019673869723365378,
+      "text": "Rubiaceae.",
+      "width": 0.1129215785435268,
+      "x": 0.822814865778294,
+      "y": 0.9196688790694776
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "13",
+      "width": 0.014084506820846387,
+      "x": 0.8853118715728094,
+      "y": 0.670058139767076
+    },
+    {
+      "confidence": 1,
+      "height": 0.025184515922788586,
+      "text": "Cephaelis",
+      "width": 0.12341015155498797,
+      "x": 0.3256188673149237,
+      "y": 0.10223332373369931
+    },
+    {
+      "confidence": 1,
+      "height": 0.0203488365052239,
+      "text": "Ipecacuanha Willd.",
+      "width": 0.2213279598361843,
+      "x": 0.44668008668150544,
+      "y": 0.10465116311366707
+    }
+  ],
+  "text": "Rubiaceae.\n13\nCephaelis\nIpecacuanha Willd.",
+  "output_sha256": "94a2fd0f3b3eabc603d6d4235ea110d4836c2055a36b5f253ccfd97bfe7499fa",
+  "receipt_sha256": "8a8024fccaaa825478ae12ece3fe7c4d91f663580e45536cba92ca47b1374af0"
+}

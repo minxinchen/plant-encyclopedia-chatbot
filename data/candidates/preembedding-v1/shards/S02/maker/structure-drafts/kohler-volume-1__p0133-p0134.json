@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0133-p0134",
+  "owner_shard": "S02",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 138.955,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0133-p0134",
+    "book_taxon": {
+      "scientific_name_candidate": "Mallotus philippinensis",
+      "authorship_candidate": "Muller Argov.",
+      "aliases_candidates": [
+        "Rottlera tindoria",
+        "Croton philippense",
+        "Croton punctatum",
+        "Kamala",
+        "Kamela",
+        "Kamal",
+        "Punnaga Kesara"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 133,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Mallotus philippinensis，同義名含 Rottlera tindoria 及 Croton philippense。屬大戟科 Mallotus 屬。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          9
+        ],
+        "exact_source_quote": "                          Mallotus philippinensis Muller Argov.\n\nSy     Rottlera tindoria          Roxb                                                            Croton philippense Lam\n       Croton punctatum Retz.                                         Willd.       Echinus\n\n\n                               Kamala             Kamela, Kamal, Punnaga Kesara.\n\n          Familie: JEvphorbiaceae.               Gattung: Mallotus Lour."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 133,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "高達 10 米之常綠喬木或灌木，雌雄異株。葉互生，菱狀卵形，具腺體及鐵鏽色絨毛，葉背密被灰褐色絨毛並佈滿紅色腺體。",
+        "warnings": [],
+        "source_line_range": [
+          10,
+          19
+        ],
+        "exact_source_quote": "          Beschreibung.           Bis    fiber    10 Meter holier, immergrfiner         ,        oder Strauch,\n                                                                                            diocischer        Baum\ndessen jfingere Zweige,  Blattstiele,  Blatter, Blfithenstande  und  Frfichte mit  Drfisen  und rostigem  Filze\nbedeckt  sind, mit abwechselnden,     8—12   Ctm.  langen,  3—5   auch  7 Ctm.  breiten, rhombisch-eiformigen,\nrhombisch-lanzettlichen,  langlich-elliptischen  oder  langlich-eiformigen, zugespitzten,  am Grrunde ebenfalls\n\nzugespitzten   oder  abgerundeten         ,auch    schwach-herzfGrmigen,            ganzrandigen      ,handformig-3nervigen\nBlattern  ,deren Mittelnerv starker          hervortritt     und   vom     unteren    Drittel  ab   mit   mehreren     starkeren\nSeitennerven   versehen  ist;   die    Blatter    sind    oberseits   kahl,   unterseits   mit   einem    kurzen    und  dichten\nanfangs rostigen, spater   graubraunlichen,         zuletzt   fast  weissen    Filze  fiberzogen    und   zwischen    dem   Filze"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 133,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "Kamala 之腺體由 0.05-0.10 毫米之球體組成，含黃色無結構物質及棒狀細胞，細胞內含紅色物質，呈放射狀排列。",
+        "warnings": [],
+        "source_line_range": [
+          41,
+          56
+        ],
+        "exact_source_quote": "          Anatomisches : Die gewohnlich       buschelfSrmig,    weniger    einzeln   auftretenden,   oft  luftfuhrenden   Haare  der\nKamala sind ein- und mehrzellig,       dickwandig,    farblos,  schlangelig,     sichelformig   oder   an  der  Spitze  hakenformig\n                                            urn   das  Doppelte    oder   Dreifache   ubertreffend.     Die   Kamaladrusen,   welcne\ngekriimmt, den Durchmesser der     Driisen\nnach Fliickiger aus 0,05—0,10        Mm.   messenden,    auf  einer  Seite   etwas    abgeplatteten    und    unmerkhch   vertietien,\n\nunregelmassigen, auf der Oberflache welligen      Kugeln   bestehen,  besitzen     eine zarte, schwach-gelbliche      Membran,    die\n\neine strukturlose, gelbe. mit zahlreichen,  keulenformigen     Zellen  erfiillte  Masse  einschliessen.    Die  mit  rothem  Inhalte\n                                       40—60    angegeben    wird,  sind   strablenformig    urn  einen   dunkeln   Mittelpunkt   der\nversebenen Zellen, deren Anzabl auf\nabgeflachten Seite gruppirt.    Dann und     wann   wird  eine  kleine   Stielzelle  wahrgenommen         die\n                                                                                                          ,\n                                                                                                               Vogel   als aus emer\n\nTochterzelle der Oberhaut entstanden,    als  die  Mutterzelle  der  kleinen   keulenformigen     Harzzellen    annimmt."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 133,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分佈於前印度、錫蘭、後印度、中國東南部、爪哇、菲律賓及澳洲北部東部。在喜馬拉雅山麓海拔可達 1500 米。",
+        "warnings": [],
+        "source_line_range": [
+          58,
+          63
+        ],
+        "exact_source_quote": "         Verbreitung.             Vorder-\n                                  Ceylon,  und   Hinterindien  siidostliches China,\n                                                                               ,      Java, Philippines\nnordliches und ostliches Australien.   Die  Pflanze  erreicht in  den   Vorbergen   des  Hymalaya  eine\n\nMeereshohe von 1500 Metern."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 133,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源自印度，古時用於絲綢染色。Rheede 於 1649 年首次繪圖。歷史文獻記載其果實與腺體在宗教及染色技術中之應用。",
+        "warnings": [],
+        "source_line_range": [
+          65,
+          96
+        ],
+        "exact_source_quote": "              Name     und Geschichtliches.                 Kamala\n                                                                indischen\n                                                                     ist    Ursprunges, ebenso  auch die welter\n                                                         Die ausserdem    noch   in Europa gebrauchte  Bezeich-\n                      . Namen: Wars, Waras, Wurrus.\n                                           Rice     New- York,  aus  dem   Sanskrit und bedeutet rothen  Staub:\n        Kapil         ii stammt, nach Ch.        in\n                                                                               von  paUwrog  langwollig, wegen\n^j,™ „„,\nKapil                ,, podi Staub (Blfithenstaub).  Mallotus  ist  abgeleitet\n                                                                                                dem   1749\nder meistens mit langen, weichen   Stacheln besetzten Frfichte.    Rottlera  ist benannt  nach\n                                            Rottler,  der sich  in der danischen Niederlassung  Trankebar\nzu Strassburg geborenen danischen Missionar\n                                        unternahm.  Croton   stammt    von xqotcov (Holzbock,  Hundelaus),\naufhielt und daselbst botanische Reisen\nwegen   der Aehnlichkeit des Crotonsamens  mit diesem  Insekte.\n                                              und  Benutzung    des  Kamalabaumes    in  Indien  erne  sehr\n         Nach Fliickiger ist die Kenntniss\n                                                                                                              We\n                           ^,Aala)                Beziehung    mehrfach  gedacht.   Ebenso  alt dfirfte auch\nUOTiau ,UCi uco Kampila\n                j^v,,,^^ (jKj\n                         y\n                                   in religioser\ndie technische Verwendung der Frfichte und   Drfisen  in  der Seidenfarberei  sein, was  durch  die  Schrift-\n\nsteller Susruta und Bhava bestatigt wird.        Die   erste  Abbildung   hat  Rbeede    in  dem   „Hortus\n                       u\ninTrcus\"maiaTarTcus geliefert und°zwar      unter   dem   Namen   „Ponnagam\"      (Sanskrit Punnaga).     Im\n                                                                Wirkun\n"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 134,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含 78.19% 紅色樹脂、7.34% 蛋白質及 3.84% 礦物質。Anderson 分離出 Rottlerin，Leube 發現檸檬酸、鞣酸及草酸等成分。",
+        "warnings": [],
+        "source_line_range": [
+          36,
+          47
+        ],
+        "exact_source_quote": "               Bestandtheile. Nach Anderson ist in dem rothen Farbstoff enthalten: 78,19 °/ rothes\n    Harz, 7,34% Eiweiss, 1,14% Cellulose, 3,49 °/ Wasser, Spur eines fiuchtigen Oeles, 3,84 °/ Mineral-\n    stoffe. Durch Ausziehen mit Aether erhielt Anderson ausserdem aus dem rothen Harze gelbe, seiden-\n    glanzende, in Wasser unlosliche, in kaltem Alkohol wenig, in Aether leicht losliche Krystalle, die er\n    Rottlerin (Ci2H 10 O 3 ) nannte. Leube konnte Rottlerin nicht wieder erhalten, fand dagegen, dass\n    das mit Aether entzogene Harz durch kalten Weingeist sich in 2 Theile zerlegen lasst: in einen in\n    Weingeist leicht loslichen, bei 80 ° schmelzenden und in einen darin schwer loslichen, dessen Schmelzpunkt\n    191° betragt.    Ausserdem fand Leube in der Kamala Citronensaure, eisengrunende Grerbsaure, Oxal-\n    saure, Starkemehl,      Gummi.           Anderson hat noch eine flockige Substanz mit einer Zusammensetzung\n    von C 2 oH34 4 und einen harzartigen, durch essigsaures Blei fallbaren Farbstoff, das Rottleraroth\n    (C3oH3oO) 7 nachgewiesen. (Husemann, Pflanzenstoffe 902.)\n"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "fce4af9f07860f1a3bbcb2c825e01049c3835b353f0ae468e1b9c4ec77eb236e"
+}

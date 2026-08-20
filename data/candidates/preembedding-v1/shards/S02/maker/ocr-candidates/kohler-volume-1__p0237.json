@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 237,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "8c60549e47475b24f2456238754c720228a9d5fbe8f0f6daa58882726814fe7d",
+  "render_dpi": 144,
+  "render_sha256": "38e65f1e85e62d7e460821de401f9b511c30f760be3599deb7b3d26b80829f2a",
+  "input_sha256": "38e65f1e85e62d7e460821de401f9b511c30f760be3599deb7b3d26b80829f2a",
+  "engine": "Apple Vision VNRecognizeTextRequest accurate",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-ocr-sha256=e54202ae838c94203816fd3331f4c37f7acac436188d481eab506c540c3d66d6",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 86.738,
+  "embedded_character_count": 187,
+  "ocr_character_count": 68,
+  "ocr_alpha_ratio": 0.6912,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.019137354124160066,
+      "text": "Aurantieae.",
+      "width": 0.11999294643680058,
+      "x": 0.8251661284829027,
+      "y": 0.9577278348021717
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "10",
+      "width": 0.020325203391928115,
+      "x": 0.6016260163595916,
+      "y": 0.3444767443247284
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "8",
+      "width": 0.010162601034149898,
+      "x": 0.48780487824308766,
+      "y": 0.25726744229184595
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "6",
+      "width": 0.014227641447809816,
+      "x": 0.11788617913381867,
+      "y": 0.09738372103357784
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "B",
+      "width": 0.012195121240979878,
+      "x": 0.7154471547250386,
+      "y": 0.10465116309389744
+    },
+    {
+      "confidence": 1,
+      "height": 0.01024939994963392,
+      "text": "Ei Günther gez u, lath",
+      "width": 0.12398373923477068,
+      "x": 0.8028455272068017,
+      "y": 0.0696924602849569
+    },
+    {
+      "confidence": 1,
+      "height": 0.02180232509734137,
+      "text": "Citrus vulgaris Risso.",
+      "width": 0.2682926725960704,
+      "x": 0.3719512264560298,
+      "y": 0.04651162842153289
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "2",
+      "width": 0.012195121240979878,
+      "x": 0.9329268295556619,
+      "y": 0.01889534909701507
+    }
+  ],
+  "text": "Aurantieae.\n10\n8\n6\nB\nEi Günther gez u, lath\nCitrus vulgaris Risso.\n2",
+  "output_sha256": "1d760d5b6d5a7d481b9d95a77b3760fc834084bdcf5f3c14879582cfb2c39380",
+  "receipt_sha256": "df0493fe9e0a9874400c8d2fddb27886a7a0cef5c301d2f408c493ae2a864924"
+}

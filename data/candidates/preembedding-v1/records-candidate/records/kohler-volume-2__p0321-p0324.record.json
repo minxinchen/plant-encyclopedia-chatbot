@@ -1,0 +1,266 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0321-p0324",
+  "entry_id": "kohler-volume-2:p0321-p0324",
+  "owner_shard": "S04",
+  "book_taxon": {
+    "scientific_name": "Quassia amara",
+    "authorship": null,
+    "aliases": [
+      "Quassiastrauch",
+      "Bitterholz",
+      "Bois amer",
+      "Bitter wood"
+    ]
+  },
+  "display_name": "苦木",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Quassia amara"
+    ],
+    "accepted_scientific_name": "Quassia amara",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T13:33:38+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Quassia+amara",
+        "query_name": "Quassia amara",
+        "retrieved_at": "2026-08-13T13:33:38+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0075564",
+        "query_name": "Quassia amara",
+        "retrieved_at": "2026-08-13T13:33:38+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0075564",
+        "query_name": "Quassia amara",
+        "retrieved_at": "2026-08-13T13:33:38+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL accepts the queried book binomial at species rank."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 321,
+      "evidence_type": "text",
+      "page_text_sha256": "718c63e844940fb73bc131c6846618166579a3951bd25fe268a8836816eed36a",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 322,
+      "evidence_type": "text",
+      "page_text_sha256": "3a3fc25317c77b3074e4c1b938db87d295a6578e16d81be12622eaff27db5bda",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 323,
+      "evidence_type": "text",
+      "page_text_sha256": "5bfe34e39c69f7e3d8409d7b37c4988b9040041983ada184ed1b7e76e6dc3365",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0321-p0324:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                              Quassia amara L.\n                     Quassiastrauch, Bitterholz —                   Bois amer —             Bitter wood.\n          Familie: Simarubaceae; Gattung: Quassia L.",
+      "normalized_text": null,
+      "zh_tw_rendering": "苦木科苦木屬，學名 Quassia amara L.，俗稱苦木或苦樹。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 321,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 220,
+        "page_text_sha256": "718c63e844940fb73bc131c6846618166579a3951bd25fe268a8836816eed36a",
+        "exact_text_sha256": "07b530ea1b806b775248add5c48f218114cdc674535a07c5ea61a3888260d772",
+        "source_line_start": 1,
+        "source_line_end": 3,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "07b530ea1b806b775248add5c48f218114cdc674535a07c5ea61a3888260d772",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0321-p0324:s01:x00",
+      "section_type": "description",
+      "original_text": "          Beschreibung.           Ein    in allen   Theilen      kahler   Strauch    oder    bis 5 Meter     hoher Baum       mit\nschlaffer, eifórmiger Krone und dünner, im trockenen Zustande sich leicht ablósender, gelblich-aschgrauer,\nim jüngeren Alter braun-purpurrother Rinde. Blätter zerstreutstehend, nebenblattlos, 3zählig oder\n2jochig unpaarig, mit geflügelt-gegliederter Blattspindel, welche, wie die Mittelnerven der Blättchen,\nhellpurpurroth gefärbt ist; Flügel nach oben an Breite zunehmend. Blättchen sitzend, länglich, beider-\nseits verschmälert, zugespitzt, ganzrandig, fiedernervig; die endständigen Blättchen zu dreien beisam-\nmenstehend. Blüthen in end-, seiten- oder achselständigen, einfachen, aufrechten, schlaffen Trauben;",
+      "normalized_text": null,
+      "zh_tw_rendering": "無毛灌木或小樹，高至5米。葉互生，三出或二回羽狀複葉，葉軸具翅。花猩紅色，長4公分，成總狀花序。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 321,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 222,
+        "char_end": 966,
+        "page_text_sha256": "718c63e844940fb73bc131c6846618166579a3951bd25fe268a8836816eed36a",
+        "exact_text_sha256": "25368290128fcce37328c0ba69303c6bedd2da79465fd58895f9c4808a71f685",
+        "source_line_start": 5,
+        "source_line_end": 11,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "25368290128fcce37328c0ba69303c6bedd2da79465fd58895f9c4808a71f685",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0321-p0324:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "          Anatomisches. .Die Rinde zeigt bei stärkerer Vergrösserung auf dem Querschnitte eine aus\ntangential gestreckten, dünnwandigen, auch verdickt-gelbwandigen Korkzellen bestehende Aussenrinde, eine\nMittelrinde, welche aus einem schlaffen Parenchym besteht, in welchem in der Mittelschicht vereinzelte\nzitronengelbe Steinzellengruppen und nach dem Korke zu zahlreiche Oxalatdrusen auftreten. Ein derber,\nzitronengelber,   nicht unterbrochener Steinzellenring trennt             die Mittelrinde    von   der Innenrinde.       Letztere\nist ein schlaffes, zusammengefallenes, mit vereinzelten Steinzellengruppen ausgestattetes Gewebe, welches\naus wechselnden Schichten von Bastbündeln und Bastparenchym besteht und.von Markstrahlen durch-\nschnitten wird.      Die Markstrahlen       haben   grossen Abstand        von   einander    und erweitern     sich nach vorn",
+      "normalized_text": null,
+      "zh_tw_rendering": "橫切面顯示外皮由軟木細胞組成，中皮含石細胞群及草酸鹽簇。內皮為鬆軟組織，具木質部束及髓鞘。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 321,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2432,
+        "char_end": 3298,
+        "page_text_sha256": "718c63e844940fb73bc131c6846618166579a3951bd25fe268a8836816eed36a",
+        "exact_text_sha256": "b91867f4eac2460a58b1dfbf65cffc70d47c04ad04edfab2b5d8c46d446d1b37",
+        "source_line_start": 27,
+        "source_line_end": 34,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "b91867f4eac2460a58b1dfbf65cffc70d47c04ad04edfab2b5d8c46d446d1b37",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0321-p0324:s03:x00",
+      "section_type": "distribution",
+      "original_text": "         Vorkommen.        Von Surinam bis Panama, auf den Antillen und im nördlichen Brasilien ein-\nheimisch. In Brasilien und Westindien kultivirt.                                                    |",
+      "normalized_text": null,
+      "zh_tw_rendering": "原產於蘇里南至巴拿馬、安的列斯群島及北巴西。在巴西及西印度群島有栽培。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 322,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 180,
+        "char_end": 382,
+        "page_text_sha256": "3a3fc25317c77b3074e4c1b938db87d295a6578e16d81be12622eaff27db5bda",
+        "exact_text_sha256": "1c2ffe6cc0f29fceda98b8c9ad79d16ff8f766ace4bb719dfa46742037b30dfc",
+        "source_line_start": 3,
+        "source_line_end": 4,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "1c2ffe6cc0f29fceda98b8c9ad79d16ff8f766ace4bb719dfa46742037b30dfc",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0321-p0324:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "        Name und Geschichtliches. Quassia soll nach einem Negersklaven der westindischen\nZuckerplantagen Coissi oder Quassi so benannt worden sein, der angeblich die heilsamen Wirkungen\ndes Holzes    entdeckte.\n          Die Heilwirkungen der Quassia und Picraena sind von den Eingeborenen schon lange entdeckt und\ngegen Magenleiden in Gebrauch gewesen. Die frühesten Nachrichten stammen von dem französischen\nGeistlichen Labat, welcher 1696 berichtet, dass auf Martinique ein Bitterholz wachse, in welchem eine\nSimaruba vermuthet wird. Neben dem Holze in der Rinde benutzte man auch die Blüthen der Quassia,",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源自西印度群島奴隸Quassi。原住民早知療效，1696年Labat記載其用於胃疾，1714年Fermin用於治療胃病。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 322,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2730,
+        "char_end": 3338,
+        "page_text_sha256": "3a3fc25317c77b3074e4c1b938db87d295a6578e16d81be12622eaff27db5bda",
+        "exact_text_sha256": "727d852bf76c42ef07d3fda51eea603f1832b85fce051449958af5da2029ca3e",
+        "source_line_start": 30,
+        "source_line_end": 36,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "727d852bf76c42ef07d3fda51eea603f1832b85fce051449958af5da2029ca3e",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0321-p0324:s05:x00",
+      "section_type": "constituents",
+      "original_text": "            Bestandtheile. Beide Hölzer nebst Rinde enthalten einen eigenthümlichen krystallinischen\n Bitterstoff, Quassin oder Quassit, gummigen Extraktivstoff, Spuren ätherischen Oeles, Aesculin, Pektin etc,\n Der wässerige, hellgelbe Auszug des Quassienholzes wird durch Eisenchlorid dunkelbraun gefärbt, durch\n Bleizucker wird er reichlich braun gefällt. Die neueren Untersuchungen des surinamischen Quassien-\n holzes von Trädgardh ergaben: 9.879/, Feuchtigkeit; 1.62%, Asche; 0.8852/0 organ. Säuren; 0.51%,\n Gummi;      0.2659/,      Quassiin;    1.91%, Holzgummi;          2.17%, Pararabin;              82.52%,     Cellulose;     2,439/, Albu-\n minoide;      ausserdem     noch     ein Harz    und eine fluorescirende         Substanz.",
+      "normalized_text": null,
+      "zh_tw_rendering": "含苦味素Quassin、樹膠、揮發油、鵝掌楸素等。水浸液遇氯化鐵變深褐，遇醋酸鉛產生棕色沉澱。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 323,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2648,
+        "char_end": 3389,
+        "page_text_sha256": "5bfe34e39c69f7e3d8409d7b37c4988b9040041983ada184ed1b7e76e6dc3365",
+        "exact_text_sha256": "b2f45cb164565a0515652beb1e5403aaf8d698cd1a92b564ab6b59e64fff122a",
+        "source_line_start": 28,
+        "source_line_end": 34,
+        "section_index": 5,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "b2f45cb164565a0515652beb1e5403aaf8d698cd1a92b564ab6b59e64fff122a",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "7e79b6a10cfad6a3f222e535ee89138774266371bdaa202deb58ac3087adb328",
+    "maker_receipt_sha256": "d38b608d0737ae14b87707faee913ff0da946f95954226f4d4c5b7728622342b",
+    "validation_check_sha256": "bfd998553d4696a32f5654996c72351eb198d4c8626a801e913c4bca88ed9fb8",
+    "source_disposition_sha256": "75ee85731cbe086b6e12a246b7880b922f41fbcb3d5a2ec929275d0800b33f14",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "d38b608d0737ae14b87707faee913ff0da946f95954226f4d4c5b7728622342b",
+      "validation_check_sha256": "bfd998553d4696a32f5654996c72351eb198d4c8626a801e913c4bca88ed9fb8",
+      "source_disposition_sha256": "75ee85731cbe086b6e12a246b7880b922f41fbcb3d5a2ec929275d0800b33f14"
+    },
+    "naming_artifact_sha256": "a9519536bf2bbb5efe0567063fddbd16de53fc0cd588616aa2e7a249780ece56"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "e5698bfc899512ab7f528e157a686102ca0c627c5fdf0a927b4e76414be5463b"
+}

@@ -1,0 +1,270 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0197-p0200",
+  "entry_id": "kohler-volume-1:p0197-p0200",
+  "owner_shard": "S02",
+  "book_taxon": {
+    "scientific_name": "Cinnamomum Camphora",
+    "authorship": "F. Nees et Eberm.",
+    "aliases": [
+      "Laurus Camphora L.",
+      "Camphora officinarum C. G. Nees (Bauhin)",
+      "Persea Camphora Spr."
+    ]
+  },
+  "display_name": "樟樹",
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Cinnamomum Camphora",
+      "Cinnamomum camphora",
+      "Laurus camphora"
+    ],
+    "accepted_scientific_name": "Camphora officinarum",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T18:25:59+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Cinnamomum+Camphora",
+        "query_name": "Cinnamomum Camphora",
+        "retrieved_at": "2026-08-13T18:25:58+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0023491",
+        "query_name": "Cinnamomum Camphora",
+        "retrieved_at": "2026-08-13T18:25:58+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0023491",
+        "query_name": "Cinnamomum Camphora",
+        "retrieved_at": "2026-08-13T18:25:58+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Cinnamomum+camphora",
+        "query_name": "Cinnamomum camphora",
+        "retrieved_at": "2026-08-13T18:25:58+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0040594",
+        "query_name": "Cinnamomum camphora",
+        "retrieved_at": "2026-08-13T18:25:58+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0040594",
+        "query_name": "Cinnamomum camphora",
+        "retrieved_at": "2026-08-13T18:25:58+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Laurus+camphora",
+        "query_name": "Laurus camphora",
+        "retrieved_at": "2026-08-13T18:25:59+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "A scientific alias explicitly printed in the Köhler entry exactly matches a TaiCOL species with a Taiwan public name."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 197,
+      "evidence_type": "text",
+      "page_text_sha256": "135735b5f5dc260590a774bab8fb603d2a8729c5c7b7fcd097df69f7540182d2",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 198,
+      "evidence_type": "text",
+      "page_text_sha256": "3797742b1b2ec493699796f80306afa68ee7d4f8a3d13dd41c85534b7a7878e5",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 199,
+      "evidence_type": "text",
+      "page_text_sha256": "e712dac77505f2d6eace6af9ff2da3d3b608e07da546f45e6f15a3d88fe8f00c",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0197-p0200:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                     Cinnamomum Camphora F. Nees et Eb erm.\n                     Syn. Laurus Camphora                                                        L.         Camphora officinarum                C. G.                 Nees (Bauhin)\n                                                                                                 Persea Camphora Spr.\n\n\n              Kampherbaum, Kampherlorheer                                                                            Camphrier du Japon                                      Camphor                tree.\n\n                    Familie: Laureae.                                           Gattung: Cinnamomum Burm.",
+      "normalized_text": null,
+      "zh_tw_rendering": "樟樹，樟科樟屬。異名包括 Laurus Camphora 及 Camphora officinarum。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 197,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 135,
+        "char_end": 819,
+        "page_text_sha256": "135735b5f5dc260590a774bab8fb603d2a8729c5c7b7fcd097df69f7540182d2",
+        "exact_text_sha256": "840d3d097430bf2d2256fc566b6f160b4340cf3e7d64cce2be41787e72230247",
+        "source_line_start": 6,
+        "source_line_end": 13,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "840d3d097430bf2d2256fc566b6f160b4340cf3e7d64cce2be41787e72230247",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0197-p0200:s01:x00",
+      "section_type": "description",
+      "original_text": "                    Beschreibung.\n                          ..   Grosser,\n                               -         bis   40 Meter holier, bis 3 Meter dicker Baum, mit rissiger, grau-\n                    Q    ,\n\n brauner Stanimrmde und leichtem, weissem, rothbraun\n                                                             geadertem Holze. Die end- nnd achselstandigen,\n kahlen Laubknospen mit breit-eiforniigen, stumpfen,\n                                                           dachigen Deckschuppen. Blatter abwechselnd ge-\n stellt, ZiemllCh\n Stellt. ziemlich Stmt.",
+      "normalized_text": null,
+      "zh_tw_rendering": "高達40米之大樹，樹皮灰褐色龜裂，木材淡色帶紅褐紋。葉互生，紙質至近革質。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 197,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 824,
+        "char_end": 1396,
+        "page_text_sha256": "135735b5f5dc260590a774bab8fb603d2a8729c5c7b7fcd097df69f7540182d2",
+        "exact_text_sha256": "cf0b760e977050ac18ba43949a9aeec1e90bff22bf27cd011ae028476b5971cb",
+        "source_line_start": 16,
+        "source_line_end": 26,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "cf0b760e977050ac18ba43949a9aeec1e90bff22bf27cd011ae028476b5971cb",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0197-p0200:s02:x00",
+      "section_type": "distribution",
+      "original_text": "                                                         mittleren  China,   auf der  Insel Hainan   nnd   in\n         Verbreitung. In den ostlichen Provinzen des\n                                                                   Ausfuhrartikel   bildet.  In  Japan  tritt\ngrosser Menge anf Formosa, woselbst das Holz einen bedeutenden\n                                                                  nnd   Sikok;   auf Nippon     nur am  sud-\nder Kampherbaum nur in dem sudliclien Theile anf: in Kiusiu\n                                                                          In  Europa   wird  er  von JNeapei\nlichen Theile nnd hier auch nur in einzelnen giinstigen Lagen   (Idsu).\n                                                            nordlich   in  Kalthausern   der  verschiedenen\nbis zu den Inseln des Lago maggiore knltivirt; ausserdem\nbotanischen Garten.",
+      "normalized_text": null,
+      "zh_tw_rendering": "產於中國東部、海南及日本南部。歐洲僅於溫室栽培。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 198,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 68,
+        "char_end": 938,
+        "page_text_sha256": "3797742b1b2ec493699796f80306afa68ee7d4f8a3d13dd41c85534b7a7878e5",
+        "exact_text_sha256": "d58f85143ea97e3e261ebed8316d03e0aa54f435516081880061f8f667b62b5c",
+        "source_line_start": 3,
+        "source_line_end": 13,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "d58f85143ea97e3e261ebed8316d03e0aa54f435516081880061f8f667b62b5c",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0197-p0200:s03:x00",
+      "section_type": "historical_use",
+      "original_text": "         Den Chinesen, die das Holz    des Kampherbaumes   schon   vor  dem   6. Jahrhundert   unserer  Zeit-\n\n                                   der  Kampher, trotz des Mangels    schriftlicber Nachweise,  wahrschein-\nrechnung technisch benutzten,  ist\n                                     gewesen.  Die  ersten schriftlichen  Belege    iiber die Kenntniss   des\nlich schon zu jener Zeit bekannt\n                                      Gedichten              zu   Anfang     des       Jahrhunderts        lebenden      sudarabischen\nKamphers besitzen wir in den                           des                         6.\n\nFursten Imru-1-Kais zu       Hadramaut       und    in   den    Rezepten     des    urn   550   n.   Chr.    in   Amida     in   Mesopo-\ntamien einheimischen Arztes        Aetius,    in   denen     Caphura      genannt      wird.     Letzterer      gab   die   Anweisung,\nzur Herstellung eines bei     gichtischen     und   rheumatischen        Beschwerden        ausserlich    anzuwendenden         und   sehr\ngeschatzten Acopon viride, in dem            neben      andern      Zuthaten     Kampher       enthalten     war;    ferner    zu   einem\nebenfalls Kampher enthaltenden          Oleum     Salca,      welches     er   als   ein   kostbares     Praparat      gegen     Schwer-\nhorigkeit bezeichnete;     es  wird   aber   bemerkt,       dass    man   Kampher       hinzufugen      solle,    wenn     er  zu   haben\nsei.  Aus dieser Bemerkurg,       iiberhaupt      aus    alien   Berichten     geht    hervor,    dass  in  damaliger      und   spaterer",
+      "normalized_text": null,
+      "zh_tw_rendering": "中國六世紀前已用樟木。古阿拉伯及希臘醫方記載樟腦用於風濕及神經熱，當時極昂貴。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 198,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 2274,
+        "char_end": 3854,
+        "page_text_sha256": "3797742b1b2ec493699796f80306afa68ee7d4f8a3d13dd41c85534b7a7878e5",
+        "exact_text_sha256": "de49f5c1b15f4d249b4bcf0ba32c9db99c59692a3012fb642478c6addfba92a4",
+        "source_line_start": 30,
+        "source_line_end": 45,
+        "section_index": 3,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "de49f5c1b15f4d249b4bcf0ba32c9db99c59692a3012fb642478c6addfba92a4",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0197-p0200:s04:x00",
+      "section_type": "constituents",
+      "original_text": "             Bestandtheile. Der Laurineen- oder Japanhampher besitzt die Formel C 10 H 16 O, der Borneo-\n    kampher C 10 H 18 O. D^s atherische Oel hat die Zusammensetzung von C 10 H 16 siedet bei 180° und     ,\n\n\nV   hat ein spez. Grew, von 0,945. Der Laurineenkampher lost sich in 1000 Theilen Wasser, leicht in\n    Alkohol, Aether, Oelen und Schwefelkohlenstoff.       Beim Erhitzen mit alkoholischer Kalilosung geht er\n    in Borneokampher uber, wahrend bei Behandlung des Borneokamphers mit Salpetersaure Laurineen-\n    kampher entsteht. Durch Destination des Borneokamphers mit wasserfreier Phosphorsaure geht ein\n    Kohlenwasserstoff, Borneen                    =\n                                     C 10 H 16 fiber, der bei 160° siedet, leichter als Wasser ist und\n                                                         '",
+      "normalized_text": null,
+      "zh_tw_rendering": "樟腦分子式 C10H16O，樟腦油 C10H16。可轉化為樟腦酸或松油烯。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 199,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 2637,
+        "char_end": 3471,
+        "page_text_sha256": "e712dac77505f2d6eace6af9ff2da3d3b608e07da546f45e6f15a3d88fe8f00c",
+        "exact_text_sha256": "26eb45ccb661e3cd79d1ca4472291f85d7b17e109ebc07965c13604f072791c9",
+        "source_line_start": 44,
+        "source_line_end": 54,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "26eb45ccb661e3cd79d1ca4472291f85d7b17e109ebc07965c13604f072791c9",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "The Taiwan accepted name is linked through a scientific alias printed in Köhler; Köhler facts remain attached to the book taxon.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "d2126f7f512d50acf4a47298ea062638ac61809247939e699e16aa9e6d5c8c22",
+    "maker_receipt_sha256": "91713f9c04770a0616fcea62734b8242b60836f9a9e09fe53de81c52521cc68a",
+    "validation_check_sha256": "d9090708618a3dd7de86354237eb44f5ee3c25b75627aeafe0da483539945469",
+    "source_disposition_sha256": "e023c623da0448fb774ffa408108dc5d88fb27e32c3cdd302203851f67dee108",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "91713f9c04770a0616fcea62734b8242b60836f9a9e09fe53de81c52521cc68a",
+      "validation_check_sha256": "d9090708618a3dd7de86354237eb44f5ee3c25b75627aeafe0da483539945469",
+      "source_disposition_sha256": "e023c623da0448fb774ffa408108dc5d88fb27e32c3cdd302203851f67dee108"
+    },
+    "naming_artifact_sha256": "a0b0bb6b2137d9f1d37e4addf58692e7bd54801fd082b67aa373b1b433115b15"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "d15cebb5cd5d8269c841f1b211474ddf58c13453fcc520bfbc4d9d5b2ebef321"
+}

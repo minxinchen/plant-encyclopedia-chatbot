@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-1:p0033-p0034",
+  "owner_shard": "S01",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S01/maker/structure-drafts/kohler-volume-1__p0033-p0034.json",
+  "source_draft_sha256": "9881e47da4d59ed2decde67aadde8be342c3d9f02845bf588f2fe7d0e5c3fcff",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "17387c89e2793e071c6bfa2d5587798e82e0b1d649c8f08b6f3a4cf45d33f7e8",
+    "validation_check_sha256": "ae69faf350c960517c1419e5ddd6c19c9a4b61fae828e1cac236bcdb595610f2",
+    "source_disposition_sha256": "a72d40c60412294b1fe05f09e8dca1f88000637fb7dc0120a2429dfead14a7f3",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Brassica Napus",
+    "authorship_candidate": null,
+    "aliases_candidates": [
+      "Brassica Napus biennis Rchb.",
+      "Winterraps",
+      "Rape",
+      "Colza"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Brassica Napus",
+      "Brassica napus"
+    ],
+    "accepted_scientific_name": "Brassica napus",
+    "display_name_zh_tw": "大油菜",
+    "alternative_names_zh_tw": [
+      "油菜籽",
+      "油麻菜籽",
+      "西洋油菜"
+    ],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0099439",
+    "rationale": "TaiCOL accepts the queried book binomial at species rank.",
+    "checked_at": "2026-08-13T13:40:53+08:00",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Brassica Napus",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Brassica+Napus",
+      "retrieved_at": "2026-08-13T13:40:53+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Brassica",
+          "matched_name_id": 825,
+          "taxon_id": "t0023319",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Brassica",
+          "accepted_name_id": 825,
+          "accepted_usage": [
+            {
+              "usage_id": 6567,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": null
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0023319",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0023319",
+          "taxon": {
+            "taxon_id": "t0023319",
+            "taxon_status": "accepted",
+            "name_id": 825,
+            "simple_name": "Brassica",
+            "name_author": "L.",
+            "rank": "Genus",
+            "common_name_c": "蕓苔屬",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": null,
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Brassica napus",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Brassica+napus",
+      "retrieved_at": "2026-08-13T13:40:53+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Brassica napus",
+          "matched_name_id": 121742,
+          "taxon_id": "t0099439",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Brassica napus",
+          "accepted_name_id": 121742,
+          "accepted_usage": [
+            {
+              "usage_id": 101580,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0099439",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0099439",
+          "taxon": {
+            "taxon_id": "t0099439",
+            "taxon_status": "accepted",
+            "name_id": 121742,
+            "simple_name": "Brassica napus",
+            "name_author": "L.",
+            "rank": "Species",
+            "common_name_c": "大油菜",
+            "alternative_name_c": "油菜籽,油麻菜籽,西洋油菜",
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

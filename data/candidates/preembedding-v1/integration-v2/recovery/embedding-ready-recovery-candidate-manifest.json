@@ -1,0 +1,1223 @@
+{
+  "schema_version": "2.0",
+  "pipeline_id": "preembedding-recovery-v2",
+  "source_receipt_sha256": "e27b5c32436a9ca1d5ed2a33ddbe82f28524158866bc2c90baa592b5c0aff15d",
+  "all_packages_deterministic_pass": true,
+  "candidate_count": 9,
+  "candidates": [
+    {
+      "schema_version": "2.0",
+      "entry_id": "kohler-volume-1:p0111-p0115",
+      "source_parent_entry_id": "kohler-volume-1:p0111-p0115",
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "book_taxon_candidate": "Verbascum thapsiforme",
+      "recovery_kind": "page_quality_with_terminal_no_text_exclusions",
+      "package_sha256": "d1155922c41578cba51fc2de4f8dafddc393c85da4e61ffa22143c4882df8aad",
+      "receipt_sha256": "9a9a2e916a025ab75b846928868606ff4f928ca1f8b014c1ddba8d7315b1f3ae",
+      "validation_check_sha256": "eea0ff06b1f433b6c63d37e38dab6f8797034e509c046364042f356a36f716a8",
+      "display_name": null,
+      "name_resolution": {
+        "status": "unresolved",
+        "sources": []
+      },
+      "review_status": "machine_extracted",
+      "sections": [
+        {
+          "section_type": "taxonomy",
+          "exact_source_quotes": [
+            "             Beschreibung.               A. Verb, thapsiforme Schrader.                   Die 2jahrige, spindelformige,            einfaclie   oder\nwenig    astige, befaserte Wurzel treibt einen               im zweiten Jahre auswachsenden, 0,30— 2,00 Meter hohen,\neinfachen oder wenig astigen,                 deutlich    5kantigen, durch quirlastige oder sternformige Haare dicht\nfilzigen Stengel, der        mit zerstreutstehenden, schwach gekerbten, runzeligen, beiderseits wollig- filzigen,\nunterseits    netzig-aderigen,           weisslich-griinen Blattern besetzt                  ist,       von denen    die oval-langlichen,       bis\nlanglich - lanzettlichen wurzelstandigen des ersten Jahres und die untersten des zweiten Jahres in einen\nStiel verschmalert,        hingegen        die allmahlig kiirzer       und verhaltnissmassig breiter werdenden, zugespitzten\nstengelstandigen Blatter sitzend und herablaufend sind.                               Bliithenstand endstandig, aufrecht, ahrenartig,\nvielbliithig bis 0,60 Meter lang. Diebiischelig                  zu3— 5, nach oben einzeln, aus den Winkeln der unterenund\nmittleren eilanzettlichen, zugespitzten Deckblatter hervorbreclienden filzigen Bltithen besitzeh einBluthen-\nstielchen,    welches kiirzer        als der Kelch ist.          Der 5 spaltige griine, in der Knospe dachige, aussen filzige,\ninn en kahle, bleibende, nach              dem Verbliihen noch weiter auswachsende Kelch mit breit- lanzettlichen,\nspitzen,     ungleichen     Zipfeln.       Blumenkrone nur einen Tag geoffnet, 2V 2 Ctm. und mehr im Durch-\nmesser, flach, radformig, hellgelb, selten weiss, aussen                        filzig,     kurzrohrig, mit 5 umgekehrt - eirunden, bis\nzur Mitte eingeschnittenen Lappen, von denen die beiden oberen kleiner und der untere mittlere grosser\nals   die Seitenlappen       sind.        Staubgefasse zu 5,         dem Grande               der Krone          angewachsen,      die 2 unteren\nlangeren fast kahl, die 3 oberen kiirzeren durch weissgelbe, einfache, keulenformige, spiralig hockerige\nHaare wollig; Faden der 2 langeren Staubgefasse                         l\n                                                                            1\n                                                                                ^ — 2mal so lang              als ihre Beutel.       Staubbeutel\nlanglich, mit       zusammenfliessenden         ,   durch gemeinsame Langsspalte sich oflfnenden Halften;                             die Beutel\nder 2 unteren Staubgefasse der Lange nach angewachsen, die der 3 oberen quergestellt.                                              Pollen safran-\ngelb, im trocknen Zustande langlich, 3furchig, 3nabelig, quergestreift, unter Wasser rundlich, 3porig.\nDer freie Stempel mit rundlichem, filzigem, 2facherigem Fruchtknoten, fadenformigem, am Ende etwas\nverdicktem, in die Hohe gebogenem, kahlem, nach                        dem Verbliihen noch langere Zeit bleibendem Griflfel\nund 2spaltiger, herablaufender Narbe.                   Der Fruchtknoten mit mittelstandigem, verdicktem Samentrager\nund sehr zahlreichen Eichen.                 Die    vom bleibenden Kelche umgebene Fruchtkapsel rundlich eiformig,\nsternhaarig, wandspaltig-2klappig,                  mit 2spaltigen Klappen.                   Die zahlreichen,            sehr kleinen,   braunen\n                                                                                                                     ft\n\n\n\n\nSam en undeutlich 4kantig,                beiderseits    gestutzt,    grubig vertieft,                  mit deutlichem Nabelstreifen.          Der\ngerade, in der Mitte des Eiweisses befindliche                       Embryo mit nach dem Nabel gerichtetem Wiirzelchen\nund planconvexen, ovalen Samenlappen."
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-1",
+              "volume": 1,
+              "pdf_page": 111,
+              "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+              "char_start": 618,
+              "char_end": 4416,
+              "source_line_start": 16,
+              "source_line_end": 51,
+              "page_text_sha256": "db17ab2e32ffee62816703fd70f0c24d2b878b7d5f5e109448799d181442fb2c",
+              "exact_text_sha256": "c59f78e3444de20604f2c514888addb7b34a8fe9d68dac9ef18fb89c4ff25d62",
+              "section_index": 0,
+              "section_type": "taxonomy"
+            }
+          ]
+        },
+        {
+          "section_type": "anatomy",
+          "exact_source_quotes": [
+            "         Anatomisches: Die Blumenkrone oder Corolle besteht aus einem Parenchym,                          das aus kleinen, rundlich-\n\neckigen Zellen zusanmiengeietzt isb und von diinnen Spiralgefassen durchzogen wird."
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-1",
+              "volume": 1,
+              "pdf_page": 112,
+              "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+              "char_start": 4457,
+              "char_end": 4674,
+              "source_line_start": 71,
+              "source_line_end": 73,
+              "page_text_sha256": "95b98c38c33776f7ea2e50fcc4b00499e69c74ba9f626020bbf55e601410aa20",
+              "exact_text_sha256": "512c077c7f031b8ad161a127f793879147ea78fe60e8e956db31624f738e0a06",
+              "section_index": 1,
+              "section_type": "anatomy"
+            }
+          ]
+        },
+        {
+          "section_type": "distribution",
+          "exact_source_quotes": [
+            "           Verbreitung                                                                                   Wesrerandern und Wald\nschlagen durcli Mitteleuropa und einen grossen Theil Sudeuropas verbreitet.                              V. phlomoides tritt nicht\n"
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-1",
+              "volume": 1,
+              "pdf_page": 112,
+              "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+              "char_start": 4676,
+              "char_end": 4934,
+              "source_line_start": 75,
+              "source_line_end": 77,
+              "page_text_sha256": "95b98c38c33776f7ea2e50fcc4b00499e69c74ba9f626020bbf55e601410aa20",
+              "exact_text_sha256": "28e534482c8ef139193b350e026cbecc8b74e3ce71d6697e5279c9f3773c6e24",
+              "section_index": 2,
+              "section_type": "distribution"
+            }
+          ]
+        },
+        {
+          "section_type": "historical_use",
+          "exact_source_quotes": [
+            "        Das Wollkraut, bei den Grriechen OXopog genannt, kommt schon in den hipokratischen Schriften\nvor,    man weiss jedoch nicht welche Art hierunter gemeint ist.                            Jedenfalls   war die Verwendung der\nWollkrauter keine hervorragende, denn Dioscorides und Plinius fuhren sie in ihren Schriften nur\nganz kurz an. Aus Thapsus und Verbascum wurde im Mittelalter Tapsus barbassus, Tassus barbassus\ngeformt  und Pietro de Crescenzi schreibt Taxus barbatus.     „ Circa instans\" enthalt Tapsus\n\nbarbatus, ebenso das Nordlinger Register von 1480 und das Inventar der Rathsapotheke zu Braun-\nschweig von 1522; die Taxe von Worms (1582) spricht von Flores Verbasci, Thapsi barbati, Wull-\nkrautblumen, Konigskertzblumen. Johann Christian Schroder, Stadtarzt zu Frankfurt a. M.\n(1600—1664) sagt. dass Blatter, Bliithen und Wurzel von Tapsus barbatus gebraucht werden,\naber selten."
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-1",
+              "volume": 1,
+              "pdf_page": 112,
+              "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+              "char_start": 6158,
+              "char_end": 7054,
+              "source_line_start": 94,
+              "source_line_end": 104,
+              "page_text_sha256": "95b98c38c33776f7ea2e50fcc4b00499e69c74ba9f626020bbf55e601410aa20",
+              "exact_text_sha256": "6d36c5bc4f42abaf9711d802ad37f30721a92e0bac8327e76a84c163ebca59ba",
+              "section_index": 3,
+              "section_type": "historical_use"
+            }
+          ]
+        },
+        {
+          "section_type": "constituents",
+          "exact_source_quotes": [
+            "            Bestandtheile.                     Die Blumen             enthalten   nach    Morin Spuren             eines    gelblichen          atherischen\nOeles,    eine grune, in Aether, Alkohol, fetten                            und fltichtigen Oelen leicht losliche, den                      fetten Sauren\nahnliche, fettige Substanz, freie Aepfel- und Phosphorsaure,                                   11% Zucker, Gummi, Chlorophyll, harz-\nahnlichen,      gelben,     schwach              bitter    schmeckenden Farbstoff,             essigsaures Kali            und andere Salze.             Bei\n100° getrocknete Blumen hinterlassen 4,8% Asche.                                        Das Kraut enthalt Schleim.               JSTach         Rossignon\nist   in der Pflanze viel salpetersaures                        Ammoniak enthalten."
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-1",
+              "volume": 1,
+              "pdf_page": 113,
+              "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+              "char_start": 1843,
+              "char_end": 2680,
+              "source_line_start": 31,
+              "source_line_end": 36,
+              "page_text_sha256": "b071f2ea3918ef3d9f315de04b07d6dbfa77e1a63afa1b9e6c96a3cbe0ac851f",
+              "exact_text_sha256": "eeb5697ee72c9925adafff01d7f733c886e448fe4ffe1a7895a00796d302965b",
+              "section_index": 4,
+              "section_type": "constituents"
+            }
+          ]
+        }
+      ],
+      "excluded_plate_section_count": 0,
+      "layout_or_plate_claims_approved": false,
+      "canonical_write_allowed": false,
+      "embedding_call_performed": false,
+      "candidate_sha256": "91b4d9a24e228b7d622072e7e75b1616cea441b396e46d8bf37b2ee7802d8ab0"
+    },
+    {
+      "schema_version": "2.0",
+      "entry_id": "kohler-volume-1:p0116-p0117",
+      "source_parent_entry_id": "kohler-volume-1:p0116-p0117",
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "book_taxon_candidate": "Sambucus nigra",
+      "recovery_kind": "page_quality_with_terminal_no_text_exclusions",
+      "package_sha256": "796c2e493f4b5d596da15e9dc3d813c52d8ec525ef83a5543b81bddee43e5950",
+      "receipt_sha256": "feca62536716b178c513316c22b94688d06a02bc62906cc99586a6d0bc4d9d74",
+      "validation_check_sha256": "65b4dc7b63c796d4136fc7bf28c85afd2122567c32679e7f8d4a4f04fe546f25",
+      "display_name": null,
+      "name_resolution": {
+        "status": "unresolved",
+        "sources": []
+      },
+      "review_status": "machine_extracted",
+      "sections": [
+        {
+          "section_type": "taxonomy",
+          "exact_source_quotes": [
+            "                                                Sambucus nigra L.\n\n      Holunder, schwarzer Hollunder, Holder, Flieder                                          Elder,            Bore Tree                   Sureau.\n\n\n            Familie:     Caprifoliaceae.         Gattung: Sambucus Tourn."
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-1",
+              "volume": 1,
+              "pdf_page": 116,
+              "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+              "char_start": 0,
+              "char_end": 290,
+              "source_line_start": 1,
+              "source_line_end": 6,
+              "page_text_sha256": "786b20d73392538debfa017181439764f084f7fb202196d0b1765027d641d235",
+              "exact_text_sha256": "4c81f17d947b57b8fd99df8d1129f3c5d471c6226af45d1a69d23521216e55a3",
+              "section_index": 0,
+              "section_type": "taxonomy"
+            }
+          ]
+        },
+        {
+          "section_type": "description",
+          "exact_source_quotes": [
+            "            Beschreibung.         3         9% Meter hoher, sehr astiger Strauch oder Baum mit astiger, aus-\ngebreiteter Wurzel,       rissigen    i\n                                           aussen   aschgrauen              alteren Aesten      und Stammen und graubraunlichen,\nreichlich    mit Korkwarzchen besetzten Zweigen.                            Die jungsten Zweige znerst griin, spater griingrau.\nAeste und Zweige mit weissem Marke                    erfullt.            Blatter gegenstandig, gestielt, meist unpaarig-2jochig-\ngefiedert, nebenblattlos oder             mit pfriemlichen, sehr hinfalligen Nebenblattern versehen, kahl oder unter-\nseits fein    behaart; Blattchen gestielt, eiformig oder langlich-eiformig, lang zugespitzt, ungleich scharf\ngesagt, etwas runzelig, oberseits dunkelgriin, glanzend, unterseits hellgriin, netzaderig, das endstandige\nlanggestielt,     am Grunde keilformig, die seitlichen kurzgestielt, am Grunde schief, die untersten kleiner.\nBlattspindel rinnenformig, gleich den Stielchen                          am Grunde cjuerfaltig. Doldenrispen gestielt, endstandig,\n10   — 14 Ctm.     breit, flach, zerstreut behaart, reichbllithig, aufrecht,                        nach der Bliithezeit hangend; Aeste\nerster   Ordnung zn 5       (4 Aeste        urn einen Mittelast gestellt),                 Aestchen 5           — 2, Endastchen gewohnlich\n3bliithig, mit einer mittleren sitzenden, friiher aufbliihenden                           und 2          seitlichen gestielten Bltithen.              Die\nzwitterigen Bltithen mit 1       — 3 kleinen, abfallenden Deckblattchen.                                    Kelch halboberstandig,             5zahnig,\nselten 4zahnig, mehrkantig, abstehend,                gegen die Fruchtreife angedriickt.                           Kelchzahne sturnpf-3eckig.\nKrone radformig, 5        — 4theilig, gelblichweiss                 ,    mit abstehenden,      mit den Kelchzahnen abwechselnden,\neiformigen, stumpfen Lappen               und sehr kurzer, ziemlich weiter Rohre,                           abfallend, stark riechend.          Frucht-\nknoten halbunterstandig,         3-       oder 2facherig, jedes Fach eineiig.\n                                                                Der aus dem Unterkelch gebildete,\nspater zur Frucht auswachsende Theil entwickelt aus seinem Rande den Kelch, die Krone, die Staub-\ngefasse und die 3 oder 2 Fruchtblatter  die mit einander verwachsend den oberen freien Theil des\n                                                      ,\n\n\n\nFruchtknotens und die 3knopfige,                 selten        2theilige, gelbe,          mit Papillen besetzte Narbe bilden.                         Der\nmittelstandige Samentrager mit 3 oder 2 hangenden Eichen.                                   Staubgefasse 5 oder 4 mit der Kronen-\nrohre verwachsen und mit den Lappen abwechselnd,                                    ausgebr eitet   ,       mit pfriemlichen Staubfaden und\novalen,     an beiden Enden ausgerandeten                 ,    uber clem Grunde des Rlickens angehefteten                               ,   2facherigen,\ngelben Beuteln.        Facher der Lange nach mit einem Spalte sich offnend.                                      Die kleinen gelben, stumpf-\neiformigen Pollen 3furchig, 3porig.                 Steinfriichtchen eiformig, bis fast kugelig, bis 6                                Mm. lang, meist\nschwarzviolett, glanzend, mit purpurrothem                      ,       sehr saftigem Fleische, von              dem Griffel und den kleinen\nanliegenden Kelchzahnen gekront,                mit 3         — 2 eiformigen, etwas zusammengedriickten                           ,    nach oben zu-\ngespitzten,     auf   dem Rticken gewolbten,                  auf der Bauchseite fast flachen, aussen griinlich-braunlichen,\nquerrunzeligen,       harten,   einsamigen Steinkernen.                      Die olreichen Samen hangend                 ,       von der Form des\nSteinkernes, mit diinner, weisslicher Samenhaut.                           Embryo gerade, in der Mitte des fleischigen Eiweisses,\nmit    walzenformigem Wiirzelchen               und       ovallanglichen        ,    blattartigen           Samenlappen.     '    Variirt     mehrfach\nund zwar:                                                                                               .\n\n\n\n"
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-1",
+              "volume": 1,
+              "pdf_page": 116,
+              "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+              "char_start": 291,
+              "char_end": 4656,
+              "source_line_start": 7,
+              "source_line_end": 48,
+              "page_text_sha256": "786b20d73392538debfa017181439764f084f7fb202196d0b1765027d641d235",
+              "exact_text_sha256": "65ac1bda0d4e05a569afb4d0674a032b9035d236a6e5ae1b873098cdbbca313a",
+              "section_index": 1,
+              "section_type": "description"
+            }
+          ]
+        },
+        {
+          "section_type": "anatomy",
+          "exact_source_quotes": [
+            "            Anatomisches:Die Borkenschuppen des Stammes und der alteren Aeste bestehen aus abgestorbenem, von\nPeridermschichten durchschnittenem Rindenparenchym. Die Rinde der jiingeren Aeste ist mit einer starken Korkla«-e\nbedeckt.    Die Mittelrinde besteht aus chloropliyllfiihrenclen Parenchymzellen                         die Innenrinde enthalt Bastbiindel.\n                                                                                                ;\n                                                                                                               Das\naus deutlichen Jahrringen bestehende Holz ist von Markstrahlen durchschnitten   die aus dickwandigem Prosenchym\n                                                                                                            ;\n\n\nzusammengesetzten Gefassbiinclel zeigen zwischen den Bundeln Tiipfelgefasse. Das Mark besteht aus einem\n                                                                                                         sclilaffen\nParenchym, welches nach dem ausseren Umfange hin Milchgefasse mit braunrothem Inhalte aufweist.\n                                                                                                  Die Kronblatter\nsind aus einem derbwandigen, polyedrischen Parenchym zusammengesetzt, welches von ziemlich\n                                                                                            starken Gefassbiindeln\ndurchzogen ist."
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-1",
+              "volume": 1,
+              "pdf_page": 116,
+              "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+              "char_start": 5004,
+              "char_end": 6456,
+              "source_line_start": 54,
+              "source_line_end": 69,
+              "page_text_sha256": "786b20d73392538debfa017181439764f084f7fb202196d0b1765027d641d235",
+              "exact_text_sha256": "6beaae7e86091a852332ba7254dbfd89cd89a9b6d363fb56b286cfb70d285e40",
+              "section_index": 2,
+              "section_type": "anatomy"
+            }
+          ]
+        }
+      ],
+      "excluded_plate_section_count": 0,
+      "layout_or_plate_claims_approved": false,
+      "canonical_write_allowed": false,
+      "embedding_call_performed": false,
+      "candidate_sha256": "752dc15ff2fff653f30bd7ea45bd6a2ed4e6f4d64c09573e50a4f78f2d82cb89"
+    },
+    {
+      "schema_version": "2.0",
+      "entry_id": "kohler-volume-1:p0121-p0125",
+      "source_parent_entry_id": "kohler-volume-1:p0121-p0125",
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "book_taxon_candidate": "Valeriana officinalis",
+      "recovery_kind": "page_quality_with_terminal_no_text_exclusions",
+      "package_sha256": "54b5d02693b3bdb587ce57896b64cc379091d1aa6c1f3c3bb96882fe071945f3",
+      "receipt_sha256": "d2d5975e7e5ffba5c5b1a204ec2975b88ba7f493365020d2229e7f673410362c",
+      "validation_check_sha256": "12fcb012d206de2e319450fd459ee1372660a4a6c522a0d2c42f13a6448cbe75",
+      "display_name": null,
+      "name_resolution": {
+        "status": "unresolved",
+        "sources": []
+      },
+      "review_status": "machine_extracted",
+      "sections": [
+        {
+          "section_type": "description",
+          "exact_source_quotes": [
+            "          Beschreibung.         Das 2   — 3 Ctm. lange, bis\n                                                          Ctm. dicke, aufrechte, dnrcli die dicht stehenden\n                                                                 1\nNarben abgestorbener Blatter undeutlich geringelte, im Innern meist etwas hohle Rhizom treibt rings-\n                                                                     —\nherum zahlreiche, diinne, stielrunde, 10 — 30 Ctm. lange, 2 4 und mehr Mm. dicke, hellbraunlich-gelbe,\nlangsrunzelige oder glatte, horizontal bis senkrecht im Boden liegende, mit mehr oder weniger zahl-\nreichen Wurzelasten besetzte Nebenwurzeln. Ausserdem entwickeln sich meistens aus den Achseln der\nabgestorbenen Blatter bis zu 30 Ctm. lange, dicht unter der Erdoberflache horizontal verlaufende Aus-\nlaufer, welche an ihren wurzelschlagenden Enden Laubblattersprossen treiben; auch bilden sich am\noberen Theile des Rhizoms sitzende Knospen, die sich, nebst den Laubblattersprossen nach dem Ab-\nsterben des Rhizoms als neue Pflanzenindividuen weiter entwickeln.          Stengel meist einzeln, einfach\noder astig, 0,30   —1,50 Meter hoch, stielrund, kantig gefurcht, hohl, kahl oder unterwarts behaart. Die\nkrautigen Blatter sammtlich unpaarig gefiedert, die grundstandigen sehr lang gestielt, 4               —\n                                                                                               lljochig, die\nstengelstandigen gegenstandig, ktirzer gestielt, nach oben zuletzt sitzend. Fiedern eiformig bis lanzett-\nlich, eingeschnitten gezahnt, nach oben fast lineal und ganzrandig, kahl, die untersten entferntstehend,\n die obersten mit dem unpaarigen zusammenfliessend.        Der rinnenformige Blattstiel am Grunde zottig.\n Bluthenstand doldenrispig, end- oder achselstandig, gestielt, mehr oder weniger dicht- und vielbluthig;\n Aeste wiederholt gabelspaltig. Die zwitterigen, hellrothlichen, ziemlich kleinen Bliithen von 2 gegen-\n standigen, lanzettformigen Deckblattchen unterstiitzt.    Kelch zur Bliithezeit sehr klein, meist schwach\n gezahnt, nach innen gerollt, nach dem Verbliihen sich allmahlig aufrollend, auswachsend und zuletzt\n eine lOstrahlige, gewimperte Federkrone (Pappus) bildend.        Krone trichterformig, ungleich 51appig,\n von fleischrother, bisweilen weisser Farbe, mit am Grunde nach unten bauchiger Rohre.             Von den   .\n\n\n\n\n langlich-eirunden Lappen sind die 3 unteren kiirzer als die beiden oberen.           Der langliche, unter-\n standige, aus dem Unterkelche gebildete lfacherige, leiige, griine Fruchtknoten ist von den zum Griffel\n und der 3spaltigen Narbe auswachsenden 3 Fruchtblattern bedeckt.            Die 3, der Kronenrohre auf-\n gewachsenen Staubgefasse besitzen diinne, iiber kronenlange Faden und fast 2knopfige, gelbe, auf dem\n Rucken angeheftete Staubbeutel, deren Facher der Lange nach: aufspringen. Pollen oval, 3furchig,\n unter Wasser rund, 3nabelig.       Die eilangliche, zusammengedriickte auf der einen Seite 3-, auf der\n                                                                                   ,\n\n\n\n andern lrippige, lsamige Achane mit lOstrahligem, federigem Pappus. Der eiweisslose Same hangend,\n das Fach vollstandig ausfiillend.    Embryo gerade, mit 2 planconvexen, langlich - o valen Samenlappen\n und nach oben gerichtetem Wurzelchen."
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-1",
+              "volume": 1,
+              "pdf_page": 121,
+              "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+              "char_start": 292,
+              "char_end": 3628,
+              "source_line_start": 12,
+              "source_line_end": 52,
+              "page_text_sha256": "f7e9265fbd02efec786cdf033740a63d3e938fbb88de93ff58f3f8beaf52ca48",
+              "exact_text_sha256": "e240762107c1988e7e5187cf6479a2c19765fb1562715a4be56570ea4bb03d4e",
+              "section_index": 0,
+              "section_type": "description"
+            }
+          ]
+        },
+        {
+          "section_type": "anatomy",
+          "exact_source_quotes": [
+            "           Anatomisches : Der hornartige, glanzende Querschnitt der Hauptwurzel zeigt eine schmale Rinde, die durch\n eine braune Cambialzone von dem, ein breites, sehr oft schwindendes Mark einschliessenden Holze getrennt ist. In\n den Nebenwurzeln ist die Rinde bedeutend starker als der von dunklem Cambium umsehlossene, von einer sehr engen\n Markrohre durchzogene Holzkorper.       Bast und Cambium bilden eine schmale Zone nicht scharf von einander ge-\n trennten Gewebes. Die braune Korksehicht besteht aus Zellen von mehr kubischer Form, das innere Rindengewebe aus\n rundlichen, in der Richtung der Achse etwas gestreckten, dickwandigen, spiralig gestreiften, nach beiden Seiten an Grosse\n abnehmenden Zellen. Das Cambium wird durch ein zartwandiges, in der Mitte farbloses, sonst braun gefarbtes\n Gewebe gebildet. Die Hauptgewebemasse des Rhizoms wie der Wurzeln besteht aus einem Parenchym, welches mit\n zahlreichen Starkekornern, Tropf'en atherischen Oeles oder rothlich braunen Harzklumpen und besonders in den starke-\n armen Gewebtheilen mit gerbstoffhaltigen braunen Kornern angefullt ist. Die schwachen, zu einem weitlaufigen\n                                              ,\n\n\n\n\n Kreise angeordneten helleren, unregelmassigen Gefassbundel zeigen Spiral- und nach aussen Tiipfelgefasse; letztere\n                       ,\n\n\n\n sind in den Wurzeln von ziemlicher Lange, im Wurzelstocke ktirzer und von wenig verdicktem Holzprosenchym\n umgeben."
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-1",
+              "volume": 1,
+              "pdf_page": 121,
+              "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+              "char_start": 4608,
+              "char_end": 6057,
+              "source_line_start": 65,
+              "source_line_end": 86,
+              "page_text_sha256": "f7e9265fbd02efec786cdf033740a63d3e938fbb88de93ff58f3f8beaf52ca48",
+              "exact_text_sha256": "cfbd1c79346341f601828598ce847dabe03da26d698a351061050a7a911495dc",
+              "section_index": 1,
+              "section_type": "anatomy"
+            }
+          ]
+        },
+        {
+          "section_type": "distribution",
+          "exact_source_quotes": [
+            "           Verbreitung.         Auf feuchten Wiesen, an Graben, Bachen, Waldrandern sowohl in den Niede-\nrungen als in den Bergregionen dnrch fast ganz Europa (mit Ansschluss der sudlichsten Gebiete) ver-\nbreitet, von Spanien bis zum Nordcap und Island, in der Krim, Kleinasien, Kaukasus, Siidsibirien, im"
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-1",
+              "volume": 1,
+              "pdf_page": 121,
+              "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+              "char_start": 6065,
+              "char_end": 6370,
+              "source_line_start": 92,
+              "source_line_end": 94,
+              "page_text_sha256": "f7e9265fbd02efec786cdf033740a63d3e938fbb88de93ff58f3f8beaf52ca48",
+              "exact_text_sha256": "03866c56689345582789abe71ecb7b1a670a483deb1a4f12847c20bfa7b85b55",
+              "section_index": 2,
+              "section_type": "distribution"
+            }
+          ]
+        },
+        {
+          "section_type": "historical_use",
+          "exact_source_quotes": [
+            "         Name und Geschichtliches.          Der Name Baldrian, althochdeutsch baldrian, denmarka,\nmittelhochdeutsch valdran, waldrion, tenemarg, bei Brunschwig, Bock nnd Fuchs Balderian,\nBaldrian, Baldrion, Denmarck, niederdeutsch Bolderian, Butterjahn, balderj an, bei Hildegard Bene-\nmarcha, bei Tabernaemontanus grosses Donnmarck ist nicht aus dem lateinischen Valeriana (etwa\nvon valere gesunden) hervorgegangen, sondern vielmehr das neulateinische Valeriana als die latinisirte\nForm des deutschen Wortes Baldrian zu betrachten. Die Herkunft des deutschen Wortes ist unsicher,\ndenn die namentlich auf die deutsche Bezeichnung Balder -Bracken            =\n                                                                    Balder-Busch gestutzte Ableitung\nvom nordischen Gotte Balder wird von Jac. Grimm verworfen. Ebenso ist die Ableitnng der Worte\ndenmarka, Denmarck, Denemarcha nnbekannt.\n        Der Name Qov oder Phu bei Dioscorides nnd Plinins bezog sich anf sudeuropaische\nValerianaceen und wurde erst spater auch auf V. officinalis ubertragen.    So aussert im Jahre 1000\nIsaac Judaeus: Fu, id est Valeriana etc., ebenso Constantinus Africanus (gestorben 1106).\nPlinius, dem unser Baldrian bekannt war, nennt ihn Nardus gallica.        Die salernitaner Schule ge-\nbrauchte neben der Bezeichnung Valeriana noch die Worte Amantilla und Phu. Sal a din aus Ascoli\n(um 1450) bezeichnet als die giinstigste Zeit zur Einsammlung der ^radices fu, id est Valerianae\" den\nMonat August. Matthaeus Silvaticus (zu Anfang des 14. Jahrhunderts) und Hildegard thun des\nBaldrian Erwahnung."
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-1",
+              "volume": 1,
+              "pdf_page": 122,
+              "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+              "char_start": 268,
+              "char_end": 1852,
+              "source_line_start": 5,
+              "source_line_end": 22,
+              "page_text_sha256": "c02aac0e7d6133477633997676554dc5f5965cde90663232ed0fef507e6ff9d3",
+              "exact_text_sha256": "ee51b1979030a9cdc1cef4484ada7b83f8878e3cdd22e6f5c5e3b49866b35142",
+              "section_index": 3,
+              "section_type": "historical_use"
+            }
+          ]
+        },
+        {
+          "section_type": "constituents",
+          "exact_source_quotes": [
+            "         Bestandtheile.       Die Baldrianwurzel enthalt nach Tromsdorf 0,4                          —\n                                                                                   0,8(1,2)% atherisches\nOel, eigenthumliche Saure (Baldriansaure), eisengrunende Grerbsaure, Weichharz, einen eigenthumlichen\nExtraktivstoff (Baldrianstoff), einen gelbfarbenden Extraktivstoff, Grummi, Starkemehl, apfelsaure\n                                                                                                      und\nandere Salze.\n         Das blassgelbe bis gelbbraune, im friscben Zustande bisweilen griinliche, dtinnflussige, mit der\nZeit dunkelbraune und dickflussig werdend Baldrianol (Valerian ol) riecht stark nach den\n                                                                                                 Wurzeln,\nschmeckt gewurzhaft brennend, reagirt stark sauer, besitzt ein spez. Gew. von 0,90—0,96, siedet\n                                                                                                       bei\n200° und lost sich in gleichem Gewichte Alkohol von 0,85 spez. Gewichte. Es besteht nach\n                                                                                               Gerhardt\naus einem Gemenge von einem Camphen mit Valerol und Valeriansaure.          Das Valerol, mit der Formel\nCpH 10 O bildet nach Gerhardt farblose, durchsichtige, neutral reagirende, schwach nach Heu riechende\nSaulen, die an der Luft schnell verharzen und unter Entwickelung von Kohlensaure\n                                                                                         Valeriansaure\nerzeugen.   Nach Pierlot ist das Valerol ein Gemenge von Valeriankampfer Harz und Wasser;        ,\n                                                                                                       das\nBaldrianol besteht nach letzterem aus 25 Theilen des Camphens Valeren, 5 Theilen\n                                                                                            Valeriansaure\n18 Theilen Valeriankampfer, 47 Theilen Harz und 5 Theilen Wasser.         Das Valeren ist ein farbloses'\nbei 160° siedendes, terpenthinartig riechendes Oel, welches nach Rochleder\n                                                                                  durch Salpetersaure in\ngewohnlichen Kampfer umgewandelt wird. Der aus weissen Krvstallen bestehende\n                                                                                     Baldriankampfer\n                                                                                     •\n\n\n\n\nbesitzt nach Pierlot die Formel C 12         H\n                                         20 0.   Nach Bruylants besteht das Baldrianol 1 aus einem\nbei 167° siedenden Kohlenwasserstoff Ci       16 Hwelcher mit Salzsaure eine krystallisirende\n                                                     ,\n                                                                                                              Verbindun g\n                                                                                                     Wurzel"
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-1",
+              "volume": 1,
+              "pdf_page": 122,
+              "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+              "char_start": 5010,
+              "char_end": 8097,
+              "source_line_start": 72,
+              "source_line_end": 108,
+              "page_text_sha256": "c02aac0e7d6133477633997676554dc5f5965cde90663232ed0fef507e6ff9d3",
+              "exact_text_sha256": "b9bb9c90c5957dfa5a08b4a9885ad58fed74309e95fcb9b715bda4e7008bdbd8",
+              "section_index": 4,
+              "section_type": "constituents"
+            }
+          ]
+        }
+      ],
+      "excluded_plate_section_count": 0,
+      "layout_or_plate_claims_approved": false,
+      "canonical_write_allowed": false,
+      "embedding_call_performed": false,
+      "candidate_sha256": "39ac82b356d91df996e4afd02f94d7a24ad0c6a3e853377b38abad9022c87e4d"
+    },
+    {
+      "schema_version": "2.0",
+      "entry_id": "kohler-volume-1:p0126-p0127",
+      "source_parent_entry_id": "kohler-volume-1:p0126-p0127",
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "book_taxon_candidate": "Artemisia Cina",
+      "recovery_kind": "page_quality_with_terminal_no_text_exclusions",
+      "package_sha256": "3a63e279a785200ea0b3901501f2ad9efc018675f1585de3a9410fffa80b9691",
+      "receipt_sha256": "6161e64fd41d95cd45055d54912a90bfc70993137dba4cbd6fb8fd832d36ba28",
+      "validation_check_sha256": "193d9bff7d616b8020305201faa3762f9f9edf80955229d3958ebad11c749367",
+      "display_name": null,
+      "name_resolution": {
+        "status": "unresolved",
+        "sources": []
+      },
+      "review_status": "machine_extracted",
+      "sections": [
+        {
+          "section_type": "taxonomy",
+          "exact_source_quotes": [
+            "        Familie: Compositae.          Grattung: Artemisia Lk."
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-1",
+              "volume": 1,
+              "pdf_page": 126,
+              "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+              "char_start": 233,
+              "char_end": 294,
+              "source_line_start": 7,
+              "source_line_end": 7,
+              "page_text_sha256": "988f0c2c8f631feb214796c57938c95b3329870e22394a33ee53d992235bcae6",
+              "exact_text_sha256": "9c60477d323cd0d3eb38b840dcca870d649895e190d24294a3385078427b28c3",
+              "section_index": 0,
+              "section_type": "taxonomy"
+            }
+          ]
+        },
+        {
+          "section_type": "description",
+          "exact_source_quotes": [
+            "        Beschreibung.          0,30 — 0,50 Meter holier, mehrstengeliger, reichbltithiger Halbstrauch mit\ndickem, gewundenem, faserigem Rhizom und in der unteren Halfte holzigen, gelbrindigen, erst behaarten,\ndann kahlen und glatten Stengeln. Letztere von der lialben Hohe an rispenartig verzweigt. Rispen-\naste dunn, unter spitzem Winkel anfstrebend.          Blatter zur Bluthezeit wenig hervortretend, fieder-\nschnittig; Abschnitte linealisch. Die unteren Blatter zur Bluthezeit abgestorben. Das unserer Abbildung\nzu Grunde gelegte Exemplar besass keinerlei Blatter als die in der Zeichnung sichtbaren. Luerssen\ngiebt von den Blattern folgendeBeschreibung: „Stengelblatter ziemlich nahe steliend, die unteren graugrun\nmit einzelnen spinnewebartigen Haaren besetzt, sonst vollig kahl, mit Einschluss des langen diinnen Stieles\n —\n4 6 Ctm. lang, im Umriss langlich, doppelt fiederschnittig, mit linealen, stumpfspitzigen, ziemlich langen,\n%—    V2^m   ' breiten, dicklichen Zipfeln mit umgerollten  Randern  und starkem Mittelnerven  mittlere und;\n\n\n\nobere Stengelblatter allmahlig kurzer gestielt bis sitzend, weniger getheilt bis einfach fiederschnittig,\ndann 3theilig und zuletzt in der Bliithenregion linealisch, letztere sehr stumpf und kurzer als ihre\nachselstandigen Kopfchen.      Blatter in den Achseln mit Biischeln von in der Jugend grauweiss - filzigen,\nzuletzt kahlen Blattern (Kurztrieben).\"      Bliithenkopfchen locker -ahrenformig geknauelt oder in ein-\nfacher Aehre, sitzend, aufrecht, langlich, gegen die Bluthezeit ca. 3 Mm. lang, aus ungefahr 12 locker-\nziegeldachig sich deckenden, concaven, stumpfen, breit trockenhautig umrandeten, grau- oder gelblich-\nbraunen, kahlen, glanzenden, mit griinem Mittelnerv ausgestatteten Hiillblattchen bestehend, von denen\ndie untersten ausseren eiformig elliptisch, die obersten inneren, ungefahr 3mal langeren lineal -langlich\nund sparlich wimperhaarig sind. Sammtliche Blattchen sind beiderseits auf dem Mittelstreifen mit\nvielen goldgelben Harzpapillen dicht besetzt.     Bliithen zwitterig, zu 3             —\n                                                                             6 in den Achseln der innersten\nHiillblatter, 1   —1,4 Mm. lang, kelchlos     mit verkehrt - eiformigem unterstandigem Fruchtknoten und\n                                                  ,                                ,\n\n\n\nrohriger, umgekehrt kegelformiger, unterhalb der Mitte etwas eingezogener, aussen mit kleineren Harz-\npapillen besetzter Krone, deren Saum aus 5 stumpf - 3 eckigen Zipfeln besteht.      Staubgefasse unterhalb\nder Mitte der Krone angeheffcet, mit langlichem, 2facherigem Staubbeutel, dessen lanzettliches Anhangsel\nan sammtlichen von uns untersuchten Exemplaren an der Spitze etwas umgebogen war. Pollen rund-\nlich.  Griffel fadenformig, mit glockig erweiterter, borstiger Narbe.      Die in der Fruchtbildung weiter\nentwickelten Bliithen tragen bei dem uns vorliegenden Exemplare sammtlich den Charakter der Fig. 12.\nFrucht noch nicht naher bekannt."
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-1",
+              "volume": 1,
+              "pdf_page": 126,
+              "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+              "char_start": 296,
+              "char_end": 3318,
+              "source_line_start": 9,
+              "source_line_end": 45,
+              "page_text_sha256": "988f0c2c8f631feb214796c57938c95b3329870e22394a33ee53d992235bcae6",
+              "exact_text_sha256": "dd0ad7b4d48eedfe8ae8804aa8dd61cee0f032a98e6e96c6cfa7cc9a1cfd9507",
+              "section_index": 1,
+              "section_type": "description"
+            }
+          ]
+        },
+        {
+          "section_type": "historical_use",
+          "exact_source_quotes": [
+            "         Als Stammpflanzen des offizinellen                 Wurmsamens wurden friiher angenommen:\n             1.   A. Vahliana Kostel. (A. Contra Vahl.) mit sitzenden, oval -stumpfen, 2 Mm. langen,\n                  3—  5bl(ithigen Bliithenkopfchen, deren eiformige Hiillblattchen schwach spinnwebig be-\n                  haart sind.   Vaterland Persien.\n                                         :\n\n\n\n\n            2.    A. pauciflora Stechm. (A. maritima L. var. Stechmanniana Besser, A. Lercheana Karel\n                  et Kiril, A. maritima var. panciflora Ledeb.) aufrechter, erst weissgraufilziger, spater fast\n                  kahler, pyramidalrispiger, durch die abstehenden Zweige straussformiger Halbstrauch mit\n                  kurzgestielten, doppelt fiederschnittigen Blattern. deren Abschnitte erster Ordnung faden-\n                  formig, kurz, gebiischelt sind.    Geschlossene Bliithenkorbchen langlich, die geoffneten\n                  becherformig, braun, 3 —  4 Mm. lang, mit dicht weichhaarigen Hiillblattchen, die in einer\n                                  —\n                  Anzahl von 12 18 angegeben werden; innere, linien-lanzettliche Hiillkelchschuppen mit\n                  orangerothen Harzdriisen.    Trichterformige Bliithenkrone roth.    In den Kirgisensteppen\n                  Turkestans heimisch bis zum unteren Wolga- und Don-Gebiet.\n            3.    A. Lercheana Stechm., mit aufsteigenden, astigen Stengeln, graufilzigen Blattern welche\n                  im unteren Theile der Pflanze doppelt -fiederschnittig und gestielt, im oberen einfach-\n                  fiederschnittig und sitzend sind; bliithenstandige ungetheilt. Die 6            —\n                                                                                        8bliithigen ahren-\n                  standigen Kopfchen mit dicht angedriickten, weniger concaven, stumpfen, glanzenden\n                                                                                                       fast\n                  kahlen, trockenhautigen Blattchen. Krone ziemlich lang-              und breitlappio-.   Ganze Pflanze\n                  mit Ausnahme der Kopfchen weissfilzig. In Sibirien.\n            4.    A. ramosa Sm.    Graufilziger, astiger Strauch mit kurzgestielten,         2— 3fach fiederschnittigen\n             Blattern und linealisch - fadenformigen, stumpfen Abschnitten erster Ordnuno*.\n                                                                                         &     Die lang-\n             lichen, langlich -rispenstandigen, 3bliithigen Kopfchen mit graubehaarten,\n                                                                                           zieo- e ldachi^\n             angedriickten Hullkelchen. Vaterland: Nordafrika und Canarische Inseln.          °"
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-1",
+              "volume": 1,
+              "pdf_page": 126,
+              "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+              "char_start": 3319,
+              "char_end": 6120,
+              "source_line_start": 46,
+              "source_line_end": 78,
+              "page_text_sha256": "988f0c2c8f631feb214796c57938c95b3329870e22394a33ee53d992235bcae6",
+              "exact_text_sha256": "63a77c9cd46dbdaed1e5572512619b8310b34a4c2ffdb93d192a5d1f4f5dd20d",
+              "section_index": 2,
+              "section_type": "historical_use"
+            }
+          ]
+        },
+        {
+          "section_type": "distribution",
+          "exact_source_quotes": [
+            "       Verbreitung, Turkestan."
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-1",
+              "volume": 1,
+              "pdf_page": 126,
+              "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+              "char_start": 6121,
+              "char_end": 6151,
+              "source_line_start": 79,
+              "source_line_end": 79,
+              "page_text_sha256": "988f0c2c8f631feb214796c57938c95b3329870e22394a33ee53d992235bcae6",
+              "exact_text_sha256": "6db9cb1ca70b599bde5b616001886eec83f44a52669fb17cc4fe1ee8147cf5bc",
+              "section_index": 3,
+              "section_type": "distribution"
+            }
+          ]
+        },
+        {
+          "section_type": "literature",
+          "exact_source_quotes": [
+            "zu Grunde gelegte Exemplar besass keinerlei Blatter als die in der Zeichnung sichtbaren. Luerssen\ngiebt von den Blattern folgendeBeschreibung: „Stengelblatter ziemlich nahe steliend, die unteren graugrun\nmit einzelnen spinnewebartigen Haaren besetzt, sonst vollig kahl, mit Einschluss des langen diinnen Stieles\n —"
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-1",
+              "volume": 1,
+              "pdf_page": 126,
+              "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+              "char_start": 813,
+              "char_end": 1127,
+              "source_line_start": 14,
+              "source_line_end": 17,
+              "page_text_sha256": "988f0c2c8f631feb214796c57938c95b3329870e22394a33ee53d992235bcae6",
+              "exact_text_sha256": "bcd7351ad3e027c99b80236d72e9223dbd717731e0f3c25e7e43d8f2171debcd",
+              "section_index": 4,
+              "section_type": "literature"
+            }
+          ]
+        }
+      ],
+      "excluded_plate_section_count": 0,
+      "layout_or_plate_claims_approved": false,
+      "canonical_write_allowed": false,
+      "embedding_call_performed": false,
+      "candidate_sha256": "053c29e9fa71a210f2c83727ce398df2e09b744279e09448d299b00b6800da50"
+    },
+    {
+      "schema_version": "2.0",
+      "entry_id": "kohler-volume-1:p0233-p0234",
+      "source_parent_entry_id": "kohler-volume-1:p0233-p0410",
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "book_taxon_candidate": "Hagenia abyssinica",
+      "recovery_kind": "terminal_body_boundary_split",
+      "package_sha256": "811141e6584cdc2b32ea13a46ee4805c731651255af7a4994133ca98e3bd7b66",
+      "receipt_sha256": "ddea006eed44d964e0a8ed884272a02b56b87c0713a35a5926578430de2ae3af",
+      "validation_check_sha256": "269b47e640d9bd11205237b7b67bbf63a1125f8abb8fbcb3609f4dbd2c7468eb",
+      "display_name": null,
+      "name_resolution": {
+        "status": "unresolved",
+        "sources": []
+      },
+      "review_status": "machine_extracted",
+      "sections": [
+        {
+          "section_type": "taxonomy",
+          "exact_source_quotes": [
+            "                                        Hagenia abyssinica Willd.\n                 Syn.      Bray era anthelminthica Kunth.                Bankesia abyssinica Bruce."
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-1",
+              "volume": 1,
+              "pdf_page": 233,
+              "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+              "char_start": 0,
+              "char_end": 165,
+              "source_line_start": 1,
+              "source_line_end": 2,
+              "page_text_sha256": "54567e5473c94e9fe8e6d5a591ba14f4f2dc784ca59998d820f141dd020d4f85",
+              "exact_text_sha256": "9bac4f9600e57d4b1b6b316c21bc04280263194d24986637e40c81dd8701c4c5",
+              "section_index": 0,
+              "section_type": "taxonomy"
+            }
+          ]
+        },
+        {
+          "section_type": "description",
+          "exact_source_quotes": [
+            "            Beschreibung.         Bis   20 Meter       holier   Baum mit (von den Narben der abgefallenen Blatter)\n „ ov\n geimgeiteii     Zweigen, die mit braungelben Haaren zottig besetzt sind.\n                                                                                 Blatter zerstrent und ziemlich\n dicht stehend       unpaang 4-7jochig unterbroclien gefiedert, bis 20 Ctm. lang, bis 14\n                                                                                                        Ctm. breit.\n .Blattcnen haufig abwechselnd, sitzend,\n                                             langlich oder langlich-lanzettlich, spitz, die seitlichen am Grunde\n stumpi, scinet bis fast herzformig, das\n                                               endstandige spitz, sammtlich scliarf gesagt, am Rande zottig\n gewmipert, aui beiden Seiten mit kleinen gelblicben\n                                                              Drusen besetzt und im Anfang beiderseits diclit\n benaart      spater oberseits fast kalil nnd fein runzelig, unterseits auf\n                                                                               den Nerven zottiff. Die kleinen\n ca 1 Ctim langen Zwisclienfiedern rundlich\n                                                   bis breit eiformig, ganzrandig oder kerbig gesagt.          Die\n breiten, hautigen, am Rande gewimperten,\n                                                   flugelartigen Nebenblatter in der ganzen Lange mit dem\n tf lattstiel oft bis znr untersten\n                                     Fieder verwachsen. Blutlienrispen achselstandig, bis melir als 30 Ctm.           .\n\n lang, 15 Ctm. dick, mit durchlauf ender bin- und\n                                               ,         bergebogener Spindel, die nebst den Zweigen zottig\n•behaart und mit Drusen diclit besetzt ist; die untersten Bltithenaste\n                                                                                werden von kleinen gefiederten\n Laubblattern, die oberen von allmahlig kleiner werdenden, einfachen, ellipsoidischen,\n                                                                                               bis ei- und nieren-\n forimgen Blattchen gestutzt. Die weibliche Bltithenrispe dicht gedrangt, die mannliche\n                                                                                                 locker. Bluthen\n kurz gestielt, 7—8 Mm. im Durchmesser, von 2 grossen, rundlichen, hautigen,\n                                                                                        netzaderigen Vorblattern\n gestutzt, die bei den mannlichen Bluthen eine grime, bei den weiblichen Bluthen\n                                                                                                eine purpurrothe\n Farbe besitzen.      Mannliche Bliithe mit kreiselformigem Unterkelch, aussen zottig behaart, durch\n emen hautigen, am Rande ungleichlappig-gesagten Ring am Schlunde verengert, mit doppeltem, 8- oder\n        ,\n\n\n lOblattrigem, netzaderigem, unterseits behaartem Kelche; ausserer Kelch mit kiirzeren und schmaleren\n Blattern.     Kronblatter 4—5, lanzettformig, zuruckgeschlagen.         Staubgefasse 15—25, mit rundlichen,\n an beiden Enden ausgerandeten, in der Mitte des Riickens angehefteten, der Lange nach aufspringenden\n Staubbeuteln. Pollen tetraedrisch, 3nabelig.        Stempel frei, verkiimmert. Weibliche Bluthen eben-\n falls mit doppeltem^ 8- oder lOblatterigem Kelch, Kelchlappen oval, hautig, netzaderig, die ausseren\n nach der Bliithe weiter auswachsend bis zur dreifachen Grosse der irmeren, erstere zuerst griinlich-\n roth, spater purpurfarben.      Kronblatter 4—5, von weisser Farbe, sonst gleich denen der mannlichen\n Bliithe.    Staubgefasse^ 10 — 20, mit kurzen Filamenten und sterilen Beuteln.         Stempel im Grunde des\n Unterkelches frei, ausj2, dann und wann auch 3 freien Samenblattern bestehend. Fruchtknoten oval-\n langlich, eiformig, mit hangender Samenknospe.          Griffel endstandig, behaart, spater nach aussen ge-\n bogen. Narbe fleischig, breit, fast spatelformig, stark warzig.         Frucht durch Fehlschlagen meist nur\n aus einem, von der bleibenden Griffelbasis kurz geschnabelten, eiformigen von dem Unterkelch ein-\n geschlossenen Niisschen bestehend.       Same ohne Endosperm; der gerade, fleischige Embryo mit dicken,\n planconvexen Samenlappen und sehr kurzem, nach oben gerichtetem Wiirzelchen."
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-1",
+              "volume": 1,
+              "pdf_page": 233,
+              "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+              "char_start": 441,
+              "char_end": 4842,
+              "source_line_start": 11,
+              "source_line_end": 62,
+              "page_text_sha256": "54567e5473c94e9fe8e6d5a591ba14f4f2dc784ca59998d820f141dd020d4f85",
+              "exact_text_sha256": "67fac6036a578d293ada21e9cf87a1626e55a36200cc0d72764b547e086f238c",
+              "section_index": 1,
+              "section_type": "description"
+            }
+          ]
+        },
+        {
+          "section_type": "distribution",
+          "exact_source_quotes": [
+            "            Vorkommen.    den Gebirgen Abyssiniens von 2500\n                               In                                               —\n                                                                3500 Meter Meeresliohe.  Nach\nFliickiger's Wahrnehmnng|auf der Pariser Ausstellung soil auch Koso auf Madagascar vorkommen."
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-1",
+              "volume": 1,
+              "pdf_page": 233,
+              "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+              "char_start": 4906,
+              "char_end": 5235,
+              "source_line_start": 64,
+              "source_line_end": 67,
+              "page_text_sha256": "54567e5473c94e9fe8e6d5a591ba14f4f2dc784ca59998d820f141dd020d4f85",
+              "exact_text_sha256": "f99f47103101489124f2f1d2f4e7747fca0602d10670fde058f3cd03962a4df7",
+              "section_index": 2,
+              "section_type": "distribution"
+            }
+          ]
+        },
+        {
+          "section_type": "historical_use",
+          "exact_source_quotes": [
+            "         In Abyssinien, woselbst^durch\" vielen Genuss rohen Fleisches der Bandwurm sehr haufig auftritt,\nbenutzt man Kusso (Koso) schon seit Jahrhunderten als wurmtreibendes Mittel.        Die friiheste Nach-\nricht'uber ein abyssinisches wurmtreibendes Mittel stammt nach Fliickiger von dem portugiesischen\nJesuit^Godinho (um 1600), der einer, mit wurmtreibenden Eigenschaften ausgestatteten Frucht in\n                                                        u\nseiner Schrift „De Abyssinorum rebus, Lyon 1615           Erwahnung thut, die wahrscheinlich als die\nFrucht des Kosobaumes zu betrachten ist. Die ersten zuverlassigen Nachrichten stammen von James\n                                                                                       —\nBruce, welcher auf seiner Forschungsreise nach den Nilquellen (1769 1771) in Abyssinien mit\nunserem Bandwurmmittel und seiner Abstammung bekannt wurde. Er nannte den Baum, von dem er\neine Beschreibung^und Abbildung gab, zu Ehren des Naturforschers Sir Joseph Banks (1743           1820)   —\nBanksia abyssinica.    Da jedoch dieser Name von Linne fil. bereits vergeben war, so bezeichnete\nWilldenow den Kosobaum zu Ehren des Konigsberger Professors und Apothekers K. G. Hagen\n(1749   —\n        1829) mit Hagenia.     Kunth erhielt von dem franzosischen Arzt Dr. Brayer aus Konstanti-\nnopel im Jahre 1809 Proben der Kosobliithen, die er fur etwas neues ansah und die Stammpflanze\ndieser Bluthen als Brayera anthelminthica beschrieb.      Spater (1837) stellte sich jedoch durch die\nUntersuchungen von Fresenius heraus, dass die Brayera Kunth's nichts anderes als die Hagenia\nWilldenow's sei. In Deutschland ist Koso seit 1834 bekannt und namentlich war es Hofrath Schubert,\nder von seiner orientalischen Reise (1837) grosser Proben dieser Droge zum Zwecke der Untersuchung\n\n\n\n                                                                                                                84"
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-1",
+              "volume": 1,
+              "pdf_page": 233,
+              "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+              "char_start": 5709,
+              "char_end": 7643,
+              "source_line_start": 78,
+              "source_line_end": 101,
+              "page_text_sha256": "54567e5473c94e9fe8e6d5a591ba14f4f2dc784ca59998d820f141dd020d4f85",
+              "exact_text_sha256": "7a7e39f1bde8883ad934dcc21477950f606e90a982e6afd1477d661e0903d742",
+              "section_index": 3,
+              "section_type": "historical_use"
+            }
+          ]
+        },
+        {
+          "section_type": "constituents",
+          "exact_source_quotes": [
+            "                   Bestandtheile.               Nach Witt stein          und geschmackloses Harz, fettes Oel,\n                                                                             bitter   kratzendes\n    Wachs, eisengriinenden Gerbstoff, Zucker, Gum mi. Das bitter kratzende Harz erhielt Saint Martin\n    in\\ weissen Krystallnadeln, die er Kosein nannte.       Nach Be da 11 ist noch atherisches Oel, Starkemehl,\n    Essigsaure, Baldriansaure, Oxalsaure und Borsaure in dem Kosso enthalten. Viale und Latini geben\n    noch eine besondere Saure: Hageniasdure als Bestandtheil der Bltithen an, die jedoch Fliickiger\n    nicht als reine Substanz ansieht. Bedall erhielt mittelst Alkohol und Kalk ein weissliches, krystallini-\n    sches, in Alkalien losliches, in weingeistiger Losung sauer reagirendes, jalapenartig riechendes Pulver,\n.   das er mit Koussin bezeichnete, welches Fliickiger zwar als ein wirksames Praparat, jedoch als ein\n    Gemenge bezeichnet, dem sich mit Httlfe von Eisessig Kosin entziehen lasst. Dem von E. Merck\n    dargestellten, gut krystallisirten Bestandtheil hat Fliickiger die Bezeichnung Kosin gegeben und.\n    hierfiir eine Form el von C\n                                  31 H 38 O o\n                                              festgestellt.  t\n                                                              Dieses Kosin   „bildet schwefelgelbe  Prismen  des\n    rhombischen Systems, die sich besonders in der Warme reichlich in Alkohol, Aether, Benzol, Chloro-\n    form, Schwefelkohlenstoff und niedrig siedendem Petroleum auflosen. Die schonsten Krystalle schiessen\n    in der Kalte aus concentrirter Schwefelsaare an, welche man bei nur 15° mit gepulvertem Kosin\n    sattigt.. Das Kosin ist ohne Reaktion auf Lackmus, schmilzt bei 142°; ist aber nicht flQchtig.            In\n    hoherer Temperatur zersetzt es sich und giebt Buttersaure nebst rothbraunem Theer. u           (Fliickiger.)\n    Aus emer rothen Schwefelsaureverbindung erhalt man mit Wasser neben Isobuttersaure purpurrothe,\n    nicht krystallisirbare, in Aether, Weingeist und wasserigen Alkalien losliche Flocken, die je nach der\n    Art der Gewinnung auf kaltem oder warmem Wege die Formel C 22 H 21 O j0 oder Co23 H22 O 10 besitzen.\n    Das Kosin aussert clieselbe Wirkung wie die Bliithen. Das nach der Husemann'schen Darstellungs-\n    weise erhaltene Kosin bildet ein weisses, haufig etwas ins Gelbe spielendes, schwach krystallinisch.es\n    Pulver ohne Geruch, von kratzend bitterem Geschmack und saurer Reaktion mit der Zusammensetzung\n    C 26 H44 5     Es schmilzt bei 194° lost sich wenig in Wasser, in 1300 Theilen kaltem 45° 0' in\n                      .\n                                                                 i\n\n\n    12 Theilen kaltem 90°''o Weingeist, in kochendem Weingeist und Aether.               (Husemann, Pflanzen-\n    stoffe    1013.)\n"
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-1",
+              "volume": 1,
+              "pdf_page": 234,
+              "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+              "char_start": 1412,
+              "char_end": 4283,
+              "source_line_start": 18,
+              "source_line_end": 51,
+              "page_text_sha256": "026fd0ede0305307df448ca65cfd658100d5c93d8f686b74bce6d2901513333f",
+              "exact_text_sha256": "105bd6643b3f5f9bec3adb5c443bdb16ff0f57caf4965c6f3ddbaa00905a52fd",
+              "section_index": 4,
+              "section_type": "constituents"
+            }
+          ]
+        }
+      ],
+      "excluded_plate_section_count": 0,
+      "layout_or_plate_claims_approved": false,
+      "canonical_write_allowed": false,
+      "embedding_call_performed": false,
+      "candidate_sha256": "7ce0e0939b71eb821de313c6bc0a23a63769fa64395357ac1d96b43b003482ff"
+    },
+    {
+      "schema_version": "2.0",
+      "entry_id": "kohler-volume-2:p0505-p0508",
+      "source_parent_entry_id": "kohler-volume-2:p0505-p0738",
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "book_taxon_candidate": "Strophanthus hispidus",
+      "recovery_kind": "terminal_body_boundary_split",
+      "package_sha256": "5b9283161b9712045bd4a65dbef4aada84b30c45f990c8bb54f116142fde24e8",
+      "receipt_sha256": "248fe7bb87ed82871e397f68d7d8dfa1ddfe96cb4c789bf3d16f8f101d8dabc2",
+      "validation_check_sha256": "c0883aef503fa2af277eb1b16839079eae1068b7d2cc16ba58b5f3c5ea9d149c",
+      "display_name": null,
+      "name_resolution": {
+        "status": "unresolved",
+        "sources": []
+      },
+      "review_status": "machine_extracted",
+      "sections": [
+        {
+          "section_type": "taxonomy",
+          "exact_source_quotes": [
+            "              Familie: Apocyneae (Apocynaceae),                                            nicht       Asclepiadeae;               Gruppe:              Echiteae;            Gattung:\nStrophanthus D. C."
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-2",
+              "volume": 2,
+              "pdf_page": 505,
+              "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+              "char_start": 215,
+              "char_end": 415,
+              "source_line_start": 3,
+              "source_line_end": 4,
+              "page_text_sha256": "98903ef87ba314ed9d55a876579eb52ad2592b757ec584985aa5a7a14f041da3",
+              "exact_text_sha256": "1b35c903545b1acb7c3592751f3de2452ee65c0998c774fe0f5885ce8a559b63",
+              "section_index": 0,
+              "section_type": "taxonomy"
+            }
+          ]
+        },
+        {
+          "section_type": "description",
+          "exact_source_quotes": [
+            "              Beschreibung. Die Gattung Strophanthus, welc\n                           st eh t     au s   .m  il ch  sa ft  fü  hr  en de  n      Sc  hl in  gs tr  äu  ch en  .       Di e     Bl ät  te r     si nd     ge  ge  ns tä  nd  ig  ,      di e\nheimisch ist,           be\n                                        he  ns  tä  nd e       gi pf el  st  än di g.        Ke  lc hz  ip fe  l     in ne  n     am       Gr un   de      mi t    Dr  üs en       be  se tz t.   |\nmeist geknäuelte           n     Bl  üt\n                                       am      Sc  hl un de       mi  t    10     un  ge th  ei lt  en     Sc  hü  pp  ch  en  ;     di  e   Zi  pf el     de s    Sa  um es        si  nd    in\nKrone trichterfó           rm ig ,\n                                          Sp  it ze     au sg  ez og  en  .       De  r     Fr  uc ht  kn  ot  en      ist    vo  n    5    Ne  kt  ar sc  hü  pp  ch  en       um  ge  be  n.\neine lange, bandar              ti ge\n                                   au s    ei ne r     sc hl  an ke  n,       vi el  sa  mi ge  n     Ba  lg ka  ps el  .     Di  e   Sa  me n,      we  lc he     zu    10  0—   20   0      in\nDie Frucht best            eh t\n                                        rl  än ge  rn     si ch    ob  en      in    ei ne n    la  ng  en    Sc  ha ft ,    de ss  en     ob er  er    Th ei l    fe de  rk ro  ne  na  rt  ig\neiner Frucht         st ec ke n,    ve\nmit langen, feimen Seidenhaaren besetzt ist."
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-2",
+              "volume": 2,
+              "pdf_page": 505,
+              "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+              "char_start": 609,
+              "char_end": 2081,
+              "source_line_start": 6,
+              "source_line_end": 19,
+              "page_text_sha256": "98903ef87ba314ed9d55a876579eb52ad2592b757ec584985aa5a7a14f041da3",
+              "exact_text_sha256": "7bf0820e156a9ada47d34e52954f687d3ec852c29e7b26ba2fc8c7c545e8c03e",
+              "section_index": 1,
+              "section_type": "description"
+            }
+          ]
+        },
+        {
+          "section_type": "distribution",
+          "exact_source_quotes": [
+            "                                                                       he  n     Pf la nz  e    is t    Se ne  ga mb  ie  n     un d     Gu  in ea .      Si  e    wu rd  e\n              Die Heimath dieser westafrika                      ni sc\n                                                                            Uf er n    de s    Ri o   Nu  ne z,      sp ät er   vo n    S m  i t h m a n      in   Si er ra\n zuerst von H       e n d e l o t    in  Se ne ga mb  ie n    an    de  n\n                                                                           e y    ge sa  mm  el te  n   S a m e n     st am mt  en    au  s   Ga  bu n    (1  °  n.   Br .) .\n Leone aufgef       un de n.     Di e   vo n  Gr  if fo n    de    B o l l"
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-2",
+              "volume": 2,
+              "pdf_page": 505,
+              "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+              "char_start": 6286,
+              "char_end": 7023,
+              "source_line_start": 54,
+              "source_line_end": 59,
+              "page_text_sha256": "98903ef87ba314ed9d55a876579eb52ad2592b757ec584985aa5a7a14f041da3",
+              "exact_text_sha256": "22f6cae8b37a35089b234bdea23a035d9c57a14feeab08031f9eb7ba6c06cd9e",
+              "section_index": 2,
+              "section_type": "distribution"
+            }
+          ]
+        },
+        {
+          "section_type": "constituents",
+          "exact_source_quotes": [
+            "          Bestandtheile, Die Untersuchungen haben an wirksamen Stoffen vorlüufig nur Strophanthin\n ergeben, jedoch Husemann wirft die Frage auf: „Ist nicht zu vermuthen, dass eine nähere Unter-\n suchung, ähnlich wie im Digitalis ein Digitoxin neben den weniger starken Glykosiden, ein Aconitoxin\n neben dem schwach giftigen Aconipikrin ausmittelt?* Helbing fand 24 0/7 fettes Oel von dunkelgrüner\n Farbe, schwach roth opalescirend, in Aether mit smaragdgrüner Farbe löslich.\n              Das    Strophanthin     von Hardy          und      Gallois,       welches    letztere    aus     den von    der Haarkrone\n befreiten,     westafrikanischen         Samen     erhielten,    bildet weisse,      glänzende,        neutral reagirende       Krystalle,\n löslich in Wasser und Alkohol,                   die nach den gemachten Versuchen                     sich weder alkaloidisch        noch\n glykosidisch erwiesen.\n              Das    Strophanthin     Fraser’s       ist ebenfalls ein krystallinischer Körper                ohne   Stickstoff, der beim\n Erhitzen mit verdünnter Schwefelsäure Glykose und einen in Wasser unlöslichen, in rektificirtem Wein-\n geist leicht löslichen, sehr bitteren Paarling,                 Fraser’s    Strophanthidin,       liefert.\n          Das von Gerard neuerdings aus ostafrikanischem Samen durch Tannin erhaltene Glykosid\n  hingegen ist amorph, blassgelb in wässerigen Lösungen, aufschäumend. Gleich dem krystallinischen\n  Körper löst sich das Gerard'sche Glykosid leicht in Wasser und Alkohol, hingegen nicht in Aether\n  und Chloroform. Concentrirte Schwefelsäure färbt nach Helbing grün, später dunkel rothbraun."
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-2",
+              "volume": 2,
+              "pdf_page": 507,
+              "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+              "char_start": 3295,
+              "char_end": 4946,
+              "source_line_start": 34,
+              "source_line_end": 49,
+              "page_text_sha256": "6822405babecd2cf6089261dc3380335aadf1a921f5c34f1ce1850fc01a79df7",
+              "exact_text_sha256": "1772b20ace0f2a93d73365f2fd4277264b626b67015e7750ceade92bb4e17089",
+              "section_index": 3,
+              "section_type": "constituents"
+            }
+          ]
+        },
+        {
+          "section_type": "historical_use",
+          "exact_source_quotes": [
+            "                                                                              Ti nk  tu r     be i    He rz le id  en       un d      Wa  ss er su  ch  t.         H u s  e m a  n n\n             Anwendung,                       In Form             ei ne r\n                                                                             h     zu   Di gi ta li s    fo lg en  de rm  as  se  n:      „D ie      gü  ns  ti ge     W i r k u n g ,\nüusser b    si ch   üb  er    di e   W i  r k u n  g     im    Ve rg  le ic\n                                                                                     er su  ch te  n    im   Ge fo  lg e    vo n    He  rz kr an  kh  ei  te n     äu ss er t,    h a t   .\nwelche     Di gi  ta li s   in   me  di  zi na  le  n    Ga  be n    be i    Wa  ss\n                                                           ät ig ke it                    des Herzmuskels                 wesentlich           verstärkt,          die Herzschläge\nihren Grund             da ri n, da ss di es el be di e Th\n                                                                                  En  er  gi e      fo rt  tr ei  bt .      M a n      ha t     di es e    W i r k u n g     de s    Fi ng  er -\nkräftige   r   ma  ch t   un  d    da s    Bl  ut     mi t    gr  ös  se re  r\n                                                                               et  ,     es    is t   ab  er       na  ch    de n     ne  ue st  en      un  d    ex  ak te st  en    Un  te  r-\nhu te s   ei ne   Ze it   la ng     al s   di e    ei nz ig e     be tr ac  ht\n                                                                                ac ht  en ,    da  ss    so   wo  hl     Di gi ta li  s    al s    di e    me is te  n   an  de  re n    so ge  -\nsuchungen         al s  v o l l k o m m e n     fe st ge st el lt     zu     er\n                                                                       e    Ge fä  ss e     be si tz  en  ,     in  so fe rn     si e   ei ne     \"V er  en  ge ru  ng     de  r    Ar te ri en\nnannten Herzgifte eine Wirkung                             au  f    di\n                                                                            ig er  we  is  e      de  r     ve  rs   tä rk te n     F o r t b e  w e g u n g    de  s    Bl  ut es    in    de  n\nherb  ei fü hr en .     Di es er     Ef  fe kt    le gt    no  th   we nd\n                                                                         de  n   W  e g     un  d     er     is t    au ch    im      St an de  ,     di e   ve  rm  eh rt e      Au ss ch ei  -\nGefässen ein bedeutendes Hinder                         ni ss      in\n                                                              el   pr od  uk  te n       ge ra  de  zu        zu      hi nt er tr ei  be n.         Da  ra  uf     be  ru ht      da s    Au s-\ndung von Wasser und Stoffw                             ec hs\n                                                                        s    Di gi ta  li s   na  ch       ei  ni  ge r   Ze  it    de r    Ve  ra  br  ei  ch  un  g    un  d    da s    Au f-   .\n bleiben der harntreibenden Wir                        k u n g      de\n                                                             un   g,      d.  h.   Ve  rg  if tu  ng   se  rs   ch  ei  nu ng  en       au ch     na  ch      lä ng  er em      Ge  br au  ch  e\ntreten der sogen. kumulativen Wi                         rk\n                                                                  Pr of .      T h  o m  a s         Fr  as   er        in     Ed  in   bu rg   h       ge  fu nd en       ha  be n,       da ss\n kleiner Gaben.               Nun          wi ll     ab  er\n                                                               r    Ar  te  ri en      im    Ge  ge   ns  at   ze      zu m     Di gi  ta li  n    in    ei  ne m     au ss  er or  de nt  li  ch\n Strophanthin. diese Verengerun                       g     de\n                                                                 al so     ni ch t    al le in     in     au  sg  ie  bi gs te r     Ma  ni er      di  ur et is ch     wi rk t,     so nd er  n\n geringen Grade hervorbringt,                          un d\n                                                           ht      we rd   en     ka  nn .“        F  r a s  e r      gi eb t   di  e   ge  fä  ss  ve  re ng  er nd  e   W  i r k u n g     de s\n auch längere Zeit hindurch ge                      re  ic\n                                                               k     an     wi e    di  ej en ig  e    de  s    St   ro ph an th  in  s.        „U  nt  er    di es  en    Um   st än  de  n,  “\nDigitalins mindestens 10fach so                          st ar\n                                                    in   St  ro  ph  an  th  us     un  d   St  ro  ph  an   th  in     Mi tt el    zu    be gr  üs  se n,     de ne  n   ei  ne   da ue  rn  de\nsagt Husemann, „h                 ab  en    wi  r\n                                                        im mt       is t        In     Be  zu g      au  f     di  e   Da  rr ei  ch  un  g      de s    Mi  tt el s     äu ss er t    H u s e -\nExistenz im Arzneisc              ha  tz  e     be  st\n                                                ei ne r    Ti nk   tu r      de  n    Vo  rz  ug      vo  r     de   m    St  ro ph   an th  in      gi eb  t:      „B  ei    de r    gr os se  n\nmann, welcher ebenfa                  ll s\n                                               sa  me  n     is t   es    du  rc ha  us      no  th  we  nd   ig  ,     da ss    ma   n      si ch      üb  er    ei  ne   gl  ei ch mä  ss ig  e\n Giftigkeit der Strophan               th  us\n                                           rs  tä nd ig t,      we  lc  he      al  le me  in       zu r     A n  w  e n d u n g      ko mm  t.         M  a n    da  rf   un  te r     ke in en\n Form der Anwendung ve\n                                         d  u n g     ve  rs ch  ie de  ne  r    Ex  tr ak  ti on  sm  it  te   l     od er    ve  rs  ch ie  de  ne r     M e n g e n     de  ss el be n    Ex -\n Umständen durc           h   A  n w e n\n                                                                                     Stärke       darstellen,          wodurch           die Möglichkeit               entsteht, dass\n traktionsmittels              Präparate von verschiedener\n                    un ge n   ei ne s  st är  ke re n  mi  t   ei  ne m    sc hw äc he re n    Au sz ug  e   Ve rg if  tu ng en   he rb  ei ge fü hr t  we  rd  en\n durch Verwechs  el\n                          in   is t  äu ss er st   gi ft ig ;   1,   2  Mg  r.   ge nü ge n,    um    ei  ne n   H u n d   zu   tö dt en .    Na ch    F  r a s e r\n können.“ Stroph    an th\n                            hi ge  n   Th ie re n    St az rh  ei t   de r   Mu sk el n,   so wi e L  ä h m u n g    de r  mo to ri sc he  n   un d   se ns ib le n\n erzeugt es bei warm bl üt\n                            at hi eu  s,      de r    Ba  uc  hg an gl  ie  n    un d    de r  gl at te n   Mu sk el fa  se rn    de s   Ma  ge ns ,   Da  rm es  ,\n Nerven, des Hals     sy mp\n Uterus        und der Blase."
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-2",
+              "volume": 2,
+              "pdf_page": 508,
+              "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+              "char_start": 1329,
+              "char_end": 8455,
+              "source_line_start": 12,
+              "source_line_end": 70,
+              "page_text_sha256": "538b686da2856675231e46576b8a45f529b1f81a00c82a7715c500911274f89b",
+              "exact_text_sha256": "019212d402d61e2119cc8676e4c825556b3937b525465d675e9dc1dedc5df355",
+              "section_index": 4,
+              "section_type": "historical_use"
+            }
+          ]
+        }
+      ],
+      "excluded_plate_section_count": 0,
+      "layout_or_plate_claims_approved": false,
+      "canonical_write_allowed": false,
+      "embedding_call_performed": false,
+      "candidate_sha256": "94368f92dd5676e8a339494734b3ae3406db0980eef8de26b665f13c3da1a486"
+    },
+    {
+      "schema_version": "2.0",
+      "entry_id": "kohler-volume-3:p0373-p0374",
+      "source_parent_entry_id": "kohler-volume-3:p0373-p0536",
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "book_taxon_candidate": "Juniperus Oxycedrus",
+      "recovery_kind": "terminal_body_boundary_split",
+      "package_sha256": "8efd955141dad73a8ec92f9e19e6a9a7753eae5d070afd2372bd40ab1734d112",
+      "receipt_sha256": "650b6d0e3157f0c1c9848511b48207e9a0b4817497b0f2d6d41c987ffc467422",
+      "validation_check_sha256": "5de842144b995beec9856498272873fbd97cdc6e1c35a158f1f0c0829a09a164",
+      "display_name": null,
+      "name_resolution": {
+        "status": "unresolved",
+        "sources": []
+      },
+      "review_status": "machine_extracted",
+      "sections": [
+        {
+          "section_type": "taxonomy",
+          "exact_source_quotes": [
+            "                                    Juniperus                   Oxycedrus                     L.\nCedern-Wachholder, spanische Ceder, Kadestrauch, Kranewett, Kaddigstrauch. Engl.: Cade.\nFranz.: Cade. Dän.: Enebaer. Norw.: Ener. Span.: Enebro, Miero. Ung.: Füstös-fenyö.\n        Dayanı: Des rufescens Link. Juniperus tenella Antoine. Oxycedrus Clus.\n        Familie:          Coniferaee      Unterfamilie:             Cupressineae.e         Gattung:     Juniperus    L.      Sekt.:\nOxycedrus Endl.                     |                                                                                                  |"
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-3",
+              "volume": 3,
+              "pdf_page": 373,
+              "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+              "char_start": 0,
+              "char_end": 616,
+              "source_line_start": 1,
+              "source_line_end": 6,
+              "page_text_sha256": "a8fa1321af9334aece099164d9f164d1956e6a2f735d779e1607f17faa0efa24",
+              "exact_text_sha256": "ee06981f3738a24f1fc5277b178e1396087b0c509defd2db05e68fe15b648e43",
+              "section_index": 0,
+              "section_type": "taxonomy"
+            }
+          ]
+        },
+        {
+          "section_type": "description",
+          "exact_source_quotes": [
+            "          Beschreibung.          Diese,        dem    gewöhnlichen Wachholder                 sehr ähnliche Pflanze ist ein\nStrauch    oder     kleiner Baum         von     4 bis     5 m Höhe.      Sein Stamm          ist bisweilen    bis 40 cm stark,\nsein Holz ist weiss und wohlriechend, seine Rinde rotbraun, dünn und glatt.                                      Die Äste (wie\nder Stamm) sind stielrund und ausgebreitet, die Zweige dagegen kurz, aufrecht oder ab-\nstehend, deutlich dreikantig, mit hervorragenden stumpfen Kanten. Die nadelförmigen Blätter\nstehen in gedrängten dreizähligen abstehenden Quirlen und laufen in eine hervorragende\nlange Stachelspitze aus.    Die grüne Oberseite ist von einem hervortretenden Mittelnerven\ndurchzogen und erscheint dadurch seicht zweifurchig; die Furchen selbst sind durch weisslich\nbraunen Reif deutlich sichtbar. Die Unterseite zeigt einen gerieften hervortretenden Kiel,\ndie Ränder sind stumpf, drüsenlos und grün, die Blätter im ganzen gewöhnlich 15 bis 20 mm\nlang und 1,5 bis 2 mm breit, seltener an sterilen Zweigen kürzer.     Der Strauch ist diözisch.\nDie männlichen Kätzchen sind beinahe sitzend und nahezu kuglig, 3 bis 4 mm lang und\nbreit, also nur etwa ein Drittel bis ein Fünftel so lang als die Stützblätter, unter sich aber\nziemlich gleich.  Die einzelnen Deckschuppen sind nahezu kreisförmig, am Rande zerrissen-\nzähnig; am Grunde tragen sie vier bis fünf kuglige, einfächerige Antheren mit rundlichen\nPollenkörnern. Die weiblichen Blüten stehen auf kleinen Kurztrieben in den Blattachseln\nund sind von drei bis sechs rundlichen Schuppen umgeben und von etwa zwei Blattwirteln\ngestützt.  Die Blättchen der letzteren sind aufrecht, mit kurzer scharfer Spitze, eiförmig oder\nbeinahe kreisrund.    Diese kleinen Kurztriebe stehen zu zwei bis drei oder einzeln in den                                                 .\nBlattachseln, sind breit eiförmig oder kuglig, stumpf dreikantig und nach der Spitze zu aus-\ngerandet. —        Die Blüten       enthalten        drei aufrechte Samenanlagen                 mit nach oben gerichteter\nMikropyle;        diese   verwachsen           mit   den   Stützblättern     zu beerenartigen          Zapfen,      welche    dann\nalso    einzeln    oder     zu wenigen          in den Blattachseln          erscheinen.         Diese Zapfenbeeren haben\nwechselnde        Grösse;    bald      sind    sie 6 bis     7 mm    lang und        etwa    5 bis 6 mm       breit oder     sie er-\nreichen 10 bis 12 mm, sind also etwa halb so lang als die Blätter.                                    Sie sind nahezu kuglig,\nrötlich oder rotbraun, glänzend, zeigen, wie die Wachholderbeeren, an der Spitze die Ver-\neinigungslinien der drei Hüllblätter, und unter der Spitze die kleinen dreieckigen Spitzenreste\ndieser drei Blätter.   An der Spitze sind die Früchte leicht bereift; sie enthalten einen bis\nzwei,    selten    drei tetraedrische,           gelbliche    Samen.       Der   Embryo        liegt aufrecht    in dem      reich-\nlichen Nährgewebe und hat mehrere Keimblätter. — Die fleischige Fruchthülle ist reich an\nätherischem Öl, welches sich, wie bei den Wachholderbeeren, in weiten Ölräumen vorfindet.\nEs verharzt sehr leicht und bildet bei älteren ausgetrockneten Beeren bernsteingelbe, den\nSamen     anhängende,        aromatisch         schmeckende         Harzkügelchen.\n"
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-3",
+              "volume": 3,
+              "pdf_page": 373,
+              "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+              "char_start": 617,
+              "char_end": 3985,
+              "source_line_start": 7,
+              "source_line_end": 40,
+              "page_text_sha256": "a8fa1321af9334aece099164d9f164d1956e6a2f735d779e1607f17faa0efa24",
+              "exact_text_sha256": "7cd5239892894d27c58f5ad4cda3ad27b2f9082ef540ae047390e83dba780dbd",
+              "section_index": 1,
+              "section_type": "description"
+            }
+          ]
+        },
+        {
+          "section_type": "distribution",
+          "exact_source_quotes": [
+            "        Vorkommen.     Der Strauch wächst an steinigen Abhängen Südeuropas, von Griechen-\nland bis zu den Pyrenäen und dem südlichen Frankreich, im nördlichen Afrika, auf Madeira,\nin Kleinasien und dem Orient.  Er steigt                       bis zur    Höhe       von    2000 m,    und    beginnt     schon   in\nder Region des Ölbaumes sich zu zeigen."
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-3",
+              "volume": 3,
+              "pdf_page": 373,
+              "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+              "char_start": 4010,
+              "char_end": 4362,
+              "source_line_start": 42,
+              "source_line_end": 45,
+              "page_text_sha256": "a8fa1321af9334aece099164d9f164d1956e6a2f735d779e1607f17faa0efa24",
+              "exact_text_sha256": "50b7788b8fe405f847ea284d7ca37ce6927f88c7a6fb3a209dcd162cd8a093f4",
+              "section_index": 2,
+              "section_type": "distribution"
+            }
+          ]
+        },
+        {
+          "section_type": "constituents",
+          "exact_source_quotes": [
+            "          Bestandteile. Die einzelnen Bestandteile des Öles sind noch wenig gekannt.  Durch\n Destillieren mit gespannten Wasserdämpfen       erhält man  daraus reichliche Mengen  eines\n Sesquiterpens C!5H®%, welches bei 274 bis 275° O. siedet.   Genauere Untersuchungen fehlen."
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-3",
+              "volume": 3,
+              "pdf_page": 374,
+              "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+              "char_start": 2129,
+              "char_end": 2406,
+              "source_line_start": 19,
+              "source_line_end": 21,
+              "page_text_sha256": "1858705b760e3dc385719c979f0f65ff227e0638a62a0e50882ebd9898f05057",
+              "exact_text_sha256": "483f5104b9bda2dadcc3702000eb419525401640f94119add3baf722eb0dfe2c",
+              "section_index": 3,
+              "section_type": "constituents"
+            }
+          ]
+        },
+        {
+          "section_type": "historical_use",
+          "exact_source_quotes": [
+            " =” Anwendung. Das Kadeöl ist seit langer Zeit ein Volksheilmittel; höchstens wurde\n cs früher in der Tierarzneikunde hin und wieder angewandt. Erst in neuerer Zeit hat man\n sich    mehr     mit    dem      Öl beschäftigt       und    hat es auch        beim      Menschen      versucht.        Man     benutzt\n es äusserlich als Einreibung bei chronischen Hautkrankheiten, bei Gicht und Rheumatismus\n in Form        von     Salben     oder    Seifen.     Innerlich      giebt man         es als Wurmmittel,            sowie     ebenfalls\n bei Behandlung           chronischer Hautausschläge                 in Dosen        von     zwei    bis fünf Tropfen,            dreimal\n täglich.       Man     hat es fast in alle Pharmakopöen                   von    Europa      aufgenommen."
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-3",
+              "volume": 3,
+              "pdf_page": 374,
+              "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+              "char_start": 2408,
+              "char_end": 3191,
+              "source_line_start": 23,
+              "source_line_end": 29,
+              "page_text_sha256": "1858705b760e3dc385719c979f0f65ff227e0638a62a0e50882ebd9898f05057",
+              "exact_text_sha256": "b7f372e534a5c75d8c0455f10971e8661cb42f576aa3a47c3ba8bbd432763941",
+              "section_index": 4,
+              "section_type": "historical_use"
+            }
+          ]
+        }
+      ],
+      "excluded_plate_section_count": 0,
+      "layout_or_plate_claims_approved": false,
+      "canonical_write_allowed": false,
+      "embedding_call_performed": false,
+      "candidate_sha256": "015bbb5bae5883da280a2bc975acbea793f3ee3db1866020017191f9d33f6629"
+    },
+    {
+      "schema_version": "2.0",
+      "entry_id": "kohler-volume-3:p0375-p0376",
+      "source_parent_entry_id": "kohler-volume-3:p0373-p0536",
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "book_taxon_candidate": "Convallaria majalis",
+      "recovery_kind": "terminal_body_boundary_split",
+      "package_sha256": "7db48a42d410d834530f7c8d7c847ebda579a5de012910f5c9f4c11a59ffb2d6",
+      "receipt_sha256": "01e8951957f0b66cf04a37462e2833185a39573fa36482a014b6607e27859a64",
+      "validation_check_sha256": "17bdcdf0d687ddc727e3231f49933a900750b5e59b8836be10738b676018959a",
+      "display_name": null,
+      "name_resolution": {
+        "status": "unresolved",
+        "sources": []
+      },
+      "review_status": "machine_extracted",
+      "sections": [
+        {
+          "section_type": "taxonomy",
+          "exact_source_quotes": [
+            "                                 Convallaria majalis L,\nMaiblümchen, Springauf, Thallilie, Maizauken, Niesekraut. Franz.: Muguet. Engl.: Lily\nof the valley. Holl.: Tweebladig dalkruit.     Dän.: Etblad.   Schwed.: Lilje konvalj. Poln.:\nLanka, Lanuszka,       Ung.: Gyöngy-virag. Ital.: il mughetto, giglio delle convalli. Port.:\n             Unifoglio, Campxenhas.     Span.: Lirio de los valles. Ar.: Sossan.\n         Syn.: Convallium majaleMönch. Lilium convallium Tournef. Polygonatum majale Allioni..\n         Familie. Ziliaceae Juss. Unterfam.: SmilaceaeR.Br. Gattung: Convallaria (Neck) Desf.."
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-3",
+              "volume": 3,
+              "pdf_page": 375,
+              "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+              "char_start": 0,
+              "char_end": 599,
+              "source_line_start": 1,
+              "source_line_end": 7,
+              "page_text_sha256": "26457816164cd9f2256518d2a6b5d3c3897ebe25f33e49965c45190f314c4ab1",
+              "exact_text_sha256": "0e6f9b04f4a931d9fd29f30e007769faad586e7f975efc70dd182a4627d242fe",
+              "section_index": 0,
+              "section_type": "taxonomy"
+            }
+          ]
+        },
+        {
+          "section_type": "description",
+          "exact_source_quotes": [
+            "         Beschreibung.     Die Maiblume ist eine monokotylische Staude mit unterirdischem\nkurzgliedrigen     vielfach     verzweigtem      Rhizom,   an   dessen   Knoten   mehrere   Nebenwurzeln\n‚entspringen.    Am Kopfe des Rhizoms,           nach   der Spitze zu,   sind die Internodien besonders.\nkurz, wodurch sich an dieser Stelle die Wurzelfasern büschelig drängen.        An den oberen.\nKnoten sitzen Niederblätter.   In der Achsel des zweitobersten Niederblattes entspringt ein\nSpross der sich erst im zweiten Jahre zu einem blühenden Stengel entwickelt.       Am Grunde:\nder oberirdischen Scheinachse nehmen       die Niederblätter an Grösse zu.    Zwischen ihnen\nentspringen zwei, seltener drei oval-lanzettliche Blätter mit hervorragenden Mittelnerven und.\nparallelen Längsnerven,         die sich   in der Spitze    des Blattes vereinigen.    Die Blattscheiden\nsind lang und bilden, sich gegenseitig umhüllend, eine Scheinachse.      Seitlich von ihnen, aber\nmit ihnen von den zahlreichen grossen schuppigen Niederblatthäuten umgeben, entwickelt\nsich der Blütenschaft, halbstielrund bis dreiseitig, blattlos, unbehaart, etwas nickend, an der\nSpitze die einseitwendige Traube der nickenden Blüten und schmale linealische, tro®ken-\nhäutige, hinfällige Deckblätter tragend.     Die Blütenhülle ist einfach, verwachsenblättrig,\nkuglig-glockig, weiss, selten rötlich, mit sechs nach aussen zurückgebogenen nahezu gleichen\nkurzen Zipfeln.    Staubgefässe zweimal drei, nahe dem Grunde der Kronenröhre angeheftet,\nkürzer als diese, mit kurzem dicken, oben verschmälerten Staubfaden, länglichen, aufrechten,\nam Grunde angehefteten, an der Spitze verschmälerten, dem Griffel genäherten Antheren;\ndie Fächer springen seitlich, nach innen zu gekehrt, in Spalten auf.        Der Fruchtknoten ist.\nsitzend, oberständig, kuglig-eiförmig, dreifächrig, der Staubweg dreiriefig, säulenförmig, mit\nkaum verbreiterter Narbe; jedes Fruchtknotenfach enthält mehrere Samenknospen (vier bis.\n acht). Die Blüten sind sehr wohlriechend. — Beim Reifen wächst der Fruchtknoten aus dem all-\n mählich vertrocknenden Perigon heraus, und bildet reif eine kugelige, rote, saftige Beere,\n welche   nicht selten am Grunde durch die trocknen Perigonfetzen noch gestützt wird.      Die\n Samen,   meist zu mehreren in einem Fach, sind rundlich-eiförmig, blassgelb; die Samenschale\n ist dieht anliegend, der Embryo etwa !/, oder !/, so gross, als das hornige Eiweiss."
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-3",
+              "volume": 3,
+              "pdf_page": 375,
+              "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+              "char_start": 600,
+              "char_end": 3041,
+              "source_line_start": 8,
+              "source_line_end": 33,
+              "page_text_sha256": "26457816164cd9f2256518d2a6b5d3c3897ebe25f33e49965c45190f314c4ab1",
+              "exact_text_sha256": "2a4e7e55865bec9b937f12247c6df38fc1972d9a4d5e05a599fed282d797d9b4",
+              "section_index": 1,
+              "section_type": "description"
+            }
+          ]
+        },
+        {
+          "section_type": "distribution",
+          "exact_source_quotes": [
+            "         Vorkommen und Verbreitung. Die Pflanze ist weitverbreitet in der nördlichen ge-\n mässigten Zone beider Hemisphären, fehlt aber in den Tropen. Sie liebt schattige Laub-\n wälder und Haine und bildet ein beliebtes Gartengewächs, welches durch künstlichen Antrieb.\n im Zimmer oder Warmhaus schon im Winter zur Blüte gebracht wird. Bei den alten Germanen\n war die Pflanze der Friedensgöttin Osiera geweiht."
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-3",
+              "volume": 3,
+              "pdf_page": 375,
+              "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+              "char_start": 3042,
+              "char_end": 3452,
+              "source_line_start": 34,
+              "source_line_end": 38,
+              "page_text_sha256": "26457816164cd9f2256518d2a6b5d3c3897ebe25f33e49965c45190f314c4ab1",
+              "exact_text_sha256": "1641a6a01b5296c500494ce435cb0de4c1bff54f6db5b3b102ca491f2bc5bcab",
+              "section_index": 2,
+              "section_type": "distribution"
+            }
+          ]
+        },
+        {
+          "section_type": "historical_use",
+          "exact_source_quotes": [
+            "       Anwendung. Marme fand, dass Convallarin abführend wirkt, während One in\nin hervorragender Weise die Heratiiiieken beeinflusste.   Das Convalların findet sich ins-\nbesondere in den Blüten, das Convallamarin dagegen mehr in Wurzeln und Stengeln.     Jeder\nTeil der Pflanze wirkt anders. Ältere Arzneibücher empfehlen nur den Gebrauch der Blüte,\nspätere die der Blüte und des Krautes und erst neuere Pharmakopöen haben sich der Wurzel\nzugewandt. Die Blüten dienten schon vor langer Zeit als niesenerregendes Mittel und als\nLaxans in Form einer starken Abkochung oder einer Latwerge aus- dem Pulver.           Die\n\"Wirkung auf die Herzthätigkeit erkannte man erst, als man Stengel und Rhizome mit den\nBlüten vereint anwandte.  Das Extractum Convallariae von See ist ein Extrakt aus der ganzen\nPflanze und diente auch Walz bei der Entdeckung der beiden Glycoside.       Man hat infolge-\n‚dessen die einzelnen Pflanzenteile gesondert zur Anwendung gebracht und wenngleich die-\nselben noch in den meisten neueren Pharmakopöen vertreten sind, so dürfte die medizinische\nAnwendung            sich wohl   auf das Fluidextrakt           der Drogen,      oder     die Glycoside,      besonders     das\nConvallamarin beschränken.              Die Wurzel         wirkt,     entgegen      der   Blüte,    brechenerregend         und\nharntreibend;         das daraus hergestellte Convallamarin dient als Stimulans bei Herzkrankheiten\nund Ödemen            und ebenfalls als Diuretikum.   In ersterer Beziehung soll es manche Vorzüge\nvor der Digitalis und ihren Präparaten haben. Man giebt es innerlich in Dosen von 0,05 bis\n0,06.8 sechs- bis achtmal täglich; zu Hauteinspritzungen benutzt man 0,005—0,02 g mehr-\nmals täglich; seine maximale Einzelgabe ist 0,06 g, die Tagesgabe 0,3 g. Bei Vergiftungs-\n erscheinungen wirken Brechmittel, Wein oder Kampfer, oder die Magenpumpe als Gegenmittel.\n— Das Convalların dagegen ist kein Herzgift; zur Erzeugung starken Abführens bei Konstipationen\n‘wurde 0,1—0,25 g gegeben.     Die letzteren Erfahrungen haben das Ansehender Drogen wieder\ngehoben, während dieselben bis zum achten Dezenium dieses Jahrhunderts als obsolet galten."
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-3",
+              "volume": 3,
+              "pdf_page": 376,
+              "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+              "char_start": 1042,
+              "char_end": 3204,
+              "source_line_start": 10,
+              "source_line_end": 32,
+              "page_text_sha256": "f8d030a75b209bc407b29c6773f4de6e8a839526c257da13700f114384aff320",
+              "exact_text_sha256": "8fd0d9905fa73d6df6850cd9773cfb8fcd698343457b680b1a557dd515596d9e",
+              "section_index": 3,
+              "section_type": "historical_use"
+            }
+          ]
+        }
+      ],
+      "excluded_plate_section_count": 0,
+      "layout_or_plate_claims_approved": false,
+      "canonical_write_allowed": false,
+      "embedding_call_performed": false,
+      "candidate_sha256": "cab082cabc0d8877e4d3ce9b22c1418ddaa36524789e20658aed0176770d3a8e"
+    },
+    {
+      "schema_version": "2.0",
+      "entry_id": "kohler-volume-4:p0066-p0069",
+      "source_parent_entry_id": "kohler-volume-4:p0066-p0090",
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "book_taxon_candidate": "Lupinus albus",
+      "recovery_kind": "terminal_body_boundary_split",
+      "package_sha256": "34cb84d65b417af51fc6ff76ffa0fc1d2b530857205899bb9567c6b0ac9aee8c",
+      "receipt_sha256": "30754a2b02be55d171ec3886d97a429b4899b498f258583fc3934adaec124cf5",
+      "validation_check_sha256": "61b3d4b42959a46ad8392fe68ab4a2eccc48fd85adecd351ca576a1c770c8167",
+      "display_name": null,
+      "name_resolution": {
+        "status": "unresolved",
+        "sources": []
+      },
+      "review_status": "machine_extracted",
+      "sections": [
+        {
+          "section_type": "taxonomy",
+          "exact_source_quotes": [
+            "           Familie: Leguminosae (Reihe: Rosales.)                          Unterfam.: Papilionatae.                   Tribus: Genisteae.\n    Gattung: Lupinus L."
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-4",
+              "volume": 4,
+              "pdf_page": 66,
+              "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+              "char_start": 195,
+              "char_end": 355,
+              "source_line_start": 4,
+              "source_line_end": 5,
+              "page_text_sha256": "be8fdcec960165d5acf3ec11dc6ab9140c3870bb4b576bc94bcb667492b20923",
+              "exact_text_sha256": "fcfbc088e9491732b2fd3e04be878cebda8bbf9936899bc6a00a290c1906a513",
+              "section_index": 0,
+              "section_type": "taxonomy"
+            }
+          ]
+        },
+        {
+          "section_type": "description",
+          "exact_source_quotes": [
+            "               Beschreibung Lupinus albus ist ein einjahriges Kraut. Aus der Wurzel\n                                  :\n\n\n    etwa einen halben bis ganzen Meter hohe, aufrechte, oben verzweigte Stengel, der mit anliegenden\n    seidigen   Haaren bedeckt ist.          Die ziemlich langgestielten Blatter sind fiinf-                     bis siebenfingerig.        Die\n    Blattchen sind bis 4 cm lang, bis 1 cm breit, langlich-verkehrt-eiformig, kurzgesielt, auf der Oberseite\n    kahl, auf der Unterseite weichhaarig. Der Stengel endet in dem traubigen Bliitenstand; dieser ist ziemlich\n    armbliitig   und tragt die kurzgestielten, ziemlich grofien Bliiten, die keine Deckblatter besitzen, in ab-\n    wechselnder, nicht quirliger Stellung.                 Der dicht seidenhaarige Kelch ist zweilippig.                   Die Oberlippe\n    ist   ungeteilt   und urn ein weniges kurzer als die dreizahnige Unterlippe. Die Blumenblatter sind kahl,\n    weiB, an den Spitzen blau oder blaulich.   Die zehn Staubgefafie sind zu einem Biindel verwachsen;\n    sie   umschliefien den mit pfriemformigem Griffel und kopfformiger Narbe versehenen Fruchtknoten,\n    aus     welchem     bei   der Reife     am Fruchtstand         aufrecht stehende,             bis 6     cm lange,    fast 1    cm breite,\n    linealische, geschnabelte, behaarte Friichte              hervorgehen     ;   die       Samen sind glatt, rundlich, etwas platt,\n    und weifilich von Farbe."
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-4",
+              "volume": 4,
+              "pdf_page": 66,
+              "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+              "char_start": 357,
+              "char_end": 1810,
+              "source_line_start": 7,
+              "source_line_end": 22,
+              "page_text_sha256": "be8fdcec960165d5acf3ec11dc6ab9140c3870bb4b576bc94bcb667492b20923",
+              "exact_text_sha256": "3de979fe033bc73f2a490804bf5b978969f6d61640dfe5a741b10f9983726339",
+              "section_index": 1,
+              "section_type": "description"
+            }
+          ]
+        },
+        {
+          "section_type": "anatomy",
+          "exact_source_quotes": [
+            "          Anatomie: Von Wichtigkeit sind die anatomischen Verhaltnisse des Sam ens. Die Samen-\nschale   besteht aus Epidermis, Hypoderm und parenchymatischen Schichten.   Die Epidermiszellen,\ndie   von einer warzigen Cuticula uberzogen                         sind,       sind palisadenartig,                stark verdickt und mit zahl-\nreichen Tiipfelkanalen versehen.\n                               Die Zellen des einschichtigen Hypoderms haben die Form hohler\nNahgarnspulen, und lassen daher groBe Interzellularen zwischen\n                                                               sich. Sie sind derbwandig. Das\nParenchym ist mehrschichtig, auBen groBzellig, stark tangential\n                                                                gestreckt, nach innen zu kleinerzellig\nund hier von GefaBbiindeln durchzogen. Endosperm\n                                                       ist nur sparlich vorhanden oder fehlt.     Cha-\nraktenstisch Bind die Zellen der Kotyledonen\n                                               des Keimlings.                                   Sie sind rundlich, haben kleine drei-\noder viereckige Interzellularen, besitzen eine\n                                                                     derbe        Wand mit auffallend groBen Tiipfeln, und                                        ent-\nhalten femkorniges Plasma               und Aleuronkorner, aber keine Starke."
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-4",
+              "volume": 4,
+              "pdf_page": 67,
+              "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+              "char_start": 6496,
+              "char_end": 7905,
+              "source_line_start": 110,
+              "source_line_end": 125,
+              "page_text_sha256": "72587b7582af60126ae26b2b38d3e1f491d40cebeaca75331f1e759091a057d4",
+              "exact_text_sha256": "3ccefd1e459d5a1a77c8263f93fe3ff53221a89134712f46a941af7e139ce870",
+              "section_index": 2,
+              "section_type": "anatomy"
+            }
+          ]
+        },
+        {
+          "section_type": "constituents",
+          "exact_source_quotes": [
+            "          Bestandteile         Die Samen wie auch das Kraut der Lupinen\n                             :\n                                                                        enthalten Alkaloide.\n          Ill   Lnpinns\n                lJUDlTlllS      albus\n                                fl.lhna wurde\n                                        ™-nr*rU           ~~~U^;i„_v    i\n                                                          rech tsdrehendos               ,       .   .     .    .   _   .         _              .   .\n\n\n                                                                                     und optisch inaktiycs                       (d-       und       i-)    Lupanin\ngefunden."
+          ],
+          "normalized_text_candidate": null,
+          "zh_tw_rendering_candidate": null,
+          "source_locators": [
+            {
+              "source_id": "kohler-volume-4",
+              "volume": 4,
+              "pdf_page": 67,
+              "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+              "char_start": 7907,
+              "char_end": 8611,
+              "source_line_start": 127,
+              "source_line_end": 138,
+              "page_text_sha256": "72587b7582af60126ae26b2b38d3e1f491d40cebeaca75331f1e759091a057d4",
+              "exact_text_sha256": "8c76d80b34fe3a491e7aec4df70c5cf8f7d70a036ecb278ec586dff55d6c2614",
+              "section_index": 3,
+              "section_type": "constituents"
+            }
+          ]
+        }
+      ],
+      "excluded_plate_section_count": 0,
+      "layout_or_plate_claims_approved": false,
+      "canonical_write_allowed": false,
+      "embedding_call_performed": false,
+      "candidate_sha256": "f4018ebf15fceb03054b541bbc2cca7b75a8485b87d910d0adb206dacef1024d"
+    }
+  ],
+  "canonical_write_allowed": false,
+  "chunk_write_allowed": false,
+  "index_write_allowed": false,
+  "embedding_calls_performed": false,
+  "manifest_sha256": "83e7a78adc64d147cdf5db64911e481e0c7ba74984691047edd75cf090fb18a4"
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 691,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "8b96d96b05cde66228e04fac83d810911d3012fe853bb4bdaf6f53aa09af9940",
+  "render_dpi": 144,
+  "render_sha256": "5e893de1db3756c9ac6ab224e200e18ccf6eca46cb523d58348be08629fcb6ad",
+  "input_sha256": "5e893de1db3756c9ac6ab224e200e18ccf6eca46cb523d58348be08629fcb6ad",
+  "render_pixel_width": 5870,
+  "render_pixel_height": 8414,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.864,
+  "embedded_character_count": 48,
+  "ocr_character_count": 50,
+  "ocr_alpha_ratio": 0.74,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.02104780409071183,
+      "text": "Caesalpiniaceae.",
+      "width": 0.16059579422224823,
+      "x": 0.8103271042254383,
+      "y": 0.9662202839711034
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "A",
+      "width": 0.01041666666666663,
+      "x": 0.6208333332552083,
+      "y": 0.33139534914040913
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "10",
+      "width": 0.018750000271122724,
+      "x": 0.8874999999859664,
+      "y": 0.1191860466028607
+    },
+    {
+      "confidence": 1,
+      "height": 0.027859748355925973,
+      "text": "Copaifera officinalis I.",
+      "width": 0.23579182248634056,
+      "x": 0.39356242405150454,
+      "y": 0.04130268399994841
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "171",
+      "width": 0.02499999945775444,
+      "x": 0.8708333335002895,
+      "y": 0.011627907195157161
+    }
+  ],
+  "text": "Caesalpiniaceae.\nA\n10\nCopaifera officinalis I.\n171",
+  "output_sha256": "16cfccc4ab7858071d4c1a00e352e65d17fadbf372f226bfd1052b33e1a6ba20",
+  "receipt_sha256": "0017279bac9feee6aa5727d21fe6eccada902b0cbc5b662d98c675867bc2f044"
+}

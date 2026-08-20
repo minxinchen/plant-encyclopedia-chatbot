@@ -1,0 +1,294 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-3-p0235-p0240",
+  "entry_id": "kohler-volume-3:p0235-p0240",
+  "owner_shard": "S07",
+  "book_taxon": {
+    "scientific_name": "Strychnos Ignatii",
+    "authorship": "Bergius",
+    "aliases": [
+      "Strychnos philippinensis Blanco",
+      "Zgnatia amara L. fil.",
+      "Ignatiana philippinica Loureiro",
+      "Ignatia amara"
+    ]
+  },
+  "display_name": "呂宋果",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Strychnos Ignatii",
+      "Strychnos ignatii"
+    ],
+    "accepted_scientific_name": "Strychnos ignatii",
+    "display_name_source_scope": "taiwan_government_public",
+    "taiwan_occurrence_status": "not_asserted",
+    "checked_at": "2026-08-13T13:00:56+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Strychnos+Ignatii",
+        "query_name": "Strychnos Ignatii",
+        "retrieved_at": "2026-08-13T13:00:07+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0024912",
+        "query_name": "Strychnos Ignatii",
+        "retrieved_at": "2026-08-13T13:00:07+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0024912",
+        "query_name": "Strychnos Ignatii",
+        "retrieved_at": "2026-08-13T13:00:07+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Strychnos+ignatii",
+        "query_name": "Strychnos ignatii",
+        "retrieved_at": "2026-08-13T13:00:07+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Strychnos+philippinensis",
+        "query_name": "Strychnos philippinensis",
+        "retrieved_at": "2026-08-13T13:00:11+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Zgnatia+amara",
+        "query_name": "Zgnatia amara",
+        "retrieved_at": "2026-08-13T13:00:11+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Ignatiana+philippinica",
+        "query_name": "Ignatiana philippinica",
+        "retrieved_at": "2026-08-13T13:00:11+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Ignatia+amara",
+        "query_name": "Ignatia amara",
+        "retrieved_at": "2026-08-13T13:00:11+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL and Tai2 have no exact species record, but Taiwan Forestry Research Institute public material explicitly pairs the exact scientific name Strychnos ignatii with the Traditional Chinese public name 呂宋果. No Taiwan occurrence is asserted."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 235,
+      "evidence_type": "text",
+      "page_text_sha256": "4c05211c816ec15c8577b7e119577e76fe9c2c33684da5f4b9b407777cfdc973",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 236,
+      "evidence_type": "text",
+      "page_text_sha256": "1cadedebed7b67ee618476b2e2da691a330c215603470cbf4fb3f300bca05b09",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 237,
+      "evidence_type": "text",
+      "page_text_sha256": "de60672b26362d663369a21f1b41153e71a87b2abfd260eac35d2d5428c626f5",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 238,
+      "evidence_type": "text",
+      "page_text_sha256": "0da0b7568f79f0794a0b82fd817c8afefb1cb84391dbaaa6067cf91cc07a5a85",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 239,
+      "evidence_type": "text",
+      "page_text_sha256": "09909a3253cac08f5f182b639e0a777c4533a86dee5ffc248fdb5d0aa7873119",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-3:p0235-p0240:s00:x00",
+      "section_type": "description",
+      "original_text": "         Beschreibung. Eine hochklimmende dornenlose Liane, welche mit blattgegenständigen,\neinfachen, hakig umgebogenen, seitlich zusammengedrückten, holzigen Ranken klettert und\ndie Spitzen sehr hoher Bäume erreicht. Der Stamm erlangt einen Durchmesser von 10 cm\nund    darüber;      seine    Rinde     ist glatt,     etwas   warzig      und    zartrissig,   von     rötlicher   Farbe.       Das\nHolz ist hell graugelblich, porös und sondert eine wässrige Flüssigkeit ab. Die Äste stehen\nsparrig vom Hauptstamme ab; die Zweige sind stielrund oder an der einen Seite kantig,\ndünn, mit ziemlich langen Internodien versehen, braun und kahl oder mit ockerfarbenem\nFilz bekleidet und mit vereinzelten Sternhaaren bestreut. Die Blätter sind gegenständig in\ndecussierten      Paaren,      einfach,    ungeteilt,    ganzrandig,       an     der Basis     etwas    spitz oder      etwas   ab-\ngestumpft bis ausgerandet, länglich elliptisch oder eiförmig-elliptisch, plötzlich in eine etwa\n1 cm lange Träufelspitze ausgezogen, 10 bis 25 cm lang, 5 bis 13 cm breit, häutig pergament-\nartig bis lederig,      oben     kahl     und   glänzend,      unten    heller,    drei- bis fünfnervig;         die Nerven ent-\nspringen in geringer Entferung über dem Grunde aus dem Mittelnerven und vereinigen sich.\nan der Spitze; oberseits sind sie etwas eingesenkt, unterseits deutlich hervortretend und durch\nein weitmaschiges Adernetz mit hervortretender zackiger Mittellinie verbunden. Der Blatt-\nstiel ist 1 cm lang oder noch kürzer, oberseits rinnig, unterseits konvex, gelblich filzig oder\n(wie bei unseren Blättern) kahl, durch eine Querlinie vom Stengel getrennt und im Verlauf\noft um      90° gedreht,      sodass     dann     die Blattfläche      in die Mediane        des Blattes    zu liegen kommt.",
+      "normalized_text": null,
+      "zh_tw_rendering": "無刺攀援藤本，以葉對生之鉤狀卷鬚攀爬，莖徑10公分以上，皮光滑帶疣。葉對生，橢圓形，長10-25公分，具尖頭，紙質至革質。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 235,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 653,
+        "char_end": 2442,
+        "page_text_sha256": "4c05211c816ec15c8577b7e119577e76fe9c2c33684da5f4b9b407777cfdc973",
+        "exact_text_sha256": "0cb90d49a5d270c5120529221e18cf3a5ecba3320f1c7bd192757ac6b7db56ca",
+        "source_line_start": 9,
+        "source_line_end": 26,
+        "section_index": 0,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "0cb90d49a5d270c5120529221e18cf3a5ecba3320f1c7bd192757ac6b7db56ca",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0235-p0240:s01:x00",
+      "section_type": "distribution",
+      "original_text": "            Vorkommen.               Das Vorkommen                  der Pflanze       ist ein sehr         beschränktes,         ihre Heimat\nklein und         umfasst     nur    wenige        Inseln     in der Gruppe           der Philippinen        und Visayas-Inseln.             Am\nhäufigsten findet sie sich in schattigen Küstenwäldern auf der Insel Samar (Vidal) nahe bei\nder Stadt         Catbalogan,        ferner       in Paranes,        im Bezirk        von    Loquilocon,     bei San         Juanico,    gegen-\nüber     der Insel          Leyte,     endlich        an     verschiedenen           Orten     der Ostküste         der Insel (D. Regius\nGarcia).      Unter den übrigen Inseln des Archipels fand man die Liane nur noch auf Masbate,\nim Bezirk Balena (Vidal), auf Cebu,                       Leyte und     Bojol vereinzelt.            Die Früchte werden von Calaos\n(Nashornvögeln,             Duceros        L.)    gesucht,        welche     das      saftige Fleisch       fressen,     die Samen          aber\nunverdaut         wieder      von    sich geben            oder    sie auf andere           Weise    verstreuen.",
+      "normalized_text": null,
+      "zh_tw_rendering": "分佈極限於菲律賓群島及維薩亞斯群島少數島嶼。常見於薩馬島陰涼海岸林，亦見於馬斯巴特、宿霧、雷伊泰及保和島。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 236,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 2993,
+        "char_end": 4133,
+        "page_text_sha256": "1cadedebed7b67ee618476b2e2da691a330c215603470cbf4fb3f300bca05b09",
+        "exact_text_sha256": "7227c35f740b710449303e6bed9dfc068f1a77519d27a7b791bda73234ff59c1",
+        "source_line_start": 29,
+        "source_line_end": 37,
+        "section_index": 1,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "7227c35f740b710449303e6bed9dfc068f1a77519d27a7b791bda73234ff59c1",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0235-p0240:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "           Anatomie.          Die etwa 25 mm                  starken Wurzeln                sind genau strahlig gebaut.                      In der\nRinde      findet sich der für die Loganiaceen-Rinden                            charakteristische             Sklerenchym-Mantel;                  das\nGefässbündelsystem             ist    sehr      stark        ausgebildet;        die Siebröhren           sind       zahlreich         und        haben\nschiefe Siebplatten;           die Gefässe            sind weitlumig. — In der Stammrinde                                  setzt sich der ge-\nschlossene        Sklerenchymring            fort,     mit dem         Unterschied           jedoch,    dass     derselbe        von     Phellogen\nund Korkschicht im Stamme durch ein parenchymatisches Gewebe getrennt                                                                ist, bei der\nWurzel dagegen der Korkschicht dicht anliegt. — Das Stamminnere bietet                                                               bei Strychnos\nIgnatii    ein     sehr    eigentümliches            Bild,     da in dem         grauen       Holze     der Bast in Form                rundlicher\nBündel     eingeschlossen        liegt. —       Uber         die Entstehung dieser Phlo&minseln ist man verschiedener",
+      "normalized_text": null,
+      "zh_tw_rendering": "根具放射狀結構，皮層含韌皮纖維鞘。木部內含孤立之韌皮島，呈圓形或新月形，由形成層週期性活動形成。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 237,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 3812,
+        "char_end": 5111,
+        "page_text_sha256": "de60672b26362d663369a21f1b41153e71a87b2abfd260eac35d2d5428c626f5",
+        "exact_text_sha256": "aeead8f3e43956a98905089426b519750ef37458d5a42f07d31d92e9a6cb9079",
+        "source_line_start": 38,
+        "source_line_end": 46,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "aeead8f3e43956a98905089426b519750ef37458d5a42f07d31d92e9a6cb9079",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0235-p0240:s03:x00",
+      "section_type": "constituents",
+      "original_text": "            Bestandteile.\n                       Die Rinde und das Holz von Strychnos Ignati\n                                                                   i Bergius wurden 1889 von\nFlückiger und seinen Mitarbeitern untersucht. In b\n                                                      eiden Teilen wurden, ebenso wie in den\nSamen die Alkaloide Stryehnin C#H”N?\n                                          °02 und Bruein C®H’®N?0% in wec\nMengen, an eine Gerbsäure, Igasursäure, gebunden v                                  h s e l n d e n\n                                                   orgefunden. Das Wurzelholz ist sehr arm\nan Alkaloiden; dieselben bestehen zum grösse\n                                               ren Teile aus Strychnin, zum kleineren aus\nBrucin;        die Rinde     enthält       weniger,        als 0,5%, Alkaloide            mit    vorwaltendem           Strychnin.      Im",
+      "normalized_text": null,
+      "zh_tw_rendering": "莖皮與木材含士的寧與馬錢子鹼，與伊加酸結合。根木鹼鹼含量極低，皮含少於0.5%鹼鹼，木材含約0.9%。",
+      "evidence_indexes": [
+        3
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 238,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 4545,
+        "char_end": 5450,
+        "page_text_sha256": "0da0b7568f79f0794a0b82fd817c8afefb1cb84391dbaaa6067cf91cc07a5a85",
+        "exact_text_sha256": "c24693f2977eea011651732b48288f9a8f4fa7bda049d0c5db25dff7a25a6d8c",
+        "source_line_start": 51,
+        "source_line_end": 62,
+        "section_index": 3,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "c24693f2977eea011651732b48288f9a8f4fa7bda049d0c5db25dff7a25a6d8c",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0235-p0240:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "        Anwendung. Die Samen wirken drastisch, erregen Schwindel, Erbrechen und starkes\nAbführen und töten in grösseren Mengen; sie dienen als fiebervertreibendes und magen-\nstärkendes Mittel; man wendet sie in dreimal kleinerer Dosis an, als die Semina Strychni.\nWenn sie in genügender Menge eingeführt werden, bilden sie ein schätzbares Material für\ndie Reindarstellung des Strychnins.",
+      "normalized_text": null,
+      "zh_tw_rendering": "種子具劇毒，歷史上用作強效瀉藥、退熱及健胃劑，劑量為馬錢子之三分之一。大劑量可致死。",
+      "evidence_indexes": [
+        4
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 239,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 547,
+        "char_end": 934,
+        "page_text_sha256": "09909a3253cac08f5f182b639e0a777c4533a86dee5ffc248fdb5d0aa7873119",
+        "exact_text_sha256": "07f1713f9bbc39b8661c0d45e90d90d61b754b1d5003a9b47449a9c299c317ca",
+        "source_line_start": 8,
+        "source_line_end": 12,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "07f1713f9bbc39b8661c0d45e90d90d61b754b1d5003a9b47449a9c299c317ca",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "The external source is used only for the Taiwan public name; its chemical and toxicity claims are not imported into this naming artifact.",
+    "No Taiwan occurrence claim was established.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "a9c8ad2a76d5736b5bbcc9c24fd35d98b8563011e8590a52d272b6b6c85f378e",
+    "maker_receipt_sha256": "745560d311bad86c0d45d4d0492a7fe9768af0c1123b0b5bd114320bc346ecd5",
+    "validation_check_sha256": "dd9a8e9f9ee7771128b4b07d062b8157b6ff930125dcd1bafa490e169f1a86e0",
+    "source_disposition_sha256": "a5402c401dce702470e3d74c8d62f6a9d54bb4a1ee6eb9c6ecc070f57791b06b",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "745560d311bad86c0d45d4d0492a7fe9768af0c1123b0b5bd114320bc346ecd5",
+      "validation_check_sha256": "dd9a8e9f9ee7771128b4b07d062b8157b6ff930125dcd1bafa490e169f1a86e0",
+      "source_disposition_sha256": "a5402c401dce702470e3d74c8d62f6a9d54bb4a1ee6eb9c6ecc070f57791b06b"
+    },
+    "naming_artifact_sha256": "59fc13057984f85b7a09f1ff451abdb8c84cb77069bef3a74d263112c4cd04e1"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "ea43c5aeac2136e3f6a8017cd57af4805bffc8d0ed24693014929837d28a7966"
+}

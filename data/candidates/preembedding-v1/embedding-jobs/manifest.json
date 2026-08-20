@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-08-20T23:09:21+08:00",
+  "chunk_manifest_sha256": "fe986bd78b6ead9d25b639e8ae6b2b643d0e312df209292d0330827fee7e0ede",
+  "job_count": 1608,
+  "profile_id": "section-aware-512-100-v1",
+  "provider": "google-gemini",
+  "model": "gemini-embedding-2",
+  "dimensions": 768,
+  "vector_space_id": "gemini-embedding-2__768__qa-prefix-v1",
+  "status": "planned_no_external_calls",
+  "external_calls": 0,
+  "incremental_usd": 0,
+  "portable_paths": true,
+  "manifest_sha256": "5d40e00114219072ed1ad0f200df06a41b9696a999438830d0499ab5245caaed"
+}

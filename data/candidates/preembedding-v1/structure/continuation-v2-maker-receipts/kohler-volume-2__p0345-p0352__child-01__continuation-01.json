@@ -1,0 +1,148 @@
+{
+  "schema_version": "2.0",
+  "package_id": "kohler-volume-2:p0345-p0352:child-01:continuation-01",
+  "parent_entry_id": "kohler-volume-2:p0345-p0352",
+  "child_entry_id": "kohler-volume-2:p0345-p0352:child-01",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation-v2:kohler-volume-2:p0345-p0352:child-01:continuation-01:v1",
+  "owner_shard": "S04",
+  "package_sha256": "b0ebd262cd40827d5b297653d23e04c9950c247dee842326a75c41c6a4cf80fe",
+  "model": "deterministic-local-repair-no-model-call",
+  "prompt_version": "plant-structure-line-coordinates-v2",
+  "attempt_sha256": "926b5d2489cba600c1b97e7ab1597472ea69b1d82e92f27d0e7c9d6f5b35dfd7",
+  "raw_response_sha256": "053de24b0cb59163685aa474ed760ebb8b9f633dcfbe62de1487e658d9425338",
+  "elapsed_seconds": 0.0,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 345,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 223,
+      "char_end": 1946,
+      "source_line_start": 8,
+      "source_line_end": 24,
+      "page_text_sha256": "64d974ac8fde392e9473bb4635734899a1d11ddc22430aa6647452c8483a02db",
+      "exact_text_sha256": "a88fc3c4bbabdba9381ac6bd2634afb61d50eeb7351f64d5ca495acf1a859f96",
+      "section_index": 0,
+      "section_type": "description"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 347,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 3392,
+      "char_end": 4852,
+      "source_line_start": 37,
+      "source_line_end": 48,
+      "page_text_sha256": "ef8dddc18de32e0e861faa712c821dee48b2825eb6b8945944305c7bcbcb3e1c",
+      "exact_text_sha256": "b4882eb6131cb1eb1fe82ea5eec455c36704e1cc0dab560fda31b8fcc8427d32",
+      "section_index": 1,
+      "section_type": "distribution"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 347,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 4854,
+      "char_end": 5829,
+      "source_line_start": 50,
+      "source_line_end": 60,
+      "page_text_sha256": "ef8dddc18de32e0e861faa712c821dee48b2825eb6b8945944305c7bcbcb3e1c",
+      "exact_text_sha256": "a3662b3265c7a5cf0d97dcfcbc24c06224c15d6732cc95408ca6ebc4f24a76b1",
+      "section_index": 2,
+      "section_type": "historical_use"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 350,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 1078,
+      "char_end": 3981,
+      "source_line_start": 16,
+      "source_line_end": 45,
+      "page_text_sha256": "3cc22d7182002fb8e467254f54f69f88c8ba52c924d247c4c42cd03adeb54367",
+      "exact_text_sha256": "2db70052a33ccd579cfd8762b741c3cd2904fad944a129933d3b3555e83ddc52",
+      "section_index": 3,
+      "section_type": "constituents"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-2:p0345-p0352:child-01:continuation-01",
+    "parent_entry_id": "kohler-volume-2:p0345-p0352",
+    "book_taxon": {
+      "scientific_name_candidate": "Theobroma Caeao"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "description",
+        "pdf_page": 345,
+        "source_line_range": [
+          8,
+          24
+        ],
+        "exact_source_quote": "         Beschreibung. Ein Baum von 4 bis über 12 Meter Hihe (in der Kultur 8—10 Meter\nhoch), mit 25 Ctm. dickem, gebogenem, knorrigem Stamme und, in Folge der fast horizontal abstehen-\nden Aeste,     mit ausgebreiteter,     reich-     und   dunkelbelaubter    Krone.   Rinde     dick,   dunkel-zimmtbraun.\nHolz bräunlich, porós und leicht; junge Zweige bräunlich, weichhaarig. Blätter abwechselnd, kurz\ngestielt, 20 bis 30 Ctm. lang, 7 bis 10 Ctm. breit (sogar !/, Meter lang und bis 18 Ctm. breit),\neilänglich, lünglich oder verkehrt eilinglich, zugespitzt, gegen die Basis fast keilfórmig verschmälert,\nabgerundet oder stumpf, oder schwach herzfórmig ausgerandet, mehr oder weniger deutlich schief,\nganzrandig, der Rand bisweilen wellig, fiedernervig, beiderseits kahl oder oberseits auf der Mittelrippe,\nunterseits auf den Nerven und Adern weich sternhaarig; junge Blätter rosenroth. Nebenblätter lineal\npfriemlich, abfallend. Blüthen büschelig, bisweilen vereinzelt, aus dem Stamme und den Aesten, und\nzwar aus den Achseln längst abgefallener Blätter, auch aus Wurzeltrieben, welche über der Erde\nliegen, hervorbrechend; aus der Mitte des Blüthenbüschels oft ein Zweig sprossend. Nur wenige Blüthen\ngelangen zur Fruchtbildung. Blüthenknospen eilänglich spitz. Blüthen gestielt, nebst dem Stiele kahl\noder meist fein sternförmig und drüsig behaart. Blüthenstiele einblüthig, fadenförmig, unterhalb der\nMitte mit 2 kleinen, gegenständigen Deckblättchen. Kelch rosenroth, bleibend, bis fast zum Grunde\n5theilig,    mit   länglich-lanzettlichen,      abstehenden,   später   zurückgeschlagenen,     am    Rande   gewimperten\nAbschnitten. Kronenblätter 5, etwas länger als der Kelch, am Grunde aufrecht, kapuzenfórmig, dann"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 347,
+        "source_line_range": [
+          37,
+          48
+        ],
+        "exact_source_quote": "          Vorkommen. Der Kakaobaum ist in geschützten Lagen, namentlich an den Flussufern des\n tropischen Amerika einheimisch, bis zu Meer eshö hen von 360 Mete rn. Er wird gege nwär tig in sein er\n Heimath, im   trop isch en Asie n und  Afri ka  häuf ig   kulti virt.  „Die  Küst enlä nder  und  Inse ln  des  mexi ka-\n nischen Meerbusens, sowi   e  das Stro mgeb iet  des    Cauc a,   des Magd alen enst rome s,  des Orin  oko   und Ama  -\n zonas dürfen wohl als die Heimath       des   Kak aob  aum es    betr  acht et   werd en.     Als    äuss erst e   Nord  gren  ze   sein es\n Vorkommens ersc   hein en  die  heis sest en   Thäl er   des   Miss issi ppi   und    des  Alta  maha      in  Loui  sian  a   und   Geor -\n gia. Die südlichsten grössere    n   Kaka opfl  anzu  ngen     besi tzt   unte r  13°    südl iche r   Brei te    die   Prov  inz   Bahi a,\n weiterhin gegen den 20° zeigt sich          der   Kak  aob aum       nur    noch   in   Gärt en    (Fl  ück  ige   r).       Flü cki  ger\n giebt als vorzügliche   Kult uror te   die   mexi kani  sche n    Staa  ten   Coli ma   und    Oaxa   ca,   ganz     Cent  ral- Amer  ika,\n die Gegend von Popayan und           den   Küst  enst rich    von     Ekua dor,     Nord  peru      und    Boli  via   an.     Seit   1670\n ist der Kakaobaum nach den Philippinen              verp flan zt   word  en.     Gut   gede iht    er    auch      auf   Java ,   Mani la,\n Bourbon und den Kanarischen Inseln."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 347,
+        "source_line_range": [
+          50,
+          60
+        ],
+        "exact_source_quote": "         Name und Geschi     cht lic hes .     The obr oma     von   ,‫ج‬38 0‎   Got t   und     Bow ua    Spe ise ,    Göt ter -\n speise, ein Name, der dem Baum    von  Lin né   geg ebe n   wor den   ist.    Cac ao   ist  ein  mex ika nis che  r   Nam  e;\n Kakauatl, Kakaosame, cacahoaquahwitl der Kakaobaum.\n          Schon lange vor Entdeckung Amerik    as    ist  der   Kak ao     von   den   Mex  ika ner n   ben utz t    wor den  .\n Kortez traf bei seiner Eroberung   in Mex iko   (15 19)   den   Kak ao    in  all gem ein  em  Geb rau che .      Let zte rer ,\n                             schildern    in ihren Briefen        an Kaiser Karl V. die Kultur               und    den Gebrauch        des\n sowie Fernandez,\n Kakao sowohl als Genuss- als auch als Zah lmi tte l.       Ka ka o   bil det e  bei  den  Alt mex ika ner n  die  ein zig e\n Münze, in welcher die Provinzen der Regierung        ihr e   Ste uer   bez ahl ten ,  ein Geb rau ch,    der  noc h    von\n\n"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 350,
+        "source_line_range": [
+          16,
+          45
+        ],
+        "exact_source_quote": "            Bestandtheile Nach Lambadius enthalten 100 Gewichtstheile Bohnen 87.8 Kern und\n  12.2 Schale. 100 Theile Kern enthalten nach diesem Forscher: 53.10 Fett, 16.70 Proteinsubstanz,\n10.91 Stärkemehl, 7.75 Schleim, 2.01 rothen Farbstoff, 0.9 Faser, 5.20 Wasser. Die Destillation der\n  Kerne mit Wasser lieferte ein aromatisches Produkt, ohne Abscheidung eines ätherischen Oeles. Die\n  Asche betrug 1.99%, und enthielt 39.5%, Phosphorsäure, 37.1%, Kali, 16.0%, Magnesia, 2.9%, Kalk,\n  ferner Chlor, Schwefelsäure, Kieselsäure, Natron und Hisenoxyd; auch geringe Mengen von Kupfer, wahr-\n  scheinlich von Kupfergefässen herrührend, sollen darin aufgefunden worden sein. Trajanowsky erhielt\n  von den Kernen 2.08—3.93%,, von der Schale 4.67—16.34%/, Asche; Wolfram aus den Kernen 3.0\n bis 4.30,, aus den Schalen     5.1—13,3°/, Asche.           Woskresensky         entdeckte    1841 in den Kakaobohnen\n eine schwache Base, Theobromm. A. Mitscherlich fand in dem Guayaquil-Kakao 45—49%, Fett,\n 14—18%, Stárkemehl, 1.2—1.5%, Theobromin, 0.34%, Stárkezucker, 0.26%, Rohrzucker, 5.89/, Cellu-\n lose, 3.5—5.0%/, Pigment, 13.0—18.0°/) Proteinverbindungen, 3.50%), Asche, 5.6—6.3°/, Wasser. Schmidt\n und Bell haben 1883 noch 0,330), Coffein aufgefunden.\n         Theobromin, im Jahre 1841 von Woskresensky in den Kakaobohnen aufgefunden, ausser-\n dem noch in einigen Theesorten und in den Colanüssen nachgewiesen, findet sich vorwiegend in den\n Samenlappen und nur in geringer Menge in den Schalen. Es besitzt eine Zusammensetzung von\n O;H,N,O,, bildet ein weisses, aus mikroskopischen, rhombischen Nadeln bestehendes Krystallpulver,\n äussert einen sehr bitteren, sich nur langsam entwickelnden Geschmack, sublimirt bei 290—2950\n unzersetzt, löst sich in 55 Theilen Wasser von            100°, in 660 Theilen von 20°, in 1000 Theilen von 0°, in\n 47 Thelen kochendem und 1460 Theilen kaltem Weingeist.                        Nach Treumann            gehören zur Lösung\n 148.5   Theile siedendes   Wasser,   1600    Theile Wasser       von   17°,   422 Theile      von      siedendem   absolutem\n Alkohol, 4284 Theile desselben bei 179, 105 Theile von siedendem Chloroform. Das Theobromiw\n besitzt keine alkalische Reaktion, geht aber mit starken Mineralsäuren, nicht mit Oxalsäure, krystalli-\n sirende Verbindungen ein, welche jedoch durch Wasser zersetzt werden. Strecker hat es 1862 in\n Coffein übergeführt; letzteres kann daher als methylirtes Theobromin (C; H;(CH,)N,O,) betrachtet wer-\n den. Trajanowsky erhielt aus den Kernen 1.2 bis 4.69/,, meistens aber 2—30/, Theobromin, aus\n den Schalen 0.8 bis 4.59. Wolfram erhielt aus den Cotyledonen 1.3 bis 1.49/,, aus den Schalen\n 0.4 bis 1.19, Theobromin. Flückiger vermuthet, dass das Theobromin der Schalen wohl nur der\n anhüngenden inneren Samenhaut angehört. Die physiologische Wirkung des Theobromin ist ähnlich\n der des Coffein, jedoch weit geringer."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": [
+      "Deterministic changed strategy dropped only sections that lacked an exact source locator; no line number was repaired or guessed."
+    ]
+  },
+  "receipt_sha256": "0281f41839152727b6c49dd4ef37108628254f43b7262242917ba412212336de",
+  "changed_strategy_repair": {
+    "strategy": "drop-unmaterialized-sections-v1",
+    "source_receipt_sha256": "3dde801a251a35a68d724791a988fad1c784aad197e4744daccbdda8ea0e9842",
+    "source_attempt_sha256": "9d1fd74f06aebf7595abc7d30404d056e97bd2acc24a6581c67fa8762b6b0ad6",
+    "dropped_section_indexes": [
+      1
+    ],
+    "source_errors": [
+      "section_1:invalid_source_line_range:p346:L54-L60"
+    ],
+    "external_model_calls": 0,
+    "content_added": false,
+    "line_numbers_guessed_or_clamped": false
+  }
+}

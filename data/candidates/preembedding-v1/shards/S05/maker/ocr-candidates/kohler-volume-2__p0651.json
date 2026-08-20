@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 651,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "6d7e631f2251b683d0f802615322d44a3aabc0ac1aaa432c7ac9fdbf358cd70a",
+  "render_dpi": 144,
+  "render_sha256": "06808d980ddcf9ec38d36a1bc48782ba8f5e595ae8684bf89c0357bafc5261bb",
+  "input_sha256": "06808d980ddcf9ec38d36a1bc48782ba8f5e595ae8684bf89c0357bafc5261bb",
+  "render_pixel_width": 5618,
+  "render_pixel_height": 7910,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.655,
+  "embedded_character_count": 33,
+  "ocr_character_count": 47,
+  "ocr_alpha_ratio": 0.8085,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01927184490930467,
+      "text": "Umbellif.",
+      "width": 0.09217655458929819,
+      "x": 0.8629096781332731,
+      "y": 0.91405593808485
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883082859107,
+      "text": "B",
+      "width": 0.018404907354429456,
+      "x": 0.304703476707925,
+      "y": 0.22238372137039208
+    },
+    {
+      "confidence": 1,
+      "height": 0.02180232509734148,
+      "text": "Perula galbanitlua Boiss. el Buhse.",
+      "width": 0.3599181787927723,
+      "x": 0.3312883573657134,
+      "y": 0.09883720958068976
+    }
+  ],
+  "text": "Umbellif.\nB\nPerula galbanitlua Boiss. el Buhse.",
+  "output_sha256": "dfaf21f7e59474a4ea9f6d8fadd6cf1812aafb934f1e10d98ab4951057bdfa82",
+  "receipt_sha256": "44afa5afe9cb905d3f4bd437e84e4079a2c18d6877f638eb0253345dce028e8e"
+}

@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-3:p0043-p0044",
+  "owner_shard": "S06",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 96.042,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "needs_review",
+  "errors": [
+    "invalid_source_line_range:p43:L53-L38",
+    "source_quote_not_exact:p43"
+  ],
+  "draft": {
+    "entry_id": "kohler-volume-3:p0043-p0044",
+    "book_taxon": {
+      "scientific_name_candidate": "Palaquium Gutta",
+      "authorship_candidate": "Burck.",
+      "aliases_candidates": [
+        "Zsonandra Gutta Hook.",
+        "Dichopsis Gutta Benth. u. Hook.",
+        "Isonandra Gutta Hook."
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 43,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Palaquium Gutta，同義名 Zsonandra Gutta 及 Dichopsis Gutta，屬 Sapotaceae 科。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          4
+        ],
+        "exact_source_quote": "                                       Palaquium                       Gutta        Burck.\n                         Syn. Zsonandra          Gutta Hook.; Dichopsis Gutta Benth. u. Hook.\n\n             Familie: Sapotaceae; Gattung:                 Palaguium Blanco."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 43,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "高約 20 米產乳汁樹，葉革質倒卵狀長圓形，花 6 瓣，果實為含 1-3 種子之漿果。",
+        "warnings": [],
+        "source_line_range": [
+          5,
+          26
+        ],
+        "exact_source_quote": "             Beschreibung.          Ein Milchsaft         führender Baum         von   etwa      20 m Höhe.          Die    Zweige\nsind    rund       und    in der Jugend         ınit rotbraunem Flaum            bedeckt.     Die Blätter     haben        in erster\nJugend kleine hinfällige Nebenblätter, sind wechselständig, gestielt, etwas lederartig, verkehrt-\neiförmig-länglich, kurz zugespitzt, oberwärts grün, unterseitsgoldglänzend, 11 bis 15 cm lang,\nüber der Mitte 4,5 cm breit, am Grunde in den schlanken, 1,5—2,5 em langen Blattstiel ver-\nschmälert.  Die Seitennerven sind bogenförmig, parallel, fast horizontal verlaufend, 20—30 auf\njeder Seite des Mittelnerven,                    in der Blattsubstanz verborgen und kaum erkennbar.     Die\nKnospen sind ellipsoidisch;                      die Blüten stehen bündelweise in den Achseln oft schon ab-\ngefallener Blätter; jedes Bündel enthält 2—6 Blüten.  Diese selbst sind 12 mm lang und mit\n3 mm langen Stielen versehen.       Der Kelch ist ellipsoidisch-glockig und besitzt 6 eiför-\nmige, goldglänzende Zipfel, von denen die drei äusseren lederartig und beinahe klappig, die\ninneren zarter sind.              Die Krone ist beinahe radförmig; die Röhre überragt an Länge kaum\nden Kelch; die 6 Lappen                kommen der Röhre             an Länge gleich, sind oval-lanzettlich oder\nelliptisch, abgestumpft                und ausgebreitet.            Die 12 Staubgefässe stehen in 2 Reihen; ihre\nFilamente sind gleichlang, fädlich und überragen die Blumenkronenzipfel nicht.                                      Die Antheren\nsind    eiförmig,        oben     zugespitzt     und    kahl.    Der    oberständige    Fruchtknoten        ist nahezu       kuglig\nund rauhhaarig, der Griffel fädlich und länger als die Staubfäden;                                er endet in eine stumpfe\nNarbe, .die        aus     dem    ursprünglich         6fächerigen     Fruchtknoten       entstehende      Beere     ist fleischig,\neiförmig, braunfilzig und von den Kelchzipfeln gestützt, 3,5 cm lang, 2,5—3 cm breit und\nenthält neben mehreren verkümmerten, undeutlichen Fruchtfächern 1,2 oder 3 ellipsoidische,\noder von der Seite her zusammengedrückte endospermlose Samen, mit harter, glänzender\nSchale und einem grossen Nabel, welcher den grössten Teil der Samenoberfläche bedeckt. (Burck.)"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 43,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "產於新加坡，於布宜特佐爾及西爪哇之試驗園栽培。",
+        "warnings": [],
+        "source_line_range": [
+          28,
+          30
+        ],
+        "exact_source_quote": "             Vorkommen.            In Singapore,        im botanischen      Garten     zu Buitenzorg        kultiviert,      ebenso\nneuerdings         im Culturtuin von Tijkeumeuk                  bei Buitenzorg und in dem Proeftuin (Versuchs-\ngarten)      zu Tijpetir bei Sukabumi                in Westjava."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 43,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "乳汁管分佈於皮層及髓中，葉脈內亦有，木質部無乳汁管，管徑 12.6-39 微米。",
+        "warnings": [],
+        "source_line_range": [
+          32,
+          52
+        ],
+        "exact_source_quote": "             Anatomisches.           Oesterle         untersuchte      Zweige    und   Blätter    der     in Java    kultivierten\nPflanze      und     fand,       dass die Milchsaftschläuche            nicht nur in der primären und sekundären\nRinde      vorkommen,           sondern   dass       sie auch   in reichlicher    Menge      im Marke      liegen.     Sie treten\naus dem Zweige in den Blattstiel und in das Blatt über, sind mit den Blattnerven vereint-\nläufig, biegen dann ab und verlaufen mit stumpfen und blinden Endigungen sowohl im Pali-\nsadengewebe als auch im Merenchym. — Die Milchröhren sind ungegliedert, gehören dem-\nnach    zu    der gleichen Gruppe              wie    diejenigen der Euphorbiaceae,         Urticaceen,   Apocyneen und Ascle-\npiadeen.       Sie sind in ihrem Verlaufe gleich weit und unterscheiden sich in ihren Wandungen\nnicht von dem übrigen Zellgewebe.       Sie sind, wie Schnitte durch die Blattknospe zeigen,\nbereits in den jüngsten Stadien angelegt; im Holze dagegen finden sich keine Milchsaftröhren.\nNach Untersuchungen v. Chimani                         (Arch. Pharm. 233, 256) bilden die Milchschläuche in den\nKnoten kurze unregelmässige Milchzellreihen neben längeren Gliedern.     Die in grösseren\nIntervallen segmentierten Schläuche zeigen schiefe Querwände, welche zum Teil gegen ein-\nander verschoben sind.    Diese Form kann für die Palaquium- und Payena-Arten als Typus\ngelten. — In den Internodien sind auch Schläuche anzutreffen, die in grösseren Zwischen-\nräumen segmentiert sind; sie zeigen horizontale Querwände.   Die Enden der einzelnen Seg-\nmente haben Knochenform und sind gegen einander verschoben.                Schläuche aus 4,5 mm\ndicken Zweigen von Palaqguwium Gutta waren 12,6—39 u weit. Die Gefässbündel des Stammes\nsind bicollateral gebaut; auch im Marke befinden sich Siebstränge. Das Blatt ist bifasia];\ndie Milchsaftröhren verlaufen im oberen Teil der Blattnerven und im oberen Teil des Schwamm-\nparenchyms; die Unterseite ist fast frei von Milchsaftröhren und trägt einzellige T-förmige Haare."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 43,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "馬來語稱乳汁為 Guttah，1822 年引入歐洲，19 世紀末野生種幾近滅絕，現靠栽培。",
+        "warnings": [],
+        "source_line_range": [
+          53,
+          38
+        ]
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 44,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "圖版含開花枝條、花朵、花冠、雄蕊、子房、未熟及成熟果實與種子之圖解。",
+        "warnings": [],
+        "source_line_range": [
+          57,
+          63
+        ],
+        "exact_source_quote": "                                                 Tafelbeschreibung:\n          A Blühender Zweig, '/, nat. Grösse, nach dem Original aus dem Kulturearten          i  ij\nJava; getrocknete Pflanze des Herbar Schiffner. — B nicht a.              Zweig, ', nat. alien a         13Ei\n2 geöffnete Blüte ’/,; 3 Korolle von aussen °/,; 4 aufgeschnittene Korolle ®/,; 5 Staubgefäss, mehrfach an Si\n   Ovar und Griffel, mehrfach vergr.;      7 unreife Frucht; 8 dieselbe im Querschnitt: 9 reife Frucht 3).\n10 Samen von der Seite ',; 11 Samen von hinten gesehen /,;; A,B, 1-8 nac\n                                                                             h Original, 9 nach Burck."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "d7f64a14add5a767cd6036a1c2fa40d07c010cb16803559e6afddbb66e2272ed"
+}

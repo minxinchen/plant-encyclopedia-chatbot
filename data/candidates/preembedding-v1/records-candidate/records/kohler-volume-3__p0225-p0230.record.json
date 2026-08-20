@@ -1,0 +1,274 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-3-p0225-p0230",
+  "entry_id": "kohler-volume-3:p0225-p0230",
+  "owner_shard": "S07",
+  "book_taxon": {
+    "scientific_name": "Gaultheria procumbens",
+    "authorship": "L.",
+    "aliases": [
+      "Gaultheria humilis Salisbury",
+      "Gautiera repens Rafinesque"
+    ]
+  },
+  "display_name": "冬青",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Gaultheria procumbens"
+    ],
+    "accepted_scientific_name": "Gaultheria procumbens",
+    "display_name_source_scope": "taiwan_academic_public",
+    "taiwan_occurrence_status": "not_asserted",
+    "checked_at": "2026-08-13T13:04:52+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Gaultheria+procumbens",
+        "query_name": "Gaultheria procumbens",
+        "retrieved_at": "2026-08-13T12:27:47+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Gaultheria+humilis",
+        "query_name": "Gaultheria humilis",
+        "retrieved_at": "2026-08-13T12:55:41+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Gautiera+repens",
+        "query_name": "Gautiera repens",
+        "retrieved_at": "2026-08-13T12:55:41+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL and Tai2 had no exact species record, so the Taiwan academic-publication fallback was used. A table in 農業生技產業季刊, compiled by the Taiwan Institute of Economic Research Biotechnology Industry Study Center, explicitly pairs Wintergreen / 冬青 / Gaultheria procumbens L. No Taiwan occurrence is inferred."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 225,
+      "evidence_type": "text",
+      "page_text_sha256": "359ddfed64693807967358ab05d1c16987c257405961e23c2713dc7efadb28e6",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 226,
+      "evidence_type": "text",
+      "page_text_sha256": "58ca473f4ca5e5f22865d4aff3b2bc076c2ffd4a360f27c78ac64d71c0048b77",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 227,
+      "evidence_type": "text",
+      "page_text_sha256": "95bbd9ac6301187547bc1626d69459064664d7ea6cdfe63aa83fd9fd59ed5f66",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 229,
+      "evidence_type": "text",
+      "page_text_sha256": "1d5fc94001adcec786212fb8c86b2dec067fb3a2202905a925d1a95279697c55",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-3:p0225-p0230:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                     Gaultheria                 procumbens                          L.\n Amerikanisches Wintergrün, Gaultherie, niederliegende oder gestreckte Gautiere,\n                                                                                 kanadischer\n oder Labradorthee.    Englisch: Wintergreen, Box-berry, Mountain-tea, Partridge-berry.\n     Französisch:          The de Jersey, The de montagne,                     The de Terre Neuve, The rouge.\n            Syn. Gaultheria humilis Salisbury, Gautiera repens Rafinesque.\n\n            Familie:       Bricaceae R. Brown.             Unterfamilie:        Andromedeae.          Gattung:      Gaultheria L.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Gaultheria procumbens L.，同義名 G. humilis 及 G. repens。屬 Ericaceae 科，Andromedeae 亞科。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 225,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 680,
+        "page_text_sha256": "359ddfed64693807967358ab05d1c16987c257405961e23c2713dc7efadb28e6",
+        "exact_text_sha256": "e6a38c6560dfd0917cfdcbf8121352f0d09c58b6e8dc717e71a370854e77a0ad",
+        "source_line_start": 1,
+        "source_line_end": 8,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "e6a38c6560dfd0917cfdcbf8121352f0d09c58b6e8dc717e71a370854e77a0ad",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0225-p0230:s01:x00",
+      "section_type": "description",
+      "original_text": "            Beschreibung.            Die     Pflanze     ist ein kleiner,      immergrüner           Halbstrauch     mit weithin\n kriechendem,        schlankem,        biegsam         federkielstarkem,     horizontalem, an den Knoten wurzelndem\n Rhizom, aus welchem sich 5 bis 15 cm hohe, starre, aufrechte, federkielstarke, kahle oder\n dünnfilzige,      grüne     oder rote Stengel erheben.              Diese   tragen     wenige abwechselnde 3 bis              5 cm\n lange,    bis 2,5 cm        breite, am Grunde           spitze, an dem      oberen Ende zugespitzte,             an dem zurück-\n gebogenen Rande gesägte Blätter auf 0,5 bis 1 cm langen Stielchen.                                 Die Zähne der Blätter      sind\n scharf dem Blattrande angedrückt; ein jeder endigt in eine steife Borste; auch die Blattspitze\n ist in    einen     harten     Stachel       ausgezogen.      Die Mittelrippe        durchzieht         in sehr gerader      Linie\ndas ganze Blatt bis zur Spitze und sendet unter Winkeln von 50 bis 60° fünf bis sechs Paare\nvon beinahe gegenständigen Seitennerven, welche ziemlich weit vom Rande entfernt, in die\nnächstfolgenden Seitennerven in flachen Bogen einmünden. Zwischen ihnen entwickelt sich\nein reich verzweigtes Netz stärkerer und schwächerer Adern; auch ausserhalb der Nerven-\n bogen laufen Adern            nicht    selten    direkt normal        dem Blattrande        zu.     Die Blüten stehen einzeln\n oder in armblütigen Trauben in den Blattachseln.                          Ihre 5 bis        7 mm langen, roten Stiele sind\n bogig     zurückgekrümmt;             die     etwa    6 mm    lange    fünfzählige      Blüte       wird   von    zwei    kleinen,\n dunkelrosenroten,           breit   eiförmigen,        ursprünglich    in der Mediane            liegenden,   feingewimperten",
+      "normalized_text": null,
+      "zh_tw_rendering": "常綠半灌木，具匍匐根莖。莖直立，葉互生，邊緣鋸齒狀且具硬刺。花單生或成簇，紅色花梗，花冠白色或淡玫瑰色。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 225,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 681,
+        "char_end": 2504,
+        "page_text_sha256": "359ddfed64693807967358ab05d1c16987c257405961e23c2713dc7efadb28e6",
+        "exact_text_sha256": "108b215a3693904b7bbc771919c4ec82c018e20c85ce8a8a21414bca601f0d55",
+        "source_line_start": 9,
+        "source_line_end": 24,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "108b215a3693904b7bbc771919c4ec82c018e20c85ce8a8a21414bca601f0d55",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0225-p0230:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "papillös en Wuls t und läuft an der Spit ze in eine n lang en zwei gabl igen Horn fort satz aus. Die\nAntheren springen in zwei nach dem Blüteninnern gerichteten Löchern auf, welche an dem Über-\ngang der Antheren in den Hornfortsatz liegen. Das oberständige weissliche Pistill besteht aus\neinem     beinahe        kugligen,        an    der Spitze eingesenkten                Fruchtknoten      und    einem    dickfädlichen,\n\netwas gekrümmten weissen Griffel, der unter der kurz fünfspitzigen Narbe ein wenig einge-\nschnürt ist. Das fünffächrige Ovar enthält in jedem Fache mehrere Samenknospen, welche\nam Grunde einer zentralen Säule an zweilappigen Samenleisten angeheftet sind. Unter dem\nPistill befindet         sich, von       der Blumenkrone             umschlossen,         ein grüner zweireihiger Diskus;               jede\n\nReihe     desselben         besteht       aus     zehn      stumpfen Zähnen,             welche mit denen der anderen Reihe\nabwechseln.           Die Zähne der oberen Reihe haben beiderseits zwei seitliche hellgrüne Flügel.",
+      "normalized_text": null,
+      "zh_tw_rendering": "花藥具長角狀突起，子房上位，五室。果實為由宿存萼片包圍的假漿果，內含五室蒴果，種子微小。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 226,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 1055,
+        "page_text_sha256": "58ca473f4ca5e5f22865d4aff3b2bc076c2ffd4a360f27c78ac64d71c0048b77",
+        "exact_text_sha256": "621190a698d9b96ffbc871306f38ef692e8bc76cad35210a0a0aea6c3d727b26",
+        "source_line_start": 1,
+        "source_line_end": 12,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "621190a698d9b96ffbc871306f38ef692e8bc76cad35210a0a0aea6c3d727b26",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0225-p0230:s03:x00",
+      "section_type": "distribution",
+      "original_text": "              Vorkommen.            Die Pflanze wächst in Bergwäldern von Nordamerika, von Kanada bis\nKarolina,        am    häufigsten         in    den Tannenwäldern               von    New-Jersey.       In Nordamerika          wird     sie\nihrer wohlschmeckenden                    Früchte      wegen       (Boxberry)         in den   Gärten    kultiviert,     woselbst       dann\nnicht selten den ganzen Winter über noch Früchte geerntet werden.",
+      "normalized_text": null,
+      "zh_tw_rendering": "產於北美山區森林，從加拿大至卡羅來納，新澤西州松林中最常見。因果實美味而在園藝中栽培。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 226,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 2330,
+        "char_end": 2780,
+        "page_text_sha256": "58ca473f4ca5e5f22865d4aff3b2bc076c2ffd4a360f27c78ac64d71c0048b77",
+        "exact_text_sha256": "e898f7a09070e45041e97e2c6e5e5d35e04052a2116d5cde5f531771044b271d",
+        "source_line_start": 28,
+        "source_line_end": 31,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "e898f7a09070e45041e97e2c6e5e5d35e04052a2116d5cde5f531771044b271d",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0225-p0230:s04:x00",
+      "section_type": "constituents",
+      "original_text": "               Bestandteile.            Die    Gaultheria-Blätter                  wurden         1887    von     Frank. W.           Droelle\n (vergl. Amer. Journ. of Pharm. 1887 p. 289) analysiert; er fand neben den in Pflanzenteilen\n gewö hnli ch vork omme nden  Stoff en 0,5°/, äther ische s Ol, 5,45° /, Tanni n, 3,85° /, Arbut in,\n Erikolin       nebst Chlorophyll.             —     Arbutin    wurde      zuerst      von Oxley darin nachgewiesen.                    Gallus-\n\n säure,      Stärke       und Calciumoxalat              wurde        nicht gefunden.             Bourquelot          fand 1896 in den\n Blättern ein Ferment, welches das Gaultherin, jenes Glycosid der Rinde von Betula lenta L.\n und des   Kraut es von Monot ropa Hypop itys unter Bildu ng von Methy lsali cylat (Gaul theri aöl)\n zersetzt.          Es ergiebt      sich daraus         die Vermutung,          dass     das Gaultheriaöl,         wenigstens         zum Teil,",
+      "normalized_text": null,
+      "zh_tw_rendering": "葉含揮發油、單寧、熊果素及 Ericolin。油主要成分為水楊酸甲酯，可能由葉中糖苷分解產生。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 227,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 3540,
+        "char_end": 4491,
+        "page_text_sha256": "95bbd9ac6301187547bc1626d69459064664d7ea6cdfe63aa83fd9fd59ed5f66",
+        "exact_text_sha256": "b48cfa28848c5b70052929c6d1c1d7fa81fa86eee12710fe842b9deddb96fd56",
+        "source_line_start": 36,
+        "source_line_end": 44,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "b48cfa28848c5b70052929c6d1c1d7fa81fa86eee12710fe842b9deddb96fd56",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0225-p0230:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "        Anwendung. Die Gaultheriablätter dienen ihres ätherischen Öles wegen als aroma-\ntisches Getränk und besitzen schwach narkotische Eigenschaften. Die getrockneten Blätter\nfinden in der Heimat als Genussmittel Verwendung an Stelle der chinesischen Thees. Die\nFrüchte       geniesst     man      als    beliebtes         Obst     und   kultiviert      zu ihrer      Gewinnung        die Pflanze       in\nwohlgepflegten          Plantagen         nebst   ihrer Verwandten                G. Shanon.       —    Das     ätherische       Öl wirkt    in\nkleinen Dosen          als Desinfektionsmittel           und wird als Zusatz zu Zahn- und Mundwässern und\nähnlichen Gemischen                benutzt.       Grosse Dosen von 30 bis 60 g wirken als stark reizendes\nund brechenerregendes Mittel, nicht aber als Purgans. Das Öl wurde von Wood und Hare\nals starkes Stimulans für Respirations- und vasomotorische Zentren erkannt; es übt die gleiche\nWirkung wahrscheinlich auch auf die motorischen Zentren des Herzens aus.                                                 Vergiftungsfälle\nsind    selten;    etwa     zwei    oder     drei derselben            sind bekannt         geworden.",
+      "normalized_text": null,
+      "zh_tw_rendering": "葉作芳香飲料，果實作水果。油小劑量作消毒劑及漱口水；大劑量具刺激性及催吐作用，非瀉藥。",
+      "evidence_indexes": [
+        3
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 229,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 206,
+        "char_end": 1389,
+        "page_text_sha256": "1d5fc94001adcec786212fb8c86b2dec067fb3a2202905a925d1a95279697c55",
+        "exact_text_sha256": "2305c296aaa1d2949245d61a4c2cb152855c486cc7f4728f1b9f8e3fce369e75",
+        "source_line_start": 4,
+        "source_line_end": 14,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "2305c296aaa1d2949245d61a4c2cb152855c486cc7f4728f1b9f8e3fce369e75",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "TaiCOL and Tai2 do not list this exact species; 冬青 is a Taiwan academic-publication fallback, not a TaiCOL name.",
+    "冬青 is also used for unrelated Ilex taxa; retain the scientific name in answer citations and do not infer Taiwan occurrence.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "b7b86c35a4541992bb3dff4b29afebcb23528dad06ae50e7b30cd230f9732a6e",
+    "maker_receipt_sha256": "40f289b03dbe6ff33a0058cde6c4e7bee30c374ca4363834988406ace7e1e2e9",
+    "validation_check_sha256": "b06d55e27e087aa6268f3a6d2d7fa0a6a0cc0fb7075bcdebe6803c86f2a3c792",
+    "source_disposition_sha256": "c55620676a22ccfd67b649fea12b2fc9745062805e5b408c80b704b68c558f75",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "40f289b03dbe6ff33a0058cde6c4e7bee30c374ca4363834988406ace7e1e2e9",
+      "validation_check_sha256": "b06d55e27e087aa6268f3a6d2d7fa0a6a0cc0fb7075bcdebe6803c86f2a3c792",
+      "source_disposition_sha256": "c55620676a22ccfd67b649fea12b2fc9745062805e5b408c80b704b68c558f75"
+    },
+    "naming_artifact_sha256": "2261670502ad564527052876642edcc94982e54268b339c90d2ed18cd875f7b5"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "190e8dccb949213142c161004a47435aaef389ee33bf9147c725408e55dd9506"
+}

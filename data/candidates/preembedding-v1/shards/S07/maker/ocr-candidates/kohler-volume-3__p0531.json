@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 531,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "4804eb9b2ce44c96fee98774ff13af3b56c6836870db1dc8b888d6f8864d6816",
+  "render_dpi": 144,
+  "render_sha256": "904c29b2f313ebbea22f58458ae9c898c36697bcbd8ecca75b8c15d1b897ac21",
+  "input_sha256": "904c29b2f313ebbea22f58458ae9c898c36697bcbd8ecca75b8c15d1b897ac21",
+  "render_pixel_width": 6062,
+  "render_pixel_height": 8558,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.737,
+  "embedded_character_count": 199,
+  "ocr_character_count": 42,
+  "ocr_alpha_ratio": 0.7381,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.018001789138430646,
+      "text": "Gramineae",
+      "width": 0.09242163051744134,
+      "x": 0.07366623326371896,
+      "y": 0.9575688728063511
+    },
+    {
+      "confidence": 1,
+      "height": 0.019094136026170494,
+      "text": "(Andropogoneae)",
+      "width": 0.11891530141109177,
+      "x": 0.061443989827382646,
+      "y": 0.9374006064471355
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "B",
+      "width": 0.014344262141807451,
+      "x": 0.499999999999793,
+      "y": 0.3459302328613394
+    },
+    {
+      "confidence": 1,
+      "height": 0.023353866168430937,
+      "text": "Zea Mays L.",
+      "width": 0.12090163671669846,
+      "x": 0.434426232030995,
+      "y": 0.047867063932112486
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "78",
+      "width": 0.01639344244777985,
+      "x": 0.8995901639195527,
+      "y": 0.01598837215802995
+    }
+  ],
+  "text": "Gramineae\n(Andropogoneae)\nB\nZea Mays L.\n78",
+  "output_sha256": "c723bc2fbbd332f09b1404b86629d138c6a4c1e967869eda97669790836d4482",
+  "receipt_sha256": "9703839801fe93d99abd3901f73a8ec997e94dab10a679ea7eba1e01bed7f8c5"
+}

@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 685,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "10199bc64cfd670b8721064077a25314e166c453e6a28d4431e87c9301bf4adf",
+  "render_dpi": 144,
+  "render_sha256": "0a6330d39ca60e7686d0b173b05eece21cad0521c74e3c7588f562eb5de79ec1",
+  "input_sha256": "0a6330d39ca60e7686d0b173b05eece21cad0521c74e3c7588f562eb5de79ec1",
+  "render_pixel_width": 5846,
+  "render_pixel_height": 8006,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.634,
+  "embedded_character_count": 382,
+  "ocr_character_count": 45,
+  "ocr_alpha_ratio": 0.6889,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.02355011114998462,
+      "text": "Gramineat.",
+      "width": 0.12608427586762805,
+      "x": 0.7539454918411993,
+      "y": 0.9115800589813868
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "2",
+      "width": 0.009940357311912229,
+      "x": 0.8230616306134276,
+      "y": 0.11191860500986917
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "3",
+      "width": 0.015904571699059525,
+      "x": 0.12326043800732907,
+      "y": 0.09011627920844922
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "B",
+      "width": 0.01391650023667712,
+      "x": 0.6163021873402433,
+      "y": 0.09302325590518634
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01994540199400885,
+      "text": "Saccharum officinarum",
+      "width": 0.27493723579075025,
+      "x": 0.35160408123525777,
+      "y": 0.0571883961233165
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883082859107,
+      "text": "L.",
+      "width": 0.02385685754858924,
+      "x": 0.6322067596948903,
+      "y": 0.05668604683066347
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "169",
+      "width": 0.029821071935736687,
+      "x": 0.8767395636220919,
+      "y": 0.026162790717259576
+    }
+  ],
+  "text": "Gramineat.\n2\n3\nB\nSaccharum officinarum\nL.\n169",
+  "output_sha256": "94e6548be4bd36a00f40ea6bbbd5232945890bc6ed2cbcd9ff6123ac983ca4af",
+  "receipt_sha256": "c7a4f97184a45fcaedc9efdcc5e279a4660701659b50a9fb8101cf1963363297"
+}

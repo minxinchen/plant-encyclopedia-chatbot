@@ -1,0 +1,73 @@
+{
+  "schema_version": "1.0",
+  "timestamp": "2026-08-11T11:43:03+08:00",
+  "run_id": "chat-language-scope-taiwan-name-policy-2026-08-11",
+  "batch_id": "chat-language-scope-taiwan-name-policy-v1",
+  "hypothesis": "The chatbot can enforce Taiwan Traditional Chinese by default, answer English questions from the same approved Köhler evidence, refuse non-Köhler drugs, keep medical advice blocked, and select Taiwan public plant or materia-medica names before all other translations.",
+  "proof_of_done": [
+    "Traditional Chinese, English and Simplified-input normalization cases pass.",
+    "Non-Köhler medicine questions are refused in both Traditional Chinese and English without external facts.",
+    "TaiCOL 皂質草 wins over the Tai2 alias 肥皂草, and Simplified Chinese remains the last fallback.",
+    "Traditional Chinese and English embedding questions both rank Köhler PDF page 192 first.",
+    "The active n8n acceptance workflows contain no machine-specific project path and remain inactive.",
+    "Only no-cost local or Free Tier services are used."
+  ],
+  "maker": {
+    "tools": [
+      "Taiwan public-source registry built from official government and academic sources",
+      "deterministic chat-language and scope policy",
+      "Gemini API Free Tier gemini-embedding-2 for one new English query",
+      "local SQLite vector checkpoint store"
+    ],
+    "artifacts": [
+      "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/config/chat-policy.json",
+      "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/name-source-registry.json",
+      "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/tests/chat-language-scope-policy.json",
+      "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/reports/embedding-podophyllum-peltatum-acceptance-v2-2026-08-11.json",
+      "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/exports/google-gem/approved-evidence-pack.md"
+    ],
+    "external_model_calls": 1,
+    "incremental_usd": 0,
+    "paid_fallback_used": false
+  },
+  "checker": {
+    "tools": [
+      "validate-chat-policy.py",
+      "validate-grounding-tests.py",
+      "validate-embedding-batch.py",
+      "n8n imported workflow database inspection"
+    ],
+    "result": "passed"
+  },
+  "results": {
+    "name_source_registry": {"sources": 20, "result": "passed"},
+    "chat_acceptance": {
+      "cases": 7,
+      "categories": [
+        "traditional_chinese_answer",
+        "english_answer",
+        "simplified_input_traditional_output",
+        "non_kohler_drug_refusal",
+        "medical_advice_refusal",
+        "taiwan_name_priority"
+      ],
+      "result": "passed"
+    },
+    "bilingual_embedding": {
+      "traditional_chinese": {"top_pdf_page": 192, "cosine_similarity": 0.709438},
+      "english": {"top_pdf_page": 192, "cosine_similarity": 0.727371},
+      "result": "passed"
+    },
+    "historical_probe": {
+      "case_id": "libra-plant-zh-tw",
+      "role": "exploratory_only_not_acceptance"
+    },
+    "n8n": {
+      "workflow_ids": ["V7agRGEaMRCIjf7o", "PEHybridIdx001", "PEChatPolicy001"],
+      "all_inactive": true,
+      "portable_environment_paths": true
+    }
+  },
+  "verdict": "promote",
+  "promotion_scope": "Promote only the chat language, scope, Taiwan-name priority and bilingual two-page retrieval gates. This does not claim that a public chat API or full-book index is complete."
+}

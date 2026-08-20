@@ -1,0 +1,155 @@
+{
+  "schema_version": "1.0",
+  "package_id": "kohler-volume-3:p0373-p0536:boundary-recovery-01",
+  "parent_entry_id": "kohler-volume-3:p0373-p0536",
+  "child_entry_id": null,
+  "recovered_entry_id": "kohler-volume-3:p0373-p0374",
+  "work_id": "structure-recovery:kohler-volume-3:p0373-p0536:boundary-recovery-01:v1",
+  "owner_shard": "S07",
+  "package_sha256": "8efd955141dad73a8ec92f9e19e6a9a7753eae5d070afd2372bd40ab1734d112",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "prompt_version": "plant-structure-continuation-line-anchors-v1",
+  "attempt_sha256": "434b38e3d848593b076d71b0f447ea83de3a450160056f7a89efae227d2cf026",
+  "raw_response_sha256": "5e29e5396e63fc6d9e6285e2f70903c6b2e82584d93d796d088c32ebaf83e929",
+  "elapsed_seconds": 13.72,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 373,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 0,
+      "char_end": 616,
+      "source_line_start": 1,
+      "source_line_end": 6,
+      "page_text_sha256": "a8fa1321af9334aece099164d9f164d1956e6a2f735d779e1607f17faa0efa24",
+      "exact_text_sha256": "ee06981f3738a24f1fc5277b178e1396087b0c509defd2db05e68fe15b648e43",
+      "section_index": 0,
+      "section_type": "taxonomy"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 373,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 617,
+      "char_end": 3985,
+      "source_line_start": 7,
+      "source_line_end": 40,
+      "page_text_sha256": "a8fa1321af9334aece099164d9f164d1956e6a2f735d779e1607f17faa0efa24",
+      "exact_text_sha256": "7cd5239892894d27c58f5ad4cda3ad27b2f9082ef540ae047390e83dba780dbd",
+      "section_index": 1,
+      "section_type": "description"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 373,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 4010,
+      "char_end": 4362,
+      "source_line_start": 42,
+      "source_line_end": 45,
+      "page_text_sha256": "a8fa1321af9334aece099164d9f164d1956e6a2f735d779e1607f17faa0efa24",
+      "exact_text_sha256": "50b7788b8fe405f847ea284d7ca37ce6927f88c7a6fb3a209dcd162cd8a093f4",
+      "section_index": 2,
+      "section_type": "distribution"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 374,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 2129,
+      "char_end": 2406,
+      "source_line_start": 19,
+      "source_line_end": 21,
+      "page_text_sha256": "1858705b760e3dc385719c979f0f65ff227e0638a62a0e50882ebd9898f05057",
+      "exact_text_sha256": "483f5104b9bda2dadcc3702000eb419525401640f94119add3baf722eb0dfe2c",
+      "section_index": 3,
+      "section_type": "constituents"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 374,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 2408,
+      "char_end": 3191,
+      "source_line_start": 23,
+      "source_line_end": 29,
+      "page_text_sha256": "1858705b760e3dc385719c979f0f65ff227e0638a62a0e50882ebd9898f05057",
+      "exact_text_sha256": "b7f372e534a5c75d8c0455f10971e8661cb42f576aa3a47c3ba8bbd432763941",
+      "section_index": 4,
+      "section_type": "historical_use"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-3:p0373-p0536:boundary-recovery-01",
+    "parent_entry_id": "kohler-volume-3:p0373-p0536",
+    "book_taxon": {
+      "scientific_name_candidate": "Juniperus Oxycedrus"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 373,
+        "source_line_range": [
+          1,
+          6
+        ],
+        "exact_source_quote": "                                    Juniperus                   Oxycedrus                     L.\nCedern-Wachholder, spanische Ceder, Kadestrauch, Kranewett, Kaddigstrauch. Engl.: Cade.\nFranz.: Cade. Dän.: Enebaer. Norw.: Ener. Span.: Enebro, Miero. Ung.: Füstös-fenyö.\n        Dayanı: Des rufescens Link. Juniperus tenella Antoine. Oxycedrus Clus.\n        Familie:          Coniferaee      Unterfamilie:             Cupressineae.e         Gattung:     Juniperus    L.      Sekt.:\nOxycedrus Endl.                     |                                                                                                  |"
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 373,
+        "source_line_range": [
+          7,
+          40
+        ],
+        "exact_source_quote": "          Beschreibung.          Diese,        dem    gewöhnlichen Wachholder                 sehr ähnliche Pflanze ist ein\nStrauch    oder     kleiner Baum         von     4 bis     5 m Höhe.      Sein Stamm          ist bisweilen    bis 40 cm stark,\nsein Holz ist weiss und wohlriechend, seine Rinde rotbraun, dünn und glatt.                                      Die Äste (wie\nder Stamm) sind stielrund und ausgebreitet, die Zweige dagegen kurz, aufrecht oder ab-\nstehend, deutlich dreikantig, mit hervorragenden stumpfen Kanten. Die nadelförmigen Blätter\nstehen in gedrängten dreizähligen abstehenden Quirlen und laufen in eine hervorragende\nlange Stachelspitze aus.    Die grüne Oberseite ist von einem hervortretenden Mittelnerven\ndurchzogen und erscheint dadurch seicht zweifurchig; die Furchen selbst sind durch weisslich\nbraunen Reif deutlich sichtbar. Die Unterseite zeigt einen gerieften hervortretenden Kiel,\ndie Ränder sind stumpf, drüsenlos und grün, die Blätter im ganzen gewöhnlich 15 bis 20 mm\nlang und 1,5 bis 2 mm breit, seltener an sterilen Zweigen kürzer.     Der Strauch ist diözisch.\nDie männlichen Kätzchen sind beinahe sitzend und nahezu kuglig, 3 bis 4 mm lang und\nbreit, also nur etwa ein Drittel bis ein Fünftel so lang als die Stützblätter, unter sich aber\nziemlich gleich.  Die einzelnen Deckschuppen sind nahezu kreisförmig, am Rande zerrissen-\nzähnig; am Grunde tragen sie vier bis fünf kuglige, einfächerige Antheren mit rundlichen\nPollenkörnern. Die weiblichen Blüten stehen auf kleinen Kurztrieben in den Blattachseln\nund sind von drei bis sechs rundlichen Schuppen umgeben und von etwa zwei Blattwirteln\ngestützt.  Die Blättchen der letzteren sind aufrecht, mit kurzer scharfer Spitze, eiförmig oder\nbeinahe kreisrund.    Diese kleinen Kurztriebe stehen zu zwei bis drei oder einzeln in den                                                 .\nBlattachseln, sind breit eiförmig oder kuglig, stumpf dreikantig und nach der Spitze zu aus-\ngerandet. —        Die Blüten       enthalten        drei aufrechte Samenanlagen                 mit nach oben gerichteter\nMikropyle;        diese   verwachsen           mit   den   Stützblättern     zu beerenartigen          Zapfen,      welche    dann\nalso    einzeln    oder     zu wenigen          in den Blattachseln          erscheinen.         Diese Zapfenbeeren haben\nwechselnde        Grösse;    bald      sind    sie 6 bis     7 mm    lang und        etwa    5 bis 6 mm       breit oder     sie er-\nreichen 10 bis 12 mm, sind also etwa halb so lang als die Blätter.                                    Sie sind nahezu kuglig,\nrötlich oder rotbraun, glänzend, zeigen, wie die Wachholderbeeren, an der Spitze die Ver-\neinigungslinien der drei Hüllblätter, und unter der Spitze die kleinen dreieckigen Spitzenreste\ndieser drei Blätter.   An der Spitze sind die Früchte leicht bereift; sie enthalten einen bis\nzwei,    selten    drei tetraedrische,           gelbliche    Samen.       Der   Embryo        liegt aufrecht    in dem      reich-\nlichen Nährgewebe und hat mehrere Keimblätter. — Die fleischige Fruchthülle ist reich an\nätherischem Öl, welches sich, wie bei den Wachholderbeeren, in weiten Ölräumen vorfindet.\nEs verharzt sehr leicht und bildet bei älteren ausgetrockneten Beeren bernsteingelbe, den\nSamen     anhängende,        aromatisch         schmeckende         Harzkügelchen.\n"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 373,
+        "source_line_range": [
+          42,
+          45
+        ],
+        "exact_source_quote": "        Vorkommen.     Der Strauch wächst an steinigen Abhängen Südeuropas, von Griechen-\nland bis zu den Pyrenäen und dem südlichen Frankreich, im nördlichen Afrika, auf Madeira,\nin Kleinasien und dem Orient.  Er steigt                       bis zur    Höhe       von    2000 m,    und    beginnt     schon   in\nder Region des Ölbaumes sich zu zeigen."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 374,
+        "source_line_range": [
+          19,
+          21
+        ],
+        "exact_source_quote": "          Bestandteile. Die einzelnen Bestandteile des Öles sind noch wenig gekannt.  Durch\n Destillieren mit gespannten Wasserdämpfen       erhält man  daraus reichliche Mengen  eines\n Sesquiterpens C!5H®%, welches bei 274 bis 275° O. siedet.   Genauere Untersuchungen fehlen."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 374,
+        "source_line_range": [
+          23,
+          29
+        ],
+        "exact_source_quote": " =” Anwendung. Das Kadeöl ist seit langer Zeit ein Volksheilmittel; höchstens wurde\n cs früher in der Tierarzneikunde hin und wieder angewandt. Erst in neuerer Zeit hat man\n sich    mehr     mit    dem      Öl beschäftigt       und    hat es auch        beim      Menschen      versucht.        Man     benutzt\n es äusserlich als Einreibung bei chronischen Hautkrankheiten, bei Gicht und Rheumatismus\n in Form        von     Salben     oder    Seifen.     Innerlich      giebt man         es als Wurmmittel,            sowie     ebenfalls\n bei Behandlung           chronischer Hautausschläge                 in Dosen        von     zwei    bis fünf Tropfen,            dreimal\n täglich.       Man     hat es fast in alle Pharmakopöen                   von    Europa      aufgenommen."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "650b6d0e3157f0c1c9848511b48207e9a0b4817497b0f2d6d41c987ffc467422"
+}

@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0029-p0030",
+  "owner_shard": "S01",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 175.801,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0029-p0030",
+    "book_taxon": {
+      "scientific_name_candidate": "Pinus silvestris L.",
+      "authorship_candidate": null,
+      "aliases_candidates": [
+        "Kiefer",
+        "Fohre",
+        "Kienbaum",
+        "Scotch Fir",
+        "Pin-sauvage"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "description",
+        "pdf_page": 29,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "常綠深根樹，高至40米。樹皮幼時紅褐色剝落，老時灰褐。葉針形，長4-6公分，兩針一束。雄花穗狀，雌花球形。",
+        "warnings": [],
+        "source_line_range": [
+          15,
+          26
+        ],
+        "exact_source_quote": "         Beschreibung. Immergriiner, tiefwurzelnder, bis 40 m hoher Baum, mit in der Jugend rost-\nbrauner, abblatternder, im Alter am unteren Theil des Stammes graubrauner, innen rothbrauner, rissiger,\ndickborkiger Rinde.    Die ei-kegelformigen, harzigen Knospen mit lanzettlichen am Rande gefransten         ,\n\n\n\nSchuppen besetzt. Blatter nadelformig, 4—6 cm lang, 1V2 nim breit, zu zweien in einer gemeinschaft-\nlichen, querrunzeligen, anfangs silberweissen, spater braunen Scheide stehend, spitz, planconvex, auf der\nausseren gewollten Seite dunkelgriin, auf der inneren blaugriin. Die jnngen Triebe und die Basis des\nmannlichen Katzchens mit braunlichen, langlich - lanzettlichen, leicht abfallenden Schuppen besetzt.\nMannliche Bluthen traubenformig vereinigt, langlich-eiformig, 7 mm lang, mit schwefelgelben, zwei-\nfacherigen Staubblattern letztere mit einem rundlichen Fortsatze."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 29,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "樹脂道存在於皮與木中，由細胞間隙形成。木部樹脂道含澱粉，後轉化為揮發油與樹脂。",
+        "warnings": [],
+        "source_line_range": [
+          42,
+          58
+        ],
+        "exact_source_quote": "            Anatomisches : Die das Harz produzirenden Harzgange treten sowohl in der Rinde als im Holze auf unci bilclen                       •\n\n\n\n\nsich aus Interzellulargangen,     deren  angrenzende    Zellen   von  den  umliegenden    charakteristisch   etwas verschieden    sind. Die\nHarzgange des      Rindengewebes     werden   bei  Beginn    ihrer  Bildung    von  chlorophylllosen,   Tropfchen   fliichtigen  Oeles  ent-\nhaltenden, mit triibem Inhalte angefiillten Zellen umschlossen, die sich durch Theilung vermehren.                        Aus dem Jnter-\nzellulargange wird allmahlig ein runder Kanal, der sich durch Zellauflosung mehr und mehr erweitert. NachDippel\n fiillen sich sowohl die den Harzgang umgebenden ein bis zwei Zellenreihen, als auch das zunachst liegende\n                                                                                                                               Parenchym\nbis zum Herbste mehr und mehr mit Starkemehl, welches bis zum Beginn der nachsten Vegetationsperiode ver-\nschwindet und sich nach der        Ansicht   der  letzteren   in Harz   umgewandelt    hat.   „Die  Harzgange   im  Holze  der  Abietmeen\nbestehen in der Jugend       immer   aus  einem  Strange    von   zartwandigen,     unverholzten   und  in  der Regel   em en  verhaltmss-\nmassig kleinen,    durch  Auseinanderweichen      der wenigen     centralen   Zellen gebildeten  Interzellulargang   mit umschliessenden\nHolzparenchym      ,  dessen  Inhalt  in der  Ruhezeit    aus   Starkemehl     besteht  und  spater  erst  eine chemische    Umwandlung\nin fliichtiges Oel und Balsam resp. Harz erleidet.\""
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 29,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分布於全歐洲及北亞大部，喜沙土，耐至北緯70度。平原成林，西班牙等地達高海拔，但不達樹線。",
+        "warnings": [],
+        "source_line_range": [
+          59,
+          66
+        ],
+        "exact_source_quote": "            Verbreitung. Ueber ganz Europa und den grossten Theil Nordasiens verbreitet, Sandboden\nliebend, auf Kalk weniger gut gedeihend,                  bis   zum    70.  Grad    nordlicher   Breite    hinaufgehend.    |\n                                                                                                                              Die    Eiefer\nist ein Baum der Ebenen, in                 denen     sie   grosse     ausgedehnte      Waldungen        bildet;   sie  erreicht    jedoch,\nnamentlich in        Spanien,    bedeutende      Meereshohen,         geht     aber  wohl    nirgends    bis  zur   Grenze    des    Baum-\nwuchses.       Nach Luerssen ist              die   Verbreitung         in   vertikaler    Beziehung       folgende:     im   nordlichen\nNorwegen bis 227 m,     im sudlichen  Norwegen    bis  1027 m;   in  den  mitteldeutschen     Gebirgen   bis  786  m;\nin den bairischen Alpen bis    1597  m;   im Engadin    bis 1948    m;  in  der  Sierra  Nevada    1623      2110  m.           —"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 30,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史用途：嫩芽製複方酊劑，或煎劑利尿淨血，吸入治肺病。樹脂製膏藥，煙熏治慢性肺卡他。",
+        "warnings": [
+          "Content describes historical medical practices; not modern medical advice."
+        ],
+        "source_line_range": [
+          75,
+          81
+        ],
+        "exact_source_quote": "              Anwendung.        Die Kiefern- und Fichtensprossen werden hauptsachlich zur Bereitung\n    der Tinct Pini composita, in seltenen Fallen wohl auch im Aufguss als harnabsonderndes und blut-\n    reinigendes Mittel, ebenso auch zu Inhalationen bei Lungenkrankheiten verwendet. Das Harz dient zur\n    Bereitung von Pflastern, Salben und zum Rauchern bei chronischen Lungenkatarrhen                  seltener findet\n                                                                                                             ;\n\n    eine innerliche Anwendung gegen Gonorrhoe und Blenorrhoen des Darmkanals statt."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 30,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含Boloretin、Pinipikrin、Piniborretin、Phlobaphen及單寧酸。樹脂含松油、松脂酸及松香酸。",
+        "warnings": [],
+        "source_line_range": [
+          54,
+          74
+        ],
+        "exact_source_quote": "              Bestandtheile. Nach Forchhammer enthalten die Kiefernsprossen kleine Mengen einer bei\n    75° C. schmelzenden Substanz, das Boloretin, und nach Kawalier einen (auch in der Rinde vor-\n    kommenden) in Aether unloslichen                  das Pinipikrin (C22H36O11, Husem. 337).\n                                                  Bitterstoff:                                   Die Rinde\n    enthalt neben dem bereits genannten Pinipikrin eine klebrige Snbstanz: das Pmihorretin (C 2 4H 38 05),\n    einen rothen harzigen Farbstoif: das Phlobaphen und die Gerbsauren: Pinicortannsaure (C3 2 38 023)                           H\n                                          H\n    und Tannecortepinsciure (C 28 26 Oi 2).   Im Splint befindet sich Coniferin (G 1Q 22 8              H\n                                                                                                 2 HO), aus              +\n    welchem durch Umsetzung Vanillin zu gewinnen ist. Die Nadeln der Kiefer enthalten um Weihnachten\n                                              H                               H\n    nach Kawalier Ceropinsaure (C 36 68 5), Pinitannsdure (C 7 8 4) und Oxypinitannsdure (C14 n 9\n                                                                                                          ),\n                                                                                                                                 H\n                                                                      H\n    an deren Stelle im Friihjahre die Tannopinsdnre (C 28 30 13) gefunden wird.        Die Samen enthalten\n    fettes Oel; das gemeine Harz besteht aus               3—\n                                                    5°/ Terpenthinol, 5              —\n                                                                           10 / Feuchtigkeit und den Harz-\n                                  H\n    sauren: Sylvinsdare (C 20 30 O 2 ) und Pininsaure (Husemann, Pflanzenstoffe. 340)."
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 30,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "圖版描述：花枝、雌雄花、花粉、果實、種子、針葉及木部橫切面（含樹脂道），由W. Müller繪製。",
+        "warnings": [],
+        "source_line_range": [
+          117,
+          138
+        ],
+        "exact_source_quote": "                                                       Tafelbesehreibung\n              A Zweig mit Bliithen und ein- und zweijahrigen Fruchten, natiirl. Grosse; 1 u. 2 mannliches Bluthenkatzchen\n    geschlossen und geofhiet, vergrossert; 3 u. 4 mannliche Bluthe, weniger und mehr geoffnet, desgl.;\n                                                                                                           5 Pollen von ver\n.\n\n\n\n\n    schiedenen Seiten, desgl.; 6 Zweigspitze mit weiblicher Bluthe, desgl.; 7, 8, 9 Fruchtblatt von\n                                                                                                       verschiedenen Seiten\"\n    desgl.; lOreifer, noch geschlossener Fruchtzapfen, natiirl. Grosse; 11 reifes Fruchtblatt mit\n                                                                                                  Samen, von verschiedeneli\n    Seiten, desgl.; 12 Samenflugel mit und ohne Samen, desgl.; 13 Same in natiirl. Grosse und im\n                                                                                                        vergrosserten Lan^\n    schnitt; 14 Nadelpaar mit Querschnitt, vergrossert; 15 Grund des Nadelpaares im Langsschnitt\n                                                                                                            des^l   16 H0I7\" •\n\n\n    querschnitt mit dem Harzgange a, dem umgebenden Holzparenchym b, Holzfasern c unci den                                /7~\n                                                                                                      Maitoincfenstrahlpn \"\"'\n    (nach Dippel). Nach der Natur von W. Miiller."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "fff3f320a607db07f07d10030e16753653666217b705d8d924ebdbdd931182e6"
+}

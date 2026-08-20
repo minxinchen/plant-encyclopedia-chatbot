@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 333,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "2c6a39e60d0688c2f1b6dc170979f9f4c3986e3ca85329de6ac1602e94069bed",
+  "render_dpi": 144,
+  "render_sha256": "cc7e90f7ef5c1f27e1c316c00adaa4c642053d04b975c2d2b907b158b5a26c67",
+  "input_sha256": "cc7e90f7ef5c1f27e1c316c00adaa4c642053d04b975c2d2b907b158b5a26c67",
+  "render_pixel_width": 5654,
+  "render_pixel_height": 8102,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 6.794,
+  "embedded_character_count": 210,
+  "ocr_character_count": 60,
+  "ocr_alpha_ratio": 0.75,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.019953525255596793,
+      "text": "Lycopodiaceae.",
+      "width": 0.1461073733765602,
+      "x": 0.8081963145271127,
+      "y": 0.9166220745782189
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252612005,
+      "text": "A",
+      "width": 0.012499999728877165,
+      "x": 0.6625000000313948,
+      "y": 0.24127907007064164
+    },
+    {
+      "confidence": 1,
+      "height": 0.015265893841546752,
+      "text": "WMüller n.d. Nat.",
+      "width": 0.10021302440781577,
+      "x": 0.8311434869620763,
+      "y": 0.1595182160641021
+    },
+    {
+      "confidence": 1,
+      "height": 0.025463768414088594,
+      "text": "Lycopodium",
+      "width": 0.12945898255305505,
+      "x": 0.37902051033647116,
+      "y": 0.1100878833714336
+    },
+    {
+      "confidence": 1,
+      "height": 0.021222996333288724,
+      "text": "Clavatum I.",
+      "width": 0.1232079327657194,
+      "x": 0.5040210320812936,
+      "y": 0.11438850178608018
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "49",
+      "width": 0.016666665853298457,
+      "x": 0.9125000005108508,
+      "y": 0.027616279038875535
+    }
+  ],
+  "text": "Lycopodiaceae.\nA\nWMüller n.d. Nat.\nLycopodium\nClavatum I.\n49",
+  "output_sha256": "b4fb703cdb22cd8e4e60bd46aa7ce9e2117f3b0cb533c3e0d58a428c8a28f58e",
+  "receipt_sha256": "3748fcef67fcc3db4cc7db34f9083b33c2e539d1a0cada366f686655105b11e1"
+}

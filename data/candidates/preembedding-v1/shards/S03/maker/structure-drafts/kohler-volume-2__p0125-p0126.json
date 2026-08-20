@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0125-p0126",
+  "owner_shard": "S03",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 120.272,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0125-p0126",
+    "book_taxon": {
+      "scientific_name_candidate": "Uncaria Gambir",
+      "authorship_candidate": "Roxb.",
+      "aliases_candidates": [
+        "Nauclea Gambir Hunter"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 125,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "茜草科鉤藤屬，學名 Uncaria Gambir Roxb.，異名 Nauclea Gambir Hunter。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          3
+        ],
+        "exact_source_quote": "                                          Uncaria Gambir Roxb.\n                                           Syn. Nauclea Gambir Hunter.\n            Familie: Rubiaceae. Gattung: Uncaria Schreb."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 125,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "高攀援多枝灌木，皮褐色龜裂，枝對生無毛。葉對生革質，長橢圓狀披針形，長9公分，寬5公分。",
+        "warnings": [],
+        "source_line_range": [
+          4,
+          13
+        ],
+        "exact_source_quote": "            Beschreibung. Hochkletternder, vielästiger Strauch mit rissiger,\n                                                                             brauner Rinde und gegen-\n  _tiberstehenden,    stielrunden,    kahlen   Zweigen.   Die gestielten Blätter gegenständig,     derb,   eilanzettlich,\n   9 Ctm. lang, 5 Ctm. breit, kurz und stumpf zugespitzt, ganzrandig, nur\n                                                                              auf der unteren Seite in den\n   untersten Winkeln der kaum vortretenden Nerven mit wenigen Härchen,\n                                                                                  sonst kahl. Nebenblätter\n   zwischen den Blattstielen, in gekreuzter Stellung zu den Hauptblättern, eiförmig\n                                                                                         , stumpf, kahl, ab-\n   fallend. Blüthenstände aus den Blattachseln hervorbrechend, gestielte, paar"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 125,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "產於東印度群島，特別是麻六甲海峽周邊及新加坡與蘇門答臘間荷蘭小島，錫蘭亦有栽培。",
+        "warnings": [],
+        "source_line_range": [
+          58,
+          60
+        ],
+        "exact_source_quote": "          Vorkommen.      Auf den ostindischen Inseln, so namentlich in der Umgebung der Strasse\n  von Malacca und hier vorzüglich auf den vielen kleinen hollündischen Inseln zwischen Singapore und\n  Sumatra in umfangreicher Weise angebaut; auch auf Ceylon."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 125,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "Gambir 為東印度詞，Catechu 源自印度語。歐洲16世紀前未知，葡萄牙人引入，Rumphius 曾誤認。",
+        "warnings": [],
+        "source_line_range": [
+          63,
+          72
+        ],
+        "exact_source_quote": "           Name      und   Geschichtliches.          Gambir   ist ein ostindisches Wort;   Catechw stammt von dem\n  indischen Kate, Name für den Catechu liefernden Baum und chu Saft. Uncaria von uncus Haken,\n  wegen der hakenartig zurückgekrümmten, unfruchtbaren Blüthenstiele. Nauclea zusammengezogen aus\n` naucella oder naucula (navicella, navicula) kleines Schiff, bezogen auf die schiffehenartige Schale der\n  Steinfrucht (naucum), welche hier sehr klein ist.                                                       |\n            Das _Avxıov des Dioscorides, in dem man früher Catechu zu erkennen glaubte, ist der Saft\n  von Rhamnus infectoria gewesen.      Trotzdem Gambir wohl schon in alten Zeiten von den Völkern\n Süd- und Ostasiens, namentlich Chinas, zum Betelkauen benutzt worden ist, so ist seine Kenntniss in\n Europa doch nicht vor das 16. Jahrhundert zu verlegen.  Zu jener Zeit brachten die Portugiesen die\n Droge nach Europa; die Abstammung war jedoch unbekannt, denn noch Rumphius (1626—1693),"
+      },
+      {
+        "section_type": "harvest",
+        "pdf_page": 126,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "採13個月植株葉與嫩枝，於鑄鐵鍋煮沸，壓汁回流，濃縮成漿，冷卻後切成9公分立方體陰乾。",
+        "warnings": [],
+        "source_line_range": [
+          17,
+          26
+        ],
+        "exact_source_quote": "         Die Gewinnung ist nach Flückiger folgende: die Blätter und jungen Triebe der etwa\n13 Monate alten Pflanzen werden im Jahre 3—4 mal gebrochen und in runden, flachen, gusseisernen,\n1 Meterim Durchmesser haltenden Pfannen ausgekocht. Auf letztere ist ein Rindencylinder mit Lehm\naufgekittet, welcher           auch äusserlich mit Lehm                  bestrichen ist.          Siedet das Wasser,             so wird der Cylinder\nmit Blättern gefüllt, die eine Stunde lang gekocht werden, worauf ein Auspressen der Blätter auf\nRinde erfolgt und zwar derart, dass die ausgepressten Massen in den Cylinder zurückfliessen. Die Blätter\nwerden zum zweiten Male gekocht und nach einiger Zeit erfolgt die zweite Auspressung.         Der Inhalt\nder Pfanne wird dann bis zur Syrupsdicke eingedampft, in Eimer geschöpft, dann abgekühlt und in\nnoch flüssigem Zustande in flache Holzküsten ausgegossen. Nach Erstarrung wird die Masse in würfel-\nfórmige, 9 Otm. grosse Stücke geschnitten, welche man im Schatten trocknet. Diese Würfel sind leicht"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 126,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "成分同金雞納單寧，主要為單寧酸。Gautier 認為含三種結晶物質，熔點分別為205、177及163度。",
+        "warnings": [],
+        "source_line_range": [
+          38,
+          44
+        ],
+        "exact_source_quote": "          Bestandtheile.    Gambir enthält die gleichen Bestandtheile wie der Akazien-Catechu und\nbesteht, etwa 14—15°/, Unreinlichkeiten abgerechnet, fast ganz aus Catechin (siehe Akazien-Catechu).\nGautier hält das Gambir-Catechin, im Gegensatz zu der bisherigen Anschauung, nicht für überein-\nstimmend mit dem Akazien-Catechin.       Nach seinen Beobachtungen ist es ein Gemenge von drei\nkrystallisirbaren Stoffen: 1. Cio Hj, 0,, + 20H, im wasserfreien Zustande bei 205? schmelzend,\n2. Oe ‫وو‬8‎ 0,g ‫لح‬‎,‫و‬08 bei 177° schmelzend, 3. C,, ‫يو‬‎ 0,g ‫لح‬‎ OH,, bei 163° schmelzend.                                                        Flückiger\nstellt das Vorhandensein von Quercetin als zweifelhaft hin."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "9f8e26500dbdb1a880a1758ff0dbdc46d01079f67f2790ecb2ff121815ac067a"
+}

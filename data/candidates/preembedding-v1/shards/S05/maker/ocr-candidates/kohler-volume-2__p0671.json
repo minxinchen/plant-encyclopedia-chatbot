@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 671,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "51a3fe7bd9337abc396daac5c121d85f3dc546f53af033ffe9def32afd19509d",
+  "render_dpi": 144,
+  "render_sha256": "b652fb150ec9aeb5b92fd28b7117b359ea580b7931ad8ef7ab1092345884545d",
+  "input_sha256": "b652fb150ec9aeb5b92fd28b7117b359ea580b7931ad8ef7ab1092345884545d",
+  "render_pixel_width": 5234,
+  "render_pixel_height": 8018,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.98,
+  "embedded_character_count": 232,
+  "ocr_character_count": 32,
+  "ocr_alpha_ratio": 0.875,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.0178094250815255,
+      "text": "Liliaceae",
+      "width": 0.1048194398271276,
+      "x": 0.8039377195872452,
+      "y": 0.9605720316841841
+    },
+    {
+      "confidence": 1,
+      "height": 0.023744813033512613,
+      "text": "Urginea Scilla Steinh.",
+      "width": 0.22728782584239648,
+      "x": 0.37410664272711835,
+      "y": 0.08987177983422978
+    }
+  ],
+  "text": "Liliaceae\nUrginea Scilla Steinh.",
+  "output_sha256": "d43674adbb1f07f03316d43217a1deca5182364129bd3e6a82f149d84337b716",
+  "receipt_sha256": "3383350ddc167391720d1a3f2215a580b291904e3626c7e495ba1ede22fbf108"
+}

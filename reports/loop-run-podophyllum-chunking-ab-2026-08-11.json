@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "run_id": "podophyllum-chunking-ab-2026-08-11",
+  "started_at": "2026-08-11T16:22:22+08:00",
+  "finished_at": "2026-08-11T16:27:59+08:00",
+  "status": "approved",
+  "cost": {
+    "incremental_usd": 0,
+    "paid_fallback_used": false
+  },
+  "input": {
+    "pages_file": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/chunks/podophyllum-peltatum.jsonl",
+    "name_file": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/sample-name-resolution.json",
+    "page_count": 2,
+    "taxon_count": 1
+  },
+  "stages": [
+    {
+      "name": "official_api_contract_check",
+      "attempt": 1,
+      "status": "passed",
+      "tool": "Google official Gemini embeddings API and pricing documentation",
+      "checks": [
+        "Used synchronous models.batchEmbedContents, not the separate asynchronous Batch API whose Free Tier is unavailable.",
+        "The endpoint returned five 768-dimensional normalized vectors in one external HTTP call."
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "portable_section_aware_chunk_maker",
+      "attempt": 1,
+      "status": "passed",
+      "tool": "evaluate-chunking-ab.py deterministic regex-unit splitter",
+      "checks": [
+        "512/100 produced four exact-substring child chunks over PDF pages 191-192.",
+        "1024/200 produced two page-sized chunks and reused approved page vectors.",
+        "Every child retained source_id, parent_chunk_id, pdf_page, hash and exact source text."
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "bilingual_retrieval_and_refusal",
+      "attempt": 1,
+      "status": "passed",
+      "tool": "Gemini embedding-2 plus deterministic source-term gate",
+      "checks": [
+        "Traditional Chinese and English habitual-constipation queries ranked a term-bearing page-192 chunk first under all three profiles.",
+        "The chromosome-count query remained blocked because the approved pages contain none of its required source terms.",
+        "No Libra probe entered formal acceptance."
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "independent_checker",
+      "attempt": 1,
+      "status": "passed",
+      "tool": "validate-chunking-ab.py plus Codex sampled raw-evidence inspection",
+      "checks": [
+        "Source PDF size matched the manifest and every child was an exact parent-page substring.",
+        "All vector norms, overlaps, hashes, citations, evidence gates and review statuses passed.",
+        "The selected 512/100 profile is approved only in the bounded experiment index."
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "profile_selection",
+      "attempt": 1,
+      "status": "passed",
+      "tool": "declared MRR, recall@1, evidence-margin, refusal and citation selection rule",
+      "checks": [
+        "All profiles achieved mean MRR 1.0, recall@1 1.0, refusal precision 1.0 and citation completeness 1.0.",
+        "512/100 increased mean evidence margin from 0.015480 to 0.029797 and was selected.",
+        "Overlapping child results must be collapsed by parent page before final top-k presentation."
+      ],
+      "retry_target": null
+    }
+  ],
+  "review_summary": {
+    "passed": 5,
+    "needs_review": 0,
+    "failed": 0,
+    "warnings": [
+      "This result covers only Podophyllum PDF pages 191-192 and must be sampled on other volumes before full-book promotion.",
+      "The 1024/200 candidate was identical to the page baseline on these short pages, so this sample cannot measure its behavior on longer sections.",
+      "The main embedding index still enforces one vector per page and must be migrated before 512/100 becomes the production batch path.",
+      "Podophyllum has no approved Taiwan display-name decision yet and remains excluded from chat answers."
+    ]
+  }
+}

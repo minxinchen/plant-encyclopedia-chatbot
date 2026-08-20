@@ -1,0 +1,177 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-1:p0057-p0060",
+  "owner_shard": "S01",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S01/maker/structure-drafts/kohler-volume-1__p0057-p0060.json",
+  "source_draft_sha256": "8b69f4e3dfac9f5f20aaffeecfb24a2202f045834269c728ed25e0a4fd17171f",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "617e3aa5bd1a37478264b8eaefe115dd42192fce5651dbad590e8da3a3314a2d",
+    "validation_check_sha256": "5c2fbf2b5b574b17e7d46963ea618e6a803f106b71dc4ac4b2fe3c5a1196d2b4",
+    "source_disposition_sha256": "b2a6e16763f1b58591c765c8638335d0fb79f4cee9769204da6855b477fa90d0",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Rhamnus Frangula",
+    "authorship_candidate": "L.",
+    "aliases_candidates": [
+      "Frangula vulgaris Reichb.",
+      "Frangula Alnus Mill.",
+      "Frangula Frangula Karst"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Rhamnus Frangula",
+      "Rhamnus frangula"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_zh_tw": null,
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_checked",
+    "taxon_id": null,
+    "display_name_source_scope": "unresolved",
+    "display_name_source_evidence_ids": [],
+    "display_name_is_taiwan_public": false,
+    "display_name_answer_policy": "scientific_name_only",
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping.",
+    "checked_at": "2026-08-13T16:05:12+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Rhamnus Frangula",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Rhamnus+Frangula",
+      "retrieved_at": "2026-08-13T16:05:08+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Rhamnus",
+          "matched_name_id": 2396,
+          "taxon_id": "t0024688",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Rhamnus",
+          "accepted_name_id": 2396,
+          "accepted_usage": [
+            {
+              "usage_id": 182444,
+              "reference_id": 2454,
+              "reference_type": "Book",
+              "publish_year": 2017,
+              "citation": "Ed. Comm. Red List TW Plants,  (2017) The Red List of Vascular Plants of Taiwan, 2017 = 2017 臺灣維管束植物紅皮書名錄.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 277039,
+              "reference_id": 976,
+              "reference_type": "Book Chapter",
+              "publish_year": 1993,
+              "citation": "Liu, Y.-C., Lu, F.-Y., Ou, C.-H. & Wang, C.-M. (1993) 79. Rhamnaceae. In: Flora of Taiwan, 2 ed., vol. 3. 680–695.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 8268,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": null
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0024688",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0024688",
+          "taxon": {
+            "taxon_id": "t0024688",
+            "taxon_status": "accepted",
+            "name_id": 2396,
+            "simple_name": "Rhamnus",
+            "name_author": "L.",
+            "rank": "Genus",
+            "common_name_c": "鼠李屬",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": null,
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Rhamnus frangula",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Rhamnus+frangula",
+      "retrieved_at": "2026-08-13T16:05:08+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Frangula vulgaris",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Frangula+vulgaris",
+      "retrieved_at": "2026-08-13T16:05:09+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Frangula alnus",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Frangula+alnus",
+      "retrieved_at": "2026-08-13T16:05:09+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Frangula frangula",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Frangula+frangula",
+      "retrieved_at": "2026-08-13T16:05:09+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Rhamnus frangula",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Rhamnus%20frangula",
+      "retrieved_at": "2026-08-13T16:05:12+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears."
+  ]
+}

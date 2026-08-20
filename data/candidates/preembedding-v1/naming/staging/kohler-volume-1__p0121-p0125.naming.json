@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-1:p0121-p0125",
+  "owner_shard": null,
+  "source_draft": null,
+  "source_draft_sha256": null,
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "39ac82b356d91df996e4afd02f94d7a24ad0c6a3e853377b38abad9022c87e4d",
+    "validation_check_sha256": "12fcb012d206de2e319450fd459ee1372660a4a6c522a0d2c42f13a6448cbe75",
+    "source_disposition_sha256": null,
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": null,
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Valeriana officinalis",
+    "authorship_candidate": null,
+    "aliases_candidates": []
+  },
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Valeriana officinalis"
+    ],
+    "accepted_scientific_name": "Valeriana fauriei",
+    "display_name_zh_tw": "纈草",
+    "alternative_names_zh_tw": [
+      "吉草"
+    ],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0055734",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary",
+    "rationale": "TaiCOL explicitly links the book binomial as a species-level synonym to the accepted taxon.",
+    "checked_at": "2026-08-20T23:02:42+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Valeriana officinalis",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Valeriana+officinalis",
+      "retrieved_at": "2026-08-20T23:02:42+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Valeriana officinalis",
+          "matched_name_id": 256810,
+          "taxon_id": "t0055734",
+          "taicol_name_status": "not-accepted",
+          "accepted_name": "Valeriana fauriei",
+          "accepted_name_id": 24655,
+          "accepted_usage": [
+            {
+              "usage_id": 178708,
+              "reference_id": 2454,
+              "reference_type": "Book",
+              "publish_year": 2017,
+              "citation": "Ed. Comm. Red List TW Plants,  (2017) The Red List of Vascular Plants of Taiwan, 2017 = 2017 臺灣維管束植物紅皮書名錄.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 279771,
+              "reference_id": 1035,
+              "reference_type": "Book Chapter",
+              "publish_year": 1998,
+              "citation": "Kao, M.-T. & De Vol, C.E. (1998) 140. Valerianaceae. In: Flora of Taiwan, 2 ed., vol. 4. 760–772.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 5382,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0055734",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0055734",
+          "taxon": {
+            "taxon_id": "t0055734",
+            "taxon_status": "accepted",
+            "name_id": 24655,
+            "simple_name": "Valeriana fauriei",
+            "name_author": "Briq.",
+            "rank": "Species",
+            "common_name_c": "纈草",
+            "alternative_name_c": "吉草",
+            "synonyms": "Valeriana officinalis",
+            "is_in_taiwan": true,
+            "alien_type": "native",
+            "alien_status_note": "native: Ed. Comm. Red List TW Plants, 2017",
+            "not_official": false,
+            "updated_at": "2026-04-29"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

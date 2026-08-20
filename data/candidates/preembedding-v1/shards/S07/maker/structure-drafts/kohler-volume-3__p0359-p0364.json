@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-3:p0359-p0364",
+  "owner_shard": "S07",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 168.005,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-3:p0359-p0364",
+    "book_taxon": {
+      "scientific_name_candidate": "Elaeis guineensis",
+      "authorship_candidate": "Jacg.",
+      "aliases_candidates": [
+        "Elaeis de Guinee",
+        "Coco de dente",
+        "mtschi-kitschi"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 359,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "油棕，學名 Elaeis guineensis Jacq.，屬棕櫚科，油棕亞科，油棕族。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          4
+        ],
+        "exact_source_quote": "                                            Elaeis             guineensis Jacg,\n  Ölpalme. Franz.:             Elaeis de Guinee.                   Prasil.: Coco         de dente.        Kisuah.:         mtschi-kitschi.\n          Familie: Palmae. Unterfamilie:                             (eroxyloideae.        Gruppe;        Cocoineae.       Untergruppe:\nElaeidinae. Gattung: Blaeis Jacg.                                                                                                            he"
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 359,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "莖直立粗壯，高10-30米。葉長達7米，羽狀複葉，葉柄基部常留於莖上。",
+        "warnings": [],
+        "source_line_range": [
+          5,
+          12
+        ],
+        "exact_source_quote": "            Beschreibung.             Die Ölpalme besitzt einen meist senkrecht aufsteigenden,                               mannstarken,\n relativ dicken, häufig über dem Boden etwas angeschwollenen Stamm und erreicht eine Höhe\n von    10—15,      auch     von     20, ja im Walde               sogar     von      30 m.     Die Blätter,       gewöhnlich         zwanzig\n bis fünfundzwanzig            an    der Zahl, werden              bis    7 m    lang und     sind gefiedert;         die in grosser An-\n zahl vorhandenen            Fiedern        sind etwa        1 m     lang,      die    untersten    Fiedern     jedes Blattes          sind in\n Dornen umgewandelt.                  Die verbreiterten Basalteile der dicken Blattstiele bleiben gewöhnlich\n nach     dem Abfallen            des Blattes        am     Stamme         sitzen,     werden      aber   in der Kultur           meist    von\n  den Eingeborenen entfernt, da sie die Besteigung des Baumes mit der Kletterschlinge ver-"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 360,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產西非，從塞內加姆比至莫桑比克，常見於幾內亞灣及剛果下游。",
+        "warnings": [],
+        "source_line_range": [
+          22,
+          32
+        ],
+        "exact_source_quote": "        Vorkommen und Ver  bre itu ng.    Die  Ölp alm e  hat   ihre   Hei mat   im   wes taf rik ani sch en\nWaldgebiet. An  der Küs te kom mt    sie vor  von   Sen ega mbi en   bis Mos sam ede s,    am   häu fig ste n\nam Golf von Guinea                im unteren Niger- und Benuögebiet,                          sowie    am     unteren       Kongo.        Wirklich\n\nwild findet sie sich nur                 selten,     und    zwar     dann        im Walde         und    namentlich          in den       Gallerie-\n\nwaldungen          längs     der Ströme;           meist wird       sie angepflanzt             oder    entsteht        subspontan        aus    ver-\n\nsch lep pte n Sam en; dah er trit t sie auc h mas sen haf t in der Näh e der Ans ied elu nge n auf. Am\nbesten gedeiht sie in feuchten, schattigen Thälern; in den Gebirgsgegenden der west-\nafrikanischen          Küste      wird     sie schon       seltener;          dagegen       geht sie am        Kongo       bis zum        Oberlauf"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 363,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "棕櫚油含12-50%游離棕櫚酸；棕櫚仁油含三油酸酯、三硬脂酸酯及月桂酸酯。",
+        "warnings": [],
+        "source_line_range": [
+          39,
+          46
+        ],
+        "exact_source_quote": "             Bestandteile.               Das Palmöl enthält schon im frischen Zustande 12°/, freie Palmitin-\n säure, altes           sogar         bis 50°,; der Rest besteht hauptsächlich aus Palmitin und Olein. Die\n Farbenreaktionen                sind dem           in grossen         Mengen         anwesenden          Lipochrom         zuzuschreiben.         Das\n\n Palmkernöl             enthält        nach         Oudemans            26,6°/, Triolein,            33,0°/, Tristearin,        Tripalmitin        und\n Trimyristin,           ferner        etwa    44°/, Triglyceride               der Laurinsäure,            Capronsäure,         Caprylsäure        und\n\n Caprinsäure.             Es ist demnach               dem       Kokosöl        ähnlicher,         als dem       Palmöl."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 362,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "棕櫚酒為西非黑人喜愛的飲料，由切斷雄花序採汁製成，優於椰酒。",
+        "warnings": [],
+        "source_line_range": [
+          43,
+          45
+        ],
+        "exact_source_quote": "       Der Palmwein aus der Ölpalme ist in ganz Westafrika das Lieblingsgetränk der\nNeger;         er soll in jeder Hinsicht                  besser     sein als der aus            der Kokospalme             gewonnene.           Man\nerhält ihn durch Abschneiden                          der männlichen              Blütenstände,        und     zwar       fliesst    täglich      eine-"
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 364,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "圖版描述：全株、雄花序、雌花序、果序、花部解剖及種子橫切面與縱切面。",
+        "warnings": [],
+        "source_line_range": [
+          22,
+          27
+        ],
+        "exact_source_quote": "          A Habitusbild der ganzen Pflanze. B Männlicher Blütenstand. C Einzelzweig des männlichen Blüten-\nstandes. D Teil eines weiblichen Blütenstandes. E Fruchtstand. 1 Knospe; 2 männliche Blüte; 3 dieselbe im\nLängsschnitt; 4 Staminaltubus; 5 weibliche Blüte; 6 dieselbe im Längsschnitt; 7 Fruchtknoten im Querschnitt;\n8 Frucht; 9 dieselbe, nachdem die obere Hälfte des Fruchtfleisches entfernt ist; 10 Steinkern im Querschnitt;\n11 derselbe im Längsschnitt; 12 ein zweisamiger Steinkern im Querschnitt; 13 Same; 14 derselbe im Quer-\nsehnitt; 15 derselbe im Längsschnitt."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "d29e4b10e09722e71b07816892fcc70f024bd2ae30877bff0d2f3624fa03bc88"
+}

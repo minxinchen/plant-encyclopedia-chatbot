@@ -1,0 +1,525 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-3-p0191-p0204-child-01",
+  "entry_id": "kohler-volume-3:p0191-p0204:child-01",
+  "owner_shard": null,
+  "book_taxon": {
+    "scientific_name": "Eucalyptus globulus",
+    "authorship": null,
+    "aliases": []
+  },
+  "display_name": "藍桉",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Eucalyptus globulus"
+    ],
+    "accepted_scientific_name": "Eucalyptus globulus",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-20T23:02:58+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Eucalyptus+globulus",
+        "query_name": "Eucalyptus globulus",
+        "retrieved_at": "2026-08-20T23:02:58+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0073886",
+        "query_name": "Eucalyptus globulus",
+        "retrieved_at": "2026-08-20T23:02:58+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0073886",
+        "query_name": "Eucalyptus globulus",
+        "retrieved_at": "2026-08-20T23:02:58+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL accepts the queried book binomial at species rank."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 191,
+      "evidence_type": "text",
+      "page_text_sha256": "eb9221a059815df0af33ab65ff3f0eb7c1dc171d7af9acdd24696b5614fe2825",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 192,
+      "evidence_type": "text",
+      "page_text_sha256": "44232793b0275b83785f63360e05d32e56dddba3087bc9361b2497abb3f553f8",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 198,
+      "evidence_type": "text",
+      "page_text_sha256": "a4818399bd7f32f19ab3805169482bc489f4cbfbbe3f56f6b62a2c6a011fb9dd",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 199,
+      "evidence_type": "text",
+      "page_text_sha256": "2c3750f0d35bf90464a444c6e23906c81039fcccbb0f05eee9e3f0ac57ac7147",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 197,
+      "evidence_type": "text",
+      "page_text_sha256": "15f4aff7ac4f3751c0617104e62a6f37e041be346a53112c1a2b23847364b8f8",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 200,
+      "evidence_type": "text",
+      "page_text_sha256": "f4ce402cdf4d6740413f698bb9ede29aa7b29be6d861501198e04ca72d242c0e",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 203,
+      "evidence_type": "text",
+      "page_text_sha256": "eb45c92c0e9af0ad6cc5776cce0f04b3ba75de6518e6eac137b50d42df8afd9c",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-3:p0191-p0204:child-01:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "         Familie: Myriaceae Jussieu. Abteilung: Zeptospermeae Jussieu.                                            Unterfamilie:                 Zuca-\nIypteae Jussieu. Gattung: Eucalyptus L’Heritier.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 191,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 439,
+        "char_end": 637,
+        "source_line_start": 6,
+        "source_line_end": 7,
+        "page_text_sha256": "eb9221a059815df0af33ab65ff3f0eb7c1dc171d7af9acdd24696b5614fe2825",
+        "exact_text_sha256": "b5a54d0d0ff95dd11bc83f08392239d4318c0efb9d5848279c1e453311a80f01",
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "b5a54d0d0ff95dd11bc83f08392239d4318c0efb9d5848279c1e453311a80f01",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0191-p0204:child-01:s01:x00",
+      "section_type": "description",
+      "original_text": "       Besehreibung. Der Fieberbaum gehört zu den höchsten Bäumen der Erde; seine\nHöhe übersteigt 70 m; er wächst überaus schnell; in seiner Heimat 4—6 m in-jedem Jahre.\nSein Holz         ist weiss,        sehr hart und         fault     wenig;      die Rinde       ist etwas         fasrig und           fällt   leicht\nab, wobei die glatte Innenrinde zum Vorschein kommt.                                         Die älteren Zweige                  sind gelbgrau,\nmehr     oder weniger              stielrund;     die jüngeren           gelbgrün,     scharf        vierkantig,         oft     etwas      gedreht.\nDie     Blätter      sind    einfach,       ungeteilt,      ganzrandig,         lederig,      beiderseits        dicht     drüsig        punktiert;\ndiejenigen der jungen Triebe oberseits graugrün, unterseits fast weiss, beiderseits, wie über-\nhaupt die jungen, nicht blühenden Triebe und Schösslinge, dicht mit weissem Reif überzogen.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 191,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 639,
+        "char_end": 1586,
+        "source_line_start": 9,
+        "source_line_end": 16,
+        "page_text_sha256": "eb9221a059815df0af33ab65ff3f0eb7c1dc171d7af9acdd24696b5614fe2825",
+        "exact_text_sha256": "d466281a814bef6b9e30f01998b01d76fd112c81cf210344ea73db4512909686",
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "d466281a814bef6b9e30f01998b01d76fd112c81cf210344ea73db4512909686",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0191-p0204:child-01:s02:x00",
+      "section_type": "flowering",
+      "original_text": "vor     dem    Aufblühen            verschwinden.          —      Die    Blüten      stehen     einzeln       in den           Blattachseln       auf\netwa 8 mm langen dicken, vierkantigen, beinahe geflügelten Blütenstielen.                                                 Der letztere ist in\nder Medianebene               des Stützblattes           etwa 4 mm,          senkrecht zu derselben              8 mm      breit, die Kanten\nholzig und scharf hervortretend.                         Die Blütenknospe ist kreiselförmig vierkantig, dick, holzig\n                                                                                                                                       40",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 191,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 3921,
+        "char_end": 4608,
+        "source_line_start": 36,
+        "source_line_end": 40,
+        "page_text_sha256": "eb9221a059815df0af33ab65ff3f0eb7c1dc171d7af9acdd24696b5614fe2825",
+        "exact_text_sha256": "e9fe619c42d632e71789263d378a7713360c482e755624f214bd859a112f07b1",
+        "section_index": 2,
+        "section_type": "flowering"
+      },
+      "exact_text_sha256": "e9fe619c42d632e71789263d378a7713360c482e755624f214bd859a112f07b1",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0191-p0204:child-01:s03:x00",
+      "section_type": "distribution",
+      "original_text": "            Vorkommen.              Der Baum             hat seine Heimat               im südlichsten Australien                  und auf Tas-\nmanien          (Van Diemensland).                In    Viktoria     wächst        er    von     der     Apollo-Bay          südwestlich      von\nMelbourne bis zum Kap Wilson, und in kleineren Beständen bis Buffalo (F. v. Müller). Auf\nTasmanien erscheint er etwa 300 km nördlich von Hobarttown und geht bis zum äussersten\nSüden. — Durch sein schnelles Wachstum eignet er sich vorzüglich zur Austrocknung",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 192,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 3715,
+        "char_end": 4262,
+        "source_line_start": 36,
+        "source_line_end": 40,
+        "page_text_sha256": "44232793b0275b83785f63360e05d32e56dddba3087bc9361b2497abb3f553f8",
+        "exact_text_sha256": "b864ebb000332cbafaaa1320a92e84943cf2a5eac636a4efacc917fab470d681",
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "b864ebb000332cbafaaa1320a92e84943cf2a5eac636a4efacc917fab470d681",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0191-p0204:child-01:s04:x00",
+      "section_type": "history",
+      "original_text": "        Geschichte. Der Baum wurde 1792 zuerst von Labillardiere beschrieben; dieser\nForscher machte zuerst auf das schnelle Wachstum desselben aufmerksam.   1822 wurde er\nnach Europa gebracht; man erkannte hier den grossen Nutzen, den der Baum bringen konnte.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 192,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 4836,
+        "char_end": 5096,
+        "source_line_start": 48,
+        "source_line_end": 50,
+        "page_text_sha256": "44232793b0275b83785f63360e05d32e56dddba3087bc9361b2497abb3f553f8",
+        "exact_text_sha256": "4ab66e8135b90871055c8a56721c153a40f531da667d5830bef821b6d3a38d19",
+        "section_index": 4,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "4ab66e8135b90871055c8a56721c153a40f531da667d5830bef821b6d3a38d19",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0191-p0204:child-01:s05:x00",
+      "section_type": "description",
+      "original_text": "        Folia Euealypti.       Die Blätte    r  von    Zuc aly ptu s   glo bul us  Lab ill .   sin d    ge wö hn li ch      sta rk\nverlängert eilanz ett lic h, sic hel för mig   geb oge n,   und     lau fen    in  ein e   sch arf e   Spi tze    aus .     Na ch\ndem Grunde zu werden sie bis              3 em   bre it   nnd    lau fen     in   ein en   3— 5    em    lan  gen     Bla tts tie l\naus. Die ganze Länge des Blattes beträg             t   15 —2 0    em.      Get roc kne  t   sin d   sie  har t,    gra  ugr  ün,\nsehr brüchig,         drüsig,    aber nicht      durchscheinend            punktiert;          den     unversehrten           Rand       begleitet\n\nin   einer    Entfernung         von    1 mm        (nicht     1 cm!       Deutsch.        Arzm.)        ein       Randnerv,       in    den   die\n\nSeitennerven einmünden. Seltener     fin den   sic h die  geg  ens tän dig en   run dli che n,   bre ite ren  abe r\nkürzeren Blätter der nicht. blühen den    Tri ebe .   Ge ru ch   und    Ge sc hm ac k   ist  kam pfe rar  tig  un  d\nstark gewürzhaft.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 198,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 1069,
+        "source_line_start": 1,
+        "source_line_end": 11,
+        "page_text_sha256": "a4818399bd7f32f19ab3805169482bc489f4cbfbbe3f56f6b62a2c6a011fb9dd",
+        "exact_text_sha256": "596a217c99f0ec232ad6e7096a6770b07c64aed96a0bc5bcd196af41ade5d4cc",
+        "section_index": 0,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "596a217c99f0ec232ad6e7096a6770b07c64aed96a0bc5bcd196af41ade5d4cc",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0191-p0204:child-01:s06:x00",
+      "section_type": "constituents",
+      "original_text": "         Oleum Eucalypti. Das durch Dampfd                      est ill  ati on    der   fri  sch en    Blä  tte r    von    Euc  aly ptu s\nglobulus Labill. erhalt     ene   Öl  ist   ein e   gel  bli che ,    dün ne    Flü ssi gke it    von     sta rke   m,   eig  ent  üml ich\nkampferartigem Geruche,            in  gle  ich  en    Tei  len    Wei nge ist     lös lic h.    Es     bes itz t    ein   spe zif  isc hes\nGewicht von 0,915—0,925 bei 150           °   C.,   ein  en   Sie  dep unk t   von    175 —17  8°,     ein    opt  isc hes   Dr eh  un gs -\nvermögen von       —+   1° bis  +  20°   und     ers tar rt,    bei   50°  mit    20° /,   ze rr ie be  ne m   Jod      ve rm en gt ,    ZU\neinem Krysta   llb rei .    Ebe nso    ers tar rt     es    dur  ch    Ei nw ir ku ng     von      fre iem    Br  om  ,    sow ie     bei m\nSättigen mit Chl    or-    und   Bro mwa sse rst  off  gas  ,     wo ge ge n    es  mit    Sal pet  rig  säu re     kei nen    kry sta lli -\nsierten Körper erzeugt. Durch Natri                            tall wird es gelb gefärbt; Weingeist von 90°,\nlöst sein gleiches Volumen. Das Öl von Bucalyptus globulus enthält 60—80°/, Cineol (Buca-\nlyptol) C'°H15O, Siedepunkt. 176—177°, daneben Terpene, besonders Rechts-Pinen (Eucalypten)\nC1°H1%,      Siedepunkt 160°, dann Spuren                   hochsiedender Terpene und eines Phenols.                              Olivier      und\nBouchardat            fanden      darin ferner Äthylalkohol,                    Amylalkohol,           Butyraldehyd,           Valeraldehyd,\nCapronaldehyd,           nachdem          .vorher     schon     Schimmel               & Co.     auf         die    Aldehyde      hingewiesen\nhatten.       Voiry     wies      Ameisensäure,             Essigsäure      und        Ester    der Essigsäure,              Buttersäure       und\nBaldriansäure nach.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 198,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 1070,
+        "char_end": 2937,
+        "source_line_start": 12,
+        "source_line_end": 26,
+        "page_text_sha256": "a4818399bd7f32f19ab3805169482bc489f4cbfbbe3f56f6b62a2c6a011fb9dd",
+        "exact_text_sha256": "e1244c5b8acac5f98aece366c87f3827cdf1532f3b98c456efc8b2a862a69064",
+        "section_index": 1,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "e1244c5b8acac5f98aece366c87f3827cdf1532f3b98c456efc8b2a862a69064",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0191-p0204:child-01:s07:x00",
+      "section_type": "harvest",
+      "original_text": "         Euealypt   - Kin\n                     uso.    Australisches oder Eucalyptus -Kino, Botany Bay-Kino bildet\n eine oft dem westindischen Kino von Pterocarpus Marsupium ähnliche, oft aber auch davon\n sehr verschiedene Masse. Dasselbe findet sich in flachen Hohlräumen, die nicht selten den\n Jahresringen des meist harten Holzes parallel laufen, und wird im erhärteten ..oder halb-\n erhärteten Zustande beim Fällen der Eucalyptusbäume gesammelt.      Im lebenden Baume\n findet   sich dasselbe     in   flüssiger Form         und      kann   demselben        als    zähflüssige,       an        der    Luft\n erhärtende Masse durch Anbohren entzogen werden. — Erhärtet bildet dieses Kino eine\n mehr oder weniger dunkelrote, brüchige Masse, welche in Wasser und Alkohol löslich ist,\n wenn     es gut und reich an Kinogerbsäure ist, —                 welches     aber von Alkohol         weniger         angegriffen\n wird, wenn       es Gummi       enthält.    Diese     Verschiedenheit         erklärt   sich aus      der Abstammung                der\n Droge, da nicht nur einer, sondern eine sehr grosse Anzahl der früher genannten Bäume\n austraulisches oder Eucalyptus-Kino liefern.    Nach Wiesner und späteren Berichten von\n Bosisto gehören dahin folgende Bäume:",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        3
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 199,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 1267,
+        "source_line_start": 1,
+        "source_line_end": 14,
+        "page_text_sha256": "2c3750f0d35bf90464a444c6e23906c81039fcccbb0f05eee9e3f0ac57ac7147",
+        "exact_text_sha256": "0efec76bf6fcd01c8b1497bd9a98354c18961e411653146aa33ffa74e2340bf4",
+        "section_index": 2,
+        "section_type": "harvest"
+      },
+      "exact_text_sha256": "0efec76bf6fcd01c8b1497bd9a98354c18961e411653146aa33ffa74e2340bf4",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0191-p0204:child-01:s08:x00",
+      "section_type": "anatomy",
+      "original_text": "            Amatomisches.             Die    Ölbehälter        der Eukalyptusarten                  sind lysigen       entstanden;          sie sind\nvon Wänden            umgeben,        welche keine Cellulosereaktion                   mehr         geben.     Sie liegen         dem Nachbar-\ngewebe so fest an, dass sie das Aussehen eines geschlossenen Sackes haben. Diese Sekret-\nbehälter finden sich vorwiegend in den spaltöffnungsarmen Teilen der Pflanze, also im Blatt-\nstiel, im Rindenparenchym, in der Kelchröhre, bisweilen sogar im Marke der Zweige. (Briosi).\nIn der senkrechten Stellung der Blätter der Blütenzweige erkennt derselbe Verfasser die\nAbsicht,       die Verdunstung              zu verlangsamen;               ähnliches     gelte        für    die Verteilung          der Sekret-\nbehälter.          In der Rinde        sind die letzteren             auf das Rindenparenchym                   beschränkt          und werden\nin der Nähe des Bastteiles von Krystallkammerzellen begleitet. Mc. Alpine und J. R. Remfrey\nfanden     in der Struktur            der Blattstiele         der Eukalyptusarten               derartige       Verschiedenheiten,               dass\nsie in denselben          ein Mittel         zur    Bestimmung            der Spezies        gefunden        zu haben       glauben.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        4
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 197,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 2958,
+        "char_end": 4275,
+        "source_line_start": 28,
+        "source_line_end": 38,
+        "page_text_sha256": "15f4aff7ac4f3751c0617104e62a6f37e041be346a53112c1a2b23847364b8f8",
+        "exact_text_sha256": "22afb4aee18698088d4341257ec26498e29ce0ace7aa5cab34985a73ace90218",
+        "section_index": 3,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "22afb4aee18698088d4341257ec26498e29ce0ace7aa5cab34985a73ace90218",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0191-p0204:child-01:s09:x00",
+      "section_type": "historical_use",
+      "original_text": "         Anwendung. Das ätherische Öl von Eucalyptus globulus Labill. hat zunächst wegen\nseines Gehaltes an Eucalyptol und Terpen antiseptische Eigenschaften. Deshalb verwendet\nman das Öl hin und wieder für cosmetische Zwecke. — Sodann wirkt es antipyretisch, und\nwurde deshalb in ungeheuren Mengen beim Ausbruch der Infiuenza-Epidemie in England 1892",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        5
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 200,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 4362,
+        "char_end": 4713,
+        "source_line_start": 47,
+        "source_line_end": 50,
+        "page_text_sha256": "f4ce402cdf4d6740413f698bb9ede29aa7b29be6d861501198e04ca72d242c0e",
+        "exact_text_sha256": "e54a59c78595ce677b044fc7239574fba86044c14caf91c9424907b4673c0e10",
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "e54a59c78595ce677b044fc7239574fba86044c14caf91c9424907b4673c0e10",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0191-p0204:child-01:s10:x00",
+      "section_type": "historical_use",
+      "original_text": " gebraucht man seit 1888 als Arzneimittel. Es dient in hervorragender Weise\n                                                                              als antisepti-\n sches Toilettemittel und empfiehlt sich als Zusatz zum Waschwasser, zum\n                                                                               Parfümieren\n der Wäsche, zum Besprengen des Zimmers. Ferner hat es sich als Heilmittel bei an\n                                                                                    halten-\n dem Hustenreiz und Keuchhusten bewährt, wo seine wohlthuende Wirkung na\n                                                                                  ch Ent-\n fernung    der      die Schleimhäute         reizenden       Aldehyde            erkannt    wurde.       —    Duquesnel           empfiehlt\n es     wegen     seines   Geschmackes         als Zusatz         zum       Leberthran,          wobei        seine   günstigen        Bigen-\n  schaften bei Erkrankungen     der Atmungsorgane    und bei Magenkatarıh zur Geltung\n. kommen. Eucalyptol tötet rasch und vollständig selbst sehr widerstandsfähige Bakterie\n                                                                                         n-\n  kulturen. Milzbrandbakterien kommen auf Blutserum, wenn es nur 0,6°/, Eucalyptol enthäl\n                                                                                          t,\n  nicht mehr zur Entwickelung.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        6
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 203,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 1431,
+        "char_end": 2863,
+        "source_line_start": 21,
+        "source_line_end": 36,
+        "page_text_sha256": "eb45c92c0e9af0ad6cc5776cce0f04b3ba75de6518e6eac137b50d42df8afd9c",
+        "exact_text_sha256": "2bfa9fa0a924186555ff6a1683ebcac32e00831ffa6247aec42e66d1d1cb5772",
+        "section_index": 0,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "2bfa9fa0a924186555ff6a1683ebcac32e00831ffa6247aec42e66d1d1cb5772",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0191-p0204:child-01:s11:x00",
+      "section_type": "other",
+      "original_text": "           Eucalyptus-Manna              benutzt     man    an    Stelle         des   Zuckers      zur Versüssung;           Euealyptus-\n Kino dient wegen seines Gerbstoffgehaltes als adstringierendes Mittel, und kommt in seinen\n besseren Sorten dem Malabar-Kino und dem Catechu gleich. Russel empfiehlt es als\n                                                                                      Mittel\n gegen Seekranheit. Technisch findet es Anwendung in der Gerberei, und als Beize in der\n Färberei, überhaupt da, wo Catechu oder Malabar-Kino auch verwendet werden.\n",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        6
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 203,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 2864,
+        "char_end": 3434,
+        "source_line_start": 37,
+        "source_line_end": 43,
+        "page_text_sha256": "eb45c92c0e9af0ad6cc5776cce0f04b3ba75de6518e6eac137b50d42df8afd9c",
+        "exact_text_sha256": "918fd02e54795d47a24aeefb6adacbe9e7c760822bfba9d699fd13478fad1b9b",
+        "section_index": 1,
+        "section_type": "other"
+      },
+      "exact_text_sha256": "918fd02e54795d47a24aeefb6adacbe9e7c760822bfba9d699fd13478fad1b9b",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0191-p0204:child-01:s12:x00",
+      "section_type": "distribution",
+      "original_text": "           Alle Eucalyptusarten sind für ihre Heimat schon                                  durch    ihre Lebensweise              und    ihr\n Holz    von grösster Bedeutung.             Bereits       oben wurde von ihrem schnellen Wachstum                            gesprochen\n und der grossen Wassermenge, die sie dem Boden entziehen und ihn dadurch austro\n                                                                                   cknen,\n und ungesunde Gegenden bewohnbar machen; das Holz ‚durchläuft alle Härtegrade; die\n Eisenholz liefernden Arten dienen zu Schiffs- und Wasserbauten, weil ihr Holz wenig zur\n Fäulnis    neigt;    andere      Arten    liefern    Mahagoniholz,              sowie    Material        für künstliches      Ebenholz;\nund neben all diesen besonderen Zwecken, denen das Holz als Substanz dient, ist der Raum-\ninhalt der Stämme von 120-150 m Länge, 5 6 m Durchmesser, ein derartiger, dass\n                                                                                    er von\nkeinem andern Baume erreicht wird.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        6
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 203,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 3435,
+        "char_end": 4489,
+        "source_line_start": 44,
+        "source_line_end": 54,
+        "page_text_sha256": "eb45c92c0e9af0ad6cc5776cce0f04b3ba75de6518e6eac137b50d42df8afd9c",
+        "exact_text_sha256": "2f7261d5905ee031f7c3f1f178a3b1eddb34cb44b60b6d789332f9fe37b9e690",
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "2f7261d5905ee031f7c3f1f178a3b1eddb34cb44b60b6d789332f9fe37b9e690",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0191-p0204:child-01:s13:x00",
+      "section_type": "literature",
+      "original_text": "           Litteratur. Beschreibung und Abbildung. Bucalyptus. L’Heritier,'Sertum anglicum 185\nLamarck, Illustr. Taf. 422. — Baillon Hist. desPl. VI. 317.364. — Bentham & Hooker, Genera\n107 No. 2. — Kosteletzki, Med. Pharm. Flora IV. 1519. — Bentham, Flora Australiensis\nIl. 185. — Eucalyptus globulus. Labillardiere, Voyag. I. 153. Taf. 13. — Pl. Nov. Holl. II.\n121. — Bentham, Flor. Australiensis III. 225. — Hooker £ilti Rlor.ıPasmanılni133. —\nF. v. Müller,        Fragment.      phytogr.       Austral.      II._68.     —     Second     oyst. Cens.         of Austr.    Pl. 98. —\nEucalyptographia           II.   Dec.,    Taf. 11, Fig. 21. —              Pl. Victor. Suppl. Taf. 16. —               De     Candolle,\nProdrom. II. 220. — Luerssen, Med. Pharm. Bot. II. 821. — Karsten, Flora von Deutsch-\nland. H. 351.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        6
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 203,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 4490,
+        "char_end": 5309,
+        "source_line_start": 55,
+        "source_line_end": 63,
+        "page_text_sha256": "eb45c92c0e9af0ad6cc5776cce0f04b3ba75de6518e6eac137b50d42df8afd9c",
+        "exact_text_sha256": "d54a53e75e08b54ca06dfe62441db495269ce9454f89f2fbd4c8a5c963ecd331",
+        "section_index": 3,
+        "section_type": "literature"
+      },
+      "exact_text_sha256": "d54a53e75e08b54ca06dfe62441db495269ce9454f89f2fbd4c8a5c963ecd331",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "f5627a5b6c5c2ef4e9733e941634ba0ec38e6da65b509bc4d30af9f2bf1f6b53",
+    "maker_receipt_sha256": null,
+    "validation_check_sha256": null,
+    "source_disposition_sha256": "9ce7cb82fce0e0a136aa274ba8ba1f0df87652369cdbd76eed81462040879304",
+    "candidate_source_chain": {
+      "source_disposition_sha256": "9ce7cb82fce0e0a136aa274ba8ba1f0df87652369cdbd76eed81462040879304",
+      "boundary_overlay_plan_sha256": "c7c0253e52f0583570699f98cc9c8fa3dda15857551bc2b94d6430ed0afd008a",
+      "boundary_segment_sha256": "d4c5e6813b860c2209cb462104248cd93d155f591dd39e9a522f8cd2ddb37858",
+      "source_parent_entry_id": "kohler-volume-3:p0191-p0204",
+      "continuation_v2_receipts": [
+        {
+          "package_id": "kohler-volume-3:p0191-p0204:child-01:continuation-01",
+          "package_sha256": "4e9c03a29df86274b11937e535c352fda9dea4dacbe5a2d2d96cf62492e45e03",
+          "receipt_sha256": "cdb0922c28aaae6825d6f4237c6c5cec9877eca3548b94c10991b1f9e1e235d0",
+          "attempt_sha256": "6cabf8419ed63c91db3c83714da86ee81fc7ef22e27ee534612178db67967d0a",
+          "validation_check_sha256": "08107de3c8525d4d7c979b797abc5f9b8fa7beb5a0ec7ca166574ed829f58f3e"
+        },
+        {
+          "package_id": "kohler-volume-3:p0191-p0204:child-01:continuation-02",
+          "package_sha256": "70d6423dbc997d3f5e0934e6a39ab4638b6281f91b215808ed84d3b8958f0246",
+          "receipt_sha256": "baeb57a1348a26f87dcf8f7537dd8f15306037a310356090e75bb9c87282c46a",
+          "attempt_sha256": "48873168e435ffee0629a8f080146aa27fb7edfe0958f3d00b35375416252207",
+          "validation_check_sha256": "63414256d508730d88a5c9d9dc2206a9834b5a42f0e76a3e51cb4cd14b7079b2"
+        },
+        {
+          "package_id": "kohler-volume-3:p0191-p0204:child-01:continuation-03",
+          "package_sha256": "e92e005ec6a4d0b53697890b0bbd4fb8f3b32cbccbd882aea15b9cef6cc62436",
+          "receipt_sha256": "bf5f10dc53c562e0f8e4b91b7facb13097f15c433dbb8eca7778555026fb530e",
+          "attempt_sha256": "716ddb01ee161b7b8af9a4a576c2ffffee4af802cd5712226d42d6f290b35ed9",
+          "validation_check_sha256": "254605f7ff7a55ac81dccf63682831d8294341ab82d08ef483d2ee61f1e6a0f8"
+        }
+      ]
+    },
+    "naming_artifact_sha256": "1236cccb8e7cea3d938ec7b5bde55d45619d294b410e436ae8bda535910488b2"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "fa781c8400396f4bab599a81c88634d797dffa1bd13d0de9691b070cd95e10b4"
+}

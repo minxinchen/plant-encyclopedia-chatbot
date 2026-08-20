@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 407,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "faea082832ee69daa4eb91bd95db6bc93f03cc91f82062e1f67b426cfa6bbc4f",
+  "render_dpi": 144,
+  "render_sha256": "96e0b1a47ae3bcf29f243db38a766af72fb0314ad470cbfcff6862cb5f60c60b",
+  "input_sha256": "96e0b1a47ae3bcf29f243db38a766af72fb0314ad470cbfcff6862cb5f60c60b",
+  "render_pixel_width": 5726,
+  "render_pixel_height": 8090,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.394,
+  "embedded_character_count": 216,
+  "ocr_character_count": 47,
+  "ocr_alpha_ratio": 0.7447,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01774733785599003,
+      "text": "Rosaceae.",
+      "width": 0.10776493577749979,
+      "x": 0.8434481252840682,
+      "y": 0.9286263311923553
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "12",
+      "width": 0.016427104925892166,
+      "x": 0.7002053385842818,
+      "y": 0.261627907254508
+    },
+    {
+      "confidence": 1,
+      "height": 0.018964562151167152,
+      "text": "Potentilla Tormentilla Schenk.",
+      "width": 0.33264887274439386,
+      "x": 0.34086242610213563,
+      "y": 0.12202380942529878
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "83.",
+      "width": 0.018480492039167906,
+      "x": 0.9158110888674798,
+      "y": 0.029069767786031875
+    }
+  ],
+  "text": "Rosaceae.\n12\nPotentilla Tormentilla Schenk.\n83.",
+  "output_sha256": "0a84bb055280a20503a0668156ec0d8e784621aa1661ac019af3d44ea59f02c1",
+  "receipt_sha256": "fe2033889cd5ff18c40c3018a3278e63f8276ca67165b7549583b6b66c002989"
+}

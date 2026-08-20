@@ -1,0 +1,152 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-2:p0063-p0064",
+  "owner_shard": "S03",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S03/maker/structure-drafts/kohler-volume-2__p0063-p0064.json",
+  "source_draft_sha256": "17c4aa0fbc6e0d03699ae4dfaedec4a63e86bd3d74e2c9204fd89e366756cc11",
+  "eligibility": {
+    "deterministic_status": "pass",
+    "checked_field": "deterministic_status",
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "b1ca5746186fa990eefe9e0fc9272ec51bdf74c6bc8f3eda9848f1d00ee1348f",
+    "validation_check_sha256": "458d1279dfa2fb7d0396f5da597a54421eb267d63a0f4912da331358c9e7ea7f",
+    "source_disposition_sha256": "db5af78bb9685804ea482fe79c5bfae63ba78d2f3fc469f9057db64192f53402",
+    "review_status": "machine_extracted"
+  },
+  "book_name": {
+    "scientific_name_candidate": "Triticum repens",
+    "authorship_candidate": "L.",
+    "aliases_candidates": [
+      "Agropyrum repens P. Beauvais",
+      "Quecke",
+      "Chiendent officinal",
+      "Petit Chiendent",
+      "Couch-grass"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Triticum repens",
+      "Agropyron repens",
+      "Elymus repens"
+    ],
+    "accepted_scientific_name": "Elymus repens",
+    "display_name_zh_tw": "鵝觀草",
+    "alternative_names_zh_tw": [
+      "魁克麥草"
+    ],
+    "taiwan_occurrence_status": "not_asserted",
+    "taxon_id": null,
+    "authority_record_id": "executive-yuan-gazette-triticum-agropyron-elymus-repens",
+    "rationale": "Taiwan official Gazette evidence explicitly links Triticum repens to Agropyron repens and separately links Elymus repens to Agropyron repens with public name 鵝觀草. The Ministry of Agriculture livestock terminology lists 魁克麥草 as an alternative name for Agropyron repens. No Taiwan occurrence is inferred from quarantine lists.",
+    "checked_at": "2026-08-13T13:00:01+08:00",
+    "display_name_source_scope": "taiwan_government_public",
+    "display_name_source_evidence_ids": [
+      "executive_yuan_gazette"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Triticum repens",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Triticum+repens",
+      "retrieved_at": "2026-08-13T12:27:42+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Triticum repens",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Triticum%20repens",
+      "retrieved_at": "2026-08-13T12:31:55+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Agropyrum repens",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Agropyrum+repens",
+      "retrieved_at": "2026-08-13T12:55:38+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Chiendent officinal",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Chiendent+officinal",
+      "retrieved_at": "2026-08-13T12:55:38+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Petit chiendent",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Petit+chiendent",
+      "retrieved_at": "2026-08-13T12:55:38+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "executive_yuan_gazette",
+      "authority": "行政院公報（農業環保篇）",
+      "query_name": "Triticum repens",
+      "source_url": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg021058/ch07/type3/gov62/num21/Eg.pdf",
+      "retrieved_at": "2026-08-13T13:00:01+08:00",
+      "evidence_excerpt": "Agropyron repens (L.) Beauv. (syn. Triticum repens L.)",
+      "assertion_scope": "external_scientific_name_equivalence_metadata_only",
+      "evidence_source_scope": "taiwan_government_public"
+    },
+    {
+      "source_id": "executive_yuan_gazette",
+      "authority": "行政院公報（農業環保篇）",
+      "query_name": "Elymus repens",
+      "source_url": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018011/ch07/type1/gov62/num28/images/Eg01.pdf",
+      "retrieved_at": "2026-08-13T13:00:01+08:00",
+      "evidence_excerpt": "鵝觀草（Elymus repens = Agropyron repens）",
+      "assertion_scope": "external_naming_and_scientific_name_equivalence_metadata_only",
+      "evidence_source_scope": "taiwan_government_public"
+    },
+    {
+      "source_id": "moa_livestock_dictionary",
+      "authority": "農業部畜產試驗所畜牧用語",
+      "query_name": "Agropyron repens",
+      "source_url": "https://www.tlri.gov.tw/list.php?page=36&subtheme=&theme=dictionary",
+      "retrieved_at": "2026-08-13T13:00:01+08:00",
+      "evidence_excerpt": "Agropyron repens｜魁克麥草",
+      "assertion_scope": "external_alternative_naming_metadata_only",
+      "evidence_source_scope": "taiwan_government_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "The Taiwan accepted name is linked through a two-step official synonym chain; Köhler facts remain attached to the book taxon.",
+    "The official quarantine sources establish name equivalence, not occurrence in Taiwan; occurrence remains not asserted."
+  ]
+}

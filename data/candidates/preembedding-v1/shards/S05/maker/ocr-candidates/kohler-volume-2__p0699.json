@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 699,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "8a75d95c14cf0da0c125d757d8f5f5e85a67d504710895d6019f7aaecf93baca",
+  "render_dpi": 144,
+  "render_sha256": "34be87cb74e13f6339c11dfbe472fc77e8537cfee9bdacefeab9cc8700990ed7",
+  "input_sha256": "34be87cb74e13f6339c11dfbe472fc77e8537cfee9bdacefeab9cc8700990ed7",
+  "render_pixel_width": 5438,
+  "render_pixel_height": 7934,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.381,
+  "embedded_character_count": 75,
+  "ocr_character_count": 57,
+  "ocr_alpha_ratio": 0.614,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.017786026000976562,
+      "text": "Burseraceae.",
+      "width": 0.14453047712356404,
+      "x": 0.8324150268243408,
+      "y": 0.9235060745807461
+    },
+    {
+      "confidence": 1,
+      "height": 0.010191721575600776,
+      "text": "2 a",
+      "width": 0.027542370963200113,
+      "x": 0.6652542379717898,
+      "y": 0.7805059525943098
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "3",
+      "width": 0.016949152635941434,
+      "x": 0.9025423727498258,
+      "y": 0.45639534901949574
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010278238663597672,
+      "text": "3 a",
+      "width": 0.025423728953912206,
+      "x": 0.9004237290964903,
+      "y": 0.3080357144791811
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "6",
+      "width": 0.014830507866380516,
+      "x": 0.5211864409026148,
+      "y": 0.13081395360788461
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252612005,
+      "text": "10",
+      "width": 0.019067796025365902,
+      "x": 0.9322033900964273,
+      "y": 0.11773255844273467
+    },
+    {
+      "confidence": 1,
+      "height": 0.023336563791547582,
+      "text": "Boswellia Carterii Birdw.",
+      "width": 0.3008474523872784,
+      "x": 0.3559322032978862,
+      "y": 0.08430232548085193
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "175",
+      "width": 0.02966101573276103,
+      "x": 0.9110169495488738,
+      "y": 0.03343023256185451
+    }
+  ],
+  "text": "Burseraceae.\n2 a\n3\n3 a\n6\n10\nBoswellia Carterii Birdw.\n175",
+  "output_sha256": "9b5df1e18b8a59f2af20d94fda493a9fe55518b059f5a8bad9fad9939b224729",
+  "receipt_sha256": "99d6cfb01273ff7c994f292658d38a773b79c6f3e0c6ff25ce2471d34a2b5e68"
+}

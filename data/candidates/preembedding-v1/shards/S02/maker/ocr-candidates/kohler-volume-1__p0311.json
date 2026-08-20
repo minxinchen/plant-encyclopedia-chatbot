@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 311,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "4393c37c793deef9b8f17bf8e175935106129cbab63ce41609c15f51c20bfccb",
+  "render_dpi": 144,
+  "render_sha256": "6e1b231b1d2f2fe894f505fbbd471463020b86dc14662897e5fa1becc3f4b16a",
+  "input_sha256": "6e1b231b1d2f2fe894f505fbbd471463020b86dc14662897e5fa1becc3f4b16a",
+  "render_pixel_width": 5474,
+  "render_pixel_height": 7814,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.555,
+  "embedded_character_count": 120,
+  "ocr_character_count": 72,
+  "ocr_alpha_ratio": 0.5278,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.02034883650522379,
+      "text": "Labiatae.",
+      "width": 0.08298754843936607,
+      "x": 0.8568464751579103,
+      "y": 0.9375000004101788
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "10",
+      "width": 0.020746887109841516,
+      "x": 0.7614107886027556,
+      "y": 0.2703488372171702
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "18",
+      "width": 0.018672199343757634,
+      "x": 0.6431535269878723,
+      "y": 0.24273255812248573
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "11",
+      "width": 0.020746887109841516,
+      "x": 0.8174273862791042,
+      "y": 0.23546511636587886
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "17",
+      "width": 0.018672199343757523,
+      "x": 0.7365145228557837,
+      "y": 0.18459302334704675
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "15",
+      "width": 0.018672199343757634,
+      "x": 0.6120331947005279,
+      "y": 0.17151162812033416
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185932098874,
+      "text": "16",
+      "width": 0.02697095445766562,
+      "x": 0.8257261412210782,
+      "y": 0.171511628562097
+    },
+    {
+      "confidence": 1,
+      "height": 0.013202519170821603,
+      "text": "WMüller n. d. Nat.",
+      "width": 0.07261410420951653,
+      "x": 0.8755186746414381,
+      "y": 0.1482558139700455
+    },
+    {
+      "confidence": 1,
+      "height": 0.020406514879257043,
+      "text": "Salvia officinalis I.",
+      "width": 0.2219916881607174,
+      "x": 0.3775933697578155,
+      "y": 0.10168650799544798
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "38.",
+      "width": 0.018672199343757634,
+      "x": 0.9211618255355901,
+      "y": 0.03779069790696277
+    }
+  ],
+  "text": "Labiatae.\n10\n18\n11\n17\n15\n16\nWMüller n. d. Nat.\nSalvia officinalis I.\n38.",
+  "output_sha256": "ec381214fe364359ec662aec9029d27307eeab1840f0835b2e4d24e13416e7fa",
+  "receipt_sha256": "96b1081eddeefb58ca54ded992195e0551c373c5a4c648583b9096667a841f69"
+}

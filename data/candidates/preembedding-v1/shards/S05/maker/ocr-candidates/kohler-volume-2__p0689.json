@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 689,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "88ab8e10d35e1743040c263fda4e40da2122bd418bcaf65ad65483fa84eb863f",
+  "render_dpi": 144,
+  "render_sha256": "075e092172e8e3d7fd858b6541a2706ff39abe695356722d7ab58439b7c6e478",
+  "input_sha256": "075e092172e8e3d7fd858b6541a2706ff39abe695356722d7ab58439b7c6e478",
+  "render_pixel_width": 5522,
+  "render_pixel_height": 7742,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.185,
+  "embedded_character_count": 83,
+  "ocr_character_count": 53,
+  "ocr_alpha_ratio": 0.6226,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.021723590199909548,
+      "text": "Euphorbiaceae.",
+      "width": 0.13684650787226182,
+      "x": 0.810395483151516,
+      "y": 0.9382661121293264
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "13",
+      "width": 0.018329938694896852,
+      "x": 0.562118126286462,
+      "y": 0.3023255816349586
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372621082103,
+      "text": "12",
+      "width": 0.02443991914412247,
+      "x": 0.7311608959269205,
+      "y": 0.27906976704459463
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "10",
+      "width": 0.022403258110120672,
+      "x": 0.8920570265627263,
+      "y": 0.1773255813886817
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "11",
+      "width": 0.014256619279673144,
+      "x": 0.8839103869996745,
+      "y": 0.09883720937660112
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185932098874,
+      "text": "Groton Eluteria",
+      "width": 0.17311608708451953,
+      "x": 0.36863543790958775,
+      "y": 0.07412790746575149
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372621082103,
+      "text": "Bennet",
+      "width": 0.06720977698314179,
+      "x": 0.5641547850114842,
+      "y": 0.0741279068725984
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "170",
+      "width": 0.032586557974569996,
+      "x": 0.8716904281410246,
+      "y": 0.03488372106891435
+    }
+  ],
+  "text": "Euphorbiaceae.\n13\n12\n10\n11\nGroton Eluteria\nBennet\n170",
+  "output_sha256": "381f01176badb23ed717f669609d25db8b4f861b9c978ccdf08ad900e170ac5c",
+  "receipt_sha256": "00e11343417782c07cc8d567eef3e853d1de9fa5f53cc1d8041f30b44540d9a6"
+}

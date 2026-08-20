@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "author": "Codex (GPT-5)",
+  "date": "2026-08-13",
+  "decision": "promote_as_default_local_maker",
+  "model": {
+    "upstream": "mlx-community/Qwen3.5-27B-4bit",
+    "upstream_revision": "45797d2985a12c55e6473686e9ea91b95e959553",
+    "license": "Apache-2.0",
+    "local_path": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+    "local_size_kib": 15704692,
+    "runtime": {
+      "mlx": "0.31.1",
+      "mlx_lm": "0.31.1"
+    }
+  },
+  "selection_reason": {
+    "hardware_fit": "The 4-bit artifact is approximately 16.1 GB and fits the 48 GB unified-memory host with rollback models retained.",
+    "quality_basis": "The official Qwen3.5 model card reports the dense 27B ahead of Qwen3.5-35B-A3B on several instruction, knowledge and long-context benchmarks.",
+    "rejected_primary_candidates": [
+      "Gemma 4 MLX 4-bit candidates were too close to or above the host memory envelope for a reliable batch worker.",
+      "Smaller Ministral and Qwen variants remain useful speed candidates but are not the highest-quality replacement that fits this host."
+    ]
+  },
+  "qualification": {
+    "source_entry": "kohler-volume-4:p0018-p0020",
+    "owner_shard": "S08",
+    "prompt_version": "plant-structure-line-anchors-v2",
+    "elapsed_seconds": 146.066,
+    "sections": 6,
+    "deterministic_status": "pass",
+    "deterministic_errors": [],
+    "source_quote_protocol": "The model selects PDF page and source line range; the worker materializes exact quotes from frozen source text.",
+    "taiwan_name_gate": {
+      "display_name": null,
+      "name_resolution_status": "unresolved",
+      "status": "pass"
+    },
+    "receipt": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S08/maker/structure-drafts/kohler-volume-4__p0018-p0020.json",
+    "receipt_sha256": "36ade504e2af780e24d1e2f86798cc4de40f163f7a98098e749a16323c6ccbfb"
+  },
+  "service_verification": {
+    "endpoint": "http://127.0.0.1:18080/v1",
+    "models_endpoint": "pass",
+    "configured_default": "27b",
+    "context": 65536,
+    "max_output_tokens": 4096,
+    "reasoning": "off"
+  },
+  "rollback": [
+    "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-9B-6bit",
+    "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit"
+  ],
+  "limits": [
+    "This is a maker qualification, not authority to approve layout-sensitive OCR or image claims.",
+    "Taiwan names remain a separate public-source resolution gate.",
+    "The model does not create embeddings; embedding remains a later, rebuildable derivative stage."
+  ]
+}

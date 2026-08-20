@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "run_id": "volume3-carica-papaya-hybrid-chat-2026-08-11",
+  "started_at": "2026-08-11T21:08:46+08:00",
+  "finished_at": "2026-08-11T21:18:44+08:00",
+  "status": "approved",
+  "cost": {
+    "incremental_usd": 0,
+    "paid_fallback_used": false,
+    "external_model_calls": 1,
+    "batch_embed_items": 26
+  },
+  "input": {
+    "source_id": "kohler-volume-3",
+    "record_id": "carica-papaya",
+    "pdf_pages": [165, 166, 167, 168, 169, 170],
+    "taiwan_display_name": "番木瓜",
+    "taiwan_alias": "木瓜",
+    "name_authority": "https://taieol.tw/pages/214642/articles",
+    "government_name_source": "https://www.tss.gov.tw/theme_data.php?id=20&theme=new_varieties",
+    "occurrence_source": "https://tai2.ntu.edu.tw/species/452%20001%2001%200"
+  },
+  "stages": [
+    {
+      "name": "source_and_name_gates",
+      "status": "passed",
+      "checks": [
+        "PDF pages 165-170 are one complete Carica papaya entry; PDF page 171 starts Sarothamnus scoparius.",
+        "Seven approved record sections are exact substrings of the cited pages.",
+        "番木瓜 is the display name, 木瓜 remains an alias, and naturalized occurrence metadata is separate from book facts.",
+        "The record explicitly guards against conflation with Chaenomeles sinensis."
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "embedding_and_retrieval",
+      "status": "passed",
+      "checks": [
+        "One Gemini Free Tier batch embedded six page baselines, sixteen 512/100 children and four queries.",
+        "Pure semantic and hybrid retrieval both ranked PDF page 168 first for Traditional Chinese and English Papayotin questions.",
+        "Chromosome and Chaenomeles wrong-name questions passed the exact book-evidence refusal gate.",
+        "Page baseline had a larger evidence margin in this sample, so 512/100 is retained for portable consistency rather than claimed universally superior."
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "main_index_chat_and_gem",
+      "status": "passed",
+      "checks": [
+        "The main index now has 28 approved children across 12 parent pages plus two preserved baselines.",
+        "All prior Podophyllum and Strychnos bilingual retrieval and refusal regressions remain valid.",
+        "The deterministic chat API passes 26 cases including bilingual Papayotin answers, medical refusal, unknown-fact refusal and wrong-name protection.",
+        "The Classic Gem evidence pack now exports four approved records."
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "portable_n8n_harness",
+      "status": "passed",
+      "checks": [
+        "The rebuild helper idempotently replays three explicitly approved bounded packages without model calls.",
+        "PEHybridIdx001 matches the canonical commands and remains inactive in n8n 2.12.3.",
+        "n8n and Qwen remain stopped; pre-import rollback artifacts are present."
+      ],
+      "retry_target": null
+    }
+  ],
+  "review_summary": {
+    "passed": 4,
+    "failed": 0,
+    "warnings": [
+      "The selected 512/100 profile did not beat page baseline evidence margin on this sample.",
+      "Historical medical passages remain non-prescriptive and must not expose doses or treatment advice.",
+      "Image reasoning and full-volume indexing remain disabled.",
+      "The next iteration is a cross-volume readiness review, not automatic production expansion."
+    ]
+  }
+}

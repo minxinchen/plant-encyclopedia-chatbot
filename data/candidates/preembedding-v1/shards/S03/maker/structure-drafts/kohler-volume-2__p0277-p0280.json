@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0277-p0280",
+  "owner_shard": "S03",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 141.616,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0277-p0280",
+    "book_taxon": {
+      "scientific_name_candidate": "Jatrorhiza palmata",
+      "authorship_candidate": "Miers",
+      "aliases_candidates": [
+        "Menispermum palmatum Lam.",
+        "Menispermum Columba Roxb.",
+        "Cocculus palmatus D.C.",
+        "Jatrorhiza Columba Miers.",
+        "Jatrorhiza Miersii Oliv.",
+        "Chasmanthera Columba Baill."
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 277,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Jatrorhiza palmata Miers，同物異名包括 Menispermum palmatum 等。隸屬於防風草科。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          7
+        ],
+        "exact_source_quote": "                                       Jatrorhiza palmata Miers.\n Syn. Menispermum palmatum Lam.                     Menispermum Columba Roxb.                  Cocculus palmatus D.C.\n         Jatrorhiza    Columba Miers.        Jatrorhiza Miersii Oliv.           Chasmanthera         Columba Baill.\n\n           Kalumb-     oder Colombostaude,          Kolumbowurzel,        Kalumbawurzel,          Ruhrwurzel        —\n                                                Colombo —         Calumba.\n             Familie: Menispermaceae; Gattung: Jatrorhiza Miers (irrthümlich Jateorhiza)."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 277,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "多年生，具大型不規則塊莖狀根莖。莖草質，纏繞。葉大，掌狀 5-7 裂，邊緣波狀，兩面被腺毛。",
+        "warnings": [],
+        "source_line_range": [
+          8,
+          16
+        ],
+        "exact_source_quote": "             Beschreibung.         Das ausdauernde,      fleischige, sehr grosse    und    dicke, unregelmássig knollige\n  Rhizom ist mit gliederig eingefügten, rübenförmig-knolligen, bis 30 Ctm. langen, 2 bis 8 Ctm. dicken,\n  aussen runzeligen und braunen, innen fest-fleischigen und gelben Wurzeln, welche nur wenige kleinere\n  Aeste tragen, ausgestattet. Stengel krautartig, einjährig, einzeln oder zu mehreren, eine Dicke von -\n  l Ctm. eireichend, jedoch baumhoch schlingend, stielrund, längsfurchig, gedreht, durch lange, ab-\n  stehende, rothbraune Drüsenhaare zottig. Blätter zerstreut, gross, bis 30 Ctm. im Durchmesser, lang-\n  gestielt, mit rundlichem Umrisse, am Grunde tief herzfórmig, handartig 5—7 lappig, die obersten 3lappig,\n  am Rande wellenförmig, beiderseits auf den Nerven und deren Verüstelungen sowie am Rande mit\n  kurzen Drüsenhaaren besetzt, oberseits dunkelgrün, unterseits heller; Lappen kurz gespitzt ganzrandig,"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 277,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "根非木質，富澱粉。外皮為皺縮軟木，中皮含石細胞及草酸鈣結晶，內皮具薄壁細胞及木質部。",
+        "warnings": [],
+        "source_line_range": [
+          43,
+          49
+        ],
+        "exact_source_quote": "         Anatomisches.        Die nicht holzige, sondern vorherrschend mehlige Wurzel ist mit einer\nAussenrinde bedeckt, die aus einem sehr unregelmässig runzeligen, gelblich-braunen oder fast grün-\nlichen Korke gebildet ist, dessen Bau zartwandige, gelbe Tafelzellen in regelmässig geschichteter Lage\nerkennen lässt. Die Mittelrinde, welche bis zur äusseren Grenze der Markstrahlen reicht, besteht aus\neinem schlaffen, stärkereichen Parenchym, welches nach seinem Umfange hin mit einzeln oder gruppen-\nweis eingestreuten, grossen, kubischen oder länglichen Steinzellen ausgestattet ist. Letztere, welche\n                                                                                                                          140"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 278,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產東非及馬達加斯加森林，常見於贊比西河下游。在留尼汪、塞舌爾及東印度有栽培。",
+        "warnings": [],
+        "source_line_range": [
+          21,
+          23
+        ],
+        "exact_source_quote": "         Vorkommen.       In den Wäldern Ostafrikas und Madagaskars einheimisch; namentlich in den\nUrwäldern der ostafrikanischen portugiesischen Besitzungen vom 12. bis 19.\" südl. Breite. Häufig am\nunteren Zambesi. Auf Mauritius, den Sechellen (nordöstlich von Madagaskar) und in Ostindien kultivirt."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 279,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含苦味質（Columbin）、小檗鹼（Berberin）、Columbosäure、澱粉及樹脂。Columbin 為苦味結晶。",
+        "warnings": [],
+        "source_line_range": [
+          16,
+          20
+        ],
+        "exact_source_quote": "            Bestandtheile.          Buchner fand einen eigenthümlichen Bitterstoff (Columbin), 30—359, Stärke,\neinen gelben, harzigen Körper               (Berberin),    eine eigenthümliche        Säure (Columbosäure),           Gummi        etc.\n          Das von Wittstock 1830 in der Kolombowurzel entdeckte Columbin oder Columbinbitter\n(05, Ha, 0,), welches nach Bödecker in der Innenrinde krystallisirt abgelagert vorkommen soll 一\nFlückiger vermuthet, dass man die Calciumoxalatkrystalle dafür angesehen hat — krystallisirt nach"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 280,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史用途：用於胃腸卡他、嘔吐、慢性腹瀉及痢疾。小檗鹼對動物具毒性，可收縮脾臟及腸道。",
+        "warnings": [
+          "Content describes historical medical use; not modern medical advice."
+        ],
+        "source_line_range": [
+          29,
+          33
+        ],
+        "exact_source_quote": "             Anwendung.        In Substanz, als Absud und Extrakt bei Magen- und Darmkatarrhen, Erbrechen\nSchwange rer,  nerv   ösem  Erbr eche n,  chro  nisc her  Diar rhoe ,  Ruh r  etc.  Die  Wirk samk eit   ist thei ls in dem\n\nStärkeme hl,  theil s   in den   3 Bitt erst offe n  zu  such en.    Das  Berb erin wirk t  bei Thie ren   toxi sch.  „Na ch\n"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "e64cda87031d8a2abd75c5f611967fa538e643be710e1b1143e72ef1887af40a"
+}

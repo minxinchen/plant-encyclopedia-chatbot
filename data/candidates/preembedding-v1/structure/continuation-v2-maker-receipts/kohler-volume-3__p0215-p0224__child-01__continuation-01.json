@@ -1,0 +1,155 @@
+{
+  "schema_version": "2.0",
+  "package_id": "kohler-volume-3:p0215-p0224:child-01:continuation-01",
+  "parent_entry_id": "kohler-volume-3:p0215-p0224",
+  "child_entry_id": "kohler-volume-3:p0215-p0224:child-01",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation-v2:kohler-volume-3:p0215-p0224:child-01:continuation-01:v1",
+  "owner_shard": "S07",
+  "package_sha256": "2ca0a615631339c8c2b3d90af0efe56b8d3670289eb96d0dee4a00753855c35e",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "prompt_version": "plant-structure-line-coordinates-v2",
+  "attempt_sha256": "92b8ee2f22b7e1fed4532a262fdb33290d3d4219a4386ab2a124e9b5f59cc356",
+  "raw_response_sha256": "059e518542efb99a1b6eefd477d4f4a81aafdc06389b22ca9dfe2a92e234e929",
+  "elapsed_seconds": 25.161,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 215,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 351,
+      "char_end": 473,
+      "source_line_start": 6,
+      "source_line_end": 6,
+      "page_text_sha256": "26db0d74dcbca381f276a9fa6891f6b48b8baff3e2ecaac5250aa84de73028fb",
+      "exact_text_sha256": "1c0d4c8cdd871ae56016b54d8ab4b9b6bbb77f646c351f12c1b7e7a673009bf7",
+      "section_index": 0,
+      "section_type": "taxonomy"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 215,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 474,
+      "char_end": 827,
+      "source_line_start": 7,
+      "source_line_end": 10,
+      "page_text_sha256": "26db0d74dcbca381f276a9fa6891f6b48b8baff3e2ecaac5250aa84de73028fb",
+      "exact_text_sha256": "64a3a7bca220fce10f90979d1fb5ad06a47b901c794dbe6d7556c93e2bbe08ff",
+      "section_index": 1,
+      "section_type": "description"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 216,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 4100,
+      "char_end": 4273,
+      "source_line_start": 40,
+      "source_line_end": 41,
+      "page_text_sha256": "6be0fbe2c0467f786e349709b3f506c97b07311e15dbd2b866f3a920fd2aa4d8",
+      "exact_text_sha256": "9ea45e093ecd13f4d3d2ac491df30e304aa6ea6491cab4a0b0159f5ea7b65697",
+      "section_index": 2,
+      "section_type": "flowering"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 216,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 4275,
+      "char_end": 4746,
+      "source_line_start": 43,
+      "source_line_end": 46,
+      "page_text_sha256": "6be0fbe2c0467f786e349709b3f506c97b07311e15dbd2b866f3a920fd2aa4d8",
+      "exact_text_sha256": "1b414ed0010744652f21b5df2f0682f2dd75f490d9a86ea9f36a787aa2bc714e",
+      "section_index": 3,
+      "section_type": "distribution"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 218,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 0,
+      "char_end": 245,
+      "source_line_start": 1,
+      "source_line_end": 3,
+      "page_text_sha256": "e11d7bd582dea2dc451512e6e7d70d9e120e605ec7aa63f3e7ca29dd71919e6d",
+      "exact_text_sha256": "3945729675de2a0b3fbd4eeb423ac429b05b19fa6c80944b1554fbd5d6d9d9a5",
+      "section_index": 4,
+      "section_type": "constituents"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-3:p0215-p0224:child-01:continuation-01",
+    "parent_entry_id": "kohler-volume-3:p0215-p0224",
+    "book_taxon": {
+      "scientific_name_candidate": "Santalum album"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 215,
+        "source_line_range": [
+          6,
+          6
+        ],
+        "exact_source_quote": "              Familie: Santalaceae R. Brown.                Unterfamilie:             Osyrideaee      Gattung: Santalum L."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 215,
+        "source_line_range": [
+          7,
+          10
+        ],
+        "exact_source_quote": "         Beschreibung. Der Sandelholzbaum erreicht eine Höhe von 10 m bei einem Umfange\nvon 1 bis 2 m. Er ist ein Halbparasit, eine sogenannte „freilebende“ Pflanze, welche ihre\nNahrung zwar zum Teil aus den Wurzeln von Wirtspflanzen zieht, aber von diesen getrennt,\nschliesslich auch ohne die letzteren leben kann. Das beweist schon der üppige Blätter-"
+      },
+      {
+        "section_type": "flowering",
+        "pdf_page": 216,
+        "source_line_range": [
+          40,
+          41
+        ],
+        "exact_source_quote": "           Blütezeit.           Der Baum trägt zwar das ganze Jahr Blüten und Früchte, doch fällt seine\nHauptblütezeit           in die Monate           März       bis Juli."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 216,
+        "source_line_range": [
+          43,
+          46
+        ],
+        "exact_source_quote": "           Vorkommen.              Der        Baum      wächst       im    südöstlichen          Asien;        er ist in Vorderindien       ver-\nbreitet, wo er besonders in der Regentschaft Madras eines besonderen Schutzes sich erfreut.\nWährend          er in Mysore,           Coimbatore           und    Canara,        auf der Koromandelküste,                   in Assam       und\nCochinchina wild wächst, wird er in der Präsidentschaft Madras und Mysore in Regierungs-"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 218,
+        "source_line_range": [
+          1,
+          3
+        ],
+        "exact_source_quote": "         Lignum Santali bildet das Kernholz von Santalum album L. und, jenach dem Produktions-\n lande, auch verwandter Arten. Man unterscheidet                                              |\n         Östindisches Sandelholz von Santalum album L."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "68f49985d518656063d30a81626f555cc4790cde9e4c403e4e1919331b858d47"
+}

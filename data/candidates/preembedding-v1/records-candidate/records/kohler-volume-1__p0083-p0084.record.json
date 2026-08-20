@@ -1,0 +1,256 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0083-p0084",
+  "entry_id": "kohler-volume-1:p0083-p0084",
+  "owner_shard": "S01",
+  "book_taxon": {
+    "scientific_name": "Fagus silvatica",
+    "authorship": "L.",
+    "aliases": [
+      "Rothbuche",
+      "Beech",
+      "Hetre",
+      "Fagus silv. var. sanguinea",
+      "Fagus silv. var. cristata",
+      "Fagus silv. var. quercifolia",
+      "Fagus silv. var. asplenifolia",
+      "Fagus silv. var. pendula"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Fagus silvatica"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T18:49:17+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Fagus+silvatica",
+        "query_name": "Fagus silvatica",
+        "retrieved_at": "2026-08-13T18:49:15+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Fagus+silv",
+        "query_name": "Fagus silv",
+        "retrieved_at": "2026-08-13T18:49:15+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 83,
+      "evidence_type": "text",
+      "page_text_sha256": "d7b641f288ebbe996d6d728311c31eb72c4c300113f46e19e002797c67438ff7",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 84,
+      "evidence_type": "text",
+      "page_text_sha256": "05199c7d63e9bd2892a4ca4854f550cb04ac9d816646e1ee000e9c6ea60f6da3",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0083-p0084:s00:x00",
+      "section_type": "description",
+      "original_text": "               Besdireibung,              Bis 30    m holier Baum mit walzenrundem, silbergrau berindetem Stamm unci\n     prachtvoller, in spaterem Alter schon gewolbter Krone.                             Knospen spinclelformig, straff, spitz, ziemlich\n                                                      ••\n     gross.    Tragknospen dicker und grossei   Schuppen dachziegelig kaffeebraun gegen die Spitze mit\n                                                           -»\n\n                                                                                                 ,\n\n\n\n     einem feinen, silbergrauen Filz bedeckt.  Die derben und lederartigen, beiderseits grtinen, glanzenden\n     Blatter auf 6       —\n                     10 mm langen, behaarten Blattstielen, eiformig, mit wenig ausgezogener Spitze, am\n.-\n\n     Grunde ziemlich stumpf, den Enden der Seitenrippen entsprechend am Rande seicht und unregelmassig,\n     schwach-buchtig gezahnt, etvvas wellig, kahl, nur am Rande in der Jugend fein und seidenartig\n     gewimpert.   Blattrippen auf jeder Seite 6                     —\n                                                  9, nach dem Rande zu etwas auseinanderlaufend.      Junge\n     Blatter mit 2 langen,     zungenformigen, rothlichen, bald abfallenden Nebenblattern.        Bliithen an den",
+      "normalized_text": null,
+      "zh_tw_rendering": "高達30公尺，銀灰色樹幹，圓錐形芽，葉橢圓形，邊緣波狀鋸齒，葉脈6-9對。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 83,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 368,
+        "char_end": 1682,
+        "page_text_sha256": "d7b641f288ebbe996d6d728311c31eb72c4c300113f46e19e002797c67438ff7",
+        "exact_text_sha256": "db1dd363fc59e7ff1672d8fbe0f460c35ca9bd8c4bd5a954debf7a08eb656e59",
+        "source_line_start": 13,
+        "source_line_end": 32,
+        "section_index": 0,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "db1dd363fc59e7ff1672d8fbe0f460c35ca9bd8c4bd5a954debf7a08eb656e59",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0083-p0084:s01:x00",
+      "section_type": "anatomy",
+      "original_text": "               Anatomisclies : Der Querschnitt des Buchenholzes zeigt ein sehr dunnes, kernschichtloses, aus sehr kleinen\n     Kreisschichtzellen bestehendes Mark und ein Holzgewebe, welches aus dickwandioen, wenig langen Holzellen mit\n     dazwischen liegenden zahlreichen, gleichmassig vertheilten Gefassen, zusammengesetzt ist. Markstrahlen ungleich, an\n     den Stellen, wo sie aus einem Jahrringe in den andern iibertreten, etwas verdickt.",
+      "normalized_text": null,
+      "zh_tw_rendering": "橫切面顯示無髓心層，由細小細胞組成；木質部含厚壁細胞及均勻分佈的導管。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 83,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 5195,
+        "char_end": 5639,
+        "page_text_sha256": "d7b641f288ebbe996d6d728311c31eb72c4c300113f46e19e002797c67438ff7",
+        "exact_text_sha256": "a391d7cf250d824d72acc89c892abf9ce04d6e6412b65c98e7fa44958794560c",
+        "source_line_start": 72,
+        "source_line_end": 75,
+        "section_index": 1,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "a391d7cf250d824d72acc89c892abf9ce04d6e6412b65c98e7fa44958794560c",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0083-p0084:s02:x00",
+      "section_type": "distribution",
+      "original_text": "                  Verbreitung:                             Waldb                            Auf kraftigem Gebirgsboden Mitteleuropas\n                                                                                                     Walcl                   Die Buche gent\n     sudlich bis Sizilien, sudwestlich bis Mittelspanien und Nordportugal, sudostlich bis zum Kaukasus (42°),\n     an der   Kiiste Norwegens   bis fast zum  61. Grad, im Innern Norwegens   bis zum   59. Grad.   ~\n                                                                                                     Der nord-\n     ostlichste Punkt ihrer Verbreitung ist Kalethen im siidlichen Curland (56° 20').   In vertikaler Richtung\n     steigt   sie   am Aetna bis 1880 m,             in    den bairischen Alpen 1300 m, in den norddeutschen Gebirgen\n     650 m empor.",
+      "normalized_text": null,
+      "zh_tw_rendering": "分佈於中歐山區，南至西西里，西至西班牙，東至高加索，北至挪威，垂直分佈至1880公尺。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 83,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 5641,
+        "char_end": 6484,
+        "page_text_sha256": "d7b641f288ebbe996d6d728311c31eb72c4c300113f46e19e002797c67438ff7",
+        "exact_text_sha256": "543f679b9888e2b0820c60fae0484b3eefc1f204341ba611a31abb7f51b88c8e",
+        "source_line_start": 77,
+        "source_line_end": 84,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "543f679b9888e2b0820c60fae0484b3eefc1f204341ba611a31abb7f51b88c8e",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0083-p0084:s03:x00",
+      "section_type": "history",
+      "original_text": "                Name und Geschichtliches.                           Der Name Buche, althochdeutsch baoche,                   buoclia,   boha,\n     angel sachsisch boce, beoce,                                   fi\n\n     Buche) gleichen Ursprungs     sein unci zwar  (nach    Grassmann)     von  der Sprachwurzel abstammen,  welche\n     im Griechischen cpccy~co,  im  Altindischen  bliag'   lautet und  essen  bedeutet.  Der Name,  sowohl  deutsch,\n\n     lateinisch als griechisch, wurde   sich also  auf   die  essbaren  Friichte beziehen.  Im Persischen heisst die",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源於日耳曼語根，意為食用，與希臘語及梵語詞根相關，指其可食果實。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 83,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 6485,
+        "char_end": 7049,
+        "page_text_sha256": "d7b641f288ebbe996d6d728311c31eb72c4c300113f46e19e002797c67438ff7",
+        "exact_text_sha256": "4bab5903741629c50ae527c4e3f1138e0e8dba74b8b04ef66b33e1a36109b662",
+        "source_line_start": 85,
+        "source_line_end": 91,
+        "section_index": 3,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "4bab5903741629c50ae527c4e3f1138e0e8dba74b8b04ef66b33e1a36109b662",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0083-p0084:s04:x00",
+      "section_type": "constituents",
+      "original_text": "           Bestandtheile.      Es sind derzeit 2 Kreosote im Handel, die hinsinsichtlich ihrer Zusammen-\nsetzung nicht ganz gleich sind; es ist dies das mahrische (von Blansko in Mahren) und das rheinische\n(aus Mainz). Das reine Kreosot ist eine olartige, farblose Flussigkeit, von durchdringendem, unangenehm\nrauchartigem Geruche und scharfem, beissendem Geschmacke, reagirt neutral, lost sich schwer in kaltem,\nleichter in heissem Wasser, Alkohol und Aether, bricht das Licht sehr stark, verbrennt mit russender\n                                                                               —\nFlamme, siedet bei 200—210°, besitzt ein spez. Gew. von 1,04 1,09, braunt sich an der Luft und\nlost sich in Kalilauge     Als Hauptbestandtheil des mahrischen Kreosotes ist das im Allgemeinen mit\nletzterem gleiches Verhalten zeigende Kreosol (C H 10         ) zu   betrachten, neben welchem  noch eine\n                                                     8      2\ngeringe Menge von Guajacol (C 7 H 8 2 ), ausserdem Phenol (C 6 H O), Kresol (C H O), Phlorol (C H 10 O)\n                                                                   6              7  8            8\nund Xylenol (C 8 H 10 O) auftritt. Bei dem rheinischen Kreosot soil der Hauptbestandtheil Guajacol sein.\nFalschungen des Kreosots mit Carbolsaure finden nicht selten statt.",
+      "normalized_text": null,
+      "zh_tw_rendering": "含木焦油、木炭精（Kreosot）、石蠟、醋酸等；木炭精為油狀液體，含愈創木酚及苯酚。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 84,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 2189,
+        "char_end": 3524,
+        "page_text_sha256": "05199c7d63e9bd2892a4ca4854f550cb04ac9d816646e1ee000e9c6ea60f6da3",
+        "exact_text_sha256": "abdf14e2a56ce1c5486cddaf7e1b370279fec5a75f5555da638ed7989c4fe5c4",
+        "source_line_start": 30,
+        "source_line_end": 43,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "abdf14e2a56ce1c5486cddaf7e1b370279fec5a75f5555da638ed7989c4fe5c4",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0083-p0084:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "           Anwendung.       Das Kreosot wirkt stark atzend auf die Haut; innerlich verursacht es heftige\nEntziindungen, in grosseren Gaben den Tod. Es wird innerlich angewendet bei habituellem Erbrechen,\n                                                                                                                               ,\n\nDurchfallen, Magenleiden, Darmkatarrh, Diabets, Eingeweidewurmern etc.; ausserlich als faulnisswidriges\n                                                                                                                               ,\n\ndesinficirendes, atzendes Mittel bei Geschwliren, Krebs, brandigen Entziindungen der Mundhohle,\n                                                                                                kariosen\nZahnen. Kreosot hat in alien Fallen Anwendung gefunden, in welchen derzeit Carbolsaure benutzt\nwird; es wirkt minder giftig als Carbolsaure.                          Wirkun",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：木炭精外用治潰瘍與壞疽，內服治嘔吐與腹瀉，曾作為防腐劑保存肉類。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 84,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 5144,
+        "char_end": 6085,
+        "page_text_sha256": "05199c7d63e9bd2892a4ca4854f550cb04ac9d816646e1ee000e9c6ea60f6da3",
+        "exact_text_sha256": "c9595ca4b92f480025cb61b4569bbcc42f76374fb0b85d1d956c0dd59d1f2d85",
+        "source_line_start": 68,
+        "source_line_end": 78,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "c9595ca4b92f480025cb61b4569bbcc42f76374fb0b85d1d956c0dd59d1f2d85",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "b555c0ec396394be074c9cc2a10a0ebbf55afa117bdfe99a5f9b52a95021d878",
+    "maker_receipt_sha256": "c55a3f9011236cad2ceab07444ca857c812fe20023ecb12f16e3d877f403a5c2",
+    "validation_check_sha256": "60c2a6cbeb952b1e6bd5b093b6041d2a77c44bd09bb7c77321f315a8070dc0f2",
+    "source_disposition_sha256": "4aa2b8c2dd1ddbf3e56b928b9e73b60ce560d93d86d0b8f86d35ad6783685920",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "c55a3f9011236cad2ceab07444ca857c812fe20023ecb12f16e3d877f403a5c2",
+      "validation_check_sha256": "60c2a6cbeb952b1e6bd5b093b6041d2a77c44bd09bb7c77321f315a8070dc0f2",
+      "source_disposition_sha256": "4aa2b8c2dd1ddbf3e56b928b9e73b60ce560d93d86d0b8f86d35ad6783685920"
+    },
+    "naming_artifact_sha256": "616be096f19471098d189491d30238c4641c1dc4c0e9e8b5732d3ff602f39837"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "46be2b3fff7693b55bc2b884a776c02e9643e0a9ef3cec467635daf772ff2053"
+}

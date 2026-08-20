@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 383,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "fbad5bbcd23c2c38fba6a9a203dbc60b04e66e1715ff3e83605a72c7837dd76b",
+  "render_dpi": 144,
+  "render_sha256": "7ee33538edee2dd009215ad5342978be595b5ff131d206e6abdf577af27f607c",
+  "input_sha256": "7ee33538edee2dd009215ad5342978be595b5ff131d206e6abdf577af27f607c",
+  "render_pixel_width": 5810,
+  "render_pixel_height": 7862,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.55,
+  "embedded_character_count": 165,
+  "ocr_character_count": 47,
+  "ocr_alpha_ratio": 0.7447,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.019369151857164146,
+      "text": "Berberidaceae:",
+      "width": 0.14549468379692743,
+      "x": 0.7838341917296255,
+      "y": 0.9358096101097672
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "5",
+      "width": 0.013752455999387125,
+      "x": 0.8880157169315442,
+      "y": 0.3691860467893917
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372621082103,
+      "text": "WM.",
+      "width": 0.033398821529926015,
+      "x": 0.8899803536873945,
+      "y": 0.14389534865493858
+    },
+    {
+      "confidence": 1,
+      "height": 0.02470930228157653,
+      "text": "Podophyllum peltatum L",
+      "width": 0.23968565256003566,
+      "x": 0.3831041278129749,
+      "y": 0.11773255795562643
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494425,
+      "text": "73.",
+      "width": 0.01768172859345507,
+      "x": 0.9174852656639799,
+      "y": 0.027616279355799245
+    }
+  ],
+  "text": "Berberidaceae:\n5\nWM.\nPodophyllum peltatum L\n73.",
+  "output_sha256": "2c4e8465225ecbb952f3ce13f022c7f408f5e487a6d8c9e1ead7c0dc682c8f3d",
+  "receipt_sha256": "5d338c8080705c8714013cd8397a573394d4de1ec72c2eb2340a77ed7af78afb"
+}

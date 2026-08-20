@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 591,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "0e9bc40a9a59e82a2f80c10c882192d42bb902a7d9111eaea4aa75416d9c0356",
+  "render_dpi": 144,
+  "render_sha256": "dec9a8f9772c79cb6b8bcf93e545ba6981611639a3b2b65b121242db687a99a6",
+  "input_sha256": "dec9a8f9772c79cb6b8bcf93e545ba6981611639a3b2b65b121242db687a99a6",
+  "render_pixel_width": 5858,
+  "render_pixel_height": 7718,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.971,
+  "embedded_character_count": 49,
+  "ocr_character_count": 36,
+  "ocr_alpha_ratio": 0.9167,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.02180232509734137,
+      "text": "Umbelliferae.",
+      "width": 0.13793103585835376,
+      "x": 0.8065134078945779,
+      "y": 0.93168604673912
+    },
+    {
+      "confidence": 1,
+      "height": 0.02325581368945895,
+      "text": "Imperatoria Ostruthium",
+      "width": 0.2758620717167075,
+      "x": 0.36781609402670357,
+      "y": 0.09883720957968922
+    }
+  ],
+  "text": "Umbelliferae.\nImperatoria Ostruthium",
+  "output_sha256": "516bd83d8ceaaeb536535be57a41e8c879c730347163a5487c048d3ab3232fea",
+  "receipt_sha256": "84bfd2d7e5ecbec7362633300c9cdecad0fc25bc8c908e49fc233a938f36d659"
+}

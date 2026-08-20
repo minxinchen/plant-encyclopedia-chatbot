@@ -1,0 +1,269 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0173-p0176",
+  "entry_id": "kohler-volume-1:p0173-p0176",
+  "owner_shard": "S02",
+  "book_taxon": {
+    "scientific_name": "Mentha piperita",
+    "authorship": "L.",
+    "aliases": [
+      "Mentha viridis var. crispata Schrader.",
+      "M. Langii Koch",
+      "M. suavis Gussone",
+      "M. crispa Koch",
+      "M. crispata L."
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Mentha piperita"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T16:22:20+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Mentha+piperita",
+        "query_name": "Mentha piperita",
+        "retrieved_at": "2026-08-13T16:22:17+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Mentha+viridis",
+        "query_name": "Mentha viridis",
+        "retrieved_at": "2026-08-13T16:22:18+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 173,
+      "evidence_type": "text",
+      "page_text_sha256": "dea523f2449ca1ab8ef31456a72e82cd0cb2b8db30b36143027c15c2419a9490",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 174,
+      "evidence_type": "text",
+      "page_text_sha256": "60c393e89a49a452fa7dacc473478b2aee298162dc6ae0d670608740a3554425",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 175,
+      "evidence_type": "text",
+      "page_text_sha256": "127ed1c25378db300af2b9b488f030ba5110957bec86563c2aee8cd4c9794220",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 176,
+      "evidence_type": "text",
+      "page_text_sha256": "0bbc62001b5555fc008e94ffe494c452cee73867780af18589fb93d85763e1a0",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0173-p0176:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "             Familie: Labiatae.          Gattung: Mentha Tourn.",
+      "normalized_text": null,
+      "zh_tw_rendering": "科：唇形科。屬：薄荷屬。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 173,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 383,
+        "char_end": 446,
+        "page_text_sha256": "dea523f2449ca1ab8ef31456a72e82cd0cb2b8db30b36143027c15c2419a9490",
+        "exact_text_sha256": "72a0c5c0d7cff5b2fe5e04b8b091faf59dc8b60a9fcb44739e59b001da5244c6",
+        "source_line_start": 10,
+        "source_line_end": 10,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "72a0c5c0d7cff5b2fe5e04b8b091faf59dc8b60a9fcb44739e59b001da5244c6",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0173-p0176:s01:x00",
+      "section_type": "description",
+      "original_text": "             Beschreibung.          Der holzige, horizontale,              astige,           an den Knoten verdickte und bewurzelte,\nauslaufertreibende Wurzelstock treibt mehrere ljahrige,                           bis        1       Meter hohe, meist astige, krautartige,\n4kantige, oft rothliche, kahle oder an den Kanten behaarte Stengel, die mit gegenstandigen 2*/ 2                                                                 \"bis\n\n\n7   Ctm. langen, 3 Ctm. breiten, langlichen oder ei-lanzettlichen, spitzen, scharf gesagten, oberseits dunkel-\ngriinen      nnd kahlen,      unterseits blassen         und znweilen an den Nerven beliaarten,                                     beiderseits   mit gelb-",
+      "normalized_text": null,
+      "zh_tw_rendering": "木質水平根莖，節處增粗生根。莖高至1米，四棱形，常帶紅色，無毛或邊緣有毛。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 173,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 448,
+        "char_end": 1155,
+        "page_text_sha256": "dea523f2449ca1ab8ef31456a72e82cd0cb2b8db30b36143027c15c2419a9490",
+        "exact_text_sha256": "b4c632f97cc83b515f051e612163115426447e0ecd727ffc92989dc6679703f6",
+        "source_line_start": 12,
+        "source_line_end": 18,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "b4c632f97cc83b515f051e612163115426447e0ecd727ffc92989dc6679703f6",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0173-p0176:s02:x00",
+      "section_type": "distribution",
+      "original_text": "              Verbreitung.            .    Mentha piperita: Vaterland unbekannt; in England, Deutschland, Frankreich\nund namentlich Nordamerika zum Arzneigebrauche vielfach                                  kultivirt       und oft verwildert.     Mentha sil~",
+      "normalized_text": null,
+      "zh_tw_rendering": "原產地不明；在英國、德國、法國及北美廣泛栽培用於藥用，常歸化。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 174,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 2891,
+        "char_end": 3148,
+        "page_text_sha256": "60c393e89a49a452fa7dacc473478b2aee298162dc6ae0d670608740a3554425",
+        "exact_text_sha256": "ee67a5b18163c9e4e436064273879b53a662947a01451df6acb6c6bd14e5e3bb",
+        "source_line_start": 43,
+        "source_line_end": 44,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "ee67a5b18163c9e4e436064273879b53a662947a01451df6acb6c6bd14e5e3bb",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0173-p0176:s03:x00",
+      "section_type": "history",
+      "original_text": "/.liv&r]     des   Theophrast, menta des Plinius ist in ihrer jetzigen Culturform nach einem Berichte des\nRaius oder Ray zuerst von Dr. Eaton in Hertfort (England) beobachtet worden.                                             Raius gab 1696\nin der       Synopsis stirpium britannicarum die erste Beschreibung der Pflanze, die er im Jahrel704\nmit dem Namen Mentha pahistris , Peper-Mint belegte. Der als pharmazeutischer Schrifts teller beruhmte",
+      "normalized_text": null,
+      "zh_tw_rendering": "1704年Raius首次描述為Mentha pahistris，林奈命名為Mentha piperita。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 174,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4431,
+        "char_end": 4876,
+        "page_text_sha256": "60c393e89a49a452fa7dacc473478b2aee298162dc6ae0d670608740a3554425",
+        "exact_text_sha256": "41efa1a52c3ec3ae634c318c9ad57384ba923e23beeb1817cf4e263ac938c60b",
+        "source_line_start": 78,
+        "source_line_end": 81,
+        "section_index": 3,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "41efa1a52c3ec3ae634c318c9ad57384ba923e23beeb1817cf4e263ac938c60b",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0173-p0176:s04:x00",
+      "section_type": "constituents",
+      "original_text": " naher bekannten Kohlenwasserstoff und                        dem S earopten Menthol                  (Pfefferminzkampfer)          = C H 0.\n                                                                                                                                          10     20",
+      "normalized_text": null,
+      "zh_tw_rendering": "含揮發油及鐵綠單寧。薄荷醇（C10H20O）為薄荷氣味的主要成分。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 175,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 5345,
+        "char_end": 5633,
+        "page_text_sha256": "127ed1c25378db300af2b9b488f030ba5110957bec86563c2aee8cd4c9794220",
+        "exact_text_sha256": "398a64c84dda29ebecf3379548130d4cba9627fc7d6149d6830a24baca9a103d",
+        "source_line_start": 74,
+        "source_line_end": 75,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "398a64c84dda29ebecf3379548130d4cba9627fc7d6149d6830a24baca9a103d",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0173-p0176:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "            Anwendung.                      Die Pfefferminze wird im Aufguss                              als   Carminativam      ,    Stomachicum        ,   Anti-\nspasmodicum und Emmenagogum angewendet.                                         Das Menthol aussert kraftige, antiseptische Wirkungen.",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：煎劑作驅風、健胃、解痙及催經藥。薄荷醇具強效防腐作用。",
+      "evidence_indexes": [
+        3
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 176,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 1337,
+        "char_end": 1635,
+        "page_text_sha256": "0bbc62001b5555fc008e94ffe494c452cee73867780af18589fb93d85763e1a0",
+        "exact_text_sha256": "05addf82dace74135c86873bba028fbcc2a4bdeb68805f03bf22f86132074df9",
+        "source_line_start": 20,
+        "source_line_end": 21,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "05addf82dace74135c86873bba028fbcc2a4bdeb68805f03bf22f86132074df9",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "fd4aa5647d9aee71670a258037d868236e51cd688714242b21449830a1b2e84f",
+    "maker_receipt_sha256": "090b56cfffbedfa739258a961b64787e3cb47ced80f5974182d6bcd8ba67a507",
+    "validation_check_sha256": "f8fcdc840603f87497ec767d9b5b7195c3e1d5eacf3f3bae6f5071320a3d1795",
+    "source_disposition_sha256": "abae3d599a354d9be077cb7c9d64eca7a3ad19e087273aa778da2a1033f016cc",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "090b56cfffbedfa739258a961b64787e3cb47ced80f5974182d6bcd8ba67a507",
+      "validation_check_sha256": "f8fcdc840603f87497ec767d9b5b7195c3e1d5eacf3f3bae6f5071320a3d1795",
+      "source_disposition_sha256": "abae3d599a354d9be077cb7c9d64eca7a3ad19e087273aa778da2a1033f016cc"
+    },
+    "naming_artifact_sha256": "7e4d57b688cbefeecb703f0434c3e48dc5d5fc0b590cdbe7587b7610ac0ed8ad"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "bd051df3aae2f8e84210c8933a129009ffb9b2ec03194807b3567864089e1b0e"
+}

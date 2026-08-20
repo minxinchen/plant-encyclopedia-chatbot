@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 475,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "ed3b0220d6e0db115930c6c8dddc1bba5f1cc89e9734f34f9bbf059e695bde44",
+  "render_dpi": 144,
+  "render_sha256": "97e8dd1cc0467dccc33c5818017eea7971fba8b085be7ff0fa1cef69d7c13f47",
+  "input_sha256": "97e8dd1cc0467dccc33c5818017eea7971fba8b085be7ff0fa1cef69d7c13f47",
+  "render_pixel_width": 5930,
+  "render_pixel_height": 8258,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 6.0,
+  "embedded_character_count": 146,
+  "ocr_character_count": 51,
+  "ocr_alpha_ratio": 0.7451,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.018031356826661127,
+      "text": "Anacardiaceae",
+      "width": 0.1175760195400174,
+      "x": 0.7205642177896583,
+      "y": 0.9284843216239829
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534884028964634,
+      "text": "(Rhoideae)",
+      "width": 0.07894736758911813,
+      "x": 0.7388663972667482,
+      "y": 0.9084302323833582
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252612005,
+      "text": "B",
+      "width": 0.018218622681844265,
+      "x": 0.4493927131783086,
+      "y": 0.08720930259244408
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "5",
+      "width": 0.01417004074180983,
+      "x": 0.696356275114925,
+      "y": 0.06395348855437955
+    },
+    {
+      "confidence": 1,
+      "height": 0.018912652182200507,
+      "text": "Rhus succedanea DC.",
+      "width": 0.18825910368018384,
+      "x": 0.4089068872894628,
+      "y": 0.013081395767284176
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "50",
+      "width": 0.018218622681844265,
+      "x": 0.8927125509060415,
+      "y": 0.014534883953474464
+    }
+  ],
+  "text": "Anacardiaceae\n(Rhoideae)\nB\n5\nRhus succedanea DC.\n50",
+  "output_sha256": "57cb2819cc2f2fc81bbc30ed817c363aefb3e5682ac458fd9fced77c1a59a12a",
+  "receipt_sha256": "30d1c2802a57588c76b31271246b69f7164c3304493b5d816811e7498aec19c1"
+}

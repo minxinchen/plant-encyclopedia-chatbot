@@ -1,0 +1,288 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-3-p0277-p0278",
+  "entry_id": "kohler-volume-3:p0277-p0278",
+  "owner_shard": "S07",
+  "book_taxon": {
+    "scientific_name": "Cerbera Odollam",
+    "authorship": "Gaertn.",
+    "aliases": [
+      "C. Manghas L.",
+      "Tanghinia Odollam Don.",
+      "dabur",
+      "dhakur",
+      "Odollam",
+      "Gon-kaduru",
+      "ka-lwah",
+      "kadama",
+      "katarali",
+      "kadu",
+      "cay mup sat"
+    ]
+  },
+  "display_name": "海檬果",
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Cerbera Odollam",
+      "Cerbera odollam"
+    ],
+    "accepted_scientific_name": "Cerbera manghas",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "unclear",
+    "checked_at": "2026-08-13T14:35:37+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Cerbera+Odollam",
+        "query_name": "Cerbera Odollam",
+        "retrieved_at": "2026-08-13T14:35:32+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0002763",
+        "query_name": "Cerbera Odollam",
+        "retrieved_at": "2026-08-13T14:35:32+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0002763",
+        "query_name": "Cerbera Odollam",
+        "retrieved_at": "2026-08-13T14:35:32+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Cerbera+odollam",
+        "query_name": "Cerbera odollam",
+        "retrieved_at": "2026-08-13T14:35:32+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Tanghinia+odollam",
+        "query_name": "Tanghinia odollam",
+        "retrieved_at": "2026-08-13T14:35:33+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=cay+mup",
+        "query_name": "cay mup",
+        "retrieved_at": "2026-08-13T14:35:33+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "Tai2 exactly lists the book binomial as a main name or synonym and links it to this accepted species page."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 277,
+      "evidence_type": "text",
+      "page_text_sha256": "3a21f3ffcdac3f84f02f31938dfcdbc481c5ce173d2c48ba7ae15ad2986d07d7",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 278,
+      "evidence_type": "text",
+      "page_text_sha256": "da847503c7149d5de566de9b133ce58c38da296d9d55512229c70608b9cb589b",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-3:p0277-p0278:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "       Cerbera Odollam                                 Gaertn. und C. lactaria Hamilt.\n        Diese beiden Arten sind vielfach miteinander verwechselt und vermischt worden.\nSie sind gewöhnlich zusammen als C. Manghas L. beschrieben worden. In der That zeigen\nsie besonders in ihrem Habitus und ihren vegetativen Teilen so grosse Ähnlichkeit, dass es\nschwer ist, sie voneinander zu trennen. Nach den eingehenden Untersuchungen, die Valeton\nan den im botanischen Garten zu Buitenzorg vorhandenen Bäumen angestellt hat, ist aber\nwohl kein Zweifel mehr möglich, dass es in der That zwei besonders durch ihre Blüten wohl\nunterschiedene Arten sind, eine Auffassung, der wir auch hier folgen.\n                                 Cerbera Odollam Gärtn.\nBengal.: dabur oder dhakur.     Malay.: Odollam.     Singal.: Gon-kaduru.   Burm.: ka-lwah.\n                 Tam.: kadama, katarali oder kadu. Anam.: cay mup sat.\n         Syn.: ©. Manghas Blume Bijdr., L. p. p. Tanghinia Odollam Don.\n         Familie: Apocynaceae Unterfamilie: Plumierioideae. Tribus: Piumiereae. Subtribus:\nCerberinae Gattung: Cerbera Mill.",
+      "normalized_text": null,
+      "zh_tw_rendering": "Cerbera Odollam 與 C. lactaria 常被混淆，Valeton 確認為兩不同種。屬 Apocynaceae 科。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 277,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 1102,
+        "page_text_sha256": "3a21f3ffcdac3f84f02f31938dfcdbc481c5ce173d2c48ba7ae15ad2986d07d7",
+        "exact_text_sha256": "ae5d14a9d49a0bc9394a24cfac03fa53ab5fe64c28a3bf83663edd11a5b1ccbe",
+        "source_line_start": 1,
+        "source_line_end": 14,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "ae5d14a9d49a0bc9394a24cfac03fa53ab5fe64c28a3bf83663edd11a5b1ccbe",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0277-p0278:s01:x00",
+      "section_type": "description",
+      "original_text": "         Beschreibung. Ein kleiner oder mittelhoher, höchstens 15 m erreichender Baum mit\neinem bis 40 cm dickem, meist aber dünnerem Stamm. Die Blätter sind spiralig gestellt und\nan den Enden der etwas verdickten Zweige etwas mehr zusammengedrängt.          Sie sind 1 bis\n3 cm    lang gestielt,     länglich-verkehrt-eiförmig,            etwa    15 bis 20 cm       lang, und         4 bis 7 cm breit,\nim Mittel drei- bis viermal so lang als breit, an der Basis in den Blattstiel verschmälert,\nsanzrandig, kurz zugespitzt, von Konsistenz etwas fleischig, im getrockneten Zustande dünner\nund sehr leicht brüchig, beiderseits völlig kahl, der Mittelnerv auf der Unterseite sehr deut-\nlich und kräftig hervortretend, die sehr zahlreichen Seitennerven beinahe ganz parallel ver-\nlaufend und in einen gemeinsamen Randnerven einmündend.            Die Blüten sind zu endständigen\nRispen angeordnet.     Die fünf Kelchblätter sind lanzettlich, spitz, ungefähr 15 mm lang und\n2 bis 5 mm   breit, hellg rün oder weiss  und meist nach   ausse n   geroll t, häufi g schon währ end\ndes Aufblühens abfallend.     Die Blumenkrone ist präsentiertellerförmig mit zylindrischer Röhre\nund fünf, in der Knospenlage sich links deckenden Zipfeln.                            Die Röhre ist meist nicht länger\nals  die Zipfe l, und    auch   nur    weni g   länge r  als  der  Kelch ; in  der  Mitte   ist sie  etwas   auf-\ngetrieben und an der Mündung verengt.                 Die fünf Staubgefässe sind ungefähr in der Mitte\nder Blum enkr  onen röhr e  befes tigt;  sie  haben    sehr  kurze  Fäde n und  längl ich-l anzet tlich e Beute l,\nderen Konnektiv          in eine kurze         feine Spitze ausläuft.           Oberhalb jedes Staubgefässes findet\nsich in dem       ausgebauchten        Teile    der Blumenkronenröhre              eine Schuppe         oder    ein Vorsprung,\nwelch er  so weit  nach  innen   reich t,  dass  sich die fünf  Schu  ppen  in  der  Mitte berüh ren.   Die\nVorsprün ge  sind nach  oben  zu  kahl,   mit  Ausn ahme  des  Gipfe ls, welch er   ein Haar büsc hel trägt,\nnach unten zu aber   behaa rt.    Sie  verla ufen    als Leist en  bis  unter halb   der  Inser tions stell e der\nStaubgefässe, wo sie  in der   Form    von   gelbe n  Drüse n   wiede r  weite r vorsp ringe n.    Der    Fruch t-\nknoten ist oberständig mit vier       zweir eihig   angeh eftet en   anatr open    Same  nkno spen      in jede  m\nFache. Der Kopf       der Narb e    ist   kurz    kegel   förmi g   und    fünfk antig ,    entsp reche   nd    den     zehn\naufliegenden Antheren.      Die   Fruch  t   besit zt    einen   Durc  hmes ser    von    7  bis  8   cm,   und     ist   fast\nganz kugelig,  selte ner  etwas   längl ich.     Das   Exok  arp   ist  sehr  dünn    fleisc hig,  zuers  t  im  unrei    fen\nZustande grün, bei der Reife dunkelrot,         späte r   schw arzb lau    werde nd.     Das    Meso  karp     ist   holzi g,\nzähe und wird von vielen         stark  en   Faser  n    durch zogen  ,   welch e    an   der   Ausse  nseit  e    paral  lel\nder Längsrichtung,    innen  aber   nach    allen   Rich   tung en   verla ufen    und   vielf  ach    anast omosi    eren.\nDas Endokarp ist holzig, dünn,        aber    hart.     Meist  ist nur   ein  Same    ausge  bilde t,   zuwei   len     zwei,\ndie dann      durch    eine falsche      Scheidewand         voneinander       getrennt     sind.",
+      "normalized_text": null,
+      "zh_tw_rendering": "高至 15 公尺樹，葉長 15-20 公分。花冠呈盤狀，果實近球形，成熟時深紅轉黑藍。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 277,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 1103,
+        "char_end": 4503,
+        "page_text_sha256": "3a21f3ffcdac3f84f02f31938dfcdbc481c5ce173d2c48ba7ae15ad2986d07d7",
+        "exact_text_sha256": "f8bd9d2b591a0f4e27ea1c134c3ed736409caca7aba86cfcbad0b9036c38c7dc",
+        "source_line_start": 15,
+        "source_line_end": 45,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "f8bd9d2b591a0f4e27ea1c134c3ed736409caca7aba86cfcbad0b9036c38c7dc",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0277-p0278:s02:x00",
+      "section_type": "distribution",
+      "original_text": "        Vorkommen und Verbreitung.          De  r  Ba  um     fin det  sic  h  aus  sch  lie ssl ich    am    Me er es st  ra nd e\nund in Salzsümpfen innerhalb des Flu     tge bie  tes ;    er   ist  ver  bre ite  t    vo n   Ma da  ga sk ar     du rc h    Süd .\nasien bis China, Nordwestau st ra li en   un d    den     pac  ifi sch en     Ins eln .      Die    Fr üc ht e    wi de rs te he n\nlange Zeit der Einwirkung des Seewas    se rs ,    in de m    zw ar    das     äus  ser  e    dü nn e   Fru cht fle  isc h    seh r\nbald fault, die 2 bis 3 cm starke, sehr feste           un  d   lei cht e    Fa se rh ül  le    de n   Fr üc  ht en    abe  r   als\n                                                   E                                                                  55\n                                                                                                    #",
+      "normalized_text": null,
+      "zh_tw_rendering": "僅生於海岸及鹽沼，分佈自馬達加斯加經東南亞至中國、澳洲及太平洋島嶼。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 277,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 4505,
+        "char_end": 5385,
+        "page_text_sha256": "3a21f3ffcdac3f84f02f31938dfcdbc481c5ce173d2c48ba7ae15ad2986d07d7",
+        "exact_text_sha256": "ed2aca6608602ffd5fcbf2fcfc94d3a369fbd8ba2b11f6c125829d7182027eac",
+        "source_line_start": 47,
+        "source_line_end": 53,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "ed2aca6608602ffd5fcbf2fcfc94d3a369fbd8ba2b11f6c125829d7182027eac",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0277-p0278:s03:x00",
+      "section_type": "historical_use",
+      "original_text": "        Produkte. Die Rinde, der Milchsaft und die Blätter dienen in Südostasien als Purgans;\nihre Anwendung ist aber gefährlich, da sie schon in mässigen Gaben giftige Eigenschaften\nbesitzen. Ebenso sind die Samen stark giftig; sie dienen als Emeto-Catharticum und enthalten\n12 bis 77°/, eines drastisch wirkenden Öles, welches aber auch zur Beleuchtung benutzt wird.",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史記載：樹皮、乳汁及葉在東南亞作瀉藥，但具劇毒；種子亦有毒，含油可照明。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 278,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 2602,
+        "char_end": 2970,
+        "page_text_sha256": "da847503c7149d5de566de9b133ce58c38da296d9d55512229c70608b9cb589b",
+        "exact_text_sha256": "8bc79f162dc412ed33e9be6e696de37ccde54ed590dc0afaac39dc7a14aed7f0",
+        "source_line_start": 29,
+        "source_line_end": 32,
+        "section_index": 3,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "8bc79f162dc412ed33e9be6e696de37ccde54ed590dc0afaac39dc7a14aed7f0",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0277-p0278:s04:x00",
+      "section_type": "constituents",
+      "original_text": "          Bestandteile.  Die             giftigen Eigenschaften der Samen sind wahrscheinlich eine Folge\n des   Gehaltes an Cerberin.              Dieses ist ein Glykosid der Formel C? H4 O8 mit einem Schmelz-\npunkt von 191 bis 192°; von konzentrierter Schwefelsäure wird es orangerot, dann gelbviolett,\nendlich       blau gefärbt;       mit Säuren         zerfällt       es in Glykose      und     Cerberetin      019 H2 0%.",
+      "normalized_text": null,
+      "zh_tw_rendering": "種子毒性源於 Cerberin（糖苷），熔點 191-192°C，遇酸分解為葡萄糖與 Cerberetin。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 278,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 2971,
+        "char_end": 3396,
+        "page_text_sha256": "da847503c7149d5de566de9b133ce58c38da296d9d55512229c70608b9cb589b",
+        "exact_text_sha256": "8250843b938a35935c6fd46be43090c7c24bba18c55f90ea28f6653ec6d0b111",
+        "source_line_start": 33,
+        "source_line_end": 36,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "8250843b938a35935c6fd46be43090c7c24bba18c55f90ea28f6653ec6d0b111",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0277-p0278:s05:x00",
+      "section_type": "literature",
+      "original_text": "          Litteratur.            Abbildungen       und Beschreibungen.           Linne,        Gen.    plant 2Bd            me\nRheede,         Hort.     Malab.      tab.     39. —      Burm.,        Zeyl. p. 150 tab.       70. Fig. 1. —         Gaertn.,   Fruct.\nerzsent. 2 p. 192 tab, 125, 124°       Blume, Birdn, [031  Bor Ma2. tab. 1845. — Endl.,\nGen. p. 580 n. 3388. — Miquel, Fl. Ind. Batav. II. p. 413, — \\ieihr, Icon, ap,\n                                                                                     Aa\nAED        Erogr. VL p. 253. — Birzundıs Horse pr 3            Kurz, For. Fl. Burm. II. D»\nI        bEorok., Zu) rl. Ind. SINerp2 6555 Benthrer Hook., Gen. plant. I. d. O8\n                                                                                       , —\nO. Kuntize, Rev. gen. p. 413. — Watt., Dict. Ec. prod. Ind. II. pP. 256. -—- En\n                                                                                gl.-Prantl,\nNat. Pflanzenfam. IV. 2. p. 159. — Valeton, Les Cerbera du jardin botaniqu\n                                                                           e de Buitenzorg,\nin Ann. du Jard. bot. Buit. XII. p. 238.",
+      "normalized_text": null,
+      "zh_tw_rendering": "文獻引用 Linne, Rheede, Burm., Gaertn., Blume, Valeton 等關於 Cerbera 屬之描述。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 278,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 3397,
+        "char_end": 4557,
+        "page_text_sha256": "da847503c7149d5de566de9b133ce58c38da296d9d55512229c70608b9cb589b",
+        "exact_text_sha256": "af1648cda965c5754fe604a41d44b87a9337182bd78de12ed7cb04e4d437b9f0",
+        "source_line_start": 37,
+        "source_line_end": 49,
+        "section_index": 5,
+        "section_type": "literature"
+      },
+      "exact_text_sha256": "af1648cda965c5754fe604a41d44b87a9337182bd78de12ed7cb04e4d437b9f0",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Tai2 treats the exact historical book binomial as a synonym of a different accepted name; Köhler facts remain attached to the book taxon and must not be reinterpreted as facts about the Taiwan accepted taxon.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "e3764011fad90139adc79ba5a840d5211e94c5d212fe21741d74ca11ea8e282e",
+    "maker_receipt_sha256": "5e5eda764f22cd19c7dea94b610c41aa71126927829f57c5d8d11147b1d94e98",
+    "validation_check_sha256": "6592dcabf195df777693e6330a8c75ffd9b6796da539b86d434e2c61f94f02e1",
+    "source_disposition_sha256": "26894b8e2bb564255241edc6f80b092ad9f6c903b9cfbfe7279a45e7e054223d",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "5e5eda764f22cd19c7dea94b610c41aa71126927829f57c5d8d11147b1d94e98",
+      "validation_check_sha256": "6592dcabf195df777693e6330a8c75ffd9b6796da539b86d434e2c61f94f02e1",
+      "source_disposition_sha256": "26894b8e2bb564255241edc6f80b092ad9f6c903b9cfbfe7279a45e7e054223d"
+    },
+    "naming_artifact_sha256": "a9054d7d384d0dced2869267d6afbddc134df9372262999edbcc953b83d19c1d"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "126d3ff6dd37f2c8e8aa425ea4109140c1033de73e953658e3ed5491c308c3d9"
+}

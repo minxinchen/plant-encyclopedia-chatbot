@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0373-p0376",
+  "owner_shard": "S04",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 152.325,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0373-p0376",
+    "book_taxon": {
+      "scientific_name_candidate": "Urginea Seilla",
+      "authorship_candidate": "Steinh.",
+      "aliases_candidates": [
+        "Urginea maritima Baker",
+        "Scilla maritima L.",
+        "Ornithogalum maritimum Brot.",
+        "Squilla maritima Steinh.",
+        "Squilla Pancration Steinh."
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "description",
+        "pdf_page": 373,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "橢圓形鱗莖高逾15公分，重達2.5公斤，外皮乾膜狀紅褐色，內層黏液質。",
+        "warnings": [],
+        "source_line_range": [
+          7,
+          14
+        ],
+        "exact_source_quote": "          Beschreibung. Die eifórmige Zwiebel ist bis über 15 Ctm. hoch, 10 Ctm. dick, zuweilen von\nder Grösse eines Kinderkopfes und bis 21/, Klgr. schwer, entweder ganz unter der Erde oder der\nobere Theil hervorragend; der starke Zwiebelstock oder Zwiebelkuchen frei hervorstehend, mit langen,\nbis 4 Mm. dicken, fleischigen Wurzeln besetzt. Zwiebelschalen umfassend, die äusseren trockenhäutig,\nbraunroth, durchscheinend, nervig gestreift, die inneren schleimig-fleischig, glänzend, weiss oder blassroth,\ndie innersten sehr weich, zur Zeit der Einsammlung den Blüthenschaft und die junge Stengelknospe\neinschliessend, die obersten etwas sparrig abstehend.         Die Zwiebelschalen besitzen einen ekelhaft\nbitteren Geschmack, im frischen Zustande riechen sie zwiebelartig, trocken sind sie geruchlos. Blätter"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 373,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "鱗莖表皮具氣孔，內部為薄壁組織，含黏液及雙折射的草酸鈣結晶束。",
+        "warnings": [],
+        "source_line_range": [
+          39,
+          45
+        ],
+        "exact_source_quote": "         Anatomisches. Die Zwiebelschalen zeigen^nach Flückiger auf beiden Seiten eine Epi-\ndermis, die auf den äusseren Schalen mit Spaltöffnungen bedeckt ist; das Innere besteht aus einem\netwas gestreckten, von Gefässbündeln durchzogenen Parenchym.    Letzteres, aus polyedrischen, dünn-\nwandigen    Zellen zusammengesetzt,      enthält hauptsächlich     Schleim,     in dem man       dunkle Kórnchen       er-\nblickt, die sich im polarisirten Lichte als doppeltbrechend erweisen und Anfänge deutlicher Krystalli-\nsation zeigen. Flückiger sagt: „In der That schliessen viele Zellen Caleiumoxalat in dicht ge-\ndrängten Bündeln ein. Die Bildung dieser Krystalle erfolgt also im Schosse plasmatischen Zell-"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 374,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分佈於地中海區、加那利群島、摩洛哥、阿爾及利亞、南西班牙、義大利及希臘等地。",
+        "warnings": [],
+        "source_line_range": [
+          7,
+          10
+        ],
+        "exact_source_quote": "           . Vorkommen.         Die    Meerzwiebel      ist durch    den   gróssten Theil          des Mittelmeergebietes        ver-\nbreitet; auf den Kanarischen Inseln, in Marocco, Algerien, Südspanien, an den italienischen Küsten,\nin Südfrankreich, auf Sicilien (bis 1000 Meter Meereshöhe), auf den Balearen, in Griechenland,\nauf Cypern.                                               ۱"
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 374,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "古埃及人疑用其治傷寒，希波克拉底內服外敷，畢達哥拉斯傳言因食醋延壽至170歲。",
+        "warnings": [],
+        "source_line_range": [
+          17,
+          23
+        ],
+        "exact_source_quote": "          Die Meerzwiebel ist schon von den Alten arzneilich benutzt worden. Nach Flückiger ist\nes jedoch zweifelhaft, ob unter dem berühmten xgouuvov der alten Aegypter, womit die letzteren\nden Typhus heilten und diesem Arzneimittel zu Ehren in Pelusium einen Tempel erbauten, die Meer-\nzwiebel zu verstehen sei; ebenso ob die Angabe des Plinius richtig ist, dass Epimenides (Ende des\n6. Jahrhunderts v. Chr.) die Scilla viel gebraucht und dass Pythagoras (um 540 v. Chr.) eine Schrift\nüber dieselbe verfasst und sein Leben durch den Gebrauch des Meerzwiebelessigs auf 170 Jahre\ngebracht habe. Mit Sicherheit lässt sich jedoch annehmen, dass schon Hippokrates ole häufig so-"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 375,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含黏液（Sinistrin）、糖、單寧及Scillipikrin、Scillitoxin、Scillin等成分。",
+        "warnings": [],
+        "source_line_range": [
+          15,
+          21
+        ],
+        "exact_source_quote": "           Bestandtheile            Die Meerzwiebeln          enthalten     reichlich ‘Schleim         (Sinistrin),      Zucker   (nach\n Rebling 22%,), Gerbstoffe, einen flüchtigen,               beim    Trocknen    entweichenden,          noch     nicht    näher   unter-\n  suchten Stoff und nach Merck 3 Bestandtheile, welche in ihren Wirkungen differiren: Scillipikrin,\n  Scillitoxin und Seillin. Jarmerstedt erhielt ein stickstofffreies Glykosid, das Scillain. Riche und\n  Rémont erhielten aus 3 Zwiebeln: 73.30—77.57%, Wasser, 12.58—19.809/, Cellulose und unlös-\n  liche Salze, 6.84—8.509/, Scillin (Sinistrin), 0.15 —0.689/, reduzirenden Zucker, 0.24—0.32%, lösliche\n  mineralische Stoffe, 0.97 bis 2.129/, Seillitin, Oxal-, Aepfel-, Citronsäure und unbestimmte Stoffe."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 375,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史上用作祛痰劑治支氣管炎，利尿劑治水腫，亦作催吐劑；大劑量具毒性。",
+        "warnings": [],
+        "source_line_range": [
+          53,
+          57
+        ],
+        "exact_source_quote": "           Anwendung.             Innerlich in Pillen- und Pulverform als Expektorans bei Bronchitis, trockenem\n Husten, fieberhaften      Katarrhen,      als Diuretikum      bei Hydropsien,         Blasenkatarrh,     Harngries;        wird auch,\n namentlich       bei Kindern,    als Brechmittel     benutzt.       Meerzwiebel       ist ein kräftig         diuretisch wirkéndes\n Mittel, welches     in grossen    Gaben    giftig wirkt und zu den starkwirkenden                  Arzneikörpern        gezählt wird.\n Die irritirende Wirkung          des   frischen   Saftes    wird    den    scharfen         Kalkoxalatkrystallen        zugeschrieben."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "310ed650586ef4f49a61e4524e1f10620a0ac7704adea30bf66984ef2904caf6"
+}

@@ -1,0 +1,282 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0177-p0178",
+  "entry_id": "kohler-volume-1:p0177-p0178",
+  "owner_shard": "S02",
+  "book_taxon": {
+    "scientific_name": "Artemisia Absinthium",
+    "authorship": "L.",
+    "aliases": [
+      "Absinthium officinale Lam.",
+      "Common wormwood",
+      "Wermuth",
+      "Wurmkraut",
+      "Bitterer Beifuss",
+      "Absinthe grande ou Aluyne"
+    ]
+  },
+  "display_name": "歐洲艾",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Artemisia Absinthium",
+      "Artemisia absinthium"
+    ],
+    "accepted_scientific_name": "Artemisia absinthium",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T16:39:44+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Artemisia+Absinthium",
+        "query_name": "Artemisia Absinthium",
+        "retrieved_at": "2026-08-13T16:39:44+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0023229",
+        "query_name": "Artemisia Absinthium",
+        "retrieved_at": "2026-08-13T16:39:44+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0023229",
+        "query_name": "Artemisia Absinthium",
+        "retrieved_at": "2026-08-13T16:39:44+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Artemisia+absinthium",
+        "query_name": "Artemisia absinthium",
+        "retrieved_at": "2026-08-13T16:39:44+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0061048",
+        "query_name": "Artemisia absinthium",
+        "retrieved_at": "2026-08-13T16:39:44+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0061048",
+        "query_name": "Artemisia absinthium",
+        "retrieved_at": "2026-08-13T16:39:44+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL accepts the queried book binomial at species rank."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 177,
+      "evidence_type": "text",
+      "page_text_sha256": "6b04997a99bb07a2c591978448556e2b32c21dbdcaf49f67db4f1e9131d3817d",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 178,
+      "evidence_type": "text",
+      "page_text_sha256": "733465b58a32c173f06f7e9063f95d893aa78882e31445d1d146c98c805ba7c1",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0177-p0178:s00:x00",
+      "section_type": "description",
+      "original_text": "          B escnreibun &-     Bie ausdauernde, mehrkopfige, mit zahlreichen Wurzelfasern besetzte Wurzel\nt   -u\ntreibt mehrere aufrechte oder aufsteigende, 0,60—1,25\n                                                         Meter hohe, sehr astige, fast stielrunde, gestreifte,\nsilbergrau-seidenhaarige Stengel, die mit seidenartig-filzigen, oberseits weisslichen,\n                                                                                        unterseits griinlichen,\ndurchschemend punktirten, am Grande des Blattstieles nicht geohrten Blattern besetzt\n                                                                                             sind. Die Blatter",
+      "normalized_text": null,
+      "zh_tw_rendering": "多年生，多頭狀，具眾多根鬚。莖直立或上升，高0.60-1.25米，多分枝，近圓柱形，條紋狀，銀灰色絲毛。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 177,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 574,
+        "char_end": 1245,
+        "page_text_sha256": "6b04997a99bb07a2c591978448556e2b32c21dbdcaf49f67db4f1e9131d3817d",
+        "exact_text_sha256": "a0d35371d9ac778d85a7f36a41535f2b5d62746352338f1c9a1735f2d65231e8",
+        "source_line_start": 18,
+        "source_line_end": 25,
+        "section_index": 0,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "a0d35371d9ac778d85a7f36a41535f2b5d62746352338f1c9a1735f2d65231e8",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0177-p0178:s01:x00",
+      "section_type": "anatomy",
+      "original_text": "          Anal omisches: Das Blatt zeigt auf dem Querschnitt eine obere dichte PalissadenschicM und eine\ni  i\n                                                                                                             untere\nlockere bchicht. Die auf beiden Seiten der Blatter auftretenden Oeldriisen haben\n                                                                                 eine elliptische Form: sie werden\nvon scbeibenformigen in Vertiefungen befindlichen Stielzellen getragen. Jede Druse ist\n                     ,\n                                                                                           durch 2 sich kreuzende\nbcneidewande 4theihg    Die Haare bestehen aus einer ziemlich langen, spitzendigen Zelle, die wagerecht von einem\n1—3 zelhgen Stiele getragen wircl (Fluckiger).",
+      "normalized_text": null,
+      "zh_tw_rendering": "葉橫切面示上層緊密柵欄組織，下層鬆散海綿組織。兩側具橢圓形油腺，由盤狀柄細胞支撐。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 177,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 6228,
+        "char_end": 7034,
+        "page_text_sha256": "6b04997a99bb07a2c591978448556e2b32c21dbdcaf49f67db4f1e9131d3817d",
+        "exact_text_sha256": "09edbaec7fee55e196bff16e3d8625336a3cda2a7517519aa604db8368dea414",
+        "source_line_start": 85,
+        "source_line_end": 94,
+        "section_index": 1,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "09edbaec7fee55e196bff16e3d8625336a3cda2a7517519aa604db8368dea414",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0177-p0178:s02:x00",
+      "section_type": "distribution",
+      "original_text": "          Verbreitung.                                                     Weinb              slandern       W *-v%\n\nvon Nordafnka und Sudspanien durch Europa bis zum 57. (England), und 63. (Skandinavien, Finnlandj\nBreitengrade ; ferner in dem westlichen und nordlichen Asien. Sie fehlt in Griechenland;\n                                                                                         steigt in der\nSchweiz (Wallis und Graubiindten) bis 1700 Meter, in der Sierra nevada bis iiber 2000 Meter\n                                                                                                empor.\nVielfach in Garten gezogen und oft daraus verwildert.",
+      "normalized_text": null,
+      "zh_tw_rendering": "分佈於北非、南西班牙至歐洲（北緯57-63度）及西亞北部。希臘缺產。瑞士海拔達1700米，西內華達山逾2000米。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 177,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 7035,
+        "char_end": 7690,
+        "page_text_sha256": "6b04997a99bb07a2c591978448556e2b32c21dbdcaf49f67db4f1e9131d3817d",
+        "exact_text_sha256": "7d5f4021e29c1393e78ef2b6fcc83ec0875fba69884c60052923a2bc68029fd7",
+        "source_line_start": 95,
+        "source_line_end": 102,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "7d5f4021e29c1393e78ef2b6fcc83ec0875fba69884c60052923a2bc68029fd7",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0177-p0178:s03:x00",
+      "section_type": "history",
+      "original_text": "          Name und Geschichtlichea.                     TW \"Mama We\nwermota, wormiota, ivermiate, mittelhochdeutsch als,              alse,   els,   iverhnut, werenmut, wermet, wiermuta\n                                                                                             bei Hildegard   Wermuda,\nbei    Bock und Tabernaemontanus Wet                                                       stammt wahrscheinlich von\nvermis (Wurm), wegen der Benutzung der Pflanze gegen Wiirmer.       Weni ._\nAbleitung von werm-uot, von Warme (wegen der erliitzenden Eigenschaften) und Wurzel. Die\" Be-\nzeichnung Alse, Elsen, althochd. alahsan, soil von alah-samo, Tempel-Same abgeleitet sein, weil                       die\nPflanze in friiheren Zeiten bei gottesdienstlichen Handlungen benutzt wurde, wie Lonicer bezeugt:\n„Wermut ist ein iibertrefflich Kraut, bei den Alten kostlich gehalten, in Gottesdiensten und Triumphen\nherrlich gebraucht.\"  Absinthium von aiplvd-wv oder aanivd-iov der Griechen, absinthium der Ronier,",
+      "normalized_text": null,
+      "zh_tw_rendering": "古藥用植物。名稱源於驅蟲（vermis）或溫暖（warme）。古希臘羅馬用於宗教儀式，因苦味被視為不可飲。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 177,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 7742,
+        "char_end": 8755,
+        "page_text_sha256": "6b04997a99bb07a2c591978448556e2b32c21dbdcaf49f67db4f1e9131d3817d",
+        "exact_text_sha256": "455b0639c459a604726d97acb5abdafb074645b7264791c0520db682234a4741",
+        "source_line_start": 106,
+        "source_line_end": 115,
+        "section_index": 3,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "455b0639c459a604726d97acb5abdafb074645b7264791c0520db682234a4741",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0177-p0178:s04:x00",
+      "section_type": "constituents",
+      "original_text": "         Bestandtheile. Nach Braconnot enthalt das frische Kraut atherisches Oel (V2 — 2°/ ), ei ^\ngriines und ein bitteres Harz, eine stickstoffhaltige Substanz, Amylum, Eiweiss, wermuthsaures Kali,\nSalpeter und andere Salze; auch Apfelsaure und Bernsteinsaure.     Letztere Saure ist von Braconnot\n                    Wermuthsaure gehalten, von Zwenger aber ihrer Natur nach erkannt worden.\nTrocknes Kraut giebt nach Schulze 2,7 °/ Salpeter; die ca. 7°/ betragende Asche wurde im 17. Jahr-\nhundert als Sal Absinthii in den Apotheken vorrathig gehalten.",
+      "normalized_text": null,
+      "zh_tw_rendering": "含揮發油（0.5-2%）、綠樹脂、苦樹脂、含氮物質、澱粉、蛋白質、苦酒石酸鉀、硝酸鹽及蘋果酸、琥珀酸。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 178,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 2090,
+        "char_end": 2644,
+        "page_text_sha256": "733465b58a32c173f06f7e9063f95d893aa78882e31445d1d146c98c805ba7c1",
+        "exact_text_sha256": "60eca10be3a09a202e04240649de30a21d37a949e1e102c457fd74b23734108d",
+        "source_line_start": 43,
+        "source_line_end": 48,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "60eca10be3a09a202e04240649de30a21d37a949e1e102c457fd74b23734108d",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0177-p0178:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "             Anwendung.                  Im Aufguss, als Absnd und Extrakt, auch als frisch gepresster Saft                                         ys-\npeptischen Zustanden, Pyrosis und Grastralgie; bei Chlorose, Anamie und Scrophulose als di£ .aons-\nbeforderndes Mittel. Aeusserlich zu aromatischen, trocknen und feuchten Umschlagen bei SugiLationen,\nExudaten und Paralysen; im Klystier gegen Oxyurus. Absinthiin wird von Leonardi als treffiiches\nFiebermittel geruhmt. Kleine Dosen steigern den Blutdruck, grosse setzen ihn bedeutend herab. Das\natherische Oel dient zur Herstellung eines in Frankreich sehr beliebten Liqueurs (Extrait\n                                                                                          d'Absinthe),\ndessen starker Genuss jedoch epileptische Krampfe und chronische Vergiftungserscheinungen\n                                                                                            nach sich\nzieht. Die durch Wermuthpraparate hervorgerufenen, unangenehmen Nebenerscheinungen wie\n                                                                                           Grefass-\naufregung, Ideenverwirrung, Schwindel, Kopfschmerz scheinen von dem atherischen\n                                                                                Oele herzuriihren.",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：煎劑、酊劑治消化不良、貧血；外用治痙攣。大劑量降血壓。苦艾酒過量可致癲癇及慢性中毒。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 178,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 5492,
+        "char_end": 6788,
+        "page_text_sha256": "733465b58a32c173f06f7e9063f95d893aa78882e31445d1d146c98c805ba7c1",
+        "exact_text_sha256": "c57adbd72ade1742a6a5dfcf77c81b99bdbd452a59b96c9998ae35ce0dbefebc",
+        "source_line_start": 86,
+        "source_line_end": 98,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "c57adbd72ade1742a6a5dfcf77c81b99bdbd452a59b96c9998ae35ce0dbefebc",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "c639af7f63ea2b0a427de8e3ab29f4a74cf6c888e6a68bed795284c29dcff077",
+    "maker_receipt_sha256": "39a879847848acd56eeaa6f529fca8871e673f046245eaa2acdfd604ad154743",
+    "validation_check_sha256": "fa25f3d5c1bd379011345520d89b6dc15a8b36e698f79724589e0d5a63e7b27c",
+    "source_disposition_sha256": "b072491f66b30a16cd333d77b66b7c047f5e2b06f4c83b0eec8fe5392132122d",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "39a879847848acd56eeaa6f529fca8871e673f046245eaa2acdfd604ad154743",
+      "validation_check_sha256": "fa25f3d5c1bd379011345520d89b6dc15a8b36e698f79724589e0d5a63e7b27c",
+      "source_disposition_sha256": "b072491f66b30a16cd333d77b66b7c047f5e2b06f4c83b0eec8fe5392132122d"
+    },
+    "naming_artifact_sha256": "76fba54ba5130d427259d19584ca266ecb10fb2f5ff3ff6e915342e4cd4c361c"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "b8ba32a39bf0bdca13477324e296d0b16bda555b2e100cca1be852d71c0787ea"
+}

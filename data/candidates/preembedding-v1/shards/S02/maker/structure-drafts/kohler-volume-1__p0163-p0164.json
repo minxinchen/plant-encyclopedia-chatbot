@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0163-p0164",
+  "owner_shard": "S02",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 125.877,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0163-p0164",
+    "book_taxon": {
+      "scientific_name_candidate": "Orchis militaris",
+      "authorship_candidate": "L.",
+      "aliases_candidates": [
+        "0. Rivini Gouan",
+        "0. cinerea Silt.",
+        "0. galeata Poir",
+        "Kukuksblume",
+        "Helmknabenkraut"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "description",
+        "pdf_page": 163,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "多年生草本，具兩顆不等大塊莖，莖高至0.33米，葉披針形，花淡紫紅色。",
+        "warnings": [],
+        "source_line_range": [
+          14,
+          25
+        ],
+        "exact_source_quote": "            Beschreibung.     Orchis militaris L. Perennirende krautartige Pflanze mit einfachen, hori-\n                                                                        ,\n\n\n\nzontal laufenden Wurzeln und zwei ungleichgrossen, langlichen, verkehrt-eiformigen, ungetlieilten,\nblasslederbraunen Knollen, von denen die grossere, schwammige den diesjahrigen Stengel treibt, wahrend\ndie kleinere, feste, aus dem Winkel der unteren Blattscheide entspringende an der Spitze die nachst-\njahrige Stengelknospe tragt.     Der krautartige, einfache, aufreclite, stielrunde, kahle, bis V3 Meter hohe\nStengel am Grunde mit einigen kurzen, weisslichen Blattscheiden iiber denselben mit grosseren, breit-\nlanzettformigen, gekielten, aufrecht abstehenden, 8 Ctm. langen, 4 Ctm. breiten, oberseits lebhaft grtinen,\nunterseits blassgrtinen Blattern besetzt; die obersten Blatter urn den Stengel gerollt.      Bltithenahre auf"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 163,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "新塊莖含黏液與澱粉，表皮細胞含草酸鈣結晶，內含多面體黏液細胞。",
+        "warnings": [],
+        "source_line_range": [
+          87,
+          100
+        ],
+        "exact_source_quote": "            Anatoinisches : Bald nach dem Verbliihen zeigfc sich die junge eiformige Knolle von der halben Grosse\nder Mutterknolle, mit letzterer durch einen niedergebogenen, innen hohlen, kurzen Stiel verbunden, auf dem Scheitel\ndie Knospe tragend, aus welcher sich im folgenden Friihjahie der Stengel entwickelt.       Zur Bliithezeit entleert sich\ndas Gewebe des stengeltragenden Knollens, wahrend die junge Knolle mit Schleim und Starkemehl angefiillt ist. Die\nOberflache der jungen Knolle besteht aus weiten, diinn- und braunwandigen. inhaltsleeren Zellen, denen ungleichlange,\ngekriimmte und geglieclerte Wurzelhaare entspringen. Die sehr dunne Rinde wird von wenigen Zellenreihen gebildet,\nderen Inhalt hauptsachlich aus Krystallbundelchen von Calciumoxalat besteht. Zwischen diesen Zellen sind grossere\nS chl eimzellen ein geb ettet. Der fleischige innere Theil ist aus einem starkehaltigen Parenchym zusammengesetzt,\nwelches durch sehr zahlreiche grosse regelmassige polyeclrische Schleimzellen, vereinzelte Krystallzellen und zerstreute\nGefassbiindel unterbrochen wird.     Die Schleimzellen sind in der Regel nur durch eine Reihe der kleinen starke-\nfuhrenden Parenchymzellen von einander getrennt, stossen jedoch auch unmittelbar aneinander.           Die Gefassbiindel\nbesteben aus einem sehr diinnwancligen Parenchym, welches spiral- unci netzformige Gefasse einschliesst. Der Schleim\nist kein Produkt der Zellwand, sondern erscheint als ein neben dem Zellkern befindlicher Tropin, welcher durch\nAnwachsung den Zellkern und das Plasma vollstandig verdrangt."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 164,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分佈於草地及有草的森林中。",
+        "warnings": [],
+        "source_line_range": [
+          6,
+          6
+        ],
+        "exact_source_quote": "               Verbreitung                                 Wiesen und in besrasten Waldern"
+      },
+      {
+        "section_type": "flowering",
+        "pdf_page": 164,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "花期為五月至六月。",
+        "warnings": [],
+        "source_line_range": [
+          7,
+          7
+        ],
+        "exact_source_quote": "               Bluthezeit.             Mai bis Juni; Platanthera hifolia bis Juli."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 164,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史記載塊莖稱Salep，因形似睾丸，古時用於補益生殖系統，亦作食物。",
+        "warnings": [
+          "Content describes historical medical beliefs, not modern advice."
+        ],
+        "source_line_range": [
+          19,
+          31
+        ],
+        "exact_source_quote": "          Die Orchideenknolle, Salep, ist ein schon friih gebrauchtes Arzneimittel. Nach Plinius schrieb\nman im Oriente den Knollen wegen ihrer Aehnlichkeit mit den Hoden eine besondere Wirkung auf\ndie Gesclilechtsorgane zu.     Theophrast und Dioscorides, welche schon die Verschiedenheiten der\nbeiden Knollen kannten, empfahlen die letzteren als Nahrungsmittel.        Bei den arabischen Aerzten des\nMittelalters    welclie persische und andere orientalische Salepknollen in Europa einfuhrten, treten die\n                   ,\n\n\n\nKnollen unter dem Namen Chasjata ssalab, Hoden des Fuchses auf, woraus der Name Salep entstanden\nist.  Piero de Crescenzi zu Bologna beschreibt die Salepknollen als Testicttlus vulpis, Testiculas\ncams, Radix Satyriones.         Das Nordlinger Register von 1480 enthalt Radix Satyrii, ebenso die\nHamburger Taxe von 1587. Die ersten Abbildungen lieferten die Botaniker des 16. Jahrhunderts."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 164,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含48.7%糊精、阿拉伯膠及半溶性黏液，27%澱粉，5%蛋白質及礦物質。",
+        "warnings": [],
+        "source_line_range": [
+          59,
+          63
+        ],
+        "exact_source_quote": "               Bestandtheile.               Nach Dragendorf           enthalt\n                                                        der Salep 48,7 °/ Dextrin, Arabin und halb-\nloslichen Pflanzenschleim, 27°   Starkemehl, 5°/ Proteinsubstanz,                 °\n                                                                       Zucker, 2,4 /0 Cellulose, 2,1               5%\nMineralstoffe nebst kleinen Mengen Ammoniak, Salpetersaure Weinsteinsaure Harz, Fett, Oxalsaure."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "57be3b7a4b888a4b52aa42a0b844b20776a3b89b610fe87ab921de41c36d39fc"
+}

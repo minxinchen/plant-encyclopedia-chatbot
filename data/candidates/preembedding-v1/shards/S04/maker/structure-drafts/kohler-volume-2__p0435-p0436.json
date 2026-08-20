@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0435-p0436",
+  "owner_shard": "S04",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 132.208,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0435-p0436",
+    "book_taxon": {
+      "scientific_name_candidate": "Pimenta officinalis",
+      "authorship_candidate": "Lindl.",
+      "aliases_candidates": [
+        "Myrtus Pimenta L.",
+        "Eugenia Pimenta D. C.",
+        "Pimenta vulgaris Wight et Arn.",
+        "Pimenta acris Wight",
+        "Myrcia aeris D. C.",
+        "Amomis acris",
+        "A. pimentoides Berg",
+        "Myrtus acris Sw.",
+        "Pimenta Pimento Griseb.",
+        "Calyptranthes aromatica St. Hil."
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 435,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Pimenta officinalis Lindl.，同義名包括 Myrtus Pimenta 等。隸屬桃金孃科桃金孃亞科。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          6
+        ],
+        "exact_source_quote": "                               Pimenta officinalis Lindl. (Berg).\n  Syn.      Myrtus Pimenta L.           Eugenia Pimenta D. C.                  Pimenta vulgaris Wight et Arn.\n    Nelkenpfeffer, Neugewürz, Piment, Jamaikapfeffer — Poivre de la Jamaique —\n                           Pimento, Allspice, Jama-  Pepper\n                                                    ic  a.\n           Familie: Myrtaceae (Unterfamilie: Myrteae); Gattung: Pimenta Lindl."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 435,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "常綠喬木，高 10-13 米。葉對生，革質，長橢圓形。花序為繖房狀，花冠乳白色。果實球形，灰褐色，含種子。",
+        "warnings": [],
+        "source_line_range": [
+          7,
+          22
+        ],
+        "exact_source_quote": "           Beschreibung.        Immergrüner     Baum       mit   aufrechtem,     10—13      Meter    hohem,     20—25     Ctm.\ndickem, glattberindetem Stamme und vielästiger Krone. Die jungen Zweige 4kantig, Blätter gegenüber-\nstehend, mit 1'/; Ctm. langem Blattstiel, lederartig, oblong oder oblong-lanzettlich, bis 9 Ctm. lang\nund 3 Ctm, breit, stumpf oder sehr kurz und stumpf zugespitzt, ganzrandig, kahl, oberseits dunkel-\ngrün, unterseits blasser und von zahlreichen Oeldrüsen fein punktirt, Nerven oberseits schwach, unter-\nseits stärker hervortretend. Nebenblätter fehlen. Blüthen doldentraubenständig, dreifach dreigabelig\ngeordnet; die lang gestielten Doldentrauben in den Achseln der oberen Blätter der Zweige. Kelch\n4theilig, behaart, mit glockenfórmigem Unterkelch (Receptaculum); die Abschnitte rundlich, stumpf,\nausgebreitet. Blüthenkrone 4blätterig, elfenbeinweiss; Kronblätter rundlich, eifórmig, etwas vertieft,\nfein gezähnt, durch zahlreiche Oelbehälter punktirt. Staubgefässe zahlreich, von der Länge der Blumen-\nkrone, mit schaukelnden,       rundlichen,   2fücherigen     Staubbeuteln.       Stempel    mit unterständigem,        2fäche-\nTigem Fruchtknoten, welcher von dem Receptaculum eingeschlossen wird. Eichen in der Spitze des\nInnenwinkels hängend. Griffel fadenförmig, von der Länge der Staubgefässe, mit kopfiger Narbe.\nBeeren kugelig, bis 7 Mm. im Durchmesser haltend, graubraun, 2fächerig, jedes Fach mit einem\nSamen, von dem Griffel und dem Kelchrande gekrönt. Samen rundlich, nierenförmig, planconvex.\nEmbryo spiralig, mit langem, dickem Würzelchen und kurzen Samenlappen; ohne Eiweiss."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 435,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "果實具厚而粗糙的果皮，含油室。果肉富含草酸鈣簇晶及樹脂細胞。種子表面亦有油室。",
+        "warnings": [],
+        "source_line_range": [
+          27,
+          33
+        ],
+        "exact_source_quote": "         Anatomisches.       Die Frucht ist mit einer ‫هلو‬‎ Mm. dicken, kórnig-rauhen, graubräunlichen,\nleicht zerbrechlichen Schale ausgestattet, deren &usserste, von einer dünnen Oberhaut bedeckte Schicht\n eine Reihe dichtgedrängter, dunkelbraun gesäumter, kugeliger Oelräume enthält, die auf der Ober-\nfläche warzenfórmig hervortreten. In dem schlaffen, mit Oxalatdrusen reichlich ausgestatteten Paren-\nchym sind grosse, harzreiche Steinzellen vorherrschend; auch zeigt sich hie und da ein Gefüssbündel.\nOberhaut, innere Fruchthaut und das die Oelräume umgebende Gewebe sind reich an eisenbläuendem\nGerbstoff Die Oberfläche des stürkereichen Samens ist ebenfalls mit kleinen Oelráumen bedeckt."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 435,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產於墨西哥、中美洲、北南美洲及西印度群島，尤以牙買加北部石灰岩山為多。熱帶美洲及東印度有栽培。",
+        "warnings": [],
+        "source_line_range": [
+          35,
+          37
+        ],
+        "exact_source_quote": "        Vorkommen.      Im mittleren und südlichen Mexiko, in Centralamerika, im nördlichen Süd-\namerika und in Westindien, besonders auf den Kalkbergen der Nordseite von Jamaica einheimisch;\nim tropischen Amerika und. in Ostindien kultivirt."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 435,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源於 Pigmentum。古墨西哥人用於調味巧克力。17 世紀倫敦用作替代品。19 世紀出口量達數百萬磅。",
+        "warnings": [],
+        "source_line_range": [
+          38,
+          58
+        ],
+        "exact_source_quote": "        Name und Geschichtliches. Pimenta wird auf ‫هر‬‎                                    Fett (ölreiche Pflanze) zurück-\ngeführt;    wahrscheinlicher    ist die Ableitung    von     Pigmentum,      Farbstoff,    welches   Wort     im   Mittelalter\nauch auf Wohlgerüche und Spezereien übertragen wurde. Unter Pigmenta, Pimenta verstand man\nschon im 9. Jahrhundert allerhand Gewürze, unter denen der Pfeffer obenan stand. Hieraus erklären\nsich die Bezeichnungen im spanischen pimienta und italienischen pimento für Pfeffer, Gewürz. Dieser\nUmstand mag in Verbindung mit dem nelkenartigen Geruche und Geschmacke der Früchte den Namen\nNelkenpfeffer hervorgerufen haben. Myrtus, schon bei Homer und Theophrast uveowm, vorum,\nHere, bei Plinius myrtus, ist abgeleitet von uvoov, Balsam, Myrrhe, weil Blätter und Früchte der\nMyrte myrrhenartig riechen. Eugenia siehe Eugenia caryophyllata Taf. 125.\n           rancisco Hernandez, welcher im Auftrage König Philipp’s II. von 1571—1577 Mexiko\nbereiste, bespricht den Nelkenpfeffer unter der Bezeichnung Piper Tabasci und bemerkt, dass die alten\nMexikaner     denselben,   neben Vanille,     zum   Würzen       der Chocolade     verwendeten.       Clusius      erhielt von\ndem Drogisten Garet in London im Jahre 1601 Piment, nach Flückiger's Vermuthung wahrschein-\nlich die Früchte    von Pimenta      officinalis; Clusius,       welcher   diese Früchte     abbildete, bemerkt,      dass die\nDroge auch mit Amomum bezeichnet werde. Um 1640 bildete Piment in London einen Ersatz für\n das eben nicht häufig auf dem Markte erscheinende Amomum verum. Redi nennt die Droge Pimenta\nde Chiapa, auch Pimienta de Tabasco; Bains bezeichnet sie mit Piper odoratum jamaicense und\nPlunkenet mit Caryophyllus aromaticus americanus.           In Deutschland war Fructus Amomi seu\nPiper Jamaicense zu Anfang des 18 Jahrhunderts noch eine Seltenheit.        1797 wurden von Jamaica\nschon 411240 Pfund, 1824 über 4 Millionen Pfund und 1857 bereits über 8 Millionen Pfund aus-\ngeführt."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 436,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "果皮與種子含揮發油、脂肪油、樹脂及單寧。揮發油含丁香油酚及烴類，具丁香油氣味。",
+        "warnings": [],
+        "source_line_range": [
+          24,
+          42
+        ],
+        "exact_source_quote": "         Bestandtheile.                Bonastre,     welcher. Schale und Samen               der     Früchte untersuchte,          fand\n2/2 Schale und      1/ Same.        100 Theile Schale        lieferten:     10.0 ätherisches       Oel, 8.0 fettes Oel, 0.9 Stea-\nropten, 11.0 gerbstoffhaltiges Extrakt, 3.0 Gummi mit Gerbstoff, 4.0 in Alkali. löslichen Farbstoff, 11.4\nin Alkohol und Aether lösliches Harz, 3.0 unkrystallisirbaren Zucker, 0.6 Aepfel- und Gallussäure,\n3.5 Feuchtigkeit,     50.0 Holzfaser,      2.8 Asche, 1.7 Verlust.            100 Theile        Samen     lieferten:   5.0 ätherisches\nOel, 2.5 fettes Oel, 3.98 gerbstoffhaltiges Extrakt, 3.2 Stearopten, 7.2 Gummi und Gerbstoff, 8.8 in\nAlkali löslichen Farbstoff, 39.3 in Alkohol und Aether lösliches Harz, 8.0 unkrystallisirbaren Zucker,\n1.6 Aepfel- und Gallussäure, 3.0 Feuchtigkeit, 16.0 Holzfaser, 1.9 Asche, 1.8 Verlust. Das Stärke-\nmehl, welches im Nelkenpfeffer sehr reichlich vorhanden ist, ist Bonastre entweder ganz entgangen oder\ndas gummiige Extrakt, der unkrystallisirbare Zucker und der grösste Theil des gerbstoffhaltigen Ex-\ntraktes ist erst im Verlaufe der Untersuchung aus dem Stärkemehl gebildet worden.            /\n          Das    ütherische         Oel,   welches    nach      Flückiger       bis zu     49/,    gewonnen       wird    (nach Jahn\n2.34 %,), ist gelb bis gelbbraun, dickflüssig, besitzt einen Geruch ähnlich dem Gewürznelkenöl, ist stark\nlichtbrechend, hat ein spez. Gew. von 1.03, sondert sich mit Wasser in einen schweren, untersinkenden\nund einen leichten, schwimmenden Antheil und besitzt nach Oeser eine ähnliche Zusammensetzung wie\ndas Gewürznelkenöl, ist jedoch reicher an dem Kohlenwasserstoffe und daher von weniger reinem.\nEugenolgeruche. Es wird nach Husemann durch Kalilauge in sich lösende Nelkensäure und einen\nsich oben absondernden            Kohlenwasserstoff C,,Hs,        geschieden,       der bei 255°        siedet, ein spez. Gew. von\n 0.98 bei 8° und nur schwaches Rotationsvermögen nach links besitzt.        ;"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "92388ac614a8bf0fbf3ddab3191057ce3d512a6586cfca2edb645c20adb4fb59"
+}

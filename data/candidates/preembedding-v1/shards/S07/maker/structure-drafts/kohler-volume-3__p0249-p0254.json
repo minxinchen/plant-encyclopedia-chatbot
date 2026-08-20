@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-3:p0249-p0254",
+  "owner_shard": "S07",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 178.387,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-3:p0249-p0254",
+    "book_taxon": {
+      "scientific_name_candidate": "Citrus Bergamia",
+      "authorship_candidate": "Risso",
+      "aliases_candidates": [
+        "Cürus Limetta var. Bergamotta Risso",
+        "Citrus Aurantium var. Bergamia Wight & Arnott",
+        "Cürus Bergamia var. Calabarica Risso & Poiteau",
+        "Bergamotte",
+        "Bergamot"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 249,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Citrus Bergamia Risso，別名 Bergamotte，隸屬於芸香科柑橘亞科。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          7
+        ],
+        "exact_source_quote": "                                     Citrus Bergamia Risso.\n                          Bergamotte.        Engl.: Bergamot.             Franz.: Bergamotte.\n\n        Syn. Cürus Limetta var. Bergamotta Risso, Citrus Aurantium var. Bergamia Wight &\nArnott, Cürus Bergamia var. Calabarica Risso & Poiteau.\n\n            Familie: Rutaceaee        Unterfamilie:         Aurantieae.     Gattung:   Citrus L."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 249,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "樹高約 5 米，枝條三稜形，葉互生橢圓狀披針形，葉柄具翼，葉面佈滿油腺。",
+        "warnings": [],
+        "source_line_range": [
+          8,
+          28
+        ],
+        "exact_source_quote": "            Beschreibung.         Der Bergamottbaum ist wenig über              5 m hoch und besitzt eine schöne\nrunde Krone; der Stamm ist rund, nicht sehr rauh, sein Holz weiss und hart.   Er trägt viel-\nfach hin- und hergebogene Zweige, welche immergrün und seitlich zusammengedrückt sind\nund unter   dem Ansatz   neuer Zweige,   sowie unter den Blattachseln    gekielt sind,    so\nweit, dass die jüngsten Zweige hervortretend dreikantig erscheinen.   In den Blattachseln\nfinden sich bisweilen grüne Dornen; oft indessen fehlen dieselben auch. Die Blätter sind\nwechselständig, ungeteilt, eilanzettlich, bis 12 cm lang und 6 cm breit, am Grunde abgerundet,\nin eine stumpfe Spitze übergehend, oder an der Spitze abgerundet bis ausgeschnitten; der\nwellige gekerbte Rand etwas zurückgebogen.        Der Mittelnerv des Blattes ist oberseits ein-\ngesenkt, unterseits stark hervortretend und läuft, nur wenig verjüngt, bis in die Spitze des\nBlattes.     Aus ihm entspringen zehn bis zwölf Seitennerven erster Ordnung im Winkel von bei-\nnahe  70° und gabeln sich etwa in !/, der Blattfläche vom Rande entfernt so, dass die Zweige\nmit den vorhergehenden und nachfolgenden Nerven erster Ordnung weite Spitzbögen bilden.\nZwischen ihnen und mit ihnen parallel verlaufen die weit schwächeren Nerven zweiter Ordnung,\nwelche sich erst kurz vor ihrem Ende gabeln und in die benachbarten Nerven erster Ordnung\nmit zwei Ästen einmünden. Zwischen diesen, auf der Oberseite des Blattes kaum, auf der Unter-\nseite stärker hervortretenden Nerven liegt ein reichmaschiges Adernetz.   Die ganze Blattfläche\nerscheint punktiert durch zahlreiche durchscheinende Öldrüsen.       Ebenso befindet sich am\nRande des Blattes unter jedem Einschnitt eine ziemlich grosse Öldrüse.        Der Blattstiel ist\netwa 1 cm lang, oberseits rinnig, unterseits abgerundet, an der Spitze, woselbst er leicht\nabbricht, in den Mitteinerven der Blattlläche eingelenkt.                    An der Seite verlaufen zwei schmale"
+      },
+      {
+        "section_type": "flowering",
+        "pdf_page": 250,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "花期為六月至七月，果實成熟期為十月至十一月。",
+        "warnings": [],
+        "source_line_range": [
+          49,
+          49
+        ],
+        "exact_source_quote": "           Blütezeit.      Juni bis Juli, Fruchtreife Oktober bis November."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 250,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產東印度，野生狀態未知，主要栽培於義大利南部卡拉布里亞半島。",
+        "warnings": [],
+        "source_line_range": [
+          51,
+          57
+        ],
+        "exact_source_quote": "           Vorkommen.           Es scheint,      dass      die Bergamotte       aus Ostindien        stamme.     Im wilden\nZustande ist sie nicht bekannt, und wird deshalb von vielen Botanikern als eine Varietät der\nPomeranze oder als ein Bastard von Zitrone und Pomeranze angesehen.      Der Baum wird im\nsüdlichsten Italien angebaut, und zwar fast ausschliesslich an der Spitze der kalabrischen\nHalbinsel. Hier beschränkt sich seine Kultur auf die Umgegend Reggios, Melitos und einiger\nKüstenstädte, sodass          das bepflanzte Terrain          etwa    eine Breite       von 50 km     und   eine Länge     von\n25 km aufweist."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 251,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱可能源自土耳其語「Fürstenbirne」，1693 年文獻已記載，1688 年已有精油銷售。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          29
+        ],
+        "exact_source_quote": "        Name und Geschichte        Der Name der Pflanze wird von vielen Gelehrten von\nBergamo, einer Stadt Oberitaliens, abgeleitet; — mit Unrecht,\n                                                                   da dort weder Pomeranzen\nnoch Bergamotten wachsen. Dagegen hat die Ableitung des Na\n                                                                   mens aus dem Türkischen\nmehr Wahrscheinlichkeit für sich. Dr. Rice leitet, wie Flücki\n                                                                  ger berichtet, den Namen\nBergamotte von beg-ärmäüdi, d. i. „Fürstenbirne“* ab, und wenn ma\n                                                                  n bedenkt, dass der Orient\ndie Heimat der Citrus-Arten ist, so lässt sich diese Ethymologie des Wo\n                                                                        rtes wohl verteidigen.\n— Die Bezeichnung mella rosa hat ebenfalls früher Schwierigkeiten be\n                                                                        reitet; mir scheint die\nÜbersetzung „mit dem Messer geschnitten“ im Hinblick auf die Oberfl\n                                                                             äche der Früchte\nzweckentsprechend.\n\n            Die Bastardnatur           der Bergamotte             wurde     zuerst    von     Gallesio          (l. c.) behauptet     und\nfindet    auch heute noch ihre Verfechter.                         Risso      unterscheidet dagegen               die Limone        (itrus\n Limonum,        die     Zitrone   Citrus medıca,      die Pomeranze           Citrus vulgaris        und     die Bergamotte        (itrus\nBergamea als gute Arten. — Die Bergamotte wird in der Litteratur zuerst ge\n                                                                              gen das Ende\ndes 17. Jahrhunderts erwähnt und zwar in einem kleinen Buche des Parfumeurs Sieur Barbe:\n„Le Parfumeur francois, 1693“; er glaubt, dass die Bergamotte eine Zitrone sei, die ma\n                                                                                       n auf\nden Stamm einer Bergamottbirne gepfropft habe.. 1688 war indessen Bergamottöl schon in\neiner Giessener Apotheke käuflich. Volkamar von Nürnberg beschreibt 1708 in seinem\n Werke     über        die Gattung Citrus die Bergamotte (Limon Bergamotta) und nennt sie „Gloria Limonum\net fructus inter omnes nobilissimus‘, (Flückiger)."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 252,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "精油主要成分為萜烯，含 20% 右旋檸檬烯、40% 芳樟醇乙酸酯及 6% 佛手柑素。",
+        "warnings": [],
+        "source_line_range": [
+          39,
+          41
+        ],
+        "exact_source_quote": "           Bestandteile.         Das Bergamottöl         besteht    zum    grössten Teile aus Terpenen,                    unter denen\nsich 20°/, Reehts-Limonen befindet.                     Ausserdem enthält es bis zu 40°/, Linalylacetat, etwas\nfreies Linalool,     C'H!°O,           und    gegen    6°/, Bergapten.                                           i"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "c35017d345ab6430bf3c3abbb9d5176451cb6d622989705ccaa6ff83b9adbd8e"
+}

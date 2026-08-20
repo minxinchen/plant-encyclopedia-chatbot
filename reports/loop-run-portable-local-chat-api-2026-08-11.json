@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "run_id": "portable-local-chat-api-2026-08-11",
+  "started_at": "2026-08-11T12:33:02+08:00",
+  "finished_at": "2026-08-11T12:42:11+08:00",
+  "status": "approved",
+  "cost": {
+    "incremental_usd": 0,
+    "paid_fallback_used": false
+  },
+  "input": {
+    "pages_file": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/records/cibotium-barometz.json",
+    "name_file": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/sample-name-resolution.json",
+    "page_count": 3,
+    "taxon_count": 2
+  },
+  "stages": [
+    {
+      "name": "policy_first_chat_engine",
+      "attempt": 1,
+      "status": "passed",
+      "tool": "Python 3 standard library and config/chat-policy.json",
+      "checks": [
+        "Hypothesis: a zero-cost local API can apply scope, locale, Taiwan-name and medical-advice gates before any generation.",
+        "Proof: ten deterministic cases cover zh-TW, English, zh-Hans normalization, two non-Köhler drug refusals, medical-advice refusal, unknown approved-record fact, unprocessed taxon, Taiwan name metadata and image-capability disclosure.",
+        "A false-positive bug caused by the 毛 character inside 金狗毛蕨 was detected and fixed before promotion."
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "live_http_contract",
+      "attempt": 1,
+      "status": "passed",
+      "tool": "ThreadingHTTPServer plus urllib client",
+      "checks": [
+        "GET /health returned 200 and image_reasoning false.",
+        "POST /v1/chat returned a zh-TW answer with one approved page citation.",
+        "POST /v1/retrieve returned English evidence without answer generation.",
+        "An empty request returned HTTP 400."
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "independent_evidence_validation",
+      "attempt": 1,
+      "status": "passed",
+      "tool": "validate-chat-api.py plus existing policy, record, grounding, embedding and fulltext validators",
+      "checks": [
+        "10/10 API cases passed with zero external model calls.",
+        "Cibotium record retained approved evidence pages 30, 31, 32 and 79.",
+        "The 1,774-page FTS corpus and bounded Podophyllum bilingual embedding remained valid.",
+        "Tracked lab and n8n example files contained no Gemini key."
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "n8n_and_google_portability",
+      "attempt": 1,
+      "status": "passed",
+      "tool": "n8n 2.12.3 workflow import, SQLite inspection and OpenAPI 3.1 contract",
+      "checks": [
+        "PEChatApi001 canonical nodes and connections matched the imported database record.",
+        "The workflow remained inactive and n8n remained stopped.",
+        "PLANT_ENCYCLOPEDIA_CHAT_API_URL avoids embedding a secret or fixed executable path in the workflow.",
+        "Opal external HTTPS reachability remains explicitly unverified; localhost is not exposed publicly."
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "image_reasoning",
+      "attempt": 1,
+      "status": "skipped",
+      "tool": "not enabled in this text-only bounded batch",
+      "checks": [
+        "The API declares image_reasoning false and returns not_available_in_text_only_mvp when images are requested."
+      ],
+      "retry_target": "Add a separately reviewed plate retrieval and Gemini page-image checker batch."
+    }
+  ],
+  "review_summary": {
+    "passed": 4,
+    "needs_review": 0,
+    "failed": 0,
+    "warnings": [
+      "The API currently exposes facts from one approved plant record plus one Taiwan name-metadata fixture; it is not a full-book chatbot.",
+      "Image reasoning is intentionally unavailable in this text-only MVP.",
+      "Opal cannot be assumed to reach a localhost endpoint without a separately approved authenticated HTTPS gateway."
+    ]
+  }
+}

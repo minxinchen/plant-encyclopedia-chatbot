@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 569,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "d9b06aebffe8629ba8a99aa8c190ecf3ba25a358596a9ac8b7095d448464642c",
+  "render_dpi": 144,
+  "render_sha256": "afb7b8c7e970dc7866d1c06ad6ea9d2eda0b67f6e0f9fd517b9ddbbd1eaf6241",
+  "input_sha256": "afb7b8c7e970dc7866d1c06ad6ea9d2eda0b67f6e0f9fd517b9ddbbd1eaf6241",
+  "render_pixel_width": 5774,
+  "render_pixel_height": 8186,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.403,
+  "embedded_character_count": 21,
+  "ocr_character_count": 36,
+  "ocr_alpha_ratio": 0.8333,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.024039834264725002,
+      "text": "Compositae.",
+      "width": 0.12111195968005561,
+      "x": 0.8219684803115241,
+      "y": 0.9112130206428625
+    },
+    {
+      "confidence": 1,
+      "height": 0.023342331250508663,
+      "text": "Anacyclus Pyrethrum D.C.",
+      "width": 0.2736625403123901,
+      "x": 0.3641975344734346,
+      "y": 0.13662790704646655
+    }
+  ],
+  "text": "Compositae.\nAnacyclus Pyrethrum D.C.",
+  "output_sha256": "22dcdf70080eb2f5dc225b01af547d2b8c2eab7ba843b1d0e21bb545c077144c",
+  "receipt_sha256": "95f86297d8d05578c4b002f2a0ce6f57d6c915afd8b1a7da180c326e6caa1166"
+}

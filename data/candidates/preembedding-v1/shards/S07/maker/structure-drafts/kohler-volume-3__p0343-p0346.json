@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-3:p0343-p0346",
+  "owner_shard": "S07",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 141.343,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-3:p0343-p0346",
+    "book_taxon": {
+      "scientific_name_candidate": "Carex arenaria",
+      "authorship_candidate": "L.",
+      "aliases_candidates": [
+        "Vignea arenaria Reichenbach",
+        "Sandriedgras",
+        "Sandsegge",
+        "rote Quecke",
+        "Sea sedge",
+        "Chiendent rouge",
+        "Radix Sarsaparillae germanica",
+        "Radix Graminis major",
+        "Radix Graminis rubra",
+        "Sandriedgraswurzel",
+        "deutsche Sarsaparille",
+        "Sea sedge root",
+        "Laiche des sables"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 343,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Carex arenaria L.，同義名 Vignea arenaria。屬禾本科，Carex 屬，Homostachyae 組。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          6
+        ],
+        "exact_source_quote": "                                                  Carex             arenaria                 L.\n Sandriedgras,            Sandsegge, rote Quecke.                    Engl.: Sea sedge.                 Franz.: Chiendent                  rouge.\n\n           Syn.: Vignea arenaria Reichenbach.\n\n           Familie: Oyperaceae.               Unterfamilie: Cariceae                Gattung: (arex L. Sekt.: Homostachyae."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 343,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "多年生草本，具黃褐色節狀根莖。根莖為合軸分枝，地上莖直立，三稜形，基部具葉。",
+        "warnings": [],
+        "source_line_range": [
+          8,
+          18
+        ],
+        "exact_source_quote": "           Beschreibung.                Die Sandsegge ist ein ausdauerndes Kraut von grasähnlichem Habitus.\nDas     1 bis     3 m    lange,       federkielstarke,       beinahe         stielrunde      gelbbraune          Rhizom         ist knotig       und\n\nträgt    an     den Knoten            Büschel     von     dünnen     Nebenwurzeln.             Ebenda         scheinen          die nach        oben\n\nserichteten,        senkrecht           oder mit einem kurzen Knie aufsteigenden oberirdischen Stengel zu\nentspringen,        während           sich das Rhizom           im Boden        fortsetzt.     Thatsächlich             ist das Rhizom            ein\n\nSympodium,          dessen Glieder              sich dichasial verzweigen.                Der eine dieser Zweige endet kurz\nin die Knospe der oberirdischen Achse und wird durch den kräftig entwickelten zweiten Fort-\nsetzungsspross           zur    Seite     gedrängt.       Das     neue      Fussstück     wird       von    einem       zerschlitzten           Trag-"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 345,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "根莖皮層具大氣腔，維管束呈三圈排列，中央具厚壁細胞。髓部星狀，富含澱粉。",
+        "warnings": [],
+        "source_line_range": [
+          27,
+          44
+        ],
+        "exact_source_quote": "             Anatomie.            Die Rinde         des Rhizoms             zeigt    von     aussen      her zunächst        eine Reihe         sehr\n\nenger, lufterfüllter, beinahe würfelförmiger Epidermis-Zellen, auf welche lockeres Parenchym\nfolgt.     Dieses Parenchym                   umgrenzt die grossen radialgestreckten Luftkanäle                            der Rinde.          Seine\n\n Zellen     sind      an    den     tangentialen          Wänden           der Luftlücken          tangential       gerichtet      und    sehr zu-\n\n sammengesunken, während sie in den radialen Trennungswänden auch radial gestreckt sind.\n Der Rand des Gefässbündelcylinders wird durch mehrere Schichten sehr stark verdickter\n Parenchymzellen                gebildet,      auf welche        dann       die einreihige Endodermis folgt.                 Das Füllgewebe\n\n ist im Innern             des Rhizoms wieder lockerer und dünnwandiger; in ihm liegen die ungefähr\n kreisförmigen             Gefässbündel in drei unterbrochenen Kreislinien, von denen die äussere\n durch     sklerenchymatische Zwischenschichten                                vollständig geschlossen ist.                Die Gefässbündel\n sind zentral gebaut;                  um     das zentrale Phlo&m gruppieren sich vier bis sechs weite Gefässe\n nur     die äussersten           Gefässbündel           zeigen        bisweilen     eine radiale        Anordnung.          Das     Füllgewebe\n\n ist reich      an    Stärke."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 344,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "生長於德國北海岸沙丘，亦見於德國及北美內陸沙質鹽地，如圖林根森林及西里西亞。",
+        "warnings": [],
+        "source_line_range": [
+          42,
+          47
+        ],
+        "exact_source_quote": "              Vorkommen.                  Die Pflanze wächst an der nördlichen deutschen Meeresküste,                                               wo sie\n bei    der Befestigung               der Dünen            eine    sehr        wichtige      Rolle     spielt.    Sie     findet       sich       dann      an\n\n sandigen,           salzhaltigen Orten               des deutschen und nordamerikanischen Binnenlandes,                                           erreicht\n z. B. den Thüringer Wald, findet sich u. a. auch in Schlesien, um Dresden, Magdeburg, Witten-\n berg und Dessau, sie fehlt aber in den südlichen Gebieten."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 346,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "新鮮根莖含微量揮發油、澱粉、軟樹脂及少量醋酸鈣；乾燥後揮發油消失。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          2
+        ],
+        "exact_source_quote": "       Bestandteile.        Frisches Rhizom ent häl t  Spu ren .  äth eri sch en  Öls ,  Stä rke ,      Weichharz\nund etwas Calciu  mox ala t; tro cke nes Rhi zom    hat  alle s  äth eri sch es  Öl ver lor en."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 346,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史上用作血液淨化劑及弱利尿劑，作為昂貴土茯苓的替代品，但利尿效果較差。",
+        "warnings": [],
+        "source_line_range": [
+          4,
+          6
+        ],
+        "exact_source_quote": "         Anwendung. Das Rh   iz om   die nt  als  blu tre ini gen des ,  sc hw ac h  diu ret isc hes    Mit tel  und\nwird als Ersatzmittel der teuere ren   Sar  sap ari llw urz el  ver  wen det .    Bs  err eic ht  abe r   in  sei nen\ndiuretischen Eigenschaften die Sarsaparille bei weitem nicht."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "f9be3914ee5ef974bdb2ceff662b543e91268f6b71818b4c16e25fbe55b2c1e3"
+}

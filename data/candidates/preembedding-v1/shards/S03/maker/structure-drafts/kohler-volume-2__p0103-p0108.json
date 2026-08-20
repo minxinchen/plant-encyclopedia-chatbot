@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0103-p0108",
+  "owner_shard": "S03",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 207.388,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0103-p0108",
+    "book_taxon": {
+      "scientific_name_candidate": "Smilax medica",
+      "authorship_candidate": "Cham. et Schlechtend.",
+      "aliases_candidates": [
+        "Sarsaparile",
+        "Salsapareille",
+        "Sarsaparilla"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 103,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Smilax medica，隸屬於百合科（Liliaceae）Smilax 屬。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          3
+        ],
+        "exact_source_quote": "                       Smilax medica Cham. et Schlechtend.\n                          Sarsaparile 一 Salsapareille — Sarsaparilla.\n          Familie: Liliaceae.     Gattung: Smilax \"Tourn."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 103,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "描述：攀援狀半灌木，具水平匍匐或上升的根莖，長根，節狀帶刺莖，心形或箭形網狀葉。",
+        "warnings": [],
+        "source_line_range": [
+          4,
+          12
+        ],
+        "exact_source_quote": "          Beschreibung. Die Gattung Smilax besteht aus rebenartigen, im\n                                                                                 mergrünen Halbsträuchern\nmit horizontalkriechendem oder aufsteigendem, bisweilen knolligem Wu\n                                                                        rzelstock mit vielfach bis 2 Meter\nlangen Wurzeln und hin- und hergebogenen, armesdicken, knotigen,\n                                                                          gewöhnlich stacheligen Stengeln,\ndie mit zweizeiligen, zerstreutstehenden, meist rankentragenden, herz- oder\n                                                                               spiessförmigen, netzaderigen,\ngestielten Blättern besetzt sind.     Vermittelst der blattwinkelständigen Banken und starker Stacheln"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 104,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "解剖：根橫切面顯示厚而多粉的皮層，無髓射線的閉合木質環，及含澱粉粒與草酸鈣簇的大髓部。",
+        "warnings": [],
+        "source_line_range": [
+          35,
+          46
+        ],
+        "exact_source_quote": "          Anatomisches. Der Wurzelquerschnitt zeigt nach Berg eine dicke, meist weisse, mehlige,\nlückenlose, aus Aussen-, Mittel- und Innenrinde zusammengesetzte Rinde, einen geschlossenen Holzring\nohne Markstrahlen, mit deutlichen Gefässporen und ein grosses, mehliges Mark. Die Aussenrinde\nbesteht zu äusserst aus einer einzelnen Reihe dünnwandiger, blassbräunlicher,                                            inhaltsloser, bald ver-\nwitternder Korkzellen, die mitunter zu kurzen, einzelligen Haaren auswachsen;                                             die darunter liegende,\naus 3—5 Reihen gebildete innere Schicht enthält nur nach aussen verdickte, braunrothe oder gelbe\nZellen ohne festen Inhalt, deren Wandverdickung jedoch nach der Mittelrinde hin abnimmt. Die stark\nentwickelte, gewöhnlich mehlige und schneeweisse, selten etwas gelbliche, röthliche oder bräunliche,\nauch hornartige und dann graue oder graubräunliche Mittelrinde zeigt ein farbloses, aus dünn-\nwandigen,      getüpfelten       Zellen     und     grossen Intercellularräumen                 zusammengesetztes            Parenchym,           dessen\nlanggestreckte, im Querschnitt rundliche Zellen meistens zu 2 一 6 verwachsene, 3—4strahlig gespaltene\nStärkekörner und in einzelnen Zellen auch von Schleim umgebene Calciumoxalatkrystallbündel, auch"
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 105,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史：名稱源自西班牙語，16 世紀已用於藥用，原產於美洲，早期用於治療梅毒。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          10
+        ],
+        "exact_source_quote": "           Name und Geschichtliches.          Der Name Sarsaparilla, eigentlich Zarza parilla, stammt\n aus dem spanischen zarza (portugiesisch salsa), Brombeerstrauch und parilla (portugi\n                                                                                         esisch parilha),\n Verkleinerungswort von parra Weinstock, wegen der stacheligen Stengel und weinarti\n                                                                                        gen Blattranken,\n vermittels deren die Pflanze gleich dem Weinstocke emporklimmt.         Smilax von oul Kratzeisen\n (cucew kratzen), wegen der bestachelten Stengel.\n           Die Sarsaparille ist schon im 16. Jahrhundert unserem Arzneischatze einverleibt worden und\n‚jedenfalls ist die arzneiliche Benutzung von Seiten der Eingeborenen ‚schon lange vor dem Eindringen\n der Spanier in Gebrauch gewesen.        Pedro de Cieza de Leon, welcher in der ersten Hälfte des"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 108,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "成分：含揮發油、樹脂、澱粉及 Parillin（Smilacin），後者為中性結晶，味苦，類似皂苷但作用較溫和。",
+        "warnings": [],
+        "source_line_range": [
+          14,
+          27
+        ],
+        "exact_source_quote": "         Bestandtheile. Die      Wur zel ist  vie lfa ch   unt ers uch t    und     Spu ren  von    äth eri sch em    Oel e,   Har   z,\nAlbumin,      Bassorin, Gummi,            Pektin, Zucker, Oxalsáure,              bis 50°, Stärkemehl              und bis 2°, Parillin            darm\nauf gef und en    wor den .    Das    Par ill im    182 4    von   Pal lot  a    in   der Sar  sap ari lle wur zel      auf gef und en   und  von\nihm Pariglin, später von            Fol  chi      und   Ber  zel ius      Smi lac in    gen ann t,    krys tall isir t   aus  Wei  nge ist   nac  h\nPoggiale in fei        nen   Nad eln ,   nac h   Thu  beu  f    in   wei sse n,   aus   str ahl ige n   Blä ttc hen     bes teh end en  War  zen ,\nist luf tbe stä ndi g,  neu tra l,  ger uch los ,   tro cke n   fast   ges chm  ack los ,   in   Lös  ung    hin  geg  en   sch arf  und   bitt er,\nwird in hóherer Temperatur                zerstórt, von        kaltem Wasser          kaum,     in kochendem Wasser               reichlich gelóst,\nin kaltem Weingeist nur wenig, in kochendem leicht, in reinem Aether nicht, hingegen gut in Aether-\nweingeist. Es besitzt nach Poggiale die Formel C0, H} 0g, nach Petersen und Henry C,,H,,0;.\nWird Parillin mit verdünnten Säuren gekocht, so erhält man eine erst braune, dann grünliche, fluores-\ncirende Flüssigkeit, aus der sich weisse Krystallschüppchen von Parigenin abscheiden, wobei auch\nZucker auftritt. Flückiger sagt über Parillin: „Die Zusammensetzung des Parillins nähert sich sehr\nderjenigen von Saponin aus anderen Quellen; es besitzt nicht die heftigen Wirkungen, welche z. B. dem\n Saponin aus Quillaja Saponaria zukommen. Das Parillin erregt kein Niesen und schmeckt weit milder.“"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 108,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史用途：傳統上以粉末或煎劑形式，用於治療梅毒、痛風、慢性風濕及瘰癧等症。",
+        "warnings": [],
+        "source_line_range": [
+          31,
+          37
+        ],
+        "exact_source_quote": "          Anwendung.         In Substanz als Pulver oder Latwerge und in Abkochung gegen veraltete\nsyphilitische, gichtische, chronisch-rheumatische, scrophulóse Leiden. Husemann äussert sich hierüber:\n„Ausser Amylum und einer Spur ätherischen Oeles enthält die Sarsaparille ein kratzend schmeckendes\nGlykosid, Smilacin oder Parillin, dessen Beziehung zu der Wirksamkeit der Sarsaparille nicht feststeht.\nDie Sarsaparille ist der wichtigste Bestandtheil der meisten sogen. Holztränke und wird besonders bei\nSyphilis, bei chronischen Exanthemen (Psoriasis, Furunculosis und multiplen Abscessen) bei Gicht und\nchronischem Rheumatismus benutzt. (Husemann, Arzneimittell. 829.)"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "4790bacfe5dc102ad66d73d2b6df76132ec2be25f119f1264a94091b61dc295c"
+}

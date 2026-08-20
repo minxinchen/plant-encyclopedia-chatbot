@@ -1,0 +1,235 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-3-p0137-p0140",
+  "entry_id": "kohler-volume-3:p0137-p0140",
+  "owner_shard": "S06",
+  "book_taxon": {
+    "scientific_name": "Duboisia myoporoides",
+    "authorship": "R. Brown",
+    "aliases": [
+      "Notelaea ligustrina Sieb.",
+      "Cockwood",
+      "Elm",
+      "ÖOnungunabie",
+      "N gmoo"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Duboisia myoporoides"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T16:00:04+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Duboisia+myoporoides",
+        "query_name": "Duboisia myoporoides",
+        "retrieved_at": "2026-08-13T16:00:01+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Notelaea+ligustrina",
+        "query_name": "Notelaea ligustrina",
+        "retrieved_at": "2026-08-13T16:00:02+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 137,
+      "evidence_type": "text",
+      "page_text_sha256": "478341050e8af08bbdcca13ce382afe5129818f92afba6507a3dab190041f6ed",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 138,
+      "evidence_type": "text",
+      "page_text_sha256": "a27214992ca30b7fac1287cdf01918611d8c02ec7bf7f0a4c727672d9ab0ce92",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 139,
+      "evidence_type": "text",
+      "page_text_sha256": "8e2431533d2efe85d1d4a126de716a3eb00b6c4ab9a33f67fb57212a1dd0f4ed",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-3:p0137-p0140:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                          Duboisia              myoporoides                   R. Brown.\n                     Cockwood, Elm; ÖOnungunabie              und N gmoo            der Australier.\n         Familie: Solanaceae Juss. Unterfamilie: Salpiglossideae Juss.                   Gattung: Duboisia R. Br.\n         Syn. Notelaea ligustrina Sieb.",
+      "normalized_text": null,
+      "zh_tw_rendering": "茄科植物，學名 Duboisia myoporoides，異名 Notelaea ligustrina。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 137,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 341,
+        "page_text_sha256": "478341050e8af08bbdcca13ce382afe5129818f92afba6507a3dab190041f6ed",
+        "exact_text_sha256": "28247d91d5e0fc990c1e64a0a90a7ae8e8542ee8e5be1c939cb41158e6a5491c",
+        "source_line_start": 1,
+        "source_line_end": 4,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "28247d91d5e0fc990c1e64a0a90a7ae8e8542ee8e5be1c939cb41158e6a5491c",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0137-p0140:s01:x00",
+      "section_type": "description",
+      "original_text": "      Beschreibung. _Ein Strauch oder ein kleines Bäumchen von etwa 5 m Höhe, dessen\nStamm und stärkere Äste mit grauer, rissiger Rinde bedeckt sind. Die Zweige sind gelb-\nbraun bis graubraun, etwas hin- und hergebogen, glatt. Die Blätter stehen abwechselnd; sie\nsind einfach, ganzrandig, länglich-lanzettlich, bis 10 und 13 cm lang und 3 cm breit, gestielt,\noben und unten in eine stumpfe Spitze auslaufend, kahl, etwas mattgrün, mit beiderseits\nhervorragendem Mittelnerv, zu dessen beiden Seiten zehn bis dreizehn verschieden starke und\nverschieden weit gestellte Nebenrippen und ein reich verzweigtes, nur schwer erkennbares\nAdernetz verläuft. Aus den Achseln der Blätter entspringen am Stengel verschieden stark\nentwickelte Laubsprosse; nach der Spitze des Stengels gehen die Blätter in schmäler werdende\nStützblätter der Blütensprosse, endlich in sehr schmale (0,5 mm breite) und schliesslich auch\nsehr kleine (2 mm lange) Deckblätter der Einzelblüten über.       Der Blütenstand ist sehr ver-",
+      "normalized_text": null,
+      "zh_tw_rendering": "高約5公尺灌木，莖皮灰裂，葉互生橢圓狀披針形，長10-13公分，寬3公分。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 137,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 342,
+        "char_end": 1340,
+        "page_text_sha256": "478341050e8af08bbdcca13ce382afe5129818f92afba6507a3dab190041f6ed",
+        "exact_text_sha256": "0d7b40ec806961fe1dec515a51a101d908f682211af4a85191ea49f58fef01a6",
+        "source_line_start": 5,
+        "source_line_end": 15,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "0d7b40ec806961fe1dec515a51a101d908f682211af4a85191ea49f58fef01a6",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0137-p0140:s02:x00",
+      "section_type": "distribution",
+      "original_text": "                               e  Pf la nz e  wä ch st  in  al le n  au st ra li sc he n  Ko lo ni en ,  de n   Ne u- Ka le do  ni  sc he n\n         Vorkommen.         Di\n                   s   de r  Il e  de s  Pi  ns  un d   in  Ne  u-  Gu in ea ;    in  Qu ee ns la  nd    am    Br is ba ne    B     a\nInseln, beso nd er                                                                                                                       Blu e\n          Ba y   un d  Ro  ck in  gh am     Ba y;    in  Ne w-  So  ut h   Wa le s     vo n   Po rt   Ja ck so n   bi s  zu    de n\nMoreto n                                                                                                                   ri ve r,   Po rt\nMontains; in      de n  Sy  dn ey    Wo od  s,    am    Ha st in gs     un d   Cl  ar en ce    ri ve r,   Ri  ch mo nd\nMacquarrie        und     südlich    von     Illewarra     (Bentham).\n",
+      "normalized_text": null,
+      "zh_tw_rendering": "產於澳洲各殖民地、新喀里多尼亞及新幾內亞，分佈於昆士蘭及新南威爾斯。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 138,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 909,
+        "page_text_sha256": "a27214992ca30b7fac1287cdf01918611d8c02ec7bf7f0a4c727672d9ab0ce92",
+        "exact_text_sha256": "9ebf5deba545ceebae4c0074036f0736bcbb244793c6ce66d5537df238d90426",
+        "source_line_start": 1,
+        "source_line_end": 9,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "9ebf5deba545ceebae4c0074036f0736bcbb244793c6ce66d5537df238d90426",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0137-p0140:s03:x00",
+      "section_type": "constituents",
+      "original_text": "          ‚Bestandteile.          Nach     heutiger      Kenntnis       (1896)     enthalten       die Fol. Duboisiae         myoporoidis\ndie beiden isomeren Alkaloide Hyoscyamin (Ladenburg) und Pseudohyoseyamin (Merck)\nCC’ H® NO° und das Scopolamin (E. Schmidt) [oder Hyoscin (Ladenburg-Hesse)] C?\" HNO\n        Hyoseyamin C!’ H® NO3, 1833 von Geiger und Hesse entdeckt und später u. a.",
+      "normalized_text": null,
+      "zh_tw_rendering": "葉含莨菪鹼、偽莨菪鹼及東莨菪鹼（或稱海菪鹼）等異構生物鹼。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 138,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 5567,
+        "char_end": 5953,
+        "page_text_sha256": "a27214992ca30b7fac1287cdf01918611d8c02ec7bf7f0a4c727672d9ab0ce92",
+        "exact_text_sha256": "34dd78c38e643279a21df3d65dc2fb75c76c887c969055e6990df7c49a622493",
+        "source_line_start": 61,
+        "source_line_end": 64,
+        "section_index": 3,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "34dd78c38e643279a21df3d65dc2fb75c76c887c969055e6990df7c49a622493",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0137-p0140:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "           Anwendung.         Die Duboisia myoporoides-Blätter, das Duboisin, Hyoscyamin und Scopolamin\nfinden ihrer Eigenschaft, die Pupille zu erweitern, wegen zunächst Anwendung in der Augen-\nheilkunde.      Das   Duboisin,      namentlich    in Form      des Sulfats, wirkt    milder   als das Scopolamin-\nhydrobromid oder -hydrochlorid und wird deshalb doch noch bisweilen angewandt. Seine\nReaktion auf die Pupille ist fünfmal stärker als die des Atropins und weniger von Neben-\numständen begleitet. Es erweitert die Pupille stark und anhaltend, hebt das Akkommodations-\n‚vermögen des Auges auf und konnte oft vertragen werden von Kranken, denen Atropin nicht\ngegeben werden konnte. — Zum Einträufeln ins Auge benutzt man Lösungen von 0,05 g auf\n10 ce Wasser.         Ausserdem      wurde     Duboisinsulfat    in subsutanen      Injektionen   und    innerlich   an-\ngewendet.",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史上用於眼科散瞳，亦作鎮靜劑及抗流涎藥，劑量需小於阿托品。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 139,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 1358,
+        "char_end": 2239,
+        "page_text_sha256": "8e2431533d2efe85d1d4a126de716a3eb00b6c4ab9a33f67fb57212a1dd0f4ed",
+        "exact_text_sha256": "cfc98d960a0090a7d0331c2d94579ef2b615a480d8f62728566c685747c4c606",
+        "source_line_start": 17,
+        "source_line_end": 26,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "cfc98d960a0090a7d0331c2d94579ef2b615a480d8f62728566c685747c4c606",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "b8a5652222cc0c2fef189c39b07fef508d939b15b25421ea613019fc6b7ae4d3",
+    "maker_receipt_sha256": "5a227933642e7a9cedf19a5452d8bcdd49ae17a83061eb98ad9f33a5a9fff8c9",
+    "validation_check_sha256": "21e216a63e63b4811a4e9434bab34f71915c5f07bb70b6c0456f0fdb267d773b",
+    "source_disposition_sha256": "8be6a8e7f7dddee46c7d24fb3ac270a4868b332080ead7fdeac6b66637440660",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "5a227933642e7a9cedf19a5452d8bcdd49ae17a83061eb98ad9f33a5a9fff8c9",
+      "validation_check_sha256": "21e216a63e63b4811a4e9434bab34f71915c5f07bb70b6c0456f0fdb267d773b",
+      "source_disposition_sha256": "8be6a8e7f7dddee46c7d24fb3ac270a4868b332080ead7fdeac6b66637440660"
+    },
+    "naming_artifact_sha256": "89465dbd42a6757ed1301a335dbed997df4d023b101b291d4d43178bdeae6140"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "4cd16dd776a3b00e3d7b0b1d2acdd6aa50714307dc5a934ef225ccaca383072a"
+}

@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 489,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "c76456c3b7aa39918e15becdb642cc7aa086cbd76876685b8bff285d5a2fdc29",
+  "render_dpi": 144,
+  "render_sha256": "57d2fe47915d9487067ec3e1975fd8f545c8fc2f4ffcbe6e3f68788b416af2cb",
+  "input_sha256": "57d2fe47915d9487067ec3e1975fd8f545c8fc2f4ffcbe6e3f68788b416af2cb",
+  "render_pixel_width": 5810,
+  "render_pixel_height": 8258,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.847,
+  "embedded_character_count": 87,
+  "ocr_character_count": 67,
+  "ocr_alpha_ratio": 0.6716,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.3,
+      "height": 0.02077515541561059,
+      "text": "Аросупасеае",
+      "width": 0.10326150540653634,
+      "x": 0.6617713081644231,
+      "y": 0.9561821899416361
+    },
+    {
+      "confidence": 1,
+      "height": 0.01763614207979225,
+      "text": "(Plumeroideae)",
+      "width": 0.11795714944916091,
+      "x": 0.6533925583192478,
+      "y": 0.9381296032801807
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729363,
+      "text": "A",
+      "width": 0.01649484506705179,
+      "x": 0.2659793815018202,
+      "y": 0.3633720931723198
+    },
+    {
+      "confidence": 1,
+      "height": 0.01889534791310621,
+      "text": "10",
+      "width": 0.026804122225846716,
+      "x": 0.9030927842037186,
+      "y": 0.28052325641097176
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "2",
+      "width": 0.010309277830869906,
+      "x": 0.04536082489899805,
+      "y": 0.2078488375548957
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "12",
+      "width": 0.018556701036470717,
+      "x": 0.04329896930135226,
+      "y": 0.07122093059126455
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "8",
+      "width": 0.012371133128213918,
+      "x": 0.7030927838482642,
+      "y": 0.07703488411597381
+    },
+    {
+      "confidence": 1,
+      "height": 0.02333656379154747,
+      "text": "Cerbera Tanghin Hook fil.",
+      "width": 0.2391752494398014,
+      "x": 0.3876288731151508,
+      "y": 0.01736111074940294
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "57",
+      "width": 0.014432989097632909,
+      "x": 0.905154639616132,
+      "y": 0.020348837457996316
+    }
+  ],
+  "text": "Аросупасеае\n(Plumeroideae)\nA\n10\n2\n12\n8\nCerbera Tanghin Hook fil.\n57",
+  "output_sha256": "d1e299ca73da5128efa8086b51574ab0bb1c42a9dc363c9a36f81db10daf5988",
+  "receipt_sha256": "d45f292e471b0adff9e959e9a968061113334ff72db40125c63c9ac6d5e45274"
+}

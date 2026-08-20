@@ -1,0 +1,307 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-4-p0062-p0065",
+  "entry_id": "kohler-volume-4:p0062-p0065",
+  "owner_shard": "S08",
+  "book_taxon": {
+    "scientific_name": "Laburnum vulgare",
+    "authorship": "Grisebach",
+    "aliases": [
+      "Cytisus Laburnum L.",
+      "Laburnum laburnum Voss-Vilmorin",
+      "Laburnum praecox Fuss",
+      "Goldregen",
+      "Bohnenbaum",
+      "Kleebaum",
+      "Faux Ebenier",
+      "Common Laburnum",
+      "Avorniello",
+      "Laburno",
+      "Citiso",
+      "Gouden Regen"
+    ]
+  },
+  "display_name": "金鏈花",
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Laburnum vulgare",
+      "Laburnum anagyroides"
+    ],
+    "accepted_scientific_name": "Laburnum anagyroides",
+    "display_name_source_scope": "taiwan_public_fallback",
+    "taiwan_occurrence_status": "not_asserted",
+    "checked_at": "2026-08-13T14:00:00+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Laburnum+vulgare",
+        "query_name": "Laburnum vulgare",
+        "retrieved_at": "2026-08-13T13:54:34+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Cytisus+laburnum",
+        "query_name": "Cytisus laburnum",
+        "retrieved_at": "2026-08-13T13:54:34+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Laburnum+laburnum",
+        "query_name": "Laburnum laburnum",
+        "retrieved_at": "2026-08-13T13:54:34+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Laburnum+praecox",
+        "query_name": "Laburnum praecox",
+        "retrieved_at": "2026-08-13T13:54:34+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Faux+ebenier",
+        "query_name": "Faux ebenier",
+        "retrieved_at": "2026-08-13T13:54:34+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Common+laburnum",
+        "query_name": "Common laburnum",
+        "retrieved_at": "2026-08-13T13:54:34+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Gouden+regen",
+        "query_name": "Gouden regen",
+        "retrieved_at": "2026-08-13T13:54:34+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL and Tai2 provide no exact species record. Kew POWO explicitly treats the book name Laburnum vulgare as a synonym of Laburnum anagyroides. A Taiwan government standards document independently uses Laburnum anagyroides (= Cytisus laburnum L.), while a Taiwan public horticultural source explicitly pairs 金鏈花 (歐洲金鏈花) with Laburnum anagyroides. Because no Taiwan government or academic Chinese species name was found, 金鏈花 is marked as a lower-priority Taiwan-public fallback; no Taiwan occurrence is asserted."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 62,
+      "evidence_type": "text",
+      "page_text_sha256": "66685184d2df9a1df272d225440a73ad3fa1a1acdef337435d60f5cf570be496",
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e"
+    },
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 63,
+      "evidence_type": "text",
+      "page_text_sha256": "0945a219cc7a692905a19c7c1f003ade3ca543172b1bdea8df65531eb5b209f7",
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e"
+    },
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 65,
+      "evidence_type": "text",
+      "page_text_sha256": "f44003ef84f082bc82b53a3b23915126e3c182d7ad8e2ff496541912ee1db655",
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-4:p0062-p0065:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "            Syn.: Cytisus Laburnum L.,                     Laburnum laburnum Voss-Vilmorin, Laburnum praecox Fuss.\n\n            Familie: Legumlnosae.                   (Reihe: Rosales.)            Unterfam.: Papllionatae. Tribus: Genisteae.\nGrattung: Laburnum Griseb.",
+      "normalized_text": null,
+      "zh_tw_rendering": "同義名包括 Cytisus Laburnum L. 等。隸屬於豆科、蝶形花亞科、金雀花族。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 62,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 455,
+        "char_end": 722,
+        "page_text_sha256": "66685184d2df9a1df272d225440a73ad3fa1a1acdef337435d60f5cf570be496",
+        "exact_text_sha256": "8d80a04981d5a3467b8f11c37a8c07e7b21b5afc7f23fe066cf482391ba03d7c",
+        "source_line_start": 15,
+        "source_line_end": 18,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "8d80a04981d5a3467b8f11c37a8c07e7b21b5afc7f23fe066cf482391ba03d7c",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-4:p0062-p0065:s01:x00",
+      "section_type": "description",
+      "original_text": "            Beschreibimg: Laburnum vulgare Griseb. ist ein Holzgewachs, und zwar ein 3 bis 5 m hoher\nStrauch      oder        ein     6 bis 7     m hoher Baum.            Die   in    der Jugend aufstrebenden Zweige werden an\nalteren Exemplaren oft hangend.                     Sie sind rund, dunkelgriin            und tragen abwechselnde oder an Kurz-\ntrieben gedrangt stehende dreizahlige Blatter.                          Diese haben einen        bis    zu 7   cm langen Stiel.          Jedes\nder drei Blattchen              ist   seinerseits mit     einem 1 bis 2 mm langen Stielchen versehen,                  elliptisch, langlich-\neiformig,     manchmal etwas verkehrt eiformig von Gestalt,                           3 bis 5   cm lang,       1,5 bis 2,5   cm breit, am\noberen, meist abgerundeten Ende mit einem feinen Spitzchen versehen,                                    am Grunde haufig etwas keil-\nformig, auf der Oberseite kahl, auf der Unterseite angedruckt behaart.                                   Die Bluten stehen in            bis   zu\n25 cm langen, hangenden, angedruckt behaarten, sehr reichbliitigen, blattlosen Trauben, die scheinbar\n                              Wahrheit an den Kurztrieben endstandig sind.                      Die Bluten sind etwa 1 bis 1,5 cm",
+      "normalized_text": null,
+      "zh_tw_rendering": "高 3-7 米灌木或喬木。葉為三出複葉，花序長至 25 公分，下垂，花冠金黃色。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 62,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 724,
+        "char_end": 2009,
+        "page_text_sha256": "66685184d2df9a1df272d225440a73ad3fa1a1acdef337435d60f5cf570be496",
+        "exact_text_sha256": "7abe7f92bad07605461e7fb5f1348e59e61cdcbacaf328395fd386b8a2c6d11a",
+        "source_line_start": 20,
+        "source_line_end": 29,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "7abe7f92bad07605461e7fb5f1348e59e61cdcbacaf328395fd386b8a2c6d11a",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-4:p0062-p0065:s02:x00",
+      "section_type": "flowering",
+      "original_text": "                Bliltezeit:                 April bis Juni.",
+      "normalized_text": null,
+      "zh_tw_rendering": "花期為四月至六月。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 63,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 3958,
+        "char_end": 4017,
+        "page_text_sha256": "0945a219cc7a692905a19c7c1f003ade3ca543172b1bdea8df65531eb5b209f7",
+        "exact_text_sha256": "83bc2c0a78b2962375695a9bf0705422e9f84bd62ea8937a507968d70262f3a1",
+        "source_line_start": 64,
+        "source_line_end": 64,
+        "section_index": 2,
+        "section_type": "flowering"
+      },
+      "exact_text_sha256": "83bc2c0a78b2962375695a9bf0705422e9f84bd62ea8937a507968d70262f3a1",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-4:p0062-p0065:s03:x00",
+      "section_type": "distribution",
+      "original_text": "                Vorkommen\n    Europa und den Alpen vor.                               Bei uns wird sie wegen ihrer prachtigen Bliitentrauben sehr viel kultiviert.",
+      "normalized_text": null,
+      "zh_tw_rendering": "產於歐洲及阿爾卑斯山。因花序美麗，當地廣泛栽培。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 63,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 4020,
+        "char_end": 4182,
+        "page_text_sha256": "0945a219cc7a692905a19c7c1f003ade3ca543172b1bdea8df65531eb5b209f7",
+        "exact_text_sha256": "858f1a6b6daae2f2d775b24eb0c6484050303468fd0474cd67c6f622fb57f52e",
+        "source_line_start": 67,
+        "source_line_end": 68,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "858f1a6b6daae2f2d775b24eb0c6484050303468fd0474cd67c6f622fb57f52e",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-4:p0062-p0065:s04:x00",
+      "section_type": "constituents",
+      "original_text": "                Bestandtelle :                       Das     giftige   Prinzip     der Pflanze           ist   das    Alkaloid   Cytisin,    das    1865     von\n\n    Husemann und Marme                                  entdeckt wurde.            Nach den Arbeiten von Partheil sowie von Buchka\n            M igalhaes hat es die Formel C H 14 N 0.                      11        2           Es wird dargestellt, am besten aus den Samen,",
+      "normalized_text": null,
+      "zh_tw_rendering": "有毒成分為生物鹼 Cytisin，1865 年發現。主要從種子以酒精提取。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 63,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 4526,
+        "char_end": 4960,
+        "page_text_sha256": "0945a219cc7a692905a19c7c1f003ade3ca543172b1bdea8df65531eb5b209f7",
+        "exact_text_sha256": "b67c1e5451eea9b33e9877933244c10938a248e60c0941c96fd8cc8e90809c36",
+        "source_line_start": 79,
+        "source_line_end": 82,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "b67c1e5451eea9b33e9877933244c10938a248e60c0941c96fd8cc8e90809c36",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-4:p0062-p0065:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "            Friiher      W   aren die   Blatter officii. Heute Wen Blatter und Samen der Pflanze                                   ge l egent    .\n\n\n\n                                                      verwendet, doch                     1st    vor deren    Gebrauch        dringend\n««,\nlich   vom Volke         als    harntreibendes Mittel                                                                                        m\n                                                                  giftigen Cytisin.     Nach       einer   Angabe Mitlachers\nwarnen W egen des Gehaltes   an  dem    stark                                                        sind\n\n                                    Vergiftungen  durch  Laburnum    vulgare beobachtet worden.",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史記載葉曾入藥，現葉與種子偶用。因含劇毒 Cytisin，曾發生多起致死中毒。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 65,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 0,
+        "char_end": 759,
+        "page_text_sha256": "f44003ef84f082bc82b53a3b23915126e3c182d7ad8e2ff496541912ee1db655",
+        "exact_text_sha256": "fd0336c87dc84cb7c644e333f2b705508c75bec1e01cc338b8a42e9083e3a117",
+        "source_line_start": 1,
+        "source_line_end": 11,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "fd0336c87dc84cb7c644e333f2b705508c75bec1e01cc338b8a42e9083e3a117",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "TaiCOL and Tai2 provide no exact record; 金鏈花 is a Taiwan public horticultural fallback, not a Taiwan government or academic species name.",
+    "金鏈花 is ambiguous in Taiwan public material and is also used for Cassia fistula (阿勃勒); every answer must retain Laburnum anagyroides or the book name Laburnum vulgare to prevent cross-species confusion.",
+    "Kew, BSMI, horticultural, toxicity, and cultivation facts are not imported into the Köhler book-fact layer; only scientific-name and display-name metadata are projected.",
+    "No Taiwan occurrence claim was established.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "f6a82aceef60878b7fe5732d92f575593a3174008eca8daff3717ea7b0680c9d",
+    "maker_receipt_sha256": "6f66661eedc57b5a58b20e1eccf497a9b9b377b04c43d7506de8bda39f9f1dff",
+    "validation_check_sha256": "bbb2d84b69f1783ef3a146a2334c88a6d4cc746381aab8c6bc47be6264eccfef",
+    "source_disposition_sha256": "05c07c235836912ba8b25d3ece3f8b9571ac421e7437fd213cedf00997e2fcdf",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "6f66661eedc57b5a58b20e1eccf497a9b9b377b04c43d7506de8bda39f9f1dff",
+      "validation_check_sha256": "bbb2d84b69f1783ef3a146a2334c88a6d4cc746381aab8c6bc47be6264eccfef",
+      "source_disposition_sha256": "05c07c235836912ba8b25d3ece3f8b9571ac421e7437fd213cedf00997e2fcdf"
+    },
+    "naming_artifact_sha256": "e53141208ebbf84f253fdc9d4196dc3362cbb371e2a9ae712b56b27f223efe23"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "8ce6f184750d367bec324f5c073a83fefb6013ac9a8f6c92ed7f79015dbb5ef9"
+}

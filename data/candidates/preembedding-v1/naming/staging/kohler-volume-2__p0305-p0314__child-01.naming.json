@@ -1,0 +1,121 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-2:p0305-p0314:child-01",
+  "owner_shard": null,
+  "source_draft": null,
+  "source_draft_sha256": null,
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "02d0d02f94491258f475ac5d66c9a770818410abee299f31b47eb8090afbd1f5",
+    "validation_check_sha256": null,
+    "source_disposition_sha256": "6477633a2f729a111a2d1f2b38770ebb86ae4958c6ca6a2ea1a5cc33d8c1acef",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": null,
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Ferula Seorodosma",
+    "authorship_candidate": null,
+    "aliases_candidates": []
+  },
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Ferula Seorodosma",
+      "Ferula seorodosma"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_zh_tw": null,
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_checked",
+    "taxon_id": null,
+    "display_name_source_scope": "unresolved",
+    "display_name_source_evidence_ids": [],
+    "display_name_is_taiwan_public": false,
+    "display_name_answer_policy": "scientific_name_only",
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping.",
+    "checked_at": "2026-08-20T23:03:25+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Ferula Seorodosma",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Ferula+Seorodosma",
+      "retrieved_at": "2026-08-20T23:02:51+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Xerula",
+          "matched_name_id": 41387,
+          "taxon_id": "t0008761",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Xerula",
+          "accepted_name_id": 41387,
+          "accepted_usage": [
+            {
+              "usage_id": 79608,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": null
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0008761",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0008761",
+          "taxon": {
+            "taxon_id": "t0008761",
+            "taxon_status": "accepted",
+            "name_id": 41387,
+            "simple_name": "Xerula",
+            "name_author": null,
+            "rank": "Genus",
+            "common_name_c": null,
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": null,
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Ferula seorodosma",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Ferula+seorodosma",
+      "retrieved_at": "2026-08-20T23:02:51+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Ferula seorodosma",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Ferula%20seorodosma",
+      "retrieved_at": "2026-08-20T23:03:25+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears."
+  ]
+}

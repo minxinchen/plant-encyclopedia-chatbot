@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 124,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "c924ae050f811aeec0517a48a071d10226ad2a4dc90c2e4d250d7fcf59c98a8d",
+  "render_dpi": 144,
+  "render_sha256": "a21a6f191bc3a4256f19481d0ac99651174df96b4eebd9d945835de630542903",
+  "engine": "Apple Vision VNRecognizeTextRequest accurate",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 204.009,
+  "embedded_character_count": 2,
+  "ocr_character_count": 0,
+  "ocr_alpha_ratio": 0.0,
+  "candidate_disposition": "no_text_detected",
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [],
+  "text": "",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-ocr-sha256=e54202ae838c94203816fd3331f4c37f7acac436188d481eab506c540c3d66d6",
+  "input_sha256": "a21a6f191bc3a4256f19481d0ac99651174df96b4eebd9d945835de630542903",
+  "output_sha256": "4c6ccedd606edea367be6e6f644634352a8e991d41015cc956213ea8e0d42037",
+  "staging_disposition": "no_text_detected",
+  "terminal": true,
+  "receipt_sha256": "1f620619998fe7ed7c335d9faba69fa92b8b15319b11ef2ee122a78d6f216a9c"
+}

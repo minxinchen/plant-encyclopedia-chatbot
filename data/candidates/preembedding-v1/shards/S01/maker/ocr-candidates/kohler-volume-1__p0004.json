@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 4,
+  "owner_shard": "S01",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "8c15b5034958860f26685a5cf4bfc53d54572b3d909eb644846f90957566ac2c",
+  "render_dpi": 144,
+  "render_sha256": "553d77cdc17fc7f356f656beb9897088347a516e0331269d9a50ad8a21471968",
+  "engine": "Apple Vision VNRecognizeTextRequest accurate",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 192.731,
+  "embedded_character_count": 110,
+  "ocr_character_count": 74,
+  "ocr_alpha_ratio": 0.7703,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.04166666666666674,
+      "text": "GAd/",
+      "width": 0.2628205092310541,
+      "x": 0.34615384865370374,
+      "y": 0.58333333375
+    },
+    {
+      "confidence": 1,
+      "height": 0.011679816813696009,
+      "text": "Alle Rechte vorbehalten.",
+      "width": 0.2147650995750311,
+      "x": 0.37807606072702593,
+      "y": 0.5290178573451029
+    },
+    {
+      "confidence": 1,
+      "height": 0.014739840276657645,
+      "text": "Druck des Textes von Herm. J. Ramm, Leipzig.",
+      "width": 0.3516025834856413,
+      "x": 0.31304026512902244,
+      "y": 0.054923660070159475
+    }
+  ],
+  "text": "GAd/\nAlle Rechte vorbehalten.\nDruck des Textes von Herm. J. Ramm, Leipzig.",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-ocr-sha256=e54202ae838c94203816fd3331f4c37f7acac436188d481eab506c540c3d66d6",
+  "input_sha256": "553d77cdc17fc7f356f656beb9897088347a516e0331269d9a50ad8a21471968",
+  "output_sha256": "7edbc769e9ed58e45c85867038de50e4669c7a7394ea3df025ac40247e217d2e",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "receipt_sha256": "f27f730e7a5b5244cbf88f318695dc8a49009836638962a29b0913122f33d1d3"
+}

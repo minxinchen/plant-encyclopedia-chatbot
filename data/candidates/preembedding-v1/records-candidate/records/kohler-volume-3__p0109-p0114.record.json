@@ -1,0 +1,315 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-3-p0109-p0114",
+  "entry_id": "kohler-volume-3:p0109-p0114",
+  "owner_shard": "S06",
+  "book_taxon": {
+    "scientific_name": "Cola acuminata",
+    "authorship": "R. Brown",
+    "aliases": [
+      "Sterculia acuminata",
+      "Siphonopsis monoica",
+      "Lunanead Bichi",
+      "Sterculia verticillata",
+      "St. macrocarpa",
+      "St. nitida",
+      "Biches solitaria",
+      "Zdwardia lurida"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Cola acuminata"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T14:33:31+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Cola+acuminata",
+        "query_name": "Cola acuminata",
+        "retrieved_at": "2026-08-13T14:33:27+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Sterculia+acuminata",
+        "query_name": "Sterculia acuminata",
+        "retrieved_at": "2026-08-13T14:33:27+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Siphonopsis+monoica",
+        "query_name": "Siphonopsis monoica",
+        "retrieved_at": "2026-08-13T14:33:27+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Lunanead+bichi",
+        "query_name": "Lunanead bichi",
+        "retrieved_at": "2026-08-13T14:33:27+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Sterculia+verticillata",
+        "query_name": "Sterculia verticillata",
+        "retrieved_at": "2026-08-13T14:33:27+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Biches+solitaria",
+        "query_name": "Biches solitaria",
+        "retrieved_at": "2026-08-13T14:33:27+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Zdwardia+lurida",
+        "query_name": "Zdwardia lurida",
+        "retrieved_at": "2026-08-13T14:33:27+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 109,
+      "evidence_type": "text",
+      "page_text_sha256": "e6ba91291c2738801226931b744834679e822f0f7e844f0192d4374b045f741a",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 110,
+      "evidence_type": "text",
+      "page_text_sha256": "8bdc5f9a1018f5aab470e39a46324655523697aa7f5b657a1c7e969ea868a7c1",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 111,
+      "evidence_type": "text",
+      "page_text_sha256": "2d8f7cd0e00d03f84452b99e7d0df8bb2c6e55b40e4a7a129c549beebc0ab4ae",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 113,
+      "evidence_type": "text",
+      "page_text_sha256": "4679c5f65b756024c31131b3fa8f55a74f84877c4a287ac9583530e1b81d8b93",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 112,
+      "evidence_type": "text",
+      "page_text_sha256": "98ecf53b829c2ce5d5df198c3cf3eab0f9f60a0db3e2f0ed6517c4d9ec5a2adc",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-3:p0109-p0114:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                               Cola       acuminata                 R. Brown.\nKolanuss, Gurra, Ombene.     Enel.: Kola, Cola, Female Kola.   Franz.: Cola d’Afrique,\nNoix de Cola, Noix de Gourou, Noix du Sudan.      Span.: Cola de Africa, Nuez de Kola.\n  Rum.: Nuca de Kola.    Afrik.: Guru, Ombene, Biche. Westind.: Bissy-Bissy, Bichy.\n\n         Syn.: Sterculia acuminata Palis-Beauv. Siphonopsis monoica Karsten. Lunanead Bichi DC.\nSterculia verticillata Schum. & Thönn. St. macrocarpa Don. St. nitida Ventenat. Biches solitaria\nStokes. Zdwardia lurida Raffinesque.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Cola acuminata，別名包括 Sterculia acuminata 等，隸屬於 Sterculiaceae 科。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 109,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 566,
+        "page_text_sha256": "e6ba91291c2738801226931b744834679e822f0f7e844f0192d4374b045f741a",
+        "exact_text_sha256": "276bc6492af49e11bf81a9cd7d5c3ebf7230bbc31fc7d190e42e1edbf0317aad",
+        "source_line_start": 1,
+        "source_line_end": 8,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "276bc6492af49e11bf81a9cd7d5c3ebf7230bbc31fc7d190e42e1edbf0317aad",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0109-p0114:s01:x00",
+      "section_type": "description",
+      "original_text": "         Beschreibung.    Ein Baum von mittlerer Grösse von dem Aussehen einer Kastanie,\n etwa 15—20 m hoch mit aufrechtem glatten Stamme.        Die Blätter sind wechselständig,    am\n Ende der Zweige gehäuft, gestielt, einfach, ungeteilt oder dreilappig, ganzrandig, am Rande\n etwas umgebogen, lanzettlich oder oval, in eine lange scharfe Spitze ausgezogen, bis 20 cm\n lang und bis 10 cm breit. Der Blattstiel ist bis 10 cm lang, stielrund, unter dem Blattansatz\n keulig verdickt.— Blätter und Nerven sind in der Jugend mit sitzenden Drüsen und Stern-\n haaren bedeckt, später von Sternhaaren frei.    Eine starke, beiderseits hervortretende Mittel-\n rippe durchzieht das Blatt; aus ihr entspringen 7—8 ziemlich unregelmässig gestellte Seiten-\nNerven unter Winkeln von 50—-60°, unterseits stark hervortretend, oberseits nur wenig sichtbar,\n und münden bald allmählich, bald in hochgeschwungenem Bogen in den nächstfolgenden\n Nerven ein.     Zwischen    den Nerven entwickelt sich ein sehr reich verzweigtes Netz von\n Adern, welche irgend eine regelmässige Anordnung nicht zeigen.            Die Blüten stehen in",
+      "normalized_text": null,
+      "zh_tw_rendering": "中等大小樹木，高15-20米，葉互生，長20厘米，具星狀毛，花為聚繖花序。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 109,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 679,
+        "char_end": 1791,
+        "page_text_sha256": "e6ba91291c2738801226931b744834679e822f0f7e844f0192d4374b045f741a",
+        "exact_text_sha256": "a7bcf5a70e2bb33ded52fc12233cb05a276a3cd69074bb195b96d5fe62a2afba",
+        "source_line_start": 11,
+        "source_line_end": 22,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "a7bcf5a70e2bb33ded52fc12233cb05a276a3cd69074bb195b96d5fe62a2afba",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0109-p0114:s02:x00",
+      "section_type": "distribution",
+      "original_text": "        Vorkommen.    Der Baum wächst in den Küstenländern Westafrikas von Sierra Leone\nbis zum Congo und Guinea, von 10° n. Br.—5° s. Br. und geht etwa 5600, in günstigen\nFällen bis 800 Meilen ins Innere. In Ostafrika ist er bis heute mit Sicherheit wild noch nicht\naufgefunden worden, indessen kommt er überall häufig kultiviert vor. Von seinem Vaterlande\nhat er den Weg nach Süd- und Ostasien und nach Westindien gefunden, durch die Engländer\nwurde er auf den Seychellen und Ceylon, in Westindien und Demerara, durch die Franzosen\nin Cochinchina, Cayenne und Guadeloupe, durch die Holländer auf Java eingeführt und wird\nausserdem mit Erfolg auf Jamaica, in Brasilien u. a. Staaten Südamerikas, sowie um Sydney\nin Australien kultiviert.",
+      "normalized_text": null,
+      "zh_tw_rendering": "原產西非沿海至剛果，現廣泛栽培於亞洲、西印度及南美洲等地。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 110,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 2607,
+        "char_end": 3345,
+        "page_text_sha256": "8bdc5f9a1018f5aab470e39a46324655523697aa7f5b657a1c7e969ea868a7c1",
+        "exact_text_sha256": "4d16d76eb65377549fa3f7961456bf900dc06b7e4582a49a87074e015bd2ee85",
+        "source_line_start": 28,
+        "source_line_end": 36,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "4d16d76eb65377549fa3f7961456bf900dc06b7e4582a49a87074e015bd2ee85",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0109-p0114:s03:x00",
+      "section_type": "anatomy",
+      "original_text": "            Anatomie.          Die Zellen          der Epidermis             sind mässig         verdickt      und nach          aussen     vor-\ngestülpt;    das Innere          der Kotyledonen             besteht       aus    mässig verdickten polyedrischen Zellen, die\nkleine Intercellularräume zwischen sich lassen und die nach Zohlenhöfer mit gehöften Tüpfeln\nversehene Wände haben. Diese Tüpfel hat Hartwig nicht gefunden. Die Zellen sind bei ge-\ntrockneten Nüssen des Handels mit Kolarot oder Stärke angefüll.       Die Stärkekörner sind\neiförmig,     mit deutlichen          Schichtungen           und      am     breiten      Ende   mit einem         Spalt versehen,         20 u\nlang und 18 u breit, also etwa 1/,—!/, des Umfanges grosskörniger Kartoffelstärke. — Zwischen\ndem Parenchym durchziehen zarte Gefässbündel die Kotyledonen.           Behandelt man einen\nSchnitt     der     getrockneten           oder     frischen    Droge            mit Kaliumchlorat          und     Salzsäure,     lässt    ein-\ntrocknen und befeuchtet ihn dann mit Ammoniak, so tritt die bekannte purpurfarbene Reaktion\ndes Coffeins ein.",
+      "normalized_text": null,
+      "zh_tw_rendering": "子葉細胞含澱粉粒，遇氯酸鉀與鹽酸後加氨水顯紫色反應，證實含咖啡因。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 111,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 1128,
+        "page_text_sha256": "2d8f7cd0e00d03f84452b99e7d0df8bb2c6e55b40e4a7a129c549beebc0ab4ae",
+        "exact_text_sha256": "2c735b4ffc242dfdbd56527e8ba3cf2a77097aba6e4e4c2d7738d33ce7e3f28a",
+        "source_line_start": 1,
+        "source_line_end": 11,
+        "section_index": 3,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "2c735b4ffc242dfdbd56527e8ba3cf2a77097aba6e4e4c2d7738d33ce7e3f28a",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0109-p0114:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "           Anwendung. Die Kolasamen waren seit langer Zeit bei den Einwohnern Afrikas in\nhohem      Ansehen. Sie galten ihnen mehr als Geld.  Wollte man einen Gastfreund ehren,\nwollte    man    eine Botschaft        überbringen,   wollte   der junge Neger       um    ein Mädchen       anhalten,\nin allen Fällen halfen die Kolanüsse, die Nachricht zu überbringen, die Antwort zu erteilen:\nrote kamen einer Zusage gleich, .weisse der Absage. — Kolanüsse begleiten den Wanderer\nauf weiten Wegen, auf den steilsten Pfaden. Das Kauen derselben löscht den Durst und\nlässt die Speise lange Zeit entbehren. Mit einer Art von Entzücken — berichtet Palisot de\nBeauvois — verzehren die Neger die Samen vor dem Mahle, nicht des guten Geschmackes\nhalber, sondern weil Essen und Trinken einen etwas herben, aber pikanten Geschmack erhält.\nSelbst das schlechteste Wasser nehme nach dem Genuss von Kola einen frischen, angenehmen\n Geschmack an. Dabei soll das Kauen der Früchte die Leute gegen Ermüdung ausserordentlich\nwiderstandsfähig machen. Vier Neger, die Kola kauen, schrieb Salisbury 1890, bringen mit\n Singen und Scherzen fertig, was acht Brasilianer nur mit grösster Mühe auszuführen im Stande\n sind. Nicht weniger von Bedeutung sind für die Neger die Kolanüsse als Handelsartikel,",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史上非洲人視其為貨幣與禮物，咀嚼可解渴、抗疲勞並增強體力。",
+      "evidence_indexes": [
+        3
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 113,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 488,
+        "char_end": 1763,
+        "page_text_sha256": "4679c5f65b756024c31131b3fa8f55a74f84877c4a287ac9583530e1b81d8b93",
+        "exact_text_sha256": "13ee71f36deae80503ebe4f4b53760a2abab1d8de1373036c4ff50761fb6b351",
+        "source_line_start": 8,
+        "source_line_end": 21,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "13ee71f36deae80503ebe4f4b53760a2abab1d8de1373036c4ff50761fb6b351",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0109-p0114:s05:x00",
+      "section_type": "constituents",
+      "original_text": "         Bestandteile. Heckel & Schlagdenhauffen fanden 1883 in getrockneten Kola-\nnüssen des Handels 2,346), Coffein, 0,025°%, Theobromin, 1,6°/, Tannin, 1,29°/,: Kolarot\n38,754°|, Stärke, 6,76°/, Prot&in, 3,325°/, Asche, 0,585°,, Fett, daneben Gummi, Cellulose,\nZucker ete. — Knebel wies 1892 (]. c.) nach, dass in dem frischen Samen ein krystallisiertes\nGlycosid, Kolanin, vorhanden sei, welches durch ein im Samen enthaltenes Ferment\n                                                                                    sedurch\nheisses Wasser oder             starke Säuren in Glycose, Kolarot und Cofföin zerfällt. Dasselbe\n                                                                                                 wurde\nin demselben Jahre              von Hilger und Krippenberger bestätigt.       Auch Acetylchlorid führt\nsofort diese Zersetzung herbei und scheidet das Kolarot als Acetylderivat in\n                                                                             Form eines gelben\nPulvers ab, wobei erwiesen werden konnte, dass das Kolarot, C,, H,,\n                                                                        (OH), wie das Tannin\nfünf ersetzbare Hydroxylgruppen                     enthält     und        mit Kaliumhydrat          geschmolzen,          Brenzkatechin.",
+      "normalized_text": null,
+      "zh_tw_rendering": "含咖啡因、可拉寧、單寧及澱粉；可拉寧遇熱或酸分解為葡萄糖與咖啡因。",
+      "evidence_indexes": [
+        4
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 112,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 4428,
+        "char_end": 5731,
+        "page_text_sha256": "98ecf53b829c2ce5d5df198c3cf3eab0f9f60a0db3e2f0ed6517c4d9ec5a2adc",
+        "exact_text_sha256": "1411da6a335f238e25bec158bf35caf5a3399c63e2c37114e00793f733d89850",
+        "source_line_start": 51,
+        "source_line_end": 64,
+        "section_index": 5,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "1411da6a335f238e25bec158bf35caf5a3399c63e2c37114e00793f733d89850",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "16a1ffa6a51643390f0bfce9d18db1f1c4c82d517d2f84cba29377f03994b541",
+    "maker_receipt_sha256": "78f2973f0755651d2b21a25adccf73a58ae76232f8be0e637a446d57168777f6",
+    "validation_check_sha256": "030f97f30af7f447db2c6811190fe7ab664ecfe6a874458c54e200312f91f7da",
+    "source_disposition_sha256": "1d3cdc1669c894da08a958c825e2eb5d09311d035789ffac8ddeadcc5dc7df56",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "78f2973f0755651d2b21a25adccf73a58ae76232f8be0e637a446d57168777f6",
+      "validation_check_sha256": "030f97f30af7f447db2c6811190fe7ab664ecfe6a874458c54e200312f91f7da",
+      "source_disposition_sha256": "1d3cdc1669c894da08a958c825e2eb5d09311d035789ffac8ddeadcc5dc7df56"
+    },
+    "naming_artifact_sha256": "6168537351f09cce52c6b95d1e28eaf750ca78b9c03be2e0853ebca2838330f2"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "7ce1a5b1cbb38305a3f3fcddc8cf9ea6978c093c505ace81ee9e33f894e66ec5"
+}

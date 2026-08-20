@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 371,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "2bb3c658787d83c573e48f720c7cd5428f6e12e5a29948656629e58a7c5a0224",
+  "render_dpi": 144,
+  "render_sha256": "eeb2c7634d567eef8fb3690b9b3c662e6b50e200a6b64a8685eb8638d4311438",
+  "input_sha256": "eeb2c7634d567eef8fb3690b9b3c662e6b50e200a6b64a8685eb8638d4311438",
+  "render_pixel_width": 5618,
+  "render_pixel_height": 7958,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.735,
+  "embedded_character_count": 222,
+  "ocr_character_count": 76,
+  "ocr_alpha_ratio": 0.6974,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.018277090693277098,
+      "text": "Lablatae.",
+      "width": 0.08799824074633256,
+      "x": 0.8656184486765821,
+      "y": 0.926559630961593
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "3",
+      "width": 0.018518517575294213,
+      "x": 0.7283950620971265,
+      "y": 0.21075581404029742
+    },
+    {
+      "confidence": 1,
+      "height": 0.017865695650615354,
+      "text": "WM üller n. d.Nat.",
+      "width": 0.11535380746140411,
+      "x": 0.8188663075856147,
+      "y": 0.15095087302695043
+    },
+    {
+      "confidence": 1,
+      "height": 0.021368068362039194,
+      "text": "Mentha viridis I.",
+      "width": 0.1984104309296491,
+      "x": 0.3987640770917265,
+      "y": 0.12194007162795162
+    },
+    {
+      "confidence": 1,
+      "height": 0.021825396825396748,
+      "text": "var. crispata Schrader.",
+      "width": 0.2510288048192639,
+      "x": 0.37242798750806344,
+      "y": 0.09300595246046262
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252612005,
+      "text": "66.",
+      "width": 0.0205761312349364,
+      "x": 0.9176954732714206,
+      "y": 0.029069767545205627
+    }
+  ],
+  "text": "Lablatae.\n3\nWM üller n. d.Nat.\nMentha viridis I.\nvar. crispata Schrader.\n66.",
+  "output_sha256": "13aa443807d749e9d9f5b8a833d7d421a7708f8ff3d2e834d31af921ce753f01",
+  "receipt_sha256": "17417df42d552e2373ee6279319b99960d272d8a4a1a9201fc37466831ba6526"
+}

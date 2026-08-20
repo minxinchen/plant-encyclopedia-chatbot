@@ -1,0 +1,277 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-4-p0024-p0027",
+  "entry_id": "kohler-volume-4:p0024-p0027",
+  "owner_shard": "S08",
+  "book_taxon": {
+    "scientific_name": "Lactaria torminosa",
+    "authorship": "(Schaff.) Schrot.",
+    "aliases": [
+      "Agaricus torminosus Schaff.",
+      "Lactarius torminosus Fr.",
+      "O otorrheas torminosus Schaff.",
+      "Giftreizker",
+      "Birkenreizker",
+      "Woolly Milk Mushroom"
+    ]
+  },
+  "display_name": "絨毛乳菇",
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Lactaria torminosa",
+      "Agaricus torminosus"
+    ],
+    "accepted_scientific_name": "Lactarius torminosus",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T12:55:42+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Lactaria+torminosa",
+        "query_name": "Lactaria torminosa",
+        "retrieved_at": "2026-08-13T12:28:09+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0041331",
+        "query_name": "Lactaria torminosa",
+        "retrieved_at": "2026-08-13T12:28:09+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0041331",
+        "query_name": "Lactaria torminosa",
+        "retrieved_at": "2026-08-13T12:28:09+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Agaricus+torminosus",
+        "query_name": "Agaricus torminosus",
+        "retrieved_at": "2026-08-13T12:55:42+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "A scientific alias explicitly printed in the Köhler entry exactly matches a TaiCOL species with a Taiwan public name."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 24,
+      "evidence_type": "text",
+      "page_text_sha256": "83d2c379f8614243eebbd7449bcf38c44d0d288bb82ca8054eca8db24b249b83",
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e"
+    },
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 25,
+      "evidence_type": "text",
+      "page_text_sha256": "3ea5c45c72136ad61a90f7d017258f565e79b2f285cf76db18b8de3f1347419e",
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e"
+    },
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 26,
+      "evidence_type": "text",
+      "page_text_sha256": "5a8a39426ac2eb80f040883b39ba8d3da6b47e2ee4b89b7bb5537a5f1a38711c",
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-4:p0024-p0027:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "             Lactaria torminosa (Schaff.) Schrot.\n                                    Giftreizker, Birkenreizker.               Engl.: Woolly Milk Mushroom.\n                                *\n\n\n\n\n             Syn.   :   Agaricus torminosus Schaff.                      Lactarius torminosus Fr.               O otorrheas torminosus Schaff.\n            Familie:            Agaricaceae.              (Reihe:        Autobasidiomycetes.)               Tribus:    Russuleae.            Gattung:\nLactaria Pers.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Lactaria torminosa，同義名 Agaricus torminosus。隸屬傘菌科，Russuleae 族，Lactaria 屬。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 24,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 0,
+        "char_end": 502,
+        "page_text_sha256": "83d2c379f8614243eebbd7449bcf38c44d0d288bb82ca8054eca8db24b249b83",
+        "exact_text_sha256": "6db2174f09f336c38f13eea80225b6a4785d7d8234a3836c6b4ae5cc49cbfef1",
+        "source_line_start": 1,
+        "source_line_end": 10,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "6db2174f09f336c38f13eea80225b6a4785d7d8234a3836c6b4ae5cc49cbfef1",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-4:p0024-p0027:s01:x00",
+      "section_type": "description",
+      "original_text": "            Beschreibung: Der Giftreizker bildet seine Fruchtkorper, den eigentlichen Pilz, an einem\nfadlichen unterirdischen                  Gewebe, dem Mycel                   aus.    (Vergl. Tafel 7        Amanita muscaria).               Der      Stiel\n\ndes Pilzes wird           3—6 cm lang und 1 — 1,5 cm dick.                              Anfangs     ist    er voll, wird aber bald hohl.                 Er\n                                                                                Hut.      Dieser    sitzt    dem Stiele zentral an.            Auch er\n                                           \\\n\n\n\n\nist   zerbrechlich, lockerfleischig.                                            ach erewolbt. SDater ist er in der Mitte eineredriu\n3   — 10 cm     breit.        Der Hand              des Hutes      ist   in    der Jugend         eingerollt.     Er   ist   besetzt    mit zottigen\n\n            H                 Ein Schleier fehlt bei der Gattung.                                                  Hutes\nSie   ist hell fleischrot,               gelblich oder weiBlich,              oft    mit deutlichen regelmaBigen rotlichen Ringzonen,\ndie aber     auch nur schwach ausgepragt sein konnen oder auch fehlen.                                           Die Lamellen sind bei alien\nArten der Gattung                   fleischig.       Es wechseln         kiirzere     und langere Lamellen mit einander ab.                         Beim\nGiftreizker stehen sie dicht                    und sind diinn, schmal, weifilich.                   Die Sporen sind weiB.              Ihre Gestalt\n\nist   elliptisch,       sie   sind 6,6         —8   fi   lang und 5      —6     fi   breit.         Membran       der Sporen      ist    farblos       und\nstachelig.      Alle Arten der Gattung milchen bei Verletzungen im frischen Zustand.                                            Beim Giftreizker\nist   die   Milch weiB.              Der Pilz besitzt einen scharfen Geschmack.",
+      "normalized_text": null,
+      "zh_tw_rendering": "菌柄長 3-6 公分，中空；菌蓋寬 3-10 公分，邊緣捲曲，具絨毛，色淡紅或黃白。菌肉易碎，菌褶密集細薄，孢子白色橢圓形。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 24,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 505,
+        "char_end": 2480,
+        "page_text_sha256": "83d2c379f8614243eebbd7449bcf38c44d0d288bb82ca8054eca8db24b249b83",
+        "exact_text_sha256": "53e2ae9b136c9ca1c61513416f5a2522b93e179a75ebe32fd70f7f54ea08e16e",
+        "source_line_start": 13,
+        "source_line_end": 34,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "53e2ae9b136c9ca1c61513416f5a2522b93e179a75ebe32fd70f7f54ea08e16e",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-4:p0024-p0027:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "          Anatomie\n                                                  Das Fleisch des Hutes und des Stieles setzt sich\n         Russula\n                                            zusammen, aus rosettenbildenden und aus langgestreckten\naus zwei scharf gesonderten Gewebselementen                            Ait               -*   ^            1                      ~A        m   «\n\n\nHypl\n                                                        Diese Verhaltnisse          lassen              sich    schon bei LupenvergroBerung\nlangen    Hyphen umsponnen werden.\n                                                    Russula                                                                                            esitz\n\n\n       Milchsaft fuhrenden Hyphen.                 Es       sind dies      im Verhaltnis zu den anderen                         Hyph\nHyphen, mit weicher dehnbarer Membran.                              Ihr Inhalt besteht aus einer je nach der Art verschieden\n\ngefarbten, meist jedoch weiBen Fliissigkeit.                        Diese Milchhyphen verzweigen sich reichlich und senden\n\nbis   dicht an       die Oberflache des Stieles oder des                    Hutes feinere, blind endende Aste                              ab.      Hie und\n\n                               Milchsafthyrdien durch kurze Verbindungsstucke                                  H\nes    aber zu    einer dicht netzigen Anastomosierung.                        In alteren Pilzen sind sie in weiten Abstanden\n                                                                                                                                       *\n\n\n\n\ndurch Querwande             septiert, in jiingeren Pilzen             fanden sich keine Zwischenwande vor.                                 Der Milchsaft\ngerinnt bei Siedehitze oder bei Behandlung mit Alkohol.",
+      "normalized_text": null,
+      "zh_tw_rendering": "菌肉由玫瑰狀細胞與長形菌絲組成。含乳汁菌絲膜柔軟可伸縮，內含白色液體，遇熱或酒精凝固。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 25,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 0,
+        "char_end": 1849,
+        "page_text_sha256": "3ea5c45c72136ad61a90f7d017258f565e79b2f285cf76db18b8de3f1347419e",
+        "exact_text_sha256": "1864656480218497afdffc091f9766c6e625a632a4e5512f890d6da2526e86e5",
+        "source_line_start": 1,
+        "source_line_end": 29,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "1864656480218497afdffc091f9766c6e625a632a4e5512f890d6da2526e86e5",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-4:p0024-p0027:s03:x00",
+      "section_type": "distribution",
+      "original_text": "            Vorkommen Der Giftreizker ist weit verbreitet in Laubwaldern, namentlich gerne unter\n                                     :\n\n\n\nBirken.      Gerne wachst er auch zwischen Heidekraut und Moos.                                           Er ist bekannt aus Europa, Sibirien\nund Nord-Amerika.",
+      "normalized_text": null,
+      "zh_tw_rendering": "廣泛分佈於落葉林，尤喜生長於白樺樹下，亦見於石南與苔蘚間。分佈於歐洲、西伯利亞及北美。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 24,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 2646,
+        "char_end": 2944,
+        "page_text_sha256": "83d2c379f8614243eebbd7449bcf38c44d0d288bb82ca8054eca8db24b249b83",
+        "exact_text_sha256": "ea6aa6c56e8745ed69f39cff424bc379329acb0bf18755c4c450635893b2d55a",
+        "source_line_start": 43,
+        "source_line_end": 49,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "ea6aa6c56e8745ed69f39cff424bc379329acb0bf18755c4c450635893b2d55a",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-4:p0024-p0027:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "            Wichtigkeit              :   Der Giftreizker gilt, wie sein deutscher Name schon sagt,                                 als       giftig.     Er\nwird jedoch an manchen Orten sicher gegessen, ohne daB Vergiftungserscheinungen bekannt geworden\nwaren.       Seinen GenuB zu vermeiden                      ist   jedoch jedenfalls anzuraten.                Er wird leicht verwechselt mit\ndem echten Reizker der unten beschrieben wird.                                        Ebendort werden auch die Unterschiede zwischen\nbeiden Arten angegeben werden.",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史記載此菌有毒，雖有地區食用未見中毒，但仍建議避免。易與可食之真乳菇混淆，需仔細區分。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 24,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 3383,
+        "char_end": 3940,
+        "page_text_sha256": "83d2c379f8614243eebbd7449bcf38c44d0d288bb82ca8054eca8db24b249b83",
+        "exact_text_sha256": "6f0860a53061f103dabcac420cc4190725b40bafe0beaefa0cf84528cf922a7d",
+        "source_line_start": 58,
+        "source_line_end": 62,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "6f0860a53061f103dabcac420cc4190725b40bafe0beaefa0cf84528cf922a7d",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-4:p0024-p0027:s05:x00",
+      "section_type": "constituents",
+      "original_text": "        Bestandteile: Die Lactaria- Arten sind mehrfach Gegenstand chemischer Dntersuchungen\ngewesen. Bemerkenswert ist der in vielen Arten festgestellte nicht unerhebliche\n                                                                                Gehalt an freien\nFettsauren.           Bissinger, Thorner, Chodat und Chuit wollten in verschiedenen Arten,                                        z.   B. Lact.\npiperata (Scop.), in freiem Zustande zu 7,5% der Trockensubstanz Lactarsaure,\n                                                                                                                       C 15 H30\n                                                                                                                             3ft O\n                                                                                                                                 u 25 vom\nSchmelzpunkt 69,5—70° gefunden haben.                             Bougault und Charaux konnten jedoch diesen Befund\nnicht bestatigen.            Nach ihnen ist      die Lactarsaure              mit Stearinsaure     C 18 H36            identisch,      und\n                                                                                                                   2                          sie\nfanden    sie     in    Lactaria azonites (Bull.),               vellerea    (Fr.),   controversa (Fr.), deliciosa (L.), piperata\n(Scop.), subdulcis (Fr.),           und torminosa (Schaff.)                 In anderen Arten fanden sie eine eigenartige Keto-\nsaure, 6-Ketostearinsaure,              CH3 (CH n CO (0H 4 COOH, die sie Lactarinsaure nannten und deren\n                                                 2)                    2)\n\nKonstitution          sie   durch Darstellung des Oxims, Umlagerung des Oxims nach                            Beckmann, Hydrolyse\nder Umlagerungsprodukte mit konzentrierter Salzsaure bei 170—180°, und\n                                                                       Analyse der entstan denen\nAmine und Sauren bewiesen. Sie konnten die Lactarinsaure zu Dihydrolactarinsaure,\n                                                                                   C                                           18      H36     3,\nund diese wieder iiber das Jodid in Stearinsaure                            iiberfuhren.   Die Lactarinsaure fanden           sie in         Lac-\ntaria Theiogala (Bull), plumbea (Bull.), pyrogala (Bull.), uvida (Fr.),\n                                                                                                lilacina (Lasch), subdulcis (Bull.)\n,,var.   pale\" in Mengen von rund                2—3% der Trockensubstanz in freiem Zustande.",
+      "normalized_text": null,
+      "zh_tw_rendering": "化學分析顯示含游離脂肪酸。L. torminosa 含甘露醇約 5%。部分研究提及 Lactarsäure 與膽固醇類物質。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 26,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 2645,
+        "char_end": 5341,
+        "page_text_sha256": "5a8a39426ac2eb80f040883b39ba8d3da6b47e2ee4b89b7bb5537a5f1a38711c",
+        "exact_text_sha256": "9fb324e7e6975b4cfc05a5c97e8e5d1bfdf080e3ac411d84994b35d499455569",
+        "source_line_start": 37,
+        "source_line_end": 61,
+        "section_index": 5,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "9fb324e7e6975b4cfc05a5c97e8e5d1bfdf080e3ac411d84994b35d499455569",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "The Taiwan accepted name is linked through a scientific alias printed in Köhler; Köhler facts remain attached to the book taxon.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "ce7dc93f580562036de5d82373d93171b80c9119c1268732e18f6bdae1602bb1",
+    "maker_receipt_sha256": "7c6a056867100fd52c6457446126a2fd86b03e6ef762816c3e8b5f83837de2e8",
+    "validation_check_sha256": "0b539b5657cba18ceafed1e655b211b23f007499d4c96380a4ecdb78b6d14b0d",
+    "source_disposition_sha256": "10e186db0c91f07769fde430073387d041df23493761d722ad42b314321e33cb",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "7c6a056867100fd52c6457446126a2fd86b03e6ef762816c3e8b5f83837de2e8",
+      "validation_check_sha256": "0b539b5657cba18ceafed1e655b211b23f007499d4c96380a4ecdb78b6d14b0d",
+      "source_disposition_sha256": "10e186db0c91f07769fde430073387d041df23493761d722ad42b314321e33cb"
+    },
+    "naming_artifact_sha256": "b4235a5cd6b08aa20211807bef29dd953e02b6ad755d4c1a60235764547c1536"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "2e32365c4befb9e850e5a1e63b857456b8c841616ff7cad4e2053e575b52f822"
+}

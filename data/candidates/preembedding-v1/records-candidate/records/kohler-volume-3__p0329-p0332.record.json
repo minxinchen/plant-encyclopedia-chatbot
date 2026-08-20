@@ -1,0 +1,273 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-3-p0329-p0332",
+  "entry_id": "kohler-volume-3:p0329-p0332",
+  "owner_shard": "S07",
+  "book_taxon": {
+    "scientific_name": "Betula lenta",
+    "authorship": null,
+    "aliases": [
+      "Betula nigra Du Roi",
+      "Betula lutea Mich.",
+      "Betula carpinifolia Ehrh."
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Betula lenta"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T18:05:53+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Betula+lenta",
+        "query_name": "Betula lenta",
+        "retrieved_at": "2026-08-13T18:05:50+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Betula+nigra",
+        "query_name": "Betula nigra",
+        "retrieved_at": "2026-08-13T18:05:51+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Betula+lutea",
+        "query_name": "Betula lutea",
+        "retrieved_at": "2026-08-13T18:05:51+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Betula+carpinifolia",
+        "query_name": "Betula carpinifolia",
+        "retrieved_at": "2026-08-13T18:05:51+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 329,
+      "evidence_type": "text",
+      "page_text_sha256": "eea8cdb868eab6c2a01a446d6b01d3d5f6eefb1b4f7c78e90426162229879738",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 330,
+      "evidence_type": "text",
+      "page_text_sha256": "d9fc9d1d5cf1712a9e365459323783b0e2fe4c5ad907c18fd7669cc6ed785d1f",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 331,
+      "evidence_type": "text",
+      "page_text_sha256": "9f41b9badcbfffc117aa2e133b8441d0ea92191b748b774b2af442f158ca4ad0",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-3:p0329-p0332:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                                   Betula lenta L.\n               Zähe Birke.             Engl.: Sweet Birch, Mountain                   Mahagony,            Black Birch.\n\n           Syn.: Betula nigra Du Roi.                   Betula lutea Mich.           Betula carpinifolia Ehrh.\n\n           Familie: Capuliferae.              Unterfamilie:             Betulae Eich.        Gattung: Betula Tournef.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Betula lenta L.，俗名 Zähe Birke。同義名包括 Betula nigra、Betula lutea 及 Betula carpinifolia。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 329,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 417,
+        "page_text_sha256": "eea8cdb868eab6c2a01a446d6b01d3d5f6eefb1b4f7c78e90426162229879738",
+        "exact_text_sha256": "06eac5e9fac6e1e2b6552b91f8852f4baf6d5c90672ca8dd8dfc44cce007c000",
+        "source_line_start": 1,
+        "source_line_end": 6,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "06eac5e9fac6e1e2b6552b91f8852f4baf6d5c90672ca8dd8dfc44cce007c000",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0329-p0332:s01:x00",
+      "section_type": "description",
+      "original_text": "           Beschreibung.             Die zähe Birke ist ein schöner,                   dem     Kirschbaum             ähnlicher Baum.\nEr wird 6 bis 10 m hoch und nimmt                         kultiviert       nicht selten pyramidalen Wuchs an.                         Sein\nStamm erinnert an den unserer Birken und erreicht eine Dicke von 1 m.                                             Er ist mit weiss-\ngrauer Rinde bedeckt,                welche       sich von älteren Bäumen              in 20 cm           langen Bändern           ablöst.\nDas     Holz   des Stammes            ist frisch      rosenrot,    welche      Farbe     beim        Trocknen         noch   intensiver\nwird.     Die jungen Zweige             sind dunkelbraun und glänzend und mit zahlreichen weissen Rinden-\n\nporen (Lenticellen) bedeckt.                  Jüngste Triebe sind dicht faumhaarig.                         Die wechselständigen,\neinfachen      Blätter     erinnern          an   die der Hainbuche            (Carpinus Betulus L.); sie haben                      einen\nkurzen,    kaum     über       1 cm     langen,      flaumhaarigen,       rinnigen     Blattstiel     und herzförmigen             Grund;\n\nsie sind breitlanzettlich oder eilanzettlich und am oberen Ende lang zugespitzt.                                          Sie erreichen\neine Länge von 12 cm und eine Breite von 7 bis 8 cm.                                   Ihre Farbe ist oben ein gesättigtes\nDunkelgrün; die Unterseite ist heller; beide Seiten, besonders aber die untere, sind an den\nAdern flaumhaarig.                 Die jungen Blätter sind mit silberglänzenden Seidenhaaren bedeckt, die\nsie aber später fast vollständig verlieren.                       Die Blattspreite           wird    von      einer     starken Mittel-\nrippe beinahe        schnurgerade            durchlaufen.         Von     dieser     gehen     auf    jeder     Seite     fünfzehn     bis\n\nachtzehn Seitennerven                aus, welche         in je einen groben             Zahn des gesägten Randes enden.\nZwischen je zwei dieser Zähne befinden sich fünf oder mehr kleinere,                                          aber sehr ungleiche\nSägezähne,        welche       je von        einem     kleinen Spitzchen           gekrönt sind. — Zu beiden Seiten des",
+      "normalized_text": null,
+      "zh_tw_rendering": "樹高 6 至 10 米，樹皮白灰帶條狀剝落。木材新鮮時呈玫瑰紅。葉互生，心形基部，長 12 厘米，深綠色，葉背有毛。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 329,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 419,
+        "char_end": 2716,
+        "page_text_sha256": "eea8cdb868eab6c2a01a446d6b01d3d5f6eefb1b4f7c78e90426162229879738",
+        "exact_text_sha256": "6f6f5465781e55b44beef2ecec17b30a359df3681d2d43b86bcee32b42f818ed",
+        "source_line_start": 8,
+        "source_line_end": 28,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "6f6f5465781e55b44beef2ecec17b30a359df3681d2d43b86bcee32b42f818ed",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0329-p0332:s02:x00",
+      "section_type": "flowering",
+      "original_text": "           Blütezeit.      April und Mai; Fruchtreife im August und September.",
+      "normalized_text": null,
+      "zh_tw_rendering": "花期為四月和五月；果實成熟期在八月和九月。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 330,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 2151,
+        "char_end": 2229,
+        "page_text_sha256": "d9fc9d1d5cf1712a9e365459323783b0e2fe4c5ad907c18fd7669cc6ed785d1f",
+        "exact_text_sha256": "223f0c3be9cda74d742c5b6d91ace302b263972f120d645c11be62081c7a05be",
+        "source_line_start": 29,
+        "source_line_end": 29,
+        "section_index": 2,
+        "section_type": "flowering"
+      },
+      "exact_text_sha256": "223f0c3be9cda74d742c5b6d91ace302b263972f120d645c11be62081c7a05be",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0329-p0332:s03:x00",
+      "section_type": "distribution",
+      "original_text": "           Vorkommen.           Der Baum ist häufig in Wäldern und an Waldrändern durch ganz Nord-\namerika;      in Europa       findet man   ihn nicht      selten als Parkbaum                   kultiviert.",
+      "normalized_text": null,
+      "zh_tw_rendering": "常見於北美森林及林緣；歐洲偶作公園樹栽培。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 330,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 2231,
+        "char_end": 2437,
+        "page_text_sha256": "d9fc9d1d5cf1712a9e365459323783b0e2fe4c5ad907c18fd7669cc6ed785d1f",
+        "exact_text_sha256": "ed00e7e3b1639d269f164bbbd6e10b9f3d7eef65f9411c51496f069e524695c0",
+        "source_line_start": 31,
+        "source_line_end": 32,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "ed00e7e3b1639d269f164bbbd6e10b9f3d7eef65f9411c51496f069e524695c0",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0329-p0332:s04:x00",
+      "section_type": "constituents",
+      "original_text": "           Droge.       Von    pharmazeutischem          Interesse     ist        das     aus    der     Rinde         und       den   jungen\nZweigen erhaltene ätherische Öl: Oleum                    Betulae      lentae           oder     Oleum         Wintergreen,             Sweet-\nbirch-Oil.     Man erhält dasselbe durch Destillation der Zweig- und Astrinde des Baumes.                                                 Die-\nselbe giebt schon beim Befeuchten den Geruch nach Wintergreenöl                                           und        unterscheidet        sich\ndadurch      leicht von       den Rinden   verwandter       Birkenarten,                welche        selbst        beim    Erwärmen       mit\nWasser dieses Öl nicht entwickeln.                  Das Öl ist durchweg                    ähnlich       dem Wintergreenöl                 aus\nden Blättern von Gaultheria procumbens L. (s. dieses) und unterscheidet sich davon nur durch\nseine optische Inaktivität, sowie dadurch, dass es zwar auch Methylsalicylat C®H?(OH)CO0.CH?,\nden Ester C1*H?*O? und ein Paraffin enthält, nicht aber den Alkohol C®H!O, dem man die\nLinksdrehung des Gaultheriaöles zuschreibt. — Das Öl wurde von Schimmel & Co. in\nMengen von 0,6°/, der Rinde erhalten und zeigte ein spezifisches Gewicht von 1,180 bis 1,187\nbei 15° ©. Es muss in gut verschlossenen Gefässen aufbewahrt werden.",
+      "normalized_text": null,
+      "zh_tw_rendering": "藥用部位為皮與嫩枝，含冬青油（Oleum Betulae lentae）。油由糖苷經發酵產生，含水楊酸甲酯，具光學無活性。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 330,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 2440,
+        "char_end": 3813,
+        "page_text_sha256": "d9fc9d1d5cf1712a9e365459323783b0e2fe4c5ad907c18fd7669cc6ed785d1f",
+        "exact_text_sha256": "e9c3605c31c8357f553ca6e3d4663a6a2a67e3fa699b6fa8f4b2e282ab38666a",
+        "source_line_start": 35,
+        "source_line_end": 46,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "e9c3605c31c8357f553ca6e3d4663a6a2a67e3fa699b6fa8f4b2e282ab38666a",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0329-p0332:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "           Andere Verwendungen.                   Aus dem Safte dieser Birke wird auch Zucker gesotten.                                  —\nDas Holz ist seiner             dunkelrosenroten Farbe wegen                   als Mountain-Mahagony               sehr. geschätzt,\nda es eine      sehr    schöne     Politur       annimmt.",
+      "normalized_text": null,
+      "zh_tw_rendering": "樹汁可製糖。木材因深玫瑰紅色被稱為 Mountain-Mahagony，易上光，極受重視。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 331,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 2403,
+        "char_end": 2731,
+        "page_text_sha256": "9f41b9badcbfffc117aa2e133b8441d0ea92191b748b774b2af442f158ca4ad0",
+        "exact_text_sha256": "a8d46ad05c71c02a40c264492c6314df3e7144863c11d930aa958b074b665f44",
+        "source_line_start": 24,
+        "source_line_end": 26,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "a8d46ad05c71c02a40c264492c6314df3e7144863c11d930aa958b074b665f44",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "98c0a95be5373c7e533483f57d8b73429db4b282b73beda06353ea7695b11dad",
+    "maker_receipt_sha256": "553956a0b1556467f76c6eec7f8397642da5ea39bffde925552aa62412573618",
+    "validation_check_sha256": "50a48e6ffa43e608929d0dd1f0180a528bd1b4dee06f7ce5f565fa31baa1b657",
+    "source_disposition_sha256": "48cf017b734be8a077709447c87a3bc10963065877e5957afa7d85c3107c0db4",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "553956a0b1556467f76c6eec7f8397642da5ea39bffde925552aa62412573618",
+      "validation_check_sha256": "50a48e6ffa43e608929d0dd1f0180a528bd1b4dee06f7ce5f565fa31baa1b657",
+      "source_disposition_sha256": "48cf017b734be8a077709447c87a3bc10963065877e5957afa7d85c3107c0db4"
+    },
+    "naming_artifact_sha256": "154197bf3ca0c665d1e20ba42f13f6b8fa6fef643515f61f7a05b033c41c8cbf"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "83be0963dd653b728271aa500cb7a0f455d6c13378786ff689bdcb4677a2f977"
+}

@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 725,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "72a6ef65f743168d975f7dc5b359217caaccbbe9fcc54a5ea33de85fcf507356",
+  "render_dpi": 144,
+  "render_sha256": "b3b30c50fcd4a5290f5da5188fdf74c69d0b6956747321cc8805be954e4c57e6",
+  "input_sha256": "b3b30c50fcd4a5290f5da5188fdf74c69d0b6956747321cc8805be954e4c57e6",
+  "render_pixel_width": 7214,
+  "render_pixel_height": 5914,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.483,
+  "embedded_character_count": 160,
+  "ocr_character_count": 63,
+  "ocr_alpha_ratio": 0.7302,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.0212765951554702,
+      "text": "Burseraceae",
+      "width": 0.11046511029440265,
+      "x": 0.7921511669094847,
+      "y": 0.9202127659860947
+    },
+    {
+      "confidence": 1,
+      "height": 0.026595743944337724,
+      "text": "188",
+      "width": 0.013081397329057965,
+      "x": 0.01017441755095067,
+      "y": 0.08687943315859348
+    },
+    {
+      "confidence": 1,
+      "height": 0.0289191461229642,
+      "text": "AB Canarium",
+      "width": 0.1149161732386029,
+      "x": 0.14675703109536256,
+      "y": 0.02277446957347906
+    },
+    {
+      "confidence": 1,
+      "height": 0.01950354555918099,
+      "text": "commune l.•",
+      "width": 0.11191860077873106,
+      "x": 0.27325581693137085,
+      "y": 0.03014184456674518
+    },
+    {
+      "confidence": 1,
+      "height": 0.02484200207017373,
+      "text": "i Icica",
+      "width": 0.07122092776828348,
+      "x": 0.6075581409668755,
+      "y": 0.02480338796732573
+    },
+    {
+      "confidence": 1,
+      "height": 0.023679893664425244,
+      "text": "Icicariba",
+      "width": 0.09482084758697995,
+      "x": 0.6960488774194932,
+      "y": 0.021847996667850977
+    },
+    {
+      "confidence": 1,
+      "height": 0.019661222020568636,
+      "text": "D. C.",
+      "width": 0.033430231942070954,
+      "x": 0.7936046518887029,
+      "y": 0.022988505435132645
+    }
+  ],
+  "text": "Burseraceae\n188\nAB Canarium\ncommune l.•\ni Icica\nIcicariba\nD. C.",
+  "output_sha256": "154ed07bf37694c52e7bd48a754e006d3109084999c2ed78da6201f5d0edaf46",
+  "receipt_sha256": "df21337c868305522da12b7ca65b0183d5491a3cf379497865b014a8a0287949"
+}

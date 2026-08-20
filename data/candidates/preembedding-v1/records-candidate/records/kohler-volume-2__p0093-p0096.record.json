@@ -1,0 +1,279 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0093-p0096",
+  "entry_id": "kohler-volume-2:p0093-p0096",
+  "owner_shard": "S03",
+  "book_taxon": {
+    "scientific_name": "Juniperus Sabina",
+    "authorship": "L.",
+    "aliases": [
+      "Sabina officinalis Garcke"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Juniperus Sabina",
+      "Juniperus sabina"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T14:28:51+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Juniperus+Sabina",
+        "query_name": "Juniperus Sabina",
+        "retrieved_at": "2026-08-13T14:28:49+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0024091",
+        "query_name": "Juniperus Sabina",
+        "retrieved_at": "2026-08-13T14:28:49+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0024091",
+        "query_name": "Juniperus Sabina",
+        "retrieved_at": "2026-08-13T14:28:49+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Juniperus+sabina",
+        "query_name": "Juniperus sabina",
+        "retrieved_at": "2026-08-13T14:28:49+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Sabina+officinalis",
+        "query_name": "Sabina officinalis",
+        "retrieved_at": "2026-08-13T14:28:49+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 93,
+      "evidence_type": "text",
+      "page_text_sha256": "77bea556f9435a384acd8635715ff83a424fbd71692cf5b560e603b641bc9eb6",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 94,
+      "evidence_type": "text",
+      "page_text_sha256": "9c49857e42c9c1b523f4e8656af0bf9deb8fafd2b6fcf67056e10c785f57476d",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 95,
+      "evidence_type": "text",
+      "page_text_sha256": "4ea428434de9028e0c69482546f0d389654f2c47f555deb492731e13926b39ae",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0093-p0096:s00:x00",
+      "section_type": "description",
+      "original_text": "          Beschreibung. Diócischer, ‫لو‬‎ —2!/, Meter hoher Strauch mit röthlich-graubrauner, faserig\naufgerissener Rinde, entweder aufrechtästig oder vielástig weit ausgebreitet und mit niederliegenden,\nwurzelnden Hauptásten. Zweige aufrecht dicht buschig verüstelt, die jüngsten Zweige dünn, schlank,\nvon den Blättern ringsum dicht bedeckt. Blätter meist gegenständig, vierzeiliggeordnet, zweigestaltig,\ndie der älteren,   stärkeren   Zweige lineallanzettlich,   nadelförmig,   stechend,   mit der unteren,    grösseren\nHälfte herablaufend    und angewachsen,        wit der oberen Hälfte frei und abstehend,      mehr   oder weniger\nentfernt, auf dem Rücken mit einer lineal-linglichen bis linealischen, auf den angewachsenen Blattgrund\nherabziehenden Oeldrüse versehen; die Blätter der jüngsten Zweige klein, schuppenartig, rautenförmig,\nzugespitzt oder stumpf, dicht dachziegelig angedrückt, mit einer auf der Mitte des Rückens befindlichen\novalen Oeldrüse. Letztere Blattform gestaltet sich durch Wachsthum allmählig in die erstere Blattform\num. Nach ca. 4 Jahren werden die Blätter mit dem sich ablösenden Korke abgeworfen. Männliche",
+      "normalized_text": null,
+      "zh_tw_rendering": "雌雄異株灌木，高1-2米，莖皮紅灰褐色。葉二型：老枝線狀披針形，幼枝鱗片狀。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 93,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 295,
+        "char_end": 1435,
+        "page_text_sha256": "77bea556f9435a384acd8635715ff83a424fbd71692cf5b560e603b641bc9eb6",
+        "exact_text_sha256": "856c1b09b9e8d9584c2b1930282201f35a7d93129379ccbc762770c44282692d",
+        "source_line_start": 8,
+        "source_line_end": 18,
+        "section_index": 0,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "856c1b09b9e8d9584c2b1930282201f35a7d93129379ccbc762770c44282692d",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0093-p0096:s01:x00",
+      "section_type": "anatomy",
+      "original_text": "          Anatomisches.     Der Querschnitt der Rinde eines älteren Zweiges zeigt mehrere Reihen\ntafelförmiger Zellen mit braunrothem Inhalte. Die Mittelrinde besteht aus einem mit Lücken durch-\nsetzten Parenchym, welches aus tangential gestreckten, chlorophyllführenden Zellen zusammengesetzt\nist.   Die Innenrinde wird durch zahlreiche,        abwechselnde, gleichdicke Schichten von Bastparenchym und\nBastzellen,     die durch     einreihige Markstrahlen     durchschnitten   werden,   gebildet.     Der Blattquerschnitt     `\nan Stelle eines Oelraumes zeigt nach Flückiger unter der entwickelten Cuticula eine, aus dickwandigen\n kleinen Zellen: bestehende, beiderseits mit zweireihigen Spaltóffnungen bedeckte Epidermis, unter welcher `\n eine Schicht sehr stark verdickten Gewebes liegt, die jedoch an den Stellen, wo die Oelrüume die\nEpidermis      berühren,    fehlt.   Die elliptischen, mit der grossen Axe senkrecht        zur Blattfläche gestellten\nOelráume sind von einem doppelten oder dreifachen Kreise kleinzelligen Gewebes eingefasst. Dieser\nGewebering ist durch einen etwas weitmaschigen, von grossen, dünnwandigen Parenchymzellen um-\ngebenen Strang mit der Gefässbündelregion verbunden. Dieser Gefässbündelstrang zeigt, besonders im\noberen Theile, eigenthümlich verdickte, wenig gestreckte Zellen, deren Wandungen unregelmässige Vor-\nsprünge, Zapfen oder Balken entwickeln, die in den inneren Zellraum hineinragen.",
+      "normalized_text": null,
+      "zh_tw_rendering": "皮層橫切面含褐色細胞；葉片具雙層氣孔，油室由小細胞環繞，與維管束相連。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 94,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 1430,
+        "page_text_sha256": "9c49857e42c9c1b523f4e8656af0bf9deb8fafd2b6fcf67056e10c785f57476d",
+        "exact_text_sha256": "461ef6a2ae7da5bd08cfbce6374add772e86d5766c51862a7a58ac91d77786e4",
+        "source_line_start": 1,
+        "source_line_end": 14,
+        "section_index": 1,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "461ef6a2ae7da5bd08cfbce6374add772e86d5766c51862a7a58ac91d77786e4",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0093-p0096:s02:x00",
+      "section_type": "distribution",
+      "original_text": "          Vorkommen.      An trockenen, felsigen, sonnigen Orten in den Berglündern Europas, Asiens\nund Nordamerikas zwischen dem 37. und 50. Grade nórdl Breite einheimisch.       In der Sierra nevada\nbis 2800 Meter, in den Alpen bis 2000 Meter, in Südtirol bis 2343 Meter emporsteigend. In Italien\nselten, in den deutschen Bergländern gar nicht vorkommend. In Gärten und Parkanlagen bis Christiana\nund Stockholm in verschiedenen Spielarten auftretend.                          ۰",
+      "normalized_text": null,
+      "zh_tw_rendering": "產於歐亞北美乾燥山區，海拔最高2800米；德國山區無分布，園藝栽培至斯德哥爾摩。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 94,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 1432,
+        "char_end": 1911,
+        "page_text_sha256": "9c49857e42c9c1b523f4e8656af0bf9deb8fafd2b6fcf67056e10c785f57476d",
+        "exact_text_sha256": "55819c0e9b8581744ceb048120f50a6a1e9232687146e4f6c40434f6180d2838",
+        "source_line_start": 16,
+        "source_line_end": 20,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "55819c0e9b8581744ceb048120f50a6a1e9232687146e4f6c40434f6180d2838",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0093-p0096:s03:x00",
+      "section_type": "history",
+      "original_text": "             Name und Geschichtliches,              Sadebaum,     Sevenbaum     (althochdeutsch sevina, sevi-boum,\nseven-boum,      mittelhochdeutsch     seve, seve-boum,   sadenbom,    seefenbom,    sefibom, zeven,     bei Hildegard\nSyvenboum, Sybenbaum, bei Cordus Sagebaum, bei Bock Sevenbom, bei Tabernaemontanus\nBiebenbaum) ist abgeleitet von Sabina, dem nordöstlich von Rom gelegenen Lande der Sabiner, wo-\nselbst der Sadebaum         schon in frühesten Zeiten     als Abortivmittel   benutzt worden     sein soll.   Die Sabiner\nwurden       auch wegen     ihrer heiligen Gebräuche Seviner, von      0886000 verehren, genannt,        d      der Name\nSevenbaum. Wegen Juniperus siehe Juniperus communis.",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源自羅馬附近的Sabina地，古時即被用作墮胎藥，因當地人崇拜儀式而得名。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 94,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3797,
+        "char_end": 4505,
+        "page_text_sha256": "9c49857e42c9c1b523f4e8656af0bf9deb8fafd2b6fcf67056e10c785f57476d",
+        "exact_text_sha256": "9a0bed6ec45bfa4ec3ff6e5ef2488316a82745fe535dada788046575083f9243",
+        "source_line_start": 42,
+        "source_line_end": 48,
+        "section_index": 3,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "9a0bed6ec45bfa4ec3ff6e5ef2488316a82745fe535dada788046575083f9243",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0093-p0096:s04:x00",
+      "section_type": "constituents",
+      "original_text": "            Bestandtheile. Die Zweigspitzen enthalten nach Grades: ätherisches Oel, Harz, wenig\n  Gerbstoff, Chlorophyll, Extraktivstoff, Kalksalze etc. Das Sabina- oder Sadebaumöl, dessen. Ausbeute\n  aus frischen Blättern und Zweigen nach Zeller ‫اب‬‎ ‫ الو‬nach Flückiger bis 4%, (aus frischen Beeren\n  nach Zeller sogar bis 10%,) beträgt, ist blass- oder dunkelgelb, im gereinigten Zustande farblos, be-\n  sitzt in hohem Grade den Geruch der Pflanze, schmeckt gewürzhaft brennend, hat ein spez. Gew. von\n  0,89— 0,94, einen Siedepunkt              zum geringeren Theil von 160°, zum grösseren Theil von 200°, löst sich in\n  jeder Menge von absolutem Weingeist und dreht die Polarisationsebene stark nach rechts, giebt mit Chlor-\n  wasserstoff keine festen Verbindungen, verpufft mit Jod sehr heftig und entspricht (nach Husemann)\n  der Formel C,, H,,. Nach Tilden enthält das Oel kein Terpen; nach Flückiger besitzt derjenige\n  Theil des Oeles, welcher schon bei 160° zu sieden beginnt, die Formel C,, Hi, O. Das amerikanische\n  Sadebaumól von Juniperus virginiana ist schwächer von Geruch und dreht nach Flückiger die Polari-\n  sationebene        nur halb so viel nach rechts.             (Husemann,        Pflanzenstoffe   333.)",
+      "normalized_text": null,
+      "zh_tw_rendering": "含揮發油、樹脂及單寧。油產量達4-10%，具強烈氣味，旋光性右旋，化學式C10H16O。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 95,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 1945,
+        "char_end": 3178,
+        "page_text_sha256": "4ea428434de9028e0c69482546f0d389654f2c47f555deb492731e13926b39ae",
+        "exact_text_sha256": "ca4da83105c5d66abb716fa100d0064753397feda05c9d4736e3f721a7303720",
+        "source_line_start": 27,
+        "source_line_end": 38,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "ca4da83105c5d66abb716fa100d0064753397feda05c9d4736e3f721a7303720",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0093-p0096:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "           Anwendung.       Innerlich und äusserlich in Substanz und Aufguss. Der wirksame Bestand-\n  theil des Sadebaumes ist das Sabinaöl (Oleum Sabinae), welches zu den am kräftigsten wirkenden\n  ätherischen Oelen gehört. Sabina ist ein sehr starkes Emmenagogum und Abortivum, welches bei\n  Mutterblutungen, atonischen Leukorrhöen, gichtischen, rheumatischen Leiden gereicht wird. Husemann\n  äussert     sich    über    den Sadebaum         wie folgt:     „Man schreibt      den Summitates        Sabinae    und dem Sade-\n  baumöl spezifische Action auf den Uterus zu, weshalb sie bis auf den heutigen Tag missbräuchlich\n  zur Abtreibung der Leibesfrucht in Anwendung gezogen und von Aerzten bei Menostase verordnet\n  werden.\"       Die    abortiven       Wirkungen     treten    jedoch   nicht   immer    ein,    denn    es sind Fälle bekannt,    in\n  denen der Tod, aber nicht der Abgang der Leibesfrucht erfolgte. Das Eintreten des Abortus wird\n  dem Andrange des Blutes zu den Beckenorganen zugeschrieben, wodurch eine vorzeitige Ablósung der\n  Placenta oder der Tod des Fótus herbeigeführt wird; manchmal mag auch das äusserst heftige Er-\n  brechen      das Eintreten         des Abortus   bewirken.      Aeusserlich fanden Summitates Sabinae              früher als Streu-\n  pulver und Salben Anwendung zur Beseitigung von Condylomen.                               (Husemann, Arzneimittell. 1192.)",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史記載為強效催經及墮胎藥，曾誤用於流產，亦外用治療疣。此為歷史用途，非醫療建議。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 95,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3181,
+        "char_end": 4587,
+        "page_text_sha256": "4ea428434de9028e0c69482546f0d389654f2c47f555deb492731e13926b39ae",
+        "exact_text_sha256": "43d916d218f984834943459dc4f4404f8298398371584dd07ce3bcfe7fa02da6",
+        "source_line_start": 41,
+        "source_line_end": 53,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "43d916d218f984834943459dc4f4404f8298398371584dd07ce3bcfe7fa02da6",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "7b0861f931e98e281a63ce5c81dcbe08b7f73124105b50196c13dec228f917a8",
+    "maker_receipt_sha256": "35f29bb709a4e6544bd8ea59e54239288cf519f1d911831c91296c117b14ecc2",
+    "validation_check_sha256": "740c2db938efe6c833fa246551611afd77b3709771ce9b61fc0e909fe621e111",
+    "source_disposition_sha256": "6f8b1295967a522de5926db0ad2c3eb591c9f9d7793f33cc83feca1b7d8c2d4f",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "35f29bb709a4e6544bd8ea59e54239288cf519f1d911831c91296c117b14ecc2",
+      "validation_check_sha256": "740c2db938efe6c833fa246551611afd77b3709771ce9b61fc0e909fe621e111",
+      "source_disposition_sha256": "6f8b1295967a522de5926db0ad2c3eb591c9f9d7793f33cc83feca1b7d8c2d4f"
+    },
+    "naming_artifact_sha256": "bb233043b5927366097bbfc68c21d7fbe9eae94a328430936ac0d6aadeadd372"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "60869f3e0193c0f0e187bff303c9dbb31fbfd3666d3a13af9ca781ea669a7dec"
+}

@@ -1,0 +1,230 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-2:p0333-p0336",
+  "owner_shard": "S04",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S04/maker/structure-drafts/kohler-volume-2__p0333-p0336.json",
+  "source_draft_sha256": "3048434af075209be365bc30d0a71ed2dc802c62875548f27bf275a0e215c128",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "d16bf4ba452e7821ef8d7e0b99ea6cf3f397d8eaf8387e3dd99c85eaa499b995",
+    "validation_check_sha256": "8f51248d38e870d33562ac95b1aa636dc82d8a26d6d39d208486e51b4d0ce46c",
+    "source_disposition_sha256": "c70a8cae2573651d8284b3ec1231c0b3e2ccda113a038937d8afe53db47d9eaa",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Conium maculatum",
+    "authorship_candidate": null,
+    "aliases_candidates": [
+      "Gefleckter Schierling",
+      "Schwindelkraut",
+      "Cigué officinale",
+      "Grande ciguë",
+      "Conium"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Conium maculatum"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_zh_tw": null,
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_checked",
+    "taxon_id": null,
+    "display_name_source_scope": "unresolved",
+    "display_name_source_evidence_ids": [],
+    "display_name_is_taiwan_public": false,
+    "display_name_answer_policy": "scientific_name_only",
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping.",
+    "checked_at": "2026-08-13T14:18:01+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Conium maculatum",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Conium+maculatum",
+      "retrieved_at": "2026-08-13T14:17:56+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Canna maculata",
+          "matched_name_id": 214407,
+          "taxon_id": "t0040616",
+          "taicol_name_status": "not-accepted",
+          "accepted_name": "Canna indica",
+          "accepted_name_id": 21176,
+          "accepted_usage": [
+            {
+              "usage_id": 287056,
+              "reference_id": 3024,
+              "reference_type": "Journal Article",
+              "publish_year": 2022,
+              "citation": "Chang-Yang, C.-H., Su, M.-h., Chiang, P.-H. & Hsieh, C.-F. (2022) Updating the Checklist of the Naturalized Flora in Taiwan. <i>Taiwania</i> 67(1): 1–8.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 178678,
+              "reference_id": 2454,
+              "reference_type": "Book",
+              "publish_year": 2017,
+              "citation": "Ed. Comm. Red List TW Plants,  (2017) The Red List of Vascular Plants of Taiwan, 2017 = 2017 臺灣維管束植物紅皮書名錄.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 282551,
+              "reference_id": 1077,
+              "reference_type": "Book Chapter",
+              "publish_year": 2000,
+              "citation": "Koyama, T.M. & Boufford, D.E. (2000) 36. Cannaceae. In: Flora of Taiwan, 2 ed., vol. 5. 725–726.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 318108,
+              "reference_id": 8031,
+              "reference_type": "Checklist",
+              "publish_year": 2017,
+              "citation": "GISD, - (2017) Global Invasive Species Database",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 103038,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 939,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0040616",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0040616",
+          "taxon": {
+            "taxon_id": "t0040616",
+            "taxon_status": "accepted",
+            "name_id": 21176,
+            "simple_name": "Canna indica",
+            "name_author": "L.",
+            "rank": "Species",
+            "common_name_c": "美人蕉",
+            "alternative_name_c": "白蓮蕉花,白花曇花,紫葉美人蕉,紅花美人蕉,食用美人蕉",
+            "synonyms": "Canna warscewiczii, Canna indica var. nepalensis, Canna patens, Canna coccinea fo. flaviflora, Canna rubra, Canna ellipticifolia var. coccinea, Canna ellipticifolia var. lutea, Canna glauca var. annaei, Canna indica var. warszewiczii, Canna indica var. sanctae-rosae, Canna lutea var. maculata, Canna ellipticifolia var. patens, Canna maculata, Canna patens var. limbata, Canna indica var. limbata, Canna indica var. lutea, Cannacorus indicus, Canna speciosa, Canna pallida var. maculata, Canna indica var. flava, Canna coccinea var. floribunda, Canna orientalis var. flavescens, Xyphostylis lutea, Distemon brasiliensis, Canna indica var. coccinea, Canna coccinea, Canna discolor, Canna ellipticifolia, Canna heliconiifolia, Canna orientalis, Canna warszewiczii, Distemon grandis, Cannacorus ovatus, Canna xalapensis, Canna warszewiczii var. flameus, Canna ventricosa, Canna variegatifolia, Canna variegata, Canna tinei, Canna thyrsiflora, Canna textoria, Canna texensis, Canna tenuiflora, Canna surinamensis, Canna sulphurea, Canna spectabilis, Canna sellowii, Canna seleriana, Canna schubertii, Canna saturate-rubra, Canna sanguinea, Canna sanctae-rosae, Canna rubricaulis, Canna rotundifolia, Canna roscoeana, Canna recurvata, Canna pulchra, Canna pruinosa, Canna portoricensis, Canna polymorpha, Canna polyclada, Canna poeppigii, Canna plurituberosa, Canna platyphylla, Canna pentaphylla, Canna pallida, Canna orientalis fo. flava, Canna occidentalis, Canna nepalensis, Canna napalensis, Canna moritziana, Canna montana, Canna maxima, Canna macrophylla, Canna lutea var. pallida, Canna lutea var. genuina, Canna lutea var. aurantiaca, Canna limbata, Canna leptochila, Canna lanuginosa, Canna lambertii, Canna lagunensis, Canna laeta, Canna juncea, Canna indica var. variegata, Canna indica var. speciosa, Canna indica var. maculata, Canna indica var. karsteniana, Canna indica var. edwarsii, Canna indica var. edwardsii, Canna indica fo. rubroaurantiaca, Canna humilis, Canna heliconiifolia var. xalapensis, Canna fulgida, Canna formosa, Canna floribunda, Canna flavescens, Canna eximia, Canna exigua, Canna esculenta, Canna ellipticifolia var. rubra, Canna elegans, Canna ehrenbergii, Canna edulis, Canna discolor var. viridifolia, Canna discolor var. rubripunctata, Canna densifolia, Canna crocea, Canna concinna, Canna compacta, Canna commutata, Canna coccinea var. limbata, Canna coccinea var. concolor, Canna coccinea var. bicolor, Canna cinnabarina, Canna chinensis, Canna cearensis, Canna carnea, Canna brasiliensis, Canna bifida, Canna bidentata, Canna barbadica, Canna aureovittata, Canna aurantiaca, Canna ascendens, Canna annaei, Canna amabilis, Canna altensteinii, Canna achiras",
+            "is_in_taiwan": true,
+            "alien_type": "naturalized",
+            "alien_status_note": "naturalized: Chang-Yang et al., 2022|naturalized: Ed. Comm. Red List TW Plants, 2017|naturalized: Koyama & Boufford, 2000|naturalized: Forestry Bureau, 2012 (A類歸化植物)|naturalized: 原生於歐洲; 沒有入侵性|naturalized: 原生於南美洲",
+            "not_official": false,
+            "updated_at": "2026-07-16"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Gefleckter schierling",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Gefleckter+schierling",
+      "retrieved_at": "2026-08-13T14:17:57+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Cigu officinale",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Cigu+officinale",
+      "retrieved_at": "2026-08-13T14:17:57+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Grande cigu",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Grande+cigu",
+      "retrieved_at": "2026-08-13T14:17:57+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Conium maculatum",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Conium%20maculatum",
+      "retrieved_at": "2026-08-13T14:18:01+08:00",
+      "exact_result_count": 1,
+      "exact_results": [
+        {
+          "name": "<em>Conium</em> <em>maculatum</em> L.",
+          "ebooksearch": "Conium maculatum",
+          "simnametitle": "<em>Conium</em> <em>maculatum</em>",
+          "type": "M",
+          "code": "999 990 534 26",
+          "apgfamily": "Apiaceae",
+          "chapgfamily": "繖形科",
+          "family": "Apiaceae",
+          "chfamily": "繖形科",
+          "genus": "Conium",
+          "chgenus": "毒?屬",
+          "fern": "no",
+          "chname": "",
+          "comname": "",
+          "comtype": "",
+          "endetype": "Non-Taiwanese",
+          "result_type": "species"
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "species_url": "https://tai2.ntu.edu.tw/species/999%20990%20534%2026",
+      "accepted_species_record": {
+        "name": "<em>Conium</em> <em>maculatum</em> L.",
+        "ebooksearch": "Conium maculatum",
+        "simnametitle": "<em>Conium</em> <em>maculatum</em>",
+        "type": "M",
+        "code": "999 990 534 26",
+        "apgfamily": "Apiaceae",
+        "chapgfamily": "繖形科",
+        "family": "Apiaceae",
+        "chfamily": "繖形科",
+        "genus": "Conium",
+        "chgenus": "毒?屬",
+        "fern": "no",
+        "chname": "",
+        "comname": "",
+        "comtype": "",
+        "endetype": "Non-Taiwanese"
+      },
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears."
+  ]
+}

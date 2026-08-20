@@ -1,0 +1,155 @@
+{
+  "schema_version": "2.0",
+  "package_id": "kohler-volume-2:p0223-p0230:child-03:continuation-01",
+  "parent_entry_id": "kohler-volume-2:p0223-p0230",
+  "child_entry_id": "kohler-volume-2:p0223-p0230:child-03",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation-v2:kohler-volume-2:p0223-p0230:child-03:continuation-01:v1",
+  "owner_shard": "S03",
+  "package_sha256": "7c3cdc41b8a2db0260255058e2949ea05bfa7c6ef6f2b75472fa5249e41cb7d3",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "prompt_version": "plant-structure-line-coordinates-v2",
+  "attempt_sha256": "05191b6d7d55dcc122e1e87247988afb5f9c6cb219e46365ebd71f081b62af4d",
+  "raw_response_sha256": "f34979061b5227f182b51fe63cded27df76322ff9bf111b2831cd5c515389afc",
+  "elapsed_seconds": 12.19,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 229,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 227,
+      "char_end": 3142,
+      "source_line_start": 5,
+      "source_line_end": 33,
+      "page_text_sha256": "24354dde5fa4c7cd250f4e26bfdb2abaae6342e0b36d44a86208f5d378857f83",
+      "exact_text_sha256": "4354f2145848e36edd4d8146696d47dfd5381169f8bc32025d64b365873c4164",
+      "section_index": 0,
+      "section_type": "description"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 229,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 3188,
+      "char_end": 3396,
+      "source_line_start": 36,
+      "source_line_end": 37,
+      "page_text_sha256": "24354dde5fa4c7cd250f4e26bfdb2abaae6342e0b36d44a86208f5d378857f83",
+      "exact_text_sha256": "6a489c8fa25a1a77ba7508172090be1571d472ec890c5e31736f45a442ec95c9",
+      "section_index": 1,
+      "section_type": "distribution"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 229,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 3397,
+      "char_end": 4441,
+      "source_line_start": 38,
+      "source_line_end": 48,
+      "page_text_sha256": "24354dde5fa4c7cd250f4e26bfdb2abaae6342e0b36d44a86208f5d378857f83",
+      "exact_text_sha256": "d42be6181739f1d708fc76955ec8c10503e8626e0edd4284644439b22e800645",
+      "section_index": 2,
+      "section_type": "history"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 230,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 1680,
+      "char_end": 2752,
+      "source_line_start": 20,
+      "source_line_end": 30,
+      "page_text_sha256": "09b2c2fa251264537d62ab79ec8cd3a6806087023be1445555d6b56860362359",
+      "exact_text_sha256": "51296a12e3f5d223f836a382605ea10c77475ec3615c5cdcfa76fbd112c44f7f",
+      "section_index": 3,
+      "section_type": "constituents"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 230,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 3503,
+      "char_end": 4234,
+      "source_line_start": 43,
+      "source_line_end": 49,
+      "page_text_sha256": "09b2c2fa251264537d62ab79ec8cd3a6806087023be1445555d6b56860362359",
+      "exact_text_sha256": "d97b954d43927fb75443bde702e5795063890ba6be6fa6c1c364052b61b9fe7d",
+      "section_index": 4,
+      "section_type": "plate_description"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-2:p0223-p0230:child-03:continuation-01",
+    "parent_entry_id": "kohler-volume-2:p0223-p0230",
+    "book_taxon": {
+      "scientific_name_candidate": "Marrubium vulgare"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "description",
+        "pdf_page": 229,
+        "source_line_range": [
+          5,
+          33
+        ],
+        "exact_source_quote": "          Beschreibung. Die ausdauernde, starke, fast senkrechte, holzige, ästige, weisse Wurzel treibt\n einen oder mehrere,     30—60     Ctm. hohe, sehr ästige, ziemlich    aufrechte, unten rundliche, oben vierkan-\n tige, weisswollg-filzige, hohle Stengel.    Blätter gegenständig, rundlich-eiförmig, ungleich gekerbt,\n in den Blattstiel vorschmälert, runzelig, unterseits grau oder weissfilzig, oberseits dunkler grün, spär-\n  licher behaart, die unteren lang-, die oberen kurzgestielt, die obersten sitzend; an jungen Blättern tritt\n. unterseits das runzelige Adernetz stark hervor; Oeldrüsen sind namentlich auf der Rückseite der Blätter,\n jedoch spärlich, vorhanden. Blüthen achselstándig, in 20—30blüthigen, fast kugeligen Scheinquirlen.\n Deckblätter linien-borstenfórmig, wollig, an der Spitze hakenförmig zurückgebogen. Kelch becherför-\n mig, 10zähnig, bleibend, im Schlunde mit einem aus dicht gedrängten Haaren bestehenden Ringe;\n Zähne abwechselnd kürzer, wollig, mit hakenförmiger, kahler Stachelspitze; Behaarung des Kelches sehr\n starr, aus langen, knotig gegliederten spitzen Haaren und derben Sternhaaren zusammengesetzt.\n Blüthen mit weisslicher, kurz zweispaltiger Krone, sternfilzig; Röhre wenig aus dem Kelche hervor-\n ragend, an derjenigen Stelle, wo die Staubfäden der Röhre entspringen, mit einem Haarringe versehen;\n Oberlippe linealisch, kurz zweispaltig, gewimpert; Unterlippe breiter, niedergebogen, dreilappig, der\n mittlere Lappen grösser, breitgezogen, ausgerandet, Seitenlappen eilänglich, stumpf, am oberen Rande\n gewimpert. Staubgefässe vier, in die Kronenröhre eingeschlossen, im untern Theile mit der Kronen-\n  röhre verwachsen,    im oberen    frei, die beiden oberen kürzer; Staubfäden    parallel, an der Spitze umge-\n  bogen, kahl; Staubbeutel an der Rückenmitte befestigt, zweifächerig; Fächer vertikal übereinander stehend\n  und zusammenfliessend, mit: einem gemeinschaftlichen Längsspalt sich öffnend. Pollen abgerundet recht-\n  eckig, mit drei Längsbinden und dazwischen liegenden Furchen ausgestattet, unter Wasser sehr auf-\n  quellend und queroval. Stempel auf einem becherförmigen, am Rande vierdrüsig-gezähnten Träger;\n  Fruchtblätter vier, länglich, zwischen den Zähnen des Stempelträgers stehend, einfächerig, eineiig.\n  Eichen am Grunde des Faches befestigt, aufrecht, gegenläufig. Griffel dem Stempelträger entsprin-\n  gend, am Grunde von den vier Fruchtblättern umgeben, fadenförmig, aus der Kronenröhre nicht her-\n  vorsehend, mit zweispaltiger Narbe; oberer Narbenzipfel schmäler und kürzer. Frucht vom bleibenden\n  Kelche eingeschlossen, kürzer als der Kelch. Nüsschen vier, verkehrt-eiförmig, stumpf dreikantig, nach\n  aussen gewölbt, am Scheitel schief gestutzt, hellbraun.      Same von der Form des Nüsschens,     mit dünnem,\n  von einem fleischigen Eiweiss umgebenen Embryo.             Würzelchen    nach unten gerichtet; Samenlappen\n  oval, planconvex."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 229,
+        "source_line_range": [
+          36,
+          37
+        ],
+        "exact_source_quote": "          Vorkommen.         An Wegen,        Zäunen, auf Schutt etc. von Nordafrika   durch Europa bis Schott-\n tina, Schweden und Norwegen verbreitet; von Vorderasien bis Indien; nach Amerika übergesiedelt."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 229,
+        "source_line_range": [
+          38,
+          48
+        ],
+        "exact_source_quote": "          Name     und    Geschichtliches,         Der Name   Andorn,\n                                                                  schon althochdeutsch andorn, gotver-\n gezgen, gotisvergessene, taubnezzila mittelhochdeutsch Aindorn, Andor, Antdorn, Antorn, Morabel (aus\n Marrubium verstümmelt), Segminz, bei Hildegard Andor, bei Cordus und Fuchs Gottesvergess ist\n unbekannten Ursprungs. Grasmann sucht ihn auf die Sprachwurzel %v9w blühen (altindisch andhas,\n Kraut) zurückzuführen. Marrubium stammt nach Linné von Maria-Urbs, einer Stadt im ehemaligen\n Latium, am See Fu, in deren Nähe die Pflanze häufig vorgekommen sein soll; wahrscheinlicher ist die\n Abstammung von dem hebräischen “ta (mar bitter) und 37 (rab viel), wegen des bitteren Geschmacks.\n          Der Andorn, zeaooy des Theophrast und des Dioskorides, Marrubium der Römer, gehört\n zu den ältesten Arzneipflanzen und diente schon in den frühesten Zeiten als Mittel gegen Lungen-\n schwindsucht. So werden namentlich Castor Antonius und Celsus angeführt, die den Saft in Ver-"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 230,
+        "source_line_range": [
+          20,
+          30
+        ],
+        "exact_source_quote": "          Bestandtheile.       Die Pflanze enthält wenig ätherisches Oel, eisengrünenden Gerbstoff und einen\nBitterstoff (Marrubiin), ausserdem salpetersaures,     schwefelsaures, salzsaures, äpfelsaures Kali, Natron        und\nKalkerde Das in sehr geringer Menge vorhandene, von Mein entdeckte Marrubiin, von Harms und\nKromayer näher untersucht, krystallisirt aus Weingeist in Nadeln, aus Aether in farblosen, dem Gyps\nähnlichen Tafeln. Durch Auflösen in heissen Flüssigkeiten wird es amorph, scheidet sich jedoch bei\nlängerem Stehen der weingeistigen Lösung krystallinisch wieder ab. Es schmilzt nach Harms bei\n148°, nach Kromayer bei 160° zu einem farblosen, strahlig-krystallinisch wieder erstarrenden Oele. Der\nGeschmack    ist sehr bitter und kratzend;      es reagirt neutral.      In Wasser,   selbst in kochendem,     löst es\nsich sehr schwierig, leicht in Weingeist und Aether. Durch Gerbstoff und Metallsalze ist es nicht\nfällbar; in höherer Temperatur wird es zerstört. Concentrirte Schwefelsäure löst es mit braungelber\nFarbe. (Husemann, Pflanzenstoffe 1252)."
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 230,
+        "source_line_range": [
+          43,
+          49
+        ],
+        "exact_source_quote": "                                               Tafelbeschreibung:\n           A Theil der blühenden Pflanze, nat. Grösse; 1 Blüthe, vergrössert; 2 Krone zerschnitten und auseinander-\ngebreitet, desgl.; 3 Staubgefässe, desgl.; 4 Pollen, desgl.; 5 Kelch, desgl; 6 Kelch zerschnitten, mit Stempel, desgl.;\n7 Stempel, desgl; 8 unterer Theil des Stempels mit 2 Carpellen im Längsschnitt, desgl.; 9 derselbe im Querschnitt,\ndesgl.; 10 Nüsschen, natürl. Grösse und vergrössert; 11 und 12 einzelnes Nüsschen von verschiedenen Seiten, desgl;        -\n13 und 14 dasselbe im Längsschnitt, desgl; 15 dasselbe im Querschnitt, desgl. Nach einer Originalzeichnung des Herrn\nProf. Schmidt in Berlin.                                                ;"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "44313c59b39b0220f10382da923168491c6e8686fdd92eae21340ab72dc2a64e"
+}

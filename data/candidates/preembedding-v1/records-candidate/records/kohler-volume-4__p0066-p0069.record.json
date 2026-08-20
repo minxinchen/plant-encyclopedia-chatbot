@@ -1,0 +1,203 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-4-p0066-p0069",
+  "entry_id": "kohler-volume-4:p0066-p0069",
+  "owner_shard": null,
+  "book_taxon": {
+    "scientific_name": "Lupinus albus",
+    "authorship": null,
+    "aliases": []
+  },
+  "display_name": "白花羽扇豆",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Lupinus albus"
+    ],
+    "accepted_scientific_name": "Lupinus albus",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-20T23:03:06+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Lupinus+albus",
+        "query_name": "Lupinus albus",
+        "retrieved_at": "2026-08-20T23:03:06+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0074652",
+        "query_name": "Lupinus albus",
+        "retrieved_at": "2026-08-20T23:03:06+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0074652",
+        "query_name": "Lupinus albus",
+        "retrieved_at": "2026-08-20T23:03:06+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL accepts the queried book binomial at species rank."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 66,
+      "evidence_type": "text",
+      "page_text_sha256": "be8fdcec960165d5acf3ec11dc6ab9140c3870bb4b576bc94bcb667492b20923",
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e"
+    },
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 67,
+      "evidence_type": "text",
+      "page_text_sha256": "72587b7582af60126ae26b2b38d3e1f491d40cebeaca75331f1e759091a057d4",
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-4:p0066-p0069:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "           Familie: Leguminosae (Reihe: Rosales.)                          Unterfam.: Papilionatae.                   Tribus: Genisteae.\n    Gattung: Lupinus L.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 66,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 195,
+        "char_end": 355,
+        "source_line_start": 4,
+        "source_line_end": 5,
+        "page_text_sha256": "be8fdcec960165d5acf3ec11dc6ab9140c3870bb4b576bc94bcb667492b20923",
+        "exact_text_sha256": "fcfbc088e9491732b2fd3e04be878cebda8bbf9936899bc6a00a290c1906a513",
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "fcfbc088e9491732b2fd3e04be878cebda8bbf9936899bc6a00a290c1906a513",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-4:p0066-p0069:s01:x00",
+      "section_type": "description",
+      "original_text": "               Beschreibung Lupinus albus ist ein einjahriges Kraut. Aus der Wurzel\n                                  :\n\n\n    etwa einen halben bis ganzen Meter hohe, aufrechte, oben verzweigte Stengel, der mit anliegenden\n    seidigen   Haaren bedeckt ist.          Die ziemlich langgestielten Blatter sind fiinf-                     bis siebenfingerig.        Die\n    Blattchen sind bis 4 cm lang, bis 1 cm breit, langlich-verkehrt-eiformig, kurzgesielt, auf der Oberseite\n    kahl, auf der Unterseite weichhaarig. Der Stengel endet in dem traubigen Bliitenstand; dieser ist ziemlich\n    armbliitig   und tragt die kurzgestielten, ziemlich grofien Bliiten, die keine Deckblatter besitzen, in ab-\n    wechselnder, nicht quirliger Stellung.                 Der dicht seidenhaarige Kelch ist zweilippig.                   Die Oberlippe\n    ist   ungeteilt   und urn ein weniges kurzer als die dreizahnige Unterlippe. Die Blumenblatter sind kahl,\n    weiB, an den Spitzen blau oder blaulich.   Die zehn Staubgefafie sind zu einem Biindel verwachsen;\n    sie   umschliefien den mit pfriemformigem Griffel und kopfformiger Narbe versehenen Fruchtknoten,\n    aus     welchem     bei   der Reife     am Fruchtstand         aufrecht stehende,             bis 6     cm lange,    fast 1    cm breite,\n    linealische, geschnabelte, behaarte Friichte              hervorgehen     ;   die       Samen sind glatt, rundlich, etwas platt,\n    und weifilich von Farbe.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 66,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 357,
+        "char_end": 1810,
+        "source_line_start": 7,
+        "source_line_end": 22,
+        "page_text_sha256": "be8fdcec960165d5acf3ec11dc6ab9140c3870bb4b576bc94bcb667492b20923",
+        "exact_text_sha256": "3de979fe033bc73f2a490804bf5b978969f6d61640dfe5a741b10f9983726339",
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "3de979fe033bc73f2a490804bf5b978969f6d61640dfe5a741b10f9983726339",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-4:p0066-p0069:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "          Anatomie: Von Wichtigkeit sind die anatomischen Verhaltnisse des Sam ens. Die Samen-\nschale   besteht aus Epidermis, Hypoderm und parenchymatischen Schichten.   Die Epidermiszellen,\ndie   von einer warzigen Cuticula uberzogen                         sind,       sind palisadenartig,                stark verdickt und mit zahl-\nreichen Tiipfelkanalen versehen.\n                               Die Zellen des einschichtigen Hypoderms haben die Form hohler\nNahgarnspulen, und lassen daher groBe Interzellularen zwischen\n                                                               sich. Sie sind derbwandig. Das\nParenchym ist mehrschichtig, auBen groBzellig, stark tangential\n                                                                gestreckt, nach innen zu kleinerzellig\nund hier von GefaBbiindeln durchzogen. Endosperm\n                                                       ist nur sparlich vorhanden oder fehlt.     Cha-\nraktenstisch Bind die Zellen der Kotyledonen\n                                               des Keimlings.                                   Sie sind rundlich, haben kleine drei-\noder viereckige Interzellularen, besitzen eine\n                                                                     derbe        Wand mit auffallend groBen Tiipfeln, und                                        ent-\nhalten femkorniges Plasma               und Aleuronkorner, aber keine Starke.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 67,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 6496,
+        "char_end": 7905,
+        "source_line_start": 110,
+        "source_line_end": 125,
+        "page_text_sha256": "72587b7582af60126ae26b2b38d3e1f491d40cebeaca75331f1e759091a057d4",
+        "exact_text_sha256": "3ccefd1e459d5a1a77c8263f93fe3ff53221a89134712f46a941af7e139ce870",
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "3ccefd1e459d5a1a77c8263f93fe3ff53221a89134712f46a941af7e139ce870",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-4:p0066-p0069:s03:x00",
+      "section_type": "constituents",
+      "original_text": "          Bestandteile         Die Samen wie auch das Kraut der Lupinen\n                             :\n                                                                        enthalten Alkaloide.\n          Ill   Lnpinns\n                lJUDlTlllS      albus\n                                fl.lhna wurde\n                                        ™-nr*rU           ~~~U^;i„_v    i\n                                                          rech tsdrehendos               ,       .   .     .    .   _   .         _              .   .\n\n\n                                                                                     und optisch inaktiycs                       (d-       und       i-)    Lupanin\ngefunden.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 67,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 7907,
+        "char_end": 8611,
+        "source_line_start": 127,
+        "source_line_end": 138,
+        "page_text_sha256": "72587b7582af60126ae26b2b38d3e1f491d40cebeaca75331f1e759091a057d4",
+        "exact_text_sha256": "8c76d80b34fe3a491e7aec4df70c5cf8f7d70a036ecb278ec586dff55d6c2614",
+        "section_index": 3,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "8c76d80b34fe3a491e7aec4df70c5cf8f7d70a036ecb278ec586dff55d6c2614",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "f4018ebf15fceb03054b541bbc2cca7b75a8485b87d910d0adb206dacef1024d",
+    "maker_receipt_sha256": null,
+    "validation_check_sha256": "61b3d4b42959a46ad8392fe68ab4a2eccc48fd85adecd351ca576a1c770c8167",
+    "source_disposition_sha256": null,
+    "candidate_source_chain": {
+      "validation_check_sha256": "61b3d4b42959a46ad8392fe68ab4a2eccc48fd85adecd351ca576a1c770c8167",
+      "package_sha256": "34cb84d65b417af51fc6ff76ffa0fc1d2b530857205899bb9567c6b0ac9aee8c",
+      "receipt_sha256": "30754a2b02be55d171ec3886d97a429b4899b498f258583fc3934adaec124cf5",
+      "recovery_kind": "terminal_body_boundary_split",
+      "source_parent_entry_id": "kohler-volume-4:p0066-p0090"
+    },
+    "naming_artifact_sha256": "43720c7a4a2b2ca9f5881374cd075f706657da4cbfe321dda8fd392ba72b81d3"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "7c76fad694162b88b93b15eff2d166f04ec8678c31b4028435e6a744b41c2f0a"
+}

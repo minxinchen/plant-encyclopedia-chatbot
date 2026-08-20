@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-2:p0121-p0124",
+  "owner_shard": "S03",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S03/maker/structure-drafts/kohler-volume-2__p0121-p0124.json",
+  "source_draft_sha256": "d35a04d360617b5ca4b5e1aaf6643e0d15354530ed9263a3b3ddd419275d1788",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "87c6bc82ee6ea876f9e15520b38af6f54db7350a446a1dc7cc84e78b5a2b6a66",
+    "validation_check_sha256": "1db2885d723d86971a36b23abae94eec9ae40fa728efdf62b75c8c2fb9519088",
+    "source_disposition_sha256": "789c41877bcf17e8fe8b6fcd57edf22555d1a696233cc5ccb81b02e56f15f1bb",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Cubeba officinalis",
+    "authorship_candidate": "Miquel",
+    "aliases_candidates": [
+      "Piper Cubeba L. fil",
+      "Cubeba Karst.",
+      "Cubeben",
+      "Cubebenpfeffer",
+      "Cubébes",
+      "Cubebs"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Cubeba officinalis",
+      "Piper cubeba"
+    ],
+    "accepted_scientific_name": "Piper cubeba",
+    "display_name_zh_tw": "簍澄茄",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0075323",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol_book_alias"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary",
+    "rationale": "A scientific alias explicitly printed in the Köhler entry exactly matches a TaiCOL species with a Taiwan public name.",
+    "checked_at": "2026-08-13T15:53:56+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Cubeba officinalis",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Cubeba+officinalis",
+      "retrieved_at": "2026-08-13T15:53:55+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Piper cubeba",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Piper+cubeba",
+      "retrieved_at": "2026-08-13T15:53:56+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Piper cubeba",
+          "taxon_id": "t0075323",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Piper cubeba",
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0075323",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0075323",
+          "taxon": {
+            "taxon_status": "accepted",
+            "simple_name": "Piper cubeba",
+            "name_author": "L.",
+            "rank": "Species",
+            "common_name_c": "簍澄茄",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "The Taiwan accepted name is linked through a scientific alias printed in Köhler; Köhler facts remain attached to the book taxon."
+  ]
+}

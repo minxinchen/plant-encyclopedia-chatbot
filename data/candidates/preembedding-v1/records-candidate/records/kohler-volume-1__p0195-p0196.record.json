@@ -1,0 +1,257 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0195-p0196",
+  "entry_id": "kohler-volume-1:p0195-p0196",
+  "owner_shard": "S02",
+  "book_taxon": {
+    "scientific_name": "Pilocarpus pinnatifolius",
+    "authorship": "Lemaire",
+    "aliases": [
+      "P. pinnatus Martius",
+      "Jaborandi"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Pilocarpus pinnatifolius"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T18:10:31+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Pilocarpus+pinnatifolius",
+        "query_name": "Pilocarpus pinnatifolius",
+        "retrieved_at": "2026-08-13T18:10:29+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0075287",
+        "query_name": "Pilocarpus pinnatifolius",
+        "retrieved_at": "2026-08-13T18:10:29+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0075287",
+        "query_name": "Pilocarpus pinnatifolius",
+        "retrieved_at": "2026-08-13T18:10:29+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 195,
+      "evidence_type": "text",
+      "page_text_sha256": "449d0a994d344accadb89509382ad240eb0b21633e6378acc9ce508d4f6ee38a",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 196,
+      "evidence_type": "text",
+      "page_text_sha256": "fc3a68f15a58d88ba8a64706df293374aa81d9808990d962937f52de693fad6e",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0195-p0196:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "              Pilocarpus pinnatifolius (pennatifolius) Lemaire\n\n                                                               Syn. P. pinnatus Martius.\n\n                                                                            Jaborandi.\n                                                                                                             9\n\n\n\n\n            Familie: Butaceae.                          Gattung: Pilocarpus Valil.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Pilocarpus pinnatifolius Lemaire，同義名 P. pinnatus Martius，俗名 Jaborandi，屬 Butaceae 科。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 195,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 0,
+        "char_end": 438,
+        "page_text_sha256": "449d0a994d344accadb89509382ad240eb0b21633e6378acc9ce508d4f6ee38a",
+        "exact_text_sha256": "b1faa74b813b4aa1da89128320ea353f3d3818869107fc573b0194ad36cbf4fe",
+        "source_line_start": 1,
+        "source_line_end": 11,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "b1faa74b813b4aa1da89128320ea353f3d3818869107fc573b0194ad36cbf4fe",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0195-p0196:s01:x00",
+      "section_type": "description",
+      "original_text": "            Beschreibung.                        Wenig verzweigter,           1   — 3 Meter holier Strauch, mit 8 Mm. dicken, grau-\nbraunlichen,          cliclit   rothgelb-haarigen,                    aufrechten Zweigen.           Rinde         briichig,         leicht    abschalbar;       Holz\ngelblich-weiss.           Blatter abwechselnd, unpaarig gefiedert, mit                              2—5 Paaren einfachen, fast stets gegen-\nxiberstehenden Fiederblattern                      ,   bis    \\ Meter lang; Blattspindel langsfurchig ca. 15 Ctm. lang bis zum\n                                                                                                                            ,\n\n\n\n\nuntersten Blattpaare.                   und mehr Ctm. lang, 4 und mehr Ctm. breit, mit kurzem, an\n                                        Fiederblatter 10\nder Basis etwas geschwollenem Blattstiele, Endblatt langer gestielt und ofters etwas grosser, lanzett-\nlich, oval-langlich, zugespitzt oder stumpf und ausgerandet, manchmal an der Basis ungleichhalftig,\n\nziemlich rasch in den kurzen BJattstiel iibergehend, ganz- und umgebogen randig, derb lederartig,\noberseits    kahl,        oft   unterseits,              namentlich auf den Nerven, kurzhaarig,                            durcli        zablreiche Oelbehalter",
+      "normalized_text": null,
+      "zh_tw_rendering": "高 1-3 米灌木，枝條直立。葉互生，奇數羽狀複葉，小葉 2-5 對，革質，上表面無毛，下表面有短毛及油點。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 195,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 439,
+        "char_end": 1749,
+        "page_text_sha256": "449d0a994d344accadb89509382ad240eb0b21633e6378acc9ce508d4f6ee38a",
+        "exact_text_sha256": "0ca093b50dd6487332bc5907d04fd6ea12da9ab0838eeeb25374653b3bae1f48",
+        "source_line_start": 12,
+        "source_line_end": 27,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "0ca093b50dd6487332bc5907d04fd6ea12da9ab0838eeeb25374653b3bae1f48",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0195-p0196:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "            Anatomisches                    :     Der Blattquerschnitt            zeigt   in der oberen Halfte eine Palissadenschicht,                            in\n\nder    unteren        Schwammparenchym mit                            einzelnen Drlisen von         Calcium oxalat.                 Spaltoffnungen befinden\nsich   nur auf der unteren Blattseite.                            Die Oelbehalter liegen auf beiden Seiten des Blattes dicht unter\nder Epidermis,    am zahlreichten jedoch in der oberen Blatthalfte (Fluckiger).",
+      "normalized_text": null,
+      "zh_tw_rendering": "葉橫切面顯示上層為柵欄組織，下層為海綿組織含草酸鈣腺體。氣孔僅位於葉下表面，油囊位於表皮下。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 195,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 3848,
+        "char_end": 4380,
+        "page_text_sha256": "449d0a994d344accadb89509382ad240eb0b21633e6378acc9ce508d4f6ee38a",
+        "exact_text_sha256": "823118d0cb1a83dfccb482a0c156f55c3f8806afb1489f3b4129b5704fc58526",
+        "source_line_start": 52,
+        "source_line_end": 56,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "823118d0cb1a83dfccb482a0c156f55c3f8806afb1489f3b4129b5704fc58526",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0195-p0196:s03:x00",
+      "section_type": "distribution",
+      "original_text": "            Verbreitung     In den ostlichen Provinzen Brasiliens einschliesslich\n                                    1\n\n                                        .\n                                                                                                                                             eines    Theiles    von\nMatto Grosso.",
+      "normalized_text": null,
+      "zh_tw_rendering": "分佈於巴西東部各省，包括馬托格羅索州（Matto Grosso）的一部分。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 195,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4381,
+        "char_end": 4722,
+        "page_text_sha256": "449d0a994d344accadb89509382ad240eb0b21633e6378acc9ce508d4f6ee38a",
+        "exact_text_sha256": "41d91aa039221c34ef841865fb968a67413c90736189823e2a077da3f8379ac5",
+        "source_line_start": 57,
+        "source_line_end": 62,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "41d91aa039221c34ef841865fb968a67413c90736189823e2a077da3f8379ac5",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0195-p0196:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "            Anwendung.                  Jaborandiblatter, welche bisher gewohnlich\n                                                                      im Aufguss gereicht wurden, der\n aber neuerdings durch das Praparat Pihcarpinum hydrochloriciim verdrangt worden ist, sind\n                                                                                               als das\n hauptsachlichste schweisstreibende Mittel der Gregenwart zu betrachten.   „In medizinalen Dosen raft\n Pilocarpin vorzugsweise Schweiss und Vermehrung der Speichelsecretion hervor; in grosseren\n                                                                                                Dosen\n wirkt es toxisch und letal.    Das Herz und die Vagusendigungen werden durch Pilocarpin in einen\n Erregungszustand versetzt.   Jaborandi und das darin enthaltene Alkaloid veranlasst die ausserordent-\n lich starke Hidrose nicht bios durch Wirkung auf die Driisen, sondern auf\n                                                                                 bestimmte Theile des\n Nervensystems und zwar nicht nur auf das im verlangerten Mark belegene Schweisscentrum,\n                        ,\n                                                                                              sondern\n auch auf die peripherischen Endigungen der Schweissnervenfasern.      Die vermehrende Wirkung auf\n die Speichelsecretion resultirt ebenfalls aus einer Erregung peripherischer\n                                                                             Secretionsnerven.\"                                                                     Pilocarpin",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史上用作強效發汗劑，刺激唾液分泌。歷史文獻記載其對心臟及迷走神經有興奮作用，曾用於治療風濕及梅毒。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 196,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 5064,
+        "char_end": 6684,
+        "page_text_sha256": "fc3a68f15a58d88ba8a64706df293374aa81d9808990d962937f52de693fad6e",
+        "exact_text_sha256": "17975591c44e4c071f776838d995326199db3f8295721c2f932b5a12f7eec3ab",
+        "source_line_start": 61,
+        "source_line_end": 77,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "17975591c44e4c071f776838d995326199db3f8295721c2f932b5a12f7eec3ab",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0195-p0196:s05:x00",
+      "section_type": "constituents",
+      "original_text": "              Bestandtheile.                 Die wesentlichsten Bestandtheile von Jaborandi sind: das von Hardy zuerst\n dargestellte  nnd beschriebene atherische Oel: Oleum Jaborandi nnd 2 Alkaloide, namlich. das fast\n gleichzeitig von Hardy und Gerrard entdeckte Pilocarpin nnd das von Harnack nnd Meyer auf-\n gefundene Jaborin.",
+      "normalized_text": null,
+      "zh_tw_rendering": "主要成分包括揮發油（Oleum Jaborandi）及兩種生物鹼：Pilocarpin 與 Jaborin。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 196,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 2803,
+        "char_end": 3132,
+        "page_text_sha256": "fc3a68f15a58d88ba8a64706df293374aa81d9808990d962937f52de693fad6e",
+        "exact_text_sha256": "1f42f536942a0bcfcb73ea395efeb1cfb09dcb14e21fa5a70b4e705c3e97a207",
+        "source_line_start": 41,
+        "source_line_end": 44,
+        "section_index": 5,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "1f42f536942a0bcfcb73ea395efeb1cfb09dcb14e21fa5a70b4e705c3e97a207",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "38ef6eba78032ede61ea75c2ea7482918c11e59bb006db4df8a14e6f77198fc9",
+    "maker_receipt_sha256": "32f0dac77a9e1463d34a28efceaab842bc48a7f0c3f2cee8823cfba10d4f94d2",
+    "validation_check_sha256": "12ecf39e3cbf0a7a67d00681967e5d391906db8552894296a4ba70175188571b",
+    "source_disposition_sha256": "3f042d42edeeb40f15359bb19a9e2843455484f2bcb8d4ba152cf46c5688dfb8",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "32f0dac77a9e1463d34a28efceaab842bc48a7f0c3f2cee8823cfba10d4f94d2",
+      "validation_check_sha256": "12ecf39e3cbf0a7a67d00681967e5d391906db8552894296a4ba70175188571b",
+      "source_disposition_sha256": "3f042d42edeeb40f15359bb19a9e2843455484f2bcb8d4ba152cf46c5688dfb8"
+    },
+    "naming_artifact_sha256": "995ba10cf260157559f29862d60d43a1913e2093fab3096e13d4e9aece1ad9ef"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "9a02cd6ca54b3f1cf0f9fc08f55c8af64f5ccaef4b1d9898c8681a4588500caf"
+}

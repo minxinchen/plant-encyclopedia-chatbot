@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0143-p0146",
+  "owner_shard": "S02",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 171.767,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0143-p0146",
+    "book_taxon": {
+      "scientific_name_candidate": "Juniperus communis L.",
+      "authorship_candidate": null,
+      "aliases_candidates": [
+        "Gemeiner Wachholder",
+        "Genevrier commun",
+        "Juniper"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "description",
+        "pdf_page": 143,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "常綠灌木或小樹，高10-15米，樹皮灰或紅褐色，老時縱裂。枝條三稜形，葉三輪生，針狀，硬且尖，上表面淺溝，下表面鈍脊。",
+        "warnings": [],
+        "source_line_range": [
+          11,
+          21
+        ],
+        "exact_source_quote": "                Beschreibung.                        Immergniner, gewohnlich mannshoher Strauch oder auch 10                                       — 15 Meter\n    holier Baum, mit in der Regel bis zur Erde herabgehender Krone, aufsteigenden, anliegenden, zerstreut\n\n    oder unvollkommen quirlig stehenden Aesten und abstelienden Zweigen.                                                Rinde grau oder rothlich-\n    braun, anfangs glatt, im alteren Zustande langsrissig, in Scliuppen und Bandern sich ablosend.                                                    Jiingere\n    Zweige mehr oder weniger deutlich 3kantig.                               Blatter in 3zahligen, fast in Halbkreis gestellten Wirteln\n\n    mit geringem Abstande, sitzend,                        steif,   pfriemlich zulaufend, mit scharfer Stachelspitze                   ,    starr,    oberseits\n\n    flachrinnig, hellgriin, mit breitem, blaulich weissen Mittelsteifen                             ,   unterseits stumpfkielig, der Kiel mit\n                                                                                                         -"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 144,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "果實外層由厚壁細胞組成，含深色顆粒；內層為肉質薄壁組織，含油囊。種子具油囊，內含揮發油，後硬化為樹脂。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          14
+        ],
+        "exact_source_quote": "                Anatomisches :          Die von einer starken           ,   farblosen Cuticula bedeckte Aussenschicht des Fruchtgehauses ist\n\naus   2—3 Reihen dickwandiger, fast wurfelformiger Zellen zusammengesetzt, welche mit einem dunkelbraunen, kornigen\nInhalte     angefullt     sind.     Die       darauf folgende Hauptmasse des Fruchtgehauses besteht aus einem fleischigen,                                   zart-\n\nwandigen, zur Reifezeit schlaffen, von Gefassbiindeln und Oelbehaltern durchzogenen Parenchym, dessen Zellen zuerst\nChlorophyll und Starke, im reifen Zustande eine grimlich-braune Masse nebst Gerbstoff enthalten.                                                Die Oelbehalter\n\numschliessen vorerst atherisches Oel, welches sich jedoch spater zu einer krystallinischen Masse verhartet.                                          Die Samen\n\ntragen    auf der oberen freien,                   dem Fruchtfleische zugewendeten Ruckseite 4—8, an der Basis der Bauchseite 1                              —   2,\n\n1    Mm. dicke, 2 Mm. lange blasig aufgetriebene, elliptische Balsamdriisen oder Schlauche, die ursprunglich mit athe-\nrischem Oele angefullt sind, welches sich jedoch bald verdickt und zu einer amorphen, glashellen Harzmasse erhartet."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 144,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分佈於歐洲、中亞、北亞、北非及北美之荒原與疏林，海拔可達4000米，避熱帶與亞熱帶。",
+        "warnings": [],
+        "source_line_range": [
+          25,
+          30
+        ],
+        "exact_source_quote": "                Verbreitung.              Auf Haiden und                    in    lichten             Nadelwaldungen durch ganz Europa, Mittel-\nund Nordasien und Nordamerika,                             also mit Ausschluss der tropischen                          und subtropischen Region en fast\niiber    die      ganze Erde verbreitet.                    In    den mittel- und siiddeutscken Gebirgen bis in die subalpinen\nRegionen aufsteigend;               in    den bairischen Alpen bis 1500 Meter, in den sttdlichen Alpen und nordlichen\nApenninen bis fiber 1600 Meter, in den Pyrenaen zwischen 970                                                      — 1650 Meter, in der Sierra Nevada\nzwischen         2100—2600 Meter, im westlichen Himalaya bis fiber 4000 Meter emporgehend."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 144,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源於日耳曼語，意為「活樹」。古希臘少用，中世紀阿拉伯醫學已知濃縮果汁。十六世紀始有圖譜。",
+        "warnings": [],
+        "source_line_range": [
+          34,
+          54
+        ],
+        "exact_source_quote": "                Name und Geschichtliches.                              Der Name Wachholder (althochdeutsch: wecholder, week-\nolter,   wechalter, ioachilder, ivechilter, ivechelder, ivechalder, ivehalter-poam, chr anaivita , cliranawite,\n\nchranpoam, cranivide, kreozpaam, recolter, reckpaam, mittelhochdeutsch: tvachalter, ivacholter, ivalrh-\ndorn, Qaeckholter               etc..    bei       Hildegard: Wachholderboum                              ,   ivachelterboam,   bei   Cordus: Rechholder,\nin   Hort. san: Weckholder,                         bei   Bock: Weckholterbaam                        ,   bei   Brunschwig: Weckholter etc.)           ist   zu-\n                                                                                         *\n\n\n\n\nsammengesetzt aus wach,                       iv acker,    munter, lebhaft, immer lebendig, mit Bezugnahme auf die immer-\ngrfine Beschaffenheit              des        Strauches,         und   ter,       der        = Baum.             Eine gleiche Bedeutung hat auch das\nVorwort queck,            quick, angelsachsisch cvic                   = lebendig und ebenso auch die Zusammensetzung mit Reck,\nRack, altnordisch rakk-r, munter, tapfer.                              Kranivit ist zusammengesetzt aus kran und wit                               (ivid),   alt-\n\nhochdeutsch            ivita,    Holz.             Beziiglich    kran       ist   Grassmann                     der Meinung,    dass   dieses   Wort durch\nUmwandlung aus dem altdeutschen groni, croni (altnordische Wurzel gro-a, grfin) gebildet worden ist.\nJaniperus wird vom keltischen jeneprus (rauh, stachelig) abgeleitet, andere suchen es, wegen des immer\njugendlichen Aussehens, durch fortwahrendes Hervorbringen neuer Zweige und Blatter smfjavenis (jung)\nund par ere (gebaren, hervorbringen)                            zurtickzuffihren."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 145,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "果實含揮發油、樹脂、糖、蛋白質及纖維。未熟果含澱粉，成熟後消失。揮發油成分因成熟度而異。",
+        "warnings": [],
+        "source_line_range": [
+          33,
+          42
+        ],
+        "exact_source_quote": "            Bestandtheile.                    Die      Untersuchungen                   der   Friichte              besitzen        wenig         Uebereinstimmung.\nDonath        erhielt           0,91°/    atherisches          Oel,     0,37°/           Juniperin,                l,86°/     Ameisensaure,           0,94°/     Essig-\nsaure,     0,21°/        Apfelsaure,          Spuren von Oxalsaure,                      0,64 °/       wachsahnliches Fett, 8,46% grimes Harz,\n1,29 °/    braunes hartes Harz,                 0,73% Pektin, 4,25% Protemstoff, 29,65% Zucker.                                                   Ritthausen fand\n10,77% Wasser, 3,77% Asche, 14,36% Traubenzucker,                                                      12,24%            Fett,     Harz und         atherisches    Oel,\n\n5,41% Proteinsubstanz, 31,60% Rohfaser.                               Nach Trommsdorf enthalten die reifen Beeren 1%                                              athe-\n\nrisches Oel,           4% Wachs, 10% Harz, 33% Zucker, 7% Gummi, 35% Faser.                                                                  Aschoff fand freie\nAmeisensaure und in den unreifen Beeren                               viel    Starkemehl, welches jedoch bei der Reife verschwindet."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 145,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史用途：果實與油作利尿、發汗及神經藥，用於水腫、膀胱病、風濕及癱瘓。內服或外用。",
+        "warnings": [
+          "Content describes historical medical usage; not modern medical advice."
+        ],
+        "source_line_range": [
+          78,
+          85
+        ],
+        "exact_source_quote": "            Anwen&ung.                   Die Wirksamkeit der Wachholderbeeren                                        ist     ausschliesslich in       dem in ihnen\nenthaltenen atherischen Oele zu suchen.                           Das Wachholderbeerol wird innerlich (meist als Theespezies\noder in spirituoser Losung) und ausserlich angewendet; es dient als Diaphoreticum, Diuretieum, Nervinum,\n\nbei Bauchwassersucht, Blasen- und Harnleiden,                                Lahmungen, gichtischen und rheumatischen Beschwerden.\n„Man verordnet die Wachholderbeeren als Diuretieum zu 10,0—15,0 pro Tag meist als Theespezies, selten\nim Aufguss.             Das Oleum Juniperi kann innerlich zu 2                                — 4 Tropfen mehreremals taglich in Oelzucker\noder spirituoser Losung, ausserlich mit Fett oder in Spiritus gelost, benutzt werden.                                                              Nach Nunneley"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "205d771634dfe2e1b0f9fba638dd5637011f6166218ac89ed1ccc92965b13b9b"
+}

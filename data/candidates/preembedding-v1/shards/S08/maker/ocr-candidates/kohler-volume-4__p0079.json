@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-4",
+  "volume": 4,
+  "pdf_page": 79,
+  "owner_shard": "S08",
+  "source_pdf": "/Volumes/NO NAME/第四集 mobot31753003431696.pdf",
+  "source_text_sha256": "8f087fd3ba3d907fb51cd7ec8a2db93f51abcda0afde91579ad658d2fc7b2cbd",
+  "render_dpi": 144,
+  "render_sha256": "85bc491de17cec2226f7a01574c775fcdf4d4743b1fe198e01923472f3a1425a",
+  "input_sha256": "85bc491de17cec2226f7a01574c775fcdf4d4743b1fe198e01923472f3a1425a",
+  "render_pixel_width": 6024,
+  "render_pixel_height": 8658,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 6.307,
+  "embedded_character_count": 74,
+  "ocr_character_count": 70,
+  "ocr_alpha_ratio": 0.7143,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01744185932098874,
+      "text": "Tafel 11",
+      "width": 0.06471816353175949,
+      "x": 0.05427974953631231,
+      "y": 0.9593023262443021
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185932098874,
+      "text": "Filices",
+      "width": 0.06263047732885452,
+      "x": 0.8726513578908964,
+      "y": 0.9404069772435754
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017235192041548553,
+      "text": "Cyatheaceae",
+      "width": 0.09229003949753323,
+      "x": 0.841120117040821,
+      "y": 0.9237951944621704
+    },
+    {
+      "confidence": 1,
+      "height": 0.008790143898555258,
+      "text": "1 a",
+      "width": 0.020876826682604044,
+      "x": 0.5198329851277307,
+      "y": 0.8720238094491338
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185932098874,
+      "text": "Ev. C",
+      "width": 0.05219206806598862,
+      "x": 0.03757828712716078,
+      "y": 0.095930233254788
+    },
+    {
+      "confidence": 1,
+      "height": 0.021917681845407655,
+      "text": "Cibotium Barometz (L| J. Smith.",
+      "width": 0.25260959008040806,
+      "x": 0.34237996668064297,
+      "y": 0.0158730157011866
+    }
+  ],
+  "text": "Tafel 11\nFilices\nCyatheaceae\n1 a\nEv. C\nCibotium Barometz (L| J. Smith.",
+  "output_sha256": "fdb3d842b5985490bf5c2ff6834fe183b9133741e133388f94f9e388869f1eba",
+  "receipt_sha256": "e53e166373d1ec980f030f7809f42f908d51a5533fe3a5def68400b53a252979"
+}

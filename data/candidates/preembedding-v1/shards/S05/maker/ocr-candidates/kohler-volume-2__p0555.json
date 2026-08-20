@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 555,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "render_dpi": 144,
+  "render_sha256": "4248498836ecef4fb719639f2736cc8cc0d41bb7549ed76f68016c4e396d26af",
+  "input_sha256": "4248498836ecef4fb719639f2736cc8cc0d41bb7549ed76f68016c4e396d26af",
+  "render_pixel_width": 5498,
+  "render_pixel_height": 7898,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 1.995,
+  "embedded_character_count": 0,
+  "ocr_character_count": 27,
+  "ocr_alpha_ratio": 0.8148,
+  "candidate_disposition": "candidate_quality_gain",
+  "staging_disposition": "candidate_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.020049452781677246,
+      "text": "Rubiaceae.",
+      "width": 0.11728388903147813,
+      "x": 0.8411492857561778,
+      "y": 0.928202017762591
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "5",
+      "width": 0.010438413022250459,
+      "x": 0.9123173278573506,
+      "y": 0.2645348841159738
+    },
+    {
+      "confidence": 1,
+      "height": 0.017756369378831627,
+      "text": "Coffea",
+      "width": 0.08364171519917979,
+      "x": 0.3903294565963544,
+      "y": 0.09867995488573911
+    },
+    {
+      "confidence": 1,
+      "height": 0.018967935017176973,
+      "text": "arabica",
+      "width": 0.0986577004109353,
+      "x": 0.4882494366720433,
+      "y": 0.09807417189818046
+    }
+  ],
+  "text": "Rubiaceae.\n5\nCoffea\narabica",
+  "output_sha256": "7736623ffe091e9fc6fff8ff19e6d7c9c56025adc45fe157d2d457877ec78491",
+  "receipt_sha256": "8ee5c6bf30b4e975ab1d59e2cb3933e2fc4149b718505a9632c29344c6e55d5a"
+}

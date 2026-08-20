@@ -1,0 +1,72 @@
+{
+  "id": "PEFullbookRelease001",
+  "name": "Plant Encyclopedia - Full-book Release Gate",
+  "nodes": [
+    {
+      "parameters": {},
+      "id": "manual-trigger",
+      "name": "Manual full-book release trigger",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [0, 0]
+    },
+    {
+      "parameters": {
+        "command": "set -eu; : \"${PLANT_ENCYCLOPEDIA_LAB:?missing PLANT_ENCYCLOPEDIA_LAB}\"; python3 \"$PLANT_ENCYCLOPEDIA_LAB/scripts/validate-fullbook-release.py\" --write"
+      },
+      "id": "validate-fullbook-release",
+      "name": "Validate promoted full-book release",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [300, 0]
+    },
+    {
+      "parameters": {
+        "command": "set -eu; : \"${AI_WORKSTATION_ROOT:?missing AI_WORKSTATION_ROOT}\"; \"$AI_WORKSTATION_ROOT/service\" plant-chat on"
+      },
+      "id": "start-chat-api",
+      "name": "Start loopback full-book chat API",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [620, 0]
+    },
+    {
+      "parameters": {
+        "command": "set -eu; : \"${PLANT_ENCYCLOPEDIA_LAB:?missing PLANT_ENCYCLOPEDIA_LAB}\"; python3 \"$PLANT_ENCYCLOPEDIA_LAB/scripts/smoke-fullbook-chat-api.py\" --require-fullbook"
+      },
+      "id": "smoke-chat-api",
+      "name": "Smoke test policy-first API",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [940, 0]
+    },
+    {
+      "parameters": {
+        "content": "## Full-book release gate\nManual and inactive by design. It only passes after all 265 inventory entries are terminal, Taiwan naming and source-exact records/chunks are complete, Chandra qualification passes, the bounded Gemini embedding and bilingual chat acceptance pass, the main SQLite index is atomically promoted with rollback, and the nine-file Google Gem pack validates. It never embeds or regenerates book content. The final smoke test is a non-Köhler-drug refusal and makes zero model calls.",
+        "height": 360,
+        "width": 900
+      },
+      "id": "release-contract",
+      "name": "Full-book release contract",
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [0, -440]
+    }
+  ],
+  "connections": {
+    "Manual full-book release trigger": {
+      "main": [[{"node": "Validate promoted full-book release", "type": "main", "index": 0}]]
+    },
+    "Validate promoted full-book release": {
+      "main": [[{"node": "Start loopback full-book chat API", "type": "main", "index": 0}]]
+    },
+    "Start loopback full-book chat API": {
+      "main": [[{"node": "Smoke test policy-first API", "type": "main", "index": 0}]]
+    }
+  },
+  "settings": {"executionOrder": "v1"},
+  "active": false,
+  "versionId": "f1ac8ea4-4c66-42ee-b8ab-d29eb16d8898",
+  "meta": {"templateCredsSetupCompleted": false},
+  "tags": []
+}

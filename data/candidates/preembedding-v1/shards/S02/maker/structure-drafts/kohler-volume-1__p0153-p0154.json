@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0153-p0154",
+  "owner_shard": "S02",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 126.336,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0153-p0154",
+    "book_taxon": {
+      "scientific_name_candidate": "Populus nigra",
+      "authorship_candidate": "L.",
+      "aliases_candidates": [
+        "Populus italica Moench.",
+        "P. pymmidalis Roz.",
+        "P. dilatata Ait.",
+        "P. fastigiata Moench."
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 153,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "黑楊（Schwarzpappel），同義名包括意大利楊、金字塔楊。隸屬於楊柳科（Salicaceae）楊屬。",
+        "warnings": [],
+        "source_line_range": [
+          11,
+          23
+        ],
+        "exact_source_quote": "                                                Populus nigra L.\n\n               Schwarzpappel           ,   Bellen,   Alberbaum                black poplar        peuplier\n\n\n\n                                           Populus italica Moench.\n              Syn. P. pymmidalis Roz.                            P. dilatata Ait.   P. fastigiata Moench.\n\n\n                  Italienische Pappel,             Lombardische Pappel, Pyramidenpappel.\n\n         Familie: Salicaceae.              Grattung: Populus."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 153,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "樹高18-24米，枝條開展，樹冠寬。樹皮粗糙灰黑。葉互生，三角狀，長於寬，兩面無毛，邊緣細鋸齒狀。",
+        "warnings": [],
+        "source_line_range": [
+          25,
+          37
+        ],
+        "exact_source_quote": "         Beschreibung.       A. Populus nigra L.: 18—24 Meter holier Banm mit ausgebreiteten Aesten,\nbreiter Krone und holzigen, znm Theil tief eindringenden          zum Theil flacli verlaufenden Wurzeln.\n                                                                               ,\n\n\n\nDer Stamm mit borkig verdickter, schmutziggrauer, grobrissiger Rinde. Aeste horizontal abstehend,\nmit glatter, aschgrauer* an den Zweigen gelblicher Rinde.        Die unter der.Knospe befindlichen Blatt-\nstielnarben halbmondformig oder dreieckig, mehr oder weniger 31appig, mit 3 Gefassbundelspuren.\nKnospen abwechselnd gestellt, langlich- eiformig, spitz, dachziegelig-schuppig, kahl, klebrig; die End-\nknospe   nnr  Blatter, die Seitenknospen  Bliithen und  Blatter entwickelnd.   Blatter abwechselnd,^ lang-\ngestielt, dreieckig, in der Kegel langer als breit, zugespitzt, beiderseits kahl, glatt und mattglanzend,\nhellgnin, oberseits etwas dunkler, fein bogenformig gesagt mit gestutztem oder keilformigem Blattgrund."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 153,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分佈於歐洲、北亞及北美，原產南歐。金字塔楊遍佈歐洲及東方，常作行道樹。據洪堡特，意大利楊源自美洲。",
+        "warnings": [],
+        "source_line_range": [
+          79,
+          86
+        ],
+        "exact_source_quote": "          Verbreitung. S ch w zp   ar   ap p el      Waldern                           der  Nahe   menschlicher\nAnsiedelungen durch Europa,     Nord-\" und\"  Mittelasien  und Nordamerika.    Die  eigentlicbe Heimath    scheint\n\ndas siidliche Europa zu sein.       Pyramidenpappel:        Durch  ganz  Europa    und   den  Orient  verbreitet,\n\nvorziiglich als Chausseebaum    benutzt.    Nach   Humboldt     stammt  die  italienische  Pappel  aus  Amenka\nvon wo    aus sie nach Italien,   namentlich   Mailand   gebracht worden  ist.   Yon   letzterer  Stadt  aus  hat\nallerdings die Verbreitung in          Europa stattgefunden."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 154,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "古時楊樹芽具藥用價值。傳說其乾樹脂被誤認為琥珀，源於赫利阿得斯姐妹悲悼法厄同而化為黑楊的神話。",
+        "warnings": [],
+        "source_line_range": [
+          6,
+          13
+        ],
+        "exact_source_quote": "                                                                  benutzt worden;  ebenso   die Pappel-\n         Die Pappelknospen sind schon in alten Zeiten arzneilich\n      (-Aymwig oder ^dev%r>). -Ayeigog                                                        Man  hielt\n\n                                                         worin       Sage begriindet ist, nach  welcher\ndas eingetrocknete Harz der Pappelknospen fur Bernstein,         die\ndie ihren von Zens in den Eridianus gestiirzten Bruder Phaeton      beweinenden  Heliaden      Schwarz-                       m\npappeln nnd ihre Thranen in Elektron verwandelt worden sind."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 154,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "樹芽含揮發油、苦樹脂、蠟、樹膠、鞣質、蘋果酸及鹽類。另含結晶苦味質：水楊苷（Salicin）與楊樹苷（Populin）。",
+        "warnings": [],
+        "source_line_range": [
+          38,
+          41
+        ],
+        "exact_source_quote": "         Bestandtheile. Die Knospen enthalten nach Pellerin: atherisches Oel, ein gelblich-griines,\nbitteres Harz, Wachs, Gnmmi, eisengriinenden Gerbstoff, Apfelsaure, Salze. Piccard fand ausserdem\nnoch 2 krystallinische Bitterstoffe: Salicin nnd Populin nnd 2 krystallinische gelbe Farbstoffe:\nClirysin nnd Tectochrysin."
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 154,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "圖版說明：A雄花枝，B雌花枝，C黑楊葉，D芽枝，E意大利楊葉。1-2雄花，3-5雄蕊與花粉，6-9雌花與子房，10-13果實與種子。",
+        "warnings": [],
+        "source_line_range": [
+          104,
+          115
+        ],
+        "exact_source_quote": "                                                        Tafelbesehreibung\n            A mannlicher, B weiblicher Bliithenzweig, naturl. Grosse; C Blatt von Pop. nigra, desgl.; D Zweig mit\nKnospen, desgl.;    E Blatt von Pop. italica,         desgl.;   1       u. 2     mannliche Bliithe, vergrossert;   3 Staubgefasse\n                                                                                                                 von ver-\nschiedenen Seiten, desgl.; 4 Beutel im Querschnitt, desgl.; 5 Pollen, desgl.; 6 weibliche Bliithe mit Deckschuppe, desgl.-\n7 dieselbe ohne Deckschuppe, desgl.; 8 Fruchtknoten im Langsschnitt            desgl.; 9 derselbe im Querschnitt, desgl.;\n                                                                                               ,\n\n\n\n\n10 u. 11 Frucht, desgl.; 12 dieselbe geoffnet, desgl.; 13 Same, desgl.      Nach der Natur von W. Muller"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "719d0ca25f38e9d0a50f260d76c64cc7e4c2ccb11a8052ebf1150c5638c33062"
+}

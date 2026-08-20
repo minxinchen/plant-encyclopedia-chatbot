@@ -1,0 +1,155 @@
+{
+  "schema_version": "2.0",
+  "package_id": "kohler-volume-2:p0231-p0246:child-04:continuation-01",
+  "parent_entry_id": "kohler-volume-2:p0231-p0246",
+  "child_entry_id": "kohler-volume-2:p0231-p0246:child-04",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation-v2:kohler-volume-2:p0231-p0246:child-04:continuation-01:v1",
+  "owner_shard": "S03",
+  "package_sha256": "3400c30860dc8071e261bb5d2fdefa93ab0f57e229d008c462467852b1eb169e",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "prompt_version": "plant-structure-line-coordinates-v2",
+  "attempt_sha256": "197c268b227b8765349950b872bd0db52ca33b5bffbaba8d2041302b4fbc4b55",
+  "raw_response_sha256": "3647fc32601c22547933fba31203802b211c8618310f0d7982598058d758eead",
+  "elapsed_seconds": 24.06,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 241,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 351,
+      "char_end": 4072,
+      "source_line_start": 7,
+      "source_line_end": 41,
+      "page_text_sha256": "e05ada50b4e31c3689923dd5ed5c322224950e7b521c8ee32884a4b1c6e5cd7e",
+      "exact_text_sha256": "9aea65b84e106d5b3c4155c6d859e33ccf4d63b084cf230bf96f54434854aa6c",
+      "section_index": 0,
+      "section_type": "description"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 242,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 555,
+      "char_end": 3894,
+      "source_line_start": 8,
+      "source_line_end": 40,
+      "page_text_sha256": "f1e040b2d5e8aec4c9fcc6993cd1ab500428829a0dd5ccf1b6c3db4fbc424216",
+      "exact_text_sha256": "0dc2bcc6c882a2bb529ba4864762350b1f7d95e449bfd126ba4eeab6dab07c17",
+      "section_index": 1,
+      "section_type": "anatomy"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 242,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 3929,
+      "char_end": 4691,
+      "source_line_start": 44,
+      "source_line_end": 50,
+      "page_text_sha256": "f1e040b2d5e8aec4c9fcc6993cd1ab500428829a0dd5ccf1b6c3db4fbc424216",
+      "exact_text_sha256": "8cd90c5e304baa67acad7d9f3d044d186c0440911c8c5cc0cacdb85e82b3f915",
+      "section_index": 2,
+      "section_type": "distribution"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 243,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 237,
+      "char_end": 3476,
+      "source_line_start": 5,
+      "source_line_end": 38,
+      "page_text_sha256": "3503e13e3ced4c6cdee18a0e1f9f165108c3fb9967fb3c02847a42d1f89b559c",
+      "exact_text_sha256": "3fff1632eb3bec05768a3ddd016e0dcbed7a3e74e30b85a4dfc4b39ee7dd25de",
+      "section_index": 3,
+      "section_type": "history"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 245,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 368,
+      "char_end": 4422,
+      "source_line_start": 5,
+      "source_line_end": 41,
+      "page_text_sha256": "3209f1794bf1e26ed1915a0e02f8734a19ab5ff5c1d2cda663aea0e7615d6966",
+      "exact_text_sha256": "26722a4df3ce1d469c7818d9c4db633521a4dbbc357db58231f8c13657b0c3cc",
+      "section_index": 4,
+      "section_type": "constituents"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-2:p0231-p0246:child-04:continuation-01",
+    "parent_entry_id": "kohler-volume-2:p0231-p0246",
+    "book_taxon": {
+      "scientific_name_candidate": "Myristica fragrans"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "description",
+        "pdf_page": 241,
+        "source_line_range": [
+          7,
+          41
+        ],
+        "exact_source_quote": "          Beschreibung. Immergrüner, eingeschlechtiger, bis 15 Meter (nach Luerssen 20 Meter) hoher\n Baum mit grünlich-aschgrauer oder schmutzig olivengrüner, innen rother Rinde, viel- und quirl- weit-\n ästiger, pyramidaler Krone und wechselnden Aestchen. Blätter immergrün, abwechseln fa  d,st zweizeilig,\n kurz gestielt, lederig, eiförmig-elliptisch, beiderseits (am Grunde etwas weniger) zugespitzt, wellen-\n förmig, ganzrandig,      4 bis 8 Ctm. lang, lí, bis 4 Ctm. breit, anfangs schwach                seidenhaarig,    spüter kahl,\n  drüsig punktirt, aderig gerippt, mit jederseits 8—9 stärker hervortretenden, gegen den Rand bogig\n verlaufenden Seitennerven, oberseits dunkelgrün, unterseits blasser.     Blattstiel 4 bis 10 Mm. lang.\n Blüthen 2háusig, von kleinen eiförmigen Deckblättchen gestützt, kurz oberhalb des Blattwinkels ent-\n springend, fast hängend; die männlichen Blüthen in wenig- (5 oder 6)blüthigen, einfachen oder\n  2theiligen, überhängenden, gestielten Trauben oder Trugdolden; die weiblichen Blüthen einzeln,\n sehr selten 3 blüthig, gestielt. Die Blüthenstielchen beider Blüthen unterhalb der Blüthe mit einem\n breit-eifórmigen, am Grunde schwach 2kieligen, hinfälligen Nebenblatte versehen. Das gelblichweisse\n Perigon fleischig, eifórmig-glockig, 6 bis 8 Mm. lang, aussen kurz seidenhaarig, bis zur Mitte 3 spaltig\n und 3lappig; Lappen kurz, eifórmig, spitz, aufrecht. Staubgefüsse 9 bis 12, unter sich und mit der\n perigonlangen, mittelständigen, keulenfórmigen Säule verwachsen und letztere grósstentheils bedeckend;\n Staubbeutel linienfórmig, bis zur Spitze der Säule reichend oder wenig kürzer, 2fácherig; Fücher der\n Länge nach nach aussen aufspringend. Pollen kugelig. Der oberstándige Stempel umgekehrt eifórmig,\n fast perigonlang, mit einer Naht ausgestattet, mit 1facherigem Fruchtknoten, sehr kurzem Griffel und\n fast sitzender, schwach 2lappiger. Narbe. Eichen 1, fast grundständig, sitzend, die Höhlung ziemlich\n ausfüllend. Frucht hängend, fleischig, eiförmig-kugelig, 4 bis 5 Ctm. lang, kurz behaart, ockerfarbig,\n mit einer Naht versehen, durch einen senkrecht ringsherum laufenden Riss 2klappig (selten 4 klappig)\n aufspringend.    Samen nussartig, länglich rund, 31/, Ctm. lang, 21/, Ctm. dick, von dem im frischen\n Zustande fleischigen, aromatischen,      blutrothen,    am Grunde ganzen,        mit der Samenschale und dem Nabel-\n streifen verwachsenen,      nach oben vielspaltig zerschlitzten Samenmantel (Arillus, Macis                      des Handels)\n eingehüllt.   Samenschale     knochenhart,      glänzend   dunkelbraun,      feinwarzig,   mit Eindrücken,        welche   den\n  Streifen des Arillus entsprechen, die eine Hälfte in der Regel etwas abgeflacht, von dem breiten, sich\n nach oben verschmälernden Nabelstreifen durchzogen, dessen Ursprungsstelle, der Nabel, mehr auf die\n gewölbte Schalenfläche gerückt ist und welcher unterhalb der Spitze durch die Schale zu der inneren\n Samenhaut eindringt, sich hier zum Hagelfleck ausdehnend. Der Kern (Muskatnuss des Handels) trennt\n‚sich beim Austrocknen von der Schale und besitzt bei etwas geringerer Grösse (3 zu 2 Ctm.) die Ge-\n stalt der Samenschale; die Farbe ist brüunlich-grau, an dem vertieften Hagelfleck dunkler, am Nabel\n heller, die Oberfläche ist in Folge der Faltung und Einschrumpfung der dünnen Samenhaut sehr un-\nregelmässig    netzig-runzelig,      auf der flachen Seite mit      deutlichem     Nabelstreifen,     welcher     sich zu dem\nhäufig von Insekten       zerfressenen   Nabel    herunterzieht._   Das    grauweisse (im alten Zustande           bräunliche),\nwachsartige    und     schneidbare    Endosperm     ist durch   die braune,      unregelmässig      und strahlenfórmig      bis:"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 242,
+        "source_line_range": [
+          8,
+          40
+        ],
+        "exact_source_quote": "            Anatomisches. Der Samenmantel (Arillus), welcher nach Baillon zuerst als eine Ver-\n  dickung der äusseren Eihülle rechts und links am Grunde der Samenknospe auftritt, sich horizontal\n  um den Nabel herum fortentwickelt und allmählich erhebt, besteht aus einem von Gefässbündeln durch-\n  zogenen, mit zahlreichen Oelzellen ausgestatteten Parenchym, welches beiderseits von einer farblosen,\n  mit Cuticula versehenen Epidermis bedeckt ist. Die polyedrischen Parenchymzellen besitzen einen\n  körnigen, mit Oel gemengten, harzartigen Inhalt, welcher durch Jod dunkelrothbraun gefärbt wird.\n  Die ovalen oder rundlichen Oelzellen, welche die Parenchymzellen an Grösse übertreffen, sind mit\n  citronengelbem, ätherischem Oele angefiillt. Die aus Spiralgefässen und Treppengángen zusammen-\n  gesetzten, von dünnwandigen Parenchymzellen umgebenen. Gefässbündel sind der inneren Seite des\n  Mantels sehr genáhert.\n            Die äussere knöcherne Samenschale (testa) ist aus 9 Schichten zusammengesetzt, von denen\n  die äusserste Schicht aus einem von Gefässbündeln durchzogenen, kleinzelligen, tangential gestreckten,\n  vorwiegend     farblosen    und     mit     Stärke   erfüllten    Parenchym    besteht,   welches   beiderseits    mit    je einer\n  Reihe quadratischer oder radial etwas gedehnter Zellen bedeckt ist. Concentrische Reihen stárkefreier,\n  mit rothbraunem Inhalte angefüllter Zellen verleihen dieser Schicht ein marmorirtes Ansehen.         Die\n  mittlere, weniger breite, fast farblose und gefässfreie, an den Grenzen mit Einbuchtungen versehene\n  und in Folge dessen auf dem Querschnitte perlschnurartig erscheinende Schicht besteht aus einer Reihe\n  sehr dünner, radial sehr lang gestreckter Zellen, welche nur an den Buchten braunroth gefärbt, sonst\n  farblos sind. Die innerste, am mächtigsten entwickelte, kastanienbraune Schicht ist aus einer Reihe\n  sehr dünner, radial sehr lang gestreckter Steinzellen zusammengesetzt.\n            Die den Kern bedeckende und faltenartig in das Innere desselben eindringende Samenhaut,\n  welche im frischen Zustande mit der Samenschale verbunden ist, beim Austrocknen sich jedoch von der\n  letzteren trennt, zeigt 2 verschiedene Schichten: eine &ussere aus einem schlaffen, farblosen Parenchym\n  zusammengesetzte     Schicht und eine innere, dichtere, kleinzellige, rothbraune,                   faltenartig im das Innere\n  des Kernes     eindringende Schicht.          In der äusseren, farblosen Schicht kommen             zerstreut   oder tangential      `\n  geordnet, rothbraune       Zellen    vor.      Die Falten,       welche   durch die innere Schicht     der Samenhaut        ange-\n  füllt werden, gehen mehr oder weniger tief in das Innere des Kernes, sind einfach oder getheilt, auf-\n  oder absteigend und stets von einem Gefässbündel durchzogen. Das Gewebe ist in den Falten lockerer\n  und mit zahlreichen Oelzellen durchsetzt.\n            Der aus Eiweiss bestehende, von den oben beschriebenen Falten der Samenhaut durchzogene\n  und am Grunde mit dem Embryo versehene Samenkern ist in blass rothbrüunliche mit helleren Zonen\n  ausgestattete Felder eingetheilt. Das Parenchym des Eiweiss ist mit Stärkekörnern, welche aus 2 bis 6\n  Theilkörnern    bestehen, und mit fettem Oele angefüllt; letzteres fehlt in den Zellen der helleren                        Zonen."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 242,
+        "source_line_range": [
+          44,
+          50
+        ],
+        "exact_source_quote": "          Vorkommen.        Einheimisch auf den Molukken, namentlich auf den zu den Molukken gehörigen\n Bandainseln und auf dem westlichen Theile von Neu-Guinea. Flückiger sagt über die Verbreitung:\n  „Deine engbegrenzte Heimath beschränkt sich auf die vulkanische Inselgruppe der Residentien Amboina -\n und Ternate im äussersten Osten der holländischen Besitzungen im Archipelagus, sowie auf die benach-\n barte Westhalbinsel Neu-Guineas.       Im wilden Zustande befindet sich Myristica fragrans z. B. auf\n Damma    und den zerstreuten kleinen Inseln der Bandagruppe                     bis Amboina,     auf Ceram,        Buru,   Batjan,\n. Halma-heira und vermuthlich auch an anderen Standorten dieser Inselwelt*                            Zum Zwecke der Kultur"
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 243,
+        "source_line_range": [
+          5,
+          38
+        ],
+        "exact_source_quote": "           Name und Geschichtliches.           Muskat 00              Macis Muscait, Muscart, Muscat,\n  Muscatenbluome, mittelniederd. Muschade, Muscatenblome) von Moschus (moschata), wegen des angeb-\n. lich moschusartigen Geruches der Früchte. Myristica von pugvorixos balsamisch (uvoov Balsam, wohl-\n  riechender Saft), bezogen auf die ólig aromatischen Früchte; ebenso fragrans, wohlriechend, duftend.\n            Es wird angenommen, dass die Muskatnüsse und -Blüthen (Macis) den Alten unbekannt\n  gewesen sind, was von Flückiger unter Hinweis auf Crawfurd, nach dessen Forschungen die Erzeug-\n  nisse des Muskatbaumes in früheren Zeiten bei den Eingeborenen keine Beachtung gefunden haben, —\n  als sehr wahrscheinlich betrachtet wird. Martius behauptet zwar, dass das in einem Lustspiele von\n  Plautus (260—180 v. Chr.) vorkommende Wort Macis auf unsere Muskatblüthe zu beziehen sel;\n  Flückiger hält dieses Wort jedoch für einen Phantasienamen und ähnlich klingende Namen wie macer,\n  macis,   machis, machir,   woxag   welche   bei   Scribonius   Largus,   Dioskorides,   Galenus,   Plinius\n u. A. vorkommen, für die Bezeichnung der Rinde eines indischen Baumes. Gewiss ist, dass die alten\n arabischen Aerzte schon lange Kenntniss von Macis und den Nüssen hatten und dass durch dieselben\n die Verbreitung der Erzeugnisse des Muskatbaumes nach Westen erfolgt ist. Letztere kannten auch\n schon um 900 die Abstammung der Muskatntisse aus Indien. Vorerst dienten die Muskatnüsse zu\n Ráucherungen in Kirchen und bei festlichen Gelegenheiten und standen zu jener Zeit wahrscheinlich\n sehr hoch im Preise. Letzteres scheint um 1214 nicht mehr der Fall gewesen zu sein, denn in diesem\n Jahre wurde zu Treviso gelegentlich eines Festspieles unter anderen Spezereien und Frücbten auch\n mit Muscatis geworfen. Von dieser Zeit ab beginnt auch die Verwendung der Muskatnüsse zu pharma-\n ceutischen und kosmetischen Prüparaten. Hildegard kennt die Mukatnüsse um 1150, und Albertus\n Magnus (1193—1280) giebt, ohne Angabe der Quelle, aus der er seine Kenntniss schópfte, eine Be-\n schreibung  des Baumes Muscata, den er als einen lorbeerblätterigen Baum Indiens schildert, dessen Blüthen\n die Macis lieferten.    Um dieselbe Zeit treten Nux muscata und Muscatae blomae in Dänemark\n auf. Das eigentliche Vaterland des Muskatbaumes wurde jedoch erst um 1500 bekannt, und zwar\n zur Zeit der ersten Seereisen nach Indien. Ludovico Barthema aus Bologna bezeichnet die Insel\n Bandan als die Heimath. Die Portugiesen bemächtigten sich vorerst des Handels mit Muskatnüssen,\n mussten aber später den Holländern weichen, welche den Handel, gleich demselben mit Zimmt und\n Gewürznelken, monopolisirten und auf Banda und Amboina beschränkten, alle Bäume ausserhalb dieser\n Orte ausrotteten und in Jahren reicher Erträge den Ueberfluss verbrannten. Die von der Regierung\n angelegten geschlossenen Gärten (Perken) wurden den Nachkommen holländischer Soldaten oder der\n unteren Beamten als Belohnung, mit. dem Rechte der Vererbung übergeben, jedoch unter der Be-\n dingung, den ganzen Ertrag gegen einen bestimmten Preis der ostindischen Compagnie zu liefern.\n Ausserdem stellte die Regierung für die einzelnen Perken eine bestimmte Zahl von Sklaven zur\n Verfügung."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 245,
+        "source_line_range": [
+          5,
+          41
+        ],
+        "exact_source_quote": "                 Bestandtheile,            Die Macis     enthalten        nach Henry:           ütherisches       Oel, reichlich festes, gelbes,\n    fettes,   in Alkchol       schwer      lösliches und          festes, rothes,    fettes,     in Alkohol         leicht    lösliches     Oel,   eine\n    zwischen Gummi und Stärke stehende, durch Jod sich purpurroth färbende Substanz, wenig Faserstoff,\n    kein Stärkemehl. Bley erhielt aus Macis einen Balsam, welcher dem Balsam der Kerne ähnlich,\n    jedoch etwas weicher ist.\n                 Die Kerne enthalten         nach Schrader:            2,6%,   leichtes, 0.52 0/, schweres             ätherisches Oel, 10,41%,\n    róthliches,     weicher,     fettes     Oel,    17,72),        weisses, festes      Oel,      25 0/4    gummiartiges         Extrakt,      3,12%\n    schmieriges     Harz,      34,389)      Parenchym.            Bonastre      fand:    6%,       ätherisches       Oel,    7,6 0/, flüssiges Fett,\n    24,0%,    festes Fett, 2,4%,          Stärkemehl,    1,0 %/, Gummi,         54,09,         Faser.\n                 Ein Hauptbestandtheil             der Samenkerne         ist das Fett, welches            ca.    1/, des Gewichtes         der Kerne\n    beträgt und durch Auspressen der erwärmten Samen, mit ätherischem Oele gemengt, gewonnen wird.\n    In Indien wird es aus den ünverkäuflichen Nüssen hergestellt und als Oleum Nucistae, Oleum nucum\n    moschatarum expressum, Balsamwm Nucistae, Muskatbutter,                                    Muskatbalsam,                Banda-Seife in einer\n    besseren Sorte (englische Muskatbutter, orangegelb, weiss und roth marmorirt, feinkörnig, stark\n    bitterlich nach Muskatnuss schmeckend) und einer geringeren Sorte (holländische Muskatbutter,\n    fester, grobkörnig, weniger gewürzhaft riechend und schmeckend) in viereckigen, lünglichen, würfel-\n    fórmigen oder tafelfórmigen, mit breiten Blättern oder Bast umwickelten Stücken in den Handel gebracht.\n    Sie wird gegenwärtig auch in Europa hergestellt und ist häufig Fälschungen unterworfen. Die Muskat-\n    butter bildet eine bräunlich-gelbe, durch kórnig-krystallinische Ausscheidungen weisslich oder röthlich\n    marmorirte, sich fettig anfühlende, fast butterartige Masse von stark gewürzhaftem Geruch und Ge-\n    schmack, schmilzt zwischen 41 bis 51° (45°), erstarrt bei 32 bis 33°, besitzt ein spez. Gewicht von\n    0,995, löst sich in 4 Theilen kochendem,                  wenig in kaltem Weingeiste,                  leichter, jedoch nicht vollständig\n    in Aether,      Chloroform      und Benzol         und        besteht nach Koller           aus     6°), Muskatnussöl,         70%,     Myristin,\n    2% Olein, 1%, Butyrin, 3%, saurem Harze. Playfair fand 1841 in dem Balsam die Myristinsäure,\n              Myristinsäure C,,H,,0,, als Glycerid (Myristin) im Muskatbalsam enthalten, ausserdem im\n    Fette von Myristica Otaba Humb. et Bonpl., im Fette der Samen von Mangifera gabonensis, im Cro-\n    tonöl, im Irisstearopten und in der Kuhbutter nachgewiesen, bildet weisse, glänzende Krystallblättchen,\n    die bei 53,8? schmelzen und beim Erkalten schuppig krystallinisch wieder erstarren, reagirt sauer, ist im\n    Wasser unlöslich, leicht löslich in heissem Weingeist und in Aether.\n              Das durch Destillation mit Wasser aus den Muskatnüssen in einer Ausbeute von 8%, ge-\n    wonnene ätherische Oel besteht nach Wright der Hauptsache nach aus 2 Terpenen C,,H,,, welche\n    verschiedene Siedepunkte besitzen. Es ist begleitet von einer geringen Menge Cymol (C,, H,,) und\n    ausserdem wird, nach Flückiger, bei der Destillation die Ausscheidung einer sehr geringen Menge\n    eines im Wasser untersinkenden Antheiles bemerkt.         Nach Wright geht bei der Rektifikation des\n    ätherischen Oeles zuerst ein bei 163° siedendes Terpen und wahres Cymol über, dann folgt Gladstone's\n    Myristicol (C,y ‫يو‬‎ O,) endlich 2 sauerstoffhaltige Oele, von denen das eine bei 260— 2809, das andere\n    bei 280 bis 290° übergeht; 2%, eines Harzes bleiben zurück."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "0233bf0a9ff61bc5735800e717dad43a2f0bf7600c5e2e697becce131d34c817"
+}

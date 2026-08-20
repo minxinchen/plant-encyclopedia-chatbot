@@ -1,0 +1,197 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-1:p0071-p0072",
+  "owner_shard": "S01",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S01/maker/structure-drafts/kohler-volume-1__p0071-p0072.json",
+  "source_draft_sha256": "ef9f262bde14fef573960c2e153b13528b14dd407a835d05d6c1f4f00d36998f",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "5088afdb0d76b390430bcb8bba755e07f0c0856dc4de20f017b3292ddb5d64f8",
+    "validation_check_sha256": "648123d82aef43e633b75342994bc7d0b1c690a2f1a02eb271219332cab69fae",
+    "source_disposition_sha256": "c368f3d5595fa5775ffe8f68424594da407d3ed16185d645593560ca56053536",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Viola tricolor",
+    "authorship_candidate": null,
+    "aliases_candidates": [
+      "Stiefmutterchen",
+      "Dreifarbiges Veilchen",
+      "Ackerveilchen",
+      "Freisamkraut",
+      "Dreifaltigkeitskraut",
+      "Pansy",
+      "Pensee sauvage"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Viola tricolor"
+    ],
+    "accepted_scientific_name": "Viola tricolor",
+    "display_name_zh_tw": "三色堇",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": null,
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "tai2"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary",
+    "rationale": "Tai2 exactly lists the book binomial as a main name or synonym and links it to this accepted species page.",
+    "checked_at": "2026-08-13T17:36:57+08:00",
+    "tai2_code": "446 206 19 0"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Viola tricolor",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Viola+tricolor",
+      "retrieved_at": "2026-08-13T17:36:53+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Viola tricolor var. arvensis",
+          "matched_name_id": 244053,
+          "taxon_id": "t0049312",
+          "taicol_name_status": "not-accepted",
+          "accepted_name": "Viola arvensis",
+          "accepted_name_id": 24725,
+          "accepted_usage": [
+            {
+              "usage_id": 287036,
+              "reference_id": 3024,
+              "reference_type": "Journal Article",
+              "publish_year": 2022,
+              "citation": "Chang-Yang, C.-H., Su, M.-h., Chiang, P.-H. & Hsieh, C.-F. (2022) Updating the Checklist of the Naturalized Flora in Taiwan. <i>Taiwania</i> 67(1): 1–8.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 183271,
+              "reference_id": 2454,
+              "reference_type": "Book",
+              "publish_year": 2017,
+              "citation": "Ed. Comm. Red List TW Plants,  (2017) The Red List of Vascular Plants of Taiwan, 2017 = 2017 臺灣維管束植物紅皮書名錄.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 5465,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0049312",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0049312",
+          "taxon": {
+            "taxon_id": "t0049312",
+            "taxon_status": "accepted",
+            "name_id": 24725,
+            "simple_name": "Viola arvensis",
+            "name_author": "Murray",
+            "rank": "Species",
+            "common_name_c": "野生菫菜",
+            "alternative_name_c": "野生堇菜",
+            "synonyms": "Viola tricolor var. arvensis",
+            "is_in_taiwan": true,
+            "alien_type": "naturalized",
+            "alien_status_note": "naturalized: Chang-Yang et al., 2022 (Origin: Europe)|naturalized: Ed. Comm. Red List TW Plants, 2017|naturalized: 原生於歐洲",
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Dreifarbiges veilchen",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Dreifarbiges+veilchen",
+      "retrieved_at": "2026-08-13T17:36:53+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Pensee sauvage",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Pensee+sauvage",
+      "retrieved_at": "2026-08-13T17:36:53+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Viola tricolor",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Viola%20tricolor",
+      "retrieved_at": "2026-08-13T17:36:57+08:00",
+      "exact_result_count": 1,
+      "exact_results": [
+        {
+          "name": "<em>Viola</em> <em>tricolor</em> L.",
+          "ebooksearch": "Viola tricolor",
+          "simnametitle": "<em>Viola</em> <em>tricolor</em>",
+          "type": "M",
+          "code": "446 206 19 0",
+          "apgfamily": "Violaceae",
+          "chapgfamily": "堇菜科",
+          "family": "Violaceae",
+          "chfamily": "堇菜科",
+          "genus": "Viola",
+          "chgenus": "堇菜屬",
+          "fern": "no",
+          "chname": "三色堇",
+          "comname": "",
+          "comtype": "",
+          "endetype": "cultivated",
+          "result_type": "species"
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "species_url": "https://tai2.ntu.edu.tw/species/446%20206%2019%200",
+      "accepted_species_record": {
+        "name": "<em>Viola</em> <em>tricolor</em> L.",
+        "ebooksearch": "Viola tricolor",
+        "simnametitle": "<em>Viola</em> <em>tricolor</em>",
+        "type": "M",
+        "code": "446 206 19 0",
+        "apgfamily": "Violaceae",
+        "chapgfamily": "堇菜科",
+        "family": "Violaceae",
+        "chfamily": "堇菜科",
+        "genus": "Viola",
+        "chgenus": "堇菜屬",
+        "fern": "no",
+        "chname": "三色堇",
+        "comname": "",
+        "comtype": "",
+        "endetype": "cultivated"
+      },
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

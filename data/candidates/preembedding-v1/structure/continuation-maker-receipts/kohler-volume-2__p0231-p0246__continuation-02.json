@@ -1,0 +1,204 @@
+{
+  "schema_version": "1.0",
+  "package_id": "kohler-volume-2:p0231-p0246:continuation-02",
+  "parent_entry_id": "kohler-volume-2:p0231-p0246",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation:kohler-volume-2:p0231-p0246:continuation-02:v1",
+  "owner_shard": "S03",
+  "package_sha256": "751cb83f3b64da273a66756d4f3e6e8bbd729d19b89b2c7dccfa5676b41d6ff8",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-continuation-line-anchors-v1",
+  "elapsed_seconds": 208.339,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 237,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 286,
+      "char_end": 949,
+      "source_line_start": 6,
+      "source_line_end": 11,
+      "page_text_sha256": "6e3f8cbdb88416faf45c9849908294099131317ea627df6818e9d853c095c6f4",
+      "exact_text_sha256": "74ee16a15ec758a38608acd83564a1df4f8a161efbf37b0a05268b30dd659932",
+      "section_index": 0,
+      "section_type": "description"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 238,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 0,
+      "char_end": 1451,
+      "source_line_start": 1,
+      "source_line_end": 15,
+      "page_text_sha256": "30cd24ec4473abe818c00b01538457073e5859d239b84099b100f9d6795f5050",
+      "exact_text_sha256": "968ddac7d2369a2091b5607766488fe0a71ef692ac3aefa8c394df10e9b757ce",
+      "section_index": 1,
+      "section_type": "anatomy"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 238,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 1483,
+      "char_end": 2250,
+      "source_line_start": 19,
+      "source_line_end": 26,
+      "page_text_sha256": "30cd24ec4473abe818c00b01538457073e5859d239b84099b100f9d6795f5050",
+      "exact_text_sha256": "606005c265835121dd1ac69eea2d581e3277698d161c22755f47c259fe5ed73d",
+      "section_index": 2,
+      "section_type": "distribution"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 238,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 2252,
+      "char_end": 3366,
+      "source_line_start": 28,
+      "source_line_end": 39,
+      "page_text_sha256": "30cd24ec4473abe818c00b01538457073e5859d239b84099b100f9d6795f5050",
+      "exact_text_sha256": "58170ffa8b8f5694f514ae027878a94187f69e8e74547ca4505367fecbe1e1b5",
+      "section_index": 3,
+      "section_type": "history"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 239,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 5744,
+      "char_end": 6760,
+      "source_line_start": 65,
+      "source_line_end": 74,
+      "page_text_sha256": "1dc2d6ce4ede03b1cbbf24c7c2b7faec96dd5601e381e30a59b897bb1675533d",
+      "exact_text_sha256": "81e86b53cc9ad858e6824aa772446634e45f37cffd17ca6b958a8b62c8545e5e",
+      "section_index": 4,
+      "section_type": "constituents"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 240,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 0,
+      "char_end": 895,
+      "source_line_start": 1,
+      "source_line_end": 10,
+      "page_text_sha256": "9069d703b084c4d066e6c132fd4630821e52a720e3d58500df336357c8cbdccd",
+      "exact_text_sha256": "3e333501a624b01385caa5b84999a96a60fd8de76fa48c627fc423f2cb5d8f0f",
+      "section_index": 5,
+      "section_type": "historical_use"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-2:p0231-p0246:continuation-02",
+    "parent_entry_id": "kohler-volume-2:p0231-p0246",
+    "book_taxon": {
+      "scientific_name_candidate": "Tamarindus indica L.",
+      "authorship_candidate": null,
+      "aliases_candidates": [
+        "Tamarinde",
+        "Tamarind",
+        "Tamarinier",
+        "Tamarindi indicae",
+        "Tamarindus occidentalis",
+        "Tamarindi Aegyptiacae"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "description",
+        "pdf_page": 237,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "20至25米高常綠慢生樹，圓頂狀樹冠，黑褐色裂紋樹皮，羽狀複葉，葉片線形長橢圓。",
+        "warnings": [],
+        "source_line_range": [
+          6,
+          11
+        ],
+        "exact_source_quote": ":             Beschreibung.              20 bis 25 Meter hoher, immergrüner,               langsam wachsender           Baum    mit weit-\n    ausgebreitet-reichüstiger, domartiger Krone, schwärzlich brauner, rissiger Rinde, graubraunen Aesten\n    und hin und her gebogenen Zweigen. Blätter abwechselnd, paarig gefiedert, 10—20jochig; Blattspindel\n    oben rinnenförmig; Blättchen linealisch-länglich, abgerundet, gestutzt bis ausgerandet, ganzrandig, fast\n    sitzend, 12 bis 20 Mm. lang, ungleichhälftig, namentlich am Grunde ungleich, kahl oder am unteren\n    Rande gewimpert, netzaderig, unterseits blaugrün. Die hinfälligen Nebenblattchen lanzettlich. Blüthen"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 238,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "果莢壁分三層：外層為石細胞，中層為黑褐色果肉，內層為纖維膜；果肉含酒石酸結晶與石英碎片。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          15
+        ],
+        "exact_source_quote": "          Anatomisches.           Die Wand der Hülse zeigt 3 Schichten: eine dünne, krustige, zerbrechliche,\n rauhe Aussenschicht (Epicarp), eine sich leicht trennende,         aus schwarzem oder braunem Musse bestehende\nMittelschicht (Mesocarp) und eine die Samenfächer auskleidende, záhe Membran, die Innenschicht\n(Endocarp). Die äussere Schicht, das Epicarp, besteht (nach Flückiger) aus ziemlich grossen, kugeligen `\nSteinzellen und lockerem Parenchym. An der auf der Oberfläche nicht oder doch nur wenig sichtbaren\nBauchnaht treten 2 sehr starke und 2 schwüchere Gefüssbündel zu Tage und ein sehr derber Strang\nan der Rückennaht, welche sämmtlich, sich seitlich verzweigend, gegen die Spitze zu laufen. Die innere\nFruchtschicht (Endocarp), welche die Samenfächer bildet, ist aus sehr langen, biegsamen, fest verbundenen\nFasern zusammengesetzt und von einer mehr oder weniger dicken Lage bráunlicher Steinzellen um-\nschlossen. Die zwischen der &usseren und inneren Schicht befindlichen Ráume werden von einem\nbräunlichen oder schwärzlichen, sauren Brei, dem Fruchtmuss (Pulpa) ausgefüllt, in welchen die Ver-\nzweigungen der randstándigen Gefässbündel eingebettet liegen. In den Zellen dieses Fruchtmusses findet\nman kleine, bräunliche, durch Eisenchlorid etwas dunkler werdende Körnchen und vereinzelte Gruppen\nvon kugeligen Stärkekörnern. Ausserdem treten in diesen Zellen kurze, spiessige Krystalle von Wein-\nstein und scharfe Quarzsplitter auf."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 238,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產中非及東非熱帶，現分布阿拉伯、東印度、蘇門答臘、菲律賓及北澳，已引種至西印度與巴西。",
+        "warnings": [],
+        "source_line_range": [
+          19,
+          26
+        ],
+        "exact_source_quote": "         Vorkommen.      Ursprünglich wohl nur in Centralafrika und in den heissen Ländern von\nOstafrika einheimisch. Flückiger sagte über die Verbreitung: „Der Baum durchzieht das Gebiet des\nSenegals, des Nigers und Tsad-Sees, geht in die Nilländer, durch den äussersten Nordosten Afrikas\nnach Mozambik bis ungefähr 24° südlicher Breite, während er seine Nordgrenze bei ungefähr 141/,0\nnördlicher Breite, am weissen Nil, Bahr el Abjad, nach Schweinfurth               schon bei 12° erreicht“.     Gegen-\nwärtig durch Arabien, in Ostindien, auf den Sundainseln (namentlich Java), in Cochinchina,                    auf den\nPhilippinen, auch in Nordaustralien       vorkommend.       Durch     Kultur nach Westindien,     Centralamerika    und\nBrasilien übergesiedelt."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 238,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源自阿拉伯語與印度語；古埃及人未知，970年波斯醫師Alhervi始有記載，中世紀稱酸棗。",
+        "warnings": [],
+        "source_line_range": [
+          28,
+          39
+        ],
+        "exact_source_quote": "          Name     und     Geschichtliches.      Tamarindus         zusammengesetzt aus dem arabischen             tamr,\nsäulenartig emporstrebend,       Dattelpalme (hebräisch \"an, tamar, Palme) und hindi, hindostanisch, indisch,\nalso indische Dattel; daher die Artbezeichnung indica überflüssig.\n          Es liegt kein Zeugniss vor, dass die Tamarinde im Alterthume bekannt gewesen ist, un\n                                                                                                 d un-\nbegreiflich erscheint es, dass sogar die alten Aegypter keine Kenntniss von diesem Baum\n                                                                                        e hatten. Die\nVermuthung Sprengels, dass unter Zfévógov cokvgvAAov des Theophrast die Tama\n                                                                                    rinde zu verstehen\nsei, ist durch nichts bewiesen und sehr unwahrscheinlich, denn noch dem Alex\n                                                                                   ander Trallianus\n(6. Jahrh.) scheint die Tamarinde vollständig unbekannt gewesen zu sein"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 239,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含酒石酸、酒石、檸檬酸、蘋果酸、果膠、糖、樹膠及水分；K. Müller分析東印度種含酒石酸與檸檬酸。",
+        "warnings": [],
+        "source_line_range": [
+          65,
+          74
+        ],
+        "exact_source_quote": "          Bestandtheile,           Vauquelin fand in 100 Theilen Tamarinde:             1,5 Weinsteinsäure,          3,2 Weinstein,\n9,4 Citronensáure         (nach Nessler und Barth 13,594),             0,4 zum        grössten Theile an Kali gebundene\nApfelsäure,     6,2 Pektin,    12,5 Zucker, 4,7 Gummi,        31,2 Häute      und Samen,         36,5 Wasser.         Gorup     fand\nausserdem Essigsäure, Ameisensäure und wahrscheinlich auch Buttersáure. Scheele konnte keine\nCitronensäure nachweisen. K. Müller untersuchte 9 ostindische Sorten und erhielt folgende Werthe:\n2,4—38,0%, (im Mittel 13,9%,) Samen; in der von den Samen befreiten Pulpa fand er: 21,92—\n32,58% (i. M. 27,0 %,) Wasser, 12,2—20,2 °% (i. M. 16,2 %,) unlöslichen Rückstand, 4,66—6,01 Y,\n(i. M. 5,27 0/0) Weinstein, 5,29—8,80 % (i. M. 6,63 %,) Weinsäure, 0,64—3,95 o          ME 2,20%)\nCitronensáure. Die wasserfreie Pulpa enthielt: 6,21—8,25 % (i. M. 7,20 9,)Weinstein, 6,77—12,35 0)\n(i M. 9,09 9/,) Weinsáure. Husemann, Pflanzenstoffe 1097."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 240,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "具清涼緩瀉作用，用於發燒與充血；非洲內陸視為珍貴食物，與黃油洋蔥同食可治氣候病。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          10
+        ],
+        "exact_source_quote": "                                    Die Tamarinden           wirken     erfrischend, kühlend           und gelind eróffnend und werden\n             Anwendung.\n                                      hl en de s   un d   ge li nd  ab  fü hr en de s Mi tt el    be i   fi eb er ha ft en    Zu st än de n\ndaher, meist in Abkochung,  al  s  kü\n                                        en   au ch  al s Zu sa tz  vo n   Mi xt ur en  un d    al s  Co ns ti tu en s    fü r La tw er ge .\nund Congestionen gereicht; si e   di en\n                                                                                          gs mi tt el vo n gr os se r Be de ut un g,\n             Für die Binnenländer           Afrikas     sind sie als Nähr- und Erfrischun\n              ch Fl üc ki ge r wi e fo lg t äu ss er t: „D ie ob en er wä hn te n Be st an dt he il e                    der Tamarindenfrucht\nwo rü be r si"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": [
+      "Target entry ID specifies Callitris quadrivalvis, but source text pages 237-240 describe Tamarindus indica and Myristica fragrans. Extraction performed on visible source text (Tamarindus indica) as per page content."
+    ]
+  },
+  "receipt_sha256": "17dc8d66ab4b688714c26e342beb82b7584e71b1777e56032819aa2eecc0fe29"
+}

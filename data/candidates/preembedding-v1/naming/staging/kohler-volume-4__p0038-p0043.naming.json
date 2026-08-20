@@ -1,0 +1,124 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-4:p0038-p0043",
+  "owner_shard": "S08",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S08/maker/structure-drafts/kohler-volume-4__p0038-p0043.json",
+  "source_draft_sha256": "bca705e23870d30317a44297870a8b8a62c52e2753ab20d839aab0e887dcb0ad",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "29dde903fd8f9357550c7f6596ad3b3fbeb11273e7561351e8b79b129438cb3c",
+    "validation_check_sha256": "901b574fd7312e9bb48d74dfdd16d6afe2761ccb8a224e1cbf843195af658f1b",
+    "source_disposition_sha256": "6f9ec5f83f89c80b30e03fd378199b81cb6f3d645c20f771e0926ead7c3a465c",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Betula verrucosa",
+    "authorship_candidate": "Ehrh.",
+    "aliases_candidates": [
+      "B. pendula Roth",
+      "B. alba L. ex parte",
+      "B. lobulata Kanitz",
+      "B. rhombifolia Tausch",
+      "B. maior Gilib."
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Betula verrucosa",
+      "Betula pendula"
+    ],
+    "accepted_scientific_name": "Betula pendula subsp. pendula",
+    "display_name_zh_tw": "歐洲白樺",
+    "alternative_names_zh_tw": [
+      "垂枝樺"
+    ],
+    "taiwan_occurrence_status": "not_asserted",
+    "taxon_id": null,
+    "authority_record_id": "moa-import-quarantine-betula-pendula",
+    "rationale": "Kew POWO explicitly treats the book name Betula verrucosa as a synonym of Betula pendula subsp. pendula. Taiwan Ministry of Agriculture import-quarantine material pairs Betula pendula with 歐洲白樺; Taiwan Forestry Research Institute and National Taiwan Science Education Center materials independently pair Betula pendula with 垂枝樺. No Taiwan occurrence is inferred from import or research references.",
+    "checked_at": "2026-08-13T13:10:15+08:00",
+    "display_name_source_scope": "taiwan_government_public",
+    "display_name_source_evidence_ids": [
+      "taiwan_moa"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Betula verrucosa",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Betula+verrucosa",
+      "retrieved_at": "2026-08-13T13:08:47+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Betula verrucosa",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Betula%20verrucosa",
+      "retrieved_at": "2026-08-13T13:08:50+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "kew_powo",
+      "authority": "Royal Botanic Gardens, Kew — Plants of the World Online",
+      "query_name": "Betula verrucosa",
+      "record_url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:295230-1",
+      "retrieved_at": "2026-08-13T13:10:15+08:00",
+      "record_status": "synonym",
+      "accepted_name": "Betula pendula subsp. pendula",
+      "assertion_scope": "external_scientific_name_mapping_only",
+      "evidence_source_scope": "non_taiwan_scientific_authority"
+    },
+    {
+      "source_id": "taiwan_moa",
+      "authority": "中華民國農業部（輸入植物或植物產品檢疫規定）",
+      "query_name": "Betula pendula",
+      "record_url": "https://www.moa.gov.tw/files/publication/5403/A01_2.pdf",
+      "retrieved_at": "2026-08-13T13:10:15+08:00",
+      "exact_name_pair": {
+        "scientific_name": "Betula pendula",
+        "chinese_name": "歐洲白樺"
+      },
+      "authority_record_id": "moa-import-quarantine-betula-pendula",
+      "assertion_scope": "external_taiwan_public_name_only",
+      "evidence_source_scope": "taiwan_government_public"
+    },
+    {
+      "source_id": "taiwan_tfri",
+      "authority": "農業部林業試驗所《Taiwan Journal of Forest Science》",
+      "query_name": "Betula pendula",
+      "record_url": "https://ws.tfri.gov.tw/Download.ashx?icon=..pdf&n=NDEoMSktNC1USkZTLTIwMjUtMDAyOSjkuK3oi7HlsI3nhacpLnBkZg%3D%3D&u=LzAwMS9VcGxvYWQvNDM2L3JlbGZpbGUvMTIzODUvMzQ4MzYvNjZjZmY3MjEtNTVmMC00MzZiLWE3MmQtNGNkOTg0ZDA2ZmZhLnBkZg%3D%3D",
+      "retrieved_at": "2026-08-13T13:10:15+08:00",
+      "exact_name_pair": {
+        "scientific_name": "Betula pendula Roth.",
+        "chinese_name": "垂枝樺"
+      },
+      "assertion_scope": "external_taiwan_public_name_only",
+      "evidence_source_scope": "taiwan_government_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "TaiCOL and Tai2 do not provide an exact species record; the scientific synonym bridge comes from Kew POWO.",
+    "The Taiwan sources cite Betula pendula at species rank, while POWO resolves Betula verrucosa to Betula pendula subsp. pendula.",
+    "Import-quarantine and research references do not establish Taiwan occurrence."
+  ]
+}

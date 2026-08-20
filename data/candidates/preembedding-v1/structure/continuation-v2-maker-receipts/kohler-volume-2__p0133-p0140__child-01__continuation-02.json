@@ -1,0 +1,155 @@
+{
+  "schema_version": "2.0",
+  "package_id": "kohler-volume-2:p0133-p0140:child-01:continuation-02",
+  "parent_entry_id": "kohler-volume-2:p0133-p0140",
+  "child_entry_id": "kohler-volume-2:p0133-p0140:child-01",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation-v2:kohler-volume-2:p0133-p0140:child-01:continuation-02:v1",
+  "owner_shard": "S03",
+  "package_sha256": "0115205c87cb3a38e7725fd573df88ae441b8b515f773ebf1a5041381ed77df8",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "prompt_version": "plant-structure-line-coordinates-v2",
+  "attempt_sha256": "2e2e87104d2d047c6925f1a7d59388eed321db52f6b7784259e1113c0906d4e8",
+  "raw_response_sha256": "d679ac10250f16532d427a17fbfe59f027a7c6e0c0e9580a5bb39bc59330a3b0",
+  "elapsed_seconds": 11.237,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 139,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 0,
+      "char_end": 1010,
+      "source_line_start": 1,
+      "source_line_end": 10,
+      "page_text_sha256": "a60d28ca7c4af12a4545a874eadb73adb4fa740c0880683628361e3ef4bd6a9e",
+      "exact_text_sha256": "4e58c2144e951cf1382db3ce15618ad9820694086fe24526785baed1edc345f7",
+      "section_index": 0,
+      "section_type": "constituents"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 139,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 3410,
+      "char_end": 4296,
+      "source_line_start": 35,
+      "source_line_end": 43,
+      "page_text_sha256": "a60d28ca7c4af12a4545a874eadb73adb4fa740c0880683628361e3ef4bd6a9e",
+      "exact_text_sha256": "e2ef1eae6a75e81d9b2f8c2c9eb80b0dab55c197602cb736b4b65371c7d460ed",
+      "section_index": 1,
+      "section_type": "historical_use"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 140,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 0,
+      "char_end": 461,
+      "source_line_start": 1,
+      "source_line_end": 4,
+      "page_text_sha256": "cd7f06d8d44fecf496c68977b4595954ab1435c06af7ea10dd05051ea50e43ba",
+      "exact_text_sha256": "ae315c5d2789e7d572c88db872ab91ea56401b61702a29038294212b1f02daac",
+      "section_index": 2,
+      "section_type": "other"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 140,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 463,
+      "char_end": 1073,
+      "source_line_start": 6,
+      "source_line_end": 13,
+      "page_text_sha256": "cd7f06d8d44fecf496c68977b4595954ab1435c06af7ea10dd05051ea50e43ba",
+      "exact_text_sha256": "ea45c057bed7ccc221e3c3ee5d2bf269eb06ce74f4a7b6ef505ff3ffb9fffc34",
+      "section_index": 3,
+      "section_type": "literature"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 140,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 1158,
+      "char_end": 1721,
+      "source_line_start": 17,
+      "source_line_end": 21,
+      "page_text_sha256": "cd7f06d8d44fecf496c68977b4595954ab1435c06af7ea10dd05051ea50e43ba",
+      "exact_text_sha256": "beda39fe45f73d15f09ff97dbc6ff4beb7f16eecd403a913e711a430c13c352d",
+      "section_index": 4,
+      "section_type": "plate_description"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-2:p0133-p0140:child-01:continuation-02",
+    "parent_entry_id": "kohler-volume-2:p0133-p0140",
+    "book_taxon": {
+      "scientific_name_candidate": "Coffea arabica"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "constituents",
+        "pdf_page": 139,
+        "source_line_range": [
+          1,
+          10
+        ],
+        "exact_source_quote": "und Menschen         das Coffein     offenbar in vorwaltender Weise zu den auf das Nervensystem wirkenden\nStoffen stellen, und da sowohl         im Kaffee als im Thee       neben    Coffein noch andere,   zum   Theil auf die\nNutrition, zum Theil auf das Nervensystem wirkende Stoffe vorhanden sind.“ Kleine Dosen sollen nach\nRabuteau die Harnstoffmenge um 11— 28\"/, verringern und gleichzeitig auch die Harnsáureabscheidung\nherabsetzen. Von grósserer Bedeutung, nicht blos in ókonomischer, sondern auch in arzneilicher Be-\n ziehung, ist der aus den gerösteten Kaffeebohnen bereitete Aufguss, welcher zwar nur einen Theil der\n in den Bohnen vorhandenen wirksamen Bestandtheile enthält, von dem Coffein sogar kaum noch die\n Hälfte, dafür aber die sogen. empyreumatischen Produkte aufweist, die aus den organischen Bestand-\n theilen des Kaffees bei Vorhandensein von Wasser durch trockene Destillation entstehen und deren\nGesammtheit man mit dem Namen Caffeon, empyreumatisches Kaffeeöl bezeichnet. Diesem Caffeon"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 139,
+        "source_line_range": [
+          35,
+          43
+        ],
+        "exact_source_quote": "         In arzneilicher Beziehung wird Kaffee sowohl bei chronischen als akuten Schwächezuständen\nangewendet     „und findet er in letzterer Beziehung vorwaltend            da seine Indication, wo die Thätigkeit des\nGehirns darniederliegt, also bei plötzlich aufgetretenem Coma und Sopor.“ Er ist das vorzüglichste Hülfs-\nmittel bei Behandlung der Opium- und Morphiumvergiftungen, auch bei Vergiftungen mit anderen nar-\nkotischen Substanzen. Ebenso bei Migräne und Kopfschmerz leistet starker Kaffee gute Dienste; besonders\nbei Cephalaea anämischer und hysterischer Personen. Er ist ferner ein ausgezeichnetes Mittel gegen\nstarkes Erbrechen, gleichviel durch welche Ursachen es bedingt ist; auch gegen akuten Darmkatarrh nach\nvorhergehender Durchnässung; wohingegen er bei chronischem Darmkatarrh in Folge der durch das\nCaffeon bedingten Beschleunigung der Peristaltik schädlich wirkt."
+      },
+      {
+        "section_type": "other",
+        "pdf_page": 140,
+        "source_line_range": [
+          1,
+          4
+        ],
+        "exact_source_quote": "Blätter      des Kaffeebaumes             dienen         auf Sumatra       und Java      als Theesurrogat;             sie SSES             Ge schon\n oben bemerkt, mehr Coffein als die Bohnen und sind reich an Gerbsüure.                                                Kaffeesatz wird in Europa\nmit Kleie         zu   vorzüglich     mästenden            Stopfnudeln       für Gänse         und Kapaunen        verarbeitet.         (Husemann,\nArzneimittell. 965.)"
+      },
+      {
+        "section_type": "literature",
+        "pdf_page": 140,
+        "source_line_range": [
+          6,
+          13
+        ],
+        "exact_source_quote": "       Litteratur. Abbildung und Beschreibung: Hayne, Arzneigew. IX., Taf. 32; Bentley and\nTrimen, Med. pl, Taf. 144; Luerssen, Handb. der syst. Bot. IL, 1103; Karsten, Deutsche 1, 1194;\nWittstein, Pharm. 357.\n         Drogen und Präparate: Semen Coffeae: Berg, Waarenk. 450; Berg, Atlas 97, Taf. XXXXIX;\nCod. med. 43.\n             Coffeinum:         Ph. germ.        60; Ph. austr. 39; Ph. hung. 131; Ph. ross. 80; Ph. belg. 97; Ph. helv.\nsuppl. 26; Ph. suec. 48;             Ph. Neerl. 76; Ph. U. St. 58.\n             Bezüglich der Drogen und Präparate siehe auch Hager, Ph. Prx. IL, 917, 920; IIL, 329, 350."
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 140,
+        "source_line_range": [
+          17,
+          21
+        ],
+        "exact_source_quote": "             A Zweig      mit   Blüthen    und    unreifen    Früchten,    natürl.   Grösse;    1 ausgebreitete    Krone,     desgl.;   2 Staubgefässe,\nvergrössert; 3 Stempel mit Kelch, desgl.; 4 Fruchtknoten im Längsschnitt, desgl.; 5 u. 6 Kaffeebohne von der Rücken-\nund Bauchseite, natürl Grösse; 7 Frucht im Querschnitt, desgl; 8 Bohne im Querschnitt, desgl; 9 dieselbe zer-\nschnitten,   um    das Würzelchen         zu   zeigen,    vergrössert;    10 Würzelchen,       desgl.   Nach   einer    Originalzeichnung    des Herrn\nProf.   Schmidt        in Berlin."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "1663cc4a13b1273ebce8b5430fe4ffe8536509d1e3fb8dfc49f2dbb3175a47f7"
+}

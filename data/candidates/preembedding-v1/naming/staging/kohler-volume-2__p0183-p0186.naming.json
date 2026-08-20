@@ -1,0 +1,171 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-2:p0183-p0186",
+  "owner_shard": "S03",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S03/maker/structure-drafts/kohler-volume-2__p0183-p0186.json",
+  "source_draft_sha256": "91d0305e076b441b3f1b31b14a2a3ed01ced5638c62c1ecece16ddf05159f9ff",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "cf1eaca6face164ebefcd8c1a6e9f87bb923da12eff9bd8bd77f72694bfe5c09",
+    "validation_check_sha256": "c5f14074e7dbecc5f83f3857cafae0349a484d144395b6924befaf105c15af13",
+    "source_disposition_sha256": "1d99a7452f4fdbad416e158776746b4b0b3a6729c515c9ca17edc0b884866402",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Illieium anisatum",
+    "authorship_candidate": "Loureiro",
+    "aliases_candidates": [
+      "Ilieium religiosum Siebold",
+      "Sternanisbaum",
+      "Star-Anise",
+      "Anis étoilé",
+      "Badiane"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Illieium anisatum"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_zh_tw": null,
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_checked",
+    "taxon_id": null,
+    "display_name_source_scope": "unresolved",
+    "display_name_source_evidence_ids": [],
+    "display_name_is_taiwan_public": false,
+    "display_name_answer_policy": "scientific_name_only",
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping.",
+    "checked_at": "2026-08-13T18:53:54+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Illieium anisatum",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Illieium+anisatum",
+      "retrieved_at": "2026-08-13T18:53:51+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Illicium anisatum",
+          "matched_name_id": 22605,
+          "taxon_id": "t0054029",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Illicium anisatum",
+          "accepted_name_id": 22605,
+          "accepted_usage": [
+            {
+              "usage_id": 182927,
+              "reference_id": 2454,
+              "reference_type": "Book",
+              "publish_year": 2017,
+              "citation": "Ed. Comm. Red List TW Plants,  (2017) The Red List of Vascular Plants of Taiwan, 2017 = 2017 臺灣維管束植物紅皮書名錄.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 318793,
+              "reference_id": 8073,
+              "reference_type": "Book",
+              "publish_year": 2017,
+              "citation": "Chung, S.-W. & Hsu, T.-C. (2017) Illustrated Flora of Taiwan = 台灣原生植物全圖鑑, 2 ed., vol. 1.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 272058,
+              "reference_id": 925,
+              "reference_type": "Book Chapter",
+              "publish_year": 1996,
+              "citation": "Lin, Q. (1996) 26. Illiciaceae. In: Flora of Taiwan, 2 ed., vol. 2. 427–432.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 114762,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 2803,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0054029",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0054029",
+          "taxon": {
+            "taxon_id": "t0054029",
+            "taxon_status": "accepted",
+            "name_id": 22605,
+            "simple_name": "Illicium anisatum",
+            "name_author": "L.",
+            "rank": "Species",
+            "common_name_c": "白花八角",
+            "alternative_name_c": "大武八角,高山八角",
+            "synonyms": "Illicium leucanthum var. daibuense, Illicium philippinense, Illicium leucanthum, Illicium randaiense, Illicium daibuense, Illicium philippinense var. daibuense",
+            "is_in_taiwan": true,
+            "alien_type": "native",
+            "alien_status_note": "native: Ed. Comm. Red List TW Plants, 2017|native: Chung & Hsu, 2017",
+            "not_official": false,
+            "updated_at": "2026-08-12"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Ilieium religiosum",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Ilieium+religiosum",
+      "retrieved_at": "2026-08-13T18:53:52+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Anis toil",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Anis+toil",
+      "retrieved_at": "2026-08-13T18:53:52+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Illieium anisatum",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Illieium%20anisatum",
+      "retrieved_at": "2026-08-13T18:53:54+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears."
+  ]
+}

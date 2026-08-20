@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-2:p0377-p0384:child-01",
+  "owner_shard": null,
+  "source_draft": null,
+  "source_draft_sha256": null,
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "3c8b9a2cc5fc137dcba57fa0be361ed38eb78a6663fa0e389c6db459f4e79aea",
+    "validation_check_sha256": null,
+    "source_disposition_sha256": "d5ba4e6b4139617b43f5c9ff7eac5f4817e61b30e522cbdc264a1155d5ba1548",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": null,
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Rheum officinale",
+    "authorship_candidate": null,
+    "aliases_candidates": []
+  },
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Rheum officinale"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_zh_tw": null,
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_checked",
+    "taxon_id": null,
+    "display_name_source_scope": "unresolved",
+    "display_name_source_evidence_ids": [],
+    "display_name_is_taiwan_public": false,
+    "display_name_answer_policy": "scientific_name_only",
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping.",
+    "checked_at": "2026-08-20T23:03:30+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Rheum officinale",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Rheum+officinale",
+      "retrieved_at": "2026-08-20T23:02:54+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Rheum officinale",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Rheum%20officinale",
+      "retrieved_at": "2026-08-20T23:03:30+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears."
+  ]
+}

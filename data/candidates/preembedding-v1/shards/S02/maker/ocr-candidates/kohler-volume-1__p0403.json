@@ -1,0 +1,132 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 403,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "36c98b32c918a42d805128c6976e63ece1d3ae3fcab8f1797da9d5b7d7b50dac",
+  "render_dpi": 144,
+  "render_sha256": "7d146cdfff8fec82fffd8c28a6047f21f0ef55a4c32770a5d459c13487adcacc",
+  "input_sha256": "7d146cdfff8fec82fffd8c28a6047f21f0ef55a4c32770a5d459c13487adcacc",
+  "render_pixel_width": 5894,
+  "render_pixel_height": 8090,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.308,
+  "embedded_character_count": 298,
+  "ocr_character_count": 80,
+  "ocr_alpha_ratio": 0.4125,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.022746258311801548,
+      "text": "Polypodiaceae.",
+      "width": 0.1476685463611247,
+      "x": 0.65524939400086,
+      "y": 0.9312140801400666
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372621082103,
+      "text": "1080",
+      "width": 0.039840635919019096,
+      "x": 0.420318726263598,
+      "y": 0.7107558137621334
+    },
+    {
+      "confidence": 1,
+      "height": 0.01308139638295247,
+      "text": "-88",
+      "width": 0.015936256185366704,
+      "x": 0.33864541792325287,
+      "y": 0.6293604646537273
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729585,
+      "text": "9RC",
+      "width": 0.011952193112824527,
+      "x": 0.39840637346350805,
+      "y": 0.6206395350950771
+    },
+    {
+      "confidence": 1,
+      "height": 0.03674622565980934,
+      "text": "3/3/88335",
+      "width": 0.15911925480104444,
+      "x": 0.4488008935882278,
+      "y": 0.5608234679383907
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372621082103,
+      "text": "388",
+      "width": 0.02191235079417997,
+      "x": 0.3047808762961371,
+      "y": 0.4709302324083128
+    },
+    {
+      "confidence": 1,
+      "height": 0.01308139638295247,
+      "text": "98°",
+      "width": 0.01792828902003718,
+      "x": 0.3286852580198619,
+      "y": 0.4694767435381749
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "08.",
+      "width": 0.015936254886967316,
+      "x": 0.4900398408433689,
+      "y": 0.37063953500786784
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "689",
+      "width": 0.017928286423238404,
+      "x": 0.5059760956529227,
+      "y": 0.36482558140321664
+    },
+    {
+      "confidence": 1,
+      "height": 0.019829118062579365,
+      "text": "Aspidium",
+      "width": 0.10191403383134251,
+      "x": 0.37434178913282534,
+      "y": 0.11871916203780375
+    },
+    {
+      "confidence": 1,
+      "height": 0.020174294237106483,
+      "text": "filix mas Sw.",
+      "width": 0.14969785104729516,
+      "x": 0.4759478883419954,
+      "y": 0.12000006290260257
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494425,
+      "text": "81.",
+      "width": 0.017928286423238515,
+      "x": 0.8884462152545163,
+      "y": 0.029069767582543538
+    }
+  ],
+  "text": "Polypodiaceae.\n1080\n-88\n9RC\n3/3/88335\n388\n98°\n08.\n689\nAspidium\nfilix mas Sw.\n81.",
+  "output_sha256": "0388492cba14e843ba22ceedc453e976dbe4096f30ff0142b35e5038f235c5c9",
+  "receipt_sha256": "26ed851ad1243675b8f10365f269585ad154443c3d4d46984f2a9bac1fda1fd2"
+}

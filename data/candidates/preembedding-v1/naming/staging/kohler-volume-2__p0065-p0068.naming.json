@@ -1,0 +1,130 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-2:p0065-p0068",
+  "owner_shard": "S03",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S03/maker/structure-drafts/kohler-volume-2__p0065-p0068.json",
+  "source_draft_sha256": "0252762b6aa4a63f81ed9b39b94db75f10491f07829e0a064be26d4c930c9704",
+  "eligibility": {
+    "deterministic_status": "pass",
+    "checked_field": "deterministic_status",
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "a8741387f03decc30f99c2eab4cc5b859339a44414c7d69a10a299263b27cc66",
+    "validation_check_sha256": "2c80f479eddd953801ff1050a38b02b9a9542e778d56043b6255c673bcac0cca",
+    "source_disposition_sha256": "5bba30943f31a8492cd8b13e48a1241c451880b47724a7a32e66f78193fd1805",
+    "review_status": "machine_extracted"
+  },
+  "book_name": {
+    "scientific_name_candidate": "Triticum vulgare",
+    "authorship_candidate": "L.",
+    "aliases_candidates": [
+      "Weizen",
+      "Froment",
+      "Bled",
+      "Wheat",
+      "Triticum Spelta",
+      "Triticum turgidum",
+      "Triticum compositum"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Triticum vulgare"
+    ],
+    "accepted_scientific_name": "Triticum aestivum",
+    "display_name_zh_tw": "小麥",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0055679",
+    "rationale": "TaiCOL explicitly links the book binomial as a species-level synonym to the accepted taxon.",
+    "checked_at": "2026-08-13T12:27:42+08:00",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Triticum vulgare",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Triticum+vulgare",
+      "retrieved_at": "2026-08-13T12:27:42+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Triticum vulgare",
+          "matched_name_id": 130518,
+          "taxon_id": "t0055679",
+          "taicol_name_status": "not-accepted",
+          "accepted_name": "Triticum aestivum",
+          "accepted_name_id": 24579,
+          "accepted_usage": [
+            {
+              "usage_id": 281624,
+              "reference_id": 1067,
+              "reference_type": "Book Chapter",
+              "publish_year": 2000,
+              "citation": "Hsu, C.-C. (2000) 26. Gramineae. In: Flora of Taiwan, 2 ed., vol. 5. 318–654.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 320925,
+              "reference_id": 9991,
+              "reference_type": "Checklist",
+              "publish_year": 2012,
+              "citation": "Forestry Bureau, C. (2012) 外來入侵植物全國現狀調查計畫（4/4）101年度期末成果報告 = Survery of Invasive Alien Plants in Taiwan (4/4) 2012 Final Report",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 129999,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 5313,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0055679",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0055679",
+          "taxon": {
+            "taxon_id": "t0055679",
+            "taxon_status": "accepted",
+            "name_id": 24579,
+            "simple_name": "Triticum aestivum",
+            "name_author": "L.",
+            "rank": "Species",
+            "common_name_c": "小麥",
+            "alternative_name_c": null,
+            "synonyms": "Triticum aestivum subsp. transcaucasicum, Triticum aestivum subsp. vulgare, Triticum aestivum var. uralicum, Triticum aestivum subsp. tibeticum, Triticum aestivum var. erythrospermum, Triticum vavilovii var. munuru, Triticum sativum var. aestivum, Triticum spelta subsp. vavilovii, Triticum aestivum var. ramifera, Triticum aestivum subsp. hadropyrum, Triticum vavilovii var. mupuru, Triticum macha, Triticum aestivum var. vigorovii, Triticum aestivum var. milturum, Triticum vulgare var. aestivum, Triticum aestivum var. australianum, Triticum sativum subsp. vulgare, Triticum vulgare var. hybernum, Triticum aestivum subsp. inflatum, Triticum aestivum var. lutescens, Triticum aestivum var. hybernum, Triticum aestivum subsp. vavilovii, Triticum aestivum var. ferrugineum, Triticum vavilovii, Triticum vulgare, Triticum vulgare var. lutescens, Triticum vulgare var. ferrugineum, Triticum vulgare var. erythrospermum, Triticum vulgare var. caesium, Triticum vulgare var. antiquorum, Triticum vulgare subsp. irano-asiaticum, Triticum vulgare subsp. hadropyrum, Triticum velutinum, Triticum vavilovii var. vavilovomilturum, Triticum vavilovii var. sisianicum, Triticum vavilovii var. ramomuticum, Triticum vavilovii var. ramocoeruleum, Triticum vavilovii var. lorenze, Triticum tustella, Triticum sunpanii, Triticum sphaerococcum, Triticum siliginum, Triticum sibiricum, Triticum segetale, Triticum sativum, Triticum rufinflatum, Triticum rossicum, Triticum quadratum, Triticum pulverulentum, Triticum pubescens, Triticum poltawense, Triticum pilosum, Triticum martius, Triticum lutinflatum, Triticum linnaeanum, Triticum labile, Triticum koeleri, Triticum inflatum, Triticum imberbe, Triticum hybernum, Triticum horstianum, Triticum hieminflatum, Triticum erinaceum, Triticum duriusculum, Triticum clavatum, Triticum caeruleum, Triticum bucharicum, Triticum asiaticum, Triticum asetivum, Triticum arundinaceum, Triticum aristatum, Triticum antiquorum var. vavilovianum, Triticum amylosum, Triticum album, Triticum aestivum var. vavilovianum, Triticum aestivum var. subtadjicorum, Triticum aestivum var. subfalsegraecum, Triticum aestivum var. subfalseerythroleucon, Triticum aestivum var. ruchczianum, Triticum aestivum var. ramosomilturum, Triticum aestivum var. ramosoalborubrum, Triticum aestivum var. quasimeridionale-inflatum, Triticum aestivum var. quasiheraticum, Triticum aestivum var. meridionale-inflatum, Triticum aestivum var. japschorvi, Triticum aestivum var. ischkaschimicum, Triticum aestivum var. dorofeevii, Triticum aestivum var. brezhnevii, Triticum aestivum var. albinflatocapitatum, Triticum aestivum subsp. yunnanense, Frumentum triticum",
+            "is_in_taiwan": true,
+            "alien_type": "naturalized",
+            "alien_status_note": "naturalized: Forestry Bureau, 2012 (B類歸化植物)|naturalized: B類歸化植物：全臺分布與數量極少的種類(林務局，2012)",
+            "not_official": false,
+            "updated_at": "2026-07-16"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

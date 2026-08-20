@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 643,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "817f59452d87ff50a8aa5e3428fcf3d8e4a693c9485178bdce6a5220ee53bc18",
+  "render_dpi": 144,
+  "render_sha256": "36e4e1cf767bc0325b079f6b1faa7f42d76edc970a7c7d02f3eb214596c4ba03",
+  "input_sha256": "36e4e1cf767bc0325b079f6b1faa7f42d76edc970a7c7d02f3eb214596c4ba03",
+  "render_pixel_width": 5678,
+  "render_pixel_height": 7886,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.03,
+  "embedded_character_count": 47,
+  "ocr_character_count": 37,
+  "ocr_alpha_ratio": 0.8649,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.019783926388573958,
+      "text": "Laminarieae.",
+      "width": 0.12324164524551262,
+      "x": 0.8325324044140789,
+      "y": 0.9137998972361221
+    },
+    {
+      "confidence": 1,
+      "height": 0.01894149136921719,
+      "text": "Laminaria Cloustoni Edm.",
+      "width": 0.25201611479451835,
+      "x": 0.39112904189709563,
+      "y": 0.08720930274402816
+    }
+  ],
+  "text": "Laminarieae.\nLaminaria Cloustoni Edm.",
+  "output_sha256": "b048497bea34b02d5890adac8e9915b8e458383214ce67bef2817855b6e25707",
+  "receipt_sha256": "14c2c9d139713574ad8e17ae24f1bcb5402e4c1a391e668e7d09d3689efd778c"
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 385,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "720751956fdf931a982734e8ea1c4e754e9735207244f8bb818e00d2a81e8a43",
+  "render_dpi": 144,
+  "render_sha256": "7e65070f3577afd01c954b18c43bef38b9ae83eb11b482fab9eed67ddd325ed5",
+  "input_sha256": "7e65070f3577afd01c954b18c43bef38b9ae83eb11b482fab9eed67ddd325ed5",
+  "render_pixel_width": 5774,
+  "render_pixel_height": 7982,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.11,
+  "embedded_character_count": 140,
+  "ocr_character_count": 76,
+  "ocr_alpha_ratio": 0.7368,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.01889534791310621,
+      "text": "Laurineae",
+      "width": 0.09839357685928396,
+      "x": 0.5963855415904383,
+      "y": 0.9244186051651246
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906844729363,
+      "text": "B",
+      "width": 0.01405622470534118,
+      "x": 0.602409638751747,
+      "y": 0.3008720929729841
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.023255813689458837,
+      "text": "finnamomum Camphora F. Nees et Eberm.",
+      "width": 0.41365462284205795,
+      "x": 0.24497991705286665,
+      "y": 0.11773255803899141
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01909722222222221,
+      "text": "Dammara alba Rumpe.",
+      "width": 0.3092369409029087,
+      "x": 0.28112449902645736,
+      "y": 0.06820436481877978
+    },
+    {
+      "confidence": 1,
+      "height": 0.018686023023393505,
+      "text": "78: 74",
+      "width": 0.06226694526698506,
+      "x": 0.8753952797333749,
+      "y": 0.01920786371825378
+    }
+  ],
+  "text": "Laurineae\nB\nfinnamomum Camphora F. Nees et Eberm.\nDammara alba Rumpe.\n78: 74",
+  "output_sha256": "d195a53ae2e7782294edce3b1f4f9fd121488ab09182240f7efbc306ac770881",
+  "receipt_sha256": "50c5572bb68d3d224cffbea5b7b8d8db8c1f4580f8ae01c08dba86b44c67b518"
+}

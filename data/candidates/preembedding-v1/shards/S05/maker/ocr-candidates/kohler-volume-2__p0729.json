@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 729,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "eb4d5c12664a6bef9a2f2ab0c192cdbf31f3d769aae60a7f54b6954ade8aaeb7",
+  "render_dpi": 144,
+  "render_sha256": "eccb36c485598cdf7e231382966146c63fd4afd86137e03a6fd618b4e09bb064",
+  "input_sha256": "eccb36c485598cdf7e231382966146c63fd4afd86137e03a6fd618b4e09bb064",
+  "render_pixel_width": 5306,
+  "render_pixel_height": 7538,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.214,
+  "embedded_character_count": 63,
+  "ocr_character_count": 45,
+  "ocr_alpha_ratio": 0.6667,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.02223711922055205,
+      "text": "leguminosae.",
+      "width": 0.15717528049503937,
+      "x": 0.824505141447598,
+      "y": 0.9525442313199471
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "20",
+      "width": 0.02474226894472753,
+      "x": 0.7463917522080487,
+      "y": 0.4302325581474027
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "A",
+      "width": 0.012371133128213863,
+      "x": 0.35876288694104774,
+      "y": 0.3343023258845952
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "6",
+      "width": 0.014432989097632853,
+      "x": 0.47628865990994645,
+      "y": 0.22965116278403064
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "B",
+      "width": 0.014432989097632798,
+      "x": 0.5484536086470599,
+      "y": 0.17732558122052988
+    },
+    {
+      "confidence": 1,
+      "height": 0.02034883650522379,
+      "text": "Abrus",
+      "width": 0.07835051608472077,
+      "x": 0.36907216542155713,
+      "y": 0.06831395386948114
+    },
+    {
+      "confidence": 1,
+      "height": 0.018953026287139463,
+      "text": "precatorius l",
+      "width": 0.19999999139744096,
+      "x": 0.44742268515179495,
+      "y": 0.06686046581452243
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883082859107,
+      "text": "190",
+      "width": 0.03298969013410358,
+      "x": 0.9257731964057022,
+      "y": 0.021802325962723246
+    }
+  ],
+  "text": "leguminosae.\n20\nA\n6\nB\nAbrus\nprecatorius l\n190",
+  "output_sha256": "2c371f4b6c00d3c565f82c57e87dba7abd0e4095de58a07abb7b0fa4d3f33d21",
+  "receipt_sha256": "2bdc987a7091c0d824aa9be38ced08611e4f27cb81630ca6beb3dce74748642c"
+}

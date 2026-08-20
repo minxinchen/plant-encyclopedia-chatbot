@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 551,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "2a48f3787955f54ca9280202886f2dfda11d562026b97fcdece0345c4f186cba",
+  "render_dpi": 144,
+  "render_sha256": "bfbdfbc8912cd8c8474005cd999019e7e50a1ab4a6cc709c9a4003a7e5322d77",
+  "input_sha256": "bfbdfbc8912cd8c8474005cd999019e7e50a1ab4a6cc709c9a4003a7e5322d77",
+  "render_pixel_width": 5702,
+  "render_pixel_height": 7958,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.246,
+  "embedded_character_count": 383,
+  "ocr_character_count": 30,
+  "ocr_alpha_ratio": 0.8667,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.020468352332947748,
+      "text": "Rubiaceae.",
+      "width": 0.11206024064324716,
+      "x": 0.84762099669279,
+      "y": 0.9047367540312974
+    },
+    {
+      "confidence": 1,
+      "height": 0.01909722222222221,
+      "text": "Uncaria Gambir Roxb",
+      "width": 0.24949290133677554,
+      "x": 0.39756592505169336,
+      "y": 0.10019841224302839
+    }
+  ],
+  "text": "Rubiaceae.\nUncaria Gambir Roxb",
+  "output_sha256": "d2410ee82c8a35a18c838a5815cf1ab345af29e2b9a6ecd13d3e07edb0d67160",
+  "receipt_sha256": "b89c305760d1a872cf4f5b87d3679a4cd81174c4af9c5955ecace2414658fdd7"
+}

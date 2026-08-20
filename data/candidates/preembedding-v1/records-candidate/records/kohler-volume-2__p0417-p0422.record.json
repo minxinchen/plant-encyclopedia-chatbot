@@ -1,0 +1,269 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0417-p0422",
+  "entry_id": "kohler-volume-2:p0417-p0422",
+  "owner_shard": "S04",
+  "book_taxon": {
+    "scientific_name": "Copaifera officinalis",
+    "authorship": "L.",
+    "aliases": [
+      "C. Jacquini Desf.",
+      "Kopaiva",
+      "Copahu",
+      "Copaiba"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Copaifera officinalis"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T17:45:16+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Copaifera+officinalis",
+        "query_name": "Copaifera officinalis",
+        "retrieved_at": "2026-08-13T17:45:12+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 417,
+      "evidence_type": "text",
+      "page_text_sha256": "7836fd70751fb3590a54b0e80cfcf50fc2b04a8ea59dbd48e2b2fc296414d0ce",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 418,
+      "evidence_type": "text",
+      "page_text_sha256": "10d8d2df7353b107a76021e0ae1fc3f72f183d78e7a25aca3e84afdbad71922b",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 419,
+      "evidence_type": "text",
+      "page_text_sha256": "e0c63eacb50ca5eea0cd490d68fde96ed0e4ae637ed025349ee0d362eb2ffcdd",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 420,
+      "evidence_type": "text",
+      "page_text_sha256": "da4f6eb8ad7827d247c169f1f3e6062c7a679643dae2f65a4069b8c11f46ce31",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 421,
+      "evidence_type": "text",
+      "page_text_sha256": "23933dc034fed42624476aefdfd6fd923b6cf26da1929051e56e018d0c7d191d",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0417-p0422:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                 Copaifera officinalis L.\n                                       Syn.   C. Jacquini Desf.\n\n                                Kopaiva Ge Copahu —             Copaiba.\n",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Copaifera officinalis L.，同義名 C. Jacquini Desf.，俗名 Kopaiva、Copahu、Copaiba。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 417,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 196,
+        "page_text_sha256": "7836fd70751fb3590a54b0e80cfcf50fc2b04a8ea59dbd48e2b2fc296414d0ce",
+        "exact_text_sha256": "3d3abd2055567a7794a9aee50203bc57c71a045e0a94509ff3de303a16396271",
+        "source_line_start": 1,
+        "source_line_end": 5,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "3d3abd2055567a7794a9aee50203bc57c71a045e0a94509ff3de303a16396271",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0417-p0422:s01:x00",
+      "section_type": "description",
+      "original_text": "         Beschreibung.      Die Gattung   Copaifera besteht aus meist stattlichen,   balsamführenden,   mit\n reich belaubten Kronen ausgestatteten Bäumen, welche mit zerstreut stehenden, paarig gefiederten, 2—10-\n (selten 1-) jochigen Blättern, meist ungleichhälftigen, von zahlreichen Oeldrüsen durchscheinend punk-\n tirten Blättchen und hinfälligen, kleinen Nebenblättchen versehen sind. Die kleinen, meist weissen\n Zwitterblüthen sind zu end- oder achselständigen, einfachen oder rispig zusammengesetzten Aehren,\n selten Trauben angeordnet. Die schuppenfórmigen Deckblätter klein und hinfällig. Blüthenboden\n  (Receptaculum) ebenfalls klein, convex oder wenig verbreitert. Blüthendecke einfach, nur aus einem\n Kelche (Perigon) bestehend, unterständig, lederartig. Kelch 4 blätterig, in der Knospe dachig oder fast\n klappig, unregelmässig, ausgebreitet, abfallend, das oberste Kelchblatt breiter, das unterste schmäler\n als die 2 seitenständigen. Kronblätter fehlend, Staubgefässe 8 oder 10, fast unterständig (hypogyn)\n oder schwach umständig (perigyn), frei, gleich lang, mit etwas gekrümmten, kahlen Filamenten und\ngleich gestalteten, ovalen, an der Mitte des Rückens angehefteten, 2fächerigen und mit Längsrissen\n sich öffnenden Staubbeuteln. Pollen linsenförmig-dreiseitig, 3porig. Stempel frei,. oberständig; Frucht-\n knoten kurz gestielt, 2- (selten 3-) eig, etwas zusammengedrückt, mit schlankem, fadenförmigem,\n gekrümmtem Griffel und endständiger, gestutzter oder wenig kopfiger Narbe. Eichen unter der Spitze\n des Faches der inneren Wand angeheftet. Die mandelfórmige Hülse kurz gestielt, schief elliptisch oder\n gekrümmt eiförmig, zusammengedrückt oder aufgetrieben, holzig lederartig, von der bleibenden Basis\n des Griffes kurz gechnäbelt, 2 klappig, einsamig. Der eiweisslose, hángende Same von einem fleischigen,\n schief glockenfórmigen Mantel halb umhüllt, elliptisch, etwas zusammengedrückt, mit deutlicher Nabel-\n linie. Embryo mit kurzem, geradem, yon den fleischigen, planconvexen Samenenlappen eingeschlossenem\nWürzelchen, welches dem Nabel schief zugewendet ist.",
+      "normalized_text": null,
+      "zh_tw_rendering": "屬 Copaifera 為高大產香脂樹，葉互生或對生，花小白色，果為木質莢果，種子無胚乳。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 417,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 258,
+        "char_end": 2344,
+        "page_text_sha256": "7836fd70751fb3590a54b0e80cfcf50fc2b04a8ea59dbd48e2b2fc296414d0ce",
+        "exact_text_sha256": "4deb3dca128af5d462f6225f70066f05514da9beda7f87f7a4ef1ad302dd6040",
+        "source_line_start": 8,
+        "source_line_end": 28,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "4deb3dca128af5d462f6225f70066f05514da9beda7f87f7a4ef1ad302dd6040",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0417-p0422:s02:x00",
+      "section_type": "distribution",
+      "original_text": "  Narbe von der Länge der Staubgefüsse. Die Frucht, die man bis jetzt blos in unreifem Zustande\n٠ kennt, ist rund, zusammengedrückt, 2klappig, 1—2samig.* In Guayana, in den Küstenländern von\n  Venezuela und Columbia (Neu-Granada) bis Panama, auch auf Trinidad einheimisch. Unsere Abbildung\n  stimmt in Bezug auf die Stellung der Bláttchen mit C. Langsdorffis überein.",
+      "normalized_text": null,
+      "zh_tw_rendering": "產於南美，包括蓋亞那、委內瑞拉沿海、哥倫比亞至巴拿馬及千里達。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 418,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 367,
+        "page_text_sha256": "10d8d2df7353b107a76021e0ae1fc3f72f183d78e7a25aca3e84afdbad71922b",
+        "exact_text_sha256": "a2c4c864d72d2ab1663914f94a8bd2332a5df0c876f796f0a793ce97afce541f",
+        "source_line_start": 1,
+        "source_line_end": 4,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "a2c4c864d72d2ab1663914f94a8bd2332a5df0c876f796f0a793ce97afce541f",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0417-p0422:s03:x00",
+      "section_type": "harvest",
+      "original_text": "            Ueber die Gewinnung liegen nur wenige Berichte vor. Schomburgk beobachtete eine halb-\n  runde Oeffnung, die am unteren Theile des Stammes bis in das dunkle, purpurbraune Kernholz\n  getrieben war; Cross sah im Jahre 1876, wie die Balsamsammler ungefähr 60 Ctm. über der Erde\n  eine saubere und ansehnliche Höhlung durch den 8 Ctm. dicken Splint bis in das Kernholz eintrieben,\n  welche ein Gefäss darstellte, aus dem vermittelst einer aus Rinde geschnittenen Rinne der Balsam in ein\n  ca. 22 Liter messendes Blechgefäss geleitet wurde. Der Balsam ergoss sich in einem durch zahl-\n  reiche perlartige Blasen etwas getrübten Strom in das Gefäss, welches in 1 Stunde schon bis zu 1/,\n  gefüllt war; minutenlang hörte der Strom auf, um dann unter einem eigenthümlichen gurgelnden\n  Geräusch von neuem wieder zu beginnen. Fliesst kein Saft mehr aus, so wird die Oeffnung mit Wachs\n  (wahrscheinlich Thon) verstopft, um nach einigen Tagen die Anzapfung zu wiederholen. Die Aus-\n  beute, welche bei manchen Bäumen eine geringe ist, kann bei anderen bis 48 Liter betragen; im All-\n  gemeinen liefert ein kräftiger Baum bis 40 Liter Balsam.",
+      "normalized_text": null,
+      "zh_tw_rendering": "香脂由樹幹切口或鑽孔流出，收集於容器中，單株產量可達40升。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 419,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2509,
+        "char_end": 3651,
+        "page_text_sha256": "e0c63eacb50ca5eea0cd490d68fde96ed0e4ae637ed025349ee0d362eb2ffcdd",
+        "exact_text_sha256": "cf535dfb9629030133172062bd1fc085bec186f5a68f64306ef8c9513ea382cf",
+        "source_line_start": 28,
+        "source_line_end": 39,
+        "section_index": 3,
+        "section_type": "harvest"
+      },
+      "exact_text_sha256": "cf535dfb9629030133172062bd1fc085bec186f5a68f64306ef8c9513ea382cf",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0417-p0422:s04:x00",
+      "section_type": "constituents",
+      "original_text": "           Bestandtheile. Nach Stoltze enthält der Balsam: 45.59 %/, ätherisches Oel, 52.75 9/, gelbes,\n brüchiges Harz (Alpha-Harz), 1.66%, braunes, schmieriges Harz (Beta-Harz); Gerber fand: 41.0%,\n ätherisches Oel, 51.38 Y, gelbes, sprödes Harz, 2.18 braunes, schmieriges, in Steinöl unlösliches Harz,\n 5.44%, Wasser nebst Verlust. Durand erhielt wenig Säure, eine fette und eine süssliche Substanz\n und Spuren von Chlorcalcium.",
+      "normalized_text": null,
+      "zh_tw_rendering": "成分含約45.59%揮發油、52.75%黃色樹脂及少量棕色樹脂與水分。",
+      "evidence_indexes": [
+        3
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 420,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3243,
+        "char_end": 3674,
+        "page_text_sha256": "da4f6eb8ad7827d247c169f1f3e6062c7a679643dae2f65a4069b8c11f46ce31",
+        "exact_text_sha256": "30f2a077741b7d671393645bdeae658d2c9997e053af8848ba99af936c2428e2",
+        "source_line_start": 36,
+        "source_line_end": 40,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "30f2a077741b7d671393645bdeae658d2c9997e053af8848ba99af936c2428e2",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0417-p0422:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "         Anwendung.      Der Copaivabalsam besitzt eine dem Terpenthinöle ähnliche Wirkung, nur ist\ner weniger reizend und erhitzend. Er bewirkt grössere Thätigkeit der Schleimhäute, Haut und der\nHarnwerkzeuge und verleiht den Absonderungen einen dem Copaiva ähnlichen Geruch. Copaivabalsam\nwird in Substanz, am besten in Gallertkapseln, bei chronischem Lungenkatarrh, Nieren- und Harn-\nsteinen, namentlich aber bei Tripper angewendet. Aeusserlich als Zusatz zu Wundheilmitteln und\nEinreibung bei Skabies. „Die Frage, welchem Componenten des Copaivabalsams die antiblennorrha-\ngische Wirksamkeit desselben zuzuschreiben ist, wird different beantwortet. Die Meisten schreiben\ndieselbe dem ätherischen Oele, Balsamum Copaivae aethereum, zu und vindieiren dem Harzgehalte\nhöchstens eine die Wirksamkeit mehr fixirende und verlangsamende Action (Schroff), während\nAndere   (Weickart,         Gubler,   Zeiss)   den   Harzcomplex    für   ein    ebenso   sicheres   und   noch   dazu\nbilligeres Trippermittel als den Balsam selbst erklären.“ Versuche, welche in den österreichischen\nMilitärhospitälern angestellt worden sind, haben die antiblennorrhagische Wirkung ergeben; es ist\njedoch hierbei der Beweis geführt worden, dass andere billigere, ólreiche Balsamsorten durchaus nicht von\nCopaiva übertroffen werden. Copaiva ist ausser der Gonnorrhoe bei Cystitis chronica und haemorrhagica\ninnerlich und in Einspritzung, bei chronischen Katarrhen der Bronchien, der Lunge, bei Lungen-\nblutungen und als Specificum gegen Croup und Diphtheritis, als Diureticum bei Wassersuchten, bei\nIritis und Hypopyon, bei Dysenterien und chronischem Rheumatismus, bei Psoriasis, Ophthalmia puru-\nlenta, indolenten Schenkelgeschwüren und drohender Mastitis, endlich bei Skabies mit Erfolg an-\ngewendet worden. (Husemann, Arzneimittell 1188. In der Technik wird Copaivabalsam häufig",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史上用於治療淋病、慢性支氣管炎及皮膚病，外用於傷口，亦作工業漆料添加劑。",
+      "evidence_indexes": [
+        4
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 421,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3379,
+        "char_end": 5238,
+        "page_text_sha256": "23933dc034fed42624476aefdfd6fd923b6cf26da1929051e56e018d0c7d191d",
+        "exact_text_sha256": "98ab808b9359d24a43ea8aad85f7baa1b3a73e9616c46fcc1795c1b552ad7107",
+        "source_line_start": 39,
+        "source_line_end": 57,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "98ab808b9359d24a43ea8aad85f7baa1b3a73e9616c46fcc1795c1b552ad7107",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "314d780724314b1271475529b1247a233d41dbbe7196b418cb0be804ea2789d9",
+    "maker_receipt_sha256": "be163e03f43e44d7bf5fd47106e999f2d6d3e7395557963d215977fce99f6ef3",
+    "validation_check_sha256": "f7462fc4ba0074db80e9bfd612b7854a7ae6ba59b1f19b07deef2a3f64c8d19e",
+    "source_disposition_sha256": "f82637cc990397e84a77876291aaae01e8806aca5b07a7cd76e1dfced74e1807",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "be163e03f43e44d7bf5fd47106e999f2d6d3e7395557963d215977fce99f6ef3",
+      "validation_check_sha256": "f7462fc4ba0074db80e9bfd612b7854a7ae6ba59b1f19b07deef2a3f64c8d19e",
+      "source_disposition_sha256": "f82637cc990397e84a77876291aaae01e8806aca5b07a7cd76e1dfced74e1807"
+    },
+    "naming_artifact_sha256": "0de5187306d647575f660c334f4a6243a68f20f2895dbb49901354e2c1bbebb3"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "5370ad79e2562275e9da64f396966e17e8d29d536d473ec641f553ad190813e3"
+}

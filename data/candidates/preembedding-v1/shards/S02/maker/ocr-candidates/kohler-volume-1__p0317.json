@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 317,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "9947e02638aed52ad9ba5a3cda70ea0731b7f8f10b7de7970ee512d9e106c708",
+  "render_dpi": 144,
+  "render_sha256": "f216443ce8fa929f862d0bf54927a40d6111cad77843fd6086c681d4333a6fe2",
+  "input_sha256": "f216443ce8fa929f862d0bf54927a40d6111cad77843fd6086c681d4333a6fe2",
+  "render_pixel_width": 5558,
+  "render_pixel_height": 8102,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 6.466,
+  "embedded_character_count": 133,
+  "ocr_character_count": 60,
+  "ocr_alpha_ratio": 0.65,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01889534791310632,
+      "text": "Coniferae.",
+      "width": 0.09745762094758337,
+      "x": 0.8474576314223946,
+      "y": 0.9142441864177201
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "12",
+      "width": 0.016949152308620596,
+      "x": 0.743644067701622,
+      "y": 0.8372093024305933
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252612005,
+      "text": "10",
+      "width": 0.014830508614827598,
+      "x": 0.5169491523486596,
+      "y": 0.19476744197592266
+    },
+    {
+      "confidence": 1,
+      "height": 0.011751735967303056,
+      "text": "WMüller n. d. Nat.",
+      "width": 0.08901725984188591,
+      "x": 0.7711693370707525,
+      "y": 0.15255436463138883
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185932098874,
+      "text": "Larix decidua Miller.",
+      "width": 0.22881356306207074,
+      "x": 0.3961864410960832,
+      "y": 0.11627907031043583
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "41",
+      "width": 0.014830508614827709,
+      "x": 0.9300847457985183,
+      "y": 0.02906976726704158
+    }
+  ],
+  "text": "Coniferae.\n12\n10\nWMüller n. d. Nat.\nLarix decidua Miller.\n41",
+  "output_sha256": "fbc11b2bd98f98709d96db46e9154ea898946cfbbd3539fea226ced4c9865789",
+  "receipt_sha256": "ae8458b4493f2741f49707d86a50447b8a15cd12be48ddb8b79a772fae95435f"
+}

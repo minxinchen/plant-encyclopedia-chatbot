@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0495-p0498",
+  "owner_shard": "S04",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 116.346,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0495-p0498",
+    "book_taxon": {
+      "scientific_name_candidate": "Dipterocarpus retusus",
+      "authorship_candidate": "Blume",
+      "aliases_candidates": [
+        "Gurjunbalsambaum",
+        "Gurgunbalsambaum",
+        "Gardschanbalsambaum"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 495,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Dipterocarpus retusus Blume，屬龍腦香科，俗稱 Gurjun 或 Gardschan 香脂樹。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          6
+        ],
+        "exact_source_quote": "                                  Dipterocarpus retusus Blume.\n                                Gurjun-, Gurgun- oder Gardschanbalsambaum.\n                                          :              Y\n\n\n            Familie:      Dipterocarpeae;         Gattung:     Dipterocarpus Gaertner."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 495,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "大樹，樹脂豐富，葉全緣或波狀，花大兩性，果實具兩翅，種子無胚乳，胚具大肉質子葉。",
+        "warnings": [],
+        "source_line_range": [
+          8,
+          32
+        ],
+        "exact_source_quote": "        Beschreibung. Die Gattung Dipterocarpus besteht aus grossen, harzreichen, bis 5 Meter\nim Umfange erreichenden Bäumen, mit ganzrandigen oder buchtig gekerbten Blättern und grossen, zuerst\nknospig zusammenschliessenden, später abfallenden Nebenblättern, die eine ringförmige Narbe zurück-\nlassen.     Blüthen    gross, zwitterig, 5gliederig, in armblüthigen,         achselständigen    Trauben.       Der Blüthen-\nkelch ist unterständig, einblätterig, bleibend, mit sternförmigen, vergänglichen Haaren bedeckt; der\nSaum ist ungleichmässig 5spaltig oder 5zähnig, frei, 2 Abschnitte zur Zeit der Fruchtreife sich als\nlange, netzförmig geaderte Flügel entwickelnd. Blumenkrone grösser als der Kelch, unterständig,\ndblátterig;    die Kronblätter     gleich, am      Grunde mit einander verbunden,        etwas   dick, aussen     seidenartig,\nabfallend, in der Knospe zusammengerollt.      Staubgefásse zahlreich, abwechselnd 2reihig um den\nFruchtknoten gestellt, unterständig; Staubfäden unten häutig erweitert, frei, oder etwas verwachsen,\nglatt, das Bindeglied der Fächer zu einer langen, pfriemenartigen Spitze ausgezogen. Staubbeutel\nlinienförmig, länglich, 2fächerig, dem Filamente in ihrer ganzen Länge angewachsen, am Grunde\npfeilförmig, innen der Länge nach sich spaltend. Pollen rund, glatt. Fruchtknoten 3fácherig, ober-\nständig, vom     Kelche    eingeschlossen,       nach der Befruchtung      mit dem letzteren fortwachsend,        frei, eiför-\nmig-rund, am Grunde unscheinbar 3- oder 6eckig, seidenartig-rauh, in jedem Fache mit 2, dem inneren\nFachwinkel      angehefteten    Eichen.       Griffel scheitelständig,   die Staubgefässe   iiberragend,    aufrecht, faden-\nfórmig, ungetheilt oder an der Spitze kurz 3zühnig, am Grunde seidenartig, nach oben glatt. Narbe\nendständig, einfach. Die nicht aufspringende, 2flügelige Frucht ein holzige, rauhe Nuss darstellend,\neiförmig, an der Spitze verjüngt, der Länge nach etwas gefurcht, vom bleibenden Griffel gekrönt, an\ndem   breiten Grunde      mit dem bleibenden          Kelche verwachsen,     von   dem   letzteren   eingehüllt, oben von\nden blattartigen Lappen des Kelches umkränzt, von denen 2 zu bedeutender Länge ausgewachsen sind,\neinsamig. Fruchtflügel parallelnervig, zwischen den Nerven netzaderig. Same gross, pyramidal, der\nrundliche     Grund   mit dem    Boden        der Nuss verbunden,   eiweisslos.    Embryo mit sehr grossen, fleischigen,\nblattartigen, fast gleichen, um einander gewickelten, am Würzelchen ein wenig gespaltenen Samenlappen.\nWürzelchen kurz, dick, cylindrisch, aufrecht, nur mit der Spitze aus den Samenlappen hervorragend."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 495,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "產於印度及摩鹿加群島。D. retusus 原產於班達及西爪哇，葉卵形尖頭，果萼裂片大且暗紅。",
+        "warnings": [],
+        "source_line_range": [
+          34,
+          37
+        ],
+        "exact_source_quote": "            Vorkommen.          In Indien und auf den Molukken.\n          Dipterocarpus retusus Bl. mit abwechselnden, eiförmigen, spitzen, am Grunde gerundeten\nBlättern und kegelförmig zugespitzten, haarigen Knospen. Lappen des Fruchtkelches ziemlich gross,\nlänglich, abgestumpft, dunkelroth. In Bantam und West-Java einheimisch."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 496,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源自印度，1811 年提及，Roxburgh 描述其採集，1868 年收錄於印度藥典，1842 年傳入德國。",
+        "warnings": [],
+        "source_line_range": [
+          23,
+          31
+        ],
+        "exact_source_quote": "         Name und Geschichtliches.         Gurjun ist indischen Ursprunges; ebenso Garjan oder Gard-\nschan (Garjan tel = Holzöl). Dipterocarpus von dis doppelt, srreoov, Flügel und xogztog, Frucht,\nwegen der lang-2flügeligen Früchte.               |                                ;\n         Gurjunbalsam ist in Indien jedenfalls schon sehr lange im Gebrauch. 1811 wurde er von\nFrancklin als aus Ava stammend erwähnt.           Genauere Nachrichten rühren von Roxbu rgh her,\nwelcher in seinem Werke „Plants of the coast of Coromandel“ Abbildung und Beschreibung liefert, ebenso\nüber die Gewinnung des Balsams Nachricht giebt. O’Schaughnessy machte die Beobachtung, dass |\nder Gurjunbalsam eine dem Copaivabalsam ähnliche Wirkung äussert. 1868 erfolgte seine Aufnahme\nin die Pharm.     of India; 1842 wurde       er in Deutschland      bekannt."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 497,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "成分含揮發油（45.5-72%）、樹脂及醋酸。含 Gurgunsäure，熔點 220 度，不溶於水。",
+        "warnings": [],
+        "source_line_range": [
+          29,
+          31
+        ],
+        "exact_source_quote": "          Bestandtheile.   Nach Ch. Lowe enthält der Balsam 65°) ätherisches Oel, 34 Y, Harz,\n  1%, Essigsäure. Werner erhielt 20, ätherisches Oel; Flückiger, wie schon erwähnt, 45.5%, und\n  aus dem Balsam von Cochinchina 72%, ätherisches Oel."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 498,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史用途：替代 Copaiva 治療淋病及麻風病，外用石灰水敷貼。過量可致腹痛腹瀉。亦用於製漆。",
+        "warnings": [
+          "Content describes historical medical use; not modern medical advice."
+        ],
+        "source_line_range": [
+          1,
+          9
+        ],
+        "exact_source_quote": "         Anwendung.      Gurjunbalsam wird an Stelle des Copaivabalsams verwendet. ‫ا‬‎ E\n den Balsam bei Gonorrhoe, der in Emulsion zu 2.0 zweimal tüglich verwendet wird; Ru) mit Kalk-\n wasser zu Umschlägen bei Eichel-, Vorhaut- und Scheidentripper.    „Ostindische Aerzte en Hen\n Gurjunbalsam intern in Emulsion und äusserlich in Umschlägen mit Kalkwasser als EE          bei\n Lepra. Bei dem internen Gebrauche gegen Tripper darf man Dosen von 4.0, auf zweimal bei der\n Mahlzeit     genommen,       nicht   wohl    überschreiten,      da sonst    leicht Kolik        und heftige Diarrhoe entsteht.\nSchweiss und Athem zeigen den Geruch des Balsams, der nicht so leicht wie Copaiva Roseola Visi. ii\n(H usemann, Arzneimittel. 1192.) Die hauptsächlichste Verwendung findet der Balsam zum Anstreichen,\nzur Herstellung von Lackfirnis und Pauspapier."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "094026a68439e83c63e3e4127645c0bf334ba81984c317673dc2baca53786b56"
+}

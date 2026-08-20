@@ -1,0 +1,292 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0128-p0130",
+  "entry_id": "kohler-volume-1:p0128-p0130",
+  "owner_shard": "S02",
+  "book_taxon": {
+    "scientific_name": "Artemisia Cina",
+    "authorship": "Berg",
+    "aliases": [
+      "Semen contra",
+      "Barbotine",
+      "Semencine",
+      "Santonica",
+      "Wormseed",
+      "Flores Cinae",
+      "Semen Santonici",
+      "Semen sanctum"
+    ]
+  },
+  "display_name": "沿海艾",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Artemisia Cina",
+      "Artemisia cina"
+    ],
+    "accepted_scientific_name": "Artemisia cina",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T12:27:09+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Artemisia+Cina",
+        "query_name": "Artemisia Cina",
+        "retrieved_at": "2026-08-13T12:27:09+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0023229",
+        "query_name": "Artemisia Cina",
+        "retrieved_at": "2026-08-13T12:27:09+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0023229",
+        "query_name": "Artemisia Cina",
+        "retrieved_at": "2026-08-13T12:27:09+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Artemisia+cina",
+        "query_name": "Artemisia cina",
+        "retrieved_at": "2026-08-13T12:27:09+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0061049",
+        "query_name": "Artemisia cina",
+        "retrieved_at": "2026-08-13T12:27:09+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0061049",
+        "query_name": "Artemisia cina",
+        "retrieved_at": "2026-08-13T12:27:09+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL accepts the queried book binomial at species rank."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 128,
+      "evidence_type": "text",
+      "page_text_sha256": "0448d9dcde83ad94fff0450e1e4d608677d4cdc69f0e43df1b6e63e6a958e90e",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 129,
+      "evidence_type": "text",
+      "page_text_sha256": "9b427db29d45f22b6f2108900d434cba7d5c573c8d8107a3d0de273f9a110e18",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 130,
+      "evidence_type": "text",
+      "page_text_sha256": "f4f61cbcc34c60e59fe2deda5155591775a124789237af42b4e29797cf859e84",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0128-p0130:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "          Familie: Compositae.             Gattung: Artemisia Lk.",
+      "normalized_text": null,
+      "zh_tw_rendering": "科：菊科 (Compositae)；屬：蒿屬 (Artemisia Lk.)。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 128,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 275,
+        "char_end": 340,
+        "page_text_sha256": "0448d9dcde83ad94fff0450e1e4d608677d4cdc69f0e43df1b6e63e6a958e90e",
+        "exact_text_sha256": "86e3251759a5c537da16098c0a7b585ef0680892f04ef45b98184fcd54bc2e5a",
+        "source_line_start": 11,
+        "source_line_end": 11,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "86e3251759a5c537da16098c0a7b585ef0680892f04ef45b98184fcd54bc2e5a",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0128-p0130:s01:x00",
+      "section_type": "description",
+      "original_text": "          Beschreibung.      0,30—0,50     Meter  hoher,  mehrstengeliger,  reichbluthiger Halbstrauch  mit\ndickem, gewundenem, faserigem Rhizom und in der unteren Halfte holzigen, gelbrindigen, erst behaarten,\ndann kahlen nnd glatten Stengeln. Letztere von der halben Hohe an rispenartig verzweigt. Bispen-\naste diinn, nnter spitzem Winkel anfstrebend.         Blatter zur Bliithezeit wenig hervortretend    fieder-,\n\n\n\nschnittig; Abschnitte linealisch. Die unteren Blatter znr Bliithezeit abgestorben. Das unserer Abbildung\nzu Grande gelegte Exemplar besass keinerlei Blatter als die in der Zeichnung sicbtbaren. Luerssen",
+      "normalized_text": null,
+      "zh_tw_rendering": "高0.3-0.5米，多莖，多花半灌木，具粗壯扭曲纖維狀根莖。莖下部木質，黃皮，初被毛後光滑。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 128,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 460,
+        "char_end": 1083,
+        "page_text_sha256": "0448d9dcde83ad94fff0450e1e4d608677d4cdc69f0e43df1b6e63e6a958e90e",
+        "exact_text_sha256": "b6e09f1434f0b73040691485808f6dfa1a1cff6e1adaddf1deaba9b82893a50d",
+        "source_line_start": 17,
+        "source_line_end": 25,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "b6e09f1434f0b73040691485808f6dfa1a1cff6e1adaddf1deaba9b82893a50d",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0128-p0130:s02:x00",
+      "section_type": "history",
+      "original_text": "         Name und Geschichtliches.           Artemisia ist wahrscheinlich nach Artemis (Diana) in ihrer\nEigenschaft als Besclititzerin der Jungfrauen und der Jungfraulichkeit benannt und zwar bezogen auf den\nTJmstand, dass einige Arten, namentlich A. vulgaris L., zur Beforderung der Menstruation verwendet warden.\nNach Plinius ist der Name auf Artemis, als Geburtshelferin zu beziehen, wird audi von aQVBfxrjg\n(gesund) abgeleitet. Die ebenfalls angenommene Abstammung von Artemisia, der Gemahlin des Konigs\nMausolus (f 350 v. Chr.) ist unwahrscbeinlich, da der Name alter als die Konigin ist. Cina bezieht\nsich auf China, weil man urspriinglich glaubte die Pflanze stamme aus China.          Nach Fliickiger ist\njedoch Cina aus semenzina der Diminutivform des italienischen Wortes semenza, woraus Semen Cinae\n ientstand, hervorgegangen. Wurmsame erklart sich aus den wurmtreibenden Eigenschaften der Pflanze;\nZitwer aus Zedoaria (Curcuma Zecloaria Rostc), weil man im Geruche und Geschmacke Aehnlichkeit\nmit letzterer Pflanze gefunden haben will.        Das weiter unten abgehandelte Santonin stammt von\n8mitonicum und dieses Wort von dem italienischen santo (heilig) oder turkischen santon (ein Heiliger)\n weil die Droge zu uns aus dem heiligen Lande (Palastina) gelangte; daher auch semen sanctum.",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源於阿耳特彌斯女神或希臘語'健康'。'Cina'指中國，實源自義大利語'semenzina'。'Santonin'源自'heilig'。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 129,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 0,
+        "char_end": 1300,
+        "page_text_sha256": "9b427db29d45f22b6f2108900d434cba7d5c573c8d8107a3d0de273f9a110e18",
+        "exact_text_sha256": "50d194f1da1e238627df817aa2e42fa59f232e470c1cc2f7884ff87f3f3cd679",
+        "source_line_start": 1,
+        "source_line_end": 13,
+        "section_index": 2,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "50d194f1da1e238627df817aa2e42fa59f232e470c1cc2f7884ff87f3f3cd679",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0128-p0130:s03:x00",
+      "section_type": "distribution",
+      "original_text": "          Verbreitung     1\n\n                              .   Turkestan.",
+      "normalized_text": null,
+      "zh_tw_rendering": "分佈於土爾克斯坦 (Turkestan)。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 128,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 6146,
+        "char_end": 6219,
+        "page_text_sha256": "0448d9dcde83ad94fff0450e1e4d608677d4cdc69f0e43df1b6e63e6a958e90e",
+        "exact_text_sha256": "ced1a30177993449488df72c9a42c97300013a5639046dcc2a4e3cce41233f29",
+        "source_line_start": 84,
+        "source_line_end": 86,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "ced1a30177993449488df72c9a42c97300013a5639046dcc2a4e3cce41233f29",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0128-p0130:s04:x00",
+      "section_type": "constituents",
+      "original_text": "          Bestandtheile.       Die vor der Entdeckung des Santonins        von   Wackenroder        ausgefuhrte\nAnalyse des levantischen und berberischen Wurmsamens                  hat   folgende    Bestandtheile  ergeben\nCerin 0,35 bez. 0,48, braune, bittere, harzige Substanz 4,45     bez.  6,53,  weiches   grimes  Harz  6,05  bez.\n\n7,59,  bittern Extraktivstoff mit loslichem Kali- und Kalksalze  20,25  bez. 21,53,   gummiartigen   Extraktiv-\nstoff 15,50 bez. 15,24, durch Kali ansgezogenen Extraktabsatz 8,60 bez. 10,25, apfelsaure Kalkerde\n2,00  bez.  4,13, Pflanzenfaser 35,45 bez. 35,57, fremde  erdige  Sabstanzen    6,70,  im  lufttrocknen Wurni-\n samen 0,39       bez.\n                  1,78            eines   blassgelben,       sehr fluchtigen,     oder  minzenartig\n                                                                                    durchdringend kampfer-\nriechenden, scharf und bitter schmeckenden in Aether und Alkohol leicht loslichen atherischen Oeles\n                                                             ,\n\n",
+      "normalized_text": null,
+      "zh_tw_rendering": "含蠟質、苦味樹脂、軟綠樹脂、苦味提取物、膠質提取物、蘋果酸鈣、植物纖維及揮發油。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 130,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 313,
+        "char_end": 1366,
+        "page_text_sha256": "f4f61cbcc34c60e59fe2deda5155591775a124789237af42b4e29797cf859e84",
+        "exact_text_sha256": "f9e89fe46c7f26448ff24dbca4bd79a61d8b5c97dd3709d10da08eccaa6e8490",
+        "source_line_start": 9,
+        "source_line_end": 22,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "f9e89fe46c7f26448ff24dbca4bd79a61d8b5c97dd3709d10da08eccaa6e8490",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0128-p0130:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "              Anwendung.  Das Santonin, welches am zweckmassigsten mit Zucker, Milchzucker oder\nCacaomasse (Santoninpastillen Wurmzeltchen) gereicht wird, ist ein unubertroffenes Mittel gegen\n                                          ,\n\n\n\nSpulwiirmer, die dadurch meistens getodtet werden; ebenso auch Tanien, wohingegen Oxyuris vermi-\ncularis und Trichocephalus dispar nicht darunter leiden.  In grosseren Gaben tritt beim Menschen\nParbensehen, Gelbsehen und Violettsehen in noch grosseren Flimmern, cluselige Empfindung, Ab-\n                                                         ,",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：山道年 (Santonin) 用於驅除蛔蟲和絛蟲。大劑量可致幻覺、嘔吐、痙攣甚至死亡。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 130,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 3868,
+        "char_end": 4453,
+        "page_text_sha256": "f4f61cbcc34c60e59fe2deda5155591775a124789237af42b4e29797cf859e84",
+        "exact_text_sha256": "cb0adaa8d9e5580dda285712bb14bef747e1c9056e39d702137d41ec1b2404fa",
+        "source_line_start": 51,
+        "source_line_end": 60,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "cb0adaa8d9e5580dda285712bb14bef747e1c9056e39d702137d41ec1b2404fa",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "31c8d9361672274e7d1a6b6428264792fae28f5bdb2bb76466dc0288b7e6a9e2",
+    "maker_receipt_sha256": "696b5e792d16f60984a25ef905e1d8d307c9563f843b62c0ea58572d99c8d0ad",
+    "validation_check_sha256": "f280d1d5913d34f787ce7dff6b3c2a14af3a1ae8a71b46ce1aa161cb334a70e8",
+    "source_disposition_sha256": "575cec077c537d91b546f44d078b4959b0cd98647204ab7d46e8bccd9d20b3e4",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "696b5e792d16f60984a25ef905e1d8d307c9563f843b62c0ea58572d99c8d0ad",
+      "validation_check_sha256": "f280d1d5913d34f787ce7dff6b3c2a14af3a1ae8a71b46ce1aa161cb334a70e8",
+      "source_disposition_sha256": "575cec077c537d91b546f44d078b4959b0cd98647204ab7d46e8bccd9d20b3e4"
+    },
+    "naming_artifact_sha256": "06f3bc6256c476f638d09b65b2a60c0d99b772a7b562c72cc6737a196784b109"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "8cecb513ed1896b7f4e0e793dde64906593f52a7e1a33f0ab0b1ab8f6449ee22"
+}

@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0401-p0404",
+  "owner_shard": "S04",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 137.813,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0401-p0404",
+    "book_taxon": {
+      "scientific_name_candidate": "Calamus Draco",
+      "authorship_candidate": "Willd.",
+      "aliases_candidates": [
+        "Daemonorops Draco Blume",
+        "Calamus Rotang 6. Draco L."
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 401,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Calamus Draco Willd.，同義名 Daemonorops Draco。屬棕櫚科，攀援莖。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          7
+        ],
+        "exact_source_quote": "                                        Calamus Draco Willd.\n                   Syn. Daemonorops         Draco Blume.        Calamus Rotang 6. Draco L.\n\n                Drachenblut-Palme,         Rotang —         Sang-Dragon      —     Dragons blood.\n        Familie: Palmae (Unterfamilie: Lepidocarynae); Tribus: Calameae;\n                                                                         Gattung: Calamus L.\n(Daemonorops Bl.)"
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 401,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "莖長可達 100 米以上，具刺，葉單數羽狀，花單性，果實紅色，覆蓋鱗片並滲出樹脂。",
+        "warnings": [],
+        "source_line_range": [
+          8,
+          22
+        ],
+        "exact_source_quote": "         Beschreibung. Die Rotange, welche zur Gruppe der flechtenden Stämme gehö\n                                                                                           ren und an\nden Bäumen emporklettern, in Ermangelung der letzteren auch auf dem Boden in Schl\n                                                                                       angenwindungen\nhinkriechen, entwickeln sich oft zu einer ganz erstaunlichen Länge. Kerner giebt in\n                                                                                      seinem Pflanzen-\nleben die fabelhafte Länge bis zu 200 Meter an, bei einer gleichmässigen Dicke von 2-\n                                                                                      4 Ctm. Unsere\nDrachenblutpalme besitzt einen fingerdicken, biegsamen, rohrartig gegliederten, an Bäumen\n                                                                                                empor-\nkletternden Stamm, welcher mit ungleich langen, in Querreihen stehenden, aufr\n                                                                              echt angedrückten,            oft auch\nrückwärts gebogenen Stacheln besetzt ist und eine Länge über 100 Meter (nach Blume sogar\n                                                                                                 bis 1800\nFuss) erreicht. Blattstiel an der Basis den Stamm umfassend, nebst der peitschenförmigen Blat"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 401,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "產於爪哇、蘇門答臘、婆羅洲沼澤森林。Neess 指出爪哇可能無此種。",
+        "warnings": [],
+        "source_line_range": [
+          43,
+          47
+        ],
+        "exact_source_quote": "         Vorkommen. In sumpfigen Wäldern von Java, Sumatra, Borneo; nach Flückiger in den\nSumpfwäldern von Palembang und Jambi in Ost-Sumatra, im Süden und Südosten Borneos, wahrschein-\nlich auch auf Penang und mehreren der östlichen Sundainseln.       Bezüglich Javas bemerkt Nees\nv. Esenbeck: „Mein Freund Blume konnte aller Mühe ungeachtet während seines Aufenthaltes in\nJava kein Exemplar dieser Palme erhalten, welche auf Java gar nicht vorkommen soll.“"
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 402,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源自東印度，意為龍血。17 世紀後確認為 Daemonorops 產物，古時所指為 Dracaena。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          10
+        ],
+        "exact_source_quote": "            Name      und      Geschichtliches.         Der    Name     Drachenblut,     cinnabaris,    «uwvofaor     der     Alten,\n soll mit der Droge nach Europa gekommen sein; die alten Bezeichnungen sind ostindischen Ursprungs\n und bedeuten so viel wie Drachenblut, Sanguis Draconis, und beziehen sich auf Farbe und Beschaffen-\n heit der Droge. Calamus von xdAauog, bei dem Arabern kalem, Rohr; Drago, Drache; Rotang,\n Rotting, rötan sind malayische Namen für das spanische Rohr.\n          Drachenblut ist zwar ein sehr altes Arzneimittel, doch lässt sich das Produkt von DUM.\n Drago,     obgleich Chinesen      und Araber      mit Borneo     und Sumatra      in lebhaftem        Verkehr     standen,     erst\n  seit Kämpfer und Rumphius (Ende des 17. Jahrhunderts) nachweisen. Das unter den Ausfuhrartikeln\n  Arabiens und Chinas genannte Drachenblut, ebenso dasjenige, welches schon Theophrast, Dioskorides\n. und Plinius erwähnen, war das im Anhange behandelte Drachenblut von Dracaena abstammend."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 403,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含無定形樹脂、苯甲酸、脂肪及鈣鹽。乾餾可得苯甲酸、甲苯及苯乙烯。",
+        "warnings": [],
+        "source_line_range": [
+          11,
+          22
+        ],
+        "exact_source_quote": "         Bestandtheile.    Das Drachenblut enthält nach Herberger: 90.79/, amorphes Harz, 3%,\nBenzoésüure, 29/, Fett, 59/, Kalksalze (oxalsauren und phosphorsauren Kalk).\n           Das reine Harz besitzt       einen süsslichen   etwas    kratzenden        Geschmack,        erweicht in kochendem\nWasser, schmilzt bei 120% und beginnt in etwas höherer Temperatur heftig reizende, benzo&säurehaltige\nDämpfe     zu entwickeln.    Nach Johnson       besitzt es eine Zusammensetzung                von     C,oH,002, ist aber nach\nFlückiger kein einheitlicher Kórper.            Die alkalische Lösung wird mit Salzsäure und Schwefelsäure\ngelb     gefärbt und Wasser    scheidet    aus diesen Lösungen           ein Harz    ab (Draconin,            Dracenin,   Dracin),\nwelches     sich in viel Wasser mit gelber Farbe löst und mit Alkalien roth wird.                             Mittelst Petroleum-\näther,    welcher   Benzoösäure    reichlich    löst,   erhält     man     die    letztere    nicht     aus    dem   Drachenblut,\nwohingegen durch trockene Destillation Krystalle von Benzoésáure und ein öliger Antheil gewonnen\nwerden. In letzterem haben Glenard und Boudault 1844 Dracyl (jetzt Toluol = C,H, [CH;]) und\nDraconyl (jetzt Styrol) aufgefunden. Husemann bringt das letztere mit Metastyrol in Beziehung;"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 403,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史上用作收斂劑，治流涎、肺病及腹瀉。現僅作牙膏著色劑及製造紅色清漆。",
+        "warnings": [],
+        "source_line_range": [
+          32,
+          38
+        ],
+        "exact_source_quote": "          Anwendung.      Jetzt nur noch wenig in der Medizin. Früher galt Drachenblut als ein\nstyptisches und austrocknendes Mittel im äusseren Gebrauche, innerlich gegen Speichelfluss, Lungen-\nauswurf, profuse Schweisse, Durchfall.          „Es dient,       nachdem     es    seinen    Credit    als blutstillendes   Mittel\nverloren, nur noch als färbender Zusatz zu Zahnpulvern.* In der Technik wird es besonders zur Her-\nstellung der rothen Firnisse und des Goldlackes verwendet. Die Stengel und Zweige dieser und anderer\nCalamusarten finden als spanisches Rohr zu Spazierstöcken, Stuhl- und anderen Geflechten, Stäben in\nRegenschirmen etc. Verwendung. (Husemann, Arzneimittell. 402.)"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "f8b2eb94c7a396a29bee8234a23b75371d3fe274b5a8b8d8d47f8f43e59df1ce"
+}

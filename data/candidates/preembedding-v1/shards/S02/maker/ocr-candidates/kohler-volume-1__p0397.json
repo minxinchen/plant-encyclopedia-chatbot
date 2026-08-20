@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 397,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "aefaa50d72d28252c0d919f7e222ab8fb2daebff743ad7416097bb209d579a6a",
+  "render_dpi": 144,
+  "render_sha256": "ab37ac5ba42771fb55fa6100bf67b3c592f4717435eaeb06494374a2c8a977c2",
+  "input_sha256": "ab37ac5ba42771fb55fa6100bf67b3c592f4717435eaeb06494374a2c8a977c2",
+  "render_pixel_width": 5930,
+  "render_pixel_height": 8054,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 7.572,
+  "embedded_character_count": 72,
+  "ocr_character_count": 45,
+  "ocr_alpha_ratio": 0.7556,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.019200029827299514,
+      "text": "Rubiaceae.",
+      "width": 0.11054905335911192,
+      "x": 0.8066584130969621,
+      "y": 0.9140918455610387
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185932098874,
+      "text": "wM.",
+      "width": 0.03747534446844747,
+      "x": 0.6607495072693923,
+      "y": 0.16133721001973822
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.020446889930301193,
+      "text": "Cinchona succirubra Pav.",
+      "width": 0.27810650449810603,
+      "x": 0.3491124247479884,
+      "y": 0.11918604682732992
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.008726697592508215,
+      "text": "79 II",
+      "width": 0.027613411848793956,
+      "x": 0.8895463516199817,
+      "y": 0.04360465152149706
+    }
+  ],
+  "text": "Rubiaceae.\nwM.\nCinchona succirubra Pav.\n79 II",
+  "output_sha256": "4c92768c5e8232566f202887412a0a27c34e1a6aa9a9b272f433605095726ea2",
+  "receipt_sha256": "c03565f3643dc8dee5c4fd56d96d056719567269b4c580196ae399e67dd0731b"
+}

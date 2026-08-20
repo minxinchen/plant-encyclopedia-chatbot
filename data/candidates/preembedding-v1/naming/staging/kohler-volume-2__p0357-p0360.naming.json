@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-2:p0357-p0360",
+  "owner_shard": "S04",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S04/maker/structure-drafts/kohler-volume-2__p0357-p0360.json",
+  "source_draft_sha256": "90728c9efd999594a1b6e84508ce52d29a5beba1179d5617021598862713cb30",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "c3795144e17714d653784c1836844009109c623eb9a067d997efcab0aaa22d58",
+    "validation_check_sha256": "a465b2c8d8b8ff987e67b4f083cd6444b5098525eb23c114daa0b4adf3cf033b",
+    "source_disposition_sha256": "026e3e6be49e8c4de782cd059952614e2ea50430abddfe52d2c1273ddaa806b3",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Euphorbia resinifera",
+    "authorship_candidate": "Berg.",
+    "aliases_candidates": [
+      "Tithymalus resiniferus Krst."
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Euphorbia resinifera"
+    ],
+    "accepted_scientific_name": "Euphorbia resinifera",
+    "display_name_zh_tw": "龍骨木",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0073927",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary",
+    "rationale": "TaiCOL accepts the queried book binomial at species rank.",
+    "checked_at": "2026-08-13T15:11:46+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Euphorbia resinifera",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Euphorbia+resinifera",
+      "retrieved_at": "2026-08-13T15:11:46+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Euphorbia resinifera",
+          "matched_name_id": 56333,
+          "taxon_id": "t0073927",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Euphorbia resinifera",
+          "accepted_name_id": 56333,
+          "accepted_usage": [
+            {
+              "usage_id": 40294,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0073927",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0073927",
+          "taxon": {
+            "taxon_id": "t0073927",
+            "taxon_status": "accepted",
+            "name_id": 56333,
+            "simple_name": "Euphorbia resinifera",
+            "name_author": "O.Berg",
+            "rank": "Species",
+            "common_name_c": "龍骨木",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-12-24"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-3:p0255-p0258",
+  "owner_shard": "S07",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 155.812,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-3:p0255-p0258",
+    "book_taxon": {
+      "scientific_name_candidate": "Rhus succedanea",
+      "authorship_candidate": "De Candolle",
+      "aliases_candidates": [
+        "Japanischer Wachsbaum",
+        "Talgbaum",
+        "Haze",
+        "Haji",
+        "Hagi",
+        "Fasi-no-ki"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "description",
+        "pdf_page": 255,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "樹高3至9公尺，莖皮灰褐，木材黃色。葉互生，長15至20公分，羽狀複葉，小葉5至7對，橢圓狀披針形。",
+        "warnings": [],
+        "source_line_range": [
+          5,
+          18
+        ],
+        "exact_source_quote": "           Beschreibung.       Der Baum          wird    in Japan           bis 9 m hoch,          doch   sind 3 bis 6 m die\ngewöhnliche      Höhe.     Der    Stamm      besitzt    eine 'graubraune             Rinde   und    ein gelbes     hartes     Holz,\nwelches einen hellen, an der Luft sich schwärzenden Saft enthält. Der Baum trägt eine\nnicht sehr reichlich verzweigte Krone; die Zweige sind nur teilweise mit Blättern besetzt;\nletztere häufen sich vielmehr am Ende der Zweige. Die Blätter sind von schön grüner\nFarbe und röten sich vor dem Abfallen im Herbste. Sie sind paarig gefiedert; ihre Gesamt-\nlänge beträgt 15 bis 20 cm; ihr Blattstiel ist kahl und rund, nicht rinnig; er trägt ausser\ndem Endblättchen fünf bis sieben Paar gegenständiger, kahler, ziemlich harter, ganzrandiger\nFiederblättchen. Diese sind eilanzettlich, am Grunde etwas ungleich, und mit vorgezogener\nSpitze versehen.         Ihre Länge beträgt 5 bis 7 cm, ihre Breite 2 bis 2,5 cm, das unterste Paar\nist meist das kleinste; es ist gegen 8 cm vom Zweige entfernt, von dunkelgrüner Farbe,\noberseits glänzend, unterseits matt, aber kaum heller. — Jedes Blättchen lässt dreizehn bis\nachtzehn oder mehr Seitenrippen erkennen, welche unter Winkeln von 60 bis 70° aus der\nMittelrippe hervortreten.   In frühester Jugend sind die Blätter in braunen Filz eingehüllt."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 255,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "據Brandis原產日本，分布至前印度、尼泊爾及旁遮普；Rein與Robertson認為原產琉球群島。",
+        "warnings": [],
+        "source_line_range": [
+          42,
+          45
+        ],
+        "exact_source_quote": "    |     Vorkommen und Ver         bre itu ng.      Nac h    Bra  ndi s      soll  die   Pfla nze   in  Jap an   heim  isch\nsein und     sich von     hier bis Vorderindien,            Nepal    und     des Pendschab         verbreitet     haben.      Rein\nund Robertson halten die Lutsch u-I nse ln für die Hei mat des Bau mes , wäh ren d sie glau ben,\n                                                                                                                        50"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 256,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "果實解剖：外果皮薄而脆，中果皮含乳汁管及儲脂組織，內果皮為堅硬黃色殼，種子無胚乳。",
+        "warnings": [],
+        "source_line_range": [
+          46,
+          55
+        ],
+        "exact_source_quote": "           Anatomisches. Die Früchte von Rhus succedanea DC. si\n                                                                nd von A. Meyer genauer unter-\nsucht.     Auf eine dünne, spröde, glatte, glänzende Epidermis fo\n                                                                   lgt die wichtige Mittelschicht\nder Frucht,     welche      unter    der Lupe          zwei    Reihen       dunkler    Längsstreifen,         und     dazwischen    ein\nmürbes lockeres Gewebe zeigt. Unter dem Mikroskop\nsaftgänge, welche von einer mehrreihigen Sc           er we is en si ch di e er st er en als Milch-\n                                            hicht von Sklerenchymzellen umgeben werde\nSie enthalten bei der Reife eine braune ei                                                       n\n                                           ngetrocknete Masse.                                   Zwischen den beiden Reihen"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 257,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史用途：種子壓榨得日本蠟（Japantalg），經蒸煮、壓榨及漂白製成蠟塊，用於製造蠟燭。",
+        "warnings": [],
+        "source_line_range": [
+          6,
+          19
+        ],
+        "exact_source_quote": "         Offizinell und Handelsware ist das aus den Samen gepresste Fett: Japantalg, Japan-\n'wachs, Cera Japoniea, Japan-wax, Cire de Japon, jap. £o. Die in Büscheln stehenden Beeren\nvon der Grösse einer kleinen Erbse enthalten das Fett in der Mittelschicht, zwischen dem\nKern und der äusseren Schale.                Die Darstellung des Japantalgs geschieht nun im allgemeinen\nin der Weise, dass die Früchte im Mörser zerquetscht, gewerfelt, (d. h. durch Werfen die\nschwereren Steine von dem leichteren Mesocarp getrennt) dann über Wasserdämpfen auf\nMatten gedämpft, darauf in Hanfsäcke gethan und wieder gedämpft und in sehr primitiven\nHolzpressen gepresst werden. Das Rohprodukt von bräunlicher oder gräulicher Farbe wird meist\nunter Zusatz von »e-no-abura oder Ye Goma (d. i. Öl von Perilla ocymoides, zur Verflüssigung)\ngepresst, in Kuchen geformt, mit einer Axt Hobel in kleine Schnitzel zerschnitten und durch\nwiederholtes Kochen mit Holzaschenlösung und später mit reinem Wasser gebleicht.        Das\nPflanzenwachs   von zwei bis drei Jahre alten Beeren ist härter und teurer als das von\nfrischen    Beeren. — Nach           dem       Aussehen     unterscheidet          man     ungebleichtes            Wachs     zweiter\nund    erster   Güte, sowie     gebleichtes         Wachs   dritter, zweiter        und    erster     Qualität."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 257,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "成分：含甘油酯、棕櫚酸及高熔點酸，甘油含量11.6至14.7%，酸值20，酯值200，皂化值214至222。",
+        "warnings": [],
+        "source_line_range": [
+          38,
+          55
+        ],
+        "exact_source_quote": "           Eigenschaften und Zusammensetzung. Der Japantalg                                  bildet Kuchen von 12 cm\nDurchmesser und 2,5 cm Dicke oder im rohen Zustande runde Kuchen von ca. 12 em Durch-\nmesser, die durch Erstarren der geschmolzenen Masse in Thonschalen erhalten werden. Im\n‘'Grossohandel     finden     sich auch Blöcke          von 65 kg Gewicht.                Auf dem Bruche              ist er weiss\noder   gelblichgrün     bis    braun,        oben   bereift und    oft mit einer glänzenden                Krystallschicht        be-\nsetzt. Der Geruch ist unangenehm talgartig. Bei längerem Liegen an der Luft färbt er sich\n allmählich gelbbraun. Schmelzpunkt 52 bis 53°, spezifisches Gewicht des gebleichten Wachses\n etwas schwerer als Wasser, das des frisch umgeschmolzenen sowie des bei Zimmertemperatur\n‚gemessenen Talgs etwas geringer als Wasser. In Alkohol von 97°/, ist er leicht löslich,\nbeim    Erkalten    krystallisiert      er     grösstenteils     wieder     aus.     Das    Auskrystallisierte          hat     einen\nSchmelzpunkt von 54°, während 3°/, in Lösung bleiben, mit einem Schmelzpunkt von 34 bis\n35°.   Nach Buri besteht der Japantalg aus den’Glyceriden der Palmitinsäure, einer ölartigen\nSäure, und einer Säure, deren Schmelzpunkt höher liegt, als der der Stearinsäure. — Sehr\ncharakteristisch ist der hohe Glyceringehalt des Japantalgs, der nach Allen 11,6 bis 14,7%,\nbeträgt und der den Forscher vermuten liess, dass Diglyceride in dem Talg enthalten seien.\nDieselben konnten indessen nicht nachgewiesen werden.     Aus diesen Eigenschaften resultieren\n für den Japantalg als Säurezahl 20, als Esterzahl 200, als Verseifungszahl 214 bis 222, als\n.Jodzahl 4,2."
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 258,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "圖版說明：A花枝，B果枝，1花，2花縱切，3萼與盤，4去外果皮果，5果橫切，6果縱切。",
+        "warnings": [],
+        "source_line_range": [
+          63,
+          68
+        ],
+        "exact_source_quote": "                                                          Tafelbeschreibung:\n          A Blütenzweig; B Fruchtzweig; 1 Blüte; 2 dieselbe im Längsschnitt; 3 Kelch mit Diskus und Pis\n                                                                                                        till;\n4 Frucht nach Entfernung des Exocarps; 5 Frucht im Querschnitt; 6 Frucht im Längsschnitt; 7 u I\nNach Exemplaren des Köngl. Herbars zu Berlin: Rhus succedanea L. var. japonica En ver          Hi    2eSB,\nleg. Ojakuli in Japan 1874.                                                          5      ect"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "cf7b65c08a878adc23f1af57e8fe8e482ba92748250ba1184e2dad9307c33db1"
+}

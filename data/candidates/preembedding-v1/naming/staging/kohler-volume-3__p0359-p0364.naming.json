@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-3:p0359-p0364",
+  "owner_shard": "S07",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S07/maker/structure-drafts/kohler-volume-3__p0359-p0364.json",
+  "source_draft_sha256": "f832f6dc1023c1ab433b2bd4fe9098e13e87bc5f723ddf394297a7c5d0bb03e3",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "9caef61d5a004bbd7484e4c0b50432a2155d1e5921a22ae1fb44213ed46836c5",
+    "validation_check_sha256": "8436cfdc0371ab5337a19f2ce390cfdb0393165d6c3a1fec3277cf8c4b13d4fc",
+    "source_disposition_sha256": "ee665fc7f9ae9d46b265f770ca06bad6bace30d535c9cab00a71db26e66e8546",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Elaeis guineensis",
+    "authorship_candidate": "Jacg.",
+    "aliases_candidates": [
+      "Elaeis de Guinee",
+      "Coco de dente",
+      "mtschi-kitschi"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Elaeis guineensis"
+    ],
+    "accepted_scientific_name": "Elaeis guineensis",
+    "display_name_zh_tw": "油椰子",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0053492",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary",
+    "rationale": "TaiCOL accepts the queried book binomial at species rank.",
+    "checked_at": "2026-08-13T19:37:37+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Elaeis guineensis",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Elaeis+guineensis",
+      "retrieved_at": "2026-08-13T19:37:37+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Elaeis guineensis",
+          "matched_name_id": 21994,
+          "taxon_id": "t0053492",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Elaeis guineensis",
+          "accepted_name_id": 21994,
+          "accepted_usage": [
+            {
+              "usage_id": 318153,
+              "reference_id": 8031,
+              "reference_type": "Checklist",
+              "publish_year": 2017,
+              "citation": "GISD, - (2017) Global Invasive Species Database",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 109314,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 2003,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0053492",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0053492",
+          "taxon": {
+            "taxon_id": "t0053492",
+            "taxon_status": "accepted",
+            "name_id": 21994,
+            "simple_name": "Elaeis guineensis",
+            "name_author": "Jacq.",
+            "rank": "Species",
+            "common_name_c": "油椰子",
+            "alternative_name_c": null,
+            "synonyms": "Elaeis nigrescens, Elaeis madagascariensis, Elaeis virescens, Elaeis melanococca, Palma oleosa, Elaeis melanococca var. semicircularis, Elaeis macrophylla, Elaeis guineensis var. spectabilis, Elaeis guineensis var. sempernigra, Elaeis guineensis var. rostrata, Elaeis guineensis var. repanda, Elaeis guineensis var. pisifera, Elaeis guineensis var. microsperma, Elaeis guineensis var. madagascariensis, Elaeis guineensis var. macrosperma, Elaeis guineensis var. macrophylla, Elaeis guineensis var. macrocarya, Elaeis guineensis var. macrocarpa, Elaeis guineensis var. leucocarpa, Elaeis guineensis var. intermedia, Elaeis guineensis var. idolatrica, Elaeis guineensis var. gracilinux, Elaeis guineensis var. compressa, Elaeis guineensis var. ceredia, Elaeis guineensis var. angulosa, Elaeis guineensis var. albescens, Elaeis guineensis subsp. virescens, Elaeis guineensis subsp. nigrescens, Elaeis guineensis fo. tenera, Elaeis guineensis fo. semidura, Elaeis guineensis fo. ramosa, Elaeis guineensis fo. fatua, Elaeis guineensis fo. dura, Elaeis guineensis fo. dioica, Elaeis guineensis fo. caryolitica, Elaeis guineensis fo. androgyna, Elaeis dybowskii",
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": "cultured: 原生於非洲; 沒有入侵性",
+            "not_official": false,
+            "updated_at": "2025-10-01"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

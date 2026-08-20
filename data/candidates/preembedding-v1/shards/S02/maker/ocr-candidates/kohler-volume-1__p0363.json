@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 363,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "d8c7bd94d3ac181e7f653a945b5160b7761a5cfc40550f975792f6e8654cf273",
+  "render_dpi": 144,
+  "render_sha256": "206314d04dbca95abea78a60996a546a9d9c01316710bfd7f4255342242031c2",
+  "input_sha256": "206314d04dbca95abea78a60996a546a9d9c01316710bfd7f4255342242031c2",
+  "render_pixel_width": 5858,
+  "render_pixel_height": 8042,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 5.604,
+  "embedded_character_count": 224,
+  "ocr_character_count": 65,
+  "ocr_alpha_ratio": 0.6923,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.021155694174388118,
+      "text": "Scophutariaceae",
+      "width": 0.15358472892911834,
+      "x": 0.7608570372705377,
+      "y": 0.9429105247988859
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "10",
+      "width": 0.013944223350696228,
+      "x": 0.7968127487081181,
+      "y": 0.3008720931282678
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "13",
+      "width": 0.01593625488696737,
+      "x": 0.8545816731939665,
+      "y": 0.18750000022789237
+    },
+    {
+      "confidence": 1,
+      "height": 0.0194666612715948,
+      "text": "W.Müll er n. d.Nat.",
+      "width": 0.09980339741041422,
+      "x": 0.8285843562276453,
+      "y": 0.16250504169827162
+    },
+    {
+      "confidence": 1,
+      "height": 0.02037767569224036,
+      "text": "Digitalis purpurea l",
+      "width": 0.20517927550230808,
+      "x": 0.39043824813032013,
+      "y": 0.11334325418827851
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "62",
+      "width": 0.017928286423238404,
+      "x": 0.9083665342585003,
+      "y": 0.030523255938100347
+    }
+  ],
+  "text": "Scophutariaceae\n10\n13\nW.Müll er n. d.Nat.\nDigitalis purpurea l\n62",
+  "output_sha256": "adbfc6e6872a0c20a55dc8711b852bea20170e77dcc5ad800f42ecdef0bd0e26",
+  "receipt_sha256": "aae1ac564d846824210e30db857319877757f8f3cb369d0abe907744822fe9ef"
+}

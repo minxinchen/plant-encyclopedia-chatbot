@@ -1,0 +1,289 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0127-p0132",
+  "entry_id": "kohler-volume-2:p0127-p0132",
+  "owner_shard": "S03",
+  "book_taxon": {
+    "scientific_name": "Ipecacuanha Willden",
+    "authorship": "Willden",
+    "aliases": [
+      "Ceph. emetica Pers.",
+      "Ipecacuanha officinalis Arrud.",
+      "Psychotria Ipecacuanha Müller, Arg.",
+      "Uragoga Ipecacuanha Baill."
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Ipecacuanha Willden",
+      "Ipecacuanha willden"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T16:25:56+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Ipecacuanha+Willden",
+        "query_name": "Ipecacuanha Willden",
+        "retrieved_at": "2026-08-13T16:25:52+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Ipecacuanha+willden",
+        "query_name": "Ipecacuanha willden",
+        "retrieved_at": "2026-08-13T16:25:52+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Ceph+emetica",
+        "query_name": "Ceph emetica",
+        "retrieved_at": "2026-08-13T16:25:53+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Ipecacuanha+officinalis",
+        "query_name": "Ipecacuanha officinalis",
+        "retrieved_at": "2026-08-13T16:25:53+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Psychotria+ipecacuanha",
+        "query_name": "Psychotria ipecacuanha",
+        "retrieved_at": "2026-08-13T16:25:53+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Uragoga+ipecacuanha",
+        "query_name": "Uragoga ipecacuanha",
+        "retrieved_at": "2026-08-13T16:25:53+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 127,
+      "evidence_type": "text",
+      "page_text_sha256": "1fd678e8c6a9235ec17457db404f84f6263a4ef843db609f251edba7822e3ec3",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 128,
+      "evidence_type": "text",
+      "page_text_sha256": "59e31bdf26a0af19e089cb058b929caeb8121b4c345e90c4fe560ca61c43c3d3",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 130,
+      "evidence_type": "text",
+      "page_text_sha256": "ff164f73abe239b55ff91380c83d16f25acdef77bdadd64614498b904ea7deb1",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0127-p0132:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                Cephaélis Ipecacuanha Willden.\nSyn. Ceph. emetica Pers. Ipecacuanha officinalis Arrud. Psychotria Ipecacuanha Müller, Arg.\n                                              Uragoga Ipecacuanha Baill.\n\n     Brechwurzel, Ipecacuanha                 —   Ipecacuanha       annelé ou officinal 一                Ipecacuanha.\n\n            Familie: Rubiaceae.         Gattung: Cephaélis Sw.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Cephaélis Ipecacuanha Willden，同物異名包括 Psychotria Ipecacuanha。隸屬茜草科。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 127,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 410,
+        "page_text_sha256": "1fd678e8c6a9235ec17457db404f84f6263a4ef843db609f251edba7822e3ec3",
+        "exact_text_sha256": "170549e1aa05f71465124a4e7918e62aa71620127ceb134e23883ee3a869d8b8",
+        "source_line_start": 1,
+        "source_line_end": 7,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "170549e1aa05f71465124a4e7918e62aa71620127ceb134e23883ee3a869d8b8",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0127-p0132:s01:x00",
+      "section_type": "description",
+      "original_text": "         Beschreibung.       Halbstrauchartige, 15—40 (auch mehr) Ctm. hohe, gesellschaftlich vor-\nkommende Pflanze mit unter dem Boden kriechendem, knotig-gegliedertem, holzigem Stämmchen, aus\ndem vereinzelte, ca. 15 Ctm. lange, mit wenig Zasern besetzte, senkrecht niedersteigende, erst faden-\nförmige, fast glatte, etwas hin- und hergebogene, dann rasch dicker werdende, mit dichtstehenden,\nringfórmigen Wülsten und Höckern versehene, nach der Spitze hin wieder verdünnte, aussen brüunliche,\ninnen weisse Wurzeln entspringen. Die ringartigen Wülste sind in der Regel etwas über die Hälfte\numlaufend, werden gegen die Enden schmäler und stehen sich häufig einander gegenüber; ihre schmalen\nEnden übereinanderlegend. Der oberirdische, aus holzigem Grunde aufsteigende Stengel unten nackt,\nnach oben krautartig , vierkantig und meist kurzhaarig, einfach oder wenig ästig, oben hebláttert.",
+      "normalized_text": null,
+      "zh_tw_rendering": "半灌木，高15-40公分。地下莖匍匐，具環狀突起。莖直立，四棱形，葉對生，長橢圓形，邊緣具短刺。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 127,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 411,
+        "char_end": 1299,
+        "page_text_sha256": "1fd678e8c6a9235ec17457db404f84f6263a4ef843db609f251edba7822e3ec3",
+        "exact_text_sha256": "ae8ddb429dde4f49363a0166eb6dfa3dcd4b1d185b607992c1f4077ff28f4c72",
+        "source_line_start": 8,
+        "source_line_end": 16,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "ae8ddb429dde4f49363a0166eb6dfa3dcd4b1d185b607992c1f4077ff28f4c72",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0127-p0132:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "           Anatomisches.             Der Wurzelquerschnitt            zeigt eine dicke,     hornartige,     aussen    dunkle,      innen\nbräunliche, markstrahlenlose, vom Holze leicht abtrennbare Rinde und ein weissliches, fein poröses,\nundeutlich-strahliges Holz ohne Mark. Die Aussenrinde besteht aus einem dunkelbraunen, von wenigen\nReihen tafelförmiger, ziemlich dickwandiger Zellen gebildeten Korke; die Mittelrinde aus einem gleich-\nfórmigen Parenchym, dessen mit Stärkemehl erfüllte, dünnwandige Zellen nach der Aussenseite hin im\nQuerschnitte tangential gestreckt erscheinen, nach innen allmühlig würfelfórmige, polyedrische Form\nannehmen, gegen das Holz zu enger und in der Richtung der Axe gestreckter werden; Innenrinde\noder Bast ganz fehlend. Der Kambiumring ist sehr schmal. Der gleichfalls Stärke führende, stellen-\nweis kurze Keile in die Rinde sendende Holzkórper zeigt auf dem Querschnitte ein gleichfórmiges,\netwas    dickwandiges,     von vereinzelten Markstrahlen              durchsetztes Gewebe,     dessen Zellen ungleiche,         eckig-\nrundliche, meist etwas radial gedehnte Form besitzen und in der marklosen Mitte ‘dichter stehen. Im\nLüngsschnitte sind die Holzzellen kurz, porös, spiralig oder netzig gestreift. Einzelne Rindenzellen,\nnamentlich im inneren Theile der Rinde, zeigen Nadelbündel von Kalkoxalat.              |",
+      "normalized_text": null,
+      "zh_tw_rendering": "根橫切面：皮層厚，無木質部射線；木質部無髓，細胞含澱粉。皮層細胞含草酸鈣針晶束。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 128,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 1682,
+        "char_end": 3035,
+        "page_text_sha256": "59e31bdf26a0af19e089cb058b929caeb8121b4c345e90c4fe560ca61c43c3d3",
+        "exact_text_sha256": "d782834ebbfb4ec7c4a2411a46d70f16845d042d840a08311f7ca58e12955f87",
+        "source_line_start": 19,
+        "source_line_end": 31,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "d782834ebbfb4ec7c4a2411a46d70f16845d042d840a08311f7ca58e12955f87",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0127-p0132:s03:x00",
+      "section_type": "distribution",
+      "original_text": "         Vorkommen.       Feuchte, schattige Wälder Südamerikas zwischen dem 8. und 22, Grad südl.\nBreite, nach Flückiger namentlich in den brasilianischen Provinzen Para, Maranhao, Pernambuco,\nBahia, Espirito Santo, Minas graecas, Matto grosso, Rio de Janeiro, Sao Paulo, in der bolivianischen\nOstprovinz Chiquitos, auch im nördlichen Südamerika.",
+      "normalized_text": null,
+      "zh_tw_rendering": "產於南美洲潮濕陰涼森林，南緯8-22度。主要分佈於巴西各省及玻利維亞東部。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 128,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3036,
+        "char_end": 3383,
+        "page_text_sha256": "59e31bdf26a0af19e089cb058b929caeb8121b4c345e90c4fe560ca61c43c3d3",
+        "exact_text_sha256": "3af05b925a82bddaac86802330463f278d53ffbf4a976a391f3d58f01b0ca556",
+        "source_line_start": 32,
+        "source_line_end": 35,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "3af05b925a82bddaac86802330463f278d53ffbf4a976a391f3d58f01b0ca556",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0127-p0132:s04:x00",
+      "section_type": "history",
+      "original_text": "       Name und Geschichtliches.      Ipecacuanha wird abgeleitet vom portugiesischen ; klein,\npe am Wege, caa Pflanze, Kraut, goene brechenerregend, demnach bezeichnet das Wort ei\n                                                                                      ne kleine\nam Wege wachsende, brechenerregende Pflanze; nach Anderen stammt das Wort von ip\n                                                                                      e Rinde,\ncaa Pflanze,    cua wohlriechend            und nha strahlig.         Cephaelis   von     repola Kopf und sew             zusammen-\ndrängen,   Pflanze mit aus zusammengedrüngten Blüthen bestehendem Kopfe.                           Psychotria von woxn Seele,\nLeben und teegew ernähren, erhalten, in Bezug auf die arzneiliche Wirkung.\n        Der Mönch Michael Tristram, der gegen Ende des 16. Jahrhunderts sich in Brasilien auf-\nhielt,   erwähnt. eines        Arzneimittels      Zgpecaya     oder    Pigaya     gegen   Blutfluss , worunter        T\nIpecacuanha     zu   verstehen      ist.    Die    ersten    bestimmten    Nachrichten      stammen       von   den beiden Natur-\nforschern Wilh. Piso        und Georg Markgraf,                welche 1636—1641           den Grafen Moritz          von Nassau      auf.\nseiner   brasilianischen Reise        begleiteten      und bei dieser Gelegenheit Ipecacuanha              näher kennen       lernten.\nSie rühmten das Mittel gegen Ruhr und gaben Abbildungen und Beschreibungen von zwei\n                                                                                    Wurzeln,",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源自葡萄牙語，意為「路邊嘔吐草」。1636年Piso與Markgraf記錄其治痢疾功效。1672年傳入法國。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 128,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3438,
+        "char_end": 5018,
+        "page_text_sha256": "59e31bdf26a0af19e089cb058b929caeb8121b4c345e90c4fe560ca61c43c3d3",
+        "exact_text_sha256": "003e14a7fdd643bc5cfa1a95869c121cbc50bed8ec8e027f6a9f4021b263afee",
+        "source_line_start": 38,
+        "source_line_end": 52,
+        "section_index": 4,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "003e14a7fdd643bc5cfa1a95869c121cbc50bed8ec8e027f6a9f4021b263afee",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0127-p0132:s05:x00",
+      "section_type": "constituents",
+      "original_text": "         Bestandtheile. Die offizinelle Wurzel enthält nach Pelletier: ein eigenthümliches, giftiges,\nheftiges Brechen erregendes Alkaloid (Emetin), Talg, Wachs, Spur eines ekelhaft riechenden ätherischen\nOeles,      Gummi,          42%, Amylum,                 Extraktivstoff,         eigenthümliche,              eisengrünende            Gerbsäure        (Ipecacuanha-\nsäure).\n              Emetin (uéw, erbrechen) mit der Formel C,,H,,NO, (Glénard), C,,H,,N,0,                                                                      (Lefort und",
+      "normalized_text": null,
+      "zh_tw_rendering": "含吐根鹼（Emetin）、脂肪、蠟、揮發油、樹膠、澱粉及具鐵綠色的鞣酸（吐根酸）。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 130,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 4457,
+        "char_end": 5001,
+        "page_text_sha256": "ff164f73abe239b55ff91380c83d16f25acdef77bdadd64614498b904ea7deb1",
+        "exact_text_sha256": "ef08bb291fadd31afd554f2447da1f106fc13f004ae7063e42acb3905f61ba55",
+        "source_line_start": 36,
+        "source_line_end": 40,
+        "section_index": 5,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "ef08bb291fadd31afd554f2447da1f106fc13f004ae7063e42acb3905f61ba55",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "dacfa7eee4afcfec8c73424cbeb1edbb1bca8a7b1566ad3479b22181032b053d",
+    "maker_receipt_sha256": "329feb1c56ad698fb4698611ce108984ed47c574e6fd576df2c667242272fa21",
+    "validation_check_sha256": "2ed89dcbaf703dc095b1c9d06aed4cf705e47e66b1621c8052784ecce158492f",
+    "source_disposition_sha256": "7556b9b56dc54dc1b00e31cbd3c4e5c746757dc920a774a690435f9fee6ca36e",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "329feb1c56ad698fb4698611ce108984ed47c574e6fd576df2c667242272fa21",
+      "validation_check_sha256": "2ed89dcbaf703dc095b1c9d06aed4cf705e47e66b1621c8052784ecce158492f",
+      "source_disposition_sha256": "7556b9b56dc54dc1b00e31cbd3c4e5c746757dc920a774a690435f9fee6ca36e"
+    },
+    "naming_artifact_sha256": "168dd707974d2d6489ed12af79762125f8d5a15b12bb9ff73582f342f5dfe25c"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "32bebb8fb4cb53441d98fd912bf8b2574b011aafb607563761e3ed21494c55f5"
+}

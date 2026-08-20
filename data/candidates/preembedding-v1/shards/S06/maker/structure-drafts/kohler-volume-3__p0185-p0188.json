@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-3:p0185-p0188",
+  "owner_shard": "S06",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 174.975,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-3:p0185-p0188",
+    "book_taxon": {
+      "scientific_name_candidate": "Chaerophyllum bulbosum",
+      "authorship_candidate": "L.",
+      "aliases_candidates": [
+        "Scandix bulbosa Roth",
+        "Myrrhis bulbosa Sprengel",
+        "Knolliger Kälberkropf",
+        "Kerbelrübe",
+        "Erdkastanie"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 185,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Chaerophyllum bulbosum L.，同義名 Scandix bulbosa Roth 及 Myrrhis bulbosa Sprengel。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          7
+        ],
+        "exact_source_quote": "                             Chaerophyllum                             bulbosum                L.\n                       Knolliger          Kälberkropf,         Kerbelrübe,             Erdkastanie.\n\n           Syn.    Scandix    bulbosa     Roth,   Myrrhis    bulbosa   Sprengel.\n\n         Familie: Umbelliferae Jussieu. Abteilung:                        Campylospermae Jussieu.        Unterfamilie:\nScandicineae Koch. Gattung: Ühaerophylium L."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 185,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "二年生植物，第一年生成小塊莖，第二年塊莖如胡桃大。莖高2米，中空，下部有粗毛，上部光滑。",
+        "warnings": [],
+        "source_line_range": [
+          9,
+          18
+        ],
+        "exact_source_quote": "       Beschreibung. Die Pflanze ist zweijährig. Im ersten Jahre erzeugt sie ein kleines\n1 cm langes und ebenso breites umgekehrt kegliges Rhizom fast ohne Pfahlwurzel, mit nur\nwenigen Wurzelfasern und einem Büschel gestielter Blätter; im zweiten Jahre erreicht das\nRhizom die Grösse einer Wallnuss, verlängert sich nach unten in eine kurze Pfahlwurzel\nund     sendet    einige   seitliche    Wurzeläste     und   Wurzelfasern       aus.     Das   Rhizom    ist aussen      gelb-\nbraun, innen weiss, das Holz gelblich. Nach der Fruchtreife stirbt dasselbe ab. Der Stengel\nwird 2 m hoch, auch höher; er ist röhrig hohl, unter den Knoten angeschwollen, feinstreifig,\naber nicht gerieft, rotgefleckt, unten durch rückwärts gerichtete, grobe, am Grunde verdickte,\nweisse Borstenhaare rauh; die Haare nehmen oberhalb des fünften Knotens ab; dann ist der\nStengel kahl, glatt und bereift, an der Spitze dichasial verzweigt. Die Blätter sind wechsel-"
+      },
+      {
+        "section_type": "flowering",
+        "pdf_page": 186,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "花期六月至七月，果熟期九月至十月。",
+        "warnings": [],
+        "source_line_range": [
+          18,
+          18
+        ],
+        "exact_source_quote": "            Blütezeit.           Juni, Juli; Fruchtreife im September und Oktober."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 186,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "生長於灌木叢、河岸及潮濕田地。分佈於德國、匈牙利、瑞士、法國、瑞典、挪威、俄羅斯及北亞。",
+        "warnings": [],
+        "source_line_range": [
+          19,
+          23
+        ],
+        "exact_source_quote": "E           Vorkommen.               Die Pflanze wächst zwischen Gebüsch, an Flussufern, Zäunen, feuchten\nAckern;          sie   liebt     guten,      nahrhaften       Boden     und   viel Feuchtigkeit.              In    manchen      Gegenden,\nz. B. in Thüringen bei Weimar,                        wird die Pflanze als Gemüse                   gebaut;        weiter findet sie sich\nin Deutschland,            Ungarn,        der Schweiz,        Frankreich,     Schweden          und Norwegen,              in Russland     und\ndem nördlichen             Asien."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 187,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史記載根部曾作蔬菜食用。因葉片與毒芹相似，常被誤採，具藥學關注價值。",
+        "warnings": [
+          "Historical content: Do not use as medical advice."
+        ],
+        "source_line_range": [
+          32,
+          36
+        ],
+        "exact_source_quote": "       Anwendung. Die Anwendun   g    der vor bes chr ieb ene n   Pfl anz en  ist ein e seh r  bes chr änk te.\nDie Wurzeln von Chaerophyllu m bul bos um L.   wer den    an    ein ige n  Ort en   als  „Ke  rbe lrü bch en“\ngenossen.                Die Pflanzen                 haben           aber       um      so höheres               pharmazeutisches                      Interesse,            als sie von\n Kräutersammlern immer wieder    mit  Con ium   mac  ula  tum    L.  ver wec  hse  lt    und    an   des sen   Ste lle\n gesammelt werden. In Wahrheit, kommen         hie rbe i   nur    Cha ero phy llu m    bul bos um   und   aur eum    in"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 188,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "Polstorff 從果實中分離出含氮鹼基，具毒性，0.25克可致死鴿子。",
+        "warnings": [
+          "Historical content: Do not use as medical advice."
+        ],
+        "source_line_range": [
+          28,
+          32
+        ],
+        "exact_source_quote": "        Bestandteile. Untersuchungen über die vorstehenden Pflanzen sind nur in sehr ge-\nringer Anzahl vorhanden. Polstorff hat vor fünfzig Jahren aus den zerquetschten Früchten\nvon Chaerophyllum bulbosum L. eine flüchtige Base durch Destillation mit Natronlauge ge-\nwonnen, welche ein in Blättern krystallisierendes Sulfat giebt. Die Basis ist stickstoffhaltig,\nwird durch Gerbsäure gefällt und wirkt giftig; 0,25 g töten eine Taube."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "b20bb413a9c4fc90879d4c6c7e4297d9142b5142b8edc5fc1d7d808210a3c195"
+}

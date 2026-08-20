@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 261,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "6391bb8c0c801c5fa31c7af7f20fb959417529f32d6d73476c1801d451b824a0",
+  "render_dpi": 144,
+  "render_sha256": "9120b51a11c45ea6acca37f4a025ba2de57e29f533c06727879d29c19255db2e",
+  "input_sha256": "9120b51a11c45ea6acca37f4a025ba2de57e29f533c06727879d29c19255db2e",
+  "render_pixel_width": 5798,
+  "render_pixel_height": 8198,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.331,
+  "embedded_character_count": 145,
+  "ocr_character_count": 50,
+  "ocr_alpha_ratio": 0.68,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.024423616273062554,
+      "text": "Cruciferae.",
+      "width": 0.09715844538235231,
+      "x": 0.07288576376399943,
+      "y": 0.9210856057352231
+    },
+    {
+      "confidence": 1,
+      "height": 0.03343023194207073,
+      "text": "()",
+      "width": 0.024640657122640075,
+      "x": 0.5256673510074684,
+      "y": 0.5625000005866196
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "11",
+      "width": 0.018480492173204258,
+      "x": 0.1190965094575457,
+      "y": 0.373546511714716
+    },
+    {
+      "confidence": 1,
+      "height": 0.02505738773043198,
+      "text": "Brassica nigra Koch.",
+      "width": 0.1848974455289052,
+      "x": 0.42089829797504696,
+      "y": 0.1277329339656048
+    },
+    {
+      "confidence": 1,
+      "height": 0.014329997320023824,
+      "text": "W.Müller",
+      "width": 0.058038971032868925,
+      "x": 0.8683111098050583,
+      "y": 0.13309662908688624
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252612005,
+      "text": "14",
+      "width": 0.016427104302576212,
+      "x": 0.9158110886700671,
+      "y": 0.02616279094636831
+    }
+  ],
+  "text": "Cruciferae.\n()\n11\nBrassica nigra Koch.\nW.Müller\n14",
+  "output_sha256": "a0e2c16b8a08f6dbe6b144b0b2894b686bf5ed6c0f7c91b3f89e589b8147356a",
+  "receipt_sha256": "3471f092c6e08e2c12bfdde80b6de931e686e1c37d4af768236f26a84e74ea9d"
+}

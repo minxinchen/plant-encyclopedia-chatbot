@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 609,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "9bc598df15eb6b53f4321c320e468c7295b7e5f9d04c53112fa2a710a6e4fe3b",
+  "render_dpi": 144,
+  "render_sha256": "cb6040ed14444364894d87691c3493688be8e6eda7f90704f0e9f22eabcbd660",
+  "input_sha256": "cb6040ed14444364894d87691c3493688be8e6eda7f90704f0e9f22eabcbd660",
+  "render_pixel_width": 5570,
+  "render_pixel_height": 7946,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.046,
+  "embedded_character_count": 106,
+  "ocr_character_count": 51,
+  "ocr_alpha_ratio": 0.6863,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.021086295445760128,
+      "text": "Myristicaceae.",
+      "width": 0.16615607497207852,
+      "x": 0.7986646990281964,
+      "y": 0.9051545267228377
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "10",
+      "width": 0.014522821111874806,
+      "x": 0.07053941956162828,
+      "y": 0.4345930236387451
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "12",
+      "width": 0.01244813199593342,
+      "x": 0.8775933613049379,
+      "y": 0.33430232581358765
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "9",
+      "width": 0.010373443554920758,
+      "x": 0.06431535280760187,
+      "y": 0.14970930269882254
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494425,
+      "text": "11",
+      "width": 0.012448131995933392,
+      "x": 0.21161825754975117,
+      "y": 0.14680232594010167
+    },
+    {
+      "confidence": 1,
+      "height": 0.026289682539682446,
+      "text": "Myristica fragrans Houtt.",
+      "width": 0.29253111540300997,
+      "x": 0.3692946104779556,
+      "y": 0.08854166672967223
+    }
+  ],
+  "text": "Myristicaceae.\n10\n12\n9\n11\nMyristica fragrans Houtt.",
+  "output_sha256": "3270581383e617167d1c4c703909ee514e00aa06a43486d25eb86c50b3abb740",
+  "receipt_sha256": "03f7a8fff60309ac1fbff53362d18442aa859f625a8bf414172e0db5560fadaa"
+}

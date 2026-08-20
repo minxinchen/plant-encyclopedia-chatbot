@@ -1,0 +1,129 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-1:p0109-p0110",
+  "owner_shard": "S01",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S01/maker/structure-drafts/kohler-volume-1__p0109-p0110.json",
+  "source_draft_sha256": "3b3bb9417ac11af4f7c9b0dc03798b25cf86f7f1707f0a12ee482c2f831a77b8",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "9d11fb303668a15dc390e39f2de3d0f0e3f6add5e9fe39e6b65bbbea86ff578d",
+    "validation_check_sha256": "8b4e4f2007c57de05a01147b9b2d2ef9e43a2b3830a474cf1228a2945215420f",
+    "source_disposition_sha256": "ee360b854d28a337379fb03cd4d2a854c6be0ed110eb2b87367bbbede78f55a2",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Lactuca virosa",
+    "authorship_candidate": null,
+    "aliases_candidates": [
+      "Giftlattich",
+      "Prickly Lettuce",
+      "Laitue vireuse",
+      "Lactuca scariola L.",
+      "Lactuca agrestis"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Lactuca virosa",
+      "Lactuca scariola"
+    ],
+    "accepted_scientific_name": "Lactuca serriola",
+    "display_name_zh_tw": "刺萵苣",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0054158",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol_book_alias"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary",
+    "rationale": "A scientific alias explicitly printed in the Köhler entry exactly matches a TaiCOL species with a Taiwan public name.",
+    "checked_at": "2026-08-13T20:20:00+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Lactuca virosa",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Lactuca+virosa",
+      "retrieved_at": "2026-08-13T20:19:59+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Prickly lettuce",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Prickly+lettuce",
+      "retrieved_at": "2026-08-13T20:20:00+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Laitue vireuse",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Laitue+vireuse",
+      "retrieved_at": "2026-08-13T20:20:00+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Lactuca scariola",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Lactuca+scariola",
+      "retrieved_at": "2026-08-13T20:20:00+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Lactuca scariola",
+          "taxon_id": "t0054158",
+          "taicol_name_status": "not-accepted",
+          "accepted_name": "Lactuca serriola",
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0054158",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0054158",
+          "taxon": {
+            "taxon_status": "accepted",
+            "simple_name": "Lactuca serriola",
+            "name_author": "L.",
+            "rank": "Species",
+            "common_name_c": "刺萵苣",
+            "alternative_name_c": null,
+            "synonyms": "Lactuca albicaulis,Lactuca altaica,Lactuca augustana,Lactuca coriacea,Lactuca dubia,Lactuca integrata,Lactuca latifolia,Lactuca saligna var. robusta,Lactuca scariola,Lactuca scariola subsp. augustana,Lactuca scariola subsp. scariola,Lactuca scariola var. integrata,Lactuca scariola var. integrifolia,Lactuca serriola subsp. integrifolia,Lactuca serriola subsp. serriola,Lactuca sylvestris,Lactuca tephrocarpa,Lactuca verticalis",
+            "is_in_taiwan": true,
+            "alien_type": "naturalized",
+            "alien_status_note": "naturalized: Chang-Yang et al., 2022 (Origin: Europe)|naturalized: Ed. Comm. Red List TW Plants, 2017",
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "The Taiwan accepted name is linked through a scientific alias printed in Köhler; Köhler facts remain attached to the book taxon."
+  ]
+}

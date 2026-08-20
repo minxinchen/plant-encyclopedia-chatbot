@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0033-p0034",
+  "owner_shard": "S01",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 83.579,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0033-p0034",
+    "book_taxon": {
+      "scientific_name_candidate": "Brassica Napus oleifera DC.",
+      "authorship_candidate": null,
+      "aliases_candidates": [
+        "Brassica Napus biennis Rchb.",
+        "Winterraps",
+        "Rape",
+        "Colza"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 33,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Brassica Napus oleifera DC.，變種 hiemalis Doll，同義名 Brassica Napus biennis Rchb.。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          3
+        ],
+        "exact_source_quote": "                 Brassica Napus oleifera DC.                                                    var.   hiemalis Doll\n\n                                                     Syn. Brassica Napus biennis Rchb."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 33,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "一或二年生植物，高 3 至 4 米，葉藍綠色，花序鬆散，花瓣金黃色，果實壓扁具錐形喙。",
+        "warnings": [],
+        "source_line_range": [
+          15,
+          29
+        ],
+        "exact_source_quote": "            Beschreibung.                     Brassica Napus L., von der unsere Pflanze eine Varietat                          ist,   ist   eine ein-\n\noder zweijahrige,            3\n                                 /\n                                 4\n                                      bis l   1\n                                                  ^ m hohe, nach oben astige Pflanze mit duftig blaugriinen Blattern, von  *\n\n\n\n\ndenen     die   grundstandigen leierformig-fiederspaltig, die unteren stengelstandigen leierformig, die oberen\nlanglich,       am Grunde              etwas        breiter   und herzformig umfassend              sind.       Bltithentrauben locker,        schon\nwahrend des Aufbliihens verlangert.                           Die geoffneten Blumen tiefer             als die Bllithenknospen.             Blumen-\nblatter goldgelb, spatelformig, etwas vertieft.                               Kelchblatter zuletzt aufrecht abstehend.           Kiirzere Staub-"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 33,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產南歐，德國廣泛栽培以獲取油脂。",
+        "warnings": [],
+        "source_line_range": [
+          44,
+          45
+        ],
+        "exact_source_quote": "            Verbreitung.                     In Sudeuropa einheimisch;                  in Deutschland      zum Zwecke         der Oelgewinnung\nvielfach kultivirt."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 33,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "古時即作食物與藥物，名稱源自拉丁語 Bapa 及 Napus，與古代文獻中的 Teltower Rube 有關。",
+        "warnings": [],
+        "source_line_range": [
+          47,
+          53
+        ],
+        "exact_source_quote": "             Name und Geschichtliches.                              Brassica Napus, Feldkohl, Raps, Reps, Rube, Kohlraps, war\nschon sehr fruhzeitig als Nahrungs- und Arzneimittel bekannt.                                    Mit Brassica, dessen Ableitung unsicher\n(ob     von praesecare, vorwegabschneiden                       ,   namlich die Blatter,          oder von       dem keltischen bresic, Kohl,\noder von        (3Qa!;eiv,   kochen, Kochkohl), bezeichnete Plinius unsern Kohl.                                   Die Bovviag, Buniada, der\nalten Schrifteller soil unser Brassica                        Napus gewesen sein, wird jedoch von anderen auf die Teltower\nRube bezogen.           Der Name Raps ist aus dem lateinischen Bapa (althochdeutsch ruoba, nordisch rofa,\n                                                                          *"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 34,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "根含刺激性揮發油，種子含大量脂肪油，佔種子重量約 2/5，無色不乾性液體。",
+        "warnings": [],
+        "source_line_range": [
+          6,
+          12
+        ],
+        "exact_source_quote": "                   Bestandtheile.       Die Wurzel       enthalt    scharfes      atherisches        Oel.    Die    Samen neben        einett\n\nschweren, schwefelhaltigen Oel viel fettes Oel.                    Letzteres betragt         2\n                                                                                                   des Samengewichtes, ist geruchlos.\n                                                                                             /5\n\nhell,         an der Luft nicht trocknend, dunnfliissig und besitzt ein spezifisches Gewicht von 0,913."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 34,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史上用於貧民及獸醫領域，替代橄欖油製備藥膏與軟膏，需使用精製油。",
+        "warnings": [],
+        "source_line_range": [
+          14,
+          15
+        ],
+        "exact_source_quote": "                   Anwendung.         In der Armen- und Veterinarpraxis an Stelle des theurern Olivenols zu Lini-\nmenten, Pflastern und Salben.                 Es   soil hierzu stets das       Oleum Bapae depuratum verwendet werden."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "bb1cb3d9c1c7152397f8ccf32a711179dfc6abb7f8e58a6def20aad351305583"
+}

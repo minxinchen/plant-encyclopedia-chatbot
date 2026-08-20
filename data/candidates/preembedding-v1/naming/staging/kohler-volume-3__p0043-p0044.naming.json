@@ -1,0 +1,167 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-3:p0043-p0044",
+  "owner_shard": "S06",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S06/maker/structure-drafts/kohler-volume-3__p0043-p0044.json",
+  "source_draft_sha256": "a2effec06859e21ae662857de6c77e5d4ee608e29c591355f7dc61320cd16951",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "6eb2851490d7f4019f53d8d9bfe72c61252f51919b99b7182ba26267d6a18ed3",
+    "validation_check_sha256": "c95df2c537b9e715ad7f229b70e529655d191d3a2190054154ad5210e6bcee51",
+    "source_disposition_sha256": "59d302f34bf8fe5271ccba3fcade9ac97cb4a0e6cb1a5d229e21b9040c3c088b",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "needs_review",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Palaquium Gutta",
+    "authorship_candidate": "Burck.",
+    "aliases_candidates": [
+      "Zsonandra Gutta Hook.",
+      "Dichopsis Gutta Benth. u. Hook.",
+      "Isonandra Gutta Hook."
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Palaquium Gutta",
+      "Palaquium gutta"
+    ],
+    "accepted_scientific_name": "Palaquium gutta",
+    "display_name_zh_tw": "膠木",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0075059",
+    "rationale": "TaiCOL accepts the queried book binomial at species rank.",
+    "checked_at": "2026-08-13T12:45:07+08:00",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Palaquium Gutta",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Palaquium+Gutta",
+      "retrieved_at": "2026-08-13T12:45:07+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Palaquium",
+          "matched_name_id": 2117,
+          "taxon_id": "t0024442",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Palaquium",
+          "accepted_name_id": 2117,
+          "accepted_usage": [
+            {
+              "usage_id": 182900,
+              "reference_id": 2454,
+              "reference_type": "Book",
+              "publish_year": 2017,
+              "citation": "Ed. Comm. Red List TW Plants,  (2017) The Red List of Vascular Plants of Taiwan, 2017 = 2017 臺灣維管束植物紅皮書名錄.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 278082,
+              "reference_id": 1011,
+              "reference_type": "Book Chapter",
+              "publish_year": 1998,
+              "citation": "Li, H.-L. & Yang, T.-Y.A. (1998) 114. Sapotaceae. In: Flora of Taiwan, 2 ed., vol. 4. 83–87.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 7970,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": null
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0024442",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0024442",
+          "taxon": {
+            "taxon_id": "t0024442",
+            "taxon_status": "accepted",
+            "name_id": 2117,
+            "simple_name": "Palaquium",
+            "name_author": "Blanco",
+            "rank": "Genus",
+            "common_name_c": "膠木屬",
+            "alternative_name_c": "膞木屬",
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": null,
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Palaquium gutta",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Palaquium+gutta",
+      "retrieved_at": "2026-08-13T12:45:07+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Palaquium gutta",
+          "matched_name_id": 58443,
+          "taxon_id": "t0075059",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Palaquium gutta",
+          "accepted_name_id": 58443,
+          "accepted_usage": [
+            {
+              "usage_id": 42052,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0075059",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0075059",
+          "taxon": {
+            "taxon_id": "t0075059",
+            "taxon_status": "accepted",
+            "name_id": 58443,
+            "simple_name": "Palaquium gutta",
+            "name_author": "Burck",
+            "rank": "Species",
+            "common_name_c": "膠木",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

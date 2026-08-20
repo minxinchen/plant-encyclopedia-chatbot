@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-4",
+  "volume": 4,
+  "pdf_page": 80,
+  "owner_shard": "S08",
+  "source_pdf": "/Volumes/NO NAME/第四集 mobot31753003431696.pdf",
+  "source_text_sha256": "b61ccc789624fd3ab6fdff35a35322c8025104895499bc761af5fd0ca9d57a34",
+  "render_dpi": 144,
+  "render_sha256": "e568ab2e572d0b771c6e89757f53936b9a1eb9ecd625b7565158d11ad910b54b",
+  "input_sha256": "e568ab2e572d0b771c6e89757f53936b9a1eb9ecd625b7565158d11ad910b54b",
+  "render_pixel_width": 5768,
+  "render_pixel_height": 8546,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 5.725,
+  "embedded_character_count": 46,
+  "ocr_character_count": 56,
+  "ocr_alpha_ratio": 0.8036,
+  "candidate_disposition": "candidate_quality_gain",
+  "staging_disposition": "candidate_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01744185932098874,
+      "text": "Tafel 21",
+      "width": 0.06451612776644872,
+      "x": 0.034408602396345536,
+      "y": 0.9404069771418312
+    },
+    {
+      "confidence": 1,
+      "height": 0.016329848577105732,
+      "text": "Bromeliaceae",
+      "width": 0.11720446293008935,
+      "x": 0.8446065489197248,
+      "y": 0.923279421008462
+    },
+    {
+      "confidence": 1,
+      "height": 0.015272880357409369,
+      "text": "(Bromelieae)",
+      "width": 0.10400131640409738,
+      "x": 0.8512328072967629,
+      "y": 0.9067138476832936
+    },
+    {
+      "confidence": 1,
+      "height": 0.017609126984126977,
+      "text": "Ananas sativus Lindl.",
+      "width": 0.22795698066391906,
+      "x": 0.333333340474492,
+      "y": 0.007192460699169789
+    }
+  ],
+  "text": "Tafel 21\nBromeliaceae\n(Bromelieae)\nAnanas sativus Lindl.",
+  "output_sha256": "cead56fad3af9a4121a7982c73a42d03f99ed8280371e588322303470a1de7c4",
+  "receipt_sha256": "b0daf7446523a35d2c03bb96d1f8b282aa14de1dfa42e413a2ac47f88ab2aa5f"
+}

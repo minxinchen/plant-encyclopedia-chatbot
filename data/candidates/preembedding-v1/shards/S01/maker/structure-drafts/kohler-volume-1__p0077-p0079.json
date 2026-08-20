@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0077-p0079",
+  "owner_shard": "S01",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 156.607,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0077-p0079",
+    "book_taxon": {
+      "scientific_name_candidate": "Quercus pedunculata Ehrh.",
+      "authorship_candidate": "Ehrh.",
+      "aliases_candidates": [
+        "Quercus Robur L.",
+        "Quercus femina Roth"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 77,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Quercus pedunculata Ehrh.，同義名 Quercus Robur L. 及 Quercus femina Roth。俗名 Stieleiche。",
+        "warnings": [],
+        "source_line_range": [
+          6,
+          15
+        ],
+        "exact_source_quote": "                                     Quercus pedunculata Ehrh.\n                                                                                         i\n\n\n\n\n                               Syn. Quercus Robur L.               Quercus femina Roth\n\n\n        Stieleiche,     Sommereiche, Friiheiche, Rotheiche                       Common Oak              Chene."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 77,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "樹高40米以上，具直生主根。樹皮厚且龜裂，嫩枝銀灰色。葉橢圓倒卵形，深裂，兩面無毛，葉柄長8毫米。",
+        "warnings": [],
+        "source_line_range": [
+          19,
+          25
+        ],
+        "exact_source_quote": "         Beschreibung.             40 und inehr m. holier, bis 7 m. dicker Bauin mit senkrecht in den\n                                    Bis\nBoden gehender sogen. Pfahlwurzel und starken Seitenwurzeln, weitausgebreiteter Krone und dicker,\nrissiger Stamm- und Astborke.      Jtingere Zweige mit einer glatten, nur mit Lenticellen besetzten, silber-\ngrauen Rinde. Laubknospen eiformig, stumpfspitzig, hellbraun, mit gewimperten Scliuppen ziegeldach-\nformig bedeckt. Blatter kurz gestielt, langlich-verkehrt-eiformig, tiefbuchtig, am Grande geohrt, beider-\nseits kahl, rippig geadert, oberseits dunkelgriin, unterseits blasser, mit 8 mm langem Blattstiel.      Die"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 78,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "樹皮橫切面含多層軟木，中層細胞含紅色Phlobaphen。皮層含草酸鈣簇晶。皮層內有石細胞環及韌皮纖維束。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          10
+        ],
+        "exact_source_quote": "            Anatomisclies:   Die Binde zeigt auf dem Querschnitte einen schwachen aber stets vielschichtigen, aus kleinen\n Aachen Zellen zusammengesetzten Kork, dessen mittlere Lage aus gelbwandigen Zellen besteht, die rait einem rotnen\n Inhalte, dem sogen. Phlobaphen erfullt sind.          Unter dem Korke befindet sich ein dickwandiges aus nur wenig\n                                                                                                              ,\n\n\n\n tangential gestreckten Zellen bestehendes, chlorophyllfuhrendes Collenchym, welches allmahlig in das ebenfalls\n chlorophyll enthaltende , sehr unregelmassig von Markstrahlen durchzogene, relativ starkwandige Rindenparenchym\n ubergeht.    Letzteres enthalt braune Farbstoffmasse und mit Ausnahme der Markstrahlen in zahlreichen, zerstreut"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 78,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分佈於歐洲大部分地區，北至挪威63度。亦見於小亞細亞及高加索。海拔通常不超過1000米。",
+        "warnings": [],
+        "source_line_range": [
+          31,
+          37
+        ],
+        "exact_source_quote": "         Verbreitung. Durch fast ganz Europa verbreitet; in Russland bis zum 54. Grad, in Finn-\n land bis zum 60. Grad, in Norwegen bis znm 63. Grad, im siidostlichen Schweden bis zum 60. Grad,\n in Schottland bis zum 58. Grad nordlicher Breite hinaufgehend.  Ausserdem in Kleinasien und den\n Kaukasuslandern.  In vertikaler Richtung erreicht Quercus pedimculata eine Meereshohe von selten\n mehr als 1000 m, so z. B. steigt sie in Schottland 366 m, in Skandinavien 313 m, im bairischen Walde\n                                                   —\n 967 m, in den bairischen Alpen 754 922 m, in Tirol 1000 m empor."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 79,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "嫩枝皮含單寧（Eichengerbsaure）、樹脂、糖、果膠及Phlobaphen。主要成分為單寧酸，與五倍子單寧不同。",
+        "warnings": [],
+        "source_line_range": [
+          24,
+          30
+        ],
+        "exact_source_quote": "          Bestandtheile.    Die Rinde der jungeren Zweige enthalt nach Eckert: 12             eisenblauenden                                                  ^^\nGerbstoff (Eichengerbsaure), Harz, Zucker, Pektin, Phlobaphen, Citronensaure nnd Oxalsaure.           Gerber\nfand in der Rinde der starkeren Aeste und des Stammes eine farb- und geruclilose Krystalle bildende,\nin Wasser leicht losliche Substanz von sehr bitterem Geschmacke, das sogenannte Quercin.            Nach der\nAnsicht Husemanns soil jedoch Quercin nur unreiner Quercit sein.            Der wichtigste Bestandtheil der\nRinde ist die Eichengerbsaure            =\n                                  C 17 Hi 6 9 (Etti), C 2 oH 2 oOii (Grabowsky und Oser), die jedoch. von"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 79,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史用途：內服僅用於抗砷及生物鹼中毒。外用治腳汗、凍瘡及尿道炎。民間用於疝氣及肺結核。",
+        "warnings": [
+          "Content describes historical medical practices; not modern medical advice."
+        ],
+        "source_line_range": [
+          48,
+          53
+        ],
+        "exact_source_quote": "         Anwendung.                 Die Rinde         innerlich,         da       sie            den                   Magen        sehr belastigen soil, nur bei\nVergiftungen mit Antimonialien und Alkaloiden; meist ausserlich                                                                   in adstringirenden Abkochungen\ngegen Fussschweisse, Pernionen und Blennorrhoen und auch da nur als billiges Surrogat des Tannin.\nKissen mit Eichenrindenpulver gelten in manchen Gegenden als Volksmittel gegen Briiche, namentlich\nNabelbriiche der Kinder.     Die auch. aus Eichenrindenabkochung hergestellte offizinelle Bleitannat-\nsalbe: Unguentum Plumbi tannici wird mit Yortheil bei Decubitus angewendet. In der Volksmedizin"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "967ccb94130743d31a687ecb96eed76bca711cb84e6d3437cfb5320b5a9425e9"
+}

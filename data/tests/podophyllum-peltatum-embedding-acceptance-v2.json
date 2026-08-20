@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "run_id": "podophyllum-bilingual-embedding-acceptance-v2-2026-08-11",
+  "batch_id": "volume-1-podophyllum-peltatum-pages-191-192",
+  "acceptance_gate": true,
+  "supersedes_for_acceptance": "podophyllum-peltatum-embedding.json",
+  "excluded_historical_probe": "libra-plant-zh-tw",
+  "hypothesis": "The same approved German evidence page can be retrieved from both Taiwan Traditional Chinese and English questions; answer authorization still requires the source terms on the page.",
+  "proof_of_done": [
+    "The Traditional Chinese habitual-constipation question ranks PDF page 192 first.",
+    "The English habitual-constipation question ranks PDF page 192 first.",
+    "Every answerable result has Verstopfung or Obstipation on an approved source page.",
+    "The run uses no paid service and at most four embedding calls."
+  ],
+  "queries": [
+    {
+      "query_id": "habitual-constipation-zh-tw",
+      "question_zh_tw": "哪一種植物的根莖及其樹脂在書中被記載用於習慣性便秘？",
+      "input_language": "zh-Hant",
+      "expected_status": "answerable",
+      "required_book_terms": ["Verstopfung", "Obstipation"]
+    },
+    {
+      "query_id": "habitual-constipation-en",
+      "question_zh_tw": "Which plant's rhizome and resin does the book describe as being used for habitual constipation?",
+      "input_language": "en",
+      "expected_status": "answerable",
+      "required_book_terms": ["Verstopfung", "Obstipation"]
+    }
+  ]
+}

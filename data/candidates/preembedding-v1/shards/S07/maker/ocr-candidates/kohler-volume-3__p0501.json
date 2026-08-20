@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 501,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "87b26b6eda75a8df32bdc7b16352ed355833482006e1b41f4292b32f10a549d4",
+  "render_dpi": 144,
+  "render_sha256": "b0798ef3db6fb8052303cb5a6dbafb864b2374965957e21ec13395f9da6ad98b",
+  "input_sha256": "b0798ef3db6fb8052303cb5a6dbafb864b2374965957e21ec13395f9da6ad98b",
+  "render_pixel_width": 5606,
+  "render_pixel_height": 8198,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.533,
+  "embedded_character_count": 73,
+  "ocr_character_count": 52,
+  "ocr_alpha_ratio": 0.6923,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01744185932098874,
+      "text": "Rutaceae",
+      "width": 0.0785562627293045,
+      "x": 0.838641189946388,
+      "y": 0.965116279423808
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185932098874,
+      "text": "(Diosmeae)",
+      "width": 0.09554139732709399,
+      "x": 0.8259023363417608,
+      "y": 0.9462209310226452
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "4",
+      "width": 0.010615711198326716,
+      "x": 0.8089171973732358,
+      "y": 0.31540697717556687
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "2",
+      "width": 0.016985137364067315,
+      "x": 0.07855626348357143,
+      "y": 0.2819767443055591
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "7",
+      "width": 0.012738853714619913,
+      "x": 0.5753715496819682,
+      "y": 0.07122093044391442
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "10",
+      "width": 0.01910827918879099,
+      "x": 0.8471337586858593,
+      "y": 0.07122093048125222
+    },
+    {
+      "confidence": 1,
+      "height": 0.024366096844748886,
+      "text": "Barosma betulina Bartl.",
+      "width": 0.21893053836283083,
+      "x": 0.3756727377979455,
+      "y": 0.037235556178565665
+    }
+  ],
+  "text": "Rutaceae\n(Diosmeae)\n4\n2\n7\n10\nBarosma betulina Bartl.",
+  "output_sha256": "bf61f94cd53f0f4e57fd122d3859959fa58bf43c697c61b384a3f32256e2ffcb",
+  "receipt_sha256": "c673cbdb1afc9445ba32edb838f2c2fea46c601a22161323df3a5fa37b04c636"
+}

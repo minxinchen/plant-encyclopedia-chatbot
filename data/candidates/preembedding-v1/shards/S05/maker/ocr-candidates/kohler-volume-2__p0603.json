@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 603,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "d0ab255751158d56d2afa0bbb1fc151516e179564d4955ec2f33c2327d4d2f33",
+  "render_dpi": 144,
+  "render_sha256": "94e1f47101dee6be69fb839b365dc4d54e5b63b9a9bd03cd7efb10237bb096a8",
+  "input_sha256": "94e1f47101dee6be69fb839b365dc4d54e5b63b9a9bd03cd7efb10237bb096a8",
+  "render_pixel_width": 5450,
+  "render_pixel_height": 7886,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.242,
+  "embedded_character_count": 48,
+  "ocr_character_count": 42,
+  "ocr_alpha_ratio": 0.881,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.02388550743224127,
+      "text": "Cupressineae.",
+      "width": 0.14726464204500878,
+      "x": 0.7982164170426681,
+      "y": 0.9226502697661256
+    },
+    {
+      "confidence": 1,
+      "height": 0.024813123165615014,
+      "text": "Callitris quadrivalvis Vent.",
+      "width": 0.3277310736723234,
+      "x": 0.33613446221846016,
+      "y": 0.10465116250383388
+    }
+  ],
+  "text": "Cupressineae.\nCallitris quadrivalvis Vent.",
+  "output_sha256": "5f1b1506f5596227dd9f03c73616215fe0ee8ff9de6c9f8bb72a8ce0ae704686",
+  "receipt_sha256": "25edebc5680c142770e5846af841cb0b608aad0470710d0832d912e1971965e7"
+}

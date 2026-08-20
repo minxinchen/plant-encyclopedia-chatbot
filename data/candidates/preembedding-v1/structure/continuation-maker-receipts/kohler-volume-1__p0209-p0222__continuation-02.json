@@ -1,0 +1,195 @@
+{
+  "schema_version": "1.0",
+  "package_id": "kohler-volume-1:p0209-p0222:continuation-02",
+  "parent_entry_id": "kohler-volume-1:p0209-p0222",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation:kohler-volume-1:p0209-p0222:continuation-02:v1",
+  "owner_shard": "S02",
+  "package_sha256": "75db6c72205f41d0c96088bbf9c26e19aa2f925243ff8afecbbbce56993f533b",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-continuation-line-anchors-v1",
+  "elapsed_seconds": 292.812,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 215,
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+      "char_start": 4063,
+      "char_end": 7012,
+      "source_line_start": 45,
+      "source_line_end": 75,
+      "page_text_sha256": "85ea01308a1f5d5cc69e21483ceccc08983f9f643083fdf64226bc9ecf8674a1",
+      "exact_text_sha256": "20d0a8610e06ef6b75f3704270ca270d5aa446db3ed34b8af34c09c56a91f0f2",
+      "section_index": 0,
+      "section_type": "history"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 217,
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+      "char_start": 8323,
+      "char_end": 10470,
+      "source_line_start": 83,
+      "source_line_end": 102,
+      "page_text_sha256": "119ed16d0fb3b2ca099e3da92b0d57211657011b190218c924a2d17d0abc6aa0",
+      "exact_text_sha256": "0f2853db239c25ae3c5c9ad6eba6fc0de8783253f4b0d69efb6bbae32e94d89b",
+      "section_index": 1,
+      "section_type": "description"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 217,
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+      "char_start": 10471,
+      "char_end": 11545,
+      "source_line_start": 103,
+      "source_line_end": 112,
+      "page_text_sha256": "119ed16d0fb3b2ca099e3da92b0d57211657011b190218c924a2d17d0abc6aa0",
+      "exact_text_sha256": "1e6b8a48d191f3c0f945b777fd59dbf8a1d1ff033d06469fcf54f139c0b71320",
+      "section_index": 2,
+      "section_type": "anatomy"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 218,
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+      "char_start": 5517,
+      "char_end": 7322,
+      "source_line_start": 75,
+      "source_line_end": 99,
+      "page_text_sha256": "5c54ef6affdf490d268b324d3606b3de501a0739176cbf9d80e8d610374fb079",
+      "exact_text_sha256": "7171e9e82a2296bdb815826f63d92f65e1db26a84fcdc953c74ffcba9bad7c4a",
+      "section_index": 3,
+      "section_type": "harvest"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 219,
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+      "char_start": 2600,
+      "char_end": 4451,
+      "source_line_start": 38,
+      "source_line_end": 61,
+      "page_text_sha256": "6e9ba2fda8be5169d8a13bdbb88cf073207eeba1d4fe100d3049fbc980c1b21f",
+      "exact_text_sha256": "85c2e7341a288304374093132ab2f400591d3d5b12e29f8dd57168f2699ec017",
+      "section_index": 4,
+      "section_type": "constituents"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 219,
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+      "char_start": 3731,
+      "char_end": 4451,
+      "source_line_start": 53,
+      "source_line_end": 61,
+      "page_text_sha256": "6e9ba2fda8be5169d8a13bdbb88cf073207eeba1d4fe100d3049fbc980c1b21f",
+      "exact_text_sha256": "8c3756f059527b3cff03499ef8c2fa35a2dfd260c95544091a4287f234ebe3b2",
+      "section_index": 5,
+      "section_type": "historical_use"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-1:p0209-p0222:continuation-02",
+    "parent_entry_id": "kohler-volume-1:p0209-p0222",
+    "book_taxon": {
+      "scientific_name_candidate": "Cinchona Calisaya",
+      "authorship_candidate": null,
+      "aliases_candidates": []
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "history",
+        "pdf_page": 215,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源自Peru副王夫人Chinchon，1638年因服用此皮治癒瘧疾而推廣至歐洲，後由耶穌會士傳播。",
+        "warnings": [],
+        "source_line_range": [
+          45,
+          75
+        ],
+        "exact_source_quote": "            Name und Geschichtliches.        Der Name Cinchona, eigentlich Chinchona, stammt von der\nGrafin Chinchon, Gemahlin des Vicekonigs von Peru, welche urn das Jahr 1638 durch diese Rinde\nvon einem Wechselfieber geheilt, viel zur Verbreitung der Cinchonen in Europa beigetragen hat.\nChina ist aus quina oder kina abgeleitet, worunter die sudamerikanischen Indianer Rinde verstehen.\nCalisaya stammt nach Weddel aus der Quichua - Sprache und zwar von colli               roth und say a                             =                                        —\ngeartet, geformt, in Beziehung auf Rinde oder Blatt.         Nach Pop pig ist das Wort abgeleitet von\ncalla   =Heilmittel und salla           =\n                                  felsiger Grund; letzteres in Bezug auf den Standort.   Markham fuhrt\nes auf den Namen einer Hauptlingsfamilie, Calisaya, zuriick, die um 1780 in der Provinz Carabaya\ngelebt hat.  Saccirubra            =\n                            rothsaftig, wegen der Farbe des Saftes.    Remijia stammt von dem Namen\neines Chirurgen Remijo, dem man die erste Empfehlung der Remijia zu verdanken hat.\n            Ausder Zeit der Incas liegen keinerlei Beweise fur den Gebrauch der Chinarinden vor und\nlasst sich trotz der gegentheiligen Ansicht Wellcome's, wonach die Eingeborenen zur Zeit der spani-\nschen Einfalle schon mit den Chinarinden bekannt gewesen waren, jedoch ihre Kenntniss den Spaniern\ngegenuber verschwiegen hatten, mit ziemlicher Wahrscheinlichkeit annehmen, dass die noch jetzt be-\nobachtete Furcht der Eingeborenen vor den Fieberrinden auch in friiheren Zeiten schon vorhanden war\nund die medizinische Benutzung derselben ausschloss. Fliickiger sagt: „Als wahrscheinlichste Ansicht\nergiebt sich wohl, dass die friiheste Kenntniss der China auf die Gegend von Loxa beschrankt geblieben\nwar.   Obschon die Spanier schon in der Mitte des 16. Jahrhunderts dort fest sassen, schwiegen ihre\nfriihesten Schriftsteller aus jener Gegend bis in das 17. Jahrhundert in Betreff der China.  Hier, im\nDorfe Malacatos, soil ein voruberreisender Jesuite durch einen Kaziken vermittels China vom Fieber\ngeheilt worden sein und die Kunde des Heilstoffes verbreitet haben.    Demselben Orte und Mittel soil\nauch 1630 der spanische Corregidor von Loxa, Don Juan Lopez de Canizares, seine Genesung vom\n                                 u\nWechselfieber verdankt haben.       Letzterer sandte der schon oben erwahnten Gemahlin- des Grafen\nChinchon (Vicekonigs von Peru) als sie 1638 in Lima am Fieber krank darniederlag, Chinarinde, die\nder Leibarzt Dr. Juan de Vega mit vorziiglichem Eriblge anwendete.       Nach ihrer Genesung liess sie\nChinarinden unter die Einwohner Linias vertheilen, woraus der Name Polva de la condesa (Grafin-\nPulver) entstanden ist.     1639 erscheint die Chinarinde in Spanien, um deren Verbreitung sich der\nJesuitenorden verdient machte, weshalb die Rinde bald den Namen Polvo de los Jesuitos erhielt."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 217,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "Calisaya皮呈管狀或捲曲，外層深灰褐色，內層肉桂色，具縱向溝紋與橫向裂紋，斷面纖維狀。",
+        "warnings": [],
+        "source_line_range": [
+          83,
+          102
+        ],
+        "exact_source_quote": "   1.          China Calisaya.\n               a.   vollstandige Zweigrinden in Rohren, gerollte oder bededeckteKonigs-China:\n                                                                                                                                                                                               Cortex Chinae\n                    regms,   convolutus, China Calisaya cum epiderme, Calisaya tecta s. tabulata;\n                                                                                                          Quinquina\n                    Calisaya route; Quill Calisaya.    3                                          —\n                                                           4 Ctm. stark, meist von beiden Randern her eingerollt,\n                    Rohren bildend, von dunkel graubrauner bis weisslicher Farbe, mit groben, unregelmassigen\n                    Langsleisten mid Furchen, die von tiefen, oft rings herumlaufenden Querrissen gekreuzt\n                                                                                                             werden,\n                    wodurch Felder mit aufgeworfenen Randern und gewohnlich etwas feiner gefurchten\n                                                                                                              Flache\n                    entstehen, die beim Abspringen auf der zimmtbraunen Innenrinde ihre Form noch\n                                                                                                           erkennen\n                    lassen.   Die braungelbliche Innenrinde durch helle Bastfasern senkreclit gestreift; Brach rein\n                    faserig, aussen dunkler und flacher.  In der Aussenrinde finden sich nur sehr vereinzelte oder\n                    keine Steinzellen, hingegen ein, allerdings bald verschwindender, einfacher oder\n                                                                                                           doppelter\n                    Kreis von Saftschlauchen.    Die amerikaniscbe Calisaya wird durch die gehaltreichere indische\n                    Calisaya Ledgeriana vollstandig ersetzt."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 217,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "去皮的樹幹皮層扁平光滑，呈純黃色，主要由分散的木質部纖維與豐富的薄壁組織構成。",
+        "warnings": [],
+        "source_line_range": [
+          103,
+          112
+        ],
+        "exact_source_quote": "            b.      Die von der Borke befreiten Stammrinden, der Bast des Stammes, flache glatte, unbedeckte\n                    Konigs-China: China regiaplana, China regia sine epidermide ; Calisaya plat flat Calisaya,\n                                                                                                       ;\n                    Bildet V 3 bis 1 Meter lange, gegen 20 Ctm. breite und              i\n                                                                                   bis 1 / 2 Ctm. dicke, flache Stiicke                       %\n                    von schoner, reiner, gelber Farbung. Die durch Conchas unebene Aussenflache haufig durch\n                    Verwitterung dunkler; Innenflache oft wellenformig gestreift; Gewebe sehr miirbe. Der Bast\n                    welcher fast ausschliesslich allein die Rinde bildet, besteht aus ziemlich zerstreuten, mehr oder\n                    weniger radial, zuweilen auch tangential geordneten Fasern, welche in der Regel durch reich-\n                    liches Parenchym von einander getrennt sind."
+      },
+      {
+        "section_type": "harvest",
+        "pdf_page": 218,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "採收於旱季，由當地人砍伐樹木剝皮，先火烤後曬乾，避免高溫破壞生物鹼，捆綁運輸。",
+        "warnings": [],
+        "source_line_range": [
+          75,
+          99
+        ],
+        "exact_source_quote": "           Das    Neugranada zu jeder Jahreszeit in Peru und Bolivia mit Ausnahme der Regenzeit,\n                 in\ngewohnlich aber im October und November erfolgende Einsammeln der Rinden wird in den schwer\nzuganglichen Urwaldern von den halbwilden Indianern, den sogenannten Cascarilleros practicos (Casca-\ndores) besorgt.   Nach Befreiuug der Oberflache des Stammes von den uppig wuchernden Schling- und\nSchmarotzerpflanzen werden die Stamme gefallt, die Aeste abgehauen, die Borke vom Stamme entfernt\nund der Bast gelost.    Nach vorherigem Klopfen lost sich die Rinde in der Regel leicht vom Holze.\nDie Rinde der Aeste wird mit sammt der Borke geschalt. Eine vorlaufige Trocknung der gewonnen en\nRinde erfolgt am Feuer, die jedoch mit Vorsicht bewirkt werden muss, da durch Anwendung allzu\ngrosser Hitze die Alkaloide leiden.  In Sudperu und Bolivia findet die Trocknung nur an der Sonne\nstatt, und werden hierauf gewohnlich 3        —\n                                           4 Wochen verwendet. Neuerdings wird auch die sich als\nvorziiglicher erweisende Wurzelrinde mit ausgenutzt.   Die Rinden werden in Bundel zu 1 /2 Centner    J\n\n\n\nGewicht g epackt und auf schwierigen, viele Menschenopfer fordernden Wegen nach den grosseren\nNiederlagen geschafft, woselbst die Sortirung und Verpackung in Seronen (Rindshaute) oder Pack-\nleinwand erfolgt.   Nach Karsten liefert ein Baum von 20 Meter Hohe und l /3 Meter Dicke circa\n                                                                              2\n\n10 Centner trockne Rinde; bei den besseren, alkaloidreicheren Sorten betragt die Ausbeute weniger.\nNach neueren Beobachtungen wirken Licht und Warme nachtheilig auf das Chinin der Rinde, daher\nnach dem Pasteur'schen Vorschlage die Trocknung besser im Dunkeln und ohne kunstliche Warme\nerfolgt."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 219,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含奎寧、辛可寧、奎尼丁等生物鹼，以及澱粉、草酸鈣、樹脂、單寧與奎寧酸等成分。",
+        "warnings": [],
+        "source_line_range": [
+          38,
+          61
+        ],
+        "exact_source_quote": "        Bestandtheile. Ausser den allgem ein verbreiteten Bestandtheilen: Starkemehl, Calciumoxalat,\nAmmoniaksalze, Harz, Gummi, Zucker, Gerbstoff enthalten die Chinarinden eine Reihe von Alkaloiden,\nwelche in Nachfolgendem naher beschrieben werden sollen.\n\n                       N\n   Chinin (C 20 H24 2 2 ) im Jahre 1820 von Pelletier und Caventou entdeckt, ist die wichtigste\n       sammtlicher Chinabasen. Es ist stets begeitet von Cinchonin, in der Regel auch von Chinidin\n       und Cinchonidin und kommt in alien echten Chinarinden vor. Es lasst sich aus seiner Losung\n       in Petroleum ather, Benzol oder Chloroform in feinen Nadeln (mit 3        2\n                                                                                   OH\n                                                                                   ) krystallisirt erhalten,\n\n       lost sich in 20 Theilen Aether, reichlicher in Alkohol und Chloroform, bei 15° in 1600 Theilen\n       Wasser. Es hat einen bittern Geschmack und ist eine starke Base; seine Salze fluoresciren.\n                                                                          N\n       In der Medizin bedient man. sich des Sulfates 2 (C 20 H 24 2 2 ) S0 4 2       H + OH\n                                                                                       7     2\n                                                                                                ,welches in\n       zarten, biegsamen, seidenglanzendcn Nadeln krystallisirt, die schon bei gewohnlicher Temperatur\n       unter Einbusse von 5 OH 2 verwittern. Das schwefelsaure Chinin lost sich in 30 Theilen siedenden\n       Wassers, 740 Theilen Wasser von 15°, in 80 Theilen Alkohol von 0,850, sehr leicht in\n       kochendem Alkohol und angesauertem Wasser. Die Losungen drehen die Ebene des polari-\n       sirten Lichtes nach links.\n"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 219,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史上以硫酸奎寧為主，具苦味，用於治療瘧疾，其鹽類溶液具左旋光性。",
+        "warnings": [],
+        "source_line_range": [
+          53,
+          61
+        ],
+        "exact_source_quote": "       In der Medizin bedient man. sich des Sulfates 2 (C 20 H 24 2 2 ) S0 4 2       H + OH\n                                                                                       7     2\n                                                                                                ,welches in\n       zarten, biegsamen, seidenglanzendcn Nadeln krystallisirt, die schon bei gewohnlicher Temperatur\n       unter Einbusse von 5 OH 2 verwittern. Das schwefelsaure Chinin lost sich in 30 Theilen siedenden\n       Wassers, 740 Theilen Wasser von 15°, in 80 Theilen Alkohol von 0,850, sehr leicht in\n       kochendem Alkohol und angesauertem Wasser. Die Losungen drehen die Ebene des polari-\n       sirten Lichtes nach links.\n"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "a5d6505139ddcdba6f759f48766c61b51138d758a25bbd6f26b7684a4cae9eae"
+}

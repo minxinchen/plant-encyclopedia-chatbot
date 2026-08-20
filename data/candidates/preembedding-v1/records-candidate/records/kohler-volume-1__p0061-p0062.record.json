@@ -1,0 +1,274 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0061-p0062",
+  "entry_id": "kohler-volume-1:p0061-p0062",
+  "owner_shard": "S01",
+  "book_taxon": {
+    "scientific_name": "Erythraea Centaurium",
+    "authorship": null,
+    "aliases": [
+      "Gentiana Centaurium L.",
+      "Chironia Centaurium Willd",
+      "Erythraea capitata Cham.",
+      "Erythraea Centaurium f. capitata Koch"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Erythraea Centaurium",
+      "Erythraea centaurium"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T16:20:16+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Erythraea+Centaurium",
+        "query_name": "Erythraea Centaurium",
+        "retrieved_at": "2026-08-13T16:20:12+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Erythraea+centaurium",
+        "query_name": "Erythraea centaurium",
+        "retrieved_at": "2026-08-13T16:20:12+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Gentiana+centaurium",
+        "query_name": "Gentiana centaurium",
+        "retrieved_at": "2026-08-13T16:20:12+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Chironia+centaurium",
+        "query_name": "Chironia centaurium",
+        "retrieved_at": "2026-08-13T16:20:12+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Erythraea+capitata",
+        "query_name": "Erythraea capitata",
+        "retrieved_at": "2026-08-13T16:20:12+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 61,
+      "evidence_type": "text",
+      "page_text_sha256": "9a44aa3db0e6822f7542dcdd8460bc3565b7a77b6bcbf992197d179717546bcf",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 62,
+      "evidence_type": "text",
+      "page_text_sha256": "5d8e7e92561abde33eddf2fe4bd60e7f447ba8ddff4e41dc90e3c9f514c8853b",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0061-p0062:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                         Syn. Gentiana Centaurium L.               Chironia Centaurium Willd\n\n\n           Tausendgiildenkraut, Erdgalle, Fieberkraut, rother Aurin                                Centaury\n                                                       Centauree    petite.\n                                                                                       \\\n                         /\n\n\n\n\n           Familie: Gentianaceae.                Gattung: Erythraea Rich.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Erythraea Centaurium，同義名 Gentiana Centaurium L. 及 Chironia Centaurium Willd。隸屬龍膽科。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 61,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 93,
+        "char_end": 565,
+        "page_text_sha256": "9a44aa3db0e6822f7542dcdd8460bc3565b7a77b6bcbf992197d179717546bcf",
+        "exact_text_sha256": "ff4cc63fb637494610b48d3573db00b61e50367aeddff1b541fe8e1c7fe5b555",
+        "source_line_start": 4,
+        "source_line_end": 15,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "ff4cc63fb637494610b48d3573db00b61e50367aeddff1b541fe8e1c7fe5b555",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0061-p0062:s01:x00",
+      "section_type": "description",
+      "original_text": "           Beschreibung.               Ein- und zweijahrige Pflanze mit senkrechter, kurzer, holziger, meist ein-\nfacher, etwas hin-           und hergebogener Wurzel und 4kantigem, meist einfacliem, aufreclitem, bisweilen von\nunten auf astigem, 0,15          — 0,35 m hohem Stengel. Blatter 3- oder meist Snervig, ganzrandig, vollig kahl;\nunterste Blatter eine Rosette bildend, verkehrt-eiformig, in einen kurzen Stiel verschmalert, stumpf und kurz\nbespitzt, bis         4 cm lang, bis 2 cm breit; Stengelblatter einander gegeniiber sitzend, halbstengelumfassend,       *\n\n\n\n\nlanglich -eifornxig bis lineal- lanzettlich, allmalig kleiner werdend.               Bliithen eine gipfelstandige    ,       ebene,\nanfangs gedrungene, spater lockere Trugdolde bildend;                    die   meist zahlreichen,   aus den   Winkeln der\nobersten Blatter hervorkommenden Bliithenaste verzweigen sich abermals trugdoldig-gabelig; die Spindel\nendet zuletzt in einer sitzenden, von den gestielten Seitenbltithen gabelig iiberragten Bliithe.  Krone\nmit dunner, fast farbloser, walzenrunder, etwas bauehiger, oberhalb des Fruchtknotens verengerter Rohre\nund mit Slappigem, schon rosenrothem, vor und nach der Bliitlie zusammengerolltem Saume. Lappen\neilanglich, stumpf,          am Grunde mit einem lielleren Fleck, wahrend des Bliihens abstehend.             Staubgefasse\nzu 5   am Ende           der Kronenrohre eingefiigt, mit kurzen, fadigen Filamenten und langlich-linealischen,\nam Grunde ausgerandeten, oben mit einer kurzen Spitze versehenen, auf dem Riicken, nalie dem Grunde\nangehefteten nach dem Verstauben spiralig gedrehten, 2facherigen Beuteln.",
+      "normalized_text": null,
+      "zh_tw_rendering": "一或二年生植物，莖高 0.15-0.35 米。葉對生，基部葉成蓮座狀。花頂生，冠筒細長，裂片玫瑰紅色。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 61,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 566,
+        "char_end": 2211,
+        "page_text_sha256": "9a44aa3db0e6822f7542dcdd8460bc3565b7a77b6bcbf992197d179717546bcf",
+        "exact_text_sha256": "b6b4f915899e6e66e9c515b2fbb09986eac2e352665671acb6751fea4378968d",
+        "source_line_start": 16,
+        "source_line_end": 34,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "b6b4f915899e6e66e9c515b2fbb09986eac2e352665671acb6751fea4378968d",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0061-p0062:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "            Anatomisches : Der Querschnitt durch die Blattspreite zeigt (nach Fliickiger) in der oberen Halfte eine\ndoppelte Palissadenschicht   der Holzring der Stengel ist aus dickwandigen Gefassen und Fasern zusammengesetzt.",
+      "normalized_text": null,
+      "zh_tw_rendering": "葉片橫切面顯示雙層柵欄組織；莖木質環由厚壁管胞和纖維組成。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 61,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 3439,
+        "char_end": 3666,
+        "page_text_sha256": "9a44aa3db0e6822f7542dcdd8460bc3565b7a77b6bcbf992197d179717546bcf",
+        "exact_text_sha256": "2ad90c561fb758bfbaa6b2711df0fb75f85f28c6829c5305708e21e5e8242b46",
+        "source_line_start": 51,
+        "source_line_end": 52,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "2ad90c561fb758bfbaa6b2711df0fb75f85f28c6829c5305708e21e5e8242b46",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0061-p0062:s03:x00",
+      "section_type": "distribution",
+      "original_text": "            Verbreitung                                Wiesen, Triften, Waldblosen und        in    Gebuschen durch den\n                                                                                               Westa\nverbreitet.       In Europa geht die Pflanze bis           zum 59. Breitengrade hinauf.",
+      "normalized_text": null,
+      "zh_tw_rendering": "分佈於草地、林間空地及灌叢中。在歐洲分佈北至北緯 59 度。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 61,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 3707,
+        "char_end": 4015,
+        "page_text_sha256": "9a44aa3db0e6822f7542dcdd8460bc3565b7a77b6bcbf992197d179717546bcf",
+        "exact_text_sha256": "9b0e038d6917445d032e65b0f7516d3edd2b19aa41b34224acf679b18784dc59",
+        "source_line_start": 58,
+        "source_line_end": 60,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "9b0e038d6917445d032e65b0f7516d3edd2b19aa41b34224acf679b18784dc59",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0061-p0062:s04:x00",
+      "section_type": "history",
+      "original_text": "            Name                 Geschichtliches.         Der deutsche Name Tausendgiildenkraut                ist   aus        der\n\nlateinischen Bezeichnung              Centaurium    = centum aurum (100 Gulden, ein Kraut, welches wegen seiner\nHeilkrafte 100 Gulden werth               ist)   hervorgegangen.   Es   mtisste   darnach eigentlich Hundertgiildenkraut\nheissen; da jedoch die Monche   in fruherer Zeit der Ktirze halber anstatt Centaurium    100 fl. schrieben,\n\n\n\nso  sollen (nach Schleicher)   durch  Nachlassigkeit  beim  Abschreiben  1000  fl. daraus  geworden    und\n      Tausendgiildenkraut entstanden  sein. Die  ubrigen deutschen Bezeichnungen    beziehen  sich auf den\nsomit\n\n              /",
+      "normalized_text": null,
+      "zh_tw_rendering": "德名 Tausendgiildenkraut 源於 Centaurium，傳為僧侶抄寫時將 100 誤作 1000。亦稱 Erdgalle 或 Fieberkraut。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 61,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4016,
+        "char_end": 4729,
+        "page_text_sha256": "9a44aa3db0e6822f7542dcdd8460bc3565b7a77b6bcbf992197d179717546bcf",
+        "exact_text_sha256": "f0d0a51d8fb0f4bca5fb9504a6e4aaa57f99ab49a82dcfd78e230ef77dfc9be5",
+        "source_line_start": 61,
+        "source_line_end": 73,
+        "section_index": 4,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "f0d0a51d8fb0f4bca5fb9504a6e4aaa57f99ab49a82dcfd78e230ef77dfc9be5",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0061-p0062:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "           Das Tausendguldenkraut ist eine uralte Arzneipflanze und unzweifelhaft das Kevravqtov (xmqov\n des Dioscorides.     Sie hat von jeher, wie auch jetzt noch, in der Volksmedizin eine grosse Rolle\n gespielt.   Plinius bezeichnet sie mit Fel terrae (Erdgalle, altdeutsch Ertgalla).       Hieronymus\n Brunschwig nennt die Pflanze in seinem Destillirbuch (1609): Dusent gulden Krut, Erdgal und Aurin;\n Valerius Cordus nannte sie Fieberkraut und Aurin. Die Pflanze wurde fruher als kleines Centaurium\n bezeichnet,         zum Unterschiede von der Composite Centaurium majas {Centaurea Centaurium L.)\n              Bliithezeit.           Juli bis September.",
+      "normalized_text": null,
+      "zh_tw_rendering": "古藥用植物，即 Dioscorides 之 Kevravqtov。Plinius 稱 Erdgalle，Brunschwig 稱 Dusent gulden Krut。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 62,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 584,
+        "char_end": 1243,
+        "page_text_sha256": "5d8e7e92561abde33eddf2fe4bd60e7f447ba8ddff4e41dc90e3c9f514c8853b",
+        "exact_text_sha256": "b44d67ed076d24503b2aab1a9e70fcaf04c90cf845b07a14b19685253bfb3848",
+        "source_line_start": 15,
+        "source_line_end": 21,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "b44d67ed076d24503b2aab1a9e70fcaf04c90cf845b07a14b19685253bfb3848",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "ba8dfbd377ff0110b2fae16000cee038c193486ead17194c70c95c09384af8c8",
+    "maker_receipt_sha256": "fb17202c39b4473a1ce883071bf7abc897bcd934fb525e18d64f3fa012dbcf76",
+    "validation_check_sha256": "c603b0b382d9541fddfa2cfb8b790ef4715297be0421a7ed54401c09ca993421",
+    "source_disposition_sha256": "0cdf2001931623b22f8c8c2f3707536fae71770120036e7b7ee90d3d4b1d3073",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "fb17202c39b4473a1ce883071bf7abc897bcd934fb525e18d64f3fa012dbcf76",
+      "validation_check_sha256": "c603b0b382d9541fddfa2cfb8b790ef4715297be0421a7ed54401c09ca993421",
+      "source_disposition_sha256": "0cdf2001931623b22f8c8c2f3707536fae71770120036e7b7ee90d3d4b1d3073"
+    },
+    "naming_artifact_sha256": "14da5b3e4ed63e91c0b328917e1117218fc1cddd9a70a73c14e85a2dcf57d80b"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "e5b21b52fb73399d62f7a464ba5be44eef7b68866e8ee3a6cb8923dc1d16791a"
+}

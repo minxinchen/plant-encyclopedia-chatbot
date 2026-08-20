@@ -1,0 +1,295 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-3-p0105-p0108",
+  "entry_id": "kohler-volume-3:p0105-p0108",
+  "owner_shard": "S06",
+  "book_taxon": {
+    "scientific_name": "Sinapis alba",
+    "authorship": null,
+    "aliases": [
+      "Brassica alba (L.) Hooker fil. & Thompson",
+      "Rhamphospermum album Andrzejowsky",
+      "Weisser, gelber, englischer Senf, Gartensenf",
+      "White mustard",
+      "Moutarde blanche",
+      "Mostarda bianca",
+      "Witte Mosterd",
+      "Mostaza blanca",
+      "Mostrada branca"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Sinapis alba"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T14:20:09+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Sinapis+alba",
+        "query_name": "Sinapis alba",
+        "retrieved_at": "2026-08-13T14:20:04+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Brassica+alba",
+        "query_name": "Brassica alba",
+        "retrieved_at": "2026-08-13T14:20:05+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Rhamphospermum+album",
+        "query_name": "Rhamphospermum album",
+        "retrieved_at": "2026-08-13T14:20:05+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Weisser+gelber",
+        "query_name": "Weisser gelber",
+        "retrieved_at": "2026-08-13T14:20:05+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=White+mustard",
+        "query_name": "White mustard",
+        "retrieved_at": "2026-08-13T14:20:05+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Moutarde+blanche",
+        "query_name": "Moutarde blanche",
+        "retrieved_at": "2026-08-13T14:20:05+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Mostarda+bianca",
+        "query_name": "Mostarda bianca",
+        "retrieved_at": "2026-08-13T14:20:05+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Witte+mosterd",
+        "query_name": "Witte mosterd",
+        "retrieved_at": "2026-08-13T14:20:05+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Mostaza+blanca",
+        "query_name": "Mostaza blanca",
+        "retrieved_at": "2026-08-13T14:20:05+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Mostrada+branca",
+        "query_name": "Mostrada branca",
+        "retrieved_at": "2026-08-13T14:20:05+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 105,
+      "evidence_type": "text",
+      "page_text_sha256": "2d3b42a0268b23729acb782fdeebcfa35f8e683200158f2b72376c26a51ff32c",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 106,
+      "evidence_type": "text",
+      "page_text_sha256": "b5312bee38d84bc6670f401451ca38ca9f9923f971ca6a14c7c541df2324255a",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 107,
+      "evidence_type": "text",
+      "page_text_sha256": "014ad57fa7e9ab9ce8a5909796c676b6c1beaa02c8c21cf5578c040562ee7f8d",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-3:p0105-p0108:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                                 Sinapis           alba L,\nWeisser, gelber, englischer Senf, Gartensenf. Engl.: White mustard. Franz.: Moutarde\nblanche, Moutarde anglaise.    Ital.: Mostarda bianca.. Holl.; Witte Mosterd oder Witte\nMostaard.   Span.: Mostaza blanca.      Port.: Mostrada branca.   Griech.: Iivarı 10 Aevzov.\n\n           Syn. Brassica alba (L.) Hooker fil.                & Thompson.     Rhamphospermum     album    Andrzejowsky.\n\n       Familie: Oruciferae Jussieu.                   Unterfamilie:          Orthoploceeae DC.   Section:       Brassiceae.\nGattung: Sinapis (Tournef.) Koch.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Sinapis alba L.，別名 Brassica alba。隸屬十字花科，芸薹亞科，芸薹族，芥菜屬。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 105,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 620,
+        "page_text_sha256": "2d3b42a0268b23729acb782fdeebcfa35f8e683200158f2b72376c26a51ff32c",
+        "exact_text_sha256": "f8416f09e67edcbd19a84340c8fcc819e83ca9ad9a5f52b9a77c2fd8c66307dc",
+        "source_line_start": 1,
+        "source_line_end": 9,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "f8416f09e67edcbd19a84340c8fcc819e83ca9ad9a5f52b9a77c2fd8c66307dc",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0105-p0108:s01:x00",
+      "section_type": "description",
+      "original_text": "       Beschreibung. Die einjährige Pflanze hat eine dünne spindelige,                                 weissliche Pfahl-\nwurzel mit wenigen dünnen Nebenwurzeln und einzelnen Wurzelfasern.                                     Der Stengel ist\nkrautig,    aufrecht,     30—60      cm   hoch    oder höher,      stielrund,   aber tief gerillt,    unten   gewöhnlich\netwas steifhaarig, mit abwärts gerichteten Haaren besetzt, oben kahl oder nur mit sehr ver-\neinzelten zerstreuten Haaren besetzt. Die Blätter sind wechselständig, gestielt, nicht von\nNebenblättern        begleitet,     einfach,      leierförmig-fiederschnittig,       im     Umfange   eiförmig,      bis    zu\n17 em lang und 11 cm                breit, und mit einem 5—5 cm                 langen Stiele versehen.        Das ganze\nBlatt ist meist in sieben, seltener neun Zipfel geteilt; die untersten sind klein, viel schmäler\nals die späteren, lanzettlich stumpf und nicht selten rückwärts gerichtet. Die mittleren sind\ndie längsten, die obersten die breitesten. Alle sind länglich- oder breit-lanzettlich, die obersten\ndrei am Grunde mit einander verbunden (zusammenfliessend), die unteren mehr oder weniger\nvon einander entfernt, doch so, dass am oberen Rande der Zipfel die Blattsubstanz nach den\nhöheren Blattzipfeln hinstrebt. Je näher die Blätter dem Blütenstande stehen, desto mehr\nnehmen die Zipfel ab, teils an Zahl, teils an Breite, sowie an Buchtungen am Rande.   Die\nZipfel der unteren Blätter sind nämlich am Rande beiderseitig mit ungefähr drei groben,\nstumpfen Zähnen versehen, welche wiederum mehrere kleine Zähne tragen. Die Behaarung\nder Blätter ist, wie gewöhnlich, sehr von dem Standort der Pflanze abhängig. Meist ist die\netwas     dunklere      Oberseite    kahl   und      nur   mit sehr vereinzelten     längeren    Haaren    bedeckt,        wo-",
+      "normalized_text": null,
+      "zh_tw_rendering": "一年生植物，具細長白色主根。莖直立，高30-60公分，溝狀，下部被毛。葉互生，羽狀深裂，長至17公分。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 105,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 621,
+        "char_end": 2453,
+        "page_text_sha256": "2d3b42a0268b23729acb782fdeebcfa35f8e683200158f2b72376c26a51ff32c",
+        "exact_text_sha256": "996874a756ecb1a50aa6d91002c8a604f44d7cdfe977c9518bc34db6ce494c2b",
+        "source_line_start": 10,
+        "source_line_end": 27,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "996874a756ecb1a50aa6d91002c8a604f44d7cdfe977c9518bc34db6ce494c2b",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0105-p0108:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "                  Anatomie.                  Nach Untersuchungen von Tschirch                                            und Oesterle                      zeigen nur die Integu-\nmente der Samenknospe einen reichen Gehalt an Stärke, welcher im Samen nicht mehr Vor-:\nhanden            ist.       Die Schalen                    des reifen Samens                 haben        aussen             zunächst            eine von Schleim               erfüllte\nEpidermis;                   dann folgt ein mit collenchymatischen Verdickungen versehenes,                                                                          weitmaschiges\nim trocknen\n.",
+      "normalized_text": null,
+      "zh_tw_rendering": "解剖顯示種皮外層為充滿黏液的表皮，其下為具厚壁的厚壁組織層，細胞徑向伸長。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 106,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 5229,
+        "char_end": 5873,
+        "page_text_sha256": "b5312bee38d84bc6670f401451ca38ca9f9923f971ca6a14c7c541df2324255a",
+        "exact_text_sha256": "c477c87d4c6725b290f22b9e547846b6e5d1fb9e9cd53789ba56d3965cfe2d88",
+        "source_line_start": 51,
+        "source_line_end": 56,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "c477c87d4c6725b290f22b9e547846b6e5d1fb9e9cd53789ba56d3965cfe2d88",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0105-p0108:s03:x00",
+      "section_type": "constituents",
+      "original_text": "        Bestandteile. Die Senfkörner enthalten fettes Öl 30°/,, Proteinsubstanz 28°/,, das\nAlkaloid Sinapin, das Glycosid Sinalbin und das Ferment Myrosin. Das fette Öl des weissen\nSenfs hat ein spezifisches Gewicht von 0,9142, Erstarrungspunkt — 16,25° C. Jodzahl 96.\nEs ist goldgelb,          von     scharfem       Geschmacke        (Benedict).          Es   enthält     neben     anderen     Säuren\ndie Behensäure.            Das Ferment Myrosin soll im weissen Senf in grösserer Menge enthalten\nsein, als im schwarzen.  Nach den Untersuchungen Weppen’s unter Flückiger beträgt der",
+      "normalized_text": null,
+      "zh_tw_rendering": "種子含脂肪油30%、蛋白質28%、生物鹼Sinapin、糖苷Sinalbin及酵素Myrosin。油含芥酸。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 107,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 900,
+        "char_end": 1485,
+        "page_text_sha256": "014ad57fa7e9ab9ce8a5909796c676b6c1beaa02c8c21cf5578c040562ee7f8d",
+        "exact_text_sha256": "ce135f14a4befafda07e3166605d60444198de49c097a9af611018823cbd118b",
+        "source_line_start": 11,
+        "source_line_end": 16,
+        "section_index": 3,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "ce135f14a4befafda07e3166605d60444198de49c097a9af611018823cbd118b",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0105-p0108:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "            Anwendung.            Der    weisse    Senfsamen       findet sowohl        für sich,       als auch    in Verbindung\nmit schwarzem Samen Anwendung. Für sich dient er in Pulverform als hautrötendes Medi-\nkament zu Kataplasmen; innerlich wird er in Dosen von !/,—1 Theelöffel als Mittel gegen\nBlähungen         und    Magenschwäche            gebraucht,      doch        soll der Samen     bei     anhaltendem         Gebrauch\nschädliche Nachwirkung haben. — Mit schwarzem Senf gemengt und zu Breiumschlägen\nverwendet, erhöht er dessen Wirksamkeit durch raschere Entwicklung von Senföl. Endlich\nverwendet man ihn sowohl ganz als Küchengewürz, als auch in Form entölten Pulvers zur\nDarstellung von Speisesenf.",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：種子粉末外用製敷劑以發紅皮膚；內服治脹氣與胃弱，但長期使用有害。亦作調味料。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 107,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 2426,
+        "char_end": 3145,
+        "page_text_sha256": "014ad57fa7e9ab9ce8a5909796c676b6c1beaa02c8c21cf5578c040562ee7f8d",
+        "exact_text_sha256": "097a871e49446ed8d6038c4008987de3884ff99bcc8a705dabebe58d038196fc",
+        "source_line_start": 28,
+        "source_line_end": 35,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "097a871e49446ed8d6038c4008987de3884ff99bcc8a705dabebe58d038196fc",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "8598d6adedf2954e780e9733e099ef24fa9465c15ea6ffcf46f6694af3b403bc",
+    "maker_receipt_sha256": "239c8a7356a3e52c4b9f96fc2565f95c8a984388ec10d28a20e2836635499a40",
+    "validation_check_sha256": "c7ec09c84a3d2778806a54276a54881e69a68a2f2d9d5e80b87ffcfa2259a26e",
+    "source_disposition_sha256": "d256cf27d6ecc8f8ea7178f56b0d7f12d053199aef731a9bbcf716d2877420bd",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "239c8a7356a3e52c4b9f96fc2565f95c8a984388ec10d28a20e2836635499a40",
+      "validation_check_sha256": "c7ec09c84a3d2778806a54276a54881e69a68a2f2d9d5e80b87ffcfa2259a26e",
+      "source_disposition_sha256": "d256cf27d6ecc8f8ea7178f56b0d7f12d053199aef731a9bbcf716d2877420bd"
+    },
+    "naming_artifact_sha256": "3b0fc9f19b90424de913b094b59f1328b10135ae9d1c1eeadcf3bdcc07aa3688"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "b97c81a0809a83ae69dc1cad9a2edf78b70f7e3af712c2425235bb193fcb31c3"
+}

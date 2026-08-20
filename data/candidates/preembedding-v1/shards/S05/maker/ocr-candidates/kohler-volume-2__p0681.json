@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 681,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "5857b82bb1c1054327fd408c24d3ab22d4ae46b97e462e8e2f0523ffe5adce62",
+  "render_dpi": 144,
+  "render_sha256": "7dde988a63e2488e35052749a5047951bd1201eb30c2e297294266f49caad2cf",
+  "input_sha256": "7dde988a63e2488e35052749a5047951bd1201eb30c2e297294266f49caad2cf",
+  "render_pixel_width": 6098,
+  "render_pixel_height": 8054,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.94,
+  "embedded_character_count": 109,
+  "ocr_character_count": 45,
+  "ocr_alpha_ratio": 0.6889,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.02099408043755424,
+      "text": "Palmae",
+      "width": 0.07898167558331537,
+      "x": 0.8885321944264118,
+      "y": 0.9168285414275668
+    },
+    {
+      "confidence": 1,
+      "height": 0.021091179242209823,
+      "text": "(balameae)",
+      "width": 0.13454962370047474,
+      "x": 0.855949757595068,
+      "y": 0.8906172008803032
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534884028964523,
+      "text": "8",
+      "width": 0.019193857888731986,
+      "x": 0.05758157384940667,
+      "y": 0.6569767441127787
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "3",
+      "width": 0.009596928944365993,
+      "x": 0.08829174675622392,
+      "y": 0.09593023290231095
+    },
+    {
+      "confidence": 1,
+      "height": 0.02331349206349209,
+      "text": "Calamus Draco Willd",
+      "width": 0.2207293657204179,
+      "x": 0.41266794451503097,
+      "y": 0.07266865098700703
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "167",
+      "width": 0.02303262996611133,
+      "x": 0.90595009571752,
+      "y": 0.0130813952694957
+    }
+  ],
+  "text": "Palmae\n(balameae)\n8\n3\nCalamus Draco Willd\n167",
+  "output_sha256": "417e7c7f5f67fcaf473a7b8bb1a48a2c5212899410c84f57554e1cacab876ca1",
+  "receipt_sha256": "e19f45199e0ad75606dda9d66ca38328f768034a7d7b76ee816ecb08573bf5d9"
+}

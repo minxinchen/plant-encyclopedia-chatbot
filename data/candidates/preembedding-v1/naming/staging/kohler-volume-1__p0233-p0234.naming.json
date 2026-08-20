@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-1:p0233-p0234",
+  "owner_shard": null,
+  "source_draft": null,
+  "source_draft_sha256": null,
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "7ce0e0939b71eb821de313c6bc0a23a63769fa64395357ac1d96b43b003482ff",
+    "validation_check_sha256": "269b47e640d9bd11205237b7b67bbf63a1125f8abb8fbcb3609f4dbd2c7468eb",
+    "source_disposition_sha256": null,
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": null,
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Hagenia abyssinica",
+    "authorship_candidate": null,
+    "aliases_candidates": []
+  },
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Hagenia abyssinica"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_zh_tw": null,
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_checked",
+    "taxon_id": null,
+    "display_name_source_scope": "unresolved",
+    "display_name_source_evidence_ids": [],
+    "display_name_is_taiwan_public": false,
+    "display_name_answer_policy": "scientific_name_only",
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping.",
+    "checked_at": "2026-08-20T23:03:13+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Hagenia abyssinica",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Hagenia+abyssinica",
+      "retrieved_at": "2026-08-20T23:02:45+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Hagenia abyssinica",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Hagenia%20abyssinica",
+      "retrieved_at": "2026-08-20T23:03:13+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears."
+  ]
+}

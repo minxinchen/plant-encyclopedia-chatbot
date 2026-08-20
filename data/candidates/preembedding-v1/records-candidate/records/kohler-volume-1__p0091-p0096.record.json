@@ -1,0 +1,246 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0091-p0096",
+  "entry_id": "kohler-volume-1:p0091-p0096",
+  "owner_shard": "S01",
+  "book_taxon": {
+    "scientific_name": "Papaver somniferum",
+    "authorship": null,
+    "aliases": [
+      "Mohn",
+      "Schlafmohn",
+      "Gartenmohn",
+      "Pavot officinal",
+      "Garden Poppy",
+      "Opium Poppy",
+      "White Poppy",
+      "Papaver officinale Gmel.",
+      "Papaver somniferum var. album DC.",
+      "Papaver somniferum var. nigrum DC."
+    ]
+  },
+  "display_name": "罌粟",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Papaver somniferum"
+    ],
+    "accepted_scientific_name": "Papaver somniferum",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T19:28:20+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Papaver+somniferum",
+        "query_name": "Papaver somniferum",
+        "retrieved_at": "2026-08-13T19:28:20+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0075081",
+        "query_name": "Papaver somniferum",
+        "retrieved_at": "2026-08-13T19:28:20+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0075081",
+        "query_name": "Papaver somniferum",
+        "retrieved_at": "2026-08-13T19:28:20+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL accepts the queried book binomial at species rank."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 91,
+      "evidence_type": "text",
+      "page_text_sha256": "f84c07caba1bec13749a1cab817e7b07d9e69111ff838b4f9763fd0bd43f1e23",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 92,
+      "evidence_type": "text",
+      "page_text_sha256": "afcd35fb4072398df8b308024944d25804287e7817ae89df7f36dc59ad669b74",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 94,
+      "evidence_type": "text",
+      "page_text_sha256": "739ffbb73a061ce7026f387d70710d7f6a39c0dcd6781b84b11fd140e326e60e",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0091-p0096:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                             Papaver somniferum L.\n\nMohn, Schlafmohn, Gartenmohn                                         Pavot        officinal                Garden Poppy, Opium Poppy,\n                                                                 White Poppy,\n\n           Familie: Papaveraceae.                  Gattung: Papaver Tourn.",
+      "normalized_text": null,
+      "zh_tw_rendering": "罌粟科罌粟屬，學名 Papaver somniferum L.，俗名 Mohn、Schlafmohn、Gartenmohn。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 91,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 128,
+        "char_end": 483,
+        "page_text_sha256": "f84c07caba1bec13749a1cab817e7b07d9e69111ff838b4f9763fd0bd43f1e23",
+        "exact_text_sha256": "3be3d1f03a195f0b6c690246c708ea663c0c2cbecc24320b7f5794d04e4589f1",
+        "source_line_start": 11,
+        "source_line_end": 16,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "3be3d1f03a195f0b6c690246c708ea663c0c2cbecc24320b7f5794d04e4589f1",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0091-p0096:s01:x00",
+      "section_type": "description",
+      "original_text": "           Beschr eibung.                 Einj ahrige   ,\n                                                              -\n                                                             \\ l      j\n                                                                          /2\n                                                                             m. hohe Pflanze mit einfacher oder wenig verastelter r\n\n\nstielrunder    ,    weisser Wurzel                                                                                     doldfentraubig verasteltem,\n\nkahlem, blaugriinem, innen markigem Stengel.                                 Blatter zerstreut,            eilanglich bis langlich, ungetheilt,\n\nungleich eingeschnitten gesagt, unten mit verschmalertem Grande, buchtig, die oberen mit herzformigem\nGrande halbstengelumfassend, blaugriin, kalil.                            Bliithen einzeln, langgestielt, endstandig, vor                dem Auf-\nbliihen iiberhangend, spater aufrecht.                      Bliitlienstiel stielrund,          meist abstehend borstig behaart, blaugriin.\nKelch 2blatterig, hinfallig; Kelchblatter langlich, kahnformig, blaulich -bereift, meist kahl.  Krone\n4blatterig, 10 cm. und mehr im Durchmesser; Kronblatter umgekehrt eirund, meist breiter als lang,\noben abgerundet, ganzrandig oder ausgeschweift, an der Basis keilformig, paarig gegeniiberstehend und\nnnter sich mit                                           Knospe zusammengeknittert, abfallend, ent-\n                       dem Kelchblatterpaare ab wecliselnd                    ,       in der\n\nweder weiss mit violettem Grande (P. officinale GmeL, P. somniferum /?. album DC.) oder lieller oder\ndnnkler purpnrn, mit dnnkel- violettem Grande (P. somniferum GmeL, P. somniferum a. nigrum DC).",
+      "normalized_text": null,
+      "zh_tw_rendering": "一年生植物，高約 1.5 米，莖藍綠色中空。葉互生，深裂。花單生，直徑 10 厘米以上，花瓣白色帶紫或紫色。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 91,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 528,
+        "char_end": 2305,
+        "page_text_sha256": "f84c07caba1bec13749a1cab817e7b07d9e69111ff838b4f9763fd0bd43f1e23",
+        "exact_text_sha256": "ac15081917c1f937eeff1d5df0d62801d14995b57a2640a29b4d46b4ae0ba686",
+        "source_line_start": 22,
+        "source_line_end": 43,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "ac15081917c1f937eeff1d5df0d62801d14995b57a2640a29b4d46b4ae0ba686",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0091-p0096:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "                           Die Oberflache der Kapsel besteht aus einer diinnen, reichlich mit Spaltoffnungen besetzten\n               Anatomisches:\nEpidermis; darauf folgt erne Reihe dichtgedrangter kleiner, im Quersclinitt\n                                                             ,                 rundlich-quadratischer oder wenig  tan-\n\ngential gedehnter Zellen, deren nur rait wenig Poren versehene Wande, namentlich nach aussen, sehr dick sind.      Die\n                                                                               welche  allmahlig  in ein schlaffes,\ndarauffolgende Schicht besteht aus grosseren,mehr                tangential gedehnten Zellen,\ngrosszelliges, mehr and mehr dunnwandiges Parenchym iibergehen, das von grosseren Intercellularraumen durcnzogen\nist.       Das lockere   Parenchym enthalt auf der Grenze gegen die Epidermis einen Kreis sehr zerstreuter Biindel kleiner\nNetzgefasse und etwas tiefer einen weitlaufigen Kreis grosserer Gefassbiindel; beide Kreise sind durch querabzweigende,\nbogenformig aufsteigende oder oft fast horizontal verlaufende Strange verbunden.          Im  innern Kreis enthalten die\n\nGefassbiindel verzweigte Milch- und Siebrohren.    Die innere Fruchtwand besteht aus grossen, horizontal gestreckten\nZellen, deren      Wande von zahlreichen kleinen, spiralig geordneten Poren durchsetzt sind (Fluckiger).",
+      "normalized_text": null,
+      "zh_tw_rendering": "蒴果表皮具氣孔，內含乳管與篩管。種子具雙層種皮，內含油質胚乳與胚。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 92,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 0,
+        "char_end": 1372,
+        "page_text_sha256": "afcd35fb4072398df8b308024944d25804287e7817ae89df7f36dc59ad669b74",
+        "exact_text_sha256": "c8facb97b201806d1afec01d36c7e466a9661998ae54d01b766d86a3a155fb88",
+        "source_line_start": 1,
+        "source_line_end": 15,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "c8facb97b201806d1afec01d36c7e466a9661998ae54d01b766d86a3a155fb88",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0091-p0096:s03:x00",
+      "section_type": "history",
+      "original_text": "               Name und Geschichtliches.    Der Name Mohn, althochdeutsch mago, mittelhochdeutsch\nmalien, magsat, magsonikrcmt, magsamlyn, bei Cordus: malm, bei Fuchs n. Bock: magsamen, slavisch\nmrik, litauisch agima, esthnisch maggona, lettisch maggons, soil mit dem Mrptxov der Griechen urverwandt\nund anspielend auf den, auf schlankem Stengel hoch emporragenden Mohnkopf auf eine Wurzel zuruck-\nzufubren sein, der das griechische prjyLog (Lange), lateinische magnus und sanskritische mah (gross)\nentsprungen ist. Grassmarnn erwahnt noch der von A. Pictet angenommenen Abstammung von dem\nlitauischen megmi, ich schlafe, was er jedocb unter Hinweis auf den Umstand, dass der litauische Vokal\nauf ursprlinglich.es i zuriickweist (uz-migti einschlafen, migdinti, miginti einschlafern), wahrend in dem\nNamen unserer PjElanze iiberall der a-Laut hervortritt, fiir unwahrscheinlich halt. Papaver, bei Plinius\nder Name fiir Schlafmohn, soil von papa (Kinderbrei) abgeleitet sein, weil man fruher den Speisen\nder Kinder, um ihnen eine einschlafernde Wirkung zu geben, Mohnsaft zusetzte; die Endsilbe ver soil\nausdem lateinischen vemvm               =\n                           echt (echtes Schlafmittel) entstanden sein.\n                                          •\n                                                                       Das weiter unten erwahnte\n                                                                             *\n\n\n\n\nOpium stammt von dem griechischen otuov, dem Verkleinerungsworte von orzog Mohnsaft.",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源於日耳曼語 mago 或希臘語 μακός。古希臘已用其汁液止痛，希波克拉底時代僅知種子與汁液，後由 Diokles 記載鴉片。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 92,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 2012,
+        "char_end": 3536,
+        "page_text_sha256": "afcd35fb4072398df8b308024944d25804287e7817ae89df7f36dc59ad669b74",
+        "exact_text_sha256": "a276e65ce695f11f3d845979b362506fcdbda2387fc817346ece768ce8db0207",
+        "source_line_start": 26,
+        "source_line_end": 46,
+        "section_index": 3,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "a276e65ce695f11f3d845979b362506fcdbda2387fc817346ece768ce8db0207",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0091-p0096:s04:x00",
+      "section_type": "constituents",
+      "original_text": "           Morphin: C 17 H 19 N0 3         + H O; Sertiirner 1804—1816.\n                                                        2          Morphin ist das wichtigste Alkaloid des Opiums; es\nenthalt in krystallinisch em Zustande 1 Atom Krystallwasser und bildet feine weisse, seidenglanzende Nadeln, oder\nwenn es durch langsames Verdunsten aus weingeistiger Losung gewonnen worden ist bildet es farblose, halbdurch-\nsichtige, sechsseitige, klinorrhornbische Saulen; es ist geruchlos, schmeckt trocken schwach, in Losung stark bitter.\nSpez. Gew. 1,317—1,326.      Reagirt deutlich alkalisch.  Bei Erhitzung des Morphins mit uberschussiger Salzsaure in\nzugeschmolzenen Rohren bildet sich unter Abspaltung von H 2 O eine neue Base, das Apomorphin C H N0                                              .\n                                                                                                      17    17    2",
+      "normalized_text": null,
+      "zh_tw_rendering": "主要生物鹼為嗎啡（Morphin），1804 年由 Sertürner 發現。其他包括可待因、那可汀、罌粟鹼等，具苦味與鹼性。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 94,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 3153,
+        "char_end": 4065,
+        "page_text_sha256": "739ffbb73a061ce7026f387d70710d7f6a39c0dcd6781b84b11fd140e326e60e",
+        "exact_text_sha256": "f37e4f8d815cc131cfe9719fdb3bcd636553c46f72e92e50fa7309214db36676",
+        "source_line_start": 46,
+        "source_line_end": 53,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "f37e4f8d815cc131cfe9719fdb3bcd636553c46f72e92e50fa7309214db36676",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "e08f137da6fcfd2db41290e2f48123f262fcfa60462737e774309eb0d4e3e29d",
+    "maker_receipt_sha256": "ffe4f43f328e02e7d36bb3ecb23c09819eb9233bde305ffbade17963c145f296",
+    "validation_check_sha256": "bc33ebd471a7d281188e22e3251061b7284aed3a78d841ec901d22148a6802ab",
+    "source_disposition_sha256": "9f5d4a2e5790c5b695a6feb366f46338bf9a61d49ec9cb59434140a83f1198ba",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "ffe4f43f328e02e7d36bb3ecb23c09819eb9233bde305ffbade17963c145f296",
+      "validation_check_sha256": "bc33ebd471a7d281188e22e3251061b7284aed3a78d841ec901d22148a6802ab",
+      "source_disposition_sha256": "9f5d4a2e5790c5b695a6feb366f46338bf9a61d49ec9cb59434140a83f1198ba"
+    },
+    "naming_artifact_sha256": "5918a14247bbe99ac8a8395e7434308336eb2bcdd847b7bd0f3d80a77b6b6a66"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "0f6334ab55f5ead28f5a2fbd2557009deb8282f118cf3b051f42f66491d976bd"
+}

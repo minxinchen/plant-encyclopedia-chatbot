@@ -1,0 +1,155 @@
+{
+  "schema_version": "2.0",
+  "package_id": "kohler-volume-2:p0305-p0314:child-02:continuation-01",
+  "parent_entry_id": "kohler-volume-2:p0305-p0314",
+  "child_entry_id": "kohler-volume-2:p0305-p0314:child-02",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation-v2:kohler-volume-2:p0305-p0314:child-02:continuation-01:v1",
+  "owner_shard": "S04",
+  "package_sha256": "9c26382f4fbb67693430cdce122a1541265f1db5a4caa4fd122cbb81f0476b36",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "prompt_version": "plant-structure-line-coordinates-v2",
+  "attempt_sha256": "33c606516891f75a906d2708f3ae2ef90990ad0f5e0706dd48e09ed8a14923e8",
+  "raw_response_sha256": "56c1aed316986c584c7e39adc427e59221bcb9843b59090650b47803c2aa08fb",
+  "elapsed_seconds": 29.908,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 309,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 212,
+      "char_end": 2503,
+      "source_line_start": 4,
+      "source_line_end": 25,
+      "page_text_sha256": "06a0f8352b1942c4b15b9c4e6d19de5f311ee9446b742a1fe37c648d3e87f395",
+      "exact_text_sha256": "c2e7041071b9a61de725700876d0e4bd8080116c67121e846fbfc63ee1de93e8",
+      "section_index": 0,
+      "section_type": "description"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 310,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 2489,
+      "char_end": 3768,
+      "source_line_start": 23,
+      "source_line_end": 35,
+      "page_text_sha256": "cec96db335f9dc68de5e91afe05973e348f95b94a6660d96c93ddccc68d84f25",
+      "exact_text_sha256": "32241f6a95e2c741324d5ad65ba3b9f6b08f36bfe0d6c151473cdc88a5d4c1b1",
+      "section_index": 1,
+      "section_type": "anatomy"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 310,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 3769,
+      "char_end": 5364,
+      "source_line_start": 36,
+      "source_line_end": 51,
+      "page_text_sha256": "cec96db335f9dc68de5e91afe05973e348f95b94a6660d96c93ddccc68d84f25",
+      "exact_text_sha256": "25893c07775ca3ff11ef83a50a6c7e6c6cb7026b714948b2ccd48de3afa071c2",
+      "section_index": 2,
+      "section_type": "history"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 312,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 2619,
+      "char_end": 3911,
+      "source_line_start": 25,
+      "source_line_end": 38,
+      "page_text_sha256": "119e8074904f7d2452e8ba87e3f934300ebcda06926b3b168d623037f7bc02c0",
+      "exact_text_sha256": "5b06513e8c1bdb3407090d53149cd70f5a595b1b8cc54b0a810d503c84669525",
+      "section_index": 3,
+      "section_type": "constituents"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 313,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 3353,
+      "char_end": 4770,
+      "source_line_start": 39,
+      "source_line_end": 52,
+      "page_text_sha256": "7e9f298ef4e5559de1f4468b0ae414d389882eb579dd66eed3ad23d6a58a5d7a",
+      "exact_text_sha256": "1ef5669d3abb3ebfb338b339047e56f7c93f00d1db581e6af4d953dd31de790e",
+      "section_index": 4,
+      "section_type": "historical_use"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-2:p0305-p0314:child-02:continuation-01",
+    "parent_entry_id": "kohler-volume-2:p0305-p0314",
+    "book_taxon": {
+      "scientific_name_candidate": "Aloë socotrina"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "description",
+        "pdf_page": 309,
+        "source_line_range": [
+          4,
+          25
+        ],
+        "exact_source_quote": "              Beschreibung.          Die zusammengesetzte,        fleischige, walzenförmige        Wurzel    treibt einen 1 bis.\n    13/, Meter hohen, 10 Otm. dicken, walzigen, sehr langsam wachsenden, von den abgefallenen Blättern\n    ringfórmig genarbten, zuerst einfachen, später gabelspaltig getheilten, unten nackten, oben dicht-\n    beblätterten Stamm. Blätter zahlreich, fleischig, an der Spitze der Gabeläste, bis 50 Ctm. lang, 3 Ctm.\n    breit, die Oberfläche an dem Grunde flach, gegen die Spitze rinnenförmig, Unterfläche gewölbt, aus\n    linien-lanzettfórmigem       Grunde    nach oben     allmählich     verschmälert,   spitz, bläulich-grün,     unterseits am\n    Grunde weiss gefleckt, am Rande weissknorpelig und mit kurzen, etwas nach oben und innen ge-\n    krümmten Zähnen besetzt, die unteren Zähne genähert, die oberen entfernt. Der einfache Blüthen-\n     schaft bis 1 Meter lang, stumpf 3seitig, grün, unten mit entfernt stehenden, oben mit gedrängten,\n    halbstengelumfassenden, eifórmigen, zugespitzten, ausgefressen gezähnten, röthlichen Brakteen besetzt, die\n     oberste Braktee die Blüthen unterstützend. Blüthentrauben reichblüthig; Blüthenknospen aufstrebend,\n     aufgeblühte Blüthen hängend. Blüthenstiele länger als die Deckblätter. Perigon walzenfórmig, 3 bis\n     31/, Ctm. lang, bis fast zum Grunde sechstheilig, Segmente zungenförmig, am Grunde purpurn, in\n     der Mitte blasser, die stumpfe Spitze grünlich. Staubgefässe 6, von der Länge der Perigonblätter, am\n     Grunde der letzteren entspringend und vor den Kronblättern stehend, mit goldgelben Staubfüden und\n    länglichen, auf dem Rücken angehefteten, nach innen gewendeten, 2fácherigen, der Lànge nach auf-\n    springenden, braunrothen Staubbeuteln. Pollen lánglich, unter Wasser kugelig. Stempel oberständig,\n    frei, mit länglichem, stumpf, 3seitigem, 3fächerigem Fruchtknoten; die Scheidewünde der Fächer\n     bestehen aus den Rändern der 3 Fruchtblätter, sie sind doppelt, im Centrum verwachsen und daselbst\n    samentragend. Eichen zahlreich, horizontal, in jedem Fache 2reihig. Der 3 kantige Griffel fadenförmig,\n    goldgelb, gedreht, mit einfacher, kopfiger Narbe. Fruchtkapsel häutig, stumpf-3 kantig, 3 fächerig,\n    ‎‫ و‬klappig. Embryo fast von der Länge des fleischigen Endosperm."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 310,
+        "source_line_range": [
+          23,
+          35
+        ],
+        "exact_source_quote": "          Anatomisches, Der Querschnitt des Blattes zeigt eine starke Cuticula und eine dickwandige\nEpidermis; hierauf folgt eine ziemlich kleinzellige, chlorophyllhaltige Parenchymschicht, die grüne\nZellschicht und dann das grosszellige, schlaffe, ungefärbte Mark. Auf der Grenze zwischen Rinden-\nund Markschicht treten zahlreiche, schwache Gefässbündel auf, welche in kurzen, ziemlich gleichmässigen\nAbständen das Mark umgeben. Der innere, aus zartem, engem, axial verlängertem Gewebe bestehende\nTheil der Gefässbündel, welcher 2 bis 3 Spiralgefässe umschliesst, dringt kegelförmig in das Mark\nein. Vor dem Gefässstrange befindet sich ein lockeres, mehrreihiges Gewebe sehr weiter, dünnwandiger\nZellen, welche von einer Reihe prismatischer, tangential etwas gedehnter Zellen umschlossen sind und als\nInhalt den gelbgefärbten Aloésaft enthalten. Bei letzteren Zellen bestehen die Wandungen aus einer\nKorkhaut,       welche     von    den    gleichen         Gebilden       der Nachbarzellen       durch     eine     gemeinschaftliche,          aus\nCellulose gebildete Haut getrennt ist. Das übrige Rindengewebe enthält ausser dem Chlorophyll noch\nGarben von Kalkoxalatnadeln. Letztere befinden sich auch in geringer Menge in dem mit Schleim\nerfüllten, durchsichtigen Markgewebe."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 310,
+        "source_line_range": [
+          36,
+          51
+        ],
+        "exact_source_quote": "   Name und Geschichtliches. Aloö soll aus dem arabischen Alloch, hebräischen halal\nee   bitter) abstammen; socotrina nach der vor dem Golfe von Aden liegenden Insel Sokotra\n  enannt.\n           Nach einer alten arabischen Sage soll schon Alexander der Grosse die Wichtigkeit dieses\n Arzneimittels erkannt und die Bewohner von Sokotra, welche diese Droge lieferten, durch griechische\n Colonisten verdrängt haben. Gewiss ist, dass Alo& schon bei den alten griechischen und römischen\n Schriftstellern eine Rolle spielte, obwohl, wie Flückiger erwähnt, Theophrast darüber schweigt.\n.Celsus, Plinius und der Verfasser des Periplus maris Erythraei waren mit der Droge wohl bekannt;\nebenso     Dioskorides,          welcher      sich bereits         der Bezeichnung “4209 nrrarırıs (Aloë hepatica)                       bedient.\nIn den angelsächsischen Arzneibüchern tritt die Droge im 10. in den deutschen im 12. Jahrhundert\nauf.     Die beste Sorte stammte           von     der Insel Sokotra, welche             mit Aloé in früheren Jahrhunderten                    einen\nlebhaften Handel unterhielt. Der Handel ist jetzt noch Monopol des dortigen Sultans, jedoch sehr in\nder Abnahme begriffen. In Ostindien ist Alo& schon seit langer Zeit bekannt und wurde dort sowohl\neinheimische, als auch von Westen her eingeführte Waare benutzt. Nach Westindien ist die Aloöpflanze\n(namentlich        A. vulgaris Lam.)         wohl         schon    vor     dem   16. Jahrhundert         gelangt.         Nach     den   Angaben\nThunbergs ist Peter de Wett (1773) der erste, welcher Alo& im Caplande darstellte."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 312,
+        "source_line_range": [
+          25,
+          38
+        ],
+        "exact_source_quote": "             Bestandtheile. Die Alo& enthält einen eigenthümlichen krystallinischen und amorphen Bitter-\n  stoff (Aloin), bitteres Harz und ätherisches Oel.\n              as Aloin     ist nach    verschiedenen      vergeblichen Versuchen           von Braconnot,      Winckler      und\n  Buchheim im Jahre 1850 von T. und H Smith aus der Barbados-Aloé rei dargestellt; worden.\n  Dieses Aloin mit der Zusammensetzung C3, H,, O,, krystallisirt aus Wasser in schwefelgelben Körnern,\n  aus heissem Weingeist in sternförmig gruppirten Nadeln mit ‫لو‬‎ Molekül Krystallwasser, welches bei\n  1009 verschwindet. Es ist geruchlos, schmeckt anfangs etwas süsslich, dann sehr bitter, besitzt die\n  physiologischen Wirkungen der Alo& in hohem Grade, reagirt neutral, lässt sich schwierig in kaltem,\n  leicht in kochendem Wasser, sowie in Weingeist und Essigäther lösen, auch in 8 Theilen Aether. Die\n  wässerige Lösung wird durch Bleizucker, Quecksilber, Silbernitrat nicht gefällt, wohingegen Bleiessig\n  einen dunkelgelben Niederschlag erzeugt.\n            Das Aloin ist in allen Aloésorten vorhanden, jedoch von nicht gleicher Beschaffenheit, weshalb\n  man ihm verschiedene Namen gegeben hat: Barbaloin aus der Barbadossorte, Socaloin aus der Socotra-\n  und Sansibarsorte, Nataloin aus der Natalsorte."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 313,
+        "source_line_range": [
+          39,
+          52
+        ],
+        "exact_source_quote": "               Anwendung.            In Substanz       als Pulver, in Pillen, Tinktur        etc., in kleinen Gaben als tonisches,\n     in grösseren Gaben als drastisches Mittel. Man reicht Alo& bei Hartleibigkeit, Stuhlverhaltung und\n     wegen der erregenden Wirkung auf die Unterleibsblutgefässe zur Beförderung des Flusses der Hämor-\n     rhoiden, zur Beförderung der Menstruation und bei Congestionen nach Gehirn, Herz und Lunge. „Als\n     eigenthümliche Nachwirkung der Aloö bei wiederholter Darreichung wird kürzer oder länger dauernde\n     Blutüberfüllung der Mastdarmgefässe bezeichnet, als Folge deren sich bei Vorhandensein von Ektasien\n     der Hämorrhoidalvenen Hämorrhoidalblutungen einstellen können. Mit Hyperämie im Rectum kann\n     auch gleiche Hyperämie in den benachbarten Sexualorganen sich verbinden, wodurch die emmenagoge\n     und abortive Wirkung grösserer Aloödosen sich erklärt, welche in einigen Ländern zu ausgedehnter\n     gewissenloser Anwendung des Mittels zur Verhinderung des Familienzuwachses geführt hat. Alo& wird\n     gewöhnlich als Purgans bei habitueller Obstipation bei Personen im vorgerückten Lebensalter empfohlen,\n    \"wo sie übrigens meist mit anderen Stoffen gegeben wird.“ (Husemann, Arzeneimittell. 624.) Aloë ist\n     Hauptbestandtheil aller Geheimmittel, welche die Blutreinigung bezwecken. Oefterer und anhaltender\n     Gebrauch ist der Gesundheit sehr nachtheilig."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "91944835964b4475b921fc37c609bad0296702da8fadc95a45ed3b6033d07405"
+}

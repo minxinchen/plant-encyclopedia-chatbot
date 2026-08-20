@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-1:p0161-p0162",
+  "owner_shard": "S02",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S02/maker/structure-drafts/kohler-volume-1__p0161-p0162.json",
+  "source_draft_sha256": "7acd046d758a96521287aff397aaab727d68ebb14417fc2a037d686c576d64e2",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "3768acc89ec51664c48241be653c82c966a8093e962adefaed1bf127f0b102cd",
+    "validation_check_sha256": "60bbd7e4eb48b4d4d76dbd316718e782cd0e9ebb4d923e55baca3cfe79bb780b",
+    "source_disposition_sha256": "0fc829a5540c65d5cb914dd9cb8bc61f733244b0d5e716c553b7d651a9d57095",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Lavandula vera",
+    "authorship_candidate": "D. C.",
+    "aliases_candidates": [
+      "L. officinalis Chaix",
+      "L. angustifolia Ehrh. (Moench)",
+      "L. Spica a. L.",
+      "L. Spica Lois.",
+      "L. vulgaris a. Lam.",
+      "L. pyrenaica D. C."
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Lavandula vera"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_zh_tw": null,
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_checked",
+    "taxon_id": null,
+    "display_name_source_scope": "unresolved",
+    "display_name_source_evidence_ids": [],
+    "display_name_is_taiwan_public": false,
+    "display_name_answer_policy": "scientific_name_only",
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping.",
+    "checked_at": "2026-08-13T14:53:39+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Lavandula vera",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Lavandula+vera",
+      "retrieved_at": "2026-08-13T14:53:37+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Lavandula vera",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Lavandula%20vera",
+      "retrieved_at": "2026-08-13T14:53:39+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears."
+  ]
+}

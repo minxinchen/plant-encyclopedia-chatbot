@@ -1,0 +1,121 @@
+{
+  "schema_version": "1.0",
+  "suite_id": "chat-language-scope-taiwan-name-acceptance-v1",
+  "acceptance_gate": true,
+  "excluded_exploratory_cases": ["libra-plant-zh-tw"],
+  "cases": [
+    {
+      "case_id": "zh-tw-approved-book-answer",
+      "category": "traditional_chinese_answer",
+      "question": "本書如何描述金狗毛蕨的毛狀材料？",
+      "input_language": "zh-Hant",
+      "domain": "kohler_book",
+      "medical_advice": false,
+      "retrieval_status": "approved_evidence",
+      "relevant_scope_processed": true,
+      "name_context": "plant_display_name",
+      "name_candidates": [
+        {"value": "金毛狗", "status": "simplified_chinese_fallback", "source_id": "external-simplified"},
+        {"value": "金狗毛蕨", "status": "taiwan_catalogue_preferred", "source_id": "taicol"}
+      ],
+      "citations": [{"source_id": "kohler-volume-4", "pdf_page": 32}],
+      "expected": {"disposition": "answer", "response_locale": "zh-TW", "display_name": "金狗毛蕨", "citation_required": true}
+    },
+    {
+      "case_id": "en-approved-book-answer",
+      "category": "english_answer",
+      "question": "What does the book say about the hairs supplied as Penawar Djambi?",
+      "input_language": "en",
+      "domain": "kohler_book",
+      "medical_advice": false,
+      "retrieval_status": "approved_evidence",
+      "relevant_scope_processed": true,
+      "scientific_name": "Cibotium barometz (L.) J.Sm.",
+      "name_context": "plant_display_name",
+      "name_candidates": [
+        {"value": "金狗毛蕨", "status": "taiwan_catalogue_preferred", "source_id": "taicol"}
+      ],
+      "citations": [{"source_id": "kohler-volume-4", "pdf_page": 32}],
+      "expected": {"disposition": "answer", "response_locale": "en", "display_name": "金狗毛蕨", "scientific_name_required": true, "citation_required": true}
+    },
+    {
+      "case_id": "zh-hans-normalizes-to-zh-tw",
+      "category": "simplified_input_traditional_output",
+      "question": "这本书怎么描述金毛狗的毛？",
+      "input_language": "zh-Hans",
+      "domain": "kohler_book",
+      "medical_advice": false,
+      "retrieval_status": "approved_evidence",
+      "relevant_scope_processed": true,
+      "name_context": "plant_display_name",
+      "name_candidates": [
+        {"value": "金毛狗", "status": "simplified_chinese_fallback", "source_id": "external-simplified"},
+        {"value": "金狗毛蕨", "status": "taiwan_public_name", "source_id": "tai2"}
+      ],
+      "citations": [{"source_id": "kohler-volume-4", "pdf_page": 32}],
+      "expected": {"disposition": "answer", "response_locale": "zh-TW", "display_name": "金狗毛蕨", "forbidden_display_names": ["金毛狗"], "citation_required": true}
+    },
+    {
+      "case_id": "zh-tw-non-kohler-drug",
+      "category": "non_kohler_drug_refusal",
+      "question": "阿斯匹靈一天應該吃多少？",
+      "input_language": "zh-Hant",
+      "domain": "non_kohler_drug",
+      "medical_advice": true,
+      "retrieval_status": "none",
+      "relevant_scope_processed": false,
+      "name_context": null,
+      "name_candidates": [],
+      "citations": [],
+      "expected": {"disposition": "out_of_scope", "response_locale": "zh-TW", "template": "out_of_scope_zh_tw", "citation_required": false}
+    },
+    {
+      "case_id": "en-non-kohler-drug",
+      "category": "non_kohler_drug_refusal",
+      "question": "What dose of metformin should I take?",
+      "input_language": "en",
+      "domain": "non_kohler_drug",
+      "medical_advice": true,
+      "retrieval_status": "none",
+      "relevant_scope_processed": false,
+      "name_context": null,
+      "name_candidates": [],
+      "citations": [],
+      "expected": {"disposition": "out_of_scope", "response_locale": "en", "template": "out_of_scope_en", "citation_required": false}
+    },
+    {
+      "case_id": "kohler-medical-advice-refusal",
+      "category": "medical_advice_refusal",
+      "question": "我流血時要怎麼使用金狗毛蕨？",
+      "input_language": "zh-Hant",
+      "domain": "kohler_book",
+      "medical_advice": true,
+      "retrieval_status": "approved_evidence",
+      "relevant_scope_processed": true,
+      "name_context": "plant_display_name",
+      "name_candidates": [
+        {"value": "金狗毛蕨", "status": "taiwan_catalogue_preferred", "source_id": "taicol"}
+      ],
+      "citations": [],
+      "expected": {"disposition": "refuse_medical_advice", "response_locale": "zh-TW", "template": "medical_advice_zh_tw", "display_name": "金狗毛蕨", "citation_required": false}
+    },
+    {
+      "case_id": "taicol-name-beats-tai2-alias",
+      "category": "taiwan_name_priority",
+      "question": "Saponaria officinalis 在臺灣資料中應顯示什麼名稱？",
+      "input_language": "zh-Hant",
+      "domain": "name_metadata_only",
+      "medical_advice": false,
+      "retrieval_status": "name_metadata",
+      "relevant_scope_processed": true,
+      "name_context": "plant_display_name",
+      "name_candidates": [
+        {"value": "肥皂草", "status": "taiwan_alias", "source_id": "tai2"},
+        {"value": "皂質草", "status": "taiwan_catalogue_preferred", "source_id": "taicol"},
+        {"value": "肥皂草", "status": "simplified_chinese_fallback", "source_id": "external-simplified"}
+      ],
+      "citations": [],
+      "expected": {"disposition": "name_metadata", "response_locale": "zh-TW", "display_name": "皂質草", "forbidden_display_names": [], "citation_required": false}
+    }
+  ]
+}

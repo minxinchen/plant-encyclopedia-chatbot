@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "decision_id": "production4-laminaria-selection-2026-08-13",
+  "status": "selected_and_approved",
+  "source_id": "kohler-volume-2",
+  "book_taxon": "Laminaria Cloustoni Edmonston",
+  "accepted_scientific_name": "Laminaria hyperborea (Gunnerus) Foslie",
+  "display_name": "極北海帶",
+  "pdf_pages": [315, 316],
+  "next_entry_pdf_page": 317,
+  "next_entry": "Ipomoea Purga Hayne",
+  "checks": {
+    "maximum_six_adjacent_pages": true,
+    "ocr_quality_usable": true,
+    "pdf_page_images_reviewed": true,
+    "taiwan_public_name_source_found": true,
+    "modern_taxon_source_found": true,
+    "taiwan_occurrence_claimed": false,
+    "plate_image_reasoning_enabled": false
+  },
+  "name_sources": [
+    "https://kmweb.moa.gov.tw/redirect_files.php?id=166420",
+    "https://www.marinespecies.org/aphia.php?p=taxlist&tName=Laminaria"
+  ],
+  "warning": "The book's synonym line is historical. Modern taxonomy does not treat Laminaria digitata and Laminaria hyperborea as the same accepted species."
+}

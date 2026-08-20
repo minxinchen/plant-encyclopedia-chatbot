@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 661,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "0958ed026147dcce66f7b0fde2f80c25e1d6366c628dbffd268eb6b0dfe33ef5",
+  "render_dpi": 144,
+  "render_sha256": "b93b9be8e2b7bf310cee3a1bb33461cd740a659c82d416df0996c9c3fb133896",
+  "input_sha256": "b93b9be8e2b7bf310cee3a1bb33461cd740a659c82d416df0996c9c3fb133896",
+  "render_pixel_width": 5438,
+  "render_pixel_height": 7838,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 1.888,
+  "embedded_character_count": 37,
+  "ocr_character_count": 51,
+  "ocr_alpha_ratio": 0.549,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01967470229618129,
+      "text": "Sterculiaceae.",
+      "width": 0.14873782219931087,
+      "x": 0.805338200386217,
+      "y": 0.9211219511260884
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "14",
+      "width": 0.016736400732404344,
+      "x": 0.8598326362865174,
+      "y": 0.7848837210335777
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494425,
+      "text": "12",
+      "width": 0.012552300890144807,
+      "x": 0.6589958159775217,
+      "y": 0.6598837212889388
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "17",
+      "width": 0.014644351492957508,
+      "x": 0.8493723850101462,
+      "y": 0.6249999999691082
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883082859107,
+      "text": "13",
+      "width": 0.020920501938029856,
+      "x": 0.6903765689652349,
+      "y": 0.5261627909544175
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185932098874,
+      "text": "15",
+      "width": 0.023012552540842446,
+      "x": 0.8410041838760224,
+      "y": 0.4418604658129276
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "16",
+      "width": 0.012552300890144807,
+      "x": 0.8389121339691537,
+      "y": 0.14970930257594217
+    },
+    {
+      "confidence": 1,
+      "height": 0.02116480611619498,
+      "text": "Theobroma Cacao I.",
+      "width": 0.20781659227852484,
+      "x": 0.3909330653689013,
+      "y": 0.10451493153871172
+    }
+  ],
+  "text": "Sterculiaceae.\n14\n12\n17\n13\n15\n16\nTheobroma Cacao I.",
+  "output_sha256": "5b04dbd67024e9a8696656ecae942ce874a690d76cb6c3ca9610a2c7de77d1e8",
+  "receipt_sha256": "6fe0582fe396fca0d201f5d5a7d3d21330f831a6e1b4ed101aff680c54a7cca7"
+}

@@ -1,0 +1,289 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0487-p0490",
+  "entry_id": "kohler-volume-2:p0487-p0490",
+  "owner_shard": "S04",
+  "book_taxon": {
+    "scientific_name": "Canarium commune",
+    "authorship": "L.",
+    "aliases": [
+      "Canarium Mehenbethene Gaertn.",
+      "Canarium zephyrinum Miquel",
+      "Icica Icicariba D. C.",
+      "Icica Sellowi Turezan.",
+      "Protium Icicariba March."
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Canarium commune"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T20:36:33+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Canarium+commune",
+        "query_name": "Canarium commune",
+        "retrieved_at": "2026-08-13T20:36:27+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Canarium+mehenbethene",
+        "query_name": "Canarium mehenbethene",
+        "retrieved_at": "2026-08-13T20:36:28+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Canarium+zephyrinum",
+        "query_name": "Canarium zephyrinum",
+        "retrieved_at": "2026-08-13T20:36:28+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Icica+icicariba",
+        "query_name": "Icica icicariba",
+        "retrieved_at": "2026-08-13T20:36:28+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Icica+sellowi",
+        "query_name": "Icica sellowi",
+        "retrieved_at": "2026-08-13T20:36:28+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Protium+icicariba",
+        "query_name": "Protium icicariba",
+        "retrieved_at": "2026-08-13T20:36:28+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 487,
+      "evidence_type": "text",
+      "page_text_sha256": "091a4f737e4367400119e1725b7a70d11e556a38f8c65470780095eee171433e",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 488,
+      "evidence_type": "text",
+      "page_text_sha256": "a547c18f61596ef223139c78cab589766b06a12980c9a8e928c7cb23e6565663",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 489,
+      "evidence_type": "text",
+      "page_text_sha256": "3a63a6905f1146ed2750d17b889164a77e58f1c3bd6653e6fb0f158338fb0d1c",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0487-p0490:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                        Canarium         commune            L.\n                Syn.    Canarium    Mehenbethene Gaertn.            Canarium     zephyrinum Miquel\n                                                        und\n\n                                    ` Icica Icicariba D. C.\n                         Syn. Icica Sellowi Turezan.          Protium     Icicariba March.\n\n                                   Elemibaum —       Elemi — Manila Elemi.\n\n            Familie: Burseraceae; Gattung: Canarium L., Icica Aubl.               (Protiwm Burm.)",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Canarium commune L.，同物異名含 Canarium Mehenbethene 及 Icica Icicariba。屬 Burseraceae 科。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 487,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 564,
+        "page_text_sha256": "091a4f737e4367400119e1725b7a70d11e556a38f8c65470780095eee171433e",
+        "exact_text_sha256": "5bbb42cfe18a28e51a4ae239017f6001c25850d0519c7bb454247885fc177fb0",
+        "source_line_start": 1,
+        "source_line_end": 10,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "5bbb42cfe18a28e51a4ae239017f6001c25850d0519c7bb454247885fc177fb0",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0487-p0490:s01:x00",
+      "section_type": "description",
+      "original_text": "            Canarium Commune L. ist nach Bentley and Trimen ein Baum von ungefähr 12—15 Meter\n  Höhe, mit einem      starken Stamme   und blasser oder weisslicher Rinde.      Blätter sehr gross, abwechselnd,\n    weit spreizend, lang gestielt, 30 und mehr Centimeter lang, unpaarig 4- bis 5jochig gefiedert, mit\n    steifer, cylindrischer, gestreifter, glatter Blattspindel, an deren Grunde sich die flügeláhnlichen, ab-\n    stehenden, ungefähr 2 一 3 Otm. langen, rundlich- oder länglich-ovalen, ganzen oder gezähnten oder\n   gesägten, dicken, glatten, mit zahlreichen parallelen Adern ausgestatteten, abfallenden Nebenblätter\n   befinden. Fiederblättchen gegenständig, an ungefähr 2 Ctm. langen, glatten Stielen, 10—20 Ctm.\n   lang, die unteren gewöhnlich kleiner, eiförmig oder lünglich-eifórmig, an der Basis gerundet, am oberen\n   Ende in eine lange Spitze ausgezogen, ganzrandig, glatt, dick, mit auf der Unterseite erhabener Mittel-\n  ‚rippe und ungefähr 12 fast rechtwinkelig ablaufenden Seitennerven, welche nach dem Rande bogig\n   verlaufen und sich dort verbinden; die Blattfarbe ist ein abgestumpftes Grün, unterseits blasser. Blüthen",
+      "normalized_text": null,
+      "zh_tw_rendering": "樹高約 12-15 米，葉大且互生，長 30 公分以上，奇數羽狀複葉。小葉對生，卵形至長卵形，全緣，深綠色。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 487,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 1548,
+        "char_end": 2692,
+        "page_text_sha256": "091a4f737e4367400119e1725b7a70d11e556a38f8c65470780095eee171433e",
+        "exact_text_sha256": "7f91a12371ba26b8f078f7d116f31d75279247b1f56a47cd4ba84e7cb0f8310e",
+        "source_line_start": 22,
+        "source_line_end": 32,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "7f91a12371ba26b8f078f7d116f31d75279247b1f56a47cd4ba84e7cb0f8310e",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0487-p0490:s02:x00",
+      "section_type": "distribution",
+      "original_text": "         Vorkommen: Canarium Commune ist einheimisch auf Amboina, Luzon, den Sundainseln,\nden Molukken und auf Penang. Dieser Baum soll in Java kultivirt werden.\n         Icica: Icicariba ist durch den grössten Theil von Südamerika, namentlich durch Brasilien ver-\nbreitet; häufig in der Nähe von Rio de Janeiro.",
+      "normalized_text": null,
+      "zh_tw_rendering": "產於安汶、呂宋、蘇門答臘、摩鹿加及檳榔嶼。爪哇有栽培。Icica Icicariba 分佈於南美及巴西。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 488,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2487,
+        "char_end": 2799,
+        "page_text_sha256": "a547c18f61596ef223139c78cab589766b06a12980c9a8e928c7cb23e6565663",
+        "exact_text_sha256": "f6195c5372cdcbc8a279d9eef00449734bbabbc7b893a913c860d91bd04f793f",
+        "source_line_start": 20,
+        "source_line_end": 23,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "f6195c5372cdcbc8a279d9eef00449734bbabbc7b893a913c860d91bd04f793f",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0487-p0490:s03:x00",
+      "section_type": "history",
+      "original_text": "         Name und Geschichtliches: Zlemi (im Mittelalter Eneme) soll indischen Ursprungs sein.\nFlückiger glaubt, dass sowohl Elemi als Animi auf das griechische Enhaemon (&vauuov, blutstillend\noder \"Bierg, Oelbaum) zurückzuführen seien. Canarium wird aus dem malayischen canari, Baum abge-\nleitet.      Icica, vaterländischer            Name,       welcher soviel wie Harz                 bedeutet.\n          Theophrast spricht von einem Oelbaume (Glock, der auf dem westlichen Ufer des Rothen\nMeeres, also auf afrikanischer Seite wachse, dessen Saft blutstillende Wirkung äussere. Auch Plinius\nund andere Schriftsteller sprechen von diesem äthiopischen Oelbaum und erwähnen den aus demselben\ngewonnenen wundenheilenden Harzsaft unter der Bezeichnung Enhaemon. Es wird dieser Harzsaft als\naromatisch geschildert und man vermuthet, dass man es hier mit dem Elemi zu thun hat; es ist jedoch\nauch möglich, dass hierunter Luban mati von Boswellia Frereana oder der Saft von einem             5\nzu verstehen ist. Im pariser Arbolayre (um 1485) wird von einem Gomme elempni gesprochen, worunter\njedenfalls das nämliche Produkt gemeint ist. Valerius Cordus sagt, dass über das zu jener Zeit\nnur       selten   auftretende        Resina Elemnia             (Elemi oder Animi               des Mittelalters)           Niemand         mehr Auskunft\ngeben könne.                                             i                    ,",
+      "normalized_text": null,
+      "zh_tw_rendering": "Elemi 名稱源於希臘文 Enhaemon。中世紀稱 Eneme。Theophrastus 提及紅海西岸產之止血油樹。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 488,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2801,
+        "char_end": 4219,
+        "page_text_sha256": "a547c18f61596ef223139c78cab589766b06a12980c9a8e928c7cb23e6565663",
+        "exact_text_sha256": "90f57bba801237070d496fc820a5c397fc6bf5b910169a35c9f6ef13db273ec4",
+        "source_line_start": 25,
+        "source_line_end": 38,
+        "section_index": 3,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "90f57bba801237070d496fc820a5c397fc6bf5b910169a35c9f6ef13db273ec4",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0487-p0490:s04:x00",
+      "section_type": "constituents",
+      "original_text": "                 Bestandtheile             Das westindische oder amerikanische Elemi besteht nach Bonastre\n  aus    60%,      in Weingeist        löslichem        Harz, 24°/, krystallisirbarem,         schwerlóslichem         Harz, 12'/,9/, ütheri-\n  schem Oele Das Manila-Elemi enthält nach Flückiger: ätherisches Oel, ein amorphes Harz, ein\n  krystallinisches Harz (Bryoidin), einen Bitterstoff, Elemisáure und Amyrin.\n                 Das    ätherische     Oel (Ci) Hig),          welches     bis 10%,     beträgt,     besitzt   einen    angenehmen     Geruch,\n  ein spez. Gewicht von 0,861 bei 15°; es siedet bei 172° und polarisirt nach den Flückiger’schen\n  Untersuchungen nach rechts, während Deville das rohe Oel (wahrscheinlich von einer anderen Elemi-\n  sorte) stark links drehend fand. Letzterer erhielt aus seinem Oele eine krystallinische Verbindung\n  von C, H¿+2HCL                 die Flückiger in seinem Oele, welches der Hauptsache nach aus Terpenen\n  besteht, nicht fand.            Flückiger erhielt vielmehr, indem er 8 Theile Elemiöl mit 2 Theilen Wein-\n  geist, 1 Theil Salpetersäure und 5 Theilen Wasser schüttelte und dieses Gemisch in flache Teller\n  ausgoss, schöne Krystalle von Terpinhydrat (Ci) Haso0s     十 OHs)，\n           Der Hauptbestandtheil des Elemi besteht aus amorphem Harze von nicht saurer Natur,",
+      "normalized_text": null,
+      "zh_tw_rendering": "含揮發油、無定形樹脂、結晶樹脂 (Bryoidin)、苦味質、Elemisäure 及 Amyrin。揮發油具檸檬及松節油氣味。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 489,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2121,
+        "char_end": 3457,
+        "page_text_sha256": "3a63a6905f1146ed2750d17b889164a77e58f1c3bd6653e6fb0f158338fb0d1c",
+        "exact_text_sha256": "965b9e784198c8b317c0829b08185952197110ab60237181d1f75433ffd4bd88",
+        "source_line_start": 23,
+        "source_line_end": 35,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "965b9e784198c8b317c0829b08185952197110ab60237181d1f75433ffd4bd88",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0487-p0490:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "           Anwendung.       Elemi dient zur Bereitung einer reizenden Salbe, aber hauptsächlich zur\n  Herstellung von Firnissen. Das ätheri sch e   Oel    äus ser t  die   Wir kun g   des   Ter pen thi nól es,   ist jed och\n  nicht so kräftig. „Man gebraucht Elemi    zur   Her ste llu  ng  eine r von    Arc aeu s    (15 74)   zur   Beh and lun g\n",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史上用於製備刺激性軟膏及清漆。Arcaeus 曾推薦用於治療瘡瘍的軟膏。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 489,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 6228,
+        "char_end": 6576,
+        "page_text_sha256": "3a63a6905f1146ed2750d17b889164a77e58f1c3bd6653e6fb0f158338fb0d1c",
+        "exact_text_sha256": "ce0235d86aac57a1171bdc86ea566d41cd56933a5a3d39e0592d1a2163bede4f",
+        "source_line_start": 65,
+        "source_line_end": 68,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "ce0235d86aac57a1171bdc86ea566d41cd56933a5a3d39e0592d1a2163bede4f",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "3492905bab206c03dea4815d74cfd63be0a50422a543f81856a65fe0e9950e85",
+    "maker_receipt_sha256": "9646a1a42326ac48b39ae79839411769cdb65e0a34e0fc79255edfb44d86a41d",
+    "validation_check_sha256": "56b2f67cf7dee133305e879f179afa957bb87a410bf4df8cfbd57546c36e38b1",
+    "source_disposition_sha256": "fe9120fc1a045a00bd07e96bdd20c08a2e246e137a4ea23e4cfe1f4fed4a1346",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "9646a1a42326ac48b39ae79839411769cdb65e0a34e0fc79255edfb44d86a41d",
+      "validation_check_sha256": "56b2f67cf7dee133305e879f179afa957bb87a410bf4df8cfbd57546c36e38b1",
+      "source_disposition_sha256": "fe9120fc1a045a00bd07e96bdd20c08a2e246e137a4ea23e4cfe1f4fed4a1346"
+    },
+    "naming_artifact_sha256": "7a67e552b83dac270b5743f34cde431747bc30fa2caddb7ec9deb1d4c516031e"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "073bdc02c70ba640f0b828fe3e2e11e216cfd8b118ec5ca32c7fed4c14b32ae8"
+}

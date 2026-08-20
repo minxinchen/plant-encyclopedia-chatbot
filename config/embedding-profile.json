@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0",
+  "profile_id": "google-gemini-embedding-2-768-qa-v1",
+  "vector_space_id": "gemini-embedding-2__768__qa-prefix-v1",
+  "provider": "google-ai-studio",
+  "model": "gemini-embedding-2",
+  "dimensions": 768,
+  "distance_metric": "cosine",
+  "normalization": "provider_auto_for_768_dimensions",
+  "maximum_input_tokens": 8192,
+  "chunking_profile": {
+    "profile_id": "section-aware-512-100-v1",
+    "status": "promoted_for_bounded_text_samples",
+    "strategy": "respect plant section and page boundaries, then fixed-token child chunks",
+    "target_token_units": 512,
+    "overlap_token_units": 100,
+    "token_unit_contract": "Provider-neutral regex units: Unicode word sequences or individual non-whitespace punctuation; these are deterministic portable units, not Gemini tokenizer counts.",
+    "parent_locator": "source_id plus pdf_page",
+    "keep_page_parent_chunk": true,
+    "collapse_overlapping_results_by_parent_page": true,
+    "evaluation_report": "reports/chunking-ab-podophyllum-2026-08-11.json",
+    "promotion_scope": "Four bounded cross-volume samples plus four production candidates: Atropa belladonna PDF pages 35-36, Piper nigrum reviewed ranges on PDF pages 293-296, Polygala senega reviewed ranges on PDF pages 101-102, and Laminaria hyperborea reviewed ranges on PDF pages 315-316; no full-volume promotion is implied.",
+    "rationale": "The four-volume samples established a portable contract without claiming universal superiority. Atropa showed a concrete rank-1 gain over whole pages. Piper and Polygala passed the answer/refusal gates; Laminaria required deterministic German lexical expansion, parent collapse and an exact source-term gate. All remain bounded evidence packages, not proof of universal profile superiority."
+  },
+  "prompt_contract": {
+    "version": "qa-prefix-v1",
+    "document": "title: {title} | text: {content}",
+    "query": "task: question answering | query: {content}",
+    "api_task_type_field": false
+  },
+  "canonical_chunk_contract": {
+    "format": "jsonl",
+    "encoding": "utf-8",
+    "approved_profile_path": "data/chunks/podophyllum-peltatum-section-aware-512-100-v1.jsonl",
+    "approved_profile_paths": [
+      "data/chunks/podophyllum-peltatum-section-aware-512-100-v1.jsonl",
+      "data/chunks/strychnos-nux-vomica-section-aware-512-100-v1.jsonl",
+      "data/chunks/carica-papaya-section-aware-512-100-v1.jsonl",
+      "data/chunks/cibotium-barometz-section-aware-512-100-v1.jsonl",
+      "data/chunks/atropa-belladonna-section-aware-512-100-v1.jsonl",
+      "data/chunks/piper-nigrum-section-aware-512-100-v1.jsonl",
+      "data/chunks/polygala-senega-section-aware-512-100-v1.jsonl",
+      "data/chunks/laminaria-hyperborea-section-aware-512-100-v1.jsonl"
+    ],
+    "contains_vectors": false,
+    "stable_identity": "chunk_id plus text_sha256",
+    "rule": "The source chunk export is canonical; every vector index is disposable and rebuildable."
+  },
+  "migration_policy": {
+    "never_mix_vector_spaces": true,
+    "model_or_dimension_or_prompt_change": "create a new vector_space_id and rebuild all vectors in that space",
+    "portable_export": "JSONL is required; Parquet with fixed-size-list vectors may be added for large exports."
+  },
+  "retrieval_policy": {
+    "lexical": "SQLite FTS5 BM25",
+    "semantic": "cosine similarity within one vector_space_id",
+    "fusion": "For the current bounded toxicology route: cosine + 0.08 * deterministic lexical coverage; exact book-term evidence still authorizes or refuses the answer.",
+    "rerank_gate": "Every answer still requires page-linked book evidence; vector proximity alone never authorizes an answer.",
+    "chunking_evaluation": "One bounded sample from each volume and four production candidates pass the portable 512/100 contract. Atropa demonstrates a real rank-1 gain; Piper demonstrates clean related-taxon range exclusion; Polygala demonstrates bilingual Senegin retrieval; Laminaria demonstrates that dense same-taxon pages require deterministic German term expansion and parent collapse. Strychnos and Laminaria show why hybrid term gating remains necessary. Expansion continues only through bounded, source-checked batches.",
+    "parent_page_collapse": "After channel fusion and before final top-k, retain the maximum hybrid score per parent page so duplicated overlap does not crowd out other evidence."
+  }
+}

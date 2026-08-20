@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 715,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "e0ce31dae9ce129968f00afd43b3a65d472ffc7190bdf095f8ca17374312a352",
+  "render_dpi": 144,
+  "render_sha256": "f09df6636236be607c562abea5d690d356f65799321183b08f7288d80cc7be65",
+  "input_sha256": "f09df6636236be607c562abea5d690d356f65799321183b08f7288d80cc7be65",
+  "render_pixel_width": 5292,
+  "render_pixel_height": 7596,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.009,
+  "embedded_character_count": 577,
+  "ocr_character_count": 49,
+  "ocr_alpha_ratio": 0.7347,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.021193877099052294,
+      "text": "Leguminosae.",
+      "width": 0.15133637669247657,
+      "x": 0.8180047324318142,
+      "y": 0.9410712606490239
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "B",
+      "width": 0.01666666621415218,
+      "x": 0.12291666697625724,
+      "y": 0.18023255796471593
+    },
+    {
+      "confidence": 1,
+      "height": 0.19281788477821948,
+      "text": "5°0",
+      "width": 0.43468034954681933,
+      "x": 0.5686379802114793,
+      "y": 0.08682128857729643
+    },
+    {
+      "confidence": 1,
+      "height": 0.017482234372033,
+      "text": "Toluitera Pereirae",
+      "width": 0.24791665942643465,
+      "x": 0.3395833400524076,
+      "y": 0.07118055582625205
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185932098874,
+      "text": "Baillon",
+      "width": 0.09375,
+      "x": 0.5895833321614584,
+      "y": 0.07267441910404038
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "183",
+      "width": 0.02916666485660868,
+      "x": 0.9125000006619735,
+      "y": 0.04505813952821669
+    }
+  ],
+  "text": "Leguminosae.\nB\n5°0\nToluitera Pereirae\nBaillon\n183",
+  "output_sha256": "6d1d9ea58438a8640cdb66fa3d55b504c42e65e51446ad062e582c5b4f4b7723",
+  "receipt_sha256": "369e444ff10b533979c18e01d6d170ca6522ffdf2f89b5d734bb415c539c3d1c"
+}

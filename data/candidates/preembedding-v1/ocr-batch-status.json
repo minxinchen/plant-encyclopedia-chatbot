@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0",
+  "started_at": "2026-08-13T12:37:01+08:00",
+  "status": "complete",
+  "engine": "Apple Vision accurate de-DE + en-US",
+  "current_shard": null,
+  "processed_this_run": 578,
+  "dispositions": {
+    "no_text_detected": 274,
+    "no_deterministic_quality_gain": 281,
+    "candidate_quality_gain": 23
+  },
+  "remaining_by_shard": {
+    "S01": 0,
+    "S02": 0,
+    "S03": 0,
+    "S04": 0,
+    "S05": 0,
+    "S06": 0,
+    "S07": 0,
+    "S08": 0
+  },
+  "runner_errors": [],
+  "updated_at": "2026-08-13T13:22:57+08:00"
+}

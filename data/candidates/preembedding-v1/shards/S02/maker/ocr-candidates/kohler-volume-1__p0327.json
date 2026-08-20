@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 327,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "17ef247e6995371fb499b465c74e2b356bba3282b15157d4d09b65006489a2cb",
+  "render_dpi": 144,
+  "render_sha256": "f258d58a30eecbec2fdd9fadf1be6c42c6bdc41afced1536cdfa7e49b0f756ea",
+  "input_sha256": "f258d58a30eecbec2fdd9fadf1be6c42c6bdc41afced1536cdfa7e49b0f756ea",
+  "render_pixel_width": 6026,
+  "render_pixel_height": 8090,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 5.417,
+  "embedded_character_count": 55,
+  "ocr_character_count": 48,
+  "ocr_alpha_ratio": 0.625,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.02180232509734137,
+      "text": "Caprifoliaceae.",
+      "width": 0.13255359837599345,
+      "x": 0.8089668639211651,
+      "y": 0.9186046516773467
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "10",
+      "width": 0.01949317667995408,
+      "x": 0.10916179396996446,
+      "y": 0.2921511629293795
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "11",
+      "width": 0.017543858757984143,
+      "x": 0.17738791459436729,
+      "y": 0.16424418611151825
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "WM.",
+      "width": 0.02729044836783373,
+      "x": 0.2982456140227108,
+      "y": 0.15697674427285557
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "15",
+      "width": 0.017543858757984143,
+      "x": 0.48148148214634906,
+      "y": 0.1686046513014724
+    },
+    {
+      "confidence": 1,
+      "height": 0.02255896632633514,
+      "text": "Sambacus nigral",
+      "width": 0.16781589797587593,
+      "x": 0.38587762718384566,
+      "y": 0.11880772634474834
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "46.",
+      "width": 0.017543858757984143,
+      "x": 0.86159844077208,
+      "y": 0.029069767435193516
+    }
+  ],
+  "text": "Caprifoliaceae.\n10\n11\nWM.\n15\nSambacus nigral\n46.",
+  "output_sha256": "17b4bd8d85462ec24b376739582c16406a3850d0ab0f6bb899cd39398f8ead65",
+  "receipt_sha256": "90a70f88e10c3173fdcdc80fe6e8f802789ec62950353c4735ad36a95b2f489e"
+}

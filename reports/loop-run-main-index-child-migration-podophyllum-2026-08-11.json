@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "run_id": "main-index-child-migration-podophyllum-2026-08-11",
+  "started_at": "2026-08-11T18:57:24+08:00",
+  "finished_at": "2026-08-11T19:06:06+08:00",
+  "status": "approved",
+  "cost": {
+    "incremental_usd": 0,
+    "paid_fallback_used": false,
+    "external_model_calls": 0
+  },
+  "input": {
+    "source_id": "kohler-volume-1",
+    "record_id": "podophyllum-peltatum",
+    "pdf_pages": [191, 192],
+    "selected_profile": "section-aware-512-100-v1",
+    "canonical_chunks": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/chunks/podophyllum-peltatum-section-aware-512-100-v1.jsonl",
+    "approved_experiment": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/index/experiments/podophyllum-chunking-ab.sqlite",
+    "main_index_backup": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/index/backups/plant-embeddings-pre-child-migration-2026-08-11.sqlite",
+    "n8n_rollback_backup": "/Users/user/AI_WORKSTATION/services/n8n/data/.n8n/data/backups/database-main-child-index-pre-import-2026-08-11.sqlite"
+  },
+  "stages": [
+    {
+      "name": "transactional_schema_migration",
+      "attempt": 2,
+      "status": "passed",
+      "tool": "Python sqlite3 transactional migration plus explicit pre-migration snapshot",
+      "checks": [
+        "The first attempt reached the report writer but failed on a Python boolean spelling error; the main index was restored from the explicit v1 snapshot before retry.",
+        "The clean retry removed the legacy source/page/record/model/dimensions uniqueness constraint and introduced schema version 2 child and parent fields.",
+        "Two approved page-baseline rows were preserved and four approved 512/100 child rows were added, for six total rows.",
+        "Three repeated executions finished with the same six rows and stable contract digest, proving idempotent upsert behavior."
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "parent_page_collapse",
+      "attempt": 1,
+      "status": "passed",
+      "tool": "query-main-index.py plus validate-main-child-index.py",
+      "checks": [
+        "Traditional Chinese and English habitual-constipation queries rank PDF page 192 first after max-score parent collapse.",
+        "Each four-child raw result is collapsed to two distinct parent pages, removing two duplicate overlap hits before top-k.",
+        "The chromosome-count query remains blocked because no required book term occurs in any approved child chunk.",
+        "Every collapsed result retains source_id, volume, PDF page and record_id citation fields."
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "portable_n8n_harness",
+      "attempt": 1,
+      "status": "passed",
+      "tool": "n8n 2.12.3 CLI import plus canonical/database JSON comparison",
+      "checks": [
+        "PEHybridIdx001 now runs only the idempotent migration and independent child-index validator.",
+        "Imported nodes, connections and settings match the canonical workflow JSON.",
+        "The workflow remains inactive, n8n remains stopped, and no Gemini key or secrets file is required by this migration harness.",
+        "A rollback database snapshot is present."
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "independent_regression",
+      "attempt": 1,
+      "status": "passed",
+      "tool": "existing corpus, record, grounding, chat, policy, embedding, chunking and SQLite validators",
+      "checks": [
+        "The 1,774-page FTS corpus, both plant records, 15 chat API cases, seven policy cases and Cibotium grounding remained valid.",
+        "The prior page-baseline embedding report and three-profile A/B report remain valid in the same vector space.",
+        "Main and n8n SQLite integrity checks returned ok; tracked lab files passed the Gemini key scan.",
+        "The selected child JSONL was promoted to the top-level canonical data/chunks directory without changing its bytes."
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "remaining_volumes_and_images",
+      "attempt": 1,
+      "status": "skipped",
+      "tool": "outside this bounded index-migration batch",
+      "checks": [
+        "No volume-2 or volume-3 pages were processed and image reasoning remains disabled."
+      ],
+      "retry_target": "Select one bounded volume-2 text sample and rerun the same chunking and evidence gates."
+    }
+  ],
+  "review_summary": {
+    "passed": 4,
+    "needs_review": 0,
+    "failed": 0,
+    "warnings": [
+      "The active child profile is approved only for the Podophyllum pages and future bounded samples; it is not a full-volume promotion.",
+      "Parent collapse currently uses maximum cosine per parent page; future lexical/semantic fusion must collapse after channel fusion but before final top-k.",
+      "The local chat API still uses deterministic approved records and has not yet been rewired to arbitrary semantic retrieval.",
+      "Image reasoning remains unavailable."
+    ]
+  }
+}

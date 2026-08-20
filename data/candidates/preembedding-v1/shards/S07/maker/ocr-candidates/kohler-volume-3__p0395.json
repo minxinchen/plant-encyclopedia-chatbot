@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 395,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "2cd99388f296ae7259f33f92cffcef8bacf41a35bd0e76507497e98485d17630",
+  "render_dpi": 144,
+  "render_sha256": "8868227e7663055db77620785a48bea3a1828b5dbb3055741d20c047e0ad7f3a",
+  "input_sha256": "8868227e7663055db77620785a48bea3a1828b5dbb3055741d20c047e0ad7f3a",
+  "render_pixel_width": 5582,
+  "render_pixel_height": 8102,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.313,
+  "embedded_character_count": 96,
+  "ocr_character_count": 54,
+  "ocr_alpha_ratio": 0.7037,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.021956421080089772,
+      "text": "Compositae",
+      "width": 0.09711911645701155,
+      "x": 0.841735799647119,
+      "y": 0.9548648128962258
+    },
+    {
+      "confidence": 1,
+      "height": 0.01889534791310632,
+      "text": "(Anthemideae)",
+      "width": 0.12658227820290002,
+      "x": 0.8270042204524981,
+      "y": 0.9345930237905399
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883082859107,
+      "text": "8",
+      "width": 0.016877636452902127,
+      "x": 0.05907173021236751,
+      "y": 0.7718023260457798
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "10",
+      "width": 0.021097045909422962,
+      "x": 0.7995780590600565,
+      "y": 0.1613372092038149
+    },
+    {
+      "confidence": 1,
+      "height": 0.02183116428435794,
+      "text": "Anthemis arvensis L.",
+      "width": 0.2067510551304333,
+      "x": 0.39029535720271585,
+      "y": 0.05232558141935262
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252612005,
+      "text": "10.",
+      "width": 0.021097045909422962,
+      "x": 0.8945147680438821,
+      "y": 0.014534884066523479
+    }
+  ],
+  "text": "Compositae\n(Anthemideae)\n8\n10\nAnthemis arvensis L.\n10.",
+  "output_sha256": "9c56137422437872ac8e78abf7255f2d6aacbc9cc8960eb500b5a3b06502cf07",
+  "receipt_sha256": "420c638ada2791a113725c703e35ed9cee87ac23f50508f6de382919d8085f1f"
+}

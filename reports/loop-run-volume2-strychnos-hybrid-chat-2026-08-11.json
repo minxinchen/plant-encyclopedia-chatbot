@@ -1,0 +1,73 @@
+{
+  "schema_version": "1.0",
+  "run_id": "volume2-strychnos-hybrid-chat-2026-08-11",
+  "started_at": "2026-08-11T20:34:17+08:00",
+  "finished_at": "2026-08-11T20:50:00+08:00",
+  "status": "approved",
+  "cost": {
+    "incremental_usd": 0,
+    "paid_fallback_used": false,
+    "external_model_calls": 2,
+    "batch_embed_items": 30
+  },
+  "input": {
+    "source_id": "kohler-volume-2",
+    "record_id": "strychnos-nux-vomica",
+    "pdf_pages": [141, 142, 143, 144],
+    "taiwan_plant_name": "馬錢",
+    "taiwan_materia_medica_name": "馬錢子",
+    "name_authority": "https://qatcm.nricm.edu.tw/images/uploads/2024/10/93f60f6ab055549.pdf",
+    "safety_authority": "https://www.mohw.gov.tw/fp-16-18326-1.html"
+  },
+  "stages": [
+    {
+      "name": "source_and_name_gates",
+      "status": "passed",
+      "checks": [
+        "All six approved record sections are exact substrings of PDF pages 141-144.",
+        "The Taiwan official plant name 馬錢 is stored separately from the materia-medica name 馬錢子.",
+        "Taiwan cultivation metadata is not presented as a book fact or native-distribution claim.",
+        "The Strychnos Ignatii prefix on PDF page 142 is excluded from this taxon's embedding range without mutating the fulltext corpus."
+      ]
+    },
+    {
+      "name": "embedding_and_hybrid_retrieval",
+      "status": "passed_with_recorded_semantic_failure",
+      "checks": [
+        "Pure vector retrieval remained hold_for_evidence and is preserved in the report.",
+        "Deterministic toxicology term expansion, cosine plus lexical coverage, exact giftig evidence gating and parent-page collapse rank PDF page 143 first in Traditional Chinese and page 142 first in English.",
+        "The chromosome query refuses because no supporting book relation is present.",
+        "Two Gemini batch calls covered 30 items at zero incremental cost; no paid fallback was used."
+      ]
+    },
+    {
+      "name": "main_index_and_portability",
+      "status": "passed",
+      "checks": [
+        "The main index contains 12 approved 512/100 children over six parent pages and preserves two page baselines.",
+        "Podophyllum bilingual retrieval and refusal regressions still pass after adding the second taxon.",
+        "The rebuild helper replays both approved bounded packages without model calls.",
+        "PEHybridIdx001 was re-imported inactive; n8n and Qwen remain stopped."
+      ]
+    },
+    {
+      "name": "chat_and_google_gem",
+      "status": "passed",
+      "checks": [
+        "The deterministic chat API passes 20 cases including Traditional Chinese, English, name separation, medical-advice refusal and absent-evidence refusal.",
+        "The Classic Gem evidence pack now exports three approved records.",
+        "Image reasoning remains explicitly unavailable."
+      ]
+    }
+  ],
+  "review_summary": {
+    "passed": 4,
+    "failed": 0,
+    "warnings": [
+      "Pure vector ranking alone is insufficient for this toxicology sample.",
+      "The approved scope is only PDF pages 141-144, not the whole second volume.",
+      "Historical use passages must never become dosage, treatment or self-use advice.",
+      "The next eligible batch is one bounded volume-3 text sample; image reasoning is a separate gate."
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 349,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "d6d0f3d00946449e5ca1ca4ac86471160daa9a5e4a5048b484af0515d11ed30a",
+  "render_dpi": 144,
+  "render_sha256": "f250c4173c66a037e5a1ac2e19e60416808413894725c9c2a15dcab3298b653c",
+  "input_sha256": "f250c4173c66a037e5a1ac2e19e60416808413894725c9c2a15dcab3298b653c",
+  "render_pixel_width": 5630,
+  "render_pixel_height": 8054,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 5.473,
+  "embedded_character_count": 208,
+  "ocr_character_count": 66,
+  "ocr_alpha_ratio": 0.6818,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.019212529772803855,
+      "text": "Gruciferae.",
+      "width": 0.10099891029070929,
+      "x": 0.8311664705105833,
+      "y": 0.9200239314126649
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436846943,
+      "text": "10",
+      "width": 0.018711018342342345,
+      "x": 0.9002079002882883,
+      "y": 0.3546511628401313
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494425,
+      "text": "A",
+      "width": 0.010395010114985226,
+      "x": 0.4719334722034221,
+      "y": 0.28197674454475274
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "13",
+      "width": 0.016632016454714238,
+      "x": 0.08108108100341212,
+      "y": 0.22674418605437952
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185932098874,
+      "text": "WMüller u.d. Nat.",
+      "width": 0.11850311300955907,
+      "x": 0.8191268206885678,
+      "y": 0.15697674467090095
+    },
+    {
+      "confidence": 1,
+      "height": 0.018964562151167152,
+      "text": "Cochlearia officinalis I",
+      "width": 0.2453222335696305,
+      "x": 0.36590437331393727,
+      "y": 0.12202380954339476
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "57.",
+      "width": 0.016632016454714238,
+      "x": 0.9209979209826221,
+      "y": 0.029069767681470182
+    }
+  ],
+  "text": "Gruciferae.\n10\nA\n13\nWMüller u.d. Nat.\nCochlearia officinalis I\n57.",
+  "output_sha256": "f2d19254c6c4a53afecc9704da71add02c86563067823b51553bc9c29b6f4510",
+  "receipt_sha256": "de45da36fd7574cea737a78ca8bae08b14bc2e44de859c1e4ab60aecd0e04404"
+}

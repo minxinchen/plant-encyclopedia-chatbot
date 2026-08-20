@@ -1,0 +1,190 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-4-p0002-p0017-child-03",
+  "entry_id": "kohler-volume-4:p0002-p0017:child-03",
+  "owner_shard": null,
+  "book_taxon": {
+    "scientific_name": "Boletus bulbosus",
+    "authorship": null,
+    "aliases": []
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Boletus bulbosus"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-20T23:03:50+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Boletus+bulbosus",
+        "query_name": "Boletus bulbosus",
+        "retrieved_at": "2026-08-20T23:03:04+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 9,
+      "evidence_type": "text",
+      "page_text_sha256": "5b885913e950470bce725dbf9bdd09e42a6883686b3377867b0abe0645efed37",
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-4:p0002-p0017:child-03:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "               Syn.          Boletus edulis Bull.                    B. esculentus Pers.                 B. crassipes Schum.                  B. aeneus Rosk.\n\n\n               Beschreibung                 :    Der   Stiel des Steinpilzes ist in der                   Jugend knollenformig, spater streckt er",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 9,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 187,
+        "char_end": 492,
+        "source_line_start": 8,
+        "source_line_end": 11,
+        "page_text_sha256": "5b885913e950470bce725dbf9bdd09e42a6883686b3377867b0abe0645efed37",
+        "exact_text_sha256": "d6e372073e996e6a014a821250e5f7ce780b7985fcf73ca53637068438f906ef",
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "d6e372073e996e6a014a821250e5f7ce780b7985fcf73ca53637068438f906ef",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-4:p0002-p0017:child-03:s01:x00",
+      "section_type": "description",
+      "original_text": "               Beschreibung                 :    Der   Stiel des Steinpilzes ist in der                   Jugend knollenformig, spater streckt er\nsich mehr und wird keulenformig.                                 Er wird bis zu 16 cm hoch                        bei   4—6 cm Dicke.                   Seine Farbe\n\nist hellbraunlich, im oberen Teile                             ist   er heller als      im unteren Teile,               oft weiBlich; hier zeigt er auch\n\neine mehr oder minder deutliche, manchmal fast verschwindende, regelmaBige, erhabene, weiBe Netz-\nzeichnung. Der Hut ist anfangs fast kugelig und liegt mit seinem Rande dem Stiele fest an. Spater\nbreitet er sich aus, wird halbkugelig oder polsterformig,                                       10—20 oder sogar noch mehr cm breit.                                Seine\n\nOberflache             ist   glatt   und trocken, nach Regenwetter etwas klebrig, heller oder dunkler braun, manchmal\nauch weiBlich.                Das Fleisch ist                fest,   weifi    und verandert nicht seine Farbe                        bei Verletzungen.                Die\n\nRohren         sind anfanglich weifi, spater                         werden sie gelb und                zuletzt    griinlichgelb.          Sie        sind    1   — 3 cm\nlang,       vom Stiele scharf getrennt.                        Vom Fleische losen                 sie    sich      leicht    los.      Ihre Miindungen sind\n\nrundlich, anfangs weifi,                        dann griinlichgelb.           Die Sporen sind olivbraun.                     Von Gestalt sind sie spindel-\nformig mit stumpfem Scheitel, unten sind sie seitlich zugespitzt.                                                 Sie messen 15        — 17      /i    in der       Lange\n                                                                                                                                                                             /\n\n\n\n\nund 5        —6       ft   in der Breite.              Die Membran ist hellbraun und                      glatt.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 9,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 347,
+        "char_end": 2410,
+        "source_line_start": 11,
+        "source_line_end": 33,
+        "page_text_sha256": "5b885913e950470bce725dbf9bdd09e42a6883686b3377867b0abe0645efed37",
+        "exact_text_sha256": "1ae969ab4feef14c23e58029fe3ff90e2bbd9a48624812650a279e7f8010cd57",
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "1ae969ab4feef14c23e58029fe3ff90e2bbd9a48624812650a279e7f8010cd57",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-4:p0002-p0017:child-03:s02:x00",
+      "section_type": "distribution",
+      "original_text": "               Vorkommen\n                       *\n                                       :        Der Steinpilz          ist    verbreitet in        Waldern und unter Gebiischen, auch unter\nalten Alleebaumen.                     Er findet sich in ganz Europa und in Nord-Amerika.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 9,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 2478,
+        "char_end": 2757,
+        "source_line_start": 40,
+        "source_line_end": 43,
+        "page_text_sha256": "5b885913e950470bce725dbf9bdd09e42a6883686b3377867b0abe0645efed37",
+        "exact_text_sha256": "a588312d1b02a6984307dd80a78999314b39462c1541cd8611713e44967bd1c1",
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "a588312d1b02a6984307dd80a78999314b39462c1541cd8611713e44967bd1c1",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-4:p0002-p0017:child-03:s03:x00",
+      "section_type": "historical_use",
+      "original_text": "               Wichtigkeit: Der Steinpilz ist                                einer der besten            und beliebtesten Speisepilze.                        Aufier im\n\nfrischen Zustande                ist       er    auch gedorrt,        als    gewohnliche Konserve                  und      als     Olkonserve          im        Handel.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 9,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 2924,
+        "char_end": 3262,
+        "source_line_start": 48,
+        "source_line_end": 50,
+        "page_text_sha256": "5b885913e950470bce725dbf9bdd09e42a6883686b3377867b0abe0645efed37",
+        "exact_text_sha256": "0bbbbf26fa8b882c548448cec4cc8c9db8ca1b0cf94f815113738da13bfc5c7f",
+        "section_index": 3,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "0bbbbf26fa8b882c548448cec4cc8c9db8ca1b0cf94f815113738da13bfc5c7f",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "f239514ed53521bc7ba6c5cc88d6ec2ecac77d5b553738c5c24a605f275b03e6",
+    "maker_receipt_sha256": null,
+    "validation_check_sha256": null,
+    "source_disposition_sha256": "4c1780f743d068852bad90180593bcb97e9abe500e4a74d559a317b1267b99e0",
+    "candidate_source_chain": {
+      "source_disposition_sha256": "4c1780f743d068852bad90180593bcb97e9abe500e4a74d559a317b1267b99e0",
+      "boundary_overlay_plan_sha256": "c7c0253e52f0583570699f98cc9c8fa3dda15857551bc2b94d6430ed0afd008a",
+      "boundary_segment_sha256": "b0de1dff7382da37a27fb6e968e696da340b366b4f37b2eac667b4960a5fc5a3",
+      "source_parent_entry_id": "kohler-volume-4:p0002-p0017",
+      "continuation_v2_receipts": [
+        {
+          "package_id": "kohler-volume-4:p0002-p0017:child-03:continuation-01",
+          "package_sha256": "f94c759f953be281510507d4a70f2bbb6325458926b38341d59d6e48324daadc",
+          "receipt_sha256": "f1412829b7533ffcf949a8a99e1fc8b9ffb5b0e7440b7e5eada11b8bae0d669d",
+          "attempt_sha256": "9e6e3f0666f23ae9cbeea6f487c63fdca825f945c736c7db58ef392d5c25ef84",
+          "validation_check_sha256": "2adc7548927b0ef7908b01b50bfea580fb55aac67791b4d69f5b929ae77fa4d4"
+        }
+      ]
+    },
+    "naming_artifact_sha256": "707f6c037728b6ca0ae7cfd0519ed0f3fe6ff34602985735c91e4ce4f30a435b"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "2ad179b0816b850c4e7ea3615e1f9bd3e47297e4719fded89fce54ff4df86af1"
+}

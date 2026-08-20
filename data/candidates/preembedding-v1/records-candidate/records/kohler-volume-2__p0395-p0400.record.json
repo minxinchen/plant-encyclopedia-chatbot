@@ -1,0 +1,275 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0395-p0400",
+  "entry_id": "kohler-volume-2:p0395-p0400",
+  "owner_shard": "S04",
+  "book_taxon": {
+    "scientific_name": "Krameria triandra",
+    "authorship": "Ruiz et Pavon",
+    "aliases": [
+      "Echte Ratanhia",
+      "Ratanha",
+      "Peru-Payta-rothe Ratanhia",
+      "Rhatany"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Krameria triandra"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T16:28:30+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Krameria+triandra",
+        "query_name": "Krameria triandra",
+        "retrieved_at": "2026-08-13T16:28:28+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Echte+ratanhia",
+        "query_name": "Echte ratanhia",
+        "retrieved_at": "2026-08-13T16:28:28+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Peru-Payta-rothe+ratanhia",
+        "query_name": "Peru-Payta-rothe ratanhia",
+        "retrieved_at": "2026-08-13T16:28:28+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 395,
+      "evidence_type": "text",
+      "page_text_sha256": "930901a0e61661705797ec0d598bb31c91f1e838287c529d218fbd955bf84e05",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 396,
+      "evidence_type": "text",
+      "page_text_sha256": "55d6e295f1d4df70d07a8b0c0560ff0bf5272080dcf37e1fa5e631d765a1e8df",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 397,
+      "evidence_type": "text",
+      "page_text_sha256": "279ab1d8a5d2393ae066ffa9a85368be81b3c04f5e78f7196fa60440d2c49961",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 398,
+      "evidence_type": "text",
+      "page_text_sha256": "47633a2ecee0e55eaa0bcf8d94f42502b53b4d68b0f41e7d4f536a7c3f4abec1",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0395-p0400:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                             Krameria triandra Ruiz et Pavon.\n\n            Echte Ratanhia         (Ratanha),        Peru-Payta-rothe        Ratanhia      —     Ratanhia    —\n                                                    Rhatany, Krameria.\n\n            Familie:    Caesalpiniaceae       (Polygonaceae nach Bentham und Hooker;                Gattung:     Krameria\nLoefling.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名Krameria triandra，別名Echte Ratanhia。隸屬Caesalpiniaceae科，Krameria屬。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 395,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 377,
+        "page_text_sha256": "930901a0e61661705797ec0d598bb31c91f1e838287c529d218fbd955bf84e05",
+        "exact_text_sha256": "dffeed940987ca85e0e38203f28752a623164c82155a5801e68b8250e46274ea",
+        "source_line_start": 1,
+        "source_line_end": 7,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "dffeed940987ca85e0e38203f28752a623164c82155a5801e68b8250e46274ea",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0395-p0400:s01:x00",
+      "section_type": "description",
+      "original_text": "            Beschreibung.         Ein kleiner Strauch mit holziger, sehr ästiger, wenig faseriger Wurzel und\naufrechtem,     20—30       Ctm. hohem    Stämmchen,     dessen ausgebreitete   untere Aeste schwarz, kahl, nieder-\nlegend und bis 1 Meter lang sind, wührend die oberen kürzeren eine abstehend ausgebreitete Form,\nseidenartige Behaarung und grünlichgraue Fürbung besitzen. Die zerstreut stehenden oder fast gegen-\nständigen Blätter sind dick, bis 11 Mm.         lang, 3—4 Mm.        breit, sitzend, länglich oder verkehrt      eifórmig-\nlänglich, zugespitzt, stachelspitzig, ganzrandig, grau seidenhaarig. Blüthen an der Spitze des Stammes",
+      "normalized_text": null,
+      "zh_tw_rendering": "小型灌木，木質多分枝根。莖高20-30公分，下枝黑無毛，上枝具絲狀毛。葉厚，長11毫米，倒卵狀長圓形，灰絲毛。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 395,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 378,
+        "char_end": 1025,
+        "page_text_sha256": "930901a0e61661705797ec0d598bb31c91f1e838287c529d218fbd955bf84e05",
+        "exact_text_sha256": "b171dde044e19ccf83ccba39364212b9e8db76dee34d8ba4d2c8139250ae3a4f",
+        "source_line_start": 8,
+        "source_line_end": 13,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "b171dde044e19ccf83ccba39364212b9e8db76dee34d8ba4d2c8139250ae3a4f",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0395-p0400:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "       Anatomisches. Der Querschnitt zeigt eine sehr dünne Rinde (die der Hauptwurzel ist bis\n4 Mm. dick, auf der Oberfläche schuppig, und sehr holperig, dunkel rothbraun, öfters in der Axe\ngedreht;    die der Aeste ist 1 Mm.       dick und bedeutend       heller) und ein fein poróses, zimmtbraunes,         mit\nsehr   feinen   Markstrahlen      ausgestattetes,    markioses   Holz.   Die Aussenrinde       wird von   einem Kork ge-",
+      "normalized_text": null,
+      "zh_tw_rendering": "橫切面顯示極薄皮層，主根皮厚達4毫米，表面鱗片狀，深紅褐色。木質部細孔狀，肉桂色，具細小木射線。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 395,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2982,
+        "char_end": 3415,
+        "page_text_sha256": "930901a0e61661705797ec0d598bb31c91f1e838287c529d218fbd955bf84e05",
+        "exact_text_sha256": "2ec6de54e0a3eaa622c7b7d3236f305ce4be7ea537feec2f515716167d13a520",
+        "source_line_start": 34,
+        "source_line_end": 37,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "2ec6de54e0a3eaa622c7b7d3236f305ce4be7ea537feec2f515716167d13a520",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0395-p0400:s03:x00",
+      "section_type": "distribution",
+      "original_text": "         Vorkommen,        Auf sandigen und unfruchtbaren Abhängen der brasilianischen und peruani-\n schen Cordilleren, in Regionen von 1000—3000 Meter Meereshúhe.",
+      "normalized_text": null,
+      "zh_tw_rendering": "產於巴西與秘魯安第斯山脈的沙質貧瘠山坡，海拔1000至3000公尺。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 396,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2211,
+        "char_end": 2374,
+        "page_text_sha256": "55d6e295f1d4df70d07a8b0c0560ff0bf5272080dcf37e1fa5e631d765a1e8df",
+        "exact_text_sha256": "c2fb2e1df79fb3647df6628ba945bc6e8e12c033b5bf60fa5af4420e65c31268",
+        "source_line_start": 26,
+        "source_line_end": 27,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "c2fb2e1df79fb3647df6628ba945bc6e8e12c033b5bf60fa5af4420e65c31268",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0395-p0400:s04:x00",
+      "section_type": "constituents",
+      "original_text": "           Bestandtheile,           Wittstein fand eigenthümliche, eisengrünende Gerbsäure (Ratanhiagerbsiure)\n  Ratanhiaroth,    gummige      und    extraktive   Materie, Wachs,    Zucker,    Stürkemehl,   oxalsauren       Kalk.    Die\n  Peschier'sche Ratanhiasäure (Kramersäure), ebenso die Gallussäure, wurden von Wittstein nicht\n  aufgefunden, dagegen in dem amerikanischen Extrakte, nicht in der Wurzel, Tyrosin, mit der",
+      "normalized_text": null,
+      "zh_tw_rendering": "含Ratanhiagerbsäure、Ratanhiaroth、膠質、蠟、糖、澱粉及草酸鈣。未檢出Kramersäure及Gallussäure。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 397,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2841,
+        "char_end": 3266,
+        "page_text_sha256": "279ab1d8a5d2393ae066ffa9a85368be81b3c04f5e78f7196fa60440d2c49961",
+        "exact_text_sha256": "181eaf206f4de2137f64ed76fe3e30c05447ae82c4e5c8a3abcad4611809176d",
+        "source_line_start": 32,
+        "source_line_end": 35,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "181eaf206f4de2137f64ed76fe3e30c05447ae82c4e5c8a3abcad4611809176d",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0395-p0400:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "          Anwendung. In Substanz, als Absud, Extrakt, Tinktur als ein kräftiges Adstringens, inner-\nlich bei chronischen Durchfällen, atonischen Blutungen, Schleimflüssen der Respirations- und Urogenital-\norgane; äusserlich zu Mund- und Zahnmitteln, zu Einspritzungen und Klystiren.             „Die Ratanhiawurzel passt\nin allen Fällen, wo Tannin innerlich oder äusserlich indieirt ist, nur nicht bei Brechweinsteinvergiftung,",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史上用作強效收斂劑，內服治慢性腹瀉與出血，外用治口腔與牙齒問題。不適用於吐酒石中毒。",
+      "evidence_indexes": [
+        3
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 398,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 687,
+        "char_end": 1114,
+        "page_text_sha256": "47633a2ecee0e55eaa0bcf8d94f42502b53b4d68b0f41e7d4f536a7c3f4abec1",
+        "exact_text_sha256": "ae471b6ff5824c63e169a5adf3f2b8adfe33aea8c1d03ce1236b67f33ef4734a",
+        "source_line_start": 9,
+        "source_line_end": 12,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "ae471b6ff5824c63e169a5adf3f2b8adfe33aea8c1d03ce1236b67f33ef4734a",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "6ea58b613b1a78c82e5475cf36a2684bda331787a0a0e7113a51d4a2b04c8c1c",
+    "maker_receipt_sha256": "bb9500ffd2d669ada314ae564ceb961689c6604c54965402bbe22916f28e6150",
+    "validation_check_sha256": "f2c77c0dbb80dc9715ac3e161bee7e8965454227dcc5d35cea6a8c3631ba929c",
+    "source_disposition_sha256": "766d55b49417bb69c6bcc115ba07bb1bef2202cb25228841cfcb8af2b8fa4da4",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "bb9500ffd2d669ada314ae564ceb961689c6604c54965402bbe22916f28e6150",
+      "validation_check_sha256": "f2c77c0dbb80dc9715ac3e161bee7e8965454227dcc5d35cea6a8c3631ba929c",
+      "source_disposition_sha256": "766d55b49417bb69c6bcc115ba07bb1bef2202cb25228841cfcb8af2b8fa4da4"
+    },
+    "naming_artifact_sha256": "024405d4dd67477815c5b2907beb2eecce72b5b1ad228f406d362acbf2b0a24f"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "4b2d722252ca4488d1ab980dce7d440584c06809413fac3ed19769e84e0d2e3a"
+}

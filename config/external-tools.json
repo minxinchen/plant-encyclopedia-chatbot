@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-08-20",
+  "tools": [
+    {
+      "name": "gnfinder",
+      "version": "1.1.6",
+      "source": "https://github.com/gnames/gnfinder",
+      "macos_asset": "https://github.com/gnames/gnfinder/releases/download/v1.1.6/gnfinder-v1.1.6-mac.tar.gz",
+      "macos_asset_sha256": "f58ce736d14a34e99c98eeff6dcd00c4f5d00bc13776447af96b5e7b3d3018b9",
+      "macos_asset_architecture": "x86_64-only; do not install on Apple Silicon without an explicit compatibility layer",
+      "rest_api": "https://finder.globalnames.org/api/v1/find",
+      "observed_rest_api_version": "v1.1.13",
+      "install_target": ".tools/gnfinder",
+      "required": false,
+      "role": "scientific-name candidate extraction only; never resolves Taiwan display names"
+    },
+    {
+      "name": "gnverifier",
+      "rest_api": "https://verifier.globalnames.org/api/v1/verifications/",
+      "required": false,
+      "role": "exact scientific-name validation for boundary candidates only; never supplies book facts or Taiwan names"
+    }
+  ],
+  "external_corpora": [
+    {
+      "name": "Internet Archive Köhler source items",
+      "base_url": "https://archive.org",
+      "identity_rule": "the mobot identifier embedded in each source PDF filename",
+      "assets": ["_djvu.xml", "_scandata.xml"],
+      "role": "same-edition page OCR, word boxes, reading order, and page metadata"
+    },
+    {
+      "name": "Biodiversity Heritage Library",
+      "base_url": "https://www.biodiversitylibrary.org",
+      "role": "secondary page and scientific-name evidence; not a source of Köhler facts"
+    }
+  ],
+  "safety": {
+    "canonical_writes": false,
+    "taiwan_name_resolution": false,
+    "layout_or_image_claim_approval": false,
+    "external_text_as_book_fact": false
+  }
+}

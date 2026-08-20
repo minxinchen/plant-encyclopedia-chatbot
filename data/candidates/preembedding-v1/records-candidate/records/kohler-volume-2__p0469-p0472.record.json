@@ -1,0 +1,289 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0469-p0472",
+  "entry_id": "kohler-volume-2:p0469-p0472",
+  "owner_shard": "S04",
+  "book_taxon": {
+    "scientific_name": "Toluifera Balsamum",
+    "authorship": "Miller",
+    "aliases": [
+      "Myrospermum Tolwferum A. Rich.",
+      "Myrospermum balsamiferum Ruiz et Pavon",
+      "Myroxylon Tolwfera H. B. et Knth.",
+      "Myroxylon punctatum Klotzsch"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Toluifera Balsamum",
+      "Toluifera balsamum"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T20:11:47+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Toluifera+Balsamum",
+        "query_name": "Toluifera Balsamum",
+        "retrieved_at": "2026-08-13T20:11:43+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Toluifera+balsamum",
+        "query_name": "Toluifera balsamum",
+        "retrieved_at": "2026-08-13T20:11:43+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Myrospermum+tolwferum",
+        "query_name": "Myrospermum tolwferum",
+        "retrieved_at": "2026-08-13T20:11:44+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Myrospermum+balsamiferum",
+        "query_name": "Myrospermum balsamiferum",
+        "retrieved_at": "2026-08-13T20:11:44+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Myroxylon+tolwfera",
+        "query_name": "Myroxylon tolwfera",
+        "retrieved_at": "2026-08-13T20:11:44+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Myroxylon+punctatum",
+        "query_name": "Myroxylon punctatum",
+        "retrieved_at": "2026-08-13T20:11:44+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 469,
+      "evidence_type": "text",
+      "page_text_sha256": "b83bfe186d3853921884a63df88ec9f06b5fc9c30fc15bbc199d9e01946064c6",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 470,
+      "evidence_type": "text",
+      "page_text_sha256": "60f7130cf40cb1185e6f90dc46b9d441c37d77ca4a5c20cfd7585a8a8a4b9574",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 471,
+      "evidence_type": "text",
+      "page_text_sha256": "14d8ea8e380bc10b692922f825d761712fcc7fe935afa618306c6eae1e84e817",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0469-p0472:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "  Syn. Myrospermum Tolwferum A. Rich. Myrospermum balsamiferum Ruiz et Pavon.\n         Myroxylon Tolwfera H. B. et Knth. Myroxylon punctatum Klotzsch.",
+      "normalized_text": null,
+      "zh_tw_rendering": "異名包括 Myrospermum Tolwferum、Myroxylon Tolwfera 及 Myroxylon punctatum。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 469,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 85,
+        "char_end": 235,
+        "page_text_sha256": "b83bfe186d3853921884a63df88ec9f06b5fc9c30fc15bbc199d9e01946064c6",
+        "exact_text_sha256": "c08633ece1b31d8546bdba818c4a29eea62afa63f1707cf0d95a34f128903de1",
+        "source_line_start": 3,
+        "source_line_end": 4,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "c08633ece1b31d8546bdba818c4a29eea62afa63f1707cf0d95a34f128903de1",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0469-p0472:s01:x00",
+      "section_type": "description",
+      "original_text": "         Beschreibung.       Ein grosser Baum von 26 Meter Höhe, welcher erst in einer Stammhöhe\nvon 13—19 Meter beastet ist und eine ausgebreitete, rundliche Krone besitzt. Rinde glatt, gelblich-\ngrau oder braun, mit zahlreichen weissen Lenticellen bedeckt. Blätter etwas kürzer als beim Perubalsam-\nbaum, gewöhnlich unpaarig abwechselnd gefiedert, mit 4—7 verkehrt eiförmigen, lederigen, zuge-\nspitzten, in der Richtung der Längenachse oft gebogenen, kurz gestielten Fiedern, deren Rand ganz\nund nicht faltig ist, auf der Oberfläche dunkelgrün, auf der Unterfläche blassgrün, mit stark hervor-\ntretender Mittelrippe; Spindel und Blattstielchen unbehaart, und die Oelbehälter kleiner als bei Tolui-",
+      "normalized_text": null,
+      "zh_tw_rendering": "高26米大樹，樹幹13-19米處分枝，葉片羽狀複葉，4-7片倒卵形小葉，深綠色。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 469,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 457,
+        "char_end": 1156,
+        "page_text_sha256": "b83bfe186d3853921884a63df88ec9f06b5fc9c30fc15bbc199d9e01946064c6",
+        "exact_text_sha256": "d3f9186794e538fa599840f335852ca4a4704c0342ff5dbff53e97b60c8733eb",
+        "source_line_start": 11,
+        "source_line_end": 17,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "d3f9186794e538fa599840f335852ca4a4704c0342ff5dbff53e97b60c8733eb",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0469-p0472:s02:x00",
+      "section_type": "distribution",
+      "original_text": "          Vorkommen,       Toluifera Balsamum ist im nördlichen Theile von Südamerika                     einheimisch\n und besitzt eine grössere Verbreitung als Tol. Pereirae.",
+      "normalized_text": null,
+      "zh_tw_rendering": "原產於南美洲北部，分佈範圍比 Tol. Pereirae 更廣。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 470,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 911,
+        "char_end": 1086,
+        "page_text_sha256": "60f7130cf40cb1185e6f90dc46b9d441c37d77ca4a5c20cfd7585a8a8a4b9574",
+        "exact_text_sha256": "b6bc406f284c6adfd3db448af8c6de8b442dc5ca7fcc52198568dea241bdffc7",
+        "source_line_start": 11,
+        "source_line_end": 12,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "b6bc406f284c6adfd3db448af8c6de8b442dc5ca7fcc52198568dea241bdffc7",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0469-p0472:s03:x00",
+      "section_type": "history",
+      "original_text": "          Name und Geschichtliches.           Tolubalsam (Cartagenabalsam, Hondurasbalsam, Thomas-\n balsam) ist nach der columbischen Hafenstadt Tolu am Karaibischen Meere so benannt. Wegen PL\n Myroxylon und Myrospermum siehe Toluifera Pereirae, Taf. 183.",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源自哥倫比亞港口Tolu，歷史記載提及Monardes及Hernandez對其評價。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 470,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 1088,
+        "char_end": 1343,
+        "page_text_sha256": "60f7130cf40cb1185e6f90dc46b9d441c37d77ca4a5c20cfd7585a8a8a4b9574",
+        "exact_text_sha256": "a3b80378229983a3b7cf47376c24c7e35d2dc65d0de6439782b71117f06d2c4d",
+        "source_line_start": 14,
+        "source_line_end": 16,
+        "section_index": 3,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "a3b80378229983a3b7cf47376c24c7e35d2dc65d0de6439782b71117f06d2c4d",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0469-p0472:s04:x00",
+      "section_type": "harvest",
+      "original_text": "           Die Gewinnung des Tolubalsams erfolgt hauptsächlich in Columbien und zwar am unteren\n Stromlaufe des Rio Magdalena, von Mombos abwärts, bei Turbaco, Las Mercedes und Plato, auch bei\n Tolu, ferner in den Wäldern zwischen dem R. Cauca und R. Sinu. Nach Angaben von John Weir\n welcher 1863 Augenzeuge der Balsamgewinnung war, werden die Stämme an etwa 20 Stellen mit,\n schiefen, spitzwinkelig zusammenstossenden, also einer römischen V gleichenden Einschnitten versehen,\n die am   unteren, spitzen Ende    eine Vertiefung   erhalten, an welcher     eine kleine Kürbisfrucht,     Concolito,\n zum Zwecke der Aufnahme des Balsams befestigt wird. Die Gewinnung des Balsams aus höher ge-",
+      "normalized_text": null,
+      "zh_tw_rendering": "主要在哥倫比亞Magdalena河下游採集，樹幹刻V形切口，用葫蘆收集樹脂。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 470,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2723,
+        "char_end": 3413,
+        "page_text_sha256": "60f7130cf40cb1185e6f90dc46b9d441c37d77ca4a5c20cfd7585a8a8a4b9574",
+        "exact_text_sha256": "4f644df4023e881363cf1e58d7a768ff64e4f7f8544ae9fcebb5e0ca011e6502",
+        "source_line_start": 33,
+        "source_line_end": 39,
+        "section_index": 4,
+        "section_type": "harvest"
+      },
+      "exact_text_sha256": "4f644df4023e881363cf1e58d7a768ff64e4f7f8544ae9fcebb5e0ca011e6502",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0469-p0472:s05:x00",
+      "section_type": "constituents",
+      "original_text": "           Bestandtheile. E. Kopp fand in dem Balsam 2 verschiedene Harze, einen flüssigen Kohlen-\n wasserstoff (Tolem) und Zimmtsáure. E. Busse erhielt ausser Harz, Benzoösäure und Zimmtsäure\n noch Benzoösäure-Benzylester und Zimmtsáure-Benzylester.                  Cinnamein fehlt dem Tolubalsam;                die Harze,\n   welche die Hauptmasse bilden, sind noch nicht näher untersucht.",
+      "normalized_text": null,
+      "zh_tw_rendering": "成分含兩種樹脂、液態烴Tolen、肉桂酸、苯甲酸及其酯類，不含Cinnamein。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 471,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2334,
+        "char_end": 2726,
+        "page_text_sha256": "14d8ea8e380bc10b692922f825d761712fcc7fe935afa618306c6eae1e84e817",
+        "exact_text_sha256": "14f914e75e73c59bf6cc41fcbc3018de49c6fefda31d554a6c2b928e40610222",
+        "source_line_start": 25,
+        "source_line_end": 28,
+        "section_index": 5,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "14f914e75e73c59bf6cc41fcbc3018de49c6fefda31d554a6c2b928e40610222",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "fc8c434fa63e743df07867a84be4881a2780019fc3a33fac6022f0b51b472779",
+    "maker_receipt_sha256": "8b75e5cbb9aa761e8c274f98e78fe5e3d2bf9be53e1b23735c777faa01857108",
+    "validation_check_sha256": "a4815b5c5d3ddd745d60f663dd58c63dd73dbbc69f439c8f3653cb6eab868bdd",
+    "source_disposition_sha256": "8200424692b3208e8a373939c045eb3db31e74436767a1677c9c41274c1f1b94",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "8b75e5cbb9aa761e8c274f98e78fe5e3d2bf9be53e1b23735c777faa01857108",
+      "validation_check_sha256": "a4815b5c5d3ddd745d60f663dd58c63dd73dbbc69f439c8f3653cb6eab868bdd",
+      "source_disposition_sha256": "8200424692b3208e8a373939c045eb3db31e74436767a1677c9c41274c1f1b94"
+    },
+    "naming_artifact_sha256": "023278fc7a7a722ae01f4275860882e14256e9732ceba93916198cece5946d85"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "ed6aa7e5ed1c2ebc7308347e8329f17143eb9e922677877a3f1d3cbfda0c8deb"
+}

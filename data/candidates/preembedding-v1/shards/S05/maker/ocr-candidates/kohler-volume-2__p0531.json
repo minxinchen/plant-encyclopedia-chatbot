@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 531,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "df31c939cfd10d4cf4daba7875376da1e6cbb2f2ce4c05660acebcaa9d13fb84",
+  "render_dpi": 144,
+  "render_sha256": "648ba034eb4fc34be8f79f0374eb7b81fcfe7b582ca765a7cf2fafffb04866de",
+  "input_sha256": "648ba034eb4fc34be8f79f0374eb7b81fcfe7b582ca765a7cf2fafffb04866de",
+  "render_pixel_width": 5882,
+  "render_pixel_height": 7922,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.848,
+  "embedded_character_count": 43,
+  "ocr_character_count": 54,
+  "ocr_alpha_ratio": 0.6667,
+  "candidate_disposition": "candidate_quality_gain",
+  "staging_disposition": "candidate_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.017915489181639654,
+      "text": "Rosaceae.",
+      "width": 0.1019066534762233,
+      "x": 0.7611797466867712,
+      "y": 0.9227283018964786
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847165,
+      "text": "2a",
+      "width": 0.02152641821321677,
+      "x": 0.45596868905875365,
+      "y": 0.6627906977939311
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252612005,
+      "text": "4",
+      "width": 0.009784735435633629,
+      "x": 0.4363992174827702,
+      "y": 0.2165697674906999
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "10",
+      "width": 0.017612523529317747,
+      "x": 0.6927592961414076,
+      "y": 0.15988372095890202
+    },
+    {
+      "confidence": 1,
+      "height": 0.02470930228157653,
+      "text": "Amygdalus communis -",
+      "width": 0.26614479773348776,
+      "x": 0.37377691365771804,
+      "y": 0.10610465087592691
+    },
+    {
+      "confidence": 1,
+      "height": 0.021706613283308696,
+      "text": "var. amara D.C.",
+      "width": 0.15881872591211066,
+      "x": 0.43037537444064744,
+      "y": 0.08362343750173296
+    }
+  ],
+  "text": "Rosaceae.\n2a\n4\n10\nAmygdalus communis -\nvar. amara D.C.",
+  "output_sha256": "568672921114bbbac5bcafe8b6c696b0b4d78c4de6010dd90c4a405938d56110",
+  "receipt_sha256": "d31c2cf2dcec348de64b059231a89be764d1482296e7c798f37e75ae485cdd63"
+}

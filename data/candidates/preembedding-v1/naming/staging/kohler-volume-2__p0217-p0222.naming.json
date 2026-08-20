@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-2:p0217-p0222",
+  "owner_shard": "S03",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S03/maker/structure-drafts/kohler-volume-2__p0217-p0222.json",
+  "source_draft_sha256": "c7a7ed643f431ff0eaa5ac6ce58f5bf8ae50d0371d4c1a6e6958aa6452cdee8e",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "fee1271a7747e874e93b9e9a3da7515a2291788d7525f6511afe4c23436c18ed",
+    "validation_check_sha256": "895b399f37dfd4d9d62d3d3ce5014143bcf83609a2b208744f763106bf29f67b",
+    "source_disposition_sha256": "9095380dfa2a4b3b52fcd7271f2881759ac07ea1dcde9cb5bcf1aea4ad8df298",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Eugenia caryophyllata",
+    "authorship_candidate": "Thunberg",
+    "aliases_candidates": [
+      "Caryophyllus aromaticus L.",
+      "Eugenia aromatica Baill.",
+      "Myrtus caryophyllus Spr."
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Eugenia caryophyllata"
+    ],
+    "accepted_scientific_name": "Eugenia caryophyllata",
+    "display_name_zh_tw": "丁香",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0073915",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary",
+    "rationale": "TaiCOL accepts the queried book binomial at species rank.",
+    "checked_at": "2026-08-13T20:10:11+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Eugenia caryophyllata",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Eugenia+caryophyllata",
+      "retrieved_at": "2026-08-13T20:10:11+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Eugenia caryophyllata",
+          "matched_name_id": 56308,
+          "taxon_id": "t0073915",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Eugenia caryophyllata",
+          "accepted_name_id": 56308,
+          "accepted_usage": [
+            {
+              "usage_id": 40279,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0073915",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0073915",
+          "taxon": {
+            "taxon_id": "t0073915",
+            "taxon_status": "accepted",
+            "name_id": 56308,
+            "simple_name": "Eugenia caryophyllata",
+            "name_author": "Thunb.",
+            "rank": "Species",
+            "common_name_c": "丁香",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

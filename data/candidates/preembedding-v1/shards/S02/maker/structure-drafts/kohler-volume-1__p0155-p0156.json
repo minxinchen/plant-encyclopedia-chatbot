@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0155-p0156",
+  "owner_shard": "S02",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 108.001,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0155-p0156",
+    "book_taxon": {
+      "scientific_name_candidate": "Coehlearia officinalis",
+      "authorship_candidate": "L.",
+      "aliases_candidates": [
+        "Loffelkraut",
+        "Scharbocksheil",
+        "Skorbutkraut",
+        "Scurvy-grass"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 155,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Coehlearia officinalis L.，十字花科，俗名 Loffelkraut、Scharbocksheil。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          4
+        ],
+        "exact_source_quote": "                                              Coehlearia officinalis L.\n\n              Loffelkraut, Scharbocksheil, Skorbutkraut                            — Scurvy-grass — Coehlearia,\n               Familie: Cruciferae.              Gattung: Coehlearia L."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 155,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "二年生植物，基生葉匙形，莖直立有稜，葉綠色肉質，花白色，先為繖房狀後變總狀。",
+        "warnings": [],
+        "source_line_range": [
+          5,
+          13
+        ],
+        "exact_source_quote": "               Beschreibung.            Zweijahrige Pflanze, die aus ih]     &                                                  Wui\n    fasern    besetzten,        im unteren Theile verastelten Wurzel im Herbste des ersten Jalires eine Rosette\n    loffelformiger Vorblatter treibt, aus deren Mitte  im Frtihjahre des zweiten Jahres der astige, gefur elite,\n    kahle, aufrechte, kantig gestreifte, wenig beblatterte, bis 0,40 Meter holie Hauptstengel und die weniger\n    kraftig entwickelten Nebenstengel hervorbreclien.                       Blatter lebhaft griin, etwas fleischig, kahl; Wurzel-\n    blatter langgeslielt, breit- eiformig,          am Grunde scliwach herzformig, mit ganzem oder ausgescliweiftem\n    Rande; untere Stengelbliitter kleiner, sitzend, rundlich oder eiformig, mit                          1   — 3 stumpfen Zahiien auf\n    jeder Seite;       die   unteren mit herzformigem,               die   oberen mit herz-pfeilformigem,         stengelumfassendem\n    Grunde.         Bliithen     an den Enden der Stengel und Aeste, zuerst doldentraubig, spater zu einer unbe-"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 155,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "葉橫切面顯示上半部組織緻密，下半部為疏鬆的海綿組織。",
+        "warnings": [],
+        "source_line_range": [
+          43,
+          44
+        ],
+        "exact_source_quote": "            Anatomisches : Der Blattquerschnitt zeigt in der oberen Halfte ein dichtes, in der unteren ein sehr lockeres\n    schwammiges Gewebe (Fliickiger)."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 155,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分佈於中歐及北歐潮濕鹽鹼地，包括冰島、斯匹次卑爾根，北至北緯80度。",
+        "warnings": [],
+        "source_line_range": [
+          46,
+          49
+        ],
+        "exact_source_quote": "                Verbreitung.            An Graben und feuchten, namentlich salzhaltigen                       Orten durch Mittel- und\n    Nordeuropa (Island Spitzbergen, Nowaja Semlja eingescblossen) bis zum 80° n. Br. verbreitet;                                      vor-\n\n    zuglich an den Kiisten der arktischen Meere von Europa und Nordamerika."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 155,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源自匙形葉；Scharbocksheil 與 Skorbutkraut 指其歷史上用於治療壞血病。",
+        "warnings": [],
+        "source_line_range": [
+          53,
+          57
+        ],
+        "exact_source_quote": "                Name und Geschichtliches.     Der Name Loffelkraut, althochdeutsch und mittelhochdeutsch\n    menva  (unbekannten  Ursprungs)  ist von der Form  der  Wurzelblatter abgeleitet.  Scharbocksheil  und\n    Skorbutkraut  beziehen  sich auf die Anwendung  der  Pflanze  gegen Scharbock   (Skorbut).  Coehlearia\n\n    von cochlear Loffel."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 156,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含揮發油、苦樹脂、苦提取物、樹膠、澱粉、蛋白質、鹽酸銨及硫酸銨等成分。",
+        "warnings": [],
+        "source_line_range": [
+          31,
+          33
+        ],
+        "exact_source_quote": "                   Bestandtheile.\n                              Das Kraut enthalt atherisches Oel, bitteres Harz, bitteren Extraktivstoff,\n    Grummi, grimes Satzmehl, Eiweiss, salzsaures und schwefelsaures Ammoniak, Salpeter, Gryps (Gutret)."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "7642047a5b88319368fec16f17dac01cd5ff976376b87a335de6f1f86f9c611b"
+}

@@ -1,0 +1,287 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0325-p0328",
+  "entry_id": "kohler-volume-2:p0325-p0328",
+  "owner_shard": "S04",
+  "book_taxon": {
+    "scientific_name": "Quercus Suber",
+    "authorship": "L.",
+    "aliases": [
+      "Korkeiche",
+      "Suber quercinum",
+      "Cortex Suberis"
+    ]
+  },
+  "display_name": "西班牙栓皮櫟",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Quercus Suber",
+      "Quercus suber"
+    ],
+    "accepted_scientific_name": "Quercus suber",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T13:47:28+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Quercus+Suber",
+        "query_name": "Quercus Suber",
+        "retrieved_at": "2026-08-13T13:47:28+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0024667",
+        "query_name": "Quercus Suber",
+        "retrieved_at": "2026-08-13T13:47:28+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0024667",
+        "query_name": "Quercus Suber",
+        "retrieved_at": "2026-08-13T13:47:28+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Quercus+suber",
+        "query_name": "Quercus suber",
+        "retrieved_at": "2026-08-13T13:47:28+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0055022",
+        "query_name": "Quercus suber",
+        "retrieved_at": "2026-08-13T13:47:28+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0055022",
+        "query_name": "Quercus suber",
+        "retrieved_at": "2026-08-13T13:47:28+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL accepts the queried book binomial at species rank."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 325,
+      "evidence_type": "text",
+      "page_text_sha256": "fb1086af8ba115ce060336abf179ee3fc78868753c547f1093966ea517473309",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 326,
+      "evidence_type": "text",
+      "page_text_sha256": "d51a66bb21861ac672c748130b9ce00eaa29c0f8f35f4813a5b4f98711a6acf3",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 327,
+      "evidence_type": "text",
+      "page_text_sha256": "7749bc81ac47cfddb1fc68c9c375746fc502a7922a45cca91671b51b3beee39a",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0325-p0328:s00:x00",
+      "section_type": "description",
+      "original_text": "          Beschreibung.      Immergrüner, 10 bis 16 Meter (nach Flückiger sogar bis 30 Meter)\nhoher, 1 bis 11/, Meter dicker Baum mit unregelmässiger, oft sehr umfangreicher Krone und grau- oder\ngelblich-filzigen jungen Zweigen. Die jüngeren Stämme und Aeste sind mit glattem, rostbraunem\nKorke     bedeckt,   welcher    sich mit     zunehmendem       Alter   sehr   verdickt   und   zuletzt   in grossen,     dicken\nPlatten ablóst. Blätter abwechselnd, gestielt, elliptisch, eifórmig bis eifórmig-lánglich, 3 bis 7 Ctm.\nlang, 11/, bis 3!/, Ctm. breit, ságenartig-, oder fast sägenartig-dornspitzig gezähnt, im jüngeren Alter\nzart hautartig, graufilzig, oberhalb bräunlich-purpurroth, später oberseits kahl, lederig, glänzend.",
+      "normalized_text": null,
+      "zh_tw_rendering": "常綠樹，高10至16米，樹冠不規則。枝條灰或黃絨毛。樹皮光滑，隨年齡增厚並剝落。葉互生，橢圓形，鋸齒狀，幼時絨毛，後變革質光亮。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 325,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 188,
+        "char_end": 914,
+        "page_text_sha256": "fb1086af8ba115ce060336abf179ee3fc78868753c547f1093966ea517473309",
+        "exact_text_sha256": "f7c190eed2f539a7f471cc9fdb0f474756efcee91fbad0f03c73f8baa6cd9346",
+        "source_line_start": 5,
+        "source_line_end": 11,
+        "section_index": 0,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "f7c190eed2f539a7f471cc9fdb0f474756efcee91fbad0f03c73f8baa6cd9346",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0325-p0328:s01:x00",
+      "section_type": "anatomy",
+      "original_text": "           Anatomisches.          Nach der Flückiger'schen Beschreibung ist die Rinde der Korkeiche bis\nzum     9. Jahre mit einer Oberhaut        bekleidet, unter welcher sich eine zarte, farblose, korkartige               Schicht\nbildet, die das chlorophyllhaltige Rindenparenchym und den Bast bedeckt. Vom dritten Jahre ab\nwird die nicht mehr in gleichem Verhältnisse fortwachsende Oberhaut von der inneren Korkschicht\nder Länge nach gesprengt. Die nun auf der Oberfläche erscheinende Korkschicht besteht in ihrer\näusseren   Lage   aus  dünnwa  ndigen  ,   kubisch  en,   verkor kten   und  abgest orbene  n   Zellen;   die  Wandu   ngen   der\ninneren, aus Cellulose zusammengesetzten Zellen (das Korkcambium) hingegen sind noch lebensthätig\nund saftig.   Sie  vermeh  ren    sich  durch    Theilu  ng  in  tangent ialer   Richtu ng,   durch   Bildun  g   einer Scheide -\nwand. Da die 2        oder   3  innerst en    Reihen    der  Jahres schich ten,    welche    sonst    aus   kubisc  hen   Zellen\nbestehe n, tafelfó rmig  bleiben     und   mit   dicken   Wände  n    ausgest attet  sind,   so  erschei nt   die  ganze   Masse\nin deutliche Jahresringe        getheil t,   welche    in  sehr   gering en   Abstän den     auftret en   und   im   Verein   mit",
+      "normalized_text": null,
+      "zh_tw_rendering": "樹皮9歲前具表皮，後由木栓層取代。木栓層外層為死細胞，內層木栓形成層具活性。年輪明顯，含石細胞群，構成不均質結構。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 325,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2670,
+        "char_end": 3932,
+        "page_text_sha256": "fb1086af8ba115ce060336abf179ee3fc78868753c547f1093966ea517473309",
+        "exact_text_sha256": "13d0f846e6f7f57f869f79a186618f7497a23a69510517cc686d9dd271a667f1",
+        "source_line_start": 32,
+        "source_line_end": 42,
+        "section_index": 1,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "13d0f846e6f7f57f869f79a186618f7497a23a69510517cc686d9dd271a667f1",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0325-p0328:s02:x00",
+      "section_type": "distribution",
+      "original_text": "         Vorkommen.       Im westlichen Mittelmeergebiete und auf den anstossenden atlantischen Küsten\neinheimisch. In Nordafrika, auf den Balearen, in Spanien (Oberestremadura und Vizcaya); wenig ver-\nbreitet im südöstlichen Frankreich und in Süditalien, noch weniger in Griechenland. Die bedeutendsten\nKorkeichenwaldungen befinden sich in der algerischen Provinz Constantine (Bona und Calle); ein\ngrosser Korkeichenwald befindet sich nordwestlich von Gibraltar (zwischen Algesiras und Alcala de\nGazules. Die Korkeiche überschreitet den 45. Breitengrad nicht; sie gedeiht in einer mittleren Jahres-\ntemperatur von 130,",
+      "normalized_text": null,
+      "zh_tw_rendering": "原產西地中海及大西洋沿岸。分佈於北非、巴利阿里群島、西班牙、南法及南意。主要林區在阿爾及利亞及直布羅陀西北。不越北緯45度。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 326,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2400,
+        "char_end": 3019,
+        "page_text_sha256": "d51a66bb21861ac672c748130b9ce00eaa29c0f8f35f4813a5b4f98711a6acf3",
+        "exact_text_sha256": "2d745f83d10e12b231a0838b7293900a876d943b1e724e79668b2e726bbdc62d",
+        "source_line_start": 27,
+        "source_line_end": 33,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "2d745f83d10e12b231a0838b7293900a876d943b1e724e79668b2e726bbdc62d",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0325-p0328:s03:x00",
+      "section_type": "history",
+      "original_text": "          Name und Geschichtliches.                  Quercus und Eiche siehe Quercus Robur und pedunculata.\nSuber von sub unter oder suere nähen,              auch     von    subire     unter    oder unten     in etwas gehen,     kommen,\ntreten, weil schon zu Plinius’ Zeiten die Rinde wegen ihrer Trockenheit als Sohle unter die Schuhe\ngeheftet wurde. Der Name suber für Kork kommt schon bei Virgil vor.\n          Schon Theophrast war mit dem Korke bekannt und kannte bereits die: Eigenschaft der\nKorkeiche, dass nach Ablösung der äusseren Rinde der Kork schnell nachwüchst. Varro (116 vor\nChr) und Columella empfahlen den Kork seiner geringen Wärmeleitung wegen, zur Herstellung von\nBienenstöcken; jedoch erst Plinius macht auf die Verwendbarkeit zu Korkstópseln aufmerksam.\nIsidor von Sevilla weist auf die Benutzung des Korkes beim Schwimmen hin; Matthiolus liefert\neine Abbildung der Korkeiche und widmet ihr eine Abhandlung ,,Suberis consideratio“. Im 15. Jahr-\nhundert wurde Kork in Danzig zu Pantoffeln verarbeitet.",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源於拉丁語subire。西塞羅時代已用於鞋底。西塞羅、瓦羅及科倫梅拉推薦用於蜂箱。普林尼提及軟木塞。15世紀但澤製拖鞋。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 326,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3123,
+        "char_end": 4146,
+        "page_text_sha256": "d51a66bb21861ac672c748130b9ce00eaa29c0f8f35f4813a5b4f98711a6acf3",
+        "exact_text_sha256": "e1fd119d60d595b06a77aab70f8ef2c00c821d3fbffe136c4b441903939bf820",
+        "source_line_start": 36,
+        "source_line_end": 46,
+        "section_index": 3,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "e1fd119d60d595b06a77aab70f8ef2c00c821d3fbffe136c4b441903939bf820",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0325-p0328:s04:x00",
+      "section_type": "harvest",
+      "original_text": "         Der Kork: Suber quercinum (Suber, Cortex Suberis) ist bezüglich seiner Bildung am lebenden\nStamme schon in dem Abschnitte „Anatomisches“ behandelt werden. Im Alter von ca. 15 Jahren\nbeginnt die Bildung des allein brauchbaren weiblichen Korkes, welcher in Perioden von 8 bis 10 Jahren\nbis zu einem Alten von 150 Jahren ausgenutzt werden kann. Die beste Waare liefern die Bäume im\n50. bis 100. Jahre, welche übrigens durch die Gewinnung des Korkes an Lebensdauer nichts ein-\nbüssen; man will vielmehr das Gegentheil wahrgenommen haben. Die Ausnutzung dauert in Algier\nvon Mitte April bis Mitte August. Zu dem Zwecke wird die Rinde oben und unten geringelt, durch\nLängsspalten in 2 Theile getheilt und mit dem Stiele der Axt abgelöst. Die abgelösten Platten\nwerden dann auf einander geschichtet, mit Steinen beschwert, getrocknet, mittelst der Feile oder des\nSchabmessers von der äusseren und inneren Schicht befreit und in grossen Kesseln 5 bis 6 Minuten\ngekocht, bisweilen         auch durch Feuer   gezogen.      Durch   das Kochen     schwillt der Kork um ein Drittel an.",
+      "normalized_text": null,
+      "zh_tw_rendering": "15歲起採收可用木栓，每8至10年一次，可採至150歲。4月至8月剝皮，堆疊乾燥，去內外層，沸水煮5至6分鐘，體積增三分之一。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 327,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 1081,
+        "page_text_sha256": "7749bc81ac47cfddb1fc68c9c375746fc502a7922a45cca91671b51b3beee39a",
+        "exact_text_sha256": "3fe125f8a6714a8f29ae0b38f7058f78a6058d3c6b3fb73e368ee1caeab6be5d",
+        "source_line_start": 1,
+        "source_line_end": 11,
+        "section_index": 4,
+        "section_type": "harvest"
+      },
+      "exact_text_sha256": "3fe125f8a6714a8f29ae0b38f7058f78a6058d3c6b3fb73e368ee1caeab6be5d",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0325-p0328:s05:x00",
+      "section_type": "constituents",
+      "original_text": "             Bestandtheile.         Ausser dem bereits erwähnten organisirten Zellgewebe, dem Suberin, ist noch\n vorhanden:        eisenbläuender   Gerbstoff, wohlriechendes     Oel, Wachs (Cerin), Harz, rother und gelber Farb-\nstoff, eine stickstoffhaltige Materie, Gallussäure und Kalksalze.\n             Die    Zusammensetzung      des Suberin     ist nicht näher bekannt;      auch ist noch nicht festgestellt,\n ob dasselbe       nicht   etwa   nur ein Gemenge      ist. Von   der Cellulose ist es verschieden,    denn sein Kohlen-\nstofigehalt beträgt nach Höhnel ca. 749/, also weit mehr als bei der Cellulose (44.4%,). Aetzlauge\nwirkt in ähnlicher Weise auf Suberin, wie auf Wachs; auf Cellulose äussert sie keine Wirkung. Das '\nHauptoxydationsprodukt bei Einwirkung der Salpetersäure auf Suberin ist die Cerinsdure, neben oder\naus welcher Korksdure erhalten wird, die bei Behandlung von Cellulose niemals entsteht, wohl aber\nbei der Oxydation von Wachs, Fett, namentlich aber von Rieinusöl.",
+      "normalized_text": null,
+      "zh_tw_rendering": "含木栓質、單寧、芳香油、蠟、樹脂、色素、含氮物質、沒食子酸及鈣鹽。木栓質碳含量約74%。硝酸氧化產木栓酸及阿澤萊酸。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 327,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3421,
+        "char_end": 4418,
+        "page_text_sha256": "7749bc81ac47cfddb1fc68c9c375746fc502a7922a45cca91671b51b3beee39a",
+        "exact_text_sha256": "cea98c59381ef7f6e7796c26513fce2e0b20552dc8a11568c44c7a8c75482596",
+        "source_line_start": 37,
+        "source_line_end": 46,
+        "section_index": 5,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "cea98c59381ef7f6e7796c26513fce2e0b20552dc8a11568c44c7a8c75482596",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "e1af07eef9e8a84dabcc934dc8ab81edfa63458b3f154fd247842c591ea964cc",
+    "maker_receipt_sha256": "0648198790fea32b25c6d747c4087c202e2aae95fbd41fd8d45ede0f19bfc60c",
+    "validation_check_sha256": "5b28a559ef39a3e486845b0dadb1caa743754930ae7e731662d120e45b005e42",
+    "source_disposition_sha256": "d7710553f73398b5d0dd0c538fd5fbc71548e9f27eded1c278cce3ce4f1b0d81",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "0648198790fea32b25c6d747c4087c202e2aae95fbd41fd8d45ede0f19bfc60c",
+      "validation_check_sha256": "5b28a559ef39a3e486845b0dadb1caa743754930ae7e731662d120e45b005e42",
+      "source_disposition_sha256": "d7710553f73398b5d0dd0c538fd5fbc71548e9f27eded1c278cce3ce4f1b0d81"
+    },
+    "naming_artifact_sha256": "f056e37c2ff8ff00164d7a151baf8436f3189d497aba349d6d586884d0b67a78"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "fd0697d3cc893a92036ffde2c229dc01358b4d1b17d44c194f3edb724e37e5c3"
+}

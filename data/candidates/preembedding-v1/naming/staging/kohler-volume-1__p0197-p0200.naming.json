@@ -1,0 +1,384 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-1:p0197-p0200",
+  "owner_shard": "S02",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S02/maker/structure-drafts/kohler-volume-1__p0197-p0200.json",
+  "source_draft_sha256": "436720a768e4271bfaec1197d266b08fdb0496aa19487f64f333926e15152f70",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "d2126f7f512d50acf4a47298ea062638ac61809247939e699e16aa9e6d5c8c22",
+    "validation_check_sha256": "d9090708618a3dd7de86354237eb44f5ee3c25b75627aeafe0da483539945469",
+    "source_disposition_sha256": "e023c623da0448fb774ffa408108dc5d88fb27e32c3cdd302203851f67dee108",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Cinnamomum Camphora",
+    "authorship_candidate": "F. Nees et Eberm.",
+    "aliases_candidates": [
+      "Laurus Camphora L.",
+      "Camphora officinarum C. G. Nees (Bauhin)",
+      "Persea Camphora Spr."
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Cinnamomum Camphora",
+      "Cinnamomum camphora",
+      "Laurus camphora"
+    ],
+    "accepted_scientific_name": "Camphora officinarum",
+    "display_name_zh_tw": "樟樹",
+    "alternative_names_zh_tw": [
+      "樟",
+      "芳樟",
+      "臭樟"
+    ],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0040594",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol_book_alias"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary",
+    "rationale": "A scientific alias explicitly printed in the Köhler entry exactly matches a TaiCOL species with a Taiwan public name.",
+    "checked_at": "2026-08-13T18:25:59+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Cinnamomum Camphora",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Cinnamomum+Camphora",
+      "retrieved_at": "2026-08-13T18:25:58+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Cinnamomum",
+          "matched_name_id": 1016,
+          "taxon_id": "t0023491",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Cinnamomum",
+          "accepted_name_id": 1016,
+          "accepted_usage": [
+            {
+              "usage_id": 321414,
+              "reference_id": 735,
+              "reference_type": "Journal Article",
+              "publish_year": 2022,
+              "citation": "Yang, Z., Liu, B., Yang, Y. & Ferguson, D.K. (2022) Phylogeny and taxonomy of Cinnamomum (Lauraceae). <i>Ecology and Evolution</i> 12(10): e9378.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 318859,
+              "reference_id": 8073,
+              "reference_type": "Book",
+              "publish_year": 2017,
+              "citation": "Chung, S.-W. & Hsu, T.-C. (2017) Illustrated Flora of Taiwan = 台灣原生植物全圖鑑, 2 ed., vol. 1.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 272074,
+              "reference_id": 926,
+              "reference_type": "Book Chapter",
+              "publish_year": 1996,
+              "citation": "Liao, J.-C. (1996) 27. Lauraceae. In: Flora of Taiwan, 2 ed., vol. 2. 433–499.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 284021,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 6775,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": null
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0023491",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0023491",
+          "taxon": {
+            "taxon_id": "t0023491",
+            "taxon_status": "accepted",
+            "name_id": 1016,
+            "simple_name": "Cinnamomum",
+            "name_author": "Schaeff.",
+            "rank": "Genus",
+            "common_name_c": "樟屬",
+            "alternative_name_c": "肉桂屬",
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": null,
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2026-08-12"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Cinnamomum camphora",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Cinnamomum+camphora",
+      "retrieved_at": "2026-08-13T18:25:58+08:00",
+      "result_total": 3,
+      "name_match_results": [
+        {
+          "matched_name": "Cinnamomum camphora",
+          "matched_name_id": 55161,
+          "taxon_id": "t0040594",
+          "taicol_name_status": "not-accepted",
+          "accepted_name": "Camphora officinarum",
+          "accepted_name_id": 124420,
+          "accepted_usage": [
+            {
+              "usage_id": 183993,
+              "reference_id": 2482,
+              "reference_type": "Journal Article",
+              "publish_year": 2023,
+              "citation": "Chung, K.-F. & Hsieh, C.-L. (2023) Synopsis of Camphora (Cinnamomeae, Lauraceae) of Taiwan, with two new combinations and one new synonym. <i>Taiwania</i> 68(3): 384–390.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 321422,
+              "reference_id": 735,
+              "reference_type": "Journal Article",
+              "publish_year": 2022,
+              "citation": "Yang, Z., Liu, B., Yang, Y. & Ferguson, D.K. (2022) Phylogeny and taxonomy of Cinnamomum (Lauraceae). <i>Ecology and Evolution</i> 12(10): e9378.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 321371,
+              "reference_id": 10048,
+              "reference_type": "Book",
+              "publish_year": 1831,
+              "citation": "Wallich, N. (1831) Plantae Asiaticae Rariores, vol. 2(8).",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 102871,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0040594",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0040594",
+          "taxon": {
+            "taxon_id": "t0040594",
+            "taxon_status": "accepted",
+            "name_id": 124420,
+            "simple_name": "Camphora officinarum",
+            "name_author": "Nees ex Wall.",
+            "rank": "Species",
+            "common_name_c": "樟樹",
+            "alternative_name_c": "樟,芳樟,臭樟",
+            "synonyms": "Cinnamomum camphora, Cinnamomum camphora var. camphora, Cinnamomum camphora var. linaloolifera, Cinnamomum camphora var. glaucescens, Cinnamomum camphora var. glaucescens, Cinnamomum camphora, Laurus camphora, Cinnamomum camphora, Cinnamomum camphoroides, Cinnamomum camphora var. nominale subvar. hosyo, Cinnamomum camphora var. hosyo, Cinnamomum camphora var. glaucescens, Cinnamomum camphora var. lanata, Camphora camphora, Persea camphora, Camphora oldhamii, Camphora officinalis, Camphora officinarum var. glaucescens, Cinnamomum nominale var. lanatum, Cinnamomum camphora fo. linaloolifera",
+            "is_in_taiwan": true,
+            "alien_type": "native",
+            "alien_status_note": "native: Chung & Hsieh, 2023|native: Ed. Comm. Red List TW Plants, 2017|native: Chung & Hsu, 2017",
+            "not_official": false,
+            "updated_at": "2026-08-12"
+          },
+          "auto_promotion_blocked": {
+            "book_binomial": "Cinnamomum camphora",
+            "accepted_name": "Camphora officinarum",
+            "reason": "cross-genus synonym links require independent taxonomy review"
+          }
+        },
+        {
+          "matched_name": "Cinnamomum camphora",
+          "matched_name_id": 149371,
+          "taxon_id": "t0040594",
+          "taicol_name_status": "not-accepted",
+          "accepted_name": "Camphora officinarum",
+          "accepted_name_id": 124420,
+          "accepted_usage": [
+            {
+              "usage_id": 183993,
+              "reference_id": 2482,
+              "reference_type": "Journal Article",
+              "publish_year": 2023,
+              "citation": "Chung, K.-F. & Hsieh, C.-L. (2023) Synopsis of Camphora (Cinnamomeae, Lauraceae) of Taiwan, with two new combinations and one new synonym. <i>Taiwania</i> 68(3): 384–390.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 321422,
+              "reference_id": 735,
+              "reference_type": "Journal Article",
+              "publish_year": 2022,
+              "citation": "Yang, Z., Liu, B., Yang, Y. & Ferguson, D.K. (2022) Phylogeny and taxonomy of Cinnamomum (Lauraceae). <i>Ecology and Evolution</i> 12(10): e9378.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 321371,
+              "reference_id": 10048,
+              "reference_type": "Book",
+              "publish_year": 1831,
+              "citation": "Wallich, N. (1831) Plantae Asiaticae Rariores, vol. 2(8).",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 102871,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0040594",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0040594",
+          "taxon": {
+            "taxon_id": "t0040594",
+            "taxon_status": "accepted",
+            "name_id": 124420,
+            "simple_name": "Camphora officinarum",
+            "name_author": "Nees ex Wall.",
+            "rank": "Species",
+            "common_name_c": "樟樹",
+            "alternative_name_c": "樟,芳樟,臭樟",
+            "synonyms": "Cinnamomum camphora, Cinnamomum camphora var. camphora, Cinnamomum camphora var. linaloolifera, Cinnamomum camphora var. glaucescens, Cinnamomum camphora var. glaucescens, Cinnamomum camphora, Laurus camphora, Cinnamomum camphora, Cinnamomum camphoroides, Cinnamomum camphora var. nominale subvar. hosyo, Cinnamomum camphora var. hosyo, Cinnamomum camphora var. glaucescens, Cinnamomum camphora var. lanata, Camphora camphora, Persea camphora, Camphora oldhamii, Camphora officinalis, Camphora officinarum var. glaucescens, Cinnamomum nominale var. lanatum, Cinnamomum camphora fo. linaloolifera",
+            "is_in_taiwan": true,
+            "alien_type": "native",
+            "alien_status_note": "native: Chung & Hsieh, 2023|native: Ed. Comm. Red List TW Plants, 2017|native: Chung & Hsu, 2017",
+            "not_official": false,
+            "updated_at": "2026-08-12"
+          },
+          "auto_promotion_blocked": {
+            "book_binomial": "Cinnamomum camphora",
+            "accepted_name": "Camphora officinarum",
+            "reason": "cross-genus synonym links require independent taxonomy review"
+          }
+        },
+        {
+          "matched_name": "Cinnamomum camphora",
+          "matched_name_id": 149372,
+          "taxon_id": "t0040594",
+          "taicol_name_status": "not-accepted",
+          "accepted_name": "Camphora officinarum",
+          "accepted_name_id": 124420,
+          "accepted_usage": [
+            {
+              "usage_id": 183993,
+              "reference_id": 2482,
+              "reference_type": "Journal Article",
+              "publish_year": 2023,
+              "citation": "Chung, K.-F. & Hsieh, C.-L. (2023) Synopsis of Camphora (Cinnamomeae, Lauraceae) of Taiwan, with two new combinations and one new synonym. <i>Taiwania</i> 68(3): 384–390.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 321422,
+              "reference_id": 735,
+              "reference_type": "Journal Article",
+              "publish_year": 2022,
+              "citation": "Yang, Z., Liu, B., Yang, Y. & Ferguson, D.K. (2022) Phylogeny and taxonomy of Cinnamomum (Lauraceae). <i>Ecology and Evolution</i> 12(10): e9378.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 321371,
+              "reference_id": 10048,
+              "reference_type": "Book",
+              "publish_year": 1831,
+              "citation": "Wallich, N. (1831) Plantae Asiaticae Rariores, vol. 2(8).",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 102871,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0040594",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0040594",
+          "taxon": {
+            "taxon_id": "t0040594",
+            "taxon_status": "accepted",
+            "name_id": 124420,
+            "simple_name": "Camphora officinarum",
+            "name_author": "Nees ex Wall.",
+            "rank": "Species",
+            "common_name_c": "樟樹",
+            "alternative_name_c": "樟,芳樟,臭樟",
+            "synonyms": "Cinnamomum camphora, Cinnamomum camphora var. camphora, Cinnamomum camphora var. linaloolifera, Cinnamomum camphora var. glaucescens, Cinnamomum camphora var. glaucescens, Cinnamomum camphora, Laurus camphora, Cinnamomum camphora, Cinnamomum camphoroides, Cinnamomum camphora var. nominale subvar. hosyo, Cinnamomum camphora var. hosyo, Cinnamomum camphora var. glaucescens, Cinnamomum camphora var. lanata, Camphora camphora, Persea camphora, Camphora oldhamii, Camphora officinalis, Camphora officinarum var. glaucescens, Cinnamomum nominale var. lanatum, Cinnamomum camphora fo. linaloolifera",
+            "is_in_taiwan": true,
+            "alien_type": "native",
+            "alien_status_note": "native: Chung & Hsieh, 2023|native: Ed. Comm. Red List TW Plants, 2017|native: Chung & Hsu, 2017",
+            "not_official": false,
+            "updated_at": "2026-08-12"
+          },
+          "auto_promotion_blocked": {
+            "book_binomial": "Cinnamomum camphora",
+            "accepted_name": "Camphora officinarum",
+            "reason": "cross-genus synonym links require independent taxonomy review"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Laurus camphora",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Laurus+camphora",
+      "retrieved_at": "2026-08-13T18:25:59+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Laurus camphora",
+          "taxon_id": "t0040594",
+          "taicol_name_status": "not-accepted",
+          "accepted_name": "Camphora officinarum",
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0040594",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0040594",
+          "taxon": {
+            "taxon_status": "accepted",
+            "simple_name": "Camphora officinarum",
+            "name_author": "Nees ex Wall.",
+            "rank": "Species",
+            "common_name_c": "樟樹",
+            "alternative_name_c": "樟,芳樟,臭樟",
+            "synonyms": "Cinnamomum camphora, Cinnamomum camphora var. camphora, Cinnamomum camphora var. linaloolifera, Cinnamomum camphora var. glaucescens, Cinnamomum camphora var. glaucescens, Cinnamomum camphora, Laurus camphora, Cinnamomum camphora, Cinnamomum camphoroides, Cinnamomum camphora var. nominale subvar. hosyo, Cinnamomum camphora var. hosyo, Cinnamomum camphora var. glaucescens, Cinnamomum camphora var. lanata, Camphora camphora, Persea camphora, Camphora oldhamii, Camphora officinalis, Camphora officinarum var. glaucescens, Cinnamomum nominale var. lanatum, Cinnamomum camphora fo. linaloolifera",
+            "is_in_taiwan": true,
+            "alien_type": "native",
+            "alien_status_note": "native: Chung & Hsieh, 2023|native: Ed. Comm. Red List TW Plants, 2017|native: Chung & Hsu, 2017",
+            "not_official": false,
+            "updated_at": "2026-08-12"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "The Taiwan accepted name is linked through a scientific alias printed in Köhler; Köhler facts remain attached to the book taxon."
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0169-p0170",
+  "entry_id": "kohler-volume-1:p0169-p0170",
+  "owner_shard": "S02",
+  "book_taxon": {
+    "scientific_name": "Matricaria Chamomilla",
+    "authorship": "L.",
+    "aliases": [
+      "Chrysanthemum Chamomilla Bernh.",
+      "Chamomilla officinalis",
+      "Echte Kamille",
+      "Chamomile",
+      "Camomille commune ou d'Allmagne"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Matricaria Chamomilla",
+      "Matricaria chamomilla"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T15:51:23+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Matricaria+Chamomilla",
+        "query_name": "Matricaria Chamomilla",
+        "retrieved_at": "2026-08-13T15:51:20+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0024246",
+        "query_name": "Matricaria Chamomilla",
+        "retrieved_at": "2026-08-13T15:51:20+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0024246",
+        "query_name": "Matricaria Chamomilla",
+        "retrieved_at": "2026-08-13T15:51:20+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Matricaria+chamomilla",
+        "query_name": "Matricaria chamomilla",
+        "retrieved_at": "2026-08-13T15:51:20+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Chrysanthemum+chamomilla",
+        "query_name": "Chrysanthemum chamomilla",
+        "retrieved_at": "2026-08-13T15:51:20+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Chamomilla+officinalis",
+        "query_name": "Chamomilla officinalis",
+        "retrieved_at": "2026-08-13T15:51:20+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Echte+kamille",
+        "query_name": "Echte kamille",
+        "retrieved_at": "2026-08-13T15:51:20+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Camomille+commune",
+        "query_name": "Camomille commune",
+        "retrieved_at": "2026-08-13T15:51:20+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 169,
+      "evidence_type": "text",
+      "page_text_sha256": "9a46a2a35c402ecad1234d486395f98d70dab679b1cfc3daf92ca0ca9a0a59a4",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 170,
+      "evidence_type": "text",
+      "page_text_sha256": "b26c1570e343c4520cb886be0f26d73c221d9d65e1718744e1b8438565b3fe4d",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0169-p0170:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                     Matricaria Chamomilla L.\n      Syn. Matricaria                             Chrysanthemum Chamomilla Bernh.                 Chamomilla\n                                                 officinalis\n\n\n              Echte Kamille               Chamomile            Camomille commune ou d'Allmagne.\n\n          Familie: Compositae.            Grattung: Matricaria L.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Matricaria Chamomilla L.，同義名 Chrysanthemum Chamomilla。俗名 Echte Kamille。隸屬菊科 Matricaria 屬。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 169,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 86,
+        "char_end": 482,
+        "page_text_sha256": "9a46a2a35c402ecad1234d486395f98d70dab679b1cfc3daf92ca0ca9a0a59a4",
+        "exact_text_sha256": "0949e4247055851cdc9ccc696efc36c04e1d9eefedd453b18add9b6f66c10cc1",
+        "source_line_start": 6,
+        "source_line_end": 13,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "0949e4247055851cdc9ccc696efc36c04e1d9eefedd453b18add9b6f66c10cc1",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0169-p0170:s01:x00",
+      "section_type": "description",
+      "original_text": "           Beschreib ung.                                                                       Wurzel\n kahlen, astigen, aufrechten oder ausgebreiteten 15—20 Ctm.\n                                                                   hohen Stengel, dessen zerstreut stehende,\n kanle, sitzende, doppelt-fiedertheilige Blatter mit schmal-linealischen,\n                                                                            flachen, stachelspitzigen, entfernten\n Zipteln versehen sind.             n '\"  \"\"    T\"\"' 1  *\"  \"'       •\"  *\n                            Die endstandigen Bliithenkopfchen      mittelgross     ziemlich lang gestielt, erne\n                                                                                        ,\n\n doppelte, zusammengesetzte lockere Doldentraube bildend, mit\n                                ,\n                                                                        walzig-kegelformigem, 5 Mm. lin^m\n 1 L Mm. dickem, hohleni, nacktem, nach dem Abfallen der Fruchte feingrubigem Bliithenboden.\n                                                                                                            Httll-\n kelch ziegeldachformig mit langlichen, hautig gerandeten, stumpfen Bliittchen.\n                                                                                          Band- oder Strahlen-\n bluthen zu 12—18, nur weiblich, erst ausgebreitet, spater zuriickgeschlagen, weiss,\n                                                                                             mit unterstandigem,\n liachengem, lengem, aus dem Unterkelch gebildetem Fruclitknoten und fadenformigem Griffel,\n                                                                                                         der mit\n 2 hnealischen, zuruckgekrummten Narben gekront ist.         Die langlich - 3 zahnige, 4nervige Zunge langer\n als_ der Hiillkelch.   Rohre walzenrnnd, mit kleinen Oeldriisen bestreut. Scheibenblilthen zahlreich,\n zwitteng, gelb.    Blume trichterformig mit am Grunde bucbtiger, gestielt- driisiger Rohre und glocken-\n formigem, am Rande 5spaltigem Saume, dessen Zipfel nacb aussen gebogen sind.",
+      "normalized_text": null,
+      "zh_tw_rendering": "描述：莖高 15-20 公分，葉雙回羽狀分裂。頭狀花序頂生，總苞片覆瓦狀。舌狀花白色，管狀花黃色。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 169,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 483,
+        "char_end": 2619,
+        "page_text_sha256": "9a46a2a35c402ecad1234d486395f98d70dab679b1cfc3daf92ca0ca9a0a59a4",
+        "exact_text_sha256": "bf3ce4f64292ca02248d5a7a6803b2ffefa6088d79653a78dc3652e37b487ad6",
+        "source_line_start": 14,
+        "source_line_end": 37,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "bf3ce4f64292ca02248d5a7a6803b2ffefa6088d79653a78dc3652e37b487ad6",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0169-p0170:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "          Anatomisclies : Der Quersclmitt des diinnwandigen lockeren Gewebes welches die Hohlung des\n                                                                    ,               ,                     Bliitben-\n bodens umgiebt zeigt einen weitlaufigen Kreis von ca. 12 sehr ansehnlichen Raumen, die\n                                                                                        wahrscheinlich atherisches\n Oel enthalten (Fliickiger).",
+      "normalized_text": null,
+      "zh_tw_rendering": "解剖：花托周圍薄壁組織橫切面顯示約 12 個大空腔，據 Flückiger 推測含揮發油。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 169,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4053,
+        "char_end": 4501,
+        "page_text_sha256": "9a46a2a35c402ecad1234d486395f98d70dab679b1cfc3daf92ca0ca9a0a59a4",
+        "exact_text_sha256": "9a91105830bba1b66069ad64f92d4370e5521566a1bba84aeac6517f035d9022",
+        "source_line_start": 57,
+        "source_line_end": 61,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "9a91105830bba1b66069ad64f92d4370e5521566a1bba84aeac6517f035d9022",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0169-p0170:s03:x00",
+      "section_type": "distribution",
+      "original_text": "          Verbreitung                             We              namentlich auf Lehmboden durch Europa mit\nAusschluss des aussersten Nordens verbreitet.             Ausserdem in Vorderasien und Australien.\n          Bliithezeit.     Mai bis August.",
+      "normalized_text": null,
+      "zh_tw_rendering": "分佈：廣泛分佈於歐洲（除極北）、西亞及澳洲，尤喜黏土。花期 5 月至 8 月。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 169,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4543,
+        "char_end": 4792,
+        "page_text_sha256": "9a46a2a35c402ecad1234d486395f98d70dab679b1cfc3daf92ca0ca9a0a59a4",
+        "exact_text_sha256": "a814e2f260a2789e67e31e9e75b5f8e2e43275846b3db457ac208e523c153f73",
+        "source_line_start": 64,
+        "source_line_end": 66,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "a814e2f260a2789e67e31e9e75b5f8e2e43275846b3db457ac208e523c153f73",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0169-p0170:s04:x00",
+      "section_type": "constituents",
+      "original_text": "             Bestandtheile.                      enthalten 100 Theile trockner Kamillen: 7,4 braunen,\n                                      Nach Herberger\ndurch Bleisalz fallbaren Extraktivstoff, 5,9 Harz, 5 seifenartigen Extractivstoff, 6,3 Gummi, 2,9 Bitter-\nstoff und Gerbstoff, 2,2 apfelsauren Kalk und Kali mit Zucker und Eiweissstoff           1 phosphorsauren\n                                                                                                     ,\n\n\n\nKalk, 0,8 Wachs, 0,5 Fett, 0,9 dickliches, fliichtiges, blaufarbiges Oel, 0,4 Chlorophyll, 64,7 Faser-\nstoff etc. Durch Destination erhalt man aus den getrockneten Kamillenbluthen                     bis 0,45\"\\\n                                                                                           eines schon\ndunkelblauen Oeles, von stark aromatischem Geruch und Geschrnacke, welches bei 0° fest wird, ohne\nAbscheidung von Stearopten. Es ist von Piesse Aziden, von Gladstone Coeruletn benannt worden,\nbesitzt ein spez. Grew, von 0,92—0,94 und ist nach Kachler ein Gremisch von mehreren Verbindungen.",
+      "normalized_text": null,
+      "zh_tw_rendering": "成分：含揮發油（藍油）、樹脂、苦味質等。藍油經蒸餾可得，具強烈香氣，冷卻後凝固。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 170,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 358,
+        "char_end": 1435,
+        "page_text_sha256": "b26c1570e343c4520cb886be0f26d73c221d9d65e1718744e1b8438565b3fe4d",
+        "exact_text_sha256": "0628a002634eb3b2db73054f2b87fd6c8f229f2bbca828e5256377c31fed7dc7",
+        "source_line_start": 15,
+        "source_line_end": 28,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "0628a002634eb3b2db73054f2b87fd6c8f229f2bbca828e5256377c31fed7dc7",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0169-p0170:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "             Anwendung.  Als sehr beliebtes Hausmittel wird die Kamille in Theeform bei verschiedenen\nkrampfhaften Beschwerden, namentlich bei Cardialgie und Kolik, auch als Diaphoreticum bei Rheuma-\ntismus, Erkaltungskrankheiten Bronchialkatarrh acuter Diarrhoe etc. in Anwendung gebracht.\n                                          ,                   ,\n                                                                                                 Eine\nHauptverwendung findet die Kamille ausserlich als gelind reizendes Mittel zur Applikation auf Haut,\nSchleimhaute und Wunden. Das Kamillenol, welches die Reflexation herabsetzt, wird in Form von\nOelzucker gegen Asthma und Kolik, Magenkrampf und Keuchhusten, sowie gogen Intermittens ge-\nreicht.      (Husemann, Arzneimittell. 955.)",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：作為民間藥用，茶劑用於痙攣、腹痛及風濕；外用治皮膚與傷口。油劑用於哮喘與百日咳。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 170,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 2566,
+        "char_end": 3353,
+        "page_text_sha256": "b26c1570e343c4520cb886be0f26d73c221d9d65e1718744e1b8438565b3fe4d",
+        "exact_text_sha256": "af988f99a336d237941cb61f7c228db8ac90b35c8926330c90d344378d5b30eb",
+        "source_line_start": 43,
+        "source_line_end": 51,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "af988f99a336d237941cb61f7c228db8ac90b35c8926330c90d344378d5b30eb",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "9af56bf4a3642ea96e12775e04480b1cc27c52b1fbcd3e2b6c09f73cf004572d",
+    "maker_receipt_sha256": "d56e9c20286aad93814035d80c90b0a4e08f8957cd40f194688cc6599dbcde7d",
+    "validation_check_sha256": "d69c089a8681ce21a8041cb635106a409492497206a4a753e024be2764104496",
+    "source_disposition_sha256": "98218b3a807548dbaa7dcad4d8d8444539847b565d87f7fa67ae29d7c183c4ad",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "d56e9c20286aad93814035d80c90b0a4e08f8957cd40f194688cc6599dbcde7d",
+      "validation_check_sha256": "d69c089a8681ce21a8041cb635106a409492497206a4a753e024be2764104496",
+      "source_disposition_sha256": "98218b3a807548dbaa7dcad4d8d8444539847b565d87f7fa67ae29d7c183c4ad"
+    },
+    "naming_artifact_sha256": "c5e0390b21998aa2d025bbe0832ae8edc867e07c7161a3cad2b658e98dd2c16f"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "ea7d6aa084f456f9a5fc13376f6760d9b3b69af79f21b00b3de316be720f1c89"
+}

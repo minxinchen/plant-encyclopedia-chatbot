@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0199-p0204",
+  "owner_shard": "S03",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 172.595,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0199-p0204",
+    "book_taxon": {
+      "scientific_name_candidate": "Guajacum offiemale",
+      "authorship_candidate": "L.",
+      "aliases_candidates": [
+        "Pockholzbaum",
+        "Franzosenholzbaum",
+        "Guajakholzbaum",
+        "Gayac",
+        "Guajacum"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 199,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Guajacum offiemale L.，屬莢莢科。俗名 Pockholzbaum、Franzosenholzbaum。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          5
+        ],
+        "exact_source_quote": "                                          Guajacum                offiemale L.\n\n        Pockholzbaum,          Franzosenholzbaum,              Guajakholzbaum              —     Gayac 一           Guajacum.\n\n           Familie:       Zygophyllaceae;        Gattung: Guajacum L."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 199,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "常綠喬木，高至13米。葉對生，2-3回羽狀複葉。小葉橢圓形，全緣，長4厘米。",
+        "warnings": [],
+        "source_line_range": [
+          6,
+          12
+        ],
+        "exact_source_quote": "          Beschreibung. Immergrüner, bis 13 Meter hoher Baum, mit ausgebreiteter Krone, gabel-\ntheiligen, gegliederten, fast walzenrunden, kahlen, grünlich-grauen Aesten und sehr fein behaarten,\ngrünen, an den Knoten verdickten jüngeren Zweigen. Blätter gegenständig, kurz gestielt oder fast\nsitzend, 2- selten 3paarig gefiedert, mit halbstielrunder,                oberhalb     rinnenfórmiger,          fein behaarter,   später\nkahler Spindel. Blüttchen gegenständig, sitzend, eiförmig oder eiförmig-länglich, stumpf, ganzrandig,\nkahl, am Grunde ungleichseitig, undeutlich gewimpert, 4 Ctm. lang, 2!/, Ctm. breit, das oberste Paar\netwas grösser. Nebenblätter klein, lanzettlich, abfallend. Blüthen zu 6—10 (durch Fehlschlagen auch"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 199,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "老樹心材窄，幼樹寬。無年輪，有明暗層。木質部含樹脂，木射線單列。",
+        "warnings": [],
+        "source_line_range": [
+          37,
+          42
+        ],
+        "exact_source_quote": "        Anatomisches .    Der  Stam  mque rsch nitt   zeig t  bei    alte n   Stä  mme n   eine  kau m   2   Mom.   bei\njungen Stämmen eine ca. 2 Ctm. brei te Schi cht   von hell gelb lich em    Spli nte, welc her   vom   inne ren,  grün -\nlich-braunen     Kerne    scharf abgegrenzt ist.         Splint      und Holz     lassen       keine   echten Jahrringe       erkennen,\n\n\n                                                                                                                                     121"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 200,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "產於西印度群島（特立尼達、海地、古巴等）及南美洲北岸。",
+        "warnings": [],
+        "source_line_range": [
+          35,
+          36
+        ],
+        "exact_source_quote": "          Vorkommen.             Auf den westindischen Inseln: Trinidad, St. Vincent, St. Lucia, Martinique,\nSt. Domingo,      Haiti, Jamaica,    Cuba;    auch   auf der Nordküste          Südamerikas,"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 200,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "西印度名Guajac。歷史用於治療梅毒（Syphilis），16世紀歐洲盛行。",
+        "warnings": [
+          "Historical medical content described as historical"
+        ],
+        "source_line_range": [
+          40,
+          47
+        ],
+        "exact_source_quote": "          Name und Geschichtliches.       Guajac, Hujacum, Hoaxacan ist der westindische Name\nfür den Baum. Das Wort tritt nach Flückiger in verschiedenen Ortsbeze\n                                                                          ichnungen auf Porto Rico\nauf, so z. B. Guajama, Guanica, Gujaras. Franzosenholz bezieh\n                                                                   t sich auf die Anwendung gegen\nSyphilis, welche Krankheit von den Franzosen nach Deutschland gebr\n                                                                   acht worden sein soll. Pockholz\n(Pockenholz) von Pocken, Blattern, wegen der Färbung."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 202,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含樹脂、苦味物質、樹膠。樹脂含Guajaksäure、Guajakharzsäure、Guajakonsäure。",
+        "warnings": [],
+        "source_line_range": [
+          25,
+          33
+        ],
+        "exact_source_quote": "           Bestandtheile.           Nach Trommsdorf enthält die Rinde 2,3 ‫او‬‎ eigenthümliches, vom Harze des\nHolzes    verschiedenes      Hartharz,       bitter kratzenden         Stoff,    Gummi,          braunen     Farbstoff,    schleimigen     Ex-\ntraktivstoff,   oxalsauren Kalk;          das Holz         1%, des Rindenharzes,           26%,      Guajakharz.        Die Splintasche ist\nnach Flückiger           reich an Phosphorsäure;              letzter Autor erhielt vom Splinte 0,91 ‫اور‬‎ vom Kernholze\n0,60%,,     hingegen      von     der    Rinde      23%,    Aschenbestandtheile.            Nach         Buchner    enthält        das gemeine\nGuajakharz      80°, Harz,        16,5%,         Beimengungen        von   Holzresten,           1.5?|     in Wasser      lösliches     Gummi,\n2,0 ‫و‬۲‎ m Wasser        löslichen       Extraktivstoff        Nach    den neueren         Untersuchungen          von     Hadelich      enthält\ndas Guajakharz 4,0%, Guajaksäure,                        10,5\",      Guajakharzsäure,               70,5%,     Guajakonsáure,             9,8%,\nGuajak-Betaharz,        9,7 ‫الو‬‎ Gummi.          0,8%,   Aschenbestandtheile,        ausserdem           gelben Farbstoff und Unreinlich-"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "66f418999bcb55880304904f1bbbd864d0ee241fef47ee69f5ebf03adc461c47"
+}

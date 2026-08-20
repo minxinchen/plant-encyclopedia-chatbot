@@ -1,0 +1,252 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-3-p0095-p0098",
+  "entry_id": "kohler-volume-3:p0095-p0098",
+  "owner_shard": "S06",
+  "book_taxon": {
+    "scientific_name": "Willoughbya firma",
+    "authorship": "Blume",
+    "aliases": [
+      "Wilughbeia scandens Willd.",
+      "Tubernaemontana macrocarpa Korth.",
+      "Rangoon-Kautschukliane",
+      "Tandu-Tandu",
+      "Manungan",
+      "Getah gitan gedang"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Willoughbya firma"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T13:36:51+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Willoughbya+firma",
+        "query_name": "Willoughbya firma",
+        "retrieved_at": "2026-08-13T13:35:39+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Wilughbeia+scandens",
+        "query_name": "Wilughbeia scandens",
+        "retrieved_at": "2026-08-13T13:35:39+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Tubernaemontana+macrocarpa",
+        "query_name": "Tubernaemontana macrocarpa",
+        "retrieved_at": "2026-08-13T13:35:39+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Getah+gitan",
+        "query_name": "Getah gitan",
+        "retrieved_at": "2026-08-13T13:35:39+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL and Tai2 returned no exact Taiwan species record or public Chinese name. Kew POWO resolves the historical orthographic form Willoughbya/Willughbeia firma to the accepted Willughbeia coriacea, but Kew provides only non-Chinese vernaculars and no Taiwan government or academic source was found pairing this species with a Traditional Chinese public name. The accepted scientific mapping is therefore retained only as evidence; the Taiwan naming result remains unresolved rather than inventing a translation."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 95,
+      "evidence_type": "text",
+      "page_text_sha256": "c75dabffc6038be0bc73b62bfd79f0c198c16fa68b261bdae6f74dac09a01a9f",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 97,
+      "evidence_type": "text",
+      "page_text_sha256": "bd037baefc33ed9b100d647d9bfe84dffd9eb8c9b460d483d76b076d300ae5ea",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 96,
+      "evidence_type": "text",
+      "page_text_sha256": "b3eb3cd48de08aebc7a6034a46122eb848be093997b4962617b96407f5717aca",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-3:p0095-p0098:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                         Willoughbya                              firma            Blume,\n Rangoon-Kautschukliane,                        Tandu-Tandu             (malayisch), Manungan                  in Borneo,           Getah gitan\n                                                              gedang auf Sumatra.\n\n            Syn.         Wilughbeia            scandens       Willd.       Tubernaemontana           macrocarpa         Korth.       Herb.        (non\n Blume      aut Jacg.\n\n\n          Familie: Apocynaceae RBr. Unterfamilie: Plumieroideae. Section: Arduineae. Tribus:\n Landolphiinae K. Schum.     Gattung: Willoughbya Rxb. (Willughbeia Bl. Ancylocladus Wallich).",
+      "normalized_text": null,
+      "zh_tw_rendering": "夾竹桃科，學名Willoughbya firma Blume，異名Wilughbeia scandens。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 95,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 695,
+        "page_text_sha256": "c75dabffc6038be0bc73b62bfd79f0c198c16fa68b261bdae6f74dac09a01a9f",
+        "exact_text_sha256": "8640d7bb900d37da1744d05a41fed732581d3b41ef2a8fc3d307de7f09a3d16a",
+        "source_line_start": 1,
+        "source_line_end": 10,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "8640d7bb900d37da1744d05a41fed732581d3b41ef2a8fc3d307de7f09a3d16a",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0095-p0098:s01:x00",
+      "section_type": "description",
+      "original_text": "            Beschreibung.                Eine weithin kletternde,                 milchende         Liane      mit     braunen,        undeutlich\n vierkantigen, längsstreifigen, warzigen                         Zweigen.         Die blütentragenden            Sprosse         endigen     in eine\n bisweilen verkümmerte Terminalknospe,                               die von zwei seitlichen Blättern gestützt wird.                        Deshalb\n endigen      diese Zweige                oft plötzlich.            Die nicht blühenden Zweige                       dagegen laufen in eine\n lange Krallenranke                aus, an       der in ziemlich           weiter Entfernung           die krallenförmigen                Seitenäste\n entspringen.         Die Blätter          sind gegenständig in dekussierten Paaren,                           gestielt,    einfach, ungeteilt,\n ganzrandig, nach der Spitze der blühenden Zweige an Grösse zunehmend,                                                       nach     der Spitze\n der blühenden          Triebe          aber     allmählig       kleiner        werdend.        Grosse      Blätter     werden        bis    15     cm\n lang und      7 cm      breit und         breitlanzettlich,           stumpf und        laufen plötzlich in eine etwa 1 cm lange\n Träufelspitze        aus.     Sie sitzen             auf einem       1—1,5      cm    langen    Stiel, der mit kurzer              Scheide        den\n Stengel     umfasst.          Oberseits         sind die Blätter          dunkelgrün,          unterseits       heller,         bisweilen        wohl\n auch     rotbraun (Blume               1. c.), beiderseits          schwach      glänzend,        kahl, fest, härtlich           und am Rande\n etwas     wellig.      Die Mittelrippe                ist    oberseits    rinnenförmig,           unten    hervortretend.           Auf beiden\n Seiten     derselben        befinden          sich    14—16        abwechselnd        gestellte     Seitennerven,          die unter Winkeln\n von    65—70°     von       der        Mittelrippe          abgehen      und     sich in 2 Aeste           gabelnd,        mit     den      vorher-\n gehenden      und       den       folgenden           Seitennerven        sich       vereinigen.        Die    in der Blattsubstanz               fast",
+      "normalized_text": null,
+      "zh_tw_rendering": "攀爬乳汁藤本，枝條四稜。葉對生，長至15公分，深綠，具14-16條側脈。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 95,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 697,
+        "char_end": 3030,
+        "page_text_sha256": "c75dabffc6038be0bc73b62bfd79f0c198c16fa68b261bdae6f74dac09a01a9f",
+        "exact_text_sha256": "87d1bf7e7b21f81dbf250f017d38435b2dbab5e1f3e41fc5f13a210ed0689994",
+        "source_line_start": 12,
+        "source_line_end": 27,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "87d1bf7e7b21f81dbf250f017d38435b2dbab5e1f3e41fc5f13a210ed0689994",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0095-p0098:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "            Anatomie.        Chimani (l. eit.) fand die Milchröhren der Willoughbya javanica Bl. ebenfalls\n segmentiert;         sie verlaufen in der Mittelrinde des Internodiums, weniger in der Innenrinde\n und zeigen häufig eigentümlich verdickte Astrosklereiden.                                                  Die kurzen Milchschläuche                       sind\n in ihrem        Verlaufe      von        ungleicher           Weite     des Lumens.             (20—55            M.)     In    den Knoten            dagegen\n sind    sie schmaler         und         gleichförmiger.           Sie bestehen überall aus kurzen Gliedern mit oft wage-\n rechten Querwänden.                     Der        Inhalt    ist grobkörnig und            bräunlich gefärbt.                   Ich     selbst (V.) unter-\n suchte     die Milchgefässe                der       Wüloughbya firma Bl.                In der Mittelrinde                    zeigen    dieselben       eben-\n falls eine      dichte Astrosklereiden-Hülle.                         Im Mark        finden      sie sich nur vereinzelt, aber auch von\n stark verdickten            Zellen        umgeben.             Verästelungen             sind in den untersuchten Internodien                             nicht\n wahrzunehmen.               Die     segmentierten Schläuche                   stossen          mit    horizontalen              Enden      und        knochen-\n förmig     ausgestülpten            Wänden            aufeinander.          Ihre Weite           beträgt           15—30 u, ihr Querschnitt                  ist\n nicht     selten     elliptisch.          Der        Milchsaftfaden          in    den     Röhren           ist    häufig        unterbrochen.           Auch\n die     Markstrahlzellen                enthielten          bisweilen      Milchsaft.           Zur     Prüfung           diente        eigenes        Herbar-\n material in 3 mm                  dicken           Stücken.      Vergl.      übrigens           „Anatomie“               bei Landolphia              comorensis\n var, florida (Benth.) K. Schumann.",
+      "normalized_text": null,
+      "zh_tw_rendering": "乳汁管分節，位於中皮層，具星狀石細胞，直徑15-30微米，內容物粗顆粒。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 97,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 894,
+        "char_end": 2994,
+        "page_text_sha256": "bd037baefc33ed9b100d647d9bfe84dffd9eb8c9b460d483d76b076d300ae5ea",
+        "exact_text_sha256": "88232505e1e9ca5366f2a80e3b632d3218bf2cc147db642301d0627d6fbacfa0",
+        "source_line_start": 12,
+        "source_line_end": 26,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "88232505e1e9ca5366f2a80e3b632d3218bf2cc147db642301d0627d6fbacfa0",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0095-p0098:s03:x00",
+      "section_type": "distribution",
+      "original_text": "              Vorkommen:                Die Pflanze bewohnt die Bergwälder                                 Java’s;        auf Sumatra              findet man\nsie besonders              in    den Westdistrikten                 bei     Solok,       und      Sedjundjung;             im     Javanischen             Kultur-\n\ngebiete ist sie angebaut.",
+      "normalized_text": null,
+      "zh_tw_rendering": "產於爪哇山地森林，蘇門答臘西部Solok及Sedjundjung，爪哇亦有栽培。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 96,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 2898,
+        "char_end": 3244,
+        "page_text_sha256": "b3eb3cd48de08aebc7a6034a46122eb848be093997b4962617b96407f5717aca",
+        "exact_text_sha256": "0ea9da7b314ab9331d77b81348ca7c779f69de141aa609314afb37bc6bcf1d9a",
+        "source_line_start": 35,
+        "source_line_end": 38,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "0ea9da7b314ab9331d77b81348ca7c779f69de141aa609314afb37bc6bcf1d9a",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0095-p0098:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "             Produkte.             Die     Willoughbya-Arten                liefern       den     Rangoon-Kautschuk.                             Zu      diesem\n Zwecke       werden         von     den Malayen                die Stämme          in etwa           1 m     lange        Stücke        zerschnitten       und\n diese    mit dem          einen     Ende        ins Feuer        gelegt.     Durch die teilweise Erhitzung                            wird      der Ausfluss\n des Milchsaftes           befördert        und        die austretende Flüssigkeit                    in Krügen           oder Näpfen           aufgefangen.\n Zur     Schonung          der Pflanzen              werden      neuerdings         die Stämme              in Entfernungen               von     25-30      cm\n mit     tiefen Einschnitten             versehen            und der ausfliessende Saft in Gefässen                             aus Palmblättern           oder\n in Kokosschalen             gesammelt.                Der     Milchsaft     wird      durch      Nipasalz,              d.i. die Asche          der Blätter\n von Nipa fruticans (Palmae) zersetzt, der abgeschiedene Kautschuk in „balls“ oder „knuckles“\n (unregelmässige            Lappen)            geformt und          an     der Luft        getrocknet.              Frisch        ist dieser      Kautschuk\n weiss     oder fleischfarben;                 an     der Luft     dunkelt      er rasch         und        schliesst       eine grosse Menge Salz-\n lauge ein, sodass er beim Trocknen bis zu 20°/, an Gewicht verliert und beim Liegen feucht\n wird      und      sich    weich         und        schwammig           anfühlt.     —     Befreit         man      ihn aber          durch     Kochen      mit\n Wasser      von      diesem        Salzgehalt           und    trocknet      es in Form              dünner Blätter,             so ist der Kautschuk\n von sehr guter Beschaffenheit.                              Gleiches wird wahrscheinlich auch der Fall sein, wenn der\n Milchsaft       in dünner          Schicht          (auf Tellern        etc.) an      der. Luft         eingetrocknet              wird,       wie dies bei\n Urostigma elastica Miqg. geschieht.                           Schlechter      Saft giebt sich dabei                       durch         langsames        bezw.\n unvollkommenes              Eintrocknen                zu     erkennen.       Übrigens           s. Kautschuk              unter        Hevea     brasiliensis\n\n Müll. Arg.",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：馬來人採集乳汁製取Rangoon橡膠，以Nipa葉灰凝固，製成球狀乾燥。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 97,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 2996,
+        "char_end": 5518,
+        "page_text_sha256": "bd037baefc33ed9b100d647d9bfe84dffd9eb8c9b460d483d76b076d300ae5ea",
+        "exact_text_sha256": "1a6889478893867b842732212071d03eb38e59cb787a8bdbe2af34488ad83ad7",
+        "source_line_start": 28,
+        "source_line_end": 46,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "1a6889478893867b842732212071d03eb38e59cb787a8bdbe2af34488ad83ad7",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Do not translate Rangoon-Kautschukliane or the Malay vernaculars into a supposed Taiwan plant name; preserve Willughbeia coriacea in English/Latin when needed.",
+    "The external taxonomy evidence is metadata only and does not supply Köhler plant facts.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "c736805c215e1e5c9aac340222fe09439b9bc1bf4878bd8dc069673435051b30",
+    "maker_receipt_sha256": "206add25f4d56d3318e9fd25e72f88f6e14c90c101dcfa7223f0ae84ed4f2912",
+    "validation_check_sha256": "5294ffbb183bb1c40b410eef0ffa16bd2a5b23ad12980f03e4a2280631050307",
+    "source_disposition_sha256": "81dffe2b46a87a8aceb18512420fb520cecc20cef94c84a7e36bc853b383206c",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "206add25f4d56d3318e9fd25e72f88f6e14c90c101dcfa7223f0ae84ed4f2912",
+      "validation_check_sha256": "5294ffbb183bb1c40b410eef0ffa16bd2a5b23ad12980f03e4a2280631050307",
+      "source_disposition_sha256": "81dffe2b46a87a8aceb18512420fb520cecc20cef94c84a7e36bc853b383206c"
+    },
+    "naming_artifact_sha256": "00fd53c2c99e3de36fc260f2249f83c7e04e6e568f94a9c5b21445f90937d1da"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "1581ea14db20632d98929d45475c0219aa4d2f5f21175521f0152aa03852de0f"
+}

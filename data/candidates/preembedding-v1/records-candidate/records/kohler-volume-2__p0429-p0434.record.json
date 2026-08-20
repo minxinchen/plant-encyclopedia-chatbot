@@ -1,0 +1,296 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0429-p0434",
+  "entry_id": "kohler-volume-2:p0429-p0434",
+  "owner_shard": "S04",
+  "book_taxon": {
+    "scientific_name": "Acacia Senegal",
+    "authorship": "Willd.",
+    "aliases": [
+      "Mimosa n L.",
+      "Acacia Verek",
+      "Mimosa senegalensis",
+      "Acacia rupestris"
+    ]
+  },
+  "display_name": "阿拉伯膠樹",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Acacia Senegal",
+      "Acacia senegal"
+    ],
+    "accepted_scientific_name": "Acacia senegal",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T18:16:08+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Acacia+Senegal",
+        "query_name": "Acacia Senegal",
+        "retrieved_at": "2026-08-13T18:16:08+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0023075",
+        "query_name": "Acacia Senegal",
+        "retrieved_at": "2026-08-13T18:16:08+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0023075",
+        "query_name": "Acacia Senegal",
+        "retrieved_at": "2026-08-13T18:16:08+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Acacia+senegal",
+        "query_name": "Acacia senegal",
+        "retrieved_at": "2026-08-13T18:16:08+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0060781",
+        "query_name": "Acacia senegal",
+        "retrieved_at": "2026-08-13T18:16:08+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0060781",
+        "query_name": "Acacia senegal",
+        "retrieved_at": "2026-08-13T18:16:08+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL accepts the queried book binomial at species rank."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 429,
+      "evidence_type": "text",
+      "page_text_sha256": "605ffa2cbbd22203d4c5086e12dcee7349f479d15dc92647387ec404be8da16a",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 430,
+      "evidence_type": "text",
+      "page_text_sha256": "597a0a1024235090ca34c50b04b09dc86a819e25445cd7110a79b72c899e17d7",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 431,
+      "evidence_type": "text",
+      "page_text_sha256": "37c40f2d2007563dc42b781e791d843a32d852a8f0dbe99d89420fe0247bc697",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 432,
+      "evidence_type": "text",
+      "page_text_sha256": "028f908d503f9e8fdaab1c46e46577a0a1871344b392ce9ea8b5fb87295b19f4",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0429-p0434:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                       Acacia Senegal Willd.\n   Syn. Mimosa          n        L.    Acacia Verek Guill. et Perott.            Mimosa senegalensis Lami.\n                                               Acacia rupestris Stocks.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Acacia Senegal Willd.，異名包括 Mimosa n L.、Acacia Verek 及 Mimosa senegalensis。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 429,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 239,
+        "page_text_sha256": "605ffa2cbbd22203d4c5086e12dcee7349f479d15dc92647387ec404be8da16a",
+        "exact_text_sha256": "02f96fe94c41db456704fbdbe03c957162f46501ca0e561ea700a8f82ebab969",
+        "source_line_start": 1,
+        "source_line_end": 3,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "02f96fe94c41db456704fbdbe03c957162f46501ca0e561ea700a8f82ebab969",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0429-p0434:s01:x00",
+      "section_type": "description",
+      "original_text": "         Beschreibung. Acacia Senegal wird als derjenige Baum bezeichnet, der das meiste und\nreinste Gummi liefert. Es ist dies ein bis 6 Meter hoher, aufrechter Baum oder auch Strauch mit\nweissem,   sehr hartem Holze und gekrümmten,          schlanken,   runden Zweigen,   die an den Knoten,   denen die\nBlätter entspringen mit 3 (bisweilen auch 2) kurzen, glänzend schwarzen, hakigen Dornen besetzt sind,\nvon welchen einer unterhalb      des Blattstieles   steht, die beiden   anderen eine seitliche Stellung einnehmen.",
+      "normalized_text": null,
+      "zh_tw_rendering": "高至 6 公尺的直立樹或灌木，白硬木，枝條彎曲圓潤，節處具 3 枚黑色鉤狀刺。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 429,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 426,
+        "char_end": 947,
+        "page_text_sha256": "605ffa2cbbd22203d4c5086e12dcee7349f479d15dc92647387ec404be8da16a",
+        "exact_text_sha256": "6547e57a0da2814d8f010d3cb056d0a0c1207d8ba440ef95ba65ac273e201f27",
+        "source_line_start": 8,
+        "source_line_end": 12,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "6547e57a0da2814d8f010d3cb056d0a0c1207d8ba440ef95ba65ac273e201f27",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0429-p0434:s02:x00",
+      "section_type": "distribution",
+      "original_text": "            Vorkommen,        A. Senegal ist im östlichen und westlichen Afrika zwischen dem 10. und 20.0\n  n. Br. einheimisch und wahrscheinlich auch in Innerafrika. Im östlichen Afrika häufig auftretend im Strom-\n. gebiete des Weissen Nil und des Atbara, namentlich aber in Kordofan und hier mit dem arabisch\n                                                                                                          en\n  Namen Haschab bezeichnet.        Noch häufiger ist das Auftreten der Gummiacacie, und hier mit Verek\n  benannt, in Senegambien, woselbst sie sehr ausgedehnte Bestände bildet. F lückiger äussert",
+      "normalized_text": null,
+      "zh_tw_rendering": "產於東西非北緯 10-20 度間，東非尼羅河流域稱 Haschab，西非塞內加姆比亞稱 Verek。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 430,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3593,
+        "char_end": 4208,
+        "page_text_sha256": "597a0a1024235090ca34c50b04b09dc86a819e25445cd7110a79b72c899e17d7",
+        "exact_text_sha256": "af776758601cc0d9f01137712891d0e775652c71f09f23628039e2b90395549e",
+        "source_line_start": 43,
+        "source_line_end": 48,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "af776758601cc0d9f01137712891d0e775652c71f09f23628039e2b90395549e",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0429-p0434:s03:x00",
+      "section_type": "history",
+      "original_text": "            Name und Geschichtliches. Ueber Acacia und Mimosa siehe den Artikel Acacia Catechu\n-Taf. 116. Gummi (althochd. czar, arabisches Gummi = czar von arabien, in späteren Zeiten Gumme\n‚von Arabien, Senegalgummi) von dem arabischen kami, griechischen xöunı, römischen cummi,\n  cummis (commis), nach späterer Schreibart gummis, worunter man einen ausfliessenden Pflanzensaft\n  verstand,                                                                                E\n    -   . Bebon die ägyptischen Denkmäler, welche 1700 Jahre vor Christi Geburt geschaffen wurden,",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源於阿拉伯語 kami，古埃及文獻已記載，羅馬時期稱 Gummi acanthinum。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 431,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 571,
+        "page_text_sha256": "37c40f2d2007563dc42b781e791d843a32d852a8f0dbe99d89420fe0247bc697",
+        "exact_text_sha256": "6602180ba371c3510717c6b42e9557721a58827d1d0300d611925dc76b0409a3",
+        "source_line_start": 1,
+        "source_line_end": 6,
+        "section_index": 3,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "6602180ba371c3510717c6b42e9557721a58827d1d0300d611925dc76b0409a3",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0429-p0434:s04:x00",
+      "section_type": "harvest",
+      "original_text": " flusst wird. Louvet und Pergolotte berichten über die Ernte folgendes: Der volle Saftreichthum\n tritt während der von Juli bis September andauernden Regenzeit ein. Im Dezember und Januar wehen\n von der Küste her die heissen Ostwinde (Mbohio oder Harmattan), welche die Rinde austrocknen und\n aufreissen.     Je anhaltender     und stärker dieser Ostwind             weht,    um    so reichlicher ist das Austreten   des\n Gummi; am reichlichsten ist der Ausfluss jedoch während oder unmittelbar nach der Blüthezeit,\n namentlich zwischen Mitte März und Mitte April, also kurz vor Eintritt der Blätter. Nach Guillemin",
+      "normalized_text": null,
+      "zh_tw_rendering": "雨季後東風吹乾樹皮致其破裂，膠液流出，主要於 3-4 月開花前後採集。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 431,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3869,
+        "char_end": 4484,
+        "page_text_sha256": "37c40f2d2007563dc42b781e791d843a32d852a8f0dbe99d89420fe0247bc697",
+        "exact_text_sha256": "32bdd51caf7652b7785f3126ee4c79fbf486ad2365e63ad83bc9cfd2d8ec101c",
+        "source_line_start": 41,
+        "source_line_end": 46,
+        "section_index": 4,
+        "section_type": "harvest"
+      },
+      "exact_text_sha256": "32bdd51caf7652b7785f3126ee4c79fbf486ad2365e63ad83bc9cfd2d8ec101c",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0429-p0434:s05:x00",
+      "section_type": "constituents",
+      "original_text": "|             Bestandtheile.      Nach Neubauer ist das Gummi als das saure Kali-, Kalk- und Magnesia-\n    salz der Arabinsäure    zu betrachten und entspricht im lufttrockenen Zustande der Formel C.2H320,1\n    + 3 0H; es beansprucht 13,6%, Wasser, welches es bei 100° verlierend, sehr rasch wieder anzieht.",
+      "normalized_text": null,
+      "zh_tw_rendering": "成分為阿拉伯酸的鉀、鈣、鎂鹽，對應化學式 C2H32O11 + 3 H2O。",
+      "evidence_indexes": [
+        3
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 432,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 4218,
+        "char_end": 4525,
+        "page_text_sha256": "028f908d503f9e8fdaab1c46e46577a0a1871344b392ce9ea8b5fb87295b19f4",
+        "exact_text_sha256": "75e419c6df2e3a99cbeb72ad8fca043d26ff5f10f24de0c0ab2d4067868cff9f",
+        "source_line_start": 44,
+        "source_line_end": 46,
+        "section_index": 5,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "75e419c6df2e3a99cbeb72ad8fca043d26ff5f10f24de0c0ab2d4067868cff9f",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "9d5eba13cc4352210f8b998663cdc486b1078c423c939033e51662c472eb9e2e",
+    "maker_receipt_sha256": "9f857d038b49797ad2144b484a6fa2675b6b33cf0cf13cee49da762431d52dd1",
+    "validation_check_sha256": "bac28235dd484c7606554128cc3a6e2b8c3b19fef140d7d9d723a6c2178299b3",
+    "source_disposition_sha256": "5233ab39a32621e55561571a92b51262a0f5b21bb713c3bcd7579ec22c90533c",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "9f857d038b49797ad2144b484a6fa2675b6b33cf0cf13cee49da762431d52dd1",
+      "validation_check_sha256": "bac28235dd484c7606554128cc3a6e2b8c3b19fef140d7d9d723a6c2178299b3",
+      "source_disposition_sha256": "5233ab39a32621e55561571a92b51262a0f5b21bb713c3bcd7579ec22c90533c"
+    },
+    "naming_artifact_sha256": "2060a09c2ada288568e650ba3f5d2eeb9e90f5a08b9afa9be175a10848ee87a5"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "55864f2d81d1adfa6f05ef2ada1ed22e3c9d8aa5fce8cb5c4b0309cb63c13ba4"
+}

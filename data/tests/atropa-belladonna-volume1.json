@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0",
+  "run_id": "production1-atropa-belladonna-profile-check-2026-08-12",
+  "batch_id": "kohler-v1-p35-p36-atropa-belladonna",
+  "source_id": "kohler-volume-1",
+  "source_filename": "書第一集 mobot31753002839139.pdf",
+  "volume": 1,
+  "record_id": "atropa-belladonna",
+  "scientific_name": "Atropa belladonna L.",
+  "display_name": "顛茄",
+  "pdf_pages": [35, 36],
+  "source_ranges": [
+    {
+      "pdf_page": 35,
+      "start_marker": "Atropa Belladonna L.",
+      "reason": "Remove only the blank page prefix; the visually reviewed page belongs entirely to Atropa belladonna."
+    },
+    {
+      "pdf_page": 36,
+      "end_marker": "Tafelbesehreibung",
+      "reason": "Keep the continuous text entry through bibliography and exclude the caption from text retrieval; the caption remains separately traceable in the plant record."
+    }
+  ],
+  "promotion_scope": "Atropa belladonna PDF pages 35-36 reviewed text only; no plate image, next-taxon or full-volume expansion",
+  "token_unit_contract": "Provider-neutral regex units: Unicode word sequences or individual non-whitespace punctuation. These are deterministic portable chunk units, not a claim about Gemini's private tokenizer.",
+  "profiles": [
+    {"profile_id": "page-baseline", "target_token_units": null, "overlap_token_units": null},
+    {"profile_id": "section-aware-512-100-v1", "target_token_units": 512, "overlap_token_units": 100}
+  ],
+  "queries": [
+    {
+      "query_id": "atropa-atropin-zh-tw",
+      "question": "書中對顛茄的 Atropin（顛茄鹼）成分有什麼記載？",
+      "expected_status": "answerable",
+      "required_book_terms": ["Atropin"],
+      "expected_pdf_pages": [36]
+    },
+    {
+      "query_id": "atropa-atropin-en",
+      "question": "What does the book record about atropine among the constituents of Atropa belladonna?",
+      "expected_status": "answerable",
+      "required_book_terms": ["Atropin"],
+      "expected_pdf_pages": [36]
+    },
+    {
+      "query_id": "atropa-distribution-zh-tw",
+      "question": "本書如何記載顛茄的分布？",
+      "expected_status": "answerable",
+      "required_book_terms": ["West- und Mittelasien"],
+      "expected_pdf_pages": [35]
+    },
+    {
+      "query_id": "atropa-ambiguous-belladonna-zh-tw",
+      "question": "Belladonna 在這裡指植物、製劑，還是其他同名物？",
+      "expected_status": "ambiguous",
+      "required_book_terms": ["Belladonna refers only to one modern product category"],
+      "expected_pdf_pages": []
+    },
+    {
+      "query_id": "atropa-wrong-name-refusal-zh-tw",
+      "question": "這兩頁是否把 Atropin 的來源植物寫成 Datura Stramonium？",
+      "expected_status": "wrong_name",
+      "required_book_terms": ["Datura Stramonium"],
+      "expected_pdf_pages": []
+    },
+    {
+      "query_id": "atropa-chromosome-refusal-zh-tw",
+      "question": "這兩頁記載顛茄的染色體數是多少？",
+      "expected_status": "unanswerable",
+      "required_book_terms": ["Chromosom", "chromosome number"],
+      "expected_pdf_pages": []
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 519,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "083937ba11f48a36305baf8a0bce5650ab504452bd35784fa9316a6c8a8b21e5",
+  "render_dpi": 144,
+  "render_sha256": "381f6fab3f24d40e727b3774f963527117698e16949ba1ee894aba12a378e6a7",
+  "input_sha256": "381f6fab3f24d40e727b3774f963527117698e16949ba1ee894aba12a378e6a7",
+  "render_pixel_width": 6098,
+  "render_pixel_height": 8186,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.679,
+  "embedded_character_count": 135,
+  "ocr_character_count": 48,
+  "ocr_alpha_ratio": 0.625,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.024459386628771673,
+      "text": "Compositae.",
+      "width": 0.11349645784786944,
+      "x": 0.7951036226898544,
+      "y": 0.9310842598807193
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "B",
+      "width": 0.011695906261946998,
+      "x": 0.4230019493056737,
+      "y": 0.33139534914040913
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "14",
+      "width": 0.017543858757984143,
+      "x": 0.8265107218393315,
+      "y": 0.16424418618519343
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01315637713386908,
+      "text": "HM . . Sou",
+      "width": 0.06822611964971181,
+      "x": 0.8576998063544813,
+      "y": 0.13219246016304287
+    },
+    {
+      "confidence": 1,
+      "height": 0.01889534791310621,
+      "text": "Inula Helenium I.",
+      "width": 0.1949317617200504,
+      "x": 0.4113060514011833,
+      "y": 0.11627907017498751
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "90",
+      "width": 0.015594542105886733,
+      "x": 0.8947368419100196,
+      "y": 0.029069767604766983
+    }
+  ],
+  "text": "Compositae.\nB\n14\nHM . . Sou\nInula Helenium I.\n90",
+  "output_sha256": "745bf8b4dd15c42fd1479038497983aac93722293ef1dbb5ad5b3b0b166cbc57",
+  "receipt_sha256": "3c7eeb424d49ecb6ae2a5dbb896502a53560194b1e8276676be52b3097891f71"
+}

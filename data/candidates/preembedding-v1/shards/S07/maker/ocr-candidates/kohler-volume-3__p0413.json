@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 413,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "ce433f86ff3d95edd54286c19e9f84671b23e77eafea40df8fd03fe52de83a3a",
+  "render_dpi": 144,
+  "render_sha256": "a3c524177058c54a7b335b79a166c538f9a0b591fcd38af660343f0942f372ed",
+  "input_sha256": "a3c524177058c54a7b335b79a166c538f9a0b591fcd38af660343f0942f372ed",
+  "render_pixel_width": 5450,
+  "render_pixel_height": 8126,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.499,
+  "embedded_character_count": 93,
+  "ocr_character_count": 67,
+  "ocr_alpha_ratio": 0.6567,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.019072065277705108,
+      "text": "Sterculiaceae",
+      "width": 0.13425435399162688,
+      "x": 0.7597126485458666,
+      "y": 0.9490395489471599
+    },
+    {
+      "confidence": 1,
+      "height": 0.019328768291170584,
+      "text": "(Sterculieae)",
+      "width": 0.11487604175093613,
+      "x": 0.7683195539930915,
+      "y": 0.9256553831106799
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883082859107,
+      "text": "000000",
+      "width": 0.08008657827885192,
+      "x": 0.07792207782485978,
+      "y": 0.45494186074781473
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883082859107,
+      "text": "2",
+      "width": 0.019480519040801836,
+      "x": 0.8961038965672613,
+      "y": 0.3968023259731054
+    },
+    {
+      "confidence": 1,
+      "height": 0.01895879469220607,
+      "text": "Cola acuminata R.Br.",
+      "width": 0.20779220310188606,
+      "x": 0.3939393980161565,
+      "y": 0.0493551583220021
+    },
+    {
+      "confidence": 1,
+      "height": 0.020435354066273503,
+      "text": "Taf. A",
+      "width": 0.056277055006760834,
+      "x": 0.46969697059185767,
+      "y": 0.0275297620642454
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "19",
+      "width": 0.01515151480951249,
+      "x": 0.91341991377129,
+      "y": 0.010174418745334202
+    }
+  ],
+  "text": "Sterculiaceae\n(Sterculieae)\n000000\n2\nCola acuminata R.Br.\nTaf. A\n19",
+  "output_sha256": "27c77d78cce92183aeca49eb37370d741e1fe6e7da21cb5cfeefbc86480323bc",
+  "receipt_sha256": "08ac60181cc6913b1435b3faca6e34ef87dca5e5a58d74c5e9bd42d0e9d3ca3b"
+}

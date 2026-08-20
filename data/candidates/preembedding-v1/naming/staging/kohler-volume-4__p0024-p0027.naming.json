@@ -1,0 +1,206 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-4:p0024-p0027",
+  "owner_shard": "S08",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S08/maker/structure-drafts/kohler-volume-4__p0024-p0027.json",
+  "source_draft_sha256": "5434ee10dd056aac39ad71ea9368fa6c4f208dcb466f3c1e7c3882f9b4898d4d",
+  "eligibility": {
+    "deterministic_status": "pass",
+    "checked_field": "deterministic_status",
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "ce7dc93f580562036de5d82373d93171b80c9119c1268732e18f6bdae1602bb1",
+    "validation_check_sha256": "0b539b5657cba18ceafed1e655b211b23f007499d4c96380a4ecdb78b6d14b0d",
+    "source_disposition_sha256": "10e186db0c91f07769fde430073387d041df23493761d722ad42b314321e33cb",
+    "review_status": "machine_extracted"
+  },
+  "book_name": {
+    "scientific_name_candidate": "Lactaria torminosa",
+    "authorship_candidate": "(Schaff.) Schrot.",
+    "aliases_candidates": [
+      "Agaricus torminosus Schaff.",
+      "Lactarius torminosus Fr.",
+      "O otorrheas torminosus Schaff.",
+      "Giftreizker",
+      "Birkenreizker",
+      "Woolly Milk Mushroom"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Lactaria torminosa",
+      "Agaricus torminosus"
+    ],
+    "accepted_scientific_name": "Lactarius torminosus",
+    "display_name_zh_tw": "絨毛乳菇",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0041331",
+    "rationale": "A scientific alias explicitly printed in the Köhler entry exactly matches a TaiCOL species with a Taiwan public name.",
+    "checked_at": "2026-08-13T12:55:42+08:00",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol_book_alias"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Lactaria torminosa",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Lactaria+torminosa",
+      "retrieved_at": "2026-08-13T12:28:09+08:00",
+      "result_total": 2,
+      "name_match_results": [
+        {
+          "matched_name": "Lactarius torminosus",
+          "matched_name_id": 48407,
+          "taxon_id": "t0041331",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Lactarius torminosus",
+          "accepted_name_id": 48407,
+          "accepted_usage": [
+            {
+              "usage_id": 115528,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 82537,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0041331",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0041331",
+          "taxon": {
+            "taxon_id": "t0041331",
+            "taxon_status": "accepted",
+            "name_id": 48407,
+            "simple_name": "Lactarius torminosus",
+            "name_author": "(Schaeff.:Fr.) S.F. Gray",
+            "rank": "Species",
+            "common_name_c": "絨毛乳菇",
+            "alternative_name_c": null,
+            "synonyms": "Agaricus lactifluus var. torminosus,Agaricus torminosus,Galorrheus torminosus,Lactarius torminosus fo. torminosus,Lactarius torminosus var. sublateritius,Lactifluus torminosus",
+            "is_in_taiwan": true,
+            "alien_type": "native",
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2026-02-04"
+          }
+        },
+        {
+          "matched_name": "Lactarius torminosus fo. torminosus",
+          "matched_name_id": 240769,
+          "taxon_id": "t0041331",
+          "taicol_name_status": "not-accepted",
+          "accepted_name": "Lactarius torminosus",
+          "accepted_name_id": 48407,
+          "accepted_usage": [
+            {
+              "usage_id": 115528,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 82537,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0041331",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0041331",
+          "taxon": {
+            "taxon_id": "t0041331",
+            "taxon_status": "accepted",
+            "name_id": 48407,
+            "simple_name": "Lactarius torminosus",
+            "name_author": "(Schaeff.:Fr.) S.F. Gray",
+            "rank": "Species",
+            "common_name_c": "絨毛乳菇",
+            "alternative_name_c": null,
+            "synonyms": "Agaricus lactifluus var. torminosus,Agaricus torminosus,Galorrheus torminosus,Lactarius torminosus fo. torminosus,Lactarius torminosus var. sublateritius,Lactifluus torminosus",
+            "is_in_taiwan": true,
+            "alien_type": "native",
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2026-02-04"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Lactaria torminosa",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Lactaria%20torminosa",
+      "retrieved_at": "2026-08-13T12:32:10+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Agaricus torminosus",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Agaricus+torminosus",
+      "retrieved_at": "2026-08-13T12:55:42+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Agaricus torminosus",
+          "taxon_id": "t0041331",
+          "taicol_name_status": "not-accepted",
+          "accepted_name": "Lactarius torminosus",
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0041331",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0041331",
+          "taxon": {
+            "taxon_status": "accepted",
+            "simple_name": "Lactarius torminosus",
+            "name_author": "(Schaeff.:Fr.) S.F. Gray",
+            "rank": "Species",
+            "common_name_c": "絨毛乳菇",
+            "alternative_name_c": null,
+            "synonyms": "Agaricus lactifluus var. torminosus,Agaricus torminosus,Galorrheus torminosus,Lactarius torminosus fo. torminosus,Lactarius torminosus var. sublateritius,Lactifluus torminosus",
+            "is_in_taiwan": true,
+            "alien_type": "native",
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2026-02-04"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "The Taiwan accepted name is linked through a scientific alias printed in Köhler; Köhler facts remain attached to the book taxon."
+  ]
+}

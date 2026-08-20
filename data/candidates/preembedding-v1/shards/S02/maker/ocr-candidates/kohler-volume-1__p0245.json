@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 245,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "542b13a84b0e5626522f16cd368281766ff2c947e142a950e48f5fa4ddeeea7d",
+  "render_dpi": 144,
+  "render_sha256": "d997ef657b1a8a7bbb48090bdb940bdd78ce9671d56badff9b194985f571548e",
+  "input_sha256": "d997ef657b1a8a7bbb48090bdb940bdd78ce9671d56badff9b194985f571548e",
+  "render_pixel_width": 5762,
+  "render_pixel_height": 7646,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.812,
+  "embedded_character_count": 48,
+  "ocr_character_count": 35,
+  "ocr_alpha_ratio": 0.8286,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.02325581368945895,
+      "text": "Compositae.",
+      "width": 0.09826589885510895,
+      "x": 0.07321772592890025,
+      "y": 0.922965116352945
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883082859107,
+      "text": "WM.",
+      "width": 0.026974951593499497,
+      "x": 0.9094412334518052,
+      "y": 0.11918604691371992
+    },
+    {
+      "confidence": 1,
+      "height": 0.028500261760893375,
+      "text": "Tussilago Farfara L",
+      "width": 0.16595876593338815,
+      "x": 0.4141304419657737,
+      "y": 0.06787196214849689
+    }
+  ],
+  "text": "Compositae.\nWM.\nTussilago Farfara L",
+  "output_sha256": "23a351063d6d69db73af34e9251614c670d122804f32bcd52dc29d1aa1ff46c0",
+  "receipt_sha256": "68a227254428238be2fbe55441f1ca64d17740a14b71273717e5214dc550f40f"
+}

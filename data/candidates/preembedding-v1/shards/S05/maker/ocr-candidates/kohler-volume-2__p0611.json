@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 611,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "62270b5c10de40a12ef3ec3f9b27fbcc011b5e089a6a836eb9d9becdc3c02fa2",
+  "render_dpi": 144,
+  "render_sha256": "93067b0256fd4667f24a8eb66242dde6fd89271247e8c2f9743bb9dcd714bdd5",
+  "input_sha256": "93067b0256fd4667f24a8eb66242dde6fd89271247e8c2f9743bb9dcd714bdd5",
+  "render_pixel_width": 5642,
+  "render_pixel_height": 7766,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.18,
+  "embedded_character_count": 96,
+  "ocr_character_count": 40,
+  "ocr_alpha_ratio": 0.875,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.022050166886950273,
+      "text": "beguminosae.",
+      "width": 0.13807375129986144,
+      "x": 0.8039631226250128,
+      "y": 0.918480730525083
+    },
+    {
+      "confidence": 1,
+      "height": 0.026289682539682557,
+      "text": "Pterocarpus Marsubium Roxb.",
+      "width": 0.3459999891678221,
+      "x": 0.33400000823608894,
+      "y": 0.09300595266458267
+    }
+  ],
+  "text": "beguminosae.\nPterocarpus Marsubium Roxb.",
+  "output_sha256": "13f8d8f91eb214ba19a1d87f89461b9c870fa4fbb4bbb76e6502ea655c79443c",
+  "receipt_sha256": "d8280d50d3c1342dfe405ba7fbcdf93bb94b27a45c846b1b886a72aa0645ec6e"
+}

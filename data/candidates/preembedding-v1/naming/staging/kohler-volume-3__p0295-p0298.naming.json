@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-3:p0295-p0298",
+  "owner_shard": "S07",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S07/maker/structure-drafts/kohler-volume-3__p0295-p0298.json",
+  "source_draft_sha256": "fc4cacef395882e1641119e3acb66d5fbf69f026822eeb4f07a037e386a33a47",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "09d912054c2efa1147dbbfccfa6d578c1d341e68068aca3cba6c32452b029461",
+    "validation_check_sha256": "c63269831f0a8f8b7c7047c9265eab8ee1e60d1524dbd1dc3bcfcd3e488b3ef3",
+    "source_disposition_sha256": "3b2abe05b73ef47375c39c432016c6185d00dbd1e5f4aee69df62a45120a1e74",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Ilex paraguariensis",
+    "authorship_candidate": "St. Hil.",
+    "aliases_candidates": [
+      "I. Mate St. Hil.",
+      "I. theaezans Bonpl.",
+      "I. curitibensis Miers.",
+      "I. Bonplandiand Münster.",
+      "I. domestica Reiss.",
+      "I. sorbilis Reiss.",
+      "I. vestita Reiss."
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Ilex paraguariensis"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_zh_tw": null,
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_checked",
+    "taxon_id": null,
+    "display_name_source_scope": "unresolved",
+    "display_name_source_evidence_ids": [],
+    "display_name_is_taiwan_public": false,
+    "display_name_answer_policy": "scientific_name_only",
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping.",
+    "checked_at": "2026-08-13T15:47:46+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Ilex paraguariensis",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Ilex+paraguariensis",
+      "retrieved_at": "2026-08-13T15:47:44+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Ilex paraguariensis",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Ilex%20paraguariensis",
+      "retrieved_at": "2026-08-13T15:47:46+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears."
+  ]
+}

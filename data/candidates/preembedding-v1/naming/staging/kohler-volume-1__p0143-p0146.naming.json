@@ -1,0 +1,152 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-1:p0143-p0146",
+  "owner_shard": "S02",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S02/maker/structure-drafts/kohler-volume-1__p0143-p0146.json",
+  "source_draft_sha256": "0874893aa2f9426362e8bae66e90bd071b400ba2d809e099a941c8ae281b0bcf",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "4b8f2b7ef3bd7a8b490888befaf3741f08b127b23e7df2ebec97e6444b3e65bc",
+    "validation_check_sha256": "a5cb0c5c26c9bf3a37445a537fbc83516c55027671f16c83d5ffb2d9e6bec842",
+    "source_disposition_sha256": "19b5aa49289b717ff8c38ff3c4bf797cd91d9bd0961b7d308cc4b1bc68c210fc",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Juniperus communis",
+    "authorship_candidate": null,
+    "aliases_candidates": [
+      "Gemeiner Wachholder",
+      "Genevrier commun",
+      "Juniper"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Juniperus communis"
+    ],
+    "accepted_scientific_name": "Juniperus communis",
+    "display_name_zh_tw": "歐洲刺柏",
+    "alternative_names_zh_tw": [
+      "洋杜松",
+      "杜松",
+      "瓔珞柏"
+    ],
+    "taiwan_occurrence_status": "recorded_introduced",
+    "taxon_id": null,
+    "authority_record_id": "tfda-cosmetic-standard-juniperus-communis",
+    "rationale": "TaiCOL and Tai2 had no exact species record. Taiwan FDA's Cosmetic Ingredient Standards explicitly pair Juniperus communis L. with 歐洲刺柏, which is used as the primary Taiwan government name. National Taiwan University public plant resources independently pair the species with 洋杜松 and with 杜松／瓔珞柏, and identify it as introduced.",
+    "checked_at": "2026-08-13T13:14:30+08:00",
+    "display_name_source_scope": "taiwan_government_public",
+    "display_name_source_evidence_ids": [
+      "taiwan_fda"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Juniperus communis",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Juniperus+communis",
+      "retrieved_at": "2026-08-13T13:13:21+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Gemeiner wachholder",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Gemeiner+wachholder",
+      "retrieved_at": "2026-08-13T13:13:21+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Genevrier commun",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Genevrier+commun",
+      "retrieved_at": "2026-08-13T13:13:21+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Juniperus communis",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Juniperus%20communis",
+      "retrieved_at": "2026-08-13T13:13:24+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taiwan_fda",
+      "authority": "衛生福利部食品藥物管理署《化粧品原料基準（106年版）》",
+      "query_name": "Juniperus communis",
+      "record_url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f636694227187281290",
+      "retrieved_at": "2026-08-13T13:14:30+08:00",
+      "exact_name_pair": {
+        "scientific_name": "Juniperus communis L.",
+        "chinese_name": "歐洲刺柏"
+      },
+      "authority_record_id": "tfda-cosmetic-standard-juniperus-communis",
+      "assertion_scope": "external_taiwan_public_name_only",
+      "evidence_source_scope": "taiwan_government_public"
+    },
+    {
+      "source_id": "taiwan_ntu_seed",
+      "authority": "國立臺灣大學農藝學系種子研究室發芽方法資料庫",
+      "query_name": "Juniperus communis",
+      "record_url": "https://seed.agron.ntu.edu.tw/database/germ4.htm",
+      "retrieved_at": "2026-08-13T13:14:30+08:00",
+      "exact_name_pair": {
+        "scientific_name": "Juniperus communis",
+        "chinese_name": "洋杜松"
+      },
+      "assertion_scope": "external_taiwan_public_name_only",
+      "evidence_source_scope": "taiwan_academic_public"
+    },
+    {
+      "source_id": "taiwan_ntu_botany",
+      "authority": "國立臺灣大學公開植物資料頁",
+      "query_name": "Juniperus communis",
+      "record_url": "https://homepage.ntu.edu.tw/~yingshao/Juniperus%20communis.htm",
+      "retrieved_at": "2026-08-13T13:14:30+08:00",
+      "exact_name_pair": {
+        "scientific_name": "Juniperus communis Linn.",
+        "chinese_names": [
+          "杜松",
+          "瓔珞柏"
+        ]
+      },
+      "occurrence_note": "Introduced species",
+      "assertion_scope": "external_taiwan_public_name_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_academic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "TaiCOL and Tai2 do not provide an exact species record; the primary display name comes from a Taiwan FDA standard.",
+    "杜松 is broad in everyday usage, so answers should retain Juniperus communis when species precision matters."
+  ]
+}

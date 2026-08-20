@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 669,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "03e1e4ff5c4d38f965d3768a5b96e8d2c2fdeb6d981b9e68943921e8f0cd22dd",
+  "render_dpi": 144,
+  "render_sha256": "87c3edde186cdf2d2e22ee70651694e681c9b87f175bca5ce4a48eaedfcf3373",
+  "input_sha256": "87c3edde186cdf2d2e22ee70651694e681c9b87f175bca5ce4a48eaedfcf3373",
+  "render_pixel_width": 5858,
+  "render_pixel_height": 8090,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.595,
+  "embedded_character_count": 29,
+  "ocr_character_count": 36,
+  "ocr_alpha_ratio": 0.7778,
+  "candidate_disposition": "candidate_quality_gain",
+  "staging_disposition": "candidate_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.016244436067248125,
+      "text": "Coniferae",
+      "width": 0.08626252265825662,
+      "x": 0.8596743505090042,
+      "y": 0.9112091773445291
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "12",
+      "width": 0.014028055373936477,
+      "x": 0.7855711427789636,
+      "y": 0.359011628083997
+    },
+    {
+      "confidence": 1,
+      "height": 0.017464931995149646,
+      "text": "Pinus Laricio Poir",
+      "width": 0.17835670366679152,
+      "x": 0.4248497052696993,
+      "y": 0.10317460331106254
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252612005,
+      "text": "TEi.",
+      "width": 0.02004007966551058,
+      "x": 0.9118236473749936,
+      "y": 0.034883721045690264
+    }
+  ],
+  "text": "Coniferae\n12\nPinus Laricio Poir\nTEi.",
+  "output_sha256": "105fc736532bf6cc808b45e6bd99f06d7dd301fd0c3d0a81bd029388cf16cb4e",
+  "receipt_sha256": "f19a77b72759164b436d5f9d5bd3e3f2c5110ce79291e53880a94ba3c8a32b2a"
+}

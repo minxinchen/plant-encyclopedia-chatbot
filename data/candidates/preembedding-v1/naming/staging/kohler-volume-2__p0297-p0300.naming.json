@@ -1,0 +1,173 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-2:p0297-p0300",
+  "owner_shard": "S04",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S04/maker/structure-drafts/kohler-volume-2__p0297-p0300.json",
+  "source_draft_sha256": "1f84d66f8093bc1541300cfee1e3bc51e75295dd5d4dcfebb2c7c36aeffbd1bf",
+  "eligibility": {
+    "deterministic_status": "pass",
+    "hold_resolved": false,
+    "checked_fields": [
+      "deterministic_status",
+      "hold_resolved"
+    ],
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "11d90529b39504abd11f2e4d4699f9cd11443353b5455a055a924d53df406baf",
+    "validation_check_sha256": "3549b9843130744c566db1da739e898f5d02aec55978d521f44ba1b4345e305e",
+    "source_disposition_sha256": "1e466556742acaaa63c1c0f168e7cd67f2258d0607f0d52b6bdf7e69c25dd514",
+    "review_status": "machine_extracted"
+  },
+  "book_name": {
+    "scientific_name_candidate": "Coriandrum sativum L.",
+    "authorship_candidate": null,
+    "aliases_candidates": [
+      "Koriander",
+      "Schwindelkraut",
+      "Coriandre",
+      "Coriander",
+      "Coliander"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Coriandrum sativum L.",
+      "Coriandrum sativum"
+    ],
+    "accepted_scientific_name": "Coriandrum sativum",
+    "display_name_zh_tw": "芫荽",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0053119",
+    "rationale": "TaiCOL accepts the queried book binomial at species rank.",
+    "checked_at": "2026-08-13T12:40:30+08:00",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Coriandrum sativum L.",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Coriandrum+sativum+L.",
+      "retrieved_at": "2026-08-13T12:40:30+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Coriandrum sativum",
+          "matched_name_id": 21542,
+          "taxon_id": "t0053119",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Coriandrum sativum",
+          "accepted_name_id": 21542,
+          "accepted_usage": [
+            {
+              "usage_id": 105503,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 1379,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0053119",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0053119",
+          "taxon": {
+            "taxon_id": "t0053119",
+            "taxon_status": "accepted",
+            "name_id": 21542,
+            "simple_name": "Coriandrum sativum",
+            "name_author": "L.",
+            "rank": "Species",
+            "common_name_c": "芫荽",
+            "alternative_name_c": null,
+            "synonyms": "Cuminum cyminum,Selinum coriandrum",
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": "cultured: 原生於地中海沿岸; 沒有入侵性",
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Coriandrum sativum",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Coriandrum+sativum",
+      "retrieved_at": "2026-08-13T12:40:30+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Coriandrum sativum",
+          "matched_name_id": 21542,
+          "taxon_id": "t0053119",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Coriandrum sativum",
+          "accepted_name_id": 21542,
+          "accepted_usage": [
+            {
+              "usage_id": 105503,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 1379,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0053119",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0053119",
+          "taxon": {
+            "taxon_id": "t0053119",
+            "taxon_status": "accepted",
+            "name_id": 21542,
+            "simple_name": "Coriandrum sativum",
+            "name_author": "L.",
+            "rank": "Species",
+            "common_name_c": "芫荽",
+            "alternative_name_c": null,
+            "synonyms": "Cuminum cyminum,Selinum coriandrum",
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": "cultured: 原生於地中海沿岸; 沒有入侵性",
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "run_id": "production2-piper-nigrum-2026-08-12",
+  "started_at": "2026-08-12T15:00:00+08:00",
+  "finished_at": "2026-08-12T16:35:00+08:00",
+  "status": "approved",
+  "cost": {
+    "incremental_usd": 0,
+    "paid_fallback_used": false
+  },
+  "input": {
+    "pages_file": "data/fulltext/kohler-pages.sqlite#kohler-volume-2:p293-p296-reviewed-ranges",
+    "name_file": "data/sample-name-resolution.json#Piper-nigrum",
+    "page_count": 4,
+    "taxon_count": 1
+  },
+  "stages": [
+    {
+      "name": "candidate_selection_and_visual_boundary",
+      "attempt": 1,
+      "status": "passed",
+      "tool": "durable OCR selector plus PDF skill Poppler render and Codex page review",
+      "checks": [
+        "Piper nigrum spans four adjacent PDF pages, within the six-page limit.",
+        "PDF page 297 visibly begins Coriandrum sativum.",
+        "Related Piper officinarum and Piper longum ranges were excluded from promoted Piper nigrum facts."
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "name_and_source_exact_record",
+      "attempt": 1,
+      "status": "passed",
+      "tool": "Tai2 and Ministry of Agriculture name metadata plus declarative range builder and deterministic record validator",
+      "checks": [
+        "Taiwan display name is 胡椒.",
+        "Tai2 Non-Taiwanese and Ministry cultivation in Liugui are stored separately.",
+        "Eight record sections occur exactly inside cited PDF pages 293-296.",
+        "Zanthoxylum bungeanum and Capsicum annuum are guarded as wrong-name conflations."
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "embedding_and_retrieval",
+      "attempt": 1,
+      "status": "passed",
+      "tool": "one gemini-embedding-2 Free Tier batch plus deterministic hybrid and exact-term checker",
+      "checks": [
+        "One external call embedded four page baselines, five 512/100 children and six query vectors.",
+        "Both profiles reached answer recall at rank 1 and refusal precision of 1.0.",
+        "512/100 evidence margin was 0.045361 versus page baseline 0.042718.",
+        "Chinese and English Piperin questions rank PDF page 296 first; distribution ranks PDF page 294 first; ambiguity, wrong-name and chromosome questions refuse."
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "portable_integration_and_regression",
+      "attempt": 1,
+      "status": "passed",
+      "tool": "SQLite migration, deterministic chat API, Gem exporter and inactive n8n replay harness",
+      "checks": [
+        "Main index contains 42 approved child chunks across 21 parent pages and 27 approved queries.",
+        "The deterministic chat API passes 42 cases across six approved fact records.",
+        "The Classic Gem pack exports six records and 42 canonical child chunks.",
+        "PEHybridIdx001 remains inactive; n8n and Qwen remain stopped."
+      ],
+      "retry_target": null
+    }
+  ],
+  "review_summary": {
+    "passed": 4,
+    "needs_review": 0,
+    "failed": 0,
+    "warnings": [
+      "No volume is fully processed.",
+      "Related Piper taxa in the historical article remain outside this record's factual scope.",
+      "Historical medicinal content is not modern medical advice.",
+      "Image reasoning remains disabled."
+    ]
+  }
+}

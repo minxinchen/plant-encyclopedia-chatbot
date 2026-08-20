@@ -1,0 +1,177 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-2:p0487-p0490",
+  "owner_shard": "S04",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S04/maker/structure-drafts/kohler-volume-2__p0487-p0490.json",
+  "source_draft_sha256": "76ef4ed979e99545918ad8da34191e6330fa5bb807ee7c4c70d6bb3d7222d0b3",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "3492905bab206c03dea4815d74cfd63be0a50422a543f81856a65fe0e9950e85",
+    "validation_check_sha256": "56b2f67cf7dee133305e879f179afa957bb87a410bf4df8cfbd57546c36e38b1",
+    "source_disposition_sha256": "fe9120fc1a045a00bd07e96bdd20c08a2e246e137a4ea23e4cfe1f4fed4a1346",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Canarium commune",
+    "authorship_candidate": "L.",
+    "aliases_candidates": [
+      "Canarium Mehenbethene Gaertn.",
+      "Canarium zephyrinum Miquel",
+      "Icica Icicariba D. C.",
+      "Icica Sellowi Turezan.",
+      "Protium Icicariba March."
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Canarium commune"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_zh_tw": null,
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_checked",
+    "taxon_id": null,
+    "display_name_source_scope": "unresolved",
+    "display_name_source_evidence_ids": [],
+    "display_name_is_taiwan_public": false,
+    "display_name_answer_policy": "scientific_name_only",
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping.",
+    "checked_at": "2026-08-13T20:36:33+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Canarium commune",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Canarium+commune",
+      "retrieved_at": "2026-08-13T20:36:27+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Canarium mehenbethene",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Canarium+mehenbethene",
+      "retrieved_at": "2026-08-13T20:36:28+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Canarium zephyrinum",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Canarium+zephyrinum",
+      "retrieved_at": "2026-08-13T20:36:28+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Icica icicariba",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Icica+icicariba",
+      "retrieved_at": "2026-08-13T20:36:28+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Icica sellowi",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Icica+sellowi",
+      "retrieved_at": "2026-08-13T20:36:28+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Protium icicariba",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Protium+icicariba",
+      "retrieved_at": "2026-08-13T20:36:28+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Canarium commune",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Canarium%20commune",
+      "retrieved_at": "2026-08-13T20:36:33+08:00",
+      "exact_result_count": 1,
+      "exact_results": [
+        {
+          "name": "<em>Canarium</em> <em>commune</em> L.",
+          "ebooksearch": "Canarium commune",
+          "simnametitle": "<em>Canarium</em> <em>commune</em>",
+          "type": "M",
+          "code": "999 994 48 0",
+          "apgfamily": "Burseraceae",
+          "chapgfamily": "橄欖科",
+          "family": "Burseraceae",
+          "chfamily": "橄欖科",
+          "genus": "Canarium",
+          "chgenus": "橄欖屬",
+          "fern": "no",
+          "chname": "",
+          "comname": "",
+          "comtype": "",
+          "endetype": "Non-Taiwanese",
+          "result_type": "species"
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "species_url": "https://tai2.ntu.edu.tw/species/999%20994%2048%200",
+      "accepted_species_record": {
+        "name": "<em>Canarium</em> <em>commune</em> L.",
+        "ebooksearch": "Canarium commune",
+        "simnametitle": "<em>Canarium</em> <em>commune</em>",
+        "type": "M",
+        "code": "999 994 48 0",
+        "apgfamily": "Burseraceae",
+        "chapgfamily": "橄欖科",
+        "family": "Burseraceae",
+        "chfamily": "橄欖科",
+        "genus": "Canarium",
+        "chgenus": "橄欖屬",
+        "fern": "no",
+        "chname": "",
+        "comname": "",
+        "comtype": "",
+        "endetype": "Non-Taiwanese"
+      },
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears."
+  ]
+}

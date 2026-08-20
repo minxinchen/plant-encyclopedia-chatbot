@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 423,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "5e29dd0a528962f19b1f7872de9eb29cefb01121d3c6f99eff487fc58f6ba8f3",
+  "render_dpi": 144,
+  "render_sha256": "1d15b6d25fa635b8f9980c48455a948380eeea2638e2f8d6659aa6d630be0bf3",
+  "input_sha256": "1d15b6d25fa635b8f9980c48455a948380eeea2638e2f8d6659aa6d630be0bf3",
+  "render_pixel_width": 5630,
+  "render_pixel_height": 7994,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.55,
+  "embedded_character_count": 238,
+  "ocr_character_count": 54,
+  "ocr_alpha_ratio": 0.8148,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.017966461560082747,
+      "text": "Umbelliferae",
+      "width": 0.09915310497015295,
+      "x": 0.12980489143204382,
+      "y": 0.9634004901898092
+    },
+    {
+      "confidence": 1,
+      "height": 0.019224761024353998,
+      "text": "(Ammineae)",
+      "width": 0.09909502486108054,
+      "x": 0.1298339300861988,
+      "y": 0.9416957592142676
+    },
+    {
+      "confidence": 1,
+      "height": 0.023278418041410953,
+      "text": "Petroselinum sativum Hoffm.",
+      "width": 0.2564921849210498,
+      "x": 0.4016814414004107,
+      "y": 0.024540179432023912
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "24",
+      "width": 0.018556700961690598,
+      "x": 0.9505154640552371,
+      "y": 0.017441860290297373
+    }
+  ],
+  "text": "Umbelliferae\n(Ammineae)\nPetroselinum sativum Hoffm.\n24",
+  "output_sha256": "0c1751570624e55f49f35933ebe9de492728ff2d329c6260b43e59415bce2708",
+  "receipt_sha256": "19f028ed41d502ad5732f4f8526c23ee06311e2516e2fc8f345a113c36a045f6"
+}

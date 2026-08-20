@@ -1,0 +1,257 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0501-p0504",
+  "entry_id": "kohler-volume-2:p0501-p0504",
+  "owner_shard": "S04",
+  "book_taxon": {
+    "scientific_name": "Gonolobus Condurango",
+    "authorship": "Triana",
+    "aliases": [
+      "G. Cundurango",
+      "Condurangorindenstrauch",
+      "Gonolobus viridiflorus",
+      "Marsdenia Condurango",
+      "Macroscepis Trianae"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Gonolobus Condurango",
+      "Gonolobus condurango"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T20:51:39+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Gonolobus+Condurango",
+        "query_name": "Gonolobus Condurango",
+        "retrieved_at": "2026-08-13T20:51:35+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Gonolobus+condurango",
+        "query_name": "Gonolobus condurango",
+        "retrieved_at": "2026-08-13T20:51:35+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Gonolobus+viridiflorus",
+        "query_name": "Gonolobus viridiflorus",
+        "retrieved_at": "2026-08-13T20:51:36+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Marsdenia+condurango",
+        "query_name": "Marsdenia condurango",
+        "retrieved_at": "2026-08-13T20:51:36+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Macroscepis+trianae",
+        "query_name": "Macroscepis trianae",
+        "retrieved_at": "2026-08-13T20:51:36+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 501,
+      "evidence_type": "text",
+      "page_text_sha256": "fd405d3da3252b4257d02f70ecf6501cbc11aba74dcb3ef7edec9ecf0526448b",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 502,
+      "evidence_type": "text",
+      "page_text_sha256": "ba8ba2dd4fbd1e89cc1777bc464c17ea6dacbc15edeffe805ca52801cc098060",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 503,
+      "evidence_type": "text",
+      "page_text_sha256": "2e7bdaa94a7532a11c10a3d7e2baa254e37cb7901ed532be0d5bb233e6077b05",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0501-p0504:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "          Familie: Asclepiadeae; Gattung: Gonolobus Michaux.\n\n          Beschreibung. Die Gattung Gonolobus besteht aus in Südamerika einheimischen Schling-\nsträuchen mit gegenständigen, herzfórmigen, meist rauhhaarigen, am Grunde drüsentragenden Blättern\nund achselständigen, trauben- und doldentraubenförmigen, wenigblüthigen Blüthenständen, deren\nBlüthen grünliche, braune oder dunkelpurpurne Farbe besitzen und meist netzartig marmorirt sind.\nKelch 5 spaltig oder tief 5theilig, innen am Grunde in der Regel mit 5 Drüsen. Krone kurzröhrig,\nradfórmig, tief 5theilig. Die fleischige, kurze, ringförmige, ganzrandige oder buchtig 5lappige Neben-\nkrone der Kronenbasis eingefügt; ebenso die Staubgefásse, welche mit kurzröhrig verwachsenen Fila-\nmenten ausgestattet sind. Pollinarien verkehrt eiförmig oder länglich, häufig gekrümmt. Narbe 5kantig,\nmit flachem Scheitel. Balgkapsel dick, zugespitzt, stachelig-warzig oder glatt. Karsten stellt als\ncharakteristisches Merkmal die quer aufspringenden Staubbeutelfácher und die auswárts seitliche An-\nheftung der horizontal liegenden Pollinarien an die Narbenklebdriise hin.",
+      "normalized_text": null,
+      "zh_tw_rendering": "夾竹桃科，南美洲原生攀援灌木，葉對生心形，花綠褐或深紫，具網狀紋。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 501,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 207,
+        "char_end": 1328,
+        "page_text_sha256": "fd405d3da3252b4257d02f70ecf6501cbc11aba74dcb3ef7edec9ecf0526448b",
+        "exact_text_sha256": "da75bd9eb99a65506fbe30805c62ff7310343b226cdab350e1a3fb5fd72e6795",
+        "source_line_start": 8,
+        "source_line_end": 20,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "da75bd9eb99a65506fbe30805c62ff7310343b226cdab350e1a3fb5fd72e6795",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0501-p0504:s01:x00",
+      "section_type": "history",
+      "original_text": "          Karsten leitet Cortex Condwrango von G. riparius Knth, G. glandulosus Póppig und G.\nviridiflorus Roem.      et Schult. ab, während        Andere, namentlich        Flückiger,       den von    Triana     in Paris\nals neue Art beschriebenen Schlingstrauch, Gonolobus Condurango Triana, als Stammpflanze der Droge\nannehmen. Letztere Pflanze ist, auf Grund der Angaben, die der Apotheker Fuentes in Guayaquil\nmachte, von Triana nur sehr ungenügend beschrieben worden und das unvollständige Exemplar,\nwelches letzterer besitzt, ist bis jetzt Niemandem zugänglich gewesen. Ohnedies sind die Zweifel\nüber die Stammpflanze noch nicht gehoben, denn der nämliche Apotheker Fuentes, welcher Triana\nGonolobus Condurango als Stammpflanze des berühmten Heilmittels sendete, hat dem böhmischen\nBotaniker Rözl versichert, dass Bejuco de perro (Marsdenia Condurango diet fil), eine von G'ono-\nlobus Condurango verschiedene Pflanze, die echte Droge liefere.",
+      "normalized_text": null,
+      "zh_tw_rendering": "基原植物存疑，Karsten與Flückiger觀點不同，Fuentes曾誤指Marsdenia為正品。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 501,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 1329,
+        "char_end": 2278,
+        "page_text_sha256": "fd405d3da3252b4257d02f70ecf6501cbc11aba74dcb3ef7edec9ecf0526448b",
+        "exact_text_sha256": "caad50ecdfcb52ef13d10a534d6880e2c7c416e92e731b8384474ebe597ae047",
+        "source_line_start": 21,
+        "source_line_end": 30,
+        "section_index": 1,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "caad50ecdfcb52ef13d10a534d6880e2c7c416e92e731b8384474ebe597ae047",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0501-p0504:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "         Anatomisches. Die Aussenrinde wird von einem dichten Korke gebildet, dessen tafelfórmige\nZellen mit gebogenen Zwischenwänden ausgestattet und ohne Inhalt sind. Die Mittelrinde besteht aus\n11—17 Reihen sehr enger, tangential gestreckter Zellen. Die stark entwickelte Innenrinde lässt\nzahlreich eingestreute Milchgefässe erkennen und enthält deutliche Bast- und Markstrahlen. Nach\nFlückiger zeigt der Querschnitt im innern Theile der Rinde ein kleinzelliges Gewebe, welches mit\nStärkemehl und Calciumoxalatdrusen angefüllt und von langen Milchröhren mit wolkigem, braunem\nInhalte durchzogen ist. Letztere zeigen im Längsschnitte eine einfache Verzweigung. In der äusseren\nRindenhälfte befinden sich umfangreiche Gruppen gelber, zierlich geschichteter, fast ganz geschlossener,\nim Längsschnitte nicht gestreckter Sclerenchymzellen, sowie farblose Gruppen von Bastfasern und\nSiebröhren, auch Zellen, welche einzelne Oxalatkrystalle enthalten. Die Bastfasern sind im Längsschnitte\nnicht sehr gestreckt und verholzt. Die Markstrahlen, welche aus 1—2 Zellenreihen bestehen, sind\naus radial gestreckten Zellen zusammengesetzt und besitzen als Inhalt Stärke und Krystalle von oxal-\nsaurem     Kalk.",
+      "normalized_text": null,
+      "zh_tw_rendering": "外皮為軟木，內皮含乳汁管、木質部及草酸鈣簇晶，皮層細胞含澱粉。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 502,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2652,
+        "char_end": 3850,
+        "page_text_sha256": "ba8ba2dd4fbd1e89cc1777bc464c17ea6dacbc15edeffe805ca52801cc098060",
+        "exact_text_sha256": "eefa37a1d3607079b9d04bbcdaf2db746e55fc3f08fb96fa50d100de8cea77c8",
+        "source_line_start": 25,
+        "source_line_end": 37,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "eefa37a1d3607079b9d04bbcdaf2db746e55fc3f08fb96fa50d100de8cea77c8",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0501-p0504:s03:x00",
+      "section_type": "historical_use",
+      "original_text": "         Flückiger führt an, dass die Aerzte Caesares und Eguigureu aus der Provinz Loja im\nJahre 1871 auf die bei den Eingeborenen jedenfalls schon längst gegen Schlangenbiss, Krebs und\nSyphilis gebräuchliche Rinde aufmerksam machten, in Folge dessen der Präsident von Ekuador, Garcia\nMorena, Massregeln zur Verbreitung dieses Heilmittels traf, die von dem amerikanischen Minister-\nresidenten in Quito unterstützt wurden. Im Jahre 1871 erhielt Antisell in Washington durch den\nPräsidenten von Ekuador die erste Probe der Droge und die von ersterem vorgenommenen Unter-\nsuchungen bestätigten die gepriesene Wirksamkeit. Die Lobpreisungen, welche nun angestimmt wurden",
+      "normalized_text": null,
+      "zh_tw_rendering": "1871年Ecuador醫師推廣用於蛇咬、癌症及梅毒，後因價格飆升而評價兩極。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 502,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 4343,
+        "char_end": 5010,
+        "page_text_sha256": "ba8ba2dd4fbd1e89cc1777bc464c17ea6dacbc15edeffe805ca52801cc098060",
+        "exact_text_sha256": "76d2bc746715e2abbe255dd4303be6544f7a78465e151f46a6c6121166394b5b",
+        "source_line_start": 45,
+        "source_line_end": 51,
+        "section_index": 3,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "76d2bc746715e2abbe255dd4303be6544f7a78465e151f46a6c6121166394b5b",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0501-p0504:s04:x00",
+      "section_type": "constituents",
+      "original_text": "            Bestandtheile.           Nach Vulpius           enthält die Rinde eisengrünenden                 Gerbstoff,    2 besondere\n Harze, Spuren       eines harzigen krystallinischen           Bitterstoffes, Stärkemehl,         Eiweiss, Oxalsäure,        Weinstein-\n\n säure und in    der Asch  e  etwas  Mang an.      Der    Rind e  eige  nthü mlic he  Best andt heil e  sind  bis  jetzt   noch\n nicht aufgefun den  word en.    Anti sell    erhie lt   12°),   Asch e,   aber   wede r   ein Alkal  oid  noch    äther ische s\n Oel. Flückiger       fand   1882   einen   Bitte rstof f   und    ein   Alkal oid,    beide   amor  ph   und    in  sehr    ge-\n ringer Menge.",
+      "normalized_text": null,
+      "zh_tw_rendering": "含鐵綠色單寧、樹脂、澱粉、蛋白質及草酸，Flückiger發現微量苦味質與生物鹼。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 503,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2386,
+        "char_end": 3058,
+        "page_text_sha256": "2e7bdaa94a7532a11c10a3d7e2baa254e37cb7901ed532be0d5bb233e6077b05",
+        "exact_text_sha256": "637238666fcf74ac730adf1fd5e0343c8613e6c6639b58e1d1dad90baf60cc79",
+        "source_line_start": 27,
+        "source_line_end": 33,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "637238666fcf74ac730adf1fd5e0343c8613e6c6639b58e1d1dad90baf60cc79",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "53cb7d6580ccb4dc54ad7e2039d8c519815ee13231235c20c7c610ca6377c1a0",
+    "maker_receipt_sha256": "92b86a6f6416ea8bd44c7a1379190ce474923570f8ea1eedc168e21c21ba6ffc",
+    "validation_check_sha256": "0de392c9ea6d50caa6c5188bfa26f942a802a31badb43bfbf2ef012ceb95b025",
+    "source_disposition_sha256": "4d26352b410263d5cc43713467a4ab6f6f707e43d4d07ab0bf8c0e3e018bd8ce",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "92b86a6f6416ea8bd44c7a1379190ce474923570f8ea1eedc168e21c21ba6ffc",
+      "validation_check_sha256": "0de392c9ea6d50caa6c5188bfa26f942a802a31badb43bfbf2ef012ceb95b025",
+      "source_disposition_sha256": "4d26352b410263d5cc43713467a4ab6f6f707e43d4d07ab0bf8c0e3e018bd8ce"
+    },
+    "naming_artifact_sha256": "b4245810866188a9541eaf85e6b8bef1490dbfcef0957b6fb62f6f56f5c465dd"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "98c4e0da9b0fa899a91ca1f86b221a160b8f06d6297943cece89fbc862d9baa7"
+}

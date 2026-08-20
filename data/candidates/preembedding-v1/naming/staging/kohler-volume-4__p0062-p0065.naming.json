@@ -1,0 +1,209 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-4:p0062-p0065",
+  "owner_shard": "S08",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S08/maker/structure-drafts/kohler-volume-4__p0062-p0065.json",
+  "source_draft_sha256": "fe81d38c493e352beac9dfa2053804b7034fab4ed664be0d092868a52a7faeac",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "f6a82aceef60878b7fe5732d92f575593a3174008eca8daff3717ea7b0680c9d",
+    "validation_check_sha256": "bbb2d84b69f1783ef3a146a2334c88a6d4cc746381aab8c6bc47be6264eccfef",
+    "source_disposition_sha256": "05c07c235836912ba8b25d3ece3f8b9571ac421e7437fd213cedf00997e2fcdf",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Laburnum vulgare",
+    "authorship_candidate": "Grisebach",
+    "aliases_candidates": [
+      "Cytisus Laburnum L.",
+      "Laburnum laburnum Voss-Vilmorin",
+      "Laburnum praecox Fuss",
+      "Goldregen",
+      "Bohnenbaum",
+      "Kleebaum",
+      "Faux Ebenier",
+      "Common Laburnum",
+      "Avorniello",
+      "Laburno",
+      "Citiso",
+      "Gouden Regen"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Laburnum vulgare",
+      "Laburnum anagyroides"
+    ],
+    "accepted_scientific_name": "Laburnum anagyroides",
+    "display_name_zh_tw": "金鏈花",
+    "alternative_names_zh_tw": [
+      "歐洲金鏈花"
+    ],
+    "taiwan_occurrence_status": "not_asserted",
+    "taxon_id": null,
+    "authority_record_id": "taiwan-public-horticulture-laburnum-anagyroides",
+    "display_name_source_scope": "taiwan_public_fallback",
+    "display_name_source_evidence_ids": [
+      "taiwan_public_horticulture"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary",
+    "rationale": "TaiCOL and Tai2 provide no exact species record. Kew POWO explicitly treats the book name Laburnum vulgare as a synonym of Laburnum anagyroides. A Taiwan government standards document independently uses Laburnum anagyroides (= Cytisus laburnum L.), while a Taiwan public horticultural source explicitly pairs 金鏈花 (歐洲金鏈花) with Laburnum anagyroides. Because no Taiwan government or academic Chinese species name was found, 金鏈花 is marked as a lower-priority Taiwan-public fallback; no Taiwan occurrence is asserted.",
+    "checked_at": "2026-08-13T14:00:00+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Laburnum vulgare",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Laburnum+vulgare",
+      "retrieved_at": "2026-08-13T13:54:34+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Cytisus laburnum",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Cytisus+laburnum",
+      "retrieved_at": "2026-08-13T13:54:34+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Laburnum laburnum",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Laburnum+laburnum",
+      "retrieved_at": "2026-08-13T13:54:34+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Laburnum praecox",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Laburnum+praecox",
+      "retrieved_at": "2026-08-13T13:54:34+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Faux ebenier",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Faux+ebenier",
+      "retrieved_at": "2026-08-13T13:54:34+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Common laburnum",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Common+laburnum",
+      "retrieved_at": "2026-08-13T13:54:34+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Gouden regen",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Gouden+regen",
+      "retrieved_at": "2026-08-13T13:54:34+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Laburnum vulgare",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Laburnum%20vulgare",
+      "retrieved_at": "2026-08-13T13:54:37+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "kew_powo",
+      "authority": "Royal Botanic Gardens, Kew — Plants of the World Online",
+      "query_name": "Laburnum vulgare",
+      "record_url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:501461-1",
+      "retrieved_at": "2026-08-13T14:00:00+08:00",
+      "evidence_excerpt": "Laburnum vulgare J.Presl is a synonym of Laburnum anagyroides Medik.",
+      "assertion_scope": "external_scientific_name_metadata_only",
+      "evidence_source_scope": "non_taiwan_scientific_authority"
+    },
+    {
+      "source_id": "bsmi",
+      "authority": "經濟部標準檢驗局",
+      "query_name": "Laburnum anagyroides",
+      "source_url": "https://www.bsmi.gov.tw/wSite/public/Data/f1583464084802.pdf",
+      "retrieved_at": "2026-08-13T14:00:00+08:00",
+      "evidence_excerpt": "Laburnum anagyroides (= Cytisus laburnum L.)",
+      "assertion_scope": "external_scientific_name_metadata_only",
+      "evidence_source_scope": "taiwan_government_public"
+    },
+    {
+      "source_id": "taiwan_public_horticulture",
+      "authority": "iGarden 花寶愛花園（臺灣公開園藝來源；非政府或學術植物名錄）",
+      "query_name": "Laburnum anagyroides",
+      "record_url": "https://blog.igarden.com.tw/2008/05/5M80533.html",
+      "retrieved_at": "2026-08-13T14:00:00+08:00",
+      "display_name": "金鏈花",
+      "alternative_display_name": "歐洲金鏈花",
+      "evidence_excerpt": "金鏈花（歐洲金鏈花）— Laburnum anagyroides",
+      "authority_record_id": "taiwan-public-horticulture-laburnum-anagyroides",
+      "assertion_scope": "external_taiwan_public_name_only",
+      "evidence_source_scope": "taiwan_public_fallback"
+    },
+    {
+      "source_id": "taiwan_forest_name_conflict",
+      "authority": "農業部林業及自然保育署公開資料",
+      "query_name": "金鏈花",
+      "source_url": "https://www.forest.gov.tw/file/18669",
+      "retrieved_at": "2026-08-13T14:00:00+08:00",
+      "evidence_excerpt": "Taiwan government material also uses 金鏈花 for Cassia fistula, demonstrating Chinese-name ambiguity.",
+      "assertion_scope": "external_name_disambiguation_metadata_only",
+      "evidence_source_scope": "taiwan_government_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "TaiCOL and Tai2 provide no exact record; 金鏈花 is a Taiwan public horticultural fallback, not a Taiwan government or academic species name.",
+    "金鏈花 is ambiguous in Taiwan public material and is also used for Cassia fistula (阿勃勒); every answer must retain Laburnum anagyroides or the book name Laburnum vulgare to prevent cross-species confusion.",
+    "Kew, BSMI, horticultural, toxicity, and cultivation facts are not imported into the Köhler book-fact layer; only scientific-name and display-name metadata are projected.",
+    "No Taiwan occurrence claim was established."
+  ]
+}

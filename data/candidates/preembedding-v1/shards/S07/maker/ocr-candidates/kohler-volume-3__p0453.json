@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 453,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "a979b866e5952baf3952198bb019eebca3fe64711067188448fc446f55a6baae",
+  "render_dpi": 144,
+  "render_sha256": "b56a30505dfa61d16bd67ab7d42844cd06256e2a2cdaa4538d2e7d88ea3dfef1",
+  "input_sha256": "b56a30505dfa61d16bd67ab7d42844cd06256e2a2cdaa4538d2e7d88ea3dfef1",
+  "render_pixel_width": 5462,
+  "render_pixel_height": 8174,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.372,
+  "embedded_character_count": 114,
+  "ocr_character_count": 43,
+  "ocr_alpha_ratio": 0.7907,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.01744185932098874,
+      "text": "Hamamelidaceae",
+      "width": 0.16304348023095305,
+      "x": 0.7717391304687626,
+      "y": 0.9534883727195929
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "8",
+      "width": 0.01956521694803559,
+      "x": 0.48695652171619963,
+      "y": 0.7863372092956585
+    },
+    {
+      "confidence": 1,
+      "height": 0.02183116428435794,
+      "text": "Hamamelis virginiana I.",
+      "width": 0.23260869604619067,
+      "x": 0.363043480002267,
+      "y": 0.052325581649488195
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "39",
+      "width": 0.01956521694803559,
+      "x": 0.8934782610640257,
+      "y": 0.0130813952694957
+    }
+  ],
+  "text": "Hamamelidaceae\n8\nHamamelis virginiana I.\n39",
+  "output_sha256": "63dd1075c5aee23178d103d27d7ad0927c11ddc860001b654dce218895a61937",
+  "receipt_sha256": "616f2ddafe9f85a21243320a3c5ab39130891fc48b3fcc04eafbcb8b9657adc3"
+}

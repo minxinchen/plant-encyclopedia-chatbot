@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 401,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "10ef4cfca939bdfbdff7fe842ba26e647c369ec5e5f35a650821f58d89439ad0",
+  "render_dpi": 144,
+  "render_sha256": "572bb5f5f167ff4765e9f71d1707458ab0c5a908ff9d20a2f6c343307c5b092d",
+  "input_sha256": "572bb5f5f167ff4765e9f71d1707458ab0c5a908ff9d20a2f6c343307c5b092d",
+  "render_pixel_width": 5582,
+  "render_pixel_height": 8114,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.276,
+  "embedded_character_count": 111,
+  "ocr_character_count": 99,
+  "ocr_alpha_ratio": 0.7071,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.3,
+      "height": 0.022575677387298043,
+      "text": "Аросуласкае",
+      "width": 0.10792155358631483,
+      "x": 0.8099632731037595,
+      "y": 0.9603691382115749
+    },
+    {
+      "confidence": 1,
+      "height": 0.023820031256902796,
+      "text": "(Landolphiinae)",
+      "width": 0.13311817083929456,
+      "x": 0.7973649639242874,
+      "y": 0.9372178915753792
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436846943,
+      "text": "8",
+      "width": 0.016877637119196987,
+      "x": 0.46835443031522567,
+      "y": 0.33284883727430903
+    },
+    {
+      "confidence": 1,
+      "height": 0.0203488365052239,
+      "text": "10",
+      "width": 0.03164556787954276,
+      "x": 0.6476793257196621,
+      "y": 0.12645348886948116
+    },
+    {
+      "confidence": 1,
+      "height": 0.023359634573497434,
+      "text": "Landolphia comorensis (Boy.) K.Sch.",
+      "width": 0.31012658172145363,
+      "x": 0.43037974517566563,
+      "y": 0.0580357140953599
+    },
+    {
+      "confidence": 1,
+      "height": 0.021854235066307903,
+      "text": "var florida (Benth.) K.Sch.",
+      "width": 0.22362869801758511,
+      "x": 0.46835442753129175,
+      "y": 0.02901785749689756
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "13",
+      "width": 0.021097045711415574,
+      "x": 0.9219409284452765,
+      "y": 0.036337209295658535
+    }
+  ],
+  "text": "Аросуласкае\n(Landolphiinae)\n8\n10\nLandolphia comorensis (Boy.) K.Sch.\nvar florida (Benth.) K.Sch.\n13",
+  "output_sha256": "8d5d2dbcfb21a0bee2c2141944afcd626f80dd30ba6e10f9b94a95c272d27539",
+  "receipt_sha256": "a657aea1ffa87ad9a8d32f94a9b0216382af4d500935c43289ae358f6d5f6eaf"
+}

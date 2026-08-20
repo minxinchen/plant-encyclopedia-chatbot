@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0495-p0498",
+  "entry_id": "kohler-volume-2:p0495-p0498",
+  "owner_shard": "S04",
+  "book_taxon": {
+    "scientific_name": "Dipterocarpus retusus",
+    "authorship": "Blume",
+    "aliases": [
+      "Gurjunbalsambaum",
+      "Gurgunbalsambaum",
+      "Gardschanbalsambaum"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Dipterocarpus retusus"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T20:47:31+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Dipterocarpus+retusus",
+        "query_name": "Dipterocarpus retusus",
+        "retrieved_at": "2026-08-13T20:47:29+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 495,
+      "evidence_type": "text",
+      "page_text_sha256": "80baeae394e1efc0fdb1a6c551900b39e4f1cf472ef47d24375f9ff2a276eee3",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 496,
+      "evidence_type": "text",
+      "page_text_sha256": "ffd3e3d0ae39006caaecf05d064922900ac85ec96134b118adec5418187b0ee2",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 497,
+      "evidence_type": "text",
+      "page_text_sha256": "ade3859364786bccd517646c3905b47a5f149b37c25e2b3522625db547949fa1",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 498,
+      "evidence_type": "text",
+      "page_text_sha256": "3679e77d962f67733c0031f49aef48245c41af5fd450ed35e7b34db50dd29308",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0495-p0498:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                  Dipterocarpus retusus Blume.\n                                Gurjun-, Gurgun- oder Gardschanbalsambaum.\n                                          :              Y\n\n\n            Familie:      Dipterocarpeae;         Gattung:     Dipterocarpus Gaertner.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Dipterocarpus retusus Blume，屬龍腦香科，俗稱 Gurjun 或 Gardschan 香脂樹。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 495,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 285,
+        "page_text_sha256": "80baeae394e1efc0fdb1a6c551900b39e4f1cf472ef47d24375f9ff2a276eee3",
+        "exact_text_sha256": "6ae30ece6d370a65a18a95ccd0fe1d29d1cb6be7f6ae03fc6ea830422bfeaf3e",
+        "source_line_start": 1,
+        "source_line_end": 6,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "6ae30ece6d370a65a18a95ccd0fe1d29d1cb6be7f6ae03fc6ea830422bfeaf3e",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0495-p0498:s01:x00",
+      "section_type": "description",
+      "original_text": "        Beschreibung. Die Gattung Dipterocarpus besteht aus grossen, harzreichen, bis 5 Meter\nim Umfange erreichenden Bäumen, mit ganzrandigen oder buchtig gekerbten Blättern und grossen, zuerst\nknospig zusammenschliessenden, später abfallenden Nebenblättern, die eine ringförmige Narbe zurück-\nlassen.     Blüthen    gross, zwitterig, 5gliederig, in armblüthigen,         achselständigen    Trauben.       Der Blüthen-\nkelch ist unterständig, einblätterig, bleibend, mit sternförmigen, vergänglichen Haaren bedeckt; der\nSaum ist ungleichmässig 5spaltig oder 5zähnig, frei, 2 Abschnitte zur Zeit der Fruchtreife sich als\nlange, netzförmig geaderte Flügel entwickelnd. Blumenkrone grösser als der Kelch, unterständig,\ndblátterig;    die Kronblätter     gleich, am      Grunde mit einander verbunden,        etwas   dick, aussen     seidenartig,\nabfallend, in der Knospe zusammengerollt.      Staubgefásse zahlreich, abwechselnd 2reihig um den\nFruchtknoten gestellt, unterständig; Staubfäden unten häutig erweitert, frei, oder etwas verwachsen,\nglatt, das Bindeglied der Fächer zu einer langen, pfriemenartigen Spitze ausgezogen. Staubbeutel\nlinienförmig, länglich, 2fächerig, dem Filamente in ihrer ganzen Länge angewachsen, am Grunde\npfeilförmig, innen der Länge nach sich spaltend. Pollen rund, glatt. Fruchtknoten 3fácherig, ober-\nständig, vom     Kelche    eingeschlossen,       nach der Befruchtung      mit dem letzteren fortwachsend,        frei, eiför-\nmig-rund, am Grunde unscheinbar 3- oder 6eckig, seidenartig-rauh, in jedem Fache mit 2, dem inneren\nFachwinkel      angehefteten    Eichen.       Griffel scheitelständig,   die Staubgefässe   iiberragend,    aufrecht, faden-\nfórmig, ungetheilt oder an der Spitze kurz 3zühnig, am Grunde seidenartig, nach oben glatt. Narbe\nendständig, einfach. Die nicht aufspringende, 2flügelige Frucht ein holzige, rauhe Nuss darstellend,\neiförmig, an der Spitze verjüngt, der Länge nach etwas gefurcht, vom bleibenden Griffel gekrönt, an\ndem   breiten Grunde      mit dem bleibenden          Kelche verwachsen,     von   dem   letzteren   eingehüllt, oben von\nden blattartigen Lappen des Kelches umkränzt, von denen 2 zu bedeutender Länge ausgewachsen sind,\neinsamig. Fruchtflügel parallelnervig, zwischen den Nerven netzaderig. Same gross, pyramidal, der\nrundliche     Grund   mit dem    Boden        der Nuss verbunden,   eiweisslos.    Embryo mit sehr grossen, fleischigen,\nblattartigen, fast gleichen, um einander gewickelten, am Würzelchen ein wenig gespaltenen Samenlappen.\nWürzelchen kurz, dick, cylindrisch, aufrecht, nur mit der Spitze aus den Samenlappen hervorragend.",
+      "normalized_text": null,
+      "zh_tw_rendering": "大樹，樹脂豐富，葉全緣或波狀，花大兩性，果實具兩翅，種子無胚乳，胚具大肉質子葉。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 495,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 287,
+        "char_end": 2911,
+        "page_text_sha256": "80baeae394e1efc0fdb1a6c551900b39e4f1cf472ef47d24375f9ff2a276eee3",
+        "exact_text_sha256": "ad97eaf0081e2ab97e2d501b974bfd1c2d58868f097523438d29ab6cdd57be4d",
+        "source_line_start": 8,
+        "source_line_end": 32,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "ad97eaf0081e2ab97e2d501b974bfd1c2d58868f097523438d29ab6cdd57be4d",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0495-p0498:s02:x00",
+      "section_type": "distribution",
+      "original_text": "            Vorkommen.          In Indien und auf den Molukken.\n          Dipterocarpus retusus Bl. mit abwechselnden, eiförmigen, spitzen, am Grunde gerundeten\nBlättern und kegelförmig zugespitzten, haarigen Knospen. Lappen des Fruchtkelches ziemlich gross,\nlänglich, abgestumpft, dunkelroth. In Bantam und West-Java einheimisch.",
+      "normalized_text": null,
+      "zh_tw_rendering": "產於印度及摩鹿加群島。D. retusus 原產於班達及西爪哇，葉卵形尖頭，果萼裂片大且暗紅。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 495,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2913,
+        "char_end": 3243,
+        "page_text_sha256": "80baeae394e1efc0fdb1a6c551900b39e4f1cf472ef47d24375f9ff2a276eee3",
+        "exact_text_sha256": "b4e176031d4d04a71883efe15d0fe69ea42e33d4233bc1bb15bbe050b35249ec",
+        "source_line_start": 34,
+        "source_line_end": 37,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "b4e176031d4d04a71883efe15d0fe69ea42e33d4233bc1bb15bbe050b35249ec",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0495-p0498:s03:x00",
+      "section_type": "history",
+      "original_text": "         Name und Geschichtliches.         Gurjun ist indischen Ursprunges; ebenso Garjan oder Gard-\nschan (Garjan tel = Holzöl). Dipterocarpus von dis doppelt, srreoov, Flügel und xogztog, Frucht,\nwegen der lang-2flügeligen Früchte.               |                                ;\n         Gurjunbalsam ist in Indien jedenfalls schon sehr lange im Gebrauch. 1811 wurde er von\nFrancklin als aus Ava stammend erwähnt.           Genauere Nachrichten rühren von Roxbu rgh her,\nwelcher in seinem Werke „Plants of the coast of Coromandel“ Abbildung und Beschreibung liefert, ebenso\nüber die Gewinnung des Balsams Nachricht giebt. O’Schaughnessy machte die Beobachtung, dass |\nder Gurjunbalsam eine dem Copaivabalsam ähnliche Wirkung äussert. 1868 erfolgte seine Aufnahme\nin die Pharm.     of India; 1842 wurde       er in Deutschland      bekannt.",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源自印度，1811 年提及，Roxburgh 描述其採集，1868 年收錄於印度藥典，1842 年傳入德國。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 496,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2004,
+        "char_end": 2847,
+        "page_text_sha256": "ffd3e3d0ae39006caaecf05d064922900ac85ec96134b118adec5418187b0ee2",
+        "exact_text_sha256": "3b12ae73342ec95160fef96ca5dafa1edcb8eaa8067cf53ab0de54b7d8336a0c",
+        "source_line_start": 23,
+        "source_line_end": 31,
+        "section_index": 3,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "3b12ae73342ec95160fef96ca5dafa1edcb8eaa8067cf53ab0de54b7d8336a0c",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0495-p0498:s04:x00",
+      "section_type": "constituents",
+      "original_text": "          Bestandtheile.   Nach Ch. Lowe enthält der Balsam 65°) ätherisches Oel, 34 Y, Harz,\n  1%, Essigsäure. Werner erhielt 20, ätherisches Oel; Flückiger, wie schon erwähnt, 45.5%, und\n  aus dem Balsam von Cochinchina 72%, ätherisches Oel.",
+      "normalized_text": null,
+      "zh_tw_rendering": "成分含揮發油（45.5-72%）、樹脂及醋酸。含 Gurgunsäure，熔點 220 度，不溶於水。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 497,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2639,
+        "char_end": 2882,
+        "page_text_sha256": "ade3859364786bccd517646c3905b47a5f149b37c25e2b3522625db547949fa1",
+        "exact_text_sha256": "b338999dd589c7d47480cef093c051578f2dbf7ea642617a3329e94a0d0a4b30",
+        "source_line_start": 29,
+        "source_line_end": 31,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "b338999dd589c7d47480cef093c051578f2dbf7ea642617a3329e94a0d0a4b30",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0495-p0498:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "         Anwendung.      Gurjunbalsam wird an Stelle des Copaivabalsams verwendet. ‫ا‬‎ E\n den Balsam bei Gonorrhoe, der in Emulsion zu 2.0 zweimal tüglich verwendet wird; Ru) mit Kalk-\n wasser zu Umschlägen bei Eichel-, Vorhaut- und Scheidentripper.    „Ostindische Aerzte en Hen\n Gurjunbalsam intern in Emulsion und äusserlich in Umschlägen mit Kalkwasser als EE          bei\n Lepra. Bei dem internen Gebrauche gegen Tripper darf man Dosen von 4.0, auf zweimal bei der\n Mahlzeit     genommen,       nicht   wohl    überschreiten,      da sonst    leicht Kolik        und heftige Diarrhoe entsteht.\nSchweiss und Athem zeigen den Geruch des Balsams, der nicht so leicht wie Copaiva Roseola Visi. ii\n(H usemann, Arzneimittel. 1192.) Die hauptsächlichste Verwendung findet der Balsam zum Anstreichen,\nzur Herstellung von Lackfirnis und Pauspapier.",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：替代 Copaiva 治療淋病及麻風病，外用石灰水敷貼。過量可致腹痛腹瀉。亦用於製漆。",
+      "evidence_indexes": [
+        3
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 498,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 845,
+        "page_text_sha256": "3679e77d962f67733c0031f49aef48245c41af5fd450ed35e7b34db50dd29308",
+        "exact_text_sha256": "ea37a4ff17ece4cf45391842e606c936dceb78a2e3149826f64371f4a7932691",
+        "source_line_start": 1,
+        "source_line_end": 9,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "ea37a4ff17ece4cf45391842e606c936dceb78a2e3149826f64371f4a7932691",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "a379c9da72b2f67dd8204bc92b6e823f6fdd75583421c51e4df2d7e9c89107a8",
+    "maker_receipt_sha256": "094026a68439e83c63e3e4127645c0bf334ba81984c317673dc2baca53786b56",
+    "validation_check_sha256": "1896bb3e3b93b83f36173bb0ab99949d8547de978421fcec1ad580f33f730ae2",
+    "source_disposition_sha256": "1bed3ca8db318ba746a4445189d17a0b2c3e222cd275d156ec2f1b14bcb83eef",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "094026a68439e83c63e3e4127645c0bf334ba81984c317673dc2baca53786b56",
+      "validation_check_sha256": "1896bb3e3b93b83f36173bb0ab99949d8547de978421fcec1ad580f33f730ae2",
+      "source_disposition_sha256": "1bed3ca8db318ba746a4445189d17a0b2c3e222cd275d156ec2f1b14bcb83eef"
+    },
+    "naming_artifact_sha256": "9e960131bb80d519aebe95f9cce86d4bf0e3a5ec73d3d45abf5269b26ba9f0f0"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "7f978fa35857be938f2b22e637e31c58636053eca87f6cbcdb60f358c4ab6f5e"
+}

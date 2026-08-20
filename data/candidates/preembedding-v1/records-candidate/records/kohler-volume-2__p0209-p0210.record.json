@@ -1,0 +1,295 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0209-p0210",
+  "entry_id": "kohler-volume-2:p0209-p0210",
+  "owner_shard": "S03",
+  "book_taxon": {
+    "scientific_name": "Imperatoria Ostruthium",
+    "authorship": "L.",
+    "aliases": [
+      "Peucedanum Ostruthium Koch.",
+      "Meisterwurz",
+      "Imperatoire",
+      "Struthion",
+      "Ostruthium",
+      "Laserpitium germanicum",
+      "Meisterwurzel",
+      "Kaiserwurz",
+      "Radix Imperatoriae",
+      "Radix Ostruthii",
+      "Radix Astrantiae"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Imperatoria Ostruthium",
+      "Imperatoria ostruthium"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T19:55:42+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Imperatoria+Ostruthium",
+        "query_name": "Imperatoria Ostruthium",
+        "retrieved_at": "2026-08-13T19:55:38+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Imperatoria+ostruthium",
+        "query_name": "Imperatoria ostruthium",
+        "retrieved_at": "2026-08-13T19:55:38+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Peucedanum+ostruthium",
+        "query_name": "Peucedanum ostruthium",
+        "retrieved_at": "2026-08-13T19:55:39+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Laserpitium+germanicum",
+        "query_name": "Laserpitium germanicum",
+        "retrieved_at": "2026-08-13T19:55:39+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Radix+imperatoriae",
+        "query_name": "Radix imperatoriae",
+        "retrieved_at": "2026-08-13T19:55:39+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Radix+ostruthii",
+        "query_name": "Radix ostruthii",
+        "retrieved_at": "2026-08-13T19:55:39+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Radix+astrantiae",
+        "query_name": "Radix astrantiae",
+        "retrieved_at": "2026-08-13T19:55:39+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 209,
+      "evidence_type": "text",
+      "page_text_sha256": "e8bfef5f5f07023a0b7e8bfc1dee7232576a4fc5f38730c22844a124854bbf01",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 210,
+      "evidence_type": "text",
+      "page_text_sha256": "b909728d468b9111ebcd6b5e4c96c748b2d42209cb250b0e252d35660d00473b",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0209-p0210:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                     Imperatoria Ostruthium L.\n                                       Syn. Peucedanum         Ostruthium Koch.\n\n                                             Meisterwurz 一 Imperatoire.\n             Familie:      Umbelliferae.\n                                      (Unterfamilie: Peucedaneae). Gattung: Imperatoria ip",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Imperatoria Ostruthium L.，同義名 Peucedanum Ostruthium。傘形科，俗名 Meisterwurz。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 209,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 347,
+        "page_text_sha256": "e8bfef5f5f07023a0b7e8bfc1dee7232576a4fc5f38730c22844a124854bbf01",
+        "exact_text_sha256": "489efc35c60c201b237972a098458b790b570a980ae4744da56cccc1ca2b0f77",
+        "source_line_start": 1,
+        "source_line_end": 6,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "489efc35c60c201b237972a098458b790b570a980ae4744da56cccc1ca2b0f77",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0209-p0210:s01:x00",
+      "section_type": "description",
+      "original_text": "           Beschreibung. Ausdauernde Pflanze mit bis 10 Ctm. langem, 15 Mm. breitem, meist stark\n plattgedrückt-cylindrischem oder nach unten kegelförmig verjüngtem, durch Blattnarben geringeltem,\n unregelmässig gekrümmtem, üstigem oder mehrkópfigem Wurzelstocke von graubrauner Farbe, welcher\n kurz längsfurchig und mit zahlreichen starken Höckern und erhabenen Wurzelnarben oder Querwulsten\n besetzt ist. Er treibt bis 5 Mm. dicke, etwas plattgedrückte, kurze, horizontale,\n                                                                                         knotig gegliederte,\n gegen die Spitze geringelte, tief längsrunzelige, wenig höckerige Ausläufer, die an ihrem bogig auf-\n steigenden Ende einen Stengel und ein neues Rhizom entwickeln. Stengel !/ bis 1 Meter hoch,\n aufrecht, ästig, fein gestreift, kahl, nur unter den Dolden flaumhaarig, markig-röhrig. Blätter kahl;\n die Grundblütter lang gestielt, doppelt-dreizählig; Blättchen breit-eiförmig, zugespitzt, unterseits blass-\n grün, auf den Nerven rauh, ungleich grob gesägt, das mittlere dreispaltig, die seitenständigen zwei-\n spaltig, mit ungleichen Lappen. Die stengelständigen Blätter kleiner, weniger lang gestielt, abwechselnd,\n‚die obersten oft gegentiberstehend. Blattstiel fast halbstielrund, schwach gerinnt, an der Basis erweitert,\n häutig, den Stengel scheidenartig umfassend. Blattscheide aufgeblasen. Die Blüthen weiss, in blatt-\n achselständigen und gipfelständigen, zusammengesetzten Dolden; sämmtliche Blüthen fruchtbar. Dolde\n vielstrahlig, flach. Döldchen vielblüthig, flach.        Hülle fehlend oder einblätterig, linienförmig; Hüllchen\n sehr klein, 1—3 blütterig, schmal linienförmig,          hinfällig. Kelch undeutlich.    Blumenkrone 5 blátterig;\n Kronenblátter gleichgestaltet, abstehend, verkehrt-herzfórmig, mit eingebogener Spitze. Staubgefässe\n mit rundlichen Fáden und zweifácherigen Beuteln. Pollen länglich, dreifurchig, dreinabelig. Stempel\n mit unterstándigem, rundlichem, von dem drüsigen Griffelfusse bedecktem Fruchtknoten; Griffel 2, von\n einander abstehend; Narben stumpf. Frucht flach zusammengedrückt, feingerippt, flügelartig gerandet.\n Früchtchen mit 3 rückenstündigen Rippen und 2 Randrippen. Randrippen am Grunde des Flügels,\n Thálchen einstriemig; Fugenfläche 2—4striemig, oberflächlich. Fruchtträger zweitheilig, borstenförmig.\n Spaltfrüchtchen einsamig; der etwas zusammengedrückte, auf der einen Seite etwas gewölbte, auf der\n andern flache Same mit reichlichem Endosperm und axilem Embryo.",
+      "normalized_text": null,
+      "zh_tw_rendering": "多年生植物，根莖灰褐色，具節。莖高至1米，葉羽狀複葉，花白色，果實扁平具翅。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 209,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 348,
+        "char_end": 2856,
+        "page_text_sha256": "e8bfef5f5f07023a0b7e8bfc1dee7232576a4fc5f38730c22844a124854bbf01",
+        "exact_text_sha256": "5037bf514017fdaa5e2f78453d7063f4266756ed6fcc72c8293d58f42181a5ae",
+        "source_line_start": 7,
+        "source_line_end": 31,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "5037bf514017fdaa5e2f78453d7063f4266756ed6fcc72c8293d58f42181a5ae",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0209-p0210:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "          Anatomisches. Der Wurzelquerschnitt zeigt eine aus wenigen Lagen Korkzellen zusammen-\n gesetzte Aussenrinde; eine aus einem stärkereichen Parenchym bestehende Mittelrinde und eine in\n abwechselnder Reihenfolge aus breiten Mark- und Baststrahlen gebildete Innenrinde. Die Mittelrinde\n enthält grosse, oft querovale Balsamgänge, welche gegen die Innenrinde hin zu einem Kreise geordnet\n sind.     Die Innenrinde    zeigt abwechselnde    Schichten    von    verkürzten,   dünnwandigen,   stürkeführenden,\nweiten Parenchymzellen und dickwandigen, etwas verlüngerten, inhaltlosen Bastzellen. Die Bastschicht\nführt ebenfalls im Querschnitte fast kreisrunde, etwas kleinere Balsamgänge, die an der Grenze der\nMittelrinde fast die Grüsse der Balsamgünge der Mittelrinde besitzen und vielfach paarweise neben-\neinander stehen. Das von der Innenrinde durch einen schmalen Kambiumstreifen getrennte Holz ist aus\nziemlich breiten Markstrahlen und abwechselnden breit-keilfórmigen Gefässbündeln gebildet. Letztere\nenthalten nach innen zu starke Holzstränge, von denen oft zwei nebeneinander liegende zusammen-\nfliessen. Das stärkehaltige, von Querlücken durchsetzte, aus lockerem Parenchym bestehende, bedeutende\nMark enthält, namentlich in den äusseren Theilen, sehr weite Balsamgünge. Das grosszellige Parenchym\ndes Markes, sowie der Markstrahlen und die Mittelrinde sind mit kleinen kugeligen oder eifórmigen\nStärkekörnern, wenigen Oeltröpfchen und kleinen bräunlichen Körnchen angefúllt. In den Neben-\nwurzeln fehlt das Mark; die schmalen Gefässbündel verlängern sich hier bis in das Centrum.",
+      "normalized_text": null,
+      "zh_tw_rendering": "根橫切面顯示皮層含油室，木質部具放射狀紋理，髓部含澱粉粒及油滴。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 209,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2857,
+        "char_end": 4450,
+        "page_text_sha256": "e8bfef5f5f07023a0b7e8bfc1dee7232576a4fc5f38730c22844a124854bbf01",
+        "exact_text_sha256": "941d1732c4416d54230b66d79027c40a23c75ecd4727218f1edd29a0e0c476b2",
+        "source_line_start": 32,
+        "source_line_end": 47,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "941d1732c4416d54230b66d79027c40a23c75ecd4727218f1edd29a0e0c476b2",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0209-p0210:s03:x00",
+      "section_type": "distribution",
+      "original_text": "         Vorkommen. Auf Gebirgswiesen Mitteleuropas, in der Auvergne, in den Alpen, in Deutschland\nim Erzgebirge, Harz, Thüringer Walde, auf den Sudeten; soll auch auf Island vorkommen. In Gärten\nder Gebirgsdörfer häufig kultivirt. Bei der kultivirten Pflanze soll jedoch die Wurzelbildung abweichen.",
+      "normalized_text": null,
+      "zh_tw_rendering": "產於中歐高山草甸、阿爾卑斯山及德國山區，亦見於冰島，常於山區村莊栽培。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 209,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 4494,
+        "char_end": 4794,
+        "page_text_sha256": "e8bfef5f5f07023a0b7e8bfc1dee7232576a4fc5f38730c22844a124854bbf01",
+        "exact_text_sha256": "0babee74d69afc5f3be11a1959e26cb9960598af4731de0002c4ba11d0e60d07",
+        "source_line_start": 49,
+        "source_line_end": 51,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "0babee74d69afc5f3be11a1959e26cb9960598af4731de0002c4ba11d0e60d07",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0209-p0210:s04:x00",
+      "section_type": "constituents",
+      "original_text": "          Bestandtheil   e.   Nach    Kell  er   enth ält   die  Wurz el:   äthe risc hes Oel,  scha rfes Harz ,  Fett , Gum mi\neisenblä uend en Gerb stof f, Stär keme hl,   Bitt erst off;    nach   Osa nn    und    Wac ken rod  er    eine n   eige nthü m-\nlichen krystallinischen Körper, Imperatorin (Peucedanin); nach Gorup-Besanez einen eigenthümlichen\nkrystallinischen, geschmacklosen Körper, Ostruthiin.\n          Peucedanin (Imperatorin) C,, H,, Oa, 1831 von Osann und Wackenroder entdeckt und\nImperatorin       genannt, von       Wagner        1854 als identisch mit dem von                 Schlatter       1833     in Pencedanum\nofficinale aufgefundenen Peucedanin erkannt, bildet farblose, glänzende, rhombische Säulen ohne Geruch,\nin weingeistiger Lösung mit brennendem, aromatischem, anhaltend kratzendem Geschmack, schmilzt bei\n769 (nach Hlasiwetz bei 81—820) und erstarrt nach längerer Zeit strahlig und krystallinisch wieder.\nEs ist unlöslich in Wasser, wenig löslich in kaltem, leicht löslich in heissem Weingeist, in Aether,\nflüchtigen und fetten Oelen, in Chloroform, Schwefelkohlenstoff und heissem Eisessig. In starker Hitze\nwird es zersetzt. Durch Kochen mit weingeistigem Kali spaltet es sich in Angelicasdure (C, Hz O;) und\nOreoselin (C,,H,,04). Beim Erhitzen mit Salzsäure entsteht Oreoselon (C,, H,, 03), eine farblose, lockere,\nblumenkohlartige, geruch- und geschmacklose Masse, die bei 156? zu einer gelben Flüssigkeit schmilzt\nund amorph wieder erstarrt, sich nicht in Wasser und nur schwierig in Weingeist und Aether löst,\nhingegen leicht in der Wärme in concentrirter Kalilauge mit gelber Farbe unter Verwandlung in\nOreoselin. ‘Das aus der kalischen Lösung durch Säure aus Oreoselon gefällte gelbweisse Oreoselin\nwird aus Weingeist in Nadelkrystallen erhalten, die sich in Wasser, Weingeist und Aether lösen.\nAlte Wurzeln sind reicher an Peucedanin als jüngere.\n          Das von Gorup in der Wurzel von Impatoria Ostruthium in einer Ausbeute von 0,6%, ge-\nfundene     Ostruthin     C, „4H,, O, bildet farblose, trikline, fast geschmacklose Krystalle,                       mit einem Schmelz-\npunkt von 1159, schwer lóslich in kochendem Wasser, leicht lóslich in Alkohol und Aether. Beim\nKochen mit Salpetersäure bildet sich Styphninsäure, beim Schmelzen mit Kali Resorcin, Essigsäure\nund Buttersäure.\n          Das ätherische Oel, welches in einer Ausbeute von 0,18—0,78 Da aus der Wurzel gewonnen\nwird, ist farblos oder blassgelb, von scharfem Geruche und kampferartigem Geschmack, mit einem Siede-\npunkt von 1709—2209. Es besteht nach Hirzel aus einem Gemenge von Hydraten eines Kohlen-\nwasserstoffes C. Hg. Durch trockene Destillation der Wurzel erhält man Umbellferon. (Husemann,\nPflanzenstoffe 955.)        ;",
+      "normalized_text": null,
+      "zh_tw_rendering": "含揮發油、樹脂、澱粉及 Imperatorin、Ostruthiin 等結晶體。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 210,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 1707,
+        "char_end": 4450,
+        "page_text_sha256": "b909728d468b9111ebcd6b5e4c96c748b2d42209cb250b0e252d35660d00473b",
+        "exact_text_sha256": "63e1cf495cb2eeed0a4230d1baec0cb423ceca367f0bade26e8e88ccd655c54e",
+        "source_line_start": 15,
+        "source_line_end": 43,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "63e1cf495cb2eeed0a4230d1baec0cb423ceca367f0bade26e8e88ccd655c54e",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0209-p0210:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "           Anwendung.              In Substanz, im Aufguss und- als. Tinktur, jetzt fast nur noch in der Thier-\narznei gebräuchlich.         Die Meisterwurz galt früher als Excitans, Carminativum, Diaphoreticum, Sialogogum.\nIm Mittelalter galt sie als Mittel gegen Delirium tremens und Krebs.                                 Extractum Imperatoriae ist bei\nLithiasis, Nieren- und Harnblasenleiden                von     franzósischen      Aerzten      empfohlen       worden     und    soll neben\ndem Gebrauch von Salzsäure die Stein- und Griesbildung hemmen.                                  (Husemann,           Arzneimittell. 962.)\n",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史上用於興奮、驅風及利尿，中世紀治譫妄與癌症，法國醫師曾推薦治結石。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 210,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 4451,
+        "char_end": 5085,
+        "page_text_sha256": "b909728d468b9111ebcd6b5e4c96c748b2d42209cb250b0e252d35660d00473b",
+        "exact_text_sha256": "61d06cd573c95b9d40b6161644993ce49bd06fc3fab7fb3dce9c67fff5f5b2d3",
+        "source_line_start": 44,
+        "source_line_end": 49,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "61d06cd573c95b9d40b6161644993ce49bd06fc3fab7fb3dce9c67fff5f5b2d3",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "d8913402afd0f73fcc6da7dd3683fc853453add478f0e7e0e7991f065fb16392",
+    "maker_receipt_sha256": "4684ab987fa98ce278864121bf7b66eb1d73ae45bed183b6e2e3c63cd8296a4c",
+    "validation_check_sha256": "f2df14c64ad0cea4a3bb9a7f53cdba765c4faba7b71f76d1d1a0fd47e42c8698",
+    "source_disposition_sha256": "f38955d9c66db8a57bd6aecee915ae936764b8120e7d16842b21bc758f2e1b48",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "4684ab987fa98ce278864121bf7b66eb1d73ae45bed183b6e2e3c63cd8296a4c",
+      "validation_check_sha256": "f2df14c64ad0cea4a3bb9a7f53cdba765c4faba7b71f76d1d1a0fd47e42c8698",
+      "source_disposition_sha256": "f38955d9c66db8a57bd6aecee915ae936764b8120e7d16842b21bc758f2e1b48"
+    },
+    "naming_artifact_sha256": "0dda2e844c4db80d4696f490632642a4e4f1d9aa5c8e1e23509f5217f81903a2"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "705d2ed61d86d8d21c2139e2396d9bad24d7f550dc8134263926c4fc4e5af839"
+}

@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 271,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "7f63d49b30d6e42b6f572d4be6837a83889d13eef0a4f0346b15a3292d305aba",
+  "render_dpi": 144,
+  "render_sha256": "0b23971ae66575f7ce7ddba503eba3f146503c3330a8a074f3f08606d4de101d",
+  "input_sha256": "0b23971ae66575f7ce7ddba503eba3f146503c3330a8a074f3f08606d4de101d",
+  "render_pixel_width": 5834,
+  "render_pixel_height": 8366,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.304,
+  "embedded_character_count": 253,
+  "ocr_character_count": 50,
+  "ocr_alpha_ratio": 0.74,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.01889534791310632,
+      "text": "Solaneae.",
+      "width": 0.0833333315245627,
+      "x": 0.06666666861271862,
+      "y": 0.8997093026967898
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "10",
+      "width": 0.0187499994573688,
+      "x": 0.22500000003694065,
+      "y": 0.313953488365426
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015264108067467141,
+      "text": "WMüller n.d.Nat.",
+      "width": 0.10437097454478017,
+      "x": 0.8186478451729557,
+      "y": 0.12463538800220386
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.020913969902765173,
+      "text": "Nicotiana Tabacum L.",
+      "width": 0.17721513121429922,
+      "x": 0.43118410282995057,
+      "y": 0.08111278242668551
+    }
+  ],
+  "text": "Solaneae.\n10\nWMüller n.d.Nat.\nNicotiana Tabacum L.",
+  "output_sha256": "e824e7674c84d607b5e399ff6503f9451bd526482c201e547f54ee1db5985834",
+  "receipt_sha256": "9a5b55a333e67ccf58941bdf486f85365fe3175be9b91de57ba5e07aa4c546b4"
+}

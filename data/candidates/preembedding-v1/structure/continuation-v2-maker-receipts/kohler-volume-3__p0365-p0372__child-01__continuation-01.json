@@ -1,0 +1,155 @@
+{
+  "schema_version": "2.0",
+  "package_id": "kohler-volume-3:p0365-p0372:child-01:continuation-01",
+  "parent_entry_id": "kohler-volume-3:p0365-p0372",
+  "child_entry_id": "kohler-volume-3:p0365-p0372:child-01",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation-v2:kohler-volume-3:p0365-p0372:child-01:continuation-01:v1",
+  "owner_shard": "S07",
+  "package_sha256": "0f2c78b239cff79b2df108d801bf87e3fd16706a11b226a055f365c72a6426c7",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "prompt_version": "plant-structure-line-coordinates-v2",
+  "attempt_sha256": "5a3a8904e4e38d1a440f123f301255597bc65bd0bac82b58601ba367d78021e8",
+  "raw_response_sha256": "e98ed626674022f31c5fea2bfbf2f1a647a654a3a87646a31ab04e411c302962",
+  "elapsed_seconds": 22.882,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 365,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 416,
+      "char_end": 546,
+      "source_line_start": 7,
+      "source_line_end": 7,
+      "page_text_sha256": "0aec6f6089cd3ecb47e3adcbe8d89c624a6049b7a28bc404862c58b54f4d1962",
+      "exact_text_sha256": "c880fa28695aafcc9cde69cb53d9ba750c23611daa23ce52a6558151e3d38829",
+      "section_index": 0,
+      "section_type": "taxonomy"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 365,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 548,
+      "char_end": 1089,
+      "source_line_start": 9,
+      "source_line_end": 13,
+      "page_text_sha256": "0aec6f6089cd3ecb47e3adcbe8d89c624a6049b7a28bc404862c58b54f4d1962",
+      "exact_text_sha256": "6fd88bc90c9a774156a6548b6d40bd19733fcc985b7affce74ee3b1fa09fe2a3",
+      "section_index": 1,
+      "section_type": "description"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 366,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 3892,
+      "char_end": 3934,
+      "source_line_start": 37,
+      "source_line_end": 37,
+      "page_text_sha256": "f32d5c1996adecc06ea058705a61f80f8c9fc0f8e47f240cf005ea8b1cd2fb68",
+      "exact_text_sha256": "698df3bddf7c4ab7abfd780632f1876d209f81f92418e298444036d6b86dcfd9",
+      "section_index": 2,
+      "section_type": "flowering"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 366,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 3936,
+      "char_end": 4336,
+      "source_line_start": 39,
+      "source_line_end": 42,
+      "page_text_sha256": "f32d5c1996adecc06ea058705a61f80f8c9fc0f8e47f240cf005ea8b1cd2fb68",
+      "exact_text_sha256": "b397dba4053d1957034872178e981328ee42921771e82522390c9b1d91cf11d0",
+      "section_index": 3,
+      "section_type": "distribution"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 369,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 3058,
+      "char_end": 3332,
+      "source_line_start": 34,
+      "source_line_end": 36,
+      "page_text_sha256": "134d8cd5cacd091bd511fd36be8930c208b0609a04e02efa4068921ad25198c6",
+      "exact_text_sha256": "dd4c347731acd1ce34033c64710ad66aa37d4b56d503641196402366b2dc2093",
+      "section_index": 4,
+      "section_type": "constituents"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-3:p0365-p0372:child-01:continuation-01",
+    "parent_entry_id": "kohler-volume-3:p0365-p0372",
+    "book_taxon": {
+      "scientific_name_candidate": "Zea Mais"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 365,
+        "source_line_range": [
+          7,
+          7
+        ],
+        "exact_source_quote": "          Familie: Gramineae.           Unterfamilie:                Panicoideae.    Tribus: Olyreae.              Gattung: Zea L."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 365,
+        "source_line_range": [
+          9,
+          13
+        ],
+        "exact_source_quote": "         Beschreibung. Der Mais ist ein einjähriges, bis 3 m hohes Gras. Sein Halm wird\narımstark und dicker; er ist stark knotig, rund und markig; die unteren Knoten sind genähert\nund   mit Wurzeln         besetzt.    Die    den      oberen Knoten         entspringenden Blätter               sind in der Jugend\nzusammengerollt,           später gross      und    flach,      an    den Rändern        etwas    wellig         und     in eine Spitze\nallmählich auslaufend. Sie sind 50 bis 100 cm lang und bis 10 cm breit, hellgrün, zweireihig"
+      },
+      {
+        "section_type": "flowering",
+        "pdf_page": 366,
+        "source_line_range": [
+          37,
+          37
+        ],
+        "exact_source_quote": "           Blütezeit.          Juni, Juli."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 366,
+        "source_line_range": [
+          39,
+          42
+        ],
+        "exact_source_quote": "           Vorkommen.               Das     Vaterland        der Maisstaude         ist ziemlich         unsicher.        Es     ist wohl    un-\nzweifelhaft, dass sie aus Amerika stammt; über die engere Heimat aber gehen\n                                                                            die Ansichten\nweit auseinander.      Es werden Mexiko, Neu-Granada, Peru genannt, und während A. deCand"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 369,
+        "source_line_range": [
+          34,
+          36
+        ],
+        "exact_source_quote": "         Bestandteile. Die Maiskörner enthalten durchschnittlich 62%, Stärke, un Bortem,\n8%/, fettes Öl, 19°/, Asche, Zucker und lösliche Extraktstoffe, Wasser und Rohfaser. — Das\nfette Öl des Embryo, Maisöl, Oleum Maidis, Maize oil, Hwile de papetons, ist blassgelb, frisch"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "b9ecd0b3963ef57ec7bc7836c839668f3e2a014fc5e6dff480bdf52649122148"
+}

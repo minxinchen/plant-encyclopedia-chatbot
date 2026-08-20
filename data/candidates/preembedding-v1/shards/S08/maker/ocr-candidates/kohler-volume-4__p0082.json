@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-4",
+  "volume": 4,
+  "pdf_page": 82,
+  "owner_shard": "S08",
+  "source_pdf": "/Volumes/NO NAME/第四集 mobot31753003431696.pdf",
+  "source_text_sha256": "32cc38e0e250234b88f039f7be203084b8bf2e0c4758ef6cea2f9fc9a044fe9f",
+  "render_dpi": 144,
+  "render_sha256": "8c0e01b97bbe5143826dc5328a422b6859de55e81da1e4eb9a7b3f6fb38ebbae",
+  "input_sha256": "8c0e01b97bbe5143826dc5328a422b6859de55e81da1e4eb9a7b3f6fb38ebbae",
+  "render_pixel_width": 5768,
+  "render_pixel_height": 8434,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 5.454,
+  "embedded_character_count": 585,
+  "ocr_character_count": 96,
+  "ocr_alpha_ratio": 0.5833,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.014534883082859107,
+      "text": "29~",
+      "width": 0.0467091284427546,
+      "x": 0.05520169846439765,
+      "y": 0.9752906979207797
+    },
+    {
+      "confidence": 1,
+      "height": 0.020435354066273503,
+      "text": "Tafel 33",
+      "width": 0.05944798215737457,
+      "x": 0.027600849803596273,
+      "y": 0.9520348841860186
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01889534791310632,
+      "text": "Betulaceae",
+      "width": 0.09129511644392452,
+      "x": 0.8343949051936428,
+      "y": 0.9447674423497695
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252612005,
+      "text": "3",
+      "width": 0.012738853714620024,
+      "x": 0.9065817409983162,
+      "y": 0.8968023258300893
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "8",
+      "width": 0.010615711198326716,
+      "x": 0.885350318392344,
+      "y": 0.5784883724386165
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "12",
+      "width": 0.01698513736406737,
+      "x": 0.9023354569655248,
+      "y": 0.3895348839696242
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "10",
+      "width": 0.01698513736406726,
+      "x": 0.8237791934198773,
+      "y": 0.11627906997238113
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01889534791310621,
+      "text": "Ev.C.",
+      "width": 0.07430997631357922,
+      "x": 0.2802547790406626,
+      "y": 0.07848837251147012
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "9",
+      "width": 0.012738853714620024,
+      "x": 0.5647558384293142,
+      "y": 0.07558139565203703
+    },
+    {
+      "confidence": 1,
+      "height": 0.029701774082486643,
+      "text": "1-9 Betula verrucosa Ehrh. 10-12 Betala pubescens Ehrh",
+      "width": 0.6145433809032814,
+      "x": 0.16949132816100212,
+      "y": 0.005335305163300497
+    }
+  ],
+  "text": "29~\nTafel 33\nBetulaceae\n3\n8\n12\n10\nEv.C.\n9\n1-9 Betula verrucosa Ehrh. 10-12 Betala pubescens Ehrh",
+  "output_sha256": "219b772bff1f4e1ab667c96a5400f8b552b0f0ad2db0c265db6fd0cd6fc87754",
+  "receipt_sha256": "142b60aef8e917bfd3d0822a5687b7faeaaa1fbc3cf360dcd2af8d970d4688e9"
+}

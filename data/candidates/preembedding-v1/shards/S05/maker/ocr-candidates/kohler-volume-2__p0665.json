@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 665,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "f6e1243235d55bb0357b99bd2336d1c56dd4f2b18f0d51c2406d6ec17abe399f",
+  "render_dpi": 144,
+  "render_sha256": "22fa1111f5843ac591dadaeef60fa6fffa212bf00374eb4bccf83280fb7881e4",
+  "input_sha256": "22fa1111f5843ac591dadaeef60fa6fffa212bf00374eb4bccf83280fb7881e4",
+  "render_pixel_width": 5534,
+  "render_pixel_height": 7826,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.179,
+  "embedded_character_count": 45,
+  "ocr_character_count": 46,
+  "ocr_alpha_ratio": 0.7826,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.02180232509734148,
+      "text": "Euphorbiaceae.",
+      "width": 0.14784393738563406,
+      "x": 0.8090349093769982,
+      "y": 0.9287790697914455
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883082859107,
+      "text": "10",
+      "width": 0.022587269252012016,
+      "x": 0.21560574913169422,
+      "y": 0.29360465142368675
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494425,
+      "text": "8",
+      "width": 0.012320328561320038,
+      "x": 0.45790554422036667,
+      "y": 0.16715116298952026
+    },
+    {
+      "confidence": 1,
+      "height": 0.02331349206349209,
+      "text": "Euphorbia resinifera Berg.",
+      "width": 0.2731006081943592,
+      "x": 0.37371663908557184,
+      "y": 0.11334325396825395
+    }
+  ],
+  "text": "Euphorbiaceae.\n10\n8\nEuphorbia resinifera Berg.",
+  "output_sha256": "6d1bb4dea730da253f49d185072755b3c63c6aa410e2aa46eb83563644f753c4",
+  "receipt_sha256": "62ad7e367f626545f6487efb04409ba87631330b7ca74f6910d76ca1911cd218"
+}

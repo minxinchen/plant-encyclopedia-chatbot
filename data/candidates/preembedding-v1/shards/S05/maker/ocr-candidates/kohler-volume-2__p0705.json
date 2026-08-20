@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 705,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "d12a1059df63a8a7ed4f816580f08897bc155de29f8974807bf582e0371d285f",
+  "render_dpi": 144,
+  "render_sha256": "0269e41d8b7072a86ad1495216a6f2b36fcd967b70e635b658af5ced7e86c4be",
+  "input_sha256": "0269e41d8b7072a86ad1495216a6f2b36fcd967b70e635b658af5ced7e86c4be",
+  "render_pixel_width": 5750,
+  "render_pixel_height": 7874,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.326,
+  "embedded_character_count": 100,
+  "ocr_character_count": 44,
+  "ocr_alpha_ratio": 0.6591,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.023102714901878763,
+      "text": "Lingiberaceae.",
+      "width": 0.17127700473951257,
+      "x": 0.7612799884061198,
+      "y": 0.9324893401928926
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "3",
+      "width": 0.011928428774294675,
+      "x": 0.7773359843007255,
+      "y": 0.7281976746464971
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "B",
+      "width": 0.013916500236677093,
+      "x": 0.1133200798021386,
+      "y": 0.15116279087996076
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02180232509734137,
+      "text": "18tE)",
+      "width": 0.011928431365800907,
+      "x": 0.34791252373061843,
+      "y": 0.1395348842354862
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0199977329799107,
+      "text": "Gurcuma",
+      "width": 0.1100570326266081,
+      "x": 0.3793651232221709,
+      "y": 0.08447787776447024
+    },
+    {
+      "confidence": 1,
+      "height": 0.023148059844970703,
+      "text": "longa I",
+      "width": 0.10238057634104852,
+      "x": 0.4925472864125913,
+      "y": 0.08144922568867818
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436846943,
+      "text": "178",
+      "width": 0.025844929010971796,
+      "x": 0.870775348491532,
+      "y": 0.023255814073000924
+    }
+  ],
+  "text": "Lingiberaceae.\n3\nB\n18tE)\nGurcuma\nlonga I\n178",
+  "output_sha256": "07f65e830293edeac7ff40ae09a7fdccf1c0c69da326336967fe4691bb473579",
+  "receipt_sha256": "f6e9cc8f9f5d9f811e45095a3273db327d65e8ff7a4d1f895a2ff60a1f0b9be5"
+}

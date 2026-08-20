@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 473,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "37506a318c600fd1a8fdeccd5cd6f4717197297860d18b84844a0a9f95165aeb",
+  "render_dpi": 144,
+  "render_sha256": "466db60b106b8a3e6f0e54c0fb83ad7e63d4ad6182419609e1f93578d041d91c",
+  "input_sha256": "466db60b106b8a3e6f0e54c0fb83ad7e63d4ad6182419609e1f93578d041d91c",
+  "render_pixel_width": 5690,
+  "render_pixel_height": 8234,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.776,
+  "embedded_character_count": 128,
+  "ocr_character_count": 47,
+  "ocr_alpha_ratio": 0.7872,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01627339635576519,
+      "text": "Rutaceae",
+      "width": 0.07785320076596713,
+      "x": 0.878090205603196,
+      "y": 0.9315435345374401
+    },
+    {
+      "confidence": 1,
+      "height": 0.01889534791310632,
+      "text": "(Aurantieae)",
+      "width": 0.10294116938276765,
+      "x": 0.8634453828768934,
+      "y": 0.9069767444119061
+    },
+    {
+      "confidence": 1,
+      "height": 0.023336562845442055,
+      "text": "Citrus Bergamia Risso.",
+      "width": 0.2121848649287173,
+      "x": 0.39705882980805024,
+      "y": 0.021802325737634853
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "49",
+      "width": 0.014705882514028046,
+      "x": 0.8991596637587422,
+      "y": 0.010174418999694734
+    }
+  ],
+  "text": "Rutaceae\n(Aurantieae)\nCitrus Bergamia Risso.\n49",
+  "output_sha256": "8b25963432354a41e724bd58c90c0fc4288f8bc8e74abfd2e01690732ee9ba97",
+  "receipt_sha256": "a2783963292b493bd0aa807968b4223b85329bffda48853816b5388c1608c31b"
+}

@@ -1,0 +1,278 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0067-p0068",
+  "entry_id": "kohler-volume-1:p0067-p0068",
+  "owner_shard": "S01",
+  "book_taxon": {
+    "scientific_name": "Colchicum autumnale",
+    "authorship": null,
+    "aliases": [
+      "Herbstzeitlose",
+      "Wiesensafran",
+      "Meadow Saffron",
+      "Wild Saffron",
+      "Colchique",
+      "Colchicum vernum Schrk.",
+      "C. vernale Hoffm.",
+      "C. praecox Spenn.",
+      "Colchicum pannonicum Grieseb. et Schenk"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Colchicum autumnale"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T17:07:02+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Colchicum+autumnale",
+        "query_name": "Colchicum autumnale",
+        "retrieved_at": "2026-08-13T17:06:58+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Meadow+saffron",
+        "query_name": "Meadow saffron",
+        "retrieved_at": "2026-08-13T17:06:59+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Wild+saffron",
+        "query_name": "Wild saffron",
+        "retrieved_at": "2026-08-13T17:06:59+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Colchicum+vernum",
+        "query_name": "Colchicum vernum",
+        "retrieved_at": "2026-08-13T17:06:59+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Colchicum+pannonicum",
+        "query_name": "Colchicum pannonicum",
+        "retrieved_at": "2026-08-13T17:06:59+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 67,
+      "evidence_type": "text",
+      "page_text_sha256": "2c164f3abf26b350b9363b83094e29aa7887173202caf30f9f1751ca733959d0",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 68,
+      "evidence_type": "text",
+      "page_text_sha256": "e9cd3d4c1be118af0631348c004bf160d89dca8345b53c1d3d5c92bb692b1d26",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0067-p0068:s00:x00",
+      "section_type": "description",
+      "original_text": "         Beschreibung. Perennirende Pflanze mit tief in                der Erde befindlichem, zwiebelknolligem\nWurzelstocke.      Zwiebel zweijahrig, dicht, ei-herzformig,         mit einer oder mehreren, trockenhautigen,\nkastanienbraunen nach oben in eine zerfetzte Sclieide auslaufenden Schalen bedeckt, auf dem Rticken\n                      ,\n\n\n",
+      "normalized_text": null,
+      "zh_tw_rendering": "多年生植物，具地下球莖。球莖二年生，卵心形，覆以乾膜質鱗片。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 67,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 222,
+        "char_end": 570,
+        "page_text_sha256": "2c164f3abf26b350b9363b83094e29aa7887173202caf30f9f1751ca733959d0",
+        "exact_text_sha256": "8c583414ad49b1821839f3ccb4ff4bfc98b2c4a9f6dfb5c3822f0bec93cf21a1",
+        "source_line_start": 5,
+        "source_line_end": 11,
+        "section_index": 0,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "8c583414ad49b1821839f3ccb4ff4bfc98b2c4a9f6dfb5c3822f0bec93cf21a1",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0067-p0068:s01:x00",
+      "section_type": "anatomy",
+      "original_text": "          Anatomisches : Die Samenschale zeigt auf dem Quersclmitte 1 2 Schichten weite Zellen und nach innen\nzu mehrere Schichten kleinere, diinnwandige, tangential gestreckte, flache Zellen, deren innerste Lage mit dem horn-\nartigen, graulichen, strahlichen, aus weitgetupfelten Parenchymzellen bestehenden Endosperm verwachsen ist. Die\nZellen des letzteren besitzen ein korniges Plasma und enthalten grosse Oeltropfen.    Die Zellen der Samenschale ent-\nhalten, mit Ausnahme der inneren kleinen, Starkemehlkorner.   Die Knolle besteht aus einem diinnwandigen, von vielen\nzarten Fibrovasalstrangen clurchzogenen Parenchym.",
+      "normalized_text": null,
+      "zh_tw_rendering": "種皮橫切面顯細胞層，內含澱粉粒；球莖由薄壁組織及維管束組成。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 67,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 5069,
+        "char_end": 5693,
+        "page_text_sha256": "2c164f3abf26b350b9363b83094e29aa7887173202caf30f9f1751ca733959d0",
+        "exact_text_sha256": "7ea6f984a40ff91ec1c73f1b92fd6e4d7b5a238d3862e5ab0e7e5c19675c9afc",
+        "source_line_start": 64,
+        "source_line_end": 69,
+        "section_index": 1,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "7ea6f984a40ff91ec1c73f1b92fd6e4d7b5a238d3862e5ab0e7e5c19675c9afc",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0067-p0068:s02:x00",
+      "section_type": "distribution",
+      "original_text": "         Verbreitung.         Auf feuchten Wiesen durch das ganze westliche, mittlere und siidliche Europa,\nauch im nordlichen Afrika.        In den Walliser Alpen' noch in 2200          m Meereserhebung vorkommend.",
+      "normalized_text": null,
+      "zh_tw_rendering": "分佈於西、中、南歐濕潤草地及北非，瓦利斯阿爾卑斯山海拔2200米處亦有。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 67,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 5694,
+        "char_end": 5909,
+        "page_text_sha256": "2c164f3abf26b350b9363b83094e29aa7887173202caf30f9f1751ca733959d0",
+        "exact_text_sha256": "badf4f98d8b8759a28510e1f407b5e980f733797961af773d4607eec47f4bc64",
+        "source_line_start": 70,
+        "source_line_end": 71,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "badf4f98d8b8759a28510e1f407b5e980f733797961af773d4607eec47f4bc64",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0067-p0068:s03:x00",
+      "section_type": "history",
+      "original_text": "         Name undGeschichtlich.es.         Der deutsche Name Zeitlose, althochdeutsch zitlosa, bezieht\nsich auf die Verwechselung der Zeiten beziiglich der Bliithe (im Herbst) und der Frucht (im Friihjahr);\ner wird jedoch  auch aus dem italienischen  citella osa, stolze Jungfrau, abgeleitet. Colchicum stammt\nvon Kolchis in Kleinasien, wo die von Dioscorides beschriebene, mit unserem Colchic. autumnale\nwahrscheinlich   gleichbedeutende    Pflanze  haufig  vorkam.   Nach    Fraas    soil jedoch  das  Kolywov     der\nAlten  Colchicum   variegatum   L. gewesen   sein.  In  Europa war   unsere Herbstzeitlose   zur Zeit  des Mittel-\nalters als Giftpflanze bekannt, wurde aber medizinisch wenig oder gar nicht verwendet, da man zu medi-",
+      "normalized_text": null,
+      "zh_tw_rendering": "德名Zeitlose指花果季節錯亂；中世紀視為毒藥，當時多用東方種類Hermodactyli。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 67,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 5910,
+        "char_end": 6647,
+        "page_text_sha256": "2c164f3abf26b350b9363b83094e29aa7887173202caf30f9f1751ca733959d0",
+        "exact_text_sha256": "ab85c9dce6ee341a9448f526ab1f4f1778430d031e41789537daa1038d5022ec",
+        "source_line_start": 72,
+        "source_line_end": 78,
+        "section_index": 3,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "ab85c9dce6ee341a9448f526ab1f4f1778430d031e41789537daa1038d5022ec",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0067-p0068:s04:x00",
+      "section_type": "constituents",
+      "original_text": "         Bestandtheile. Die Colchicumzwiebel enthalt neben 20°/ Starkemelil, Zucker, Harz, Fett etc.\neinen von Pelletier und Caventou entdeckten, von ihnen fur Veratrin gehaltenen, bitterscharfen\nKorper, der von Geiger und Hesse als eigenthumlicli erkannt und von letzteren als Colchicin be-\nzeichnet worden ist. Die Bliithen enthalten nach Geiger und Hesse ebenfalls Colclticin, nach Reithner\nausserdem noch eisengriinende (in den Stanbbeuteln eisenblauende) Gerbsaure, Zucker, Fett, Harz,\nWaclis, Gummi.     Im Samen fanden Geiger, Hesse und Andere den grossten Colchicingehalt. Nach\nBleys Untersuchimgen ist im Samen ausser Colchicin nocli Zucker, Albumin, Fett, Harz etc. enthalten.\nAuch die Blatter enthalten Colchicin.",
+      "normalized_text": null,
+      "zh_tw_rendering": "球莖含秋水仙鹼、澱粉、糖、樹脂；種子含量最高，花與葉亦含秋水仙鹼。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 68,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4125,
+        "char_end": 4849,
+        "page_text_sha256": "e9cd3d4c1be118af0631348c004bf160d89dca8345b53c1d3d5c92bb692b1d26",
+        "exact_text_sha256": "60c7221b271514da674ce51c6ad2f7a8d66bf4301f159d6431743af9df0e5860",
+        "source_line_start": 49,
+        "source_line_end": 56,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "60c7221b271514da674ce51c6ad2f7a8d66bf4301f159d6431743af9df0e5860",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0067-p0068:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "           Anwendung.          Zu arzneilichen Zwecken wird jetzt im AUgemeinen nur noch der Samen und\nseine Praparate verwendet;      nur Frankreich und einige andere Lander benutzen noch die Zwiebel und\ndie daraus bereiteten Praparate.       Der wirksame Bestandtheil ist das Colchicin. Letzteres ist ein heftiges\nDrastikum, welches in grosseren Gaben Gastroenteritis erzeugt und den Tod herbeiftlhrt, eine Wirkung,\ndie ebenso auch durch ausserliche Anwendung und zwar durch Wunden und Einreibungen hervor-\ngebracht werden kann. Durch die, jedoch von neuen Forschern nicht bestatigte Wirkung auf vermehrte\nHarnsaureabscheidung hat die Herbstzeitlose ihren Ruf als Spezifikum gegen Gicht, Rheumatismus,\nGries- und Blasensteinbildung bis in die Neuzeit bewahrt.            (Husemann, Arzneimittell. 842.)",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史上種子及其製劑用於治療痛風與風濕，秋水仙鹼為劇毒強瀉劑，大劑量致死。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 68,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 6169,
+        "char_end": 6973,
+        "page_text_sha256": "e9cd3d4c1be118af0631348c004bf160d89dca8345b53c1d3d5c92bb692b1d26",
+        "exact_text_sha256": "e5aff3f8eda17557d368d3de9ef85efa2c3048ea55207b3706c68ee1ccc8f87d",
+        "source_line_start": 81,
+        "source_line_end": 88,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "e5aff3f8eda17557d368d3de9ef85efa2c3048ea55207b3706c68ee1ccc8f87d",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "a239a01483419f543e6be81a2d580bb25a1719e290e6792f83cbd3c9a640d9b3",
+    "maker_receipt_sha256": "cde462517d0f9a9f91a4fa7e817b6c5583c5ba08cefe6f09889566a24493a3fc",
+    "validation_check_sha256": "26c058d79b7ea20624f6f9a2b7cde3ade0be5646b979a5d339a9dedc01dcec8b",
+    "source_disposition_sha256": "1a3318ed5f6070d835de363c7b228035eb08ec60b2ddfe4a80d660b5b830420e",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "cde462517d0f9a9f91a4fa7e817b6c5583c5ba08cefe6f09889566a24493a3fc",
+      "validation_check_sha256": "26c058d79b7ea20624f6f9a2b7cde3ade0be5646b979a5d339a9dedc01dcec8b",
+      "source_disposition_sha256": "1a3318ed5f6070d835de363c7b228035eb08ec60b2ddfe4a80d660b5b830420e"
+    },
+    "naming_artifact_sha256": "1504c4644c78e12456829a82dc7892786676e6bb5be91f56391863111d605ee9"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "02063823a4a1a4dac12017a607f653880096b97de78fd75058f402f8b4f30d59"
+}

@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 285,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "09d4d4d181291a99454962fb99a50b1fc6bc41baae75b90b3db3b3d575e53886",
+  "render_dpi": 144,
+  "render_sha256": "4991751a48dc0978c4435dd4ff6613c8e38bab16ec312e8ed8c51141f0ca1236",
+  "input_sha256": "4991751a48dc0978c4435dd4ff6613c8e38bab16ec312e8ed8c51141f0ca1236",
+  "render_pixel_width": 5786,
+  "render_pixel_height": 8318,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.52,
+  "embedded_character_count": 132,
+  "ocr_character_count": 57,
+  "ocr_alpha_ratio": 0.6667,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.017709383888850128,
+      "text": "Colchicaceae.",
+      "width": 0.10864767888912708,
+      "x": 0.8204152015780228,
+      "y": 0.9199243777469974
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "10",
+      "width": 0.016701461074187435,
+      "x": 0.11064718178023406,
+      "y": 0.6177325584201767
+    },
+    {
+      "confidence": 1,
+      "height": 0.014696524729804317,
+      "text": "WM. n.d. Nat.",
+      "width": 0.07522083807229496,
+      "x": 0.8642684948671764,
+      "y": 0.13509359848101077
+    },
+    {
+      "confidence": 1,
+      "height": 0.016937329655601907,
+      "text": "Colchicum",
+      "width": 0.10467599989768017,
+      "x": 0.3944260926537597,
+      "y": 0.09545575383554417
+    },
+    {
+      "confidence": 1,
+      "height": 0.021129002646794404,
+      "text": "autumnale l.",
+      "width": 0.13385274048286588,
+      "x": 0.5113617282981243,
+      "y": 0.09263317301277452
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "25.",
+      "width": 0.01670146107418735,
+      "x": 0.9206680585025723,
+      "y": 0.052325581558255396
+    }
+  ],
+  "text": "Colchicaceae.\n10\nWM. n.d. Nat.\nColchicum\nautumnale l.\n25.",
+  "output_sha256": "621d2867c90db959791745100d9b2fd7af4ef9752ef32bdd6839a6b58045507b",
+  "receipt_sha256": "49c64f0279c869dc3c28763537a47fb8cd2561e1b9c6f2ae05523112b8f233b8"
+}

@@ -1,0 +1,159 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-1:p0147-p0148",
+  "owner_shard": "S02",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S02/maker/structure-drafts/kohler-volume-1__p0147-p0148.json",
+  "source_draft_sha256": "9a4abd9f61fcbf00641fde4f8fff947159a06c0f0dd755373a62f17a025a8083",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "c40e771d18c48cd13ade25bed0a1d9ce8537155008c1ebbfbb33e8b53bcba0b0",
+    "validation_check_sha256": "13156912afaecb07f3b6bb26c013ab50a8095b29aa32e2442de5b21ccf09a2ad",
+    "source_disposition_sha256": "5faf9d3248c931c79fbbcc7ee44cfbdacd83843cd804b9568e76d151d3c31904",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Abies alba",
+    "authorship_candidate": null,
+    "aliases_candidates": [
+      "Abies pectinata DC.",
+      "Pinus Picea L",
+      "Abies excelsa Lk."
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Abies alba"
+    ],
+    "accepted_scientific_name": "Abies alba",
+    "display_name_zh_tw": "歐洲冷杉",
+    "alternative_names_zh_tw": [
+      "銀冷杉",
+      "銀樅"
+    ],
+    "taiwan_occurrence_status": "not_asserted",
+    "taxon_id": null,
+    "authority_record_id": "forest-gov-tw-18928-abies-alba",
+    "rationale": "TaiCOL and Tai2 returned no exact species record. Kew POWO confirms Abies alba as the accepted scientific name. Taiwan Forestry Bureau material explicitly pairs Abies alba with 歐洲冷杉; Taiwan Forestry Research Institute material and National Taiwan University public seed resources independently use 銀冷杉 or 銀樅. No Taiwan occurrence is asserted.",
+    "checked_at": "2026-08-13T13:28:16+08:00",
+    "display_name_source_scope": "taiwan_government_public",
+    "display_name_source_evidence_ids": [
+      "forest_bureau"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Abies alba",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Abies+alba",
+      "retrieved_at": "2026-08-13T13:27:25+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Abies pectinata",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Abies+pectinata",
+      "retrieved_at": "2026-08-13T13:27:25+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Pinus picea",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Pinus+picea",
+      "retrieved_at": "2026-08-13T13:27:25+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Abies excelsa",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Abies+excelsa",
+      "retrieved_at": "2026-08-13T13:27:25+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Abies alba",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Abies%20alba",
+      "retrieved_at": "2026-08-13T13:27:28+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "kew_powo",
+      "authority": "Royal Botanic Gardens, Kew — Plants of the World Online",
+      "query_name": "Abies alba",
+      "record_url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60468511-2/general-information",
+      "retrieved_at": "2026-08-13T13:28:16+08:00",
+      "evidence_excerpt": "Abies alba Mill. — This species is accepted",
+      "assertion_scope": "external_scientific_name_metadata_only",
+      "evidence_source_scope": "non_taiwan_scientific_authority"
+    },
+    {
+      "source_id": "forest_bureau",
+      "authority": "農業部林業及自然保育署公開研究資料",
+      "query_name": "Abies alba",
+      "source_url": "https://www.forest.gov.tw/file/18928",
+      "retrieved_at": "2026-08-13T13:28:16+08:00",
+      "evidence_excerpt": "歐洲冷杉(Abies alba)",
+      "assertion_scope": "external_naming_metadata_only",
+      "evidence_source_scope": "taiwan_government_public"
+    },
+    {
+      "source_id": "tfri",
+      "authority": "農業部林業試驗所《台灣林業科學》",
+      "query_name": "Abies alba",
+      "source_url": "https://ws.tfri.gov.tw/001/Upload/OldFile/files/02_%E7%9B%B8%E6%80%9D%E6%A8%B9%E5%9C%A8%E5%8F%B0%E7%81%A3%E7%A8%AE%E6%BA%90%E5%BE%8C%E8%A3%94%E8%A9%A6%E9%A9%97%E4%B9%8B6%E5%B9%B4%E7%94%9F%E9%95%B7%E8%88%87%E6%A8%B9%E5%B9%B9%E6%80%A7%E7%8B%80%E4%B9%8B%E9%81%BA%E5%82%B3%E8%AE%8A%E7%95%B0.pdf",
+      "retrieved_at": "2026-08-13T13:28:16+08:00",
+      "evidence_excerpt": "銀冷杉(Abies alba)",
+      "assertion_scope": "external_naming_metadata_only",
+      "evidence_source_scope": "taiwan_government_public"
+    },
+    {
+      "source_id": "ntu_seed",
+      "authority": "國立臺灣大學農藝學系種子研究室發芽方法資料庫",
+      "query_name": "Abies alba",
+      "record_url": "https://seed.agron.ntu.edu.tw/database/germ1.htm",
+      "retrieved_at": "2026-08-13T13:28:16+08:00",
+      "evidence_excerpt": "Abies alba 歐洲冷杉，銀冷杉",
+      "assertion_scope": "external_naming_metadata_only",
+      "evidence_source_scope": "taiwan_academic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "The external sources are used only for scientific-name and Taiwan public-name metadata; forestry, germination, and other plant facts are not imported into the Köhler book-fact layer.",
+    "No Taiwan occurrence claim was established."
+  ]
+}

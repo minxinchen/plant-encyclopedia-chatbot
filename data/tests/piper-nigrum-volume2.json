@@ -1,0 +1,87 @@
+{
+  "schema_version": "1.0",
+  "run_id": "production2-piper-nigrum-profile-check-2026-08-12",
+  "batch_id": "kohler-v2-p293-p296-piper-nigrum",
+  "source_id": "kohler-volume-2",
+  "source_filename": "第二集 mobot31753002839121.pdf",
+  "volume": 2,
+  "record_id": "piper-nigrum",
+  "scientific_name": "Piper nigrum L.",
+  "display_name": "胡椒",
+  "pdf_pages": [293, 294, 295, 296],
+  "source_ranges": [
+    {
+      "pdf_page": 293,
+      "start_marker": "Piper nigrum L.",
+      "end_marker": "Piper officinarum",
+      "reason": "Keep the Piper nigrum heading and primary description; exclude the following related-species descriptions."
+    },
+    {
+      "pdf_page": 294,
+      "start_marker": "Blüthezeit.",
+      "end_marker": "Piper officinarum",
+      "reason": "Keep only Piper nigrum flowering and distribution before the related-species occurrence paragraphs."
+    },
+    {
+      "pdf_page": 295,
+      "start_marker": "Bestandtheile.",
+      "reason": "Keep the explicitly headed black-pepper constituents passage through the page boundary."
+    },
+    {
+      "pdf_page": 296,
+      "start_marker": "Bei Behandlung",
+      "end_marker": "Litteratur.",
+      "reason": "Keep the continuous Piperin chemistry and historical-use passages; exclude bibliography and caption from text retrieval."
+    }
+  ],
+  "promotion_scope": "Piper nigrum PDF pages 293-296 reviewed source ranges only; related Piper taxa, plate image and full-volume content are excluded",
+  "token_unit_contract": "Provider-neutral regex units: Unicode word sequences or individual non-whitespace punctuation. These are deterministic portable chunk units, not a claim about Gemini's private tokenizer.",
+  "profiles": [
+    {"profile_id": "page-baseline", "target_token_units": null, "overlap_token_units": null},
+    {"profile_id": "section-aware-512-100-v1", "target_token_units": 512, "overlap_token_units": 100}
+  ],
+  "queries": [
+    {
+      "query_id": "piper-piperin-zh-tw",
+      "question": "書中如何記載胡椒所含的 Piperin（胡椒鹼）？",
+      "expected_status": "answerable",
+      "required_book_terms": ["Piperin"],
+      "expected_pdf_pages": [295, 296]
+    },
+    {
+      "query_id": "piper-piperine-en",
+      "question": "What does the book record about piperine among the constituents of Piper nigrum?",
+      "expected_status": "answerable",
+      "required_book_terms": ["Piperin"],
+      "expected_pdf_pages": [295, 296]
+    },
+    {
+      "query_id": "piper-distribution-zh-tw",
+      "question": "本書如何記載胡椒的原生地與栽培分布？",
+      "expected_status": "answerable",
+      "required_book_terms": ["Malabarküste"],
+      "expected_pdf_pages": [294]
+    },
+    {
+      "query_id": "piper-ambiguous-pepper-zh-tw",
+      "question": "這裡說的 pepper 是胡椒、花椒、甜椒還是其他同名材料？",
+      "expected_status": "ambiguous",
+      "required_book_terms": ["all pepper names are taxonomically identical"],
+      "expected_pdf_pages": []
+    },
+    {
+      "query_id": "piper-wrong-name-refusal-zh-tw",
+      "question": "這四頁是否把 Piperin 的來源寫成花椒 Zanthoxylum bungeanum？",
+      "expected_status": "wrong_name",
+      "required_book_terms": ["Zanthoxylum bungeanum"],
+      "expected_pdf_pages": []
+    },
+    {
+      "query_id": "piper-chromosome-refusal-zh-tw",
+      "question": "這四頁記載胡椒的染色體數是多少？",
+      "expected_status": "unanswerable",
+      "required_book_terms": ["Chromosom", "chromosome number"],
+      "expected_pdf_pages": []
+    }
+  ]
+}

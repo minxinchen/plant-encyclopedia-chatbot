@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 391,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "351c0003c547af61f5d749c8014eb6995a2ecd517df131f05d4ff67a092593e5",
+  "render_dpi": 144,
+  "render_sha256": "3dfc1b5d6ec4ce7fbf7527e2caf54e43e7e8baf89685c0355bbb07b9cb61647a",
+  "input_sha256": "3dfc1b5d6ec4ce7fbf7527e2caf54e43e7e8baf89685c0355bbb07b9cb61647a",
+  "render_pixel_width": 5606,
+  "render_pixel_height": 8174,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.763,
+  "embedded_character_count": 89,
+  "ocr_character_count": 55,
+  "ocr_alpha_ratio": 0.8545,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.023509733260624,
+      "text": "Euphorbiaceae",
+      "width": 0.13780252121534375,
+      "x": 0.8347004338391067,
+      "y": 0.9519079239003848
+    },
+    {
+      "confidence": 1,
+      "height": 0.022162390133691146,
+      "text": "(Acalypheae)",
+      "width": 0.12724885644036965,
+      "x": 0.8389179454722172,
+      "y": 0.9300525260473731
+    },
+    {
+      "confidence": 1,
+      "height": 0.023353867114536353,
+      "text": "Hevea brasiliensis Müll Arg.",
+      "width": 0.26271186216275755,
+      "x": 0.36228813929997705,
+      "y": 0.05377906966689838
+    }
+  ],
+  "text": "Euphorbiaceae\n(Acalypheae)\nHevea brasiliensis Müll Arg.",
+  "output_sha256": "bd8723bf8461de2f44dada6fe6382d9266e4e9f611a9c17b89f406ee4e8ccbe7",
+  "receipt_sha256": "d91ee5bf6433052cebd6ee499f70e0fd41ae3b718c2e770e8f8de73de0a89983"
+}

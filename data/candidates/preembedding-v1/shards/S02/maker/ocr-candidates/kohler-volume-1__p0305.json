@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 305,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "9222eac949743663aa8d2637a0f26697b1ca189171ce6008833e5ab1eadc5089",
+  "render_dpi": 144,
+  "render_sha256": "37e99c8d5cc9071b1453299ee45b6810f16bb724d2f1ed574ba03a1b30e68499",
+  "input_sha256": "37e99c8d5cc9071b1453299ee45b6810f16bb724d2f1ed574ba03a1b30e68499",
+  "render_pixel_width": 5630,
+  "render_pixel_height": 7826,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.541,
+  "embedded_character_count": 139,
+  "ocr_character_count": 60,
+  "ocr_alpha_ratio": 0.6167,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.0207479879969642,
+      "text": "Rosaceae. (Pomeae.)",
+      "width": 0.18190365245143436,
+      "x": 0.7575330200863453,
+      "y": 0.9373004253288123
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494425,
+      "text": "5",
+      "width": 0.010101010107649022,
+      "x": 0.06868686858253914,
+      "y": 0.2645348839488225
+    },
+    {
+      "confidence": 1,
+      "height": 0.017311070646558457,
+      "text": "WMüller n.i. Nat.",
+      "width": 0.09134090957273544,
+      "x": 0.838167929067709,
+      "y": 0.15340841847800013
+    },
+    {
+      "confidence": 1,
+      "height": 0.02379212303767131,
+      "text": "Piras Malus I.",
+      "width": 0.15369054056873488,
+      "x": 0.4241648299454005,
+      "y": 0.1160109150619627
+    },
+    {
+      "confidence": 1,
+      "height": 0.013144841269841279,
+      "text": ". 35.",
+      "width": 0.02626262641133814,
+      "x": 0.9131313128801896,
+      "y": 0.018849206446716393
+    }
+  ],
+  "text": "Rosaceae. (Pomeae.)\n5\nWMüller n.i. Nat.\nPiras Malus I.\n. 35.",
+  "output_sha256": "3acaffa940807b2f0fce58d998b1fbac21f10b1362e069140678431ca4677064",
+  "receipt_sha256": "fa5b597a1730f1dbc2e50e317aadfd5b6eaa468ee6b7d77cccc27362ca9c81bc"
+}

@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-2:p0069-p0070",
+  "owner_shard": "S03",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S03/maker/structure-drafts/kohler-volume-2__p0069-p0070.json",
+  "source_draft_sha256": "47cf5062e115a2043ec61f4ea3049944ac0808180cd866f1d91435024893b4e4",
+  "eligibility": {
+    "deterministic_status": "pass",
+    "hold_resolved": false,
+    "checked_fields": [
+      "deterministic_status",
+      "hold_resolved"
+    ],
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "1d1d8153168346b793f8968c0005e8c13cdd5f041a5147cc4e6517ffeee9e0c8",
+    "validation_check_sha256": "74e0c45020187f913ca6e6eca8e85d00e7472ced081e71cf2a33cd044465d163",
+    "source_disposition_sha256": "81004bd28de98f72731dab75cea215a7df72ad065e5e16a43b8551f5a71e31af",
+    "review_status": "machine_extracted"
+  },
+  "book_name": {
+    "scientific_name_candidate": "Foeniculum capillaceum",
+    "authorship_candidate": "Gilib.",
+    "aliases_candidates": [
+      "F. officinale All.",
+      "F. vulgare Gärtn.",
+      "Anethum Foeniculum L.",
+      "Meum Foeniculum Spreng.",
+      "Foeniculum dulce DC.",
+      "Foeniculum urticifolium DC."
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Foeniculum capillaceum"
+    ],
+    "accepted_scientific_name": "Foeniculum vulgare",
+    "display_name_zh_tw": "茴香",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0053731",
+    "rationale": "TaiCOL explicitly links the book binomial as a species-level synonym to the accepted taxon.",
+    "checked_at": "2026-08-13T12:37:36+08:00",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Foeniculum capillaceum",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Foeniculum+capillaceum",
+      "retrieved_at": "2026-08-13T12:37:36+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Foeniculum capillaceum",
+          "matched_name_id": 117948,
+          "taxon_id": "t0053731",
+          "taicol_name_status": "not-accepted",
+          "accepted_name": "Foeniculum vulgare",
+          "accepted_name_id": 22238,
+          "accepted_usage": [
+            {
+              "usage_id": 286523,
+              "reference_id": 3024,
+              "reference_type": "Journal Article",
+              "publish_year": 2022,
+              "citation": "Chang-Yang, C.-H., Su, M.-h., Chiang, P.-H. & Hsieh, C.-F. (2022) Updating the Checklist of the Naturalized Flora in Taiwan. <i>Taiwania</i> 67(1): 1–8.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 177776,
+              "reference_id": 2454,
+              "reference_type": "Book",
+              "publish_year": 2017,
+              "citation": "Ed. Comm. Red List TW Plants,  (2017) The Red List of Vascular Plants of Taiwan, 2017 = 2017 臺灣維管束植物紅皮書名錄.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 320883,
+              "reference_id": 9991,
+              "reference_type": "Checklist",
+              "publish_year": 2012,
+              "citation": "Forestry Bureau, C. (2012) 外來入侵植物全國現狀調查計畫（4/4）101年度期末成果報告 = Survery of Invasive Alien Plants in Taiwan (4/4) 2012 Final Report",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 111795,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 2369,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0053731",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0053731",
+          "taxon": {
+            "taxon_id": "t0053731",
+            "taxon_status": "accepted",
+            "name_id": 22238,
+            "simple_name": "Foeniculum vulgare",
+            "name_author": "Mill.",
+            "rank": "Species",
+            "common_name_c": "茴香",
+            "alternative_name_c": null,
+            "synonyms": "Foeniculum panmorium, Seseli foeniculum, Meum foeniculum, Foeniculum foeniculum, Selinum foeniculum, Tenoria romana, Ozodia foeniculacea, Ligusticum foeniculum, Foeniculum officinale, Foeniculum capillaceum, Anethum panmorium, Anethum panmori, Anethum foeniculum",
+            "is_in_taiwan": true,
+            "alien_type": "naturalized",
+            "alien_status_note": "naturalized: Chang-Yang et al., 2022 (Origin: Mediterranean region)|naturalized: Ed. Comm. Red List TW Plants, 2017|naturalized: Forestry Bureau, 2012 (A類歸化植物)|naturalized: 原生於地中海沿岸; 沒有入侵性",
+            "not_official": false,
+            "updated_at": "2026-07-16"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

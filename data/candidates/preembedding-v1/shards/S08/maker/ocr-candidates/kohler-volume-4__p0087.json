@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-4",
+  "volume": 4,
+  "pdf_page": 87,
+  "owner_shard": "S08",
+  "source_pdf": "/Volumes/NO NAME/第四集 mobot31753003431696.pdf",
+  "source_text_sha256": "03a1d30fd183d88d44c0b27baa8b57f9c2839bc50d5acf4f481c6c615e50e422",
+  "render_dpi": 144,
+  "render_sha256": "3d0f1b2811688c1e9c3d2f804fefa6d3ebd6a3407b1cc505e4bf486aab4737d6",
+  "input_sha256": "3d0f1b2811688c1e9c3d2f804fefa6d3ebd6a3407b1cc505e4bf486aab4737d6",
+  "render_pixel_width": 5768,
+  "render_pixel_height": 8658,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 6.103,
+  "embedded_character_count": 18,
+  "ocr_character_count": 58,
+  "ocr_alpha_ratio": 0.7931,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.020435354066273503,
+      "text": "Pafe1 40",
+      "width": 0.054466230516014756,
+      "x": 0.026143791386872804,
+      "y": 0.9650297620642454
+    },
+    {
+      "confidence": 1,
+      "height": 0.022273457239544547,
+      "text": "Ranuncnlaceae",
+      "width": 0.12347315534760683,
+      "x": 0.8107823881086742,
+      "y": 0.9522854850325129
+    },
+    {
+      "confidence": 1,
+      "height": 0.014204292070298052,
+      "text": "(Helleboreae)",
+      "width": 0.10156659021895942,
+      "x": 0.8270783002045047,
+      "y": 0.9379263630911376
+    },
+    {
+      "confidence": 1,
+      "height": 0.017609126984126977,
+      "text": "Helleborus viridis b.",
+      "width": 0.22875817498429352,
+      "x": 0.3572984752801843,
+      "y": 0.01736111100776594
+    }
+  ],
+  "text": "Pafe1 40\nRanuncnlaceae\n(Helleboreae)\nHelleborus viridis b.",
+  "output_sha256": "09949398b493e0b2a300dfb77fcb5a74b23ddc697176e2834f31d2a711977b70",
+  "receipt_sha256": "ef9071c9c638c789287513601bfdbfee3093815c833607aa5cd4f9a2b212eeff"
+}

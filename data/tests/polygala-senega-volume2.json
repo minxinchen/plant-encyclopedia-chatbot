@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0",
+  "run_id": "production3-polygala-senega-profile-check-2026-08-12",
+  "batch_id": "kohler-v2-p101-p102-polygala-senega",
+  "source_id": "kohler-volume-2",
+  "source_filename": "第二集 mobot31753002839121.pdf",
+  "volume": 2,
+  "record_id": "polygala-senega",
+  "scientific_name": "Polygala senega L.",
+  "display_name": "美遠志",
+  "pdf_pages": [101, 102],
+  "source_ranges": [
+    {
+      "pdf_page": 101,
+      "start_marker": "Polygala Senega L.",
+      "reason": "Keep the complete first page of the Polygala Senega entry."
+    },
+    {
+      "pdf_page": 102,
+      "start_marker": "Offizinell",
+      "reason": "Keep the drug, constituent, historical-use and caption passages; the preceding continuation is history but is excluded from retrieval."
+    }
+  ],
+  "promotion_scope": "Polygala Senega PDF pages 101-102 reviewed text ranges only; PDF 103 Smilax medica and plate-image reasoning are excluded",
+  "token_unit_contract": "Provider-neutral regex units: Unicode word sequences or individual non-whitespace punctuation. These are deterministic portable chunk units, not a claim about Gemini's private tokenizer.",
+  "profiles": [
+    {"profile_id": "page-baseline", "target_token_units": null, "overlap_token_units": null},
+    {"profile_id": "section-aware-512-100-v1", "target_token_units": 512, "overlap_token_units": 100}
+  ],
+  "queries": [
+    {
+      "query_id": "polygala-senegin-zh-tw",
+      "question": "書中如何記載美遠志根所含的 Senegin（皂苷）？",
+      "expected_status": "answerable",
+      "required_book_terms": ["Senegin"],
+      "expected_pdf_pages": [102]
+    },
+    {
+      "query_id": "polygala-senegin-en",
+      "question": "What does the book record about senegin or saponin in Polygala senega root?",
+      "expected_status": "answerable",
+      "required_book_terms": ["Senegin"],
+      "expected_pdf_pages": [102]
+    },
+    {
+      "query_id": "polygala-distribution-zh-tw",
+      "question": "本書如何記載美遠志的原生分布？",
+      "expected_status": "answerable",
+      "required_book_terms": ["Nordamerikas"],
+      "expected_pdf_pages": [101]
+    },
+    {
+      "query_id": "polygala-ambiguous-yuanzhi-zh-tw",
+      "question": "這裡說的遠志是美遠志、細葉遠志還是其他同名藥材？",
+      "expected_status": "ambiguous",
+      "required_book_terms": ["all plants called 遠志 are taxonomically identical"],
+      "expected_pdf_pages": []
+    },
+    {
+      "query_id": "polygala-wrong-name-refusal-zh-tw",
+      "question": "這兩頁是否把 Senegin 的來源寫成細葉遠志 Polygala tenuifolia？",
+      "expected_status": "wrong_name",
+      "required_book_terms": ["Polygala tenuifolia"],
+      "expected_pdf_pages": []
+    },
+    {
+      "query_id": "polygala-chromosome-refusal-zh-tw",
+      "question": "這兩頁記載美遠志的染色體數是多少？",
+      "expected_status": "unanswerable",
+      "required_book_terms": ["Chromosom", "chromosome number"],
+      "expected_pdf_pages": []
+    }
+  ]
+}

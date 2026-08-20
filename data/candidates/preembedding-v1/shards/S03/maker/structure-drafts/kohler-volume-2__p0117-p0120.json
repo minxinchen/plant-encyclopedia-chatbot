@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0117-p0120",
+  "owner_shard": "S03",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 149.978,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0117-p0120",
+    "book_taxon": {
+      "scientific_name_candidate": "Veratrum album L.",
+      "authorship_candidate": null,
+      "aliases_candidates": [
+        "Weisse Niesswurzel",
+        "weisser Germer",
+        "Hellebore blanc",
+        "White Hellebore",
+        "Veratrum viride",
+        "Veratrum lobelianum"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 117,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Veratrum album L.，百合科。俗名白藜蘆、白胡蘆巴。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          4
+        ],
+        "exact_source_quote": "                                                 Veratrum                 album L.\n         Weisse       Niesswurzel,            weisser Germer         —     Hellebore blanc —          White Hellebore.\n\n               Familie: Liliaceae ( Colchicaceae ). Gattung: Veratrum L."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 117,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "多年生，塊莖長 5-8 公分，外黑內白，具肉質根。",
+        "warnings": [],
+        "source_line_range": [
+          5,
+          10
+        ],
+        "exact_source_quote": "               Beschreibung.            Das ausdauernde,        5—8 Ctm. lange, 2 Ctm. dicke, gewöhnlich         einfache, auch\n   zwei- oder mehrköpfige,             cylindrische, bis umgekehrt kegelfórmige, am Grunde abgestutzte,\n                                                                                                        fleischige,\n   aussen     schwürzliche,     innen weisse,      mit Resten      der abgestorbenen     Blattscheiden     besetzte Rhizom    mit\n   rings aus dem Knollstocke entspringenden, über 20 Ctm. langen, 2—3 Mm. di\n                                                                                cken, fleischigen Wurzeln"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 118,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "橫切面顯示皮層含澱粉與草酸鈣晶體，木質部具彎曲導管。",
+        "warnings": [],
+        "source_line_range": [
+          18,
+          28
+        ],
+        "exact_source_quote": "          Anatomisches. Der kreisrunde Querschnitt des Wurzelstockes zeigt eine durch eine dunkele\nKernscheide vom Holz getrennte Rinde von !/, des Durchmessers.            Die Aussenrinde besteht aus\nmehreren, an den Wurzeln unterbrochenen Reihen kleiner, braunschwarz gefärbter Korkzellen; die\nMittelrinde aus einem durch wenige Gefässe unterbrochenen Parenchym, dessen Zellen mit durch wenig\nOel zusammengehaltenen oder verkleisterten Stärkekörnern angefüllt sind. In dieses Gewebe sind Krystall-\nzellen eingestreut, welche Bündel nadelfórmiger Prismen von Calciumoxalat einschliessen. Die in ihrem\nVerlaufe vielfach gezackte Kernscheide besteht aus einer, auch einigen Reihen nur nach innen ver-\ndiekter und an den Verdickungsstellen mit Porenkanälen versehener, im Querschnitt tangential ge-\nstreckter Steinzellen von geringer Länge. Das Holz zeigt ein der Mittelrinde ähnliches Parenchym\nund zahlreiche, sehr stark (oft horizontal) gekrümmte Gefässbündel, welche aus verschlungenen, spalten-\nförmig getüpfelten Gefässen und von letzteren umgebenen, kurzen Siebröhren zusammengesetzt sind."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 118,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分佈於歐洲至北亞及日本，生長於草地與溪邊，海拔可達 2700 公尺。",
+        "warnings": [],
+        "source_line_range": [
+          36,
+          39
+        ],
+        "exact_source_quote": "            Vorkommen.               Auf Wiesen und an Bachufern durch Europa und Nordasien bis Japan.                                          Von\nden spanischen Gebirgen bis zum Nordkap;                        in Griechenland,        Schwarzwald         und Vogesen, Dänemark                und\nEngland fehlend.             Im Süden mehr Gebirgspflanze und bis 2700 Meter emporsteigend, im Norden in\nden Niederungen;           im östlichen Finnmarken               bis 250 Meter Meereshóhe."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 119,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含藜蘆鹼、耶爾鹼等生物鹼，不含藜蘆鹼，另含苦味素與樹脂。",
+        "warnings": [],
+        "source_line_range": [
+          18,
+          25
+        ],
+        "exact_source_quote": "            Bestandtheile.    Die weisse Nieswurz enthält nach den Untersuchungen von Pelletier und\n   Caventou eine eigenthümliche Pflanzenbase (Veratrin), eine flüchtige Säure, Fett, Stärkemehl, Harz etc.\n  Weppen fand einen stickstofffreien Bitterstoff (Veratramarin) und eine eigenthümliche Säure (Jerva-\n  säure), Simon das Alkaloid (Jervin), Luff und pr die Alkaloide Rubijervin, Veratralbin und\n  Pseudojervin.\n           Von Maisch und Dragendorf und namentlich Tobien ist der Nachweiss geführt worden,\n  dass Veratr. album kein Veratrin enthält. Letzteres ist demnach hier nicht zu berücksichtigen, sondern\n  soll unter Sabadilla abgehandelt werden."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 120,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史上用作催嚏劑與疥癬藥，內服過量可致嘔吐、腹瀉甚至死亡。",
+        "warnings": [],
+        "source_line_range": [
+          8,
+          15
+        ],
+        "exact_source_quote": "          Anwendung. In Pulverform, Pillenform und im Aufguss, auch äusserlich zu Waschungen.\nInnerlich findet es gegenwärtig wenig Anwendung; äusserlich dient es als Bestandtheil einiger Nies-\npulver und wird in Salbenform als ein wirksames Mittel gegen Krätze gerühmt. Die Thierarzneikunde\nbedient sich dieses Mittels gegen Rude und bei alten Schweinen als Brechmittel     Die weisse Nies-\nwurz ist durch das ähnlich wirkende, aus Sabadilla gewonnene Veratrin ziemlich aus der Medizin ver-\ndrängt worden. In grösserer Menge innerlich genommen erregt Nieswurz heftige Aufregung, Schweiss,\nSpeichelfluss, Erbrechen, Durchfall, Tod. Gegenmittel bei Vergiftungen sind Gerbstoff, schleimige\nMittel, Kaffee mit Opium."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "9e0e0771816b4af507ab5e52944f33153b0751e90461a4a26b14e86d433018cc"
+}

@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-4",
+  "volume": 4,
+  "pdf_page": 89,
+  "owner_shard": "S08",
+  "source_pdf": "/Volumes/NO NAME/第四集 mobot31753003431696.pdf",
+  "source_text_sha256": "3ce4ad6071b9f5b85a74f18f7bf6fb5c0bd69cdc93d92cdd1d3cf36071ccc6fe",
+  "render_dpi": 144,
+  "render_sha256": "6c971016b83e244585a9b8fcc76674dec1e5979ec8a9301fceb02f37d114fa86",
+  "input_sha256": "6c971016b83e244585a9b8fcc76674dec1e5979ec8a9301fceb02f37d114fa86",
+  "render_pixel_width": 5768,
+  "render_pixel_height": 8482,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 8.296,
+  "embedded_character_count": 181,
+  "ocr_character_count": 69,
+  "ocr_alpha_ratio": 0.7536,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.02185423601241343,
+      "text": "Tafel 56",
+      "width": 0.05982906082787712,
+      "x": 0.04487179398777086,
+      "y": 0.9491279070007479
+    },
+    {
+      "confidence": 1,
+      "height": 0.02122093193114749,
+      "text": "Leguminosae",
+      "width": 0.11345966987415101,
+      "x": 0.8021820627637319,
+      "y": 0.9442933811788335
+    },
+    {
+      "confidence": 1,
+      "height": 0.022709749993823802,
+      "text": "(Papilionatae; Genisteae)",
+      "width": 0.19445747358793763,
+      "x": 0.7617397255667875,
+      "y": 0.9282490683755276
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436846943,
+      "text": "2",
+      "width": 0.017094017379393533,
+      "x": 0.850427350193087,
+      "y": 0.706395348886643
+    },
+    {
+      "confidence": 1,
+      "height": 0.02034883650522379,
+      "text": "MB.",
+      "width": 0.0683760695175738,
+      "x": 0.6068376067552546,
+      "y": 0.0857558143055277
+    },
+    {
+      "confidence": 1,
+      "height": 0.023186115991501555,
+      "text": "Lupinus albus L.",
+      "width": 0.17866854455504083,
+      "x": 0.3882254076653668,
+      "y": 0.010255959502648127
+    }
+  ],
+  "text": "Tafel 56\nLeguminosae\n(Papilionatae; Genisteae)\n2\nMB.\nLupinus albus L.",
+  "output_sha256": "4f70333e8445ba6cb06dda1209cc0f1a8b6c9b981c6180b956a803cb66aabcd1",
+  "receipt_sha256": "bd0001872fb77f0632a87293f9c3fa571494ee814e7b19a6a27db9ad33828091"
+}

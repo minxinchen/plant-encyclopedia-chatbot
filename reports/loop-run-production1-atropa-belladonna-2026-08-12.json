@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "run_id": "production1-atropa-belladonna-2026-08-12",
+  "started_at": "2026-08-12T14:30:00+08:00",
+  "finished_at": "2026-08-12T14:45:00+08:00",
+  "status": "approved",
+  "cost": {
+    "incremental_usd": 0,
+    "paid_fallback_used": false
+  },
+  "input": {
+    "pages_file": "data/fulltext/kohler-pages.sqlite#kohler-volume-1:p35-p36",
+    "name_file": "data/sample-name-resolution.json#Atropa-belladonna",
+    "page_count": 2,
+    "taxon_count": 1
+  },
+  "stages": [
+    {
+      "name": "candidate_selection_and_source_boundary",
+      "attempt": 1,
+      "status": "passed",
+      "tool": "select-production-candidate.py plus rendered PDF page review",
+      "checks": [
+        "Atropa Belladonna spans exactly PDF pages 35-36, below the six-page limit.",
+        "PDF page 37 visibly begins Hyoscyamus niger.",
+        "The OCR score was treated only as triage; Taiwan-name and page-image gates made the final selection."
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "name_and_source_exact_record",
+      "attempt": 1,
+      "status": "passed",
+      "tool": "MOHW public naming source, declarative record contract and validate-plant-record.py",
+      "checks": [
+        "Taiwan display name is 顛茄; Taiwan occurrence remains not_checked.",
+        "Seven record sections occur exactly on cited PDF pages 35-36.",
+        "Datura stramonium and 曼陀羅 are guarded as wrong-name conflations.",
+        "Plate-caption text is approved, but image reasoning remains disabled."
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "embedding_and_retrieval",
+      "attempt": 1,
+      "status": "passed",
+      "tool": "one gemini-embedding-2 Free Tier batch plus deterministic hybrid retrieval validators",
+      "checks": [
+        "One external call embedded eight candidate chunks and six queries; incremental cost was zero.",
+        "Page baseline answer recall at rank 1 was 0.666667; section-aware 512/100 reached 1.0.",
+        "Traditional Chinese and English Atropin questions rank PDF page 36 first; distribution ranks PDF page 35 first.",
+        "Ambiguous Belladonna, Datura wrong-name and chromosome questions remain refused."
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "portable_integration_and_regression",
+      "attempt": 1,
+      "status": "passed",
+      "tool": "SQLite migration, chat API, Gem exporter and inactive n8n replay harness",
+      "checks": [
+        "Main index contains 37 approved child chunks across 17 parent pages, two baselines and 21 approved queries.",
+        "The deterministic chat API passes 35 cases across five approved fact records.",
+        "The Classic Gem pack exports five records and 37 canonical child chunks.",
+        "PEHybridIdx001 matches canonical JSON, remains inactive, and n8n and Qwen are stopped."
+      ],
+      "retry_target": null
+    }
+  ],
+  "review_summary": {
+    "passed": 4,
+    "needs_review": 0,
+    "failed": 0,
+    "warnings": [
+      "No volume is fully processed.",
+      "The 512/100 profile is not claimed to beat page baselines for every taxon.",
+      "Image reasoning remains disabled.",
+      "Historical medicinal content is not modern medical advice."
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 463,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "f07ba39671e7b5b6bbe6c3db0ba2261b9be7becde644b44712a09f8e3a446e0a",
+  "render_dpi": 144,
+  "render_sha256": "d8f752ea5d43128328baacfef600c9e8509c188af6f727025f6e3f057dadc810",
+  "input_sha256": "d8f752ea5d43128328baacfef600c9e8509c188af6f727025f6e3f057dadc810",
+  "render_pixel_width": 5630,
+  "render_pixel_height": 8210,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.982,
+  "embedded_character_count": 119,
+  "ocr_character_count": 48,
+  "ocr_alpha_ratio": 0.8542,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.018484034235515256,
+      "text": "Ericaceae",
+      "width": 0.0809753042843061,
+      "x": 0.8747665843882189,
+      "y": 0.9558742621363
+    },
+    {
+      "confidence": 1,
+      "height": 0.01790252753666477,
+      "text": "(Andromedeae)",
+      "width": 0.11032253439152317,
+      "x": 0.8622116150515351,
+      "y": 0.9329092015186387
+    },
+    {
+      "confidence": 1,
+      "height": 0.02180232509734137,
+      "text": "Gaultheria procumbens I.",
+      "width": 0.2203389882868989,
+      "x": 0.4004237243946861,
+      "y": 0.04651162833068978
+    }
+  ],
+  "text": "Ericaceae\n(Andromedeae)\nGaultheria procumbens I.",
+  "output_sha256": "8046fa05c852405c2e129f59cecb256ac6672f5d1981c60c758966837f8b5029",
+  "receipt_sha256": "cc89d02a73aa9da668ff9e48dcb45215b02bed7c9c7571ad8325071c4424b4c9"
+}

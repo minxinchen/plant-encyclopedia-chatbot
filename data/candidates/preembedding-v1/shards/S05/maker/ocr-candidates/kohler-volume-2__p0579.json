@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 579,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "8d43886f88ab96ebbfe2dbf27c48dedf5fbab31fdb9b9f7afdd3a220c7842801",
+  "render_dpi": 144,
+  "render_sha256": "2d1aea4fb6bf7cf0de40f440c87522b1e4fa8413ad3310b99e8cc134aa647400",
+  "input_sha256": "2d1aea4fb6bf7cf0de40f440c87522b1e4fa8413ad3310b99e8cc134aa647400",
+  "render_pixel_width": 5846,
+  "render_pixel_height": 7946,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.254,
+  "embedded_character_count": 4,
+  "ocr_character_count": 42,
+  "ocr_alpha_ratio": 0.7857,
+  "candidate_disposition": "candidate_quality_gain",
+  "staging_disposition": "candidate_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.02325581368945895,
+      "text": "Magnoliaceae.",
+      "width": 0.14822133553647066,
+      "x": 0.8043478284027133,
+      "y": 0.9040697676102124
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "A",
+      "width": 0.013833991916936794,
+      "x": 0.5059288539674209,
+      "y": 0.3313953486296869
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "11",
+      "width": 0.013833991916936905,
+      "x": 0.8636363638406094,
+      "y": 0.14825581409217004
+    },
+    {
+      "confidence": 1,
+      "height": 0.01889534791310632,
+      "text": "Illicium",
+      "width": 0.08695651547617794,
+      "x": 0.40118577356625884,
+      "y": 0.10174418631960958
+    },
+    {
+      "confidence": 1,
+      "height": 0.015533541876172285,
+      "text": "anisalum",
+      "width": 0.11485078571136942,
+      "x": 0.5018631461281855,
+      "y": 0.10269834543749157
+    },
+    {
+      "confidence": 1,
+      "height": 0.022032923168606167,
+      "text": "LOUr.",
+      "width": 0.06524148376423689,
+      "x": 0.61488962078767,
+      "y": 0.09982975340374423
+    }
+  ],
+  "text": "Magnoliaceae.\nA\n11\nIllicium\nanisalum\nLOUr.",
+  "output_sha256": "8e1b87389379002ae662d9da71687d3b37b7ca4e54990026b9d703b6219ec4b8",
+  "receipt_sha256": "360dd4dde4f650f2d70401857719eeb1b8f2e80b556c425fc7c05a03ec350a62"
+}

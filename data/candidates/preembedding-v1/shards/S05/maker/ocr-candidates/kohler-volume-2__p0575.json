@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 575,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "d568c9b541acebdf0044ee6308c0411f854bf29fb2f6e526cf5a3227c66df413",
+  "render_dpi": 144,
+  "render_sha256": "bcf863d3824afee3ee9e57dc72ea368d55f2e0ed6050a0f15f640a61dab4133b",
+  "input_sha256": "bcf863d3824afee3ee9e57dc72ea368d55f2e0ed6050a0f15f640a61dab4133b",
+  "render_pixel_width": 5942,
+  "render_pixel_height": 8066,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.345,
+  "embedded_character_count": 73,
+  "ocr_character_count": 31,
+  "ocr_alpha_ratio": 0.6774,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01744185932098863,
+      "text": "Oleaceae",
+      "width": 0.09072977701822915,
+      "x": 0.8323471422601162,
+      "y": 0.9258720938133429
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "11",
+      "width": 0.011834319914230229,
+      "x": 0.7435897432973229,
+      "y": 0.20348837231310313
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "12",
+      "width": 0.015779091934563727,
+      "x": 0.7376725840129942,
+      "y": 0.1686046513761481
+    },
+    {
+      "confidence": 1,
+      "height": 0.018953026287139463,
+      "text": "Fraxinus Ornus 1",
+      "width": 0.19329388037273781,
+      "x": 0.4181459583836508,
+      "y": 0.12936046534213874
+    }
+  ],
+  "text": "Oleaceae\n11\n12\nFraxinus Ornus 1",
+  "output_sha256": "54fee242a4db6e24c4e40f38a432adaa11ef39fa1d23932577ea1e2774f23ab9",
+  "receipt_sha256": "2e46fc9468f1a3924cacacb337da3b4f76dd671b21c7d9a7fd9c06cea700714b"
+}

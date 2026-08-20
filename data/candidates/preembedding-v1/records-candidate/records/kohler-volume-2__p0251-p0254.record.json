@@ -1,0 +1,268 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0251-p0254",
+  "entry_id": "kohler-volume-2:p0251-p0254",
+  "owner_shard": "S03",
+  "book_taxon": {
+    "scientific_name": "Gentiana lutea",
+    "authorship": "L.",
+    "aliases": [
+      "Gelber, edler, gebráuchlicher, gemeiner, grosser Enzian",
+      "Bitterwurz",
+      "Gentiane",
+      "Gentian"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Gentiana lutea"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T20:22:37+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Gentiana+lutea",
+        "query_name": "Gentiana lutea",
+        "retrieved_at": "2026-08-13T20:22:34+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Gelber+edler",
+        "query_name": "Gelber edler",
+        "retrieved_at": "2026-08-13T20:22:34+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 251,
+      "evidence_type": "text",
+      "page_text_sha256": "f0082474cd4ee8c19ddaca83d3dd54dabbd34b146b045e7f36190fa360f4f04b",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 252,
+      "evidence_type": "text",
+      "page_text_sha256": "feb703ef4292ea2c99854094a1cc94148124599e901a51538d699e0e1a3877bc",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 253,
+      "evidence_type": "text",
+      "page_text_sha256": "290037d0fe232c7fd986d4bbfc6bfd0a5cd2a94c1c272c797a252073f3d06873",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 254,
+      "evidence_type": "text",
+      "page_text_sha256": "aa0242ebfe7469dafda6912e073fe1ad952497cc36706406f0cee9f82a4d45b8",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0251-p0254:s00:x00",
+      "section_type": "description",
+      "original_text": "         Beschreibung. Lang ausdauernde Pflanze mit 30—60 Ctm. (sogar 11/¿ Meter) langer, oben\nbis 4 Ctm. dicker, einfacher oder wenig ästiger, eylindrischer und gewöhnlich mehrkópfiger, fleischiger,\naussen bräunlicher oder gelblich-grauer, geringelt-runzeliger, innen gelber oder rothgelber Wurzel.\nNach Flückiger treibt das geringelte Rhizom jührlich etwa 8 in gekreuzter Stellung dicht über ein-\nander stehende     Blätter; später    geht die Hauptwurzel       verloren    und    wird   durch     eine    (selten   mehrere)\n11/, Meter lange, bis 6 Ctm. dicke Nebenwurzel ersetzt. An der Spitze des Rhizoms entwickeln sich\naus den Achseln der Blattpaare vierzeilig geordnete Knospen, die sich zu neuen, später blühbaren\nAchsen ausbilden.      Stengel meist zu mehreren aus einer Wurzel, ‫الو‬‎ bis 11/, Meter hoch, kräftig ent-\nwickelt, stielrund,    innen hohl, kahl; die blühbaren sich erst nach 10 bis 25 Jahren entwickelnd.",
+      "normalized_text": null,
+      "zh_tw_rendering": "多年生植物，高30-60公分，根粗壯，莖中空，葉對生，花黃色，10-25年後開花。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 251,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 332,
+        "char_end": 1261,
+        "page_text_sha256": "f0082474cd4ee8c19ddaca83d3dd54dabbd34b146b045e7f36190fa360f4f04b",
+        "exact_text_sha256": "a8d4b38cfcc4362df2555ec2279094067a32a7bc01ed5b8b7077ff463d356567",
+        "source_line_start": 7,
+        "source_line_end": 15,
+        "section_index": 0,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "a8d4b38cfcc4362df2555ec2279094067a32a7bc01ed5b8b7077ff463d356567",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0251-p0254:s01:x00",
+      "section_type": "anatomy",
+      "original_text": "         Anatomisches. Der Querschnitt der Wurzel zeigt eine aus Korkzellen bestehende Aussenrinde,\neine stark entwickelte Mittelrinde und eine in gleichem Umfange entwickelte Innenrinde. Die Mittel-\nrinde ist ein etwas lückiges Parenchym, dessen derbwandige, kugelige, farblose Zellen halbfestes,\ntropfenförmiges Fett enthalten. Die Innenrinde zeigt in abwechselnder Reihenfolge dunklere und\ndichtere   Baststrahlen   und schmälere,       hellere,    lockere Markstrahlen.     Die Zellen     der Baststrahlen         sind\nmehr gestreckt und enger, die Zellen der Markstrahlen gleichen. denen der Mittelrinde; Bastzellen\nfehlen. Das Kambium bildet einen dunkleren Ring, dessen Zellen klein und inhaltslos sind. Das weiche,\nfleischige, gegen die Mitte schwammige, dunkelpunktirte Holz besteht aus nach dem Umfange zu strahlig\ngeordneten Gefässbündeln, welche durch ziemlich breite Markstrahlen von einander getrennt sind. Die\nGefässbündelstreifen zeigen in einem dichten und dunkleren Parenchym, in lockeren Radialreihen ge-\nordnet, die gelbwandigen Netzgefässe, welche von Siebsträngen begleitet sind. Die Markstrahlen zeigen\nnach dem Umfange hin mehrere Reihen auf dem Querschnitte radial gestreckter Parenchymzellen; nach\nder Mitte der Wurzel zu lösen sich die Strahlen in ein nicht mehr scharf begrenztes, schlaffes Gewebe\nauf.   Mark ist nicht vorhanden;        Stärkemehl        ebenfalls nicht.",
+      "normalized_text": null,
+      "zh_tw_rendering": "根橫切面顯示外皮、中皮及內皮，含脂肪細胞，無髓及澱粉，木質部具放射狀維管束。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 252,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 1752,
+        "char_end": 3152,
+        "page_text_sha256": "feb703ef4292ea2c99854094a1cc94148124599e901a51538d699e0e1a3877bc",
+        "exact_text_sha256": "f427d21c8cd89ccaf2d11b6c1bae258212511965bd3e3c7431dc243f60ca20f8",
+        "source_line_start": 19,
+        "source_line_end": 32,
+        "section_index": 1,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "f427d21c8cd89ccaf2d11b6c1bae258212511965bd3e3c7431dc243f60ca20f8",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0251-p0254:s02:x00",
+      "section_type": "distribution",
+      "original_text": "         Vorkommen.      Auf Gebirgswiesen Südeuropas, bis zu den Vogesen, dem Schwarzwalde und\nSüdbaiern, in Meereshöhen von 950—2000 Meter. Flückiger sagt über das Vorkommen: „Sie findet\nsich in Portugal, in den spanischen Gebirgen, in den Pyrenäen, den Cevennen, in der Auvergne, im\nJura, den Vogesen und im Schwarzwald, durch die Alpenkette bis nach Bosnien und den südlichen\nDonauländern, nicht in Griechenland, wohl aber in den centralen Apenninen, auf Sardinien und Corsica.\nAuf den deutschen Mittelgebirgen kommt sie noch vor, in der Schwäbischen Alp, bei Würzburg, stellen-\nweise in Thüringen, aber nicht weiter nördlich, auch nicht in England.“",
+      "normalized_text": null,
+      "zh_tw_rendering": "產於南歐高山草甸，海拔950-2000公尺，分佈至波西米亞森林及巴伐利亞南部。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 252,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3195,
+        "char_end": 3849,
+        "page_text_sha256": "feb703ef4292ea2c99854094a1cc94148124599e901a51538d699e0e1a3877bc",
+        "exact_text_sha256": "afe0536fdbf6170308eb8a2d7f39350a8a064d3741de13ef7af4cd4ca3645795",
+        "source_line_start": 35,
+        "source_line_end": 41,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "afe0536fdbf6170308eb8a2d7f39350a8a064d3741de13ef7af4cd4ca3645795",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0251-p0254:s03:x00",
+      "section_type": "history",
+      "original_text": "           Name und Geschichtliches.                 Enzian (althochd. ence yen, enczien, genciaene, genczen, hemer,\nmittelhochd.    Enci, Encia, Enzigan, Scertwerze,            bei Cordus      und Fuchs   Bitterwurz,     bei Brunschwig\nEnzian) ist aus dem lateinischen Namen Gentiana hervorgegangen. Gentiana, nach Dioskorides und\nPlinius von dem illyrischen König Gentius (gest. 167 v. Chr.) abgeleitet, der die Enzianwurzel an-\ngeblich gegen die Pest empfahl. „Encian hat seinen nammen vom Gentiano eim Kunig der Illyrier,\nwelcher yn am ersten erfunden und sein tugent erkundete (Brunfels).*\n          Der von den Alten benutzte Enzian, ist jedenfalls nicht lutea gewesen, denn diese Pflanze\nkommt in Griechenland gar nicht vor; hingegen glaubt Fraas in Tevrıavn des Dioskorides lutea an-\nnehmen zu dürfen, da es wahrscheinlich ist, dass letzterer die Pflanze aus Illyrien erhalten hatte. Nach\nWittstein benutzte Cletius Abascantus die Enzianwurzel gegen Auszehrung, Origines den frisch\ngepressten Saft gegen Blutspeien und Coelius Aurelianus gegen Spulwürmer; auch wurde die\nPflanze gegen Gicht und Wechselfieber angewendet. Celsus zählt die Wurzel zu den Antidoten.\nTragus bemerkt, dass sie zur Erweiterung von Wunden und als Pessarium diene; diese Eigenschaft\nwurde von Häberl wieder in empfehlende Erinnerung gebracht. Die Botaniker des 16. Jahrhunderts\nlieferten Abbildungen unter dem Namen Bitterwurz.",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源自伊利里亞國王Gentius，古時用於治療瘟疫、消耗症及風濕，16世紀稱Bitterwurz。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 252,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3851,
+        "char_end": 5261,
+        "page_text_sha256": "feb703ef4292ea2c99854094a1cc94148124599e901a51538d699e0e1a3877bc",
+        "exact_text_sha256": "b607214d5a42862ec5c4ea3e0613eb95813a4353c5116d2d3910ce5615db2fd5",
+        "source_line_start": 43,
+        "source_line_end": 57,
+        "section_index": 3,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "b607214d5a42862ec5c4ea3e0613eb95813a4353c5116d2d3910ce5615db2fd5",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0251-p0254:s04:x00",
+      "section_type": "constituents",
+      "original_text": "                 Bestandtheile.     Nach Henry und Caventou enthält die Enzianwurzel ein flüchtiges,\n        riechendes Princip, gelben Bitterstoff (Gentiopikrin), einen geschmacklosen Körper (Gentisin), fettes\n        Oel, klebrige Materie, welche nach Leconte ein Gemenge von fettem Oele, Wachs und Kautschuk ist,\n        Schleimzucker, Gummi. Nach Path soll auch Gerbstoff vorhanden sein, was Maisch und Flückiger\n        in Abrede       stellen; letzterer mit dem      Bemerken:      „Die Reaktionen,      welche    angegeben      worden    sind, um\n        das Vorkommen von Gerbstoff in Enzianwurzel darzuthun, dürften wohl auf das Gentiopikrin zurück-\n        zuführen sein“. Stärkemehl ist nicht vorhanden.",
+      "normalized_text": null,
+      "zh_tw_rendering": "含揮發油、苦味質Gentiopikrin、無味Gentisin、脂肪油、膠質及糖，不含澱粉。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 253,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3575,
+        "char_end": 4289,
+        "page_text_sha256": "290037d0fe232c7fd986d4bbfc6bfd0a5cd2a94c1c272c797a252073f3d06873",
+        "exact_text_sha256": "55a65c86e063a682a78857ab3f86e59d09ca472c62be592a4212f05d3effe03c",
+        "source_line_start": 35,
+        "source_line_end": 41,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "55a65c86e063a682a78857ab3f86e59d09ca472c62be592a4212f05d3effe03c",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0251-p0254:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "          Anwendung. In Substanz, Aufguss, Absud, als Extrakt und Tinktur bildet die Wurzel ein\nkräftiges, bitteres Tonicum, welches die Verdauung kräftigt und die Verdauungsbeschwerden beseitigt.\nGrosse Dosen sollen jedoch die Verdauung stören, Kopfschmerz und Congestionen erzeugen. „Vom\ntherapeutischen Gesichtspunkte ist Enzian das vorzüglichste Amarum“, das sich als Stomachicum\nbei atonischer Dyspepsie und chronischen Digestionsstörungen in ihren Folgezuständen bewährt und\nfast alle übrigen bitteren Mittel, selbst diejenigen, welche, wie Lignum Quassiae, grössere Intensität der\nBitterkeit zeigen, ersetzen kann.“     Die fäulnissbeschränkende Wirkung auf thierische Stoffe ist von\nEbeling erwiesen worden. Enzian wurde schon in früheren Zeiten bei Gicht in Anwendung gebracht.",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：作苦味健胃劑，用於消化不良及慢性消化障礙，大劑量可致頭痛。",
+      "evidence_indexes": [
+        3
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 254,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 1184,
+        "char_end": 1970,
+        "page_text_sha256": "aa0242ebfe7469dafda6912e073fe1ad952497cc36706406f0cee9f82a4d45b8",
+        "exact_text_sha256": "855886678176ee393e94cf52d515a6fc4e3ca395dec1d60ffd275cb2ac2d6d0c",
+        "source_line_start": 15,
+        "source_line_end": 22,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "855886678176ee393e94cf52d515a6fc4e3ca395dec1d60ffd275cb2ac2d6d0c",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "f0aecb8f49157f68420ed5be97516d63fcea5443a479b28b443d528a6718adaa",
+    "maker_receipt_sha256": "fded457fa231f3ea8993a0e9972630afad152107b2c5191344ba58ece2663793",
+    "validation_check_sha256": "bd75c4e971295ff2317d90646e2d03f9efc70a07ed83f8b6d0ce56313b0166cc",
+    "source_disposition_sha256": "9abecf7fd1d0856f59fced58d502e572195bfefa5f670d073854e13313ed3c11",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "fded457fa231f3ea8993a0e9972630afad152107b2c5191344ba58ece2663793",
+      "validation_check_sha256": "bd75c4e971295ff2317d90646e2d03f9efc70a07ed83f8b6d0ce56313b0166cc",
+      "source_disposition_sha256": "9abecf7fd1d0856f59fced58d502e572195bfefa5f670d073854e13313ed3c11"
+    },
+    "naming_artifact_sha256": "1e422136f5806eda4bdbd75352651fb5de9b24c2fd22517d46807b342065a1a9"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "e0bef1076fe724580ff2649b17524838d28fe286dcb513ff0fee91d2d4c8fb3e"
+}

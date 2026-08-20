@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 303,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "b1def724a5398aac207a518dc40181375f8e4a5fb034f14843f52c10fc98d8c0",
+  "render_dpi": 144,
+  "render_sha256": "4dd6a6a62e4b41f95e532d66b23ab8714427222b7905c73c4924ca652c915d43",
+  "input_sha256": "4dd6a6a62e4b41f95e532d66b23ab8714427222b7905c73c4924ca652c915d43",
+  "render_pixel_width": 5738,
+  "render_pixel_height": 7934,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.407,
+  "embedded_character_count": 366,
+  "ocr_character_count": 70,
+  "ocr_alpha_ratio": 0.6571,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.02136625751616461,
+      "text": "Rosaceae. (Pomeae.)",
+      "width": 0.17692576383530512,
+      "x": 0.7569186445911558,
+      "y": 0.9428052435869796
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.07412790873694042,
+      "text": "д.",
+      "width": 0.07630522195530853,
+      "x": 0.41566264979400375,
+      "y": 0.2819767431969368
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372621082103,
+      "text": "12",
+      "width": 0.02811244812848962,
+      "x": 0.44578313316467083,
+      "y": 0.22965116245399397
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494425,
+      "text": "9",
+      "width": 0.01204819280260705,
+      "x": 0.8413654619320299,
+      "y": 0.1875000001770203
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.05668604563152979,
+      "text": "00",
+      "width": 0.11044176517690651,
+      "x": 0.4056224911933406,
+      "y": 0.17296511653016533
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013916610725342227,
+      "text": "WMiller n.d lat.",
+      "width": 0.08257575748061619,
+      "x": 0.8512824029736079,
+      "y": 0.16091960168076536
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02593467727540033,
+      "text": "dydonia valgaris fers.",
+      "width": 0.23534354587968315,
+      "x": 0.3973131511646924,
+      "y": 0.11739320647648444
+    }
+  ],
+  "text": "Rosaceae. (Pomeae.)\nд.\n12\n9\n00\nWMiller n.d lat.\ndydonia valgaris fers.",
+  "output_sha256": "50d8e1d587dbd412cfcf82dcfcb12fab9d5c67355e8c1432936fe2d2fb9af8fa",
+  "receipt_sha256": "542010a15c8454aa8993656ef4d605f7d94260b15b53f1aa9ebee3086e1651e2"
+}

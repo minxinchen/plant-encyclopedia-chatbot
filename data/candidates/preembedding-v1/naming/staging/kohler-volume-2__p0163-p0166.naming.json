@@ -1,0 +1,177 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-2:p0163-p0166",
+  "owner_shard": "S03",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S03/maker/structure-drafts/kohler-volume-2__p0163-p0166.json",
+  "source_draft_sha256": "43c199a3b291917bf035a2bb8d6fa0a9401eca9162fad3d330536cc3615ea08a",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "dad26b211d836c47275fa6ab37429fd1d5b6e66b6bb5ee878673de0fd505003d",
+    "validation_check_sha256": "f06216de28f4f67ef8a3e81a6b9484012a5d9de8493860c01b23d77c0e27536a",
+    "source_disposition_sha256": "17564a5ce4c8cd3ee6dd3694ed1dfb64fee1919548bf50e9df9adc3c0cbad7db",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Styrax Benzoin",
+    "authorship_candidate": "Dryander",
+    "aliases_candidates": [
+      "Laurus Benzoin Houtt.",
+      "Benzoin officinale Hayne",
+      "Lithocarpus Benzoin Blume"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Styrax Benzoin",
+      "Styrax benzoin"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_zh_tw": null,
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_checked",
+    "taxon_id": null,
+    "display_name_source_scope": "unresolved",
+    "display_name_source_evidence_ids": [],
+    "display_name_is_taiwan_public": false,
+    "display_name_answer_policy": "scientific_name_only",
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping.",
+    "checked_at": "2026-08-13T17:58:10+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Styrax Benzoin",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Styrax+Benzoin",
+      "retrieved_at": "2026-08-13T17:58:06+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Styrax",
+          "matched_name_id": 2646,
+          "taxon_id": "t0024917",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Styrax",
+          "accepted_name_id": 2646,
+          "accepted_usage": [
+            {
+              "usage_id": 183059,
+              "reference_id": 2454,
+              "reference_type": "Book",
+              "publish_year": 2017,
+              "citation": "Ed. Comm. Red List TW Plants,  (2017) The Red List of Vascular Plants of Taiwan, 2017 = 2017 臺灣維管束植物紅皮書名錄.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 278117,
+              "reference_id": 1013,
+              "reference_type": "Book Chapter",
+              "publish_year": 1998,
+              "citation": "Li, H.-L. (1998) 116. Styracaceae. In: Flora of Taiwan, 2 ed., vol. 4. 95–100.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 8539,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": null
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0024917",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0024917",
+          "taxon": {
+            "taxon_id": "t0024917",
+            "taxon_status": "accepted",
+            "name_id": 2646,
+            "simple_name": "Styrax",
+            "name_author": "L.",
+            "rank": "Genus",
+            "common_name_c": "安息香屬",
+            "alternative_name_c": "野茉莉屬",
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": null,
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2026-04-29"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Styrax benzoin",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Styrax+benzoin",
+      "retrieved_at": "2026-08-13T17:58:06+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Laurus benzoin",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Laurus+benzoin",
+      "retrieved_at": "2026-08-13T17:58:07+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Benzoin officinale",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Benzoin+officinale",
+      "retrieved_at": "2026-08-13T17:58:07+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Lithocarpus benzoin",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Lithocarpus+benzoin",
+      "retrieved_at": "2026-08-13T17:58:07+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Styrax benzoin",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Styrax%20benzoin",
+      "retrieved_at": "2026-08-13T17:58:10+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears."
+  ]
+}

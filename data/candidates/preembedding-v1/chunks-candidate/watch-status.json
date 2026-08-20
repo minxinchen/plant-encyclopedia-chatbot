@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "started_at": "2026-08-13T12:43:08+08:00",
+  "status": "caught_up",
+  "refresh_count": 3283,
+  "last_fingerprint": "517a942d6bba8bbb1a37612f15cf3009db7fbb57974462ade4a506a82153e712",
+  "last_build": {
+    "exit_code": 0,
+    "output": "{\"chunks\": \"data/candidates/preembedding-v1/chunks-candidate/section-aware-512-100-v1.jsonl\", \"manifest\": \"data/candidates/preembedding-v1/chunks-candidate/manifest.json\", \"schema_version\": \"1.0\", \"generated_at\": \"2026-08-19T21:40:54+08:00\", \"profile_id\": \"section-aware-512-100-v1\", \"source_manifest_sha256\": \"6ef5db72c6b39a597a5dd11ffbd889d2dae4725c60b02db35e864600d1e22f75\", \"source_candidate_count\": 227, \"named_candidate_count\": 227, \"missing_naming_entry_ids\": [], \"chunk_count\": 1313, \"entry_count\": 227, \"canonical_write_allowed\": false, \"embedding_calls_performed\": 0, \"vector_space_id\": null, \"summary_sha256\": \"25f1cc639adc2f935eb1aa2133283936b1ac0a9c57bbbac7d9841e24f17d460c\"}"
+  },
+  "last_validation": {
+    "exit_code": 0,
+    "output": "{\"status\": \"PASS\", \"source_candidates\": 227, \"chunk_entries\": 227, \"chunks\": 1313, \"missing_naming\": 0, \"errors\": []}"
+  },
+  "errors": [
+    {
+      "at": "2026-08-14T06:23:17+08:00",
+      "stage": "build",
+      "output": "Traceback (most recent call last):\n  File \"/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/scripts/build-preembedding-chunks.py\", line 202, in <module>\n    main()\n    ~~~~^^\n  File \"/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/scripts/build-preembedding-chunks.py\", line 92, in main\n    names = naming_by_entry(args.root)\n  File \"/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/scripts/build-preembedding-chunks.py\", line 47, in naming_by_entry\n    payload = read_json(path)\n  File \"/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/scripts/build-preembedding-chunks.py\", line 41, in read_json\n    return json.loads(path.read_text(encoding=\"utf-8\"))\n           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/homebrew/Cellar/python@3.14/3.14.3_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/json/__init__.py\", line 352, in loads\n    return _default_decoder.decode(s)\n           ~~~~~~~~~~~~~~~~~~~~~~~^^^\n  File \"/opt/homebrew/Cellar/python@3.14/3.14.3_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/json/decoder.py\", line 345, in decode\n    obj, end = self.raw_decode(s, idx=_w(s, 0).end())\n               ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/homebrew/Cellar/python@3.14/3.14.3_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/json/decoder.py\", line 363, in raw_decode\n    raise JSONDecodeError(\"Expecting value\", s, err.value) from None\njson.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+    }
+  ],
+  "updated_at": "2026-08-19T21:40:54+08:00"
+}

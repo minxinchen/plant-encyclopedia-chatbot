@@ -1,0 +1,292 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-3-p0245-p0248",
+  "entry_id": "kohler-volume-3:p0245-p0248",
+  "owner_shard": "S07",
+  "book_taxon": {
+    "scientific_name": "Aspidosperma Quebracho",
+    "authorship": "Schlechtendal",
+    "aliases": [
+      "Aspidosperma Quebracho-blanco Schlechtendal",
+      "Macaglia Quebracho Rich.",
+      "Peltosperma Quebracho DO.",
+      "Ostreocarpus Quebracho Rich."
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Aspidosperma Quebracho",
+      "Aspidosperma quebracho"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T13:39:04+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Aspidosperma+Quebracho",
+        "query_name": "Aspidosperma Quebracho",
+        "retrieved_at": "2026-08-13T13:38:12+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Aspidosperma+quebracho",
+        "query_name": "Aspidosperma quebracho",
+        "retrieved_at": "2026-08-13T13:38:12+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Aspidosperma+quebracho-blanco",
+        "query_name": "Aspidosperma quebracho-blanco",
+        "retrieved_at": "2026-08-13T13:38:12+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Macaglia+quebracho",
+        "query_name": "Macaglia quebracho",
+        "retrieved_at": "2026-08-13T13:38:12+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Peltosperma+quebracho",
+        "query_name": "Peltosperma quebracho",
+        "retrieved_at": "2026-08-13T13:38:12+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Ostreocarpus+quebracho",
+        "query_name": "Ostreocarpus quebracho",
+        "retrieved_at": "2026-08-13T13:38:12+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL and Tai2 returned no exact Taiwan species record or public Chinese name. Kew POWO resolves Aspidosperma quebracho Griseb. to the accepted Aspidosperma quebracho-blanco Schltdl., matching the explicit Köhler alias, but supplies only the non-Chinese vernaculars quebracho blanco and white quebracho. No Taiwan government or academic source pairing the species with a Traditional Chinese public name was found, so the Taiwan naming result remains unresolved rather than using an unverified translation."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 245,
+      "evidence_type": "text",
+      "page_text_sha256": "a1c2154bcc54fdc37892174d2e3c626fb141dbe1f04b807244f8a41486d075ca",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 246,
+      "evidence_type": "text",
+      "page_text_sha256": "cbc3fe98265e5669dcc6620bb997008ffc73b47f4d3f98337ba300df5ac912e8",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 247,
+      "evidence_type": "text",
+      "page_text_sha256": "929a5665127e990cd482b1d9339fa47682a3667f5b18890237fcb5d917815901",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-3:p0245-p0248:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "       Familie: Apocynaceae R. Brown. Unterfamilie: Plumieroideae Section:                                                 Plumiereae,\nTribus: Alstonieae K. Schumann.   Gattung: Aspidosperma Mart. & Zucc.",
+      "normalized_text": null,
+      "zh_tw_rendering": "科：夾竹桃科；亞科：Plumieroideae；族：Alstonieae；屬：Aspidosperma。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 245,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 394,
+        "char_end": 598,
+        "page_text_sha256": "a1c2154bcc54fdc37892174d2e3c626fb141dbe1f04b807244f8a41486d075ca",
+        "exact_text_sha256": "65667f354771c8d96512f54797749d4f0c2190d88c6da9e39c4b79be0f572232",
+        "source_line_start": 7,
+        "source_line_end": 8,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "65667f354771c8d96512f54797749d4f0c2190d88c6da9e39c4b79be0f572232",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0245-p0248:s01:x00",
+      "section_type": "description",
+      "original_text": "        beschreibung. Ein Baum von 13-20, seltener 30 m Höhe und bis zu 1,20 m Durch-\nmesser und hartem, weissen Holze, von dem Aussehen einer Trauerweide; im Alter mit\ngrauer, ziegelrot schimmernder, tiefrissiger Borke und dicker Rinde. Die schlanken, hän-\ngenden Zweige        sind glatt, nicht korkig,               grau   oder gelbbraun,       mit leicht ablösbarem Periderm\nüberzogen.       Die immergrünen             Blätter     stehen     ziemlich dicht       gedrängt       an    den       Zweigen,    ent-\nweder     gegenständig      oder    zu dreien      wirtelig;        sie sind hart lederartig,         einfach,      ungeteilt,     ganz-\nrandig,   länglich      oder länglich-lanzettlich,            3—5 cm lang,       1,2 cm breit; ihre Farbe                ist entweder\nblaugrün,     bereift    oder    oberseits     gelbgrün         bis goldgelb,     unterseits     gelbgrün        oder      umgekehrt.",
+      "normalized_text": null,
+      "zh_tw_rendering": "高13-20米，樹皮灰紅裂紋。葉革質，對生或輪生，長3-5公分，藍綠或黃綠，具刺尖。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 245,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 599,
+        "char_end": 1519,
+        "page_text_sha256": "a1c2154bcc54fdc37892174d2e3c626fb141dbe1f04b807244f8a41486d075ca",
+        "exact_text_sha256": "a8a79acd7a747a71c3259f1cc2067e7949b0d7995e0228de41b81a014e244e68",
+        "source_line_start": 9,
+        "source_line_end": 16,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "a8a79acd7a747a71c3259f1cc2067e7949b0d7995e0228de41b81a014e244e68",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0245-p0248:s02:x00",
+      "section_type": "distribution",
+      "original_text": "         Vorkommen.    Argentinische Republik, Provinz Santiago, insbesondere im Bezirk von\n Catamarca, wahrscheinlich auch in Chile, Bolivia und Südbrasilien.",
+      "normalized_text": null,
+      "zh_tw_rendering": "產阿根廷聖地亞哥省，可能分佈於智利、玻利維亞及南巴西。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 246,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 2139,
+        "char_end": 2298,
+        "page_text_sha256": "cbc3fe98265e5669dcc6620bb997008ffc73b47f4d3f98337ba300df5ac912e8",
+        "exact_text_sha256": "aa87b018830e818907d9f711d8ed41a55846fd69536755e0d220adf947e8d869",
+        "source_line_start": 21,
+        "source_line_end": 22,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "aa87b018830e818907d9f711d8ed41a55846fd69536755e0d220adf947e8d869",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0245-p0248:s03:x00",
+      "section_type": "anatomy",
+      "original_text": "        Anatomie. Die Borke der Rinde besteht aus parenchymatischen ‚ gelbbraunen und\nzinnoberroten Zelllagen, zwischen die sich zarte braune Korkschichten tangential einschieben.\nDas Gewebe wird durch zahlreiche Sklerenchymgruppen unterbrochen. Ebensolche Skleren-\nchymgruppen, aus rundlichen Zellen bestehend und rundliche Komplexe bildend, setzen sich\nauch in der Innenrinde fort, während weiter nach dem Cambium hin, teils sie begleitend,\nteils selbständig      auftretend       langgestreckte Sklerenchymfasern wahrgenommen                             werden,       welche",
+      "normalized_text": null,
+      "zh_tw_rendering": "樹皮含石細胞群，內皮層具長形石細胞纖維，伴隨含草酸鹽晶體的腔室細胞。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 247,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 577,
+        "page_text_sha256": "929a5665127e990cd482b1d9339fa47682a3667f5b18890237fcb5d917815901",
+        "exact_text_sha256": "5e9d911d891b33e77171ba24a81ea1f74c1c5121524f0d9dc82502cc47280268",
+        "source_line_start": 1,
+        "source_line_end": 6,
+        "section_index": 3,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "5e9d911d891b33e77171ba24a81ea1f74c1c5121524f0d9dc82502cc47280268",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0245-p0248:s04:x00",
+      "section_type": "constituents",
+      "original_text": "         Bestandteile. Die Rinde enthält nach Hesse (l. c.) sechs Alkaloide im Gesamtbetrage\nvon 0,8—1,4°/,, etwa 3,9°/, Gerbsäure, sowie einen in farblosen Blättchen krystallisierenden,\ndem Cholesterin ähnlichen Stoff, das Quebrachol. Von den Alkaloiden sind Aspidospermin,\nQuebrachin, Aspidospermatin und Quebrachamin krystallisierbar, Hypoquebrachin und Aspi-\ndosamin amorph. Alle sind sehr schwache Basen, deren Salze schon durch Lösungsmittel",
+      "normalized_text": null,
+      "zh_tw_rendering": "含0.8-1.4%生物鹼（Aspidospermin等）、3.9%單寧及Quebrachol。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 247,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 1027,
+        "char_end": 1474,
+        "page_text_sha256": "929a5665127e990cd482b1d9339fa47682a3667f5b18890237fcb5d917815901",
+        "exact_text_sha256": "e666fb30c3389f7862d83fa1f7828a666df13cc4bbffa2ed120022648c07cd51",
+        "source_line_start": 13,
+        "source_line_end": 17,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "e666fb30c3389f7862d83fa1f7828a666df13cc4bbffa2ed120022648c07cd51",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0245-p0248:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "           Anwendung.          Das     Holz    der Pflanze       dient als Bauholz            und   zur Herstellung        von Holz-\nschnitten in der Xylographie. Die frische Rinde wird von den Einheimischen als Mittel gegen\nIntermittens und Malaria, überhaupt als Fiebermittel benutzt. Die getrocknete Rinde zeigt\nkeine antifebrile Wirkung.             Die Alkaloide         der Droge sind Respirationsgifte, und zwar ist durch sie\neine Herabsetzung der Erregbarkeit .des Respirationszentrums wahrzunehmen. Deshalb dient\ndie Rinde als Extrakt oder Tinktur, oder ihre Alkaloide in subkutaner Injektion als Mittel\ngegen Dyspnöe infolge von Zirkulationsstörungen und Herzkrankheiten.                                  Man giebt Aspidospermin",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：鮮皮治間歇熱；乾皮無退熱效。生物鹼為呼吸毒，曾用於治療呼吸困難。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 247,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 2420,
+        "char_end": 3158,
+        "page_text_sha256": "929a5665127e990cd482b1d9339fa47682a3667f5b18890237fcb5d917815901",
+        "exact_text_sha256": "7d4646ecdeac0afbd34ae96e988a6c7b32653b23f65e71becda7421d970763e1",
+        "source_line_start": 27,
+        "source_line_end": 33,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "7d4646ecdeac0afbd34ae96e988a6c7b32653b23f65e71becda7421d970763e1",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Preserve Aspidosperma quebracho-blanco or white quebracho when needed; do not present an unverified Chinese translation as a Taiwan public plant name.",
+    "Do not confuse this white-quebracho species with Aspidosperma quebracho-colorado, which Kew maps to Schinopsis lorentzii in another family.",
+    "The external taxonomy evidence is metadata only and does not supply Köhler plant facts.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "ce6367a4e260daa09fad5ba80d05f1e4e696ef1a77205023f1af5f8ca2121de3",
+    "maker_receipt_sha256": "a0f302a46d857815e598b861d45ff506f5125a8cd23f7b8dfa75e015a5663cd5",
+    "validation_check_sha256": "f6218f9025e443403169111614e01a8da4a132b8177b62901e683a89e6449b48",
+    "source_disposition_sha256": "7dabd4a0089cd0a4ca5f2b1ca86c85e581b581570b321711ad986bca2b309c50",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "a0f302a46d857815e598b861d45ff506f5125a8cd23f7b8dfa75e015a5663cd5",
+      "validation_check_sha256": "f6218f9025e443403169111614e01a8da4a132b8177b62901e683a89e6449b48",
+      "source_disposition_sha256": "7dabd4a0089cd0a4ca5f2b1ca86c85e581b581570b321711ad986bca2b309c50"
+    },
+    "naming_artifact_sha256": "f36e6577595862d95edb8b1ebfcc7c25e972ebb812e8ba8f3a6e6dc157b8bdce"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "2d30b384ead1e5f73be2483be64a84216db2ebb6a413dffdcbf4c9e7860126fb"
+}

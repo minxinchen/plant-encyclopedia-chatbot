@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0501-p0504",
+  "owner_shard": "S04",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 109.506,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0501-p0504",
+    "book_taxon": {
+      "scientific_name_candidate": "Gonolobus Condurango",
+      "authorship_candidate": "Triana",
+      "aliases_candidates": [
+        "G. Cundurango",
+        "Condurangorindenstrauch",
+        "Gonolobus viridiflorus",
+        "Marsdenia Condurango",
+        "Macroscepis Trianae"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 501,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "夾竹桃科，南美洲原生攀援灌木，葉對生心形，花綠褐或深紫，具網狀紋。",
+        "warnings": [],
+        "source_line_range": [
+          8,
+          20
+        ],
+        "exact_source_quote": "          Familie: Asclepiadeae; Gattung: Gonolobus Michaux.\n\n          Beschreibung. Die Gattung Gonolobus besteht aus in Südamerika einheimischen Schling-\nsträuchen mit gegenständigen, herzfórmigen, meist rauhhaarigen, am Grunde drüsentragenden Blättern\nund achselständigen, trauben- und doldentraubenförmigen, wenigblüthigen Blüthenständen, deren\nBlüthen grünliche, braune oder dunkelpurpurne Farbe besitzen und meist netzartig marmorirt sind.\nKelch 5 spaltig oder tief 5theilig, innen am Grunde in der Regel mit 5 Drüsen. Krone kurzröhrig,\nradfórmig, tief 5theilig. Die fleischige, kurze, ringförmige, ganzrandige oder buchtig 5lappige Neben-\nkrone der Kronenbasis eingefügt; ebenso die Staubgefásse, welche mit kurzröhrig verwachsenen Fila-\nmenten ausgestattet sind. Pollinarien verkehrt eiförmig oder länglich, häufig gekrümmt. Narbe 5kantig,\nmit flachem Scheitel. Balgkapsel dick, zugespitzt, stachelig-warzig oder glatt. Karsten stellt als\ncharakteristisches Merkmal die quer aufspringenden Staubbeutelfácher und die auswárts seitliche An-\nheftung der horizontal liegenden Pollinarien an die Narbenklebdriise hin."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 501,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "基原植物存疑，Karsten與Flückiger觀點不同，Fuentes曾誤指Marsdenia為正品。",
+        "warnings": [],
+        "source_line_range": [
+          21,
+          30
+        ],
+        "exact_source_quote": "          Karsten leitet Cortex Condwrango von G. riparius Knth, G. glandulosus Póppig und G.\nviridiflorus Roem.      et Schult. ab, während        Andere, namentlich        Flückiger,       den von    Triana     in Paris\nals neue Art beschriebenen Schlingstrauch, Gonolobus Condurango Triana, als Stammpflanze der Droge\nannehmen. Letztere Pflanze ist, auf Grund der Angaben, die der Apotheker Fuentes in Guayaquil\nmachte, von Triana nur sehr ungenügend beschrieben worden und das unvollständige Exemplar,\nwelches letzterer besitzt, ist bis jetzt Niemandem zugänglich gewesen. Ohnedies sind die Zweifel\nüber die Stammpflanze noch nicht gehoben, denn der nämliche Apotheker Fuentes, welcher Triana\nGonolobus Condurango als Stammpflanze des berühmten Heilmittels sendete, hat dem böhmischen\nBotaniker Rözl versichert, dass Bejuco de perro (Marsdenia Condurango diet fil), eine von G'ono-\nlobus Condurango verschiedene Pflanze, die echte Droge liefere."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 502,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "外皮為軟木，內皮含乳汁管、木質部及草酸鈣簇晶，皮層細胞含澱粉。",
+        "warnings": [],
+        "source_line_range": [
+          25,
+          37
+        ],
+        "exact_source_quote": "         Anatomisches. Die Aussenrinde wird von einem dichten Korke gebildet, dessen tafelfórmige\nZellen mit gebogenen Zwischenwänden ausgestattet und ohne Inhalt sind. Die Mittelrinde besteht aus\n11—17 Reihen sehr enger, tangential gestreckter Zellen. Die stark entwickelte Innenrinde lässt\nzahlreich eingestreute Milchgefässe erkennen und enthält deutliche Bast- und Markstrahlen. Nach\nFlückiger zeigt der Querschnitt im innern Theile der Rinde ein kleinzelliges Gewebe, welches mit\nStärkemehl und Calciumoxalatdrusen angefüllt und von langen Milchröhren mit wolkigem, braunem\nInhalte durchzogen ist. Letztere zeigen im Längsschnitte eine einfache Verzweigung. In der äusseren\nRindenhälfte befinden sich umfangreiche Gruppen gelber, zierlich geschichteter, fast ganz geschlossener,\nim Längsschnitte nicht gestreckter Sclerenchymzellen, sowie farblose Gruppen von Bastfasern und\nSiebröhren, auch Zellen, welche einzelne Oxalatkrystalle enthalten. Die Bastfasern sind im Längsschnitte\nnicht sehr gestreckt und verholzt. Die Markstrahlen, welche aus 1—2 Zellenreihen bestehen, sind\naus radial gestreckten Zellen zusammengesetzt und besitzen als Inhalt Stärke und Krystalle von oxal-\nsaurem     Kalk."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 502,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "1871年Ecuador醫師推廣用於蛇咬、癌症及梅毒，後因價格飆升而評價兩極。",
+        "warnings": [],
+        "source_line_range": [
+          45,
+          51
+        ],
+        "exact_source_quote": "         Flückiger führt an, dass die Aerzte Caesares und Eguigureu aus der Provinz Loja im\nJahre 1871 auf die bei den Eingeborenen jedenfalls schon längst gegen Schlangenbiss, Krebs und\nSyphilis gebräuchliche Rinde aufmerksam machten, in Folge dessen der Präsident von Ekuador, Garcia\nMorena, Massregeln zur Verbreitung dieses Heilmittels traf, die von dem amerikanischen Minister-\nresidenten in Quito unterstützt wurden. Im Jahre 1871 erhielt Antisell in Washington durch den\nPräsidenten von Ekuador die erste Probe der Droge und die von ersterem vorgenommenen Unter-\nsuchungen bestätigten die gepriesene Wirksamkeit. Die Lobpreisungen, welche nun angestimmt wurden"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 503,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含鐵綠色單寧、樹脂、澱粉、蛋白質及草酸，Flückiger發現微量苦味質與生物鹼。",
+        "warnings": [],
+        "source_line_range": [
+          27,
+          33
+        ],
+        "exact_source_quote": "            Bestandtheile.           Nach Vulpius           enthält die Rinde eisengrünenden                 Gerbstoff,    2 besondere\n Harze, Spuren       eines harzigen krystallinischen           Bitterstoffes, Stärkemehl,         Eiweiss, Oxalsäure,        Weinstein-\n\n säure und in    der Asch  e  etwas  Mang an.      Der    Rind e  eige  nthü mlic he  Best andt heil e  sind  bis  jetzt   noch\n nicht aufgefun den  word en.    Anti sell    erhie lt   12°),   Asch e,   aber   wede r   ein Alkal  oid  noch    äther ische s\n Oel. Flückiger       fand   1882   einen   Bitte rstof f   und    ein   Alkal oid,    beide   amor  ph   und    in  sehr    ge-\n ringer Menge."
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 504,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "圖示Gonolobus viridiflorus開花枝條及放大之蜜腺、雄蕊、花粉塊與雌蕊。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          5
+        ],
+        "exact_source_quote": "                                             Tafelbeschreibung:\n           A blühendes Zweigstück von Gonolobus viridiflorus R. et S. in natürl. Grósse; 1 Nektardrüsen und Staub-\ngefüsse, vergrössert; 2 Staubgefässe, desgl.; 3 Pollinarien, desgl.; 4 Stempel, desgl.\n           Die Nebenfiguren 1—4 gehören zu Gonolobus hispidus Hook. et Arn.\n           Originalzeichnung unter Benutzung der Abbildung in Bot. Mag."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "92b86a6f6416ea8bd44c7a1379190ce474923570f8ea1eedc168e21c21ba6ffc"
+}

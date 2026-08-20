@@ -1,0 +1,155 @@
+{
+  "schema_version": "2.0",
+  "package_id": "kohler-volume-3:p0067-p0074:child-01:continuation-01",
+  "parent_entry_id": "kohler-volume-3:p0067-p0074",
+  "child_entry_id": "kohler-volume-3:p0067-p0074:child-01",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation-v2:kohler-volume-3:p0067-p0074:child-01:continuation-01:v1",
+  "owner_shard": "S06",
+  "package_sha256": "b4e8e0fa6fdc6c8aac9bbbbdafbeda1d216659ecf9810173f25295bf1730efff",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "prompt_version": "plant-structure-line-coordinates-v2",
+  "attempt_sha256": "fa27c6c5d175fc4448276d0944fd95df33aaa27575f8a2e71a5f5958fcfcc0dd",
+  "raw_response_sha256": "98a750eee60b91f8eb35377b53b951d73672f7d39433261f2a3662e6f6ebf393",
+  "elapsed_seconds": 22.795,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 67,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 0,
+      "char_end": 647,
+      "source_line_start": 1,
+      "source_line_end": 9,
+      "page_text_sha256": "ef1b0b1c2435d4b6397ef7a6f73455ba625b20da9df6c56fb7773b0dee661f5b",
+      "exact_text_sha256": "529912aaf0da112759621a710027188107a7595d3f7ac4683230f5d773e8e95c",
+      "section_index": 0,
+      "section_type": "taxonomy"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 67,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 649,
+      "char_end": 2277,
+      "source_line_start": 11,
+      "source_line_end": 26,
+      "page_text_sha256": "ef1b0b1c2435d4b6397ef7a6f73455ba625b20da9df6c56fb7773b0dee661f5b",
+      "exact_text_sha256": "c7be70678b2589024ba14a0d05ae50574634dd421db3edbbb4de50615a9e94b7",
+      "section_index": 1,
+      "section_type": "description"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 69,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 3075,
+      "char_end": 4892,
+      "source_line_start": 36,
+      "source_line_end": 51,
+      "page_text_sha256": "015e22cd5c7551b6d97eae395daf9304f5d30fc9764a492524d980ef82e09305",
+      "exact_text_sha256": "c68ac95c0f97da74f4123c37f216a1ee8065689d3fb5b1197ee00a75fb63d3d7",
+      "section_index": 2,
+      "section_type": "anatomy"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 68,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 5040,
+      "char_end": 5718,
+      "source_line_start": 54,
+      "source_line_end": 61,
+      "page_text_sha256": "1e285f7026efc02c0e0053840777e42f47dc7f9c477bf0d67fb2ba323ed6d83a",
+      "exact_text_sha256": "99c5cd1a7975232c8840d6d37f084535197a75d1ea058d01377bba7609672f4a",
+      "section_index": 3,
+      "section_type": "distribution"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 72,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 0,
+      "char_end": 912,
+      "source_line_start": 1,
+      "source_line_end": 10,
+      "page_text_sha256": "9c0df83a8eeb61e2cc5d884e0c2f879717be3d29ceaf2591b89af1f83cfae94c",
+      "exact_text_sha256": "80ed0ddfa6dfa07aba1f06eba722d1b7357c5ffbfee90aa423d9351f084d3223",
+      "section_index": 4,
+      "section_type": "harvest"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-3:p0067-p0074:child-01:continuation-01",
+    "parent_entry_id": "kohler-volume-3:p0067-p0074",
+    "book_taxon": {
+      "scientific_name_candidate": "Hevea brasiliensis"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 67,
+        "source_line_range": [
+          1,
+          9
+        ],
+        "exact_source_quote": "                       Hevea brasiliensis Müller Argoviensis.\n                                     Hevea guianensis Aublet.\n                                      1. Hevea brasiliensis (DC) Müll. Arg.\nBrasilianischer        Federharzbaum;          Kautschukbaum            v. Javitaa       —    Hev&    du Bresil. —             Parä\n                                Rubber-tree.       —     Pao de Xeringa —              Siringuru.\n\n             Syn. Dtiphonia brasiliensis Willdenow.                Siphonia Kunthiana Baillon.\n\n             Familie: Zuphorbiaceae Juss.              Unterfamilie:        Acalypheae Juss.        Gattung: Hevea Aubl."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 67,
+        "source_line_range": [
+          11,
+          26
+        ],
+        "exact_source_quote": "             Beschreibung.          Ein milchsaftführender Banm von 17—20 m Höhe und 60 cm Durch-\nmesser       mit schöner       üppiger Krone.          Die Rinde     ist graubraun, wenig dick; das Holz weiss und\nnicht sehr fest.           Die Blätter stehen wechselständig,               an der Spitze der Zweige             gehäuft;        sie\nsind gestielt,      zusammengesetzt,         dreizählig;     der gemeinsame Blattstiel ist etwa               so lang als die\nBlattfläche, d. i. bis 16 cm lang, schlank, nahezu stielrund, kaum rinnig, am Grunde etwas\n aufgeblasen; die Stiele der 3 Blätichen dagegen sind oben rinnig, unterseits convex, bis 1 cm\n lang; die Blättchen, welche den Blütenrispen nahe stehen, sind 6—7 cm lang und 4 cm breit,\n andere ältere werden bis 16 cm lang und 6—-7 em breit, häutiglederig, ganzrandig, lanzettlich,\nbeiderseitig           gleichmässig         verschmälert,            oben    in    eine      verlängerte        Spitze         aus-\nlaufend;       beiderseits Kahl, oben lebhaft grün, unten graugrün bereift und mit vielen sehr kleinen\nweissen Punkten besetzt. — Mittelnerv gelbgrün auf beiden Seiten stark hervortretend; Seiten-\nnerven bis 20 auf jeder Seite des Mittelnerven, beinahe gegenständig, im Winkel von 60—70°\nbis dicht an den Rand verlaufend; Adern nahezu senkrecht auf den Seitennerven, nur wenig\nverästelt.   Blüten grünlich, weissfilzig, in langgestielten, lockeren, zusammengesetzten\nTrauben, die nichtin den Blattachseln sitzen und sowohl dem Holze alter als jüngerer Zweige\nentspringen.    DBlütenstielchen, die sehr kleinen Deckblättchen und Rispenaxe weissfilzig."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 69,
+        "source_line_range": [
+          36,
+          51
+        ],
+        "exact_source_quote": "         Anatomisches. Die Milchröhren der Euphorbiaceen sind bereits in der Jugend an-\n gelegt; sie sind ungegliedert, segmentiert und bestehen aus kürzeren oder längeren Zellen, deren\n Enden    genau    aufeinander        stossen,     manchmal          an   der     Berührungsstelle        eingeschnürt Fraben\n niemals ‚nebeneinander verschoben sind. Nach Scott entstehen die Milchbehälter der Hevea\n durch Zellfusion, ähnlich den Gefässen; bei H. brasiliensis und Spruceana beobachtete er das\n Entstehen der Milchschläuche durch Resorption der Querwände von Zellenreihen. Calvert\n stellte fest, dass bei jungen        Pflanzen      der Hevea brasiliensis in der Mittelrinde                  des hypokotylen\n und epikotylen Stammes Milchschläuche reichlich, in der Aussenrinde                                   und dem Marke aber\n nicht vorhanden      waren.     Dieselben wurden              bei älteren        Pflanzen      aber    auch    im    Marke      und\n der Aussenrinde      gefunden      und    Verf.    glaubt      an    Verbindungen           dieser    Systeme       unter   sich in\n den Knoten.      Ähnliches nimmt de Bary an, doch konnte Chimani                                      nirgends Anastomosen\nnachweisen.       Er fand   die Schläuche          bei Z. brasiliensis          besonders     im Rindenteil          und     gekenn-\nzeichnet durch eigentümliche Ausstülpungen, welche oft in längere Nebenzweige übergehen,\naber    niemals   mit anderen Systemen             in Verbindung          treten.   —   Die Milchschläuche von Z. guia-\nnensis sind im Phloemteil       des Stammes         kranzförmig           angeordnet     und     verlaufen       zu 2—3       neben-\n                                                                                                                       8"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 68,
+        "source_line_range": [
+          54,
+          61
+        ],
+        "exact_source_quote": "           Vorkommen  und Verbreitung.  Hevea brasiliensis Müll. Argov. wächst wild\n                                                                                    in der\nbrasilianischen Provinz Para, an den Nebenflüssen d\n                                                     es Amazonas, am Apure und Javito, an\nden Mündungen des Orinoko (H. & B). Neu\n                                             erdings sind reiche Bestände am unteren B\n                                                                                       eni,\nam     Mayutala     und Aquiri           aufgefunden          worden,      auch      am    Marome        und Itenez        an    der brasilia-"
+      },
+      {
+        "section_type": "harvest",
+        "pdf_page": 72,
+        "source_line_range": [
+          1,
+          10
+        ],
+        "exact_source_quote": "          Bereitung des Kautschuks            aus Hevea-Arten.          Die    angeführten       Spezies     liefern   den\nParä-     und   den     Amazonas-Kautschuk,               auch    den    von    Uruguay.       Die    ersteren   sind die\ngeschätztesten aller Kautschukarten. Die Darstellung ist im Wesentlichen die gleiche. Der\nBaum wird nicht gefällt, wie bei der Gewinnung der Guttapercha; man verwundet ihn in\nder kälteren Jahreszeit durch einen horizontalen Schnitt am Grunde und mehrere senk-\nrechte längs der Seiten des Baumes; in die letzten münden schief absteigende Kanäle, die\nihnen seitlich Milch zuführen. Die Milch sammelt man in flachen ungebrannten Thongefässen,\ndie mit Lehm an den Baum geklebt werden.           Der Saft riecht ammoniakalisch, hält sich\naber höchstens einen Tag unverändert. Man versetzt ihn deshalb mit 3°/, Ammoniak, wo-\ndurch er länger haltbar und transportfähig wird."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "8b4e9f4252101918618b4940f701ea78d6de52ff1a6ec8127293a7e613dc392f"
+}

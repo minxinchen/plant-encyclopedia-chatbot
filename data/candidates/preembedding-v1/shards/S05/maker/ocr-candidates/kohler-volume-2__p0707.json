@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 707,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "21d0d0207a67f0468a0923c76e98070073bf311b2c7deecc6fe101d52f1e8b67",
+  "render_dpi": 144,
+  "render_sha256": "488c11de9381713348b561a7c955e9ac9ceabb2464035250bc10cb232a09cf38",
+  "input_sha256": "488c11de9381713348b561a7c955e9ac9ceabb2464035250bc10cb232a09cf38",
+  "render_pixel_width": 5474,
+  "render_pixel_height": 7694,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.316,
+  "embedded_character_count": 133,
+  "ocr_character_count": 68,
+  "ocr_alpha_ratio": 0.6912,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.02099995953696121,
+      "text": "blusiaceae.",
+      "width": 0.13524595253974303,
+      "x": 0.8527851881179862,
+      "y": 0.9422616481439632
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "1 a",
+      "width": 0.016326530802125302,
+      "x": 0.05714285713538049,
+      "y": 0.7514534884797005
+    },
+    {
+      "confidence": 1,
+      "height": 0.01889534791310632,
+      "text": "CO",
+      "width": 0.036734691978747014,
+      "x": 0.857142858092259,
+      "y": 0.6526162793743577
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "B",
+      "width": 0.014285714285714235,
+      "x": 0.8408163264455782,
+      "y": 0.2340116281677832
+    },
+    {
+      "confidence": 1,
+      "height": 0.07703488213675358,
+      "text": "88",
+      "width": 0.13061224641700242,
+      "x": 0.502040815662247,
+      "y": 0.1293604661651504
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252612005,
+      "text": "8",
+      "width": 0.010204081252892294,
+      "x": 0.561224489883758,
+      "y": 0.106104651508384
+    },
+    {
+      "confidence": 1,
+      "height": 0.02269243815588573,
+      "text": "Garcinia Morella var pedicellata Hanb.",
+      "width": 0.4513505144817074,
+      "x": 0.25697429518077763,
+      "y": 0.0805505995936785
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "179",
+      "width": 0.02653061072585472,
+      "x": 0.88163265355544,
+      "y": 0.02325581396135623
+    }
+  ],
+  "text": "blusiaceae.\n1 a\nCO\nB\n88\n8\nGarcinia Morella var pedicellata Hanb.\n179",
+  "output_sha256": "efe83c11a9fefac27d9e88b2710423b6f2d0e466036970404fcd16fa421a1607",
+  "receipt_sha256": "66662106a1aa8c43e4def5731483ea8430b4a201f1c7d2765723dc0cf890eb25"
+}

@@ -1,0 +1,261 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-4-p0034-p0037",
+  "entry_id": "kohler-volume-4:p0034-p0037",
+  "owner_shard": "S08",
+  "book_taxon": {
+    "scientific_name": "Maranta arundinacea",
+    "authorship": "L.",
+    "aliases": [
+      "Maranta indica Tuss.",
+      "M. ramosissima Wall.",
+      "M. sUvatica Rose.",
+      "M. protracta Miq.",
+      "Pfeilkraut",
+      "Arrowroot",
+      "herbe k flfeche"
+    ]
+  },
+  "display_name": "竹芋",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Maranta arundinacea"
+    ],
+    "accepted_scientific_name": "Maranta arundinacea",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T12:49:04+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Maranta+arundinacea",
+        "query_name": "Maranta arundinacea",
+        "retrieved_at": "2026-08-13T12:49:04+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0054400",
+        "query_name": "Maranta arundinacea",
+        "retrieved_at": "2026-08-13T12:49:04+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0054400",
+        "query_name": "Maranta arundinacea",
+        "retrieved_at": "2026-08-13T12:49:04+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL accepts the queried book binomial at species rank."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 34,
+      "evidence_type": "text",
+      "page_text_sha256": "a44ae16cf45328c3644db785523f9d3cb2af7dd2ed57e2f9ca08279c99214c5e",
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e"
+    },
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 36,
+      "evidence_type": "text",
+      "page_text_sha256": "45d9ed1e545143ae59823f225d7c3d0b506911757f3a8e1e8c2a92bbe2385e76",
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-4:p0034-p0037:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "               Syn.:    Maranta indica Tuss. M. ramosissima Wall. M.sUvatica Rose. M. protracta Miq.\n\n               Familie: Marantaceae.                  (Reihe: Scitamineae)                    G-attung: Maranta        L",
+      "normalized_text": null,
+      "zh_tw_rendering": "同物異名包括 Maranta indica、M. ramosissima 等。隸屬於竹芋科 (Marantaceae)，竹芋屬。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 34,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 191,
+        "char_end": 413,
+        "page_text_sha256": "a44ae16cf45328c3644db785523f9d3cb2af7dd2ed57e2f9ca08279c99214c5e",
+        "exact_text_sha256": "a194c7bf3cc4fe1a6566ec0c6e877f946e09c26224dc045da4f763d4953b819f",
+        "source_line_start": 4,
+        "source_line_end": 6,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "a194c7bf3cc4fe1a6566ec0c6e877f946e09c26224dc045da4f763d4953b819f",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-4:p0034-p0037:s01:x00",
+      "section_type": "description",
+      "original_text": "        Beschreifoimg: Die Pflanze besitzt ein unterirdisch nach kriechendes Rhizom, das mit einer\nStammknospe abschlieBt. Unterhalb der Spitze sendet das Rhizom seitlich zylindrische, fleischige,\ndicke Verzweigungen ab, die sich nach oben biegen und an ihrem oberen Ende keulig anschwellen.\nDiese Seitenzweige des Rhizomes sind bedeckt mit groBen, dunnen, zweizeilig stehenden, sich deckenden,\nbraunen oder helleren Niederblattern. An alteren Rhizomen sind diese abgefallen, die Rhizome sind\ndann durch die Narben der abgefallenen Niederblatter geringelt. Aus der terminalen Stammknospe\neines jeden Rhizomzweiges entwickeln sich 1,50 bis 1,80 m hohe, schlanke, kahle oder mehr oder\nweniger behaarte, reich verzweigte Stengel.   Sie sind schwach zusammengedriickt, glatt, an den\nKnoten sind sie ein wenig angeschwollen. Die Blatter stehen zweizeilig, d. h. das Blatt des nachst",
+      "normalized_text": null,
+      "zh_tw_rendering": "具地下匍匐根莖，側枝肥厚。莖高 1.5-1.8 米，葉二列互生，葉片橢圓形，長達 22 公分，基部楔形。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 34,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 414,
+        "char_end": 1291,
+        "page_text_sha256": "a44ae16cf45328c3644db785523f9d3cb2af7dd2ed57e2f9ca08279c99214c5e",
+        "exact_text_sha256": "b1591fc8cf35c5c701a4e645ac0bec61d5686e167d9291971f364e1182dbb2e0",
+        "source_line_start": 7,
+        "source_line_end": 15,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "b1591fc8cf35c5c701a4e645ac0bec61d5686e167d9291971f364e1182dbb2e0",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-4:p0034-p0037:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "           Die Bliitenstande stehen endstandig an den Stengeln, werden aber von Seitenzweigen iiber-\ngipfelt,   so daB sie scheinbar seitenstandig sind. Sie messen 15 cm, wovon 10 cm auf den gemein-\nsamen Bliitenstandstiel              fallen.    Sie    setzen  Paaren von Bliiten zusammen, jedes Paar\n                                                                    sich    aus      drei\nhat einen etwa 5 cm langen Stiel. Die scheinbare Endbliite eines jeden Paares ist ca.\n                                                                                              1 cm lang\ngestielt, die Seitenbliite fast sitzend. Die Hochblatter, die Brakteen, sind scheidenartig sie um-                                   ;\n\n\nhiillen fast ganz den Bliitenstiel der drei Teilbliitenstande.   Der Aufbau der Bliiten ist ein ziemlich\nkomplizierter,         er    laBt   sich    aber zwanglos auf das                 Diagramm der regelmaBigen Monokotylenbliite\nzuriickfuhren.         Eine solche         Bliite    hat   fiinf   dreigliedrige Kreise, namlich einen Kreis                von drei Kelch-\nblattern, einenvon drei damit abwechselnden Blumenblattern, zwei Kreise unter sich abwechselnder\nStaubblatter und einen Kreis von drei Fruchtblattern.   Man driickt dies mit einer Formel aus:\nK3C3A3-f3Gr3. Auch die Maranta-Bliite hat drei Kelchblatter;                                               sie   sind 1,5 cm lang, eiformig-",
+      "normalized_text": null,
+      "zh_tw_rendering": "花序頂生，花具三輪花被。雄蕊退化為花瓣狀，具帽狀及胼胝狀退化雄蕊，僅一真雄蕊。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 34,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 3212,
+        "char_end": 4634,
+        "page_text_sha256": "a44ae16cf45328c3644db785523f9d3cb2af7dd2ed57e2f9ca08279c99214c5e",
+        "exact_text_sha256": "fc0e86baff913e74302c2a2f35c280bc26d317f4b6ef87cf570966653780805b",
+        "source_line_start": 34,
+        "source_line_end": 48,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "fc0e86baff913e74302c2a2f35c280bc26d317f4b6ef87cf570966653780805b",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-4:p0034-p0037:s03:x00",
+      "section_type": "distribution",
+      "original_text": "            Yorkommen      :   Die Heimat der Maranta                     ist   wahrscheinlich Guiana und das siidwestliche\nBrasihen; gegenwartig wird die Pflanze in alien Tropenlandern\n                                                              kultiviert.",
+      "normalized_text": null,
+      "zh_tw_rendering": "原產於蓋亞那及西南巴西，現於各熱帶地區栽培。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 36,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 0,
+        "char_end": 259,
+        "page_text_sha256": "45d9ed1e545143ae59823f225d7c3d0b506911757f3a8e1e8c2a92bbe2385e76",
+        "exact_text_sha256": "da19a00632a8154efb4fd6534bf689623ba9aef252ab8b705dfd286988f9df79",
+        "source_line_start": 1,
+        "source_line_end": 3,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "da19a00632a8154efb4fd6534bf689623ba9aef252ab8b705dfd286988f9df79",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-4:p0034-p0037:s04:x00",
+      "section_type": "history",
+      "original_text": "            Name und Geschichtliches                    :   Die Pflanze\n                                                              Namen zu Ehren des um die Mitte\n                                                                            erhielt ihren\ndes 16. Jahrhunderts in Neapel lebenden Arztes und Botanikers\n                                                               Bartolomeo Maranta, den Art-\nnamen arundinacea wegen              ihrer        entfernten Ahnlichkeit mit              dem groBen   Schilfrohr,       Arundo.    Das\nWort       bedeutet also           Die Bezeichnung Arrowroot ist englisch und lautet auf deutsch\n                           schilfartig.\nPfeilwurz. Dieser Name riihrt daher, daB man den Saft der Rhizome\n                                                                            als Gegenmittel bei Ver-\ngiftungen, namentlich bei solchen, die von vergifteten\n                                                        Pfeilen herriihrten, ansah.  Martins wollte\ndas Wort von aru-aru, der Bezeichnung fur feines\n                                                     Manihot-Mehl bei siidamerikanischen Indianern\nableiten. Andere hieltan das hrnsiliRTiispLa Wort\n                                                                                           Aruwurzel\nffir das urspriingliche Stammwort von\n                                      Arrow root (Peckolt). Spruce wies jedoch nach, daB araruta\nvolksetymologisch aus arrow-root entstanden                       ist.",
+      "normalized_text": null,
+      "zh_tw_rendering": "種名紀念 16 世紀那不勒斯醫生 Bartolomeo Maranta。Arrowroot 一詞源於箭毒解毒傳說或南美土語。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 36,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 262,
+        "char_end": 1771,
+        "page_text_sha256": "45d9ed1e545143ae59823f225d7c3d0b506911757f3a8e1e8c2a92bbe2385e76",
+        "exact_text_sha256": "51172a8ffc9f3a216554e1f145c346ef85ada33e7f55424fa32300b9a2b54b34",
+        "source_line_start": 6,
+        "source_line_end": 24,
+        "section_index": 4,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "51172a8ffc9f3a216554e1f145c346ef85ada33e7f55424fa32300b9a2b54b34",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-4:p0034-p0037:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "         Zuerst erwahnt wird die Pflanze von Sloane in seinem Catalogue\n                                                                          of Jamaica plants (1696).\nEr nannte die Pflanze Carina indica radice alba alexlpharmaca und teilt\n                                                                        mit, daB zerquetschte und\naufgelegte Rhizomstiicke ein ausgezeichnetes Mittel gegen\n                                                          Wunden von vergifteten Pfeilen, gegen\nSchlangenbisse und gegen Wespenstiche, ja sogar gegen beginnenden\n                                                                    Brand seien. Der Anbau der\nPflanze zur Gewinnung von Starke datiert erst seit den 50 er\n                                                             Jahren des vorigen Jahrhunderts.",
+      "normalized_text": null,
+      "zh_tw_rendering": "Sloane 記載其根莖可治箭毒、蛇咬及蜂螫。19 世紀 50 年代起開始大規模種植以提取澱粉。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 36,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 1773,
+        "char_end": 2584,
+        "page_text_sha256": "45d9ed1e545143ae59823f225d7c3d0b506911757f3a8e1e8c2a92bbe2385e76",
+        "exact_text_sha256": "f43cac6bd351249d007c5648cb1564fc7b215782a9249881c70c02fd2f8b4364",
+        "source_line_start": 26,
+        "source_line_end": 35,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "f43cac6bd351249d007c5648cb1564fc7b215782a9249881c70c02fd2f8b4364",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "650b2bd0a2d3950db7064c714ca23435efcf00020613ca014a7776e7294ae36f",
+    "maker_receipt_sha256": "f0c95c4ecaacee177636418be3775549df17a99bba7996181bbe6afbc649b319",
+    "validation_check_sha256": "8fbdc9bcfac4c538b3e9e280a57281c57a48988963c41d7fcb07f72610f9eeab",
+    "source_disposition_sha256": "d9f3d1d2b1c4742070968fd15dcf70e5ed6de086f6f0c19fe7a6c80945279b60",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "f0c95c4ecaacee177636418be3775549df17a99bba7996181bbe6afbc649b319",
+      "validation_check_sha256": "8fbdc9bcfac4c538b3e9e280a57281c57a48988963c41d7fcb07f72610f9eeab",
+      "source_disposition_sha256": "d9f3d1d2b1c4742070968fd15dcf70e5ed6de086f6f0c19fe7a6c80945279b60"
+    },
+    "naming_artifact_sha256": "9f0cc37bb8b4210366fec5fcd8127ddc91111264e0db12dd9494329f149ec7a2"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "b0dba005326155f36448831db412fe11a416e5456e03e0be8d765975f7cd94f3"
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 255,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "cf2db8cdb63f4884814bdbf1bce7c64266a6d77d020e5c8b3a1df382c25dd97e",
+  "render_dpi": 144,
+  "render_sha256": "491912aca85f631e9debfa6aaa7998a4a38a3efbae55eb91554b53b480af08fb",
+  "input_sha256": "491912aca85f631e9debfa6aaa7998a4a38a3efbae55eb91554b53b480af08fb",
+  "render_pixel_width": 5618,
+  "render_pixel_height": 7934,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.133,
+  "embedded_character_count": 294,
+  "ocr_character_count": 32,
+  "ocr_alpha_ratio": 0.8125,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.02206842672257192,
+      "text": "Solaneae.",
+      "width": 0.09049052818148742,
+      "x": 0.07694440501135039,
+      "y": 0.9370032827735056
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.024736021246228868,
+      "text": "Hyoscyamus niğer l",
+      "width": 0.17456321823162857,
+      "x": 0.40759543897535044,
+      "y": 0.14460873400891183
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883082859107,
+      "text": "WM.",
+      "width": 0.0327868848955597,
+      "x": 0.8790983610651008,
+      "y": 0.15406976784395243
+    }
+  ],
+  "text": "Solaneae.\nHyoscyamus niğer l\nWM.",
+  "output_sha256": "653144f99fda8266c85b354003a6bf358262f8594fccebd9e99bd47ea1a9742b",
+  "receipt_sha256": "96b396d60264d9d88f18a6e2e90f7ed3b63579d549ff2549bd3f7482361feb2d"
+}

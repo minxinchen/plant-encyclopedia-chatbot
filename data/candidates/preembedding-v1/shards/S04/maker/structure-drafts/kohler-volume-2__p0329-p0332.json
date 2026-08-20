@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0329-p0332",
+  "owner_shard": "S04",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 163.784,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0329-p0332",
+    "book_taxon": {
+      "scientific_name_candidate": "Ferula galbaniflua",
+      "authorship_candidate": "Boiss. et Buhse",
+      "aliases_candidates": [
+        "Ferula gummosa Boiss.",
+        "Ferula erubescens Boiss. part.",
+        "Kasswih oder Boredscheh der Perser"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 329,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Ferula galbaniflua，同義名 Ferula gummosa 及 Ferula erubescens 部分，波斯語稱 Kasswih 或 Boredscheh。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          3
+        ],
+        "exact_source_quote": "                          Ferula galbaniflua Boiss. et Buhse.\n                   Syn. Ferula gummosa            Boiss.         Ferula erubescens Boiss. part.\n                                (Kasswih oder Boredscheh der Perser)."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 329,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "多年生植物，根粗大含樹脂。莖直立高 1-2 米，分泌白色後變黃的膠質樹脂。葉四回羽狀分裂，花淡黃色，果實橢圓形。",
+        "warnings": [],
+        "source_line_range": [
+          8,
+          23
+        ],
+        "exact_source_quote": "            Beschreibung. Pflanze ausdauernd. Die grosse, unterhalb des Halses verdickte Wurzel ist\n  verzweigt und spärlich mit einem harzigen Safte erfüllt. Stengel aufrecht, 11, bis 2 Meter hoch,\n  9 und mehr Ctm. dick, cylindrisch, nackt, im oberen Theile verzweigt, ein weisses, an der Luft bald\n  gelb werdendes Gummiharz ausschwitzend. Blätter kurz weichhaarig, die unteren mit den Blattstielen\n  bis 60 Ctm. lang. Blattscheiden mehr oder weniger verlängert, nicht aufgeblasen. Blätter 4fach fieder-\n  theilig, mit lang gestielten Abschnitten erster und zweiter Ordnung; die kleinen eifórmigen Abschnitte\n  in kurze, lineale, ganze, 2 oder d3spaltige Zipfel getheilt. Die obersten Blätter nur aus den läng-\n  lichen Scheiden bestehend. Dolden 6- bis 12strahlig, ohne Hülle; die der fruchtbaren Blüthen endstündig,\n  die der männlichen seitenstándig, die fruchtbare Dolde überragend. Hüllchen entweder fehlend, oder,\n  wenn vorhanden, aus kleinen, lanzettlichen Brakteen bestehend. Blüthen blassgelb. Kronblätter lineal-\n  lanzettlich, mit nach innen gebogener Spitze. Staubfäden lang. Früchte oblong oder ellipsoidisch, oder\n  etwas eifórmig im Umrisse, 12 bis 16 Mm. lang, 5 bis 8 Mm. breit, an beiden Enden stumpf, gekrönt\n  von den kurzen umgebogenen Griffeln, graugelb, glatt. Randflügel der Früchtchen ungefähr halb\n-so breit als die übrige Frucht, in der Breite wechselnd. Rippen sehr zart. Die Oelstriemen die\n ‚ganze Breite der Furche einnehmend; die Fugenseite striemenlos. Embryo klein; Samenlappen eiför-\n  mig, stumpf."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 329,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產波斯，1848 年於德馬溫德山海拔 1200-2400 米發現，1858 年於呼羅珊 Subzawar 附近發現。",
+        "warnings": [],
+        "source_line_range": [
+          27,
+          30
+        ],
+        "exact_source_quote": "           Vorkommen.        In Persien einheimisch. 1848 von Buhse am Demavend und Umgebung in\n Meereshöhen von 1200 bis 2400 Meter entdeckt und dort in grossen Mengen aufgefunden worden;\n auch 1858 von Bunge weiter östlich von diesem Standorte in der Nähe von Subzawar in Chorassan\n angetroffen."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 330,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源自阿拉伯語 halab 或希臘語 yodo（乳），聖經 Chelbenah 指此物。希波克拉底、狄奧斯科里底斯及普林尼均有記載，中世紀威尼斯出口。",
+        "warnings": [],
+        "source_line_range": [
+          25,
+          40
+        ],
+        "exact_source_quote": "         Name und Geschichtliches.            Ferula siehe Ferula Scorodosma.      Galbanum stammt\nangeblich von dem arabischen halab, hebräischen 297 (chalob), gleichbedeutend mit dem griechischen\nyodo Milch, bezogen auf den Milchsaft, welcher der Pflanze entquillt. Wittstein meint, das Wort\nmüsste eigentlich, namentlich auch der griechischen Form xaAßayn entsprechend, Chalbanum geschrieben\nwerden. Das Wort kann auch auf das keltische galb, galban (fett, salbenartig, zu Salbe dienend)\nbezogen werden. Galbaniflua, galbanumliefernd.\n         Galbanum tritt schon in den hippokratischen Schriften, ebenso bei Theophrast und Nicander\nals ya@Aßavn auf. Auch das Chelbenah der Bibel, welches bei dem israelitischen Gottesdienste als\nRäuchermittel verwendet       wurde, deutet man       als Galbanum.     Dioskorides,         welcher sich mit der Droge,\nnamentlich mit der Reinigung derselben, beschäftigte, war der Ansicht, dass Galbanum von einer in\nSyrien wachsenden Narthex stamme         Nach Plinius war das Almanusgebirge in Nordsyrien die\nHeimath der Stammpflanze Sowohl die arabischen Schriftsteller, als auch die Schule von Salern\nbeschäftigten sich viel mit Galbanum, welches sowohl als Heilmittel, als auch als Gewürz Ver-\nwendung fand. Der Zolltarif von Alexandrien aus dem 1. Jahrh. nach Chr. Geburt enthält Galbanum;\nebenso gehört die Droge im Mittelalter zu den Ausfuhrartikeln Venedigs nach. London. Caspar Neumann\ndestillirte um   1730   das ätherische    Oel, welches in dem       Galbanum     enthalten    ist."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 331,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "成分分析：含約 6-8% 揮發油，60-66% 樹脂，20-22% 樹膠，及少量雜質、巴索林、苦味質與蘋果酸。",
+        "warnings": [],
+        "source_line_range": [
+          24,
+          27
+        ],
+        "exact_source_quote": "          Bestandtheile. Meissner fand: 8.49/, ütherisches Oel, 65.89/, Harz, 22.6%, Gummi, 2.8%\nfremde Beimengungen, 1.89/, Bassorin, 0.29/, Bitterstoff und Apfelsáure. Pelletier fand: 6.34%\nütherisches Oel, 66.86%, Harz, 19.989/, Gummi, 7.52%, Beimengungen          Neumann fand: 6.0%\nätherisches Oel, 60.09/, Harz, 20.0%, Gummi, 14,0%, Beimengungen."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 332,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史用途：作興奮劑、抗痙攣藥及催經藥（母樹膠）；外用軟化瘡瘍與腺腫。曾用於閉經、慢性卡他及風濕症。",
+        "warnings": [],
+        "source_line_range": [
+          17,
+          23
+        ],
+        "exact_source_quote": "         Anwendung.     In Pillen, in Form von Emulsion, in Tinktur als Excitans, Antikatarrhale,\n Antispasmodicum, Emmenagogum; äusserlich als erweichendes Mittel bei Geschwüren und Drüsenan-\n schwellungen, als Bestandtheil       von Pflastern.    „Galbanum    wird innerlich     selten gebraucht.     Man   hat\n es als Antispasmodicum nach Art der Asa foetida benutzt und ihm spezifische Wirkung auf den\n Uterus (daher die Bezeichnung Mutterharz) zugeschrieben, wonach es bei Amenorrhoe in Anwendung\n kam. Auch gegen chronische Katarrhe und Rheumatismus wird es gebraucht.“ (Husemann, Arznei-\n mittell. 547.)"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "c6dea3ef2e69eaffbd7db5dc91b94748ea9062cfdfef68349207a8a41477357b"
+}

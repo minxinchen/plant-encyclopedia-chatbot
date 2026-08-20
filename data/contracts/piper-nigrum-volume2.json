@@ -1,0 +1,123 @@
+{
+  "schema_version": "1.0",
+  "record_slug": "piper-nigrum",
+  "record_id": "kohler-v2-piper-nigrum",
+  "source_id": "kohler-volume-2",
+  "pdf_pages": [293, 294, 295, 296],
+  "book_taxon": {
+    "scientific_name": "Piper nigrum",
+    "authorship": "L.",
+    "aliases": ["Piper trioicum"],
+    "book_common_names": ["Schwarzer Pfeffer", "Poivre noir", "Black Pepper", "Murich"]
+  },
+  "display_name": "胡椒",
+  "name_resolution": {
+    "status": "taiwan_public_name",
+    "query_name": "Piper nigrum",
+    "accepted_scientific_name": "Piper nigrum L.",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-12T16:30:00+08:00",
+    "sources": [
+      {
+        "authority": "台灣植物資訊整合查詢系統 Tai2",
+        "url": "https://tai2.ntu.edu.tw/species/999%20990%20195%203",
+        "source_id": null,
+        "result": "Tai2 將 Piper nigrum L. 對應為「胡椒」，並標示 Non-Taiwanese。"
+      },
+      {
+        "authority": "農業部農業知識入口網／台北植物園館",
+        "url": "https://kmweb.moa.gov.tw/subject/subject.php?id=27351",
+        "source_id": null,
+        "result": "農業部公開頁面使用「胡椒 Piper nigrum」，並記載臺灣高雄六龜有少量種植；此為栽培紀錄，不等於臺灣原生。"
+      }
+    ]
+  },
+  "book_evidence": [
+    {"source_id": "kohler-volume-2", "pdf_page": 293, "printed_page": "144", "evidence_type": "text", "ocr_quality": "usable"},
+    {"source_id": "kohler-volume-2", "pdf_page": 294, "printed_page": null, "evidence_type": "text", "ocr_quality": "usable"},
+    {"source_id": "kohler-volume-2", "pdf_page": 295, "printed_page": "144", "evidence_type": "text", "ocr_quality": "usable"},
+    {"source_id": "kohler-volume-2", "pdf_page": 296, "printed_page": null, "evidence_type": "text", "ocr_quality": "usable"},
+    {"source_id": "kohler-volume-2", "pdf_page": 296, "printed_page": null, "evidence_type": "caption", "ocr_quality": "usable"}
+  ],
+  "sections": [
+    {
+      "section_type": "taxonomy",
+      "pdf_page": 293,
+      "start_marker": "Piper nigrum L.",
+      "end_marker": "Beschreibung.",
+      "normalized_text": "Piper nigrum L.; Familie Piperaceae; Gattung Piper L.; Synonym Piper trioicum Roxb.",
+      "zh_tw_rendering": "本書以 Piper nigrum L. 收錄，列於 Piperaceae 科、Piper 屬；書中另列 Piper trioicum Roxb. 為異名。臺灣公開名稱採「胡椒」。",
+      "evidence_indexes": [0]
+    },
+    {
+      "section_type": "description",
+      "pdf_page": 293,
+      "start_marker": "Beschreibung.",
+      "end_marker": "Piper officinarum",
+      "normalized_text": "Climbing woody shrub with aerial roots, alternate leathery leaves, spikes and spherical one-seeded berries.",
+      "zh_tw_rendering": "本書描述胡椒為藉氣生根攀附樹木的木質灌木，枝條節部生根；葉互生、具柄且革質，花呈穗狀，成熟果實近球形並含一粒種子。",
+      "evidence_indexes": [0]
+    },
+    {
+      "section_type": "flowering",
+      "pdf_page": 294,
+      "start_marker": "Blüthezeit.",
+      "end_marker": "Vorkommen.",
+      "normalized_text": "Piper nigrum flowers in southern India in May and June; harvest begins early the following year.",
+      "zh_tw_rendering": "本書記載胡椒在南印度於五月、六月開花，並在翌年年初開始採收。",
+      "evidence_indexes": [1]
+    },
+    {
+      "section_type": "distribution",
+      "pdf_page": 294,
+      "start_marker": "Vorkommen.",
+      "end_marker": "Piper officinarum",
+      "normalized_text": "Probably native to the forests of the Malabar coast; cultivated in southern India, Ceylon, Sumatra, Java, Borneo, the Philippines and the West Indies.",
+      "zh_tw_rendering": "本書推測胡椒原生於馬拉巴爾海岸森林，當時栽培於南印度、錫蘭、蘇門答臘、爪哇、婆羅洲、菲律賓與西印度群島。這是書中分布，不是臺灣 occurrence 資料。",
+      "evidence_indexes": [1]
+    },
+    {
+      "section_type": "constituents",
+      "pdf_page": 295,
+      "start_marker": "Bestandtheile.",
+      "end_marker": null,
+      "normalized_text": "Black pepper contains essential oil, the crystalline alkaloid piperine, pungent soft resin, proteins, gum, starch, bassorin and malic acid.",
+      "zh_tw_rendering": "本書記載黑胡椒含揮發油、結晶性生物鹼 Piperin（胡椒鹼）、辛辣軟樹脂、蛋白質、樹膠、澱粉、Bassorin 與蘋果酸。",
+      "evidence_indexes": [2]
+    },
+    {
+      "section_type": "constituents",
+      "pdf_page": 296,
+      "start_marker": "Bei Behandlung",
+      "end_marker": "Anwendung.",
+      "normalized_text": "The text describes piperine isolation and properties and names piperidine and piperic acid among its decomposition products.",
+      "zh_tw_rendering": "本書詳述 Piperin（胡椒鹼）的取得與性質，並記載其在特定處理下可形成 Piperidin 與 Piperinsäure 等產物。這是歷史化學記載，不構成使用建議。",
+      "evidence_indexes": [3]
+    },
+    {
+      "section_type": "historical_use",
+      "pdf_page": 296,
+      "start_marker": "Anwendung.",
+      "end_marker": "Litteratur.",
+      "normalized_text": null,
+      "zh_tw_rendering": "本書列舉胡椒與 Piperin 的歷史用途，也記載較大量胡椒可能造成中毒現象。此段只作歷史文獻與風險記錄，不得轉成現代治療、劑量或自行使用建議。",
+      "evidence_indexes": [3]
+    },
+    {
+      "section_type": "plate_description",
+      "pdf_page": 296,
+      "start_marker": "Tafelbeschreibung:",
+      "end_marker": null,
+      "normalized_text": null,
+      "zh_tw_rendering": "圖版文字說明列出開花枝、花穗局部、子房與雄蕊、幼果、果穗及去除果皮的果實等；本批只核准說明文字，不宣稱已完成圖像推理。",
+      "evidence_indexes": [4]
+    }
+  ],
+  "review_status": "sample_reviewed",
+  "warnings": [
+    "Tai2 的 Non-Taiwanese 與農業部的六龜少量栽培分別表達為非臺灣原生與栽培紀錄，不將名稱或栽培外推成原生分布。",
+    "PDF 293 同頁另述 Piper officinarum 與 Piper longum；本記錄的形態原文在 Piper officinarum 標題前截止。",
+    "PDF 294 的分布原文在 Piper officinarum 段落前截止；PDF 295-296 只保留胡椒成分與用途的明確範圍。",
+    "歷史用途不得轉成現代醫療建議；圖版說明文字已核准，但圖像推理仍未啟用。"
+  ]
+}

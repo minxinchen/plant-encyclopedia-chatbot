@@ -1,0 +1,257 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0039-p0040",
+  "entry_id": "kohler-volume-1:p0039-p0040",
+  "owner_shard": "S01",
+  "book_taxon": {
+    "scientific_name": "Arnica Montana",
+    "authorship": null,
+    "aliases": [
+      "Doronicum montanum Lam.",
+      "Doronicum Arnica Desf.",
+      "Arnica angustifolia Vahl.",
+      "Arnica alpina Murray",
+      "Caltha alpina",
+      "Chrysanthemum latifolium",
+      "Damosonium primum Dioscoridis"
+    ]
+  },
+  "display_name": "高山阿尼卡菊",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Arnica Montana",
+      "Arnica montana"
+    ],
+    "accepted_scientific_name": "Arnica montana",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T14:11:49+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Arnica+Montana",
+        "query_name": "Arnica Montana",
+        "retrieved_at": "2026-08-13T14:11:49+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0025553",
+        "query_name": "Arnica Montana",
+        "retrieved_at": "2026-08-13T14:11:49+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0025553",
+        "query_name": "Arnica Montana",
+        "retrieved_at": "2026-08-13T14:11:49+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Arnica+montana",
+        "query_name": "Arnica montana",
+        "retrieved_at": "2026-08-13T14:11:49+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0061046",
+        "query_name": "Arnica montana",
+        "retrieved_at": "2026-08-13T14:11:49+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0061046",
+        "query_name": "Arnica montana",
+        "retrieved_at": "2026-08-13T14:11:49+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL accepts the queried book binomial at species rank."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 39,
+      "evidence_type": "text",
+      "page_text_sha256": "343eda127773a7160d3fb3968183aa9041488110cd71a8aca1e3c5e6016b3ebd",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 40,
+      "evidence_type": "text",
+      "page_text_sha256": "a738d48b748d69ef6ac7dc2befe8e5c00ce2a4311e4d2637a8bdd15ed2eb99fb",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0039-p0040:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                              Arnica Montana L.\n                     Syn. Doronicum montanum Lam.                                 Doronicum Arnica Desf.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Arnica Montana L.，異名 Doronicum montanum Lam. 及 Doronicum Arnica Desf.。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 39,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 0,
+        "char_end": 168,
+        "page_text_sha256": "343eda127773a7160d3fb3968183aa9041488110cd71a8aca1e3c5e6016b3ebd",
+        "exact_text_sha256": "2074eda68abce38f1b420ba763f9cddb2155473627715f0323807fba07395d2f",
+        "source_line_start": 1,
+        "source_line_end": 2,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "2074eda68abce38f1b420ba763f9cddb2155473627715f0323807fba07395d2f",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0039-p0040:s01:x00",
+      "section_type": "description",
+      "original_text": "           Beschreibung.Ausdanernde Pflanze mit schief herabsteigendem, cylindrischem bis 10 cm                                ,\n\n\nlangem, 1 cm dickem, aussen rothlichbraunem innen weissem Rhizom, welches ziemlich\n                                                                    ,\n                                                                                       dicht mit\nbraunen Schuppen und den Ueberbleibseln abgestorbener Blatter und auf der Unterseite mit\n                                                                                          langen,\ndflnnen Adventivwurzeln besetzt            ist.       Am Grunde des 1- bis 3kopfigen, 30—60 cm hohen, aufrechten^",
+      "normalized_text": null,
+      "zh_tw_rendering": "多年生植物，具斜下伸圓柱狀根莖，長至10公分，外紅褐內白，密被褐色鱗片及枯葉殘跡。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 39,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 823,
+        "char_end": 1504,
+        "page_text_sha256": "343eda127773a7160d3fb3968183aa9041488110cd71a8aca1e3c5e6016b3ebd",
+        "exact_text_sha256": "6c8a11f7e55ab6d40a699adfbc63177538507eddc8468f22b3baaa190c2d3644",
+        "source_line_start": 18,
+        "source_line_end": 26,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "6c8a11f7e55ab6d40a699adfbc63177538507eddc8468f22b3baaa190c2d3644",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0039-p0040:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "           Anatomisclies :   Der Querschnitt          cler   Hauptwurzel zeigt eine glanzende Rinde von ungefahr Vio des Durcli-\nmessers, einen schmalen, festen Holzring und ein,               % des Querschnittes einnehmendes schwammiges Mark. Der Holz-\nring besteht aus gelben,     unregelnmssigen      ,    ofters halbkreisformigen,         dicht aneinanderschliessenden, nicht strahligen\nGruppen stark verholzten Gewebes, umgeben von zahlreichen, zerstreuten Gefassen, mit spaltenformigen Tupfeln. In\nder Rinde befinden sich, einen weitlaufigen Kreis bildend, ungleiche, von zartem Parenchym umgebene Oelraume,\nderen blassgelbes Oel gewohnlich ausgetreten und durch das benachbarte Gewebe verbreitet ist.                               Der Kork ist aus\nwenigen Reihen rundlicher, brauner, oft Harz fuhrender Zellen zusammengesetzt.",
+      "normalized_text": null,
+      "zh_tw_rendering": "根橫切面示光澤皮層、狹窄木質環及海綿狀髓；皮層含油室，木質環由木化組織及散在管胞組成。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 39,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 3660,
+        "char_end": 4493,
+        "page_text_sha256": "343eda127773a7160d3fb3968183aa9041488110cd71a8aca1e3c5e6016b3ebd",
+        "exact_text_sha256": "d315041e1068217e7e84d70fb649918eea1dd6f198998b2fb1380a69087ee426",
+        "source_line_start": 50,
+        "source_line_end": 56,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "d315041e1068217e7e84d70fb649918eea1dd6f198998b2fb1380a69087ee426",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0039-p0040:s03:x00",
+      "section_type": "distribution",
+      "original_text": "           Verbreitung.         Auf Torfmooren und                  gebirgigen, besonders                       w\nMitteleuropa, ebenso in den hoheren Breiten von Asien                            und Amerika.",
+      "normalized_text": null,
+      "zh_tw_rendering": "分佈於泥炭沼澤及山區，尤以中歐為主，亦見於亞洲及美洲高緯度地區。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 39,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4494,
+        "char_end": 4701,
+        "page_text_sha256": "343eda127773a7160d3fb3968183aa9041488110cd71a8aca1e3c5e6016b3ebd",
+        "exact_text_sha256": "c1b358c8a98253e50f0da78d7cd88281fd69fddf0966bff4d084d3c9c61c4a25",
+        "source_line_start": 57,
+        "source_line_end": 58,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "c1b358c8a98253e50f0da78d7cd88281fd69fddf0966bff4d084d3c9c61c4a25",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0039-p0040:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "                              w           Wurzel und Bluthen. weniVar f\nNerven- und Gefasssystem anregendes, Respiration und Blutumlauf beschleunigendes, Harn und Schweiss-\nabsonderung belorderndes Mittel gereicht; so namentlich bei nervosen Affektionen, Epilepsie,\n                                                                                                 Grehirn-\nerschutterung, Geisteskrankbeit, bei Mai ariakrankheiten und Ruhr; in Folge ihres\n                                                                                  Aufsaugungsvermogens\nebenso auch bei Blutergiissen, daher bei Apoplexie und ausserlich bei alien mit Blutaustritt\n                                                                                             verbundenen\nLeiden.             Friiher fanden die         Blumen      in    gepulverter      Form Anwendung als Niesspulver.                          (Husemann\nArzneimittell. 953.)",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：根與花曾作興奮神經血管系統、加速呼吸循環及利尿發汗劑，用於神經病、癲癇及腦震盪。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 40,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4198,
+        "char_end": 5122,
+        "page_text_sha256": "a738d48b748d69ef6ac7dc2befe8e5c00ce2a4311e4d2637a8bdd15ed2eb99fb",
+        "exact_text_sha256": "e521430ad91377dc8d4d328332b9d470a4c0fced166350e661a6311228f36707",
+        "source_line_start": 58,
+        "source_line_end": 67,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "e521430ad91377dc8d4d328332b9d470a4c0fced166350e661a6311228f36707",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "d31380ef19175394c28ba97e9be994ab71a80bcebed0f21f5cfddf94a504edbb",
+    "maker_receipt_sha256": "4d5c628e2a5fc7017ce05e04b66f12f22f617486765f0f00f022ba6e235b9de6",
+    "validation_check_sha256": "84f01833b0822bbfe097f9b13a66478d2f972745f72ff7f7dbe0dc00a7f16195",
+    "source_disposition_sha256": "f1eb6966fe784e4685a53fef08f06c837c9a960008e2909793c90ede134269cf",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "4d5c628e2a5fc7017ce05e04b66f12f22f617486765f0f00f022ba6e235b9de6",
+      "validation_check_sha256": "84f01833b0822bbfe097f9b13a66478d2f972745f72ff7f7dbe0dc00a7f16195",
+      "source_disposition_sha256": "f1eb6966fe784e4685a53fef08f06c837c9a960008e2909793c90ede134269cf"
+    },
+    "naming_artifact_sha256": "bc44dba5957944ebefd43d672638d44f0fe67cf43bc8cc4909ae81f75b14b8d6"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "3a151491ef21cf2b622c220639ed579ab5ba7cf97a132330b769d030cf5e172b"
+}

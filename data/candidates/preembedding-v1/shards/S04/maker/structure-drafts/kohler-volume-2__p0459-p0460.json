@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0459-p0460",
+  "owner_shard": "S04",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 110.361,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0459-p0460",
+    "book_taxon": {
+      "scientific_name_candidate": "Cureuma Zedoaria",
+      "authorship_candidate": "Roscoe",
+      "aliases_candidates": [
+        "C. Zerumbet Roxb.",
+        "Amomum Zedoaria Willd.",
+        "A. Zerumbet Konig.",
+        "Zitwer",
+        "Zedoaire",
+        "Zedoary"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 459,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Cureuma Zedoaria，同義名含 C. Zerumbet 及 Amomum Zedoaria。屬薑科，薑黃屬。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          5
+        ],
+        "exact_source_quote": "                                         Cureuma Zedoaria Roscoe.\n            Syn. C. Zerumbet Roxb.                  Amomum           Zedoaria Willd.         A. Zerumbet Konig.\n\n                                       Zitwer, Giftheil 一           Zedoaire 一        Zedoary.\n          Familie: Zingiberaceae (Unterfamilie: Hedychieae); Gattung: Curcuma L."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 459,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "根莖似薑黃，粗4公分，塊狀分枝，外灰褐內灰紅。葉基生，長40公分，中脈旁有紫紋。",
+        "warnings": [],
+        "source_line_range": [
+          6,
+          14
+        ],
+        "exact_source_quote": "          Beschreibung. Das Rhizom, welches dem der C. longa ähnlich ist, besitzt eine Stärke von.\n 4 Ctm., ist knollig, oft handförmig getheilt, geringelt, aussen hellgraubraun, innen grau oder röthlich-\n grau, an den Knollen mit faserigen, spiralig gestellten, theilweise am Ende knollig verdickten Wurzeln;\n Streifung ist meist nicht erkennbar, weil die Korkleisten gewöhnlich abgescheuert sind. Nees von\n. Esenbeek sagt: „Die Wurzel besteht, wie bei allen Arten dieser Gattung, aus einem zwiebelartigen\n  Wurzelstocke (rhizoma), aus dem theils handförmige, blos gelbliche Knollen, theils lange, einfache,\n  fleischige Fasern hervorkommen, die sich wieder in längliche, weisse und fast geschmacklose Knollen\n  endigen, während Aroma und Farbstoff in reichem Maasse in der Zwiebel undin den handförmigen\n Knollen enthalten sind.“ Die Blätter sind sämmtlich grundständig, kurz scheidig gestielt, breit lanzett-"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 459,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "橫切面圓形，皮薄。外層厚木栓，中層含澱粉及黃褐色樹脂。維管束散佈，具螺旋及網狀導管。",
+        "warnings": [],
+        "source_line_range": [
+          38,
+          44
+        ],
+        "exact_source_quote": "           Anatomisches.       Die Wurzel, welche in ihrem Bau derjenigen der Curcuma longa ähnlich\n ist, zeigt auf       dem    Querschnitte     einen kreisrunden      Umfang    und eine dünne Rinde           von   !/, des Durch-\n messers, welche durch die Kernscheide vom Holzkörper getrennt ist. Die Aussenrinde besteht aus einem\n dicken Korke; die Mittelrinde zeigt ein Parenchym, bestehend aus farblosen, polyedrischen, getüpfelten\n Zellen, die von Stärkemehl strotzen, und vereinzelten Zellen, welche gelbbraune Harzklumpen enthalten.\n Die Gefässbündel,          welche in die Mittelrinde      eingestreut sind, bestehen aus wenigen, von Holzzellen um-\ngebenen Spiral- und netzförmigen Gefássen mit sehr schmalen oder ganz fehlenden Kambialbtindeln."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 459,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產印度，現東印度、中國、爪哇及馬達加斯加有栽培，尤以馬德拉斯為多。",
+        "warnings": [],
+        "source_line_range": [
+          54,
+          56
+        ],
+        "exact_source_quote": "            Vorkommen.              Die Heimath,        welche     in Indien   zu   suchen   ist, lässt sich nicht mehr        fest-\nstellen. Gegenwärtig in Ostindien, China, auf Java und in Madagascar angebaut; nach Flückiger\nnamentlich in der Präsidentschaft Madras."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 460,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "印度古用，6世紀始傳入歐洲。歷史上名稱繁多，常與其他近緣植物根莖混淆。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          14
+        ],
+        "exact_source_quote": "             Obgleich in Indien schon längst bekannt und gebräuchlich, erhalten wir die erste Kunde über\n   Zedoaria doch erst von den alexandrinischen Aerzten Aétius im 6. Jahrh. und P. Aegineta im\n   7. Jahrh.; im Abendlande wird Zitwer zu Anfang des 8. Jahrh. durch Benedictus Crispus, Erz-\n   bischof von Mailand, bekannt. Ein Würzburger Manuscript aus dem 9. Jahrh. bezeichnet Zaduar als\n   Bestandtheil eines fieberwidrigen Mittels. 1150 liefert Hildegard eine Abhandlung über Zituar und\n   eine aus dieser Zeit stammende Frankfurter Handschrift enthält Zodear, Zitewar. Flückiger führt\n   an, dass die Droge um 1271 in Barcelona als Citovart, 1228 in Marseille als Citoval, 1296 in Paris\n   als Ceytoal bezeichnet und unter dem Namen Zedoaria auf den Märkten der Champagne feilgehalten\n . wurde. Der Venetianer Nicolo Conti war der erste, der in der ersten Hälfte des 15. Jahrh. über\n   die Herkunft der Wurzel aus Calicut auf der Malabarküste Bericht erstattet; ebenso giebt 1511\n   Odoardo Barbosa Auskunft über die Abstammung der Droge. Flückiger ist jedoch der Ansicht,\n   dass es jedenfalls irrthümlich sei, unter allen den genannten Namen und Bezeichnungen ausschliesslich Ze:\n  doaria zu verstehen,           „die Wurzelstócke         anderer nahe verwandter      Pflanzen sind ohne Zweifel oft damit\n  verwechselt worden, weil ihr Aroma, wenn auch nicht das Aussehen, dem der Zedoariawurzel gleicht“."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 460,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史用途：製成丸劑或酊劑，作為芳香劑及健胃藥，常與薑及豆蔻配伍。",
+        "warnings": [],
+        "source_line_range": [
+          43,
+          44
+        ],
+        "exact_source_quote": "                Anwendung.          In Pillenform      und Tinktur         als Aromaticum   und Stomachicum        meist in Ver-\n bindung mit Galgant und Cardamom. (Husemann, Arzneimittell. 566.)"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "86f3fd4000c6e370a8427d14cee0de0351fd6fcaefbcd991c1f0606364092b95"
+}

@@ -1,0 +1,127 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-3:p0353-p0358",
+  "owner_shard": "S07",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S07/maker/structure-drafts/kohler-volume-3__p0353-p0358.json",
+  "source_draft_sha256": "c146ef410981910b23405e738d425e9ef50b58f7f89928b021fc00819dbab685",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "95b549f0c07d712eb5847385d37163db5886e7dd73ef4992a7e310d072d3604a",
+    "validation_check_sha256": "765e6988d3c8648ab297af91830754dd2e82cf20e8cc67d66f632a740325663e",
+    "source_disposition_sha256": "7a5842567d028878f34624721e33a54b70fdf530449779a43d6797e30c10fdf3",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Cocos nucifera",
+    "authorship_candidate": "L",
+    "aliases_candidates": [
+      "Cocospalme",
+      "Cocoa nut Palm",
+      "Cocotier",
+      "mnasi",
+      "narikela",
+      "narel",
+      "Kalapa",
+      "Klopo",
+      "njior",
+      "niog"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Cocos nucifera"
+    ],
+    "accepted_scientific_name": "Cocos nucifera",
+    "display_name_zh_tw": "可可椰子",
+    "alternative_names_zh_tw": [
+      "椰瓢"
+    ],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0053079",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary",
+    "rationale": "TaiCOL accepts the queried book binomial at species rank.",
+    "checked_at": "2026-08-13T19:24:15+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Cocos nucifera",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Cocos+nucifera",
+      "retrieved_at": "2026-08-13T19:24:15+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Cocos nucifera",
+          "matched_name_id": 21487,
+          "taxon_id": "t0053079",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Cocos nucifera",
+          "accepted_name_id": 21487,
+          "accepted_usage": [
+            {
+              "usage_id": 320771,
+              "reference_id": 9991,
+              "reference_type": "Checklist",
+              "publish_year": 2012,
+              "citation": "Forestry Bureau, C. (2012) 外來入侵植物全國現狀調查計畫（4/4）101年度期末成果報告 = Survery of Invasive Alien Plants in Taiwan (4/4) 2012 Final Report",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 105006,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 1322,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0053079",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0053079",
+          "taxon": {
+            "taxon_id": "t0053079",
+            "taxon_status": "accepted",
+            "name_id": 21487,
+            "simple_name": "Cocos nucifera",
+            "name_author": "L.",
+            "rank": "Species",
+            "common_name_c": "可可椰子",
+            "alternative_name_c": "椰瓢",
+            "synonyms": "Calappa nucifera, Palma cocos, Cocos nucifera var. synphyllica, Cocos nana, Cocos indica",
+            "is_in_taiwan": true,
+            "alien_type": "naturalized",
+            "alien_status_note": "naturalized: Forestry Bureau, 2012 (A類歸化植物)|naturalized: 原生於南太平洋島嶼、馬來西亞; 沒有入侵性",
+            "not_official": false,
+            "updated_at": "2026-07-16"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

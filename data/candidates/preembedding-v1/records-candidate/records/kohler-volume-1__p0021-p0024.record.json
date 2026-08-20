@@ -1,0 +1,275 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0021-p0024",
+  "entry_id": "kohler-volume-1:p0021-p0024",
+  "owner_shard": "S01",
+  "book_taxon": {
+    "scientific_name": "Juglans regia",
+    "authorship": null,
+    "aliases": [
+      "Wallnuss",
+      "Walnuss",
+      "Walsche Nuss",
+      "Walnut",
+      "Noyer commun"
+    ]
+  },
+  "display_name": "核桃",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Juglans regia L.",
+      "Juglans regia"
+    ],
+    "accepted_scientific_name": "Juglans regia",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T12:32:16+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Juglans+regia+L.",
+        "query_name": "Juglans regia L.",
+        "retrieved_at": "2026-08-13T12:32:16+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0054121",
+        "query_name": "Juglans regia L.",
+        "retrieved_at": "2026-08-13T12:32:16+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0054121",
+        "query_name": "Juglans regia L.",
+        "retrieved_at": "2026-08-13T12:32:16+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Juglans+regia",
+        "query_name": "Juglans regia",
+        "retrieved_at": "2026-08-13T12:32:16+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL accepts the queried book binomial at species rank."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 21,
+      "evidence_type": "text",
+      "page_text_sha256": "de8bd217e389bd1fc02c55c0115280827180eae9655dd2c432ea4c5d7c40c517",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 22,
+      "evidence_type": "text",
+      "page_text_sha256": "9a38901cd98d6766996272964a730f90242b1736138b8f22b6b5ae134ec4ff0f",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 23,
+      "evidence_type": "text",
+      "page_text_sha256": "9e6e64741becd0f07ef24a6503bbc62aee78d727bc37e44bc009787b70c8d504",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0021-p0024:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "              Familie: Juglandaceae; Gattung: Juglans.",
+      "normalized_text": null,
+      "zh_tw_rendering": "科：胡桃科；屬：胡桃屬。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 21,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 190,
+        "char_end": 244,
+        "page_text_sha256": "de8bd217e389bd1fc02c55c0115280827180eae9655dd2c432ea4c5d7c40c517",
+        "exact_text_sha256": "f215ee0c545835267a4e82343bd58b1eae5c70d4b49d3b2c14da2b4cb1a5de4d",
+        "source_line_start": 5,
+        "source_line_end": 5,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "f215ee0c545835267a4e82343bd58b1eae5c70d4b49d3b2c14da2b4cb1a5de4d",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0021-p0024:s01:x00",
+      "section_type": "description",
+      "original_text": "              Beschreibung.             Ein bis 20 Meter holier                  Baum         mit kurzem         Stamm und           schoner,        ausge-\n\nbreiteter Krone.           Die dicke Rinde           aschgrau      ,    anfangs glatt     ,   spater rissig      ,\n                                                                                                                      balsamisch harzig        ,\n                                                                                                                                                    an den\n\n                                                      Mark       der Zweige gefachert.                Blatter        zerstreut,    gestielt,       unpaarig\njungeren Zweigen weiss punktirt.\ngefiedert,      15-45 Ctm. lang;             die     Fiederblattchen zu              5—9 (meist 7), oft wecbselnd, fast sitzend, das\n                                          langlich eiformig bis langlich, meist ganzrandig, spitz oder\nEndblattchen lang gestielt, eiformig oder\nzugespitzt, hantig bis fast lederig, in den Nervenwinkeln der Unterseite gebartet, sonst kahl, nacb der\n\n           bis 16 Ctm. lang, bis 8            Ctm. breit, durcbscheinend netzaderig, dankelgrun, unten blasser.                                      Blatt-",
+      "normalized_text": null,
+      "zh_tw_rendering": "高至20米，樹皮灰白後龜裂；葉互生，奇數羽狀複葉，長15-45公分，小葉5-9枚，橢圓形至長橢圓形，深綠色。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 21,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 332,
+        "char_end": 1632,
+        "page_text_sha256": "de8bd217e389bd1fc02c55c0115280827180eae9655dd2c432ea4c5d7c40c517",
+        "exact_text_sha256": "a14a1c58199a20124b9aad3183153cbda0cda23ff361f13a544c254580ea2abc",
+        "source_line_start": 11,
+        "source_line_end": 24,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "a14a1c58199a20124b9aad3183153cbda0cda23ff361f13a544c254580ea2abc",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0021-p0024:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "            Anatomisches. Der Querschnitt durch                        das Blatt zeigt                auf der Oberseite            eine Palissaden-\n\n schicht,    die   mit ansehnlichen Oxalatdrusen ausgestattet ist; anf der Unterseite Schwammparenchym.\n Die aus dickwandigen Zellen bestehende Epidermis                         ist   beiderseits           sparlich     mit Drusenhaaren besetzt,\nwelche anf der Unterseite anch von driisenlosen Haaren begleitet werden.                                          Oelraume        fehlen.",
+      "normalized_text": null,
+      "zh_tw_rendering": "葉橫切面：上表皮具含草酸鈣簇晶的柵狀組織，下表皮為海綿組織；表皮細胞壁厚，兩側疏生腺毛。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 22,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 511,
+        "char_end": 1042,
+        "page_text_sha256": "9a38901cd98d6766996272964a730f90242b1736138b8f22b6b5ae134ec4ff0f",
+        "exact_text_sha256": "585c6f789bf06cf95ddafbc1ffa9461c8a788aadc26df5dd38198627d456d7d9",
+        "source_line_start": 10,
+        "source_line_end": 14,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "585c6f789bf06cf95ddafbc1ffa9461c8a788aadc26df5dd38198627d456d7d9",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0021-p0024:s03:x00",
+      "section_type": "distribution",
+      "original_text": "            Vorkommen,                  Der Nnssbanui ist in dem Gebiete von den Kaukasischen Landern                                       bis Nord-\n\nindien einheimisch          und hat sich von dort fiber ganz Europa verbreitet.                             Er wird namentlich in Baden,\n der Schweiz,        Oberitalien seiner Fruchte            wegen                                                                  wird er noch in\n                                                             5 V\" «-«\"\n                                                                  haufig kultivirt.               In     der Siidschweiz\nMeereshohen         bis   zu 1000 Meter angetroffen und sogar in Sudskandinavien reifen seine Fruchte noch\nin    besonders    warmen Lagen.",
+      "normalized_text": null,
+      "zh_tw_rendering": "原產高加索至北印度，廣佈歐洲；德國巴登、瑞士、北義大利常栽培；瑞士南部海拔1000米及南斯堪的納維亞亦有生長。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 22,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 1046,
+        "char_end": 1811,
+        "page_text_sha256": "9a38901cd98d6766996272964a730f90242b1736138b8f22b6b5ae134ec4ff0f",
+        "exact_text_sha256": "134dc0d71881ae8fe4ea75856441a7796bf6da3241851cb18dca9018f7086537",
+        "source_line_start": 18,
+        "source_line_end": 25,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "134dc0d71881ae8fe4ea75856441a7796bf6da3241851cb18dca9018f7086537",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0021-p0024:s04:x00",
+      "section_type": "constituents",
+      "original_text": "            Bestandtheile.         Die Blatter enthalten Gerbstoff (Nucitannin), einen\n                                                                                        nicht gahrungsfahigen\nZucker (Midi) und            einen krystallinischen Bitterstoff (Juglandin). Die griinen Wallnussschalen\n                                                                                                                                                                         ent-\nhalten Starkemehl, Eiweiss, Zucker, Apfelsaure,\n                                                Phosphorsaure, Kali, Kalkerde, fettes Oel\n                                                                                                                                   einen Farbstoff",
+      "normalized_text": null,
+      "zh_tw_rendering": "葉含鞣質（Nucitannin）、非發酵糖（Midi）及結晶苦味質（Juglandin）；綠果皮含澱粉、蛋白質、糖、蘋果酸、磷酸、鉀、鈣、脂肪油及色素。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 22,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 6324,
+        "char_end": 7084,
+        "page_text_sha256": "9a38901cd98d6766996272964a730f90242b1736138b8f22b6b5ae134ec4ff0f",
+        "exact_text_sha256": "bc9bb79ca83746cc19f4249b01f038c9c31de220073faf571687dc2757488a15",
+        "source_line_start": 84,
+        "source_line_end": 90,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "bc9bb79ca83746cc19f4249b01f038c9c31de220073faf571687dc2757488a15",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0021-p0024:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "                  Anwendung.                       Die          Blatter finden                   Anwendung              ausserlich       gegen Gicht, hauptsachlich aber\n\n innerlich        und ausserlich                  bei Scrophulose und Rhachitis,                                        wobei wohl der Gerbstoff                     als der     wirksame\n\n Bestandtheil               angenommen werden                          muss.               Die frischen unreifen Fruchte dienen zur Herstellung eines\n\n wasserigen Extraktes.                          Wie                                      Wallnussschalen            einen Bestandtheil                  des Pollinischen Decoctes\n\n bildeten,        giebt       man in Italien auch                       jetzt              noch hier und                da    die Blatter      in       Abkochung            bei Syphilis,\n              1   € J",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：葉外用治痛風，內服外用治淋巴腺結核與佝僂症；未熟果製浸膏；義大利曾用葉煎劑治梅毒、皮膚病及痛風。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 23,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 5504,
+        "char_end": 6399,
+        "page_text_sha256": "9e6e64741becd0f07ef24a6503bbc62aee78d727bc37e44bc009787b70c8d504",
+        "exact_text_sha256": "96f77ed71806535618ff01e11e7af2d878de8a384d61fe607aab884b1e08bef7",
+        "source_line_start": 97,
+        "source_line_end": 106,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "96f77ed71806535618ff01e11e7af2d878de8a384d61fe607aab884b1e08bef7",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "71975a3a721b3de9187528c6d8c423663ed4ba7283796580993e6676c158d658",
+    "maker_receipt_sha256": "104148b5615581280d2d69aca79fa6f256b5721dfea4390006188b0bd02cfd19",
+    "validation_check_sha256": "25287b2c0e63898a5de4c2354a261d370195494277c1c7f3f9ab7eb63f490ad3",
+    "source_disposition_sha256": "696801a83ce2acf9f20f675d698ad484239a158e82b93cbea615b47e095ebb6a",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "104148b5615581280d2d69aca79fa6f256b5721dfea4390006188b0bd02cfd19",
+      "validation_check_sha256": "25287b2c0e63898a5de4c2354a261d370195494277c1c7f3f9ab7eb63f490ad3",
+      "source_disposition_sha256": "696801a83ce2acf9f20f675d698ad484239a158e82b93cbea615b47e095ebb6a"
+    },
+    "naming_artifact_sha256": "a472d975ca58171410b7e43b23c2e348887997415833d5298975ebd945a11cc6"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "a7e2c92ccb62ddf296e740218263644438442cc82c90ba1fd4fdd7f6b14857b9"
+}

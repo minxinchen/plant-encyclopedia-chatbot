@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 637,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "3970371df112607d069822be83c06c9b712217b3d8cb293c7caa7baf7c697b68",
+  "render_dpi": 144,
+  "render_sha256": "5f64864e7bd3b2c71c0a37cc288f5eb8eedcc1d1112980aa3dd2e9836f0ce07f",
+  "input_sha256": "5f64864e7bd3b2c71c0a37cc288f5eb8eedcc1d1112980aa3dd2e9836f0ce07f",
+  "render_pixel_width": 5450,
+  "render_pixel_height": 7874,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.378,
+  "embedded_character_count": 54,
+  "ocr_character_count": 44,
+  "ocr_alpha_ratio": 0.7273,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.018535534540812137,
+      "text": "Umbelliterae.",
+      "width": 0.14492140936646558,
+      "x": 0.511396739473988,
+      "y": 0.9107903722054915
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.05959302281576495,
+      "text": "Ф",
+      "width": 0.04402515608123514,
+      "x": 0.5178197073498436,
+      "y": 0.8168604655089053
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906844729474,
+      "text": "9",
+      "width": 0.014675051571646502,
+      "x": 0.6603773590150153,
+      "y": 0.18459302320554227
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.021378617438059022,
+      "text": "Dorema",
+      "width": 0.0929580185679788,
+      "x": 0.3009086620018123,
+      "y": 0.08429373002666019
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017609126984126977,
+      "text": "Ammoniacum Don.",
+      "width": 0.19287212120427782,
+      "x": 0.3899371026054083,
+      "y": 0.09151785702617776
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "146",
+      "width": 0.025157231656049883,
+      "x": 0.9119496862684111,
+      "y": 0.02180232581797692
+    }
+  ],
+  "text": "Umbelliterae.\nФ\n9\nDorema\nAmmoniacum Don.\n146",
+  "output_sha256": "c7ee48e4e8380843eb304cfe5a8128b76688701bbb18c2e29d22296e2f543897",
+  "receipt_sha256": "01904f3a50185fb65accfea88663029fe3f69eae54995d30b6e3dbc6c4b17733"
+}

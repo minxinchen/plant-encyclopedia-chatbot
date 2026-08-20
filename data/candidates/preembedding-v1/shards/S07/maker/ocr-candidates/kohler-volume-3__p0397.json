@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 397,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "218864367239e420d3ab860e1ed542e9ae29fdcd841baae502f4df4b88ee6acb",
+  "render_dpi": 144,
+  "render_sha256": "13d334e4539b9dd67f032f602a3d0cc1163bf6a10eb4c7310d9a33537b8597ce",
+  "input_sha256": "13d334e4539b9dd67f032f602a3d0cc1163bf6a10eb4c7310d9a33537b8597ce",
+  "render_pixel_width": 5198,
+  "render_pixel_height": 8162,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.262,
+  "embedded_character_count": 66,
+  "ocr_character_count": 48,
+  "ocr_alpha_ratio": 0.7708,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.022387625679137213,
+      "text": "Compositae",
+      "width": 0.1053190142194802,
+      "x": 0.8468838709298288,
+      "y": 0.9401143269186817
+    },
+    {
+      "confidence": 1,
+      "height": 0.01889534791310621,
+      "text": "(Anthemideae)",
+      "width": 0.1324200853009091,
+      "x": 0.8333333352947511,
+      "y": 0.9186046514358888
+    },
+    {
+      "confidence": 1,
+      "height": 0.07558139165242506,
+      "text": "D",
+      "width": 0.07077625310309577,
+      "x": 0.45662100573682585,
+      "y": 0.1526162812086712
+    },
+    {
+      "confidence": 1,
+      "height": 0.020418050743284732,
+      "text": "Anthemis Cotula L.",
+      "width": 0.2009132361486322,
+      "x": 0.3995433838891542,
+      "y": 0.04505813968343464
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "11",
+      "width": 0.013698629872449852,
+      "x": 0.9315068493331816,
+      "y": 0.010174418999694734
+    }
+  ],
+  "text": "Compositae\n(Anthemideae)\nD\nAnthemis Cotula L.\n11",
+  "output_sha256": "5c09154f462e8ed0fc0a5811ea859dcf9cdc30fa7f125e480abfc546ac554b30",
+  "receipt_sha256": "c826dada951bf8b787e863109b7093be631f772b7f352c7d927f6e5d1f4c2d35"
+}

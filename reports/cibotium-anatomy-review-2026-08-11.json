@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "run_id": "cibotium-anatomy-page32-2026-08-11",
+  "batch_id": "volume-4-cibotium-barometz-anatomy-page32",
+  "source_id": "kohler-volume-4",
+  "pdf_pages": [32],
+  "hypothesis": "The opening Anatomie paragraph is a self-contained, page-grounded next section that can be added without promoting the later constituents or historical-use paragraphs.",
+  "maker": {
+    "tool": "Poppler pdftotext -layout plus deterministic section boundaries",
+    "section_start": "Anatomie:",
+    "section_end": "Inhalte her.",
+    "candidate_section_type": "anatomy"
+  },
+  "checker": {
+    "model": "gemini-2.5-flash",
+    "input": "Rendered PDF page 32 image and six bounded candidate claims",
+    "first_attempt": {
+      "status": "parse_failure",
+      "reason": "JSON was truncated by the model output budget and was not accepted as evidence."
+    },
+    "changed_strategy_retry": {
+      "thinking_budget": 0,
+      "finish_reason": "STOP",
+      "verdict": "pass",
+      "claims_supported": [1, 2, 3, 4, 5, 6],
+      "layout_risk": "none",
+      "prompt_tokens": 460,
+      "candidate_tokens": 317,
+      "total_tokens": 777
+    }
+  },
+  "scope_exclusions": [
+    "The constituents paragraphs later on PDF page 32 remain unreviewed.",
+    "The historical hemostatic-use and mechanism paragraphs later on PDF page 32 remain unreviewed.",
+    "The upholstery-use paragraph later on PDF page 32 remains unreviewed."
+  ],
+  "cost": {
+    "incremental_usd": 0,
+    "paid_fallback_used": false,
+    "external_model_calls": 2
+  },
+  "verdict": "promote"
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 623,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "21b523b8dd843c1541bdf04f78e5ecb0bbf043bcfb0771e245217ad374c2219e",
+  "render_dpi": 144,
+  "render_sha256": "b69a69e3b9f1e4594fe91bedd5f785850646f63bf348f6cf13bd1fc8284e1bdd",
+  "input_sha256": "b69a69e3b9f1e4594fe91bedd5f785850646f63bf348f6cf13bd1fc8284e1bdd",
+  "render_pixel_width": 5498,
+  "render_pixel_height": 7730,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.946,
+  "embedded_character_count": 87,
+  "ocr_character_count": 43,
+  "ocr_alpha_ratio": 0.7907,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.024709302281576417,
+      "text": "Polyporei.",
+      "width": 0.11836734276935146,
+      "x": 0.8510204112343719,
+      "y": 0.9258720930573707
+    },
+    {
+      "confidence": 1,
+      "height": 0.023255813689458837,
+      "text": "Polyporus fomentarius Fries.",
+      "width": 0.310204073641257,
+      "x": 0.3489795997099837,
+      "y": 0.09883720939800311
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "139",
+      "width": 0.02244897999357809,
+      "x": 0.9204081632889252,
+      "y": 0.024709302449728243
+    }
+  ],
+  "text": "Polyporei.\nPolyporus fomentarius Fries.\n139",
+  "output_sha256": "dfc3dd0e192cdf9742d28afacda3ef43629778fd17e60765a169ab82c47abb5f",
+  "receipt_sha256": "3b2d807600ebfb7cb0e4ae3e2e6f6a2f216666883bcb870af5126a5ba7ffb6f4"
+}

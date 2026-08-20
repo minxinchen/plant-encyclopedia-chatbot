@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "package_id": "kohler-volume-4:p0066-p0090:boundary-recovery-01",
+  "package_sha256": "34cb84d65b417af51fc6ff76ffa0fc1d2b530857205899bb9567c6b0ac9aee8c",
+  "model": "deterministic-local-repair-no-model-call",
+  "prompt_version": "plant-structure-continuation-line-anchors-v1",
+  "source_receipt_sha256": "f7845933b4e7ce88664863be20471d6ff0413499d4bb4cdf54d2e3f059ebc0f2",
+  "source_attempt_sha256": "fb08d2fb5bfd6c08fe1048e8f1b36ccc68e8b9c59119363f053d8348cf1f8e4c",
+  "repair_strategy": "drop-unmaterialized-sections-v1",
+  "dropped_section_indexes": [
+    4
+  ],
+  "source_errors": [
+    "section_4:duplicate_section_type:constituents"
+  ],
+  "raw_response": "{\"package_id\":\"kohler-volume-4:p0066-p0090:boundary-recovery-01\",\"retained_source_line_coordinates\":[{\"pdf_page\":66,\"section_type\":\"taxonomy\",\"source_line_range\":[4,5]},{\"pdf_page\":66,\"section_type\":\"description\",\"source_line_range\":[7,22]},{\"pdf_page\":67,\"section_type\":\"anatomy\",\"source_line_range\":[110,125]},{\"pdf_page\":67,\"section_type\":\"constituents\",\"source_line_range\":[127,138]}]}",
+  "parse_or_validation_errors": [],
+  "raw_response_sha256": "37e2eb0f7bfbe422344a11ca76b70e9690b42d57e6b810adc9377c2c7080ebe8",
+  "attempt_sha256": "9c10a84e88f198aad67329682ee0437d25c9887b2e3888658b8b0ef1e156af75"
+}

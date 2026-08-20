@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0105-p0106",
+  "owner_shard": "S01",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 124.692,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0105-p0106",
+    "book_taxon": {
+      "scientific_name_candidate": "Althaea officinalis L.",
+      "authorship_candidate": null,
+      "aliases_candidates": [
+        "Eibisch",
+        "Heilwurz",
+        "Sammt- oder weisse Pappel",
+        "Marsh Mallow",
+        "Guimauve",
+        "Radix Althaeae",
+        "Folia Althaeae",
+        "Flores Althaeae"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "description",
+        "pdf_page": 105,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "根莖粗厚多頭，具肉質根；莖直立，被絨毛；葉卵形，邊緣鋸齒狀，兩面被柔毛；花腋生，萼雙重，花瓣五枚，淡紅白色。",
+        "warnings": [],
+        "source_line_range": [
+          10,
+          28
+        ],
+        "exact_source_quote": "           Beschreibung.              Das knrze,     dicke, mehrkopfige, mit starken, einfachen oder verzweigten,\nfleischigen, bis     %\n                     Meter langen,    senkrecbt   in  den   Boden    steigenden   Wurzeln      versehene    Rhizom     treibt\n\neinen oder mehrere,     unten  holzige,  oben  krautartige,    aufrechte,   1\n                                                                                  /4\n                                                                                      —\n                                                                                      Meter   hohe,\n                                                                                              1\n                                                                                                       sammetartig-filzige,\nzerstreut   astige, innen  markige,    kaum   hohle   Stengel,    die  sammt    den   Aesten    mit  zerstrent   stehenden,\ngestielten,   4—8   cm. langen,   3—6    cm.  breiten,   eiformigen,    spitzen,  am    Grande     oft  herzf ormigen     un-    ,\n\n\n\n\ngleieh kerbig-gesagten,    schwacb           3—\n                                          Slappigen,    beiderseits   weicb-   und   sammetbaarigen       Blattern   besetzt\n"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 105,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "根橫切面示皮層含澱粉細胞及粘液囊；木質部具管胞群及粘液囊；葉橫切面示柵狀組織及草酸鈣結晶。",
+        "warnings": [],
+        "source_line_range": [
+          58,
+          82
+        ],
+        "exact_source_quote": "                                      Wurzelqnerschnitt zeigt eine, aus etwa   10  Reihen   ansehnlicher,     gelber,   fast kubischer,\n            Anatomisches : Der\n                                                        welche   allmahlig  in die  aus  grosseren,    wenig  tangential    gestreckten\n tangential gestreckter Zellen gebildete Korkschicbt,\n                                                 Die   von        oder zweireihigen      in  der  Aussenrmde      verlaufenden    Mark-\n Zellen bestehende schmale Rinde iibergeht.                 ein-                          ,\n\n\n\n strahlen durch schnittene Innenrinde wird durch  einzelne,   zu weitlaufigen   Kreisen   geordnete,    aus 3—   dO  Zellen  bestehende\n                                                                                                          ganze             und   Innen-\n Bastbundel bezeichnet, die in der Mhe       des  Cambiums     immer   zahlreicher    auftreten.      Die          Mittel-\n\n rinde besteht hauptsachlich aus   rundlichen,  sehr   stiirkereichen  Parenchymzellen            m\n                                                                                                  welchen    Drusen    yon   Kalkoxalat\n                                                  Schleimschlauche,     mit  stark  quellendem     Schleiminhalte     eingebettet   smd.\n und einzelne oder mehrere beisammenliegende\n                                                                     aus  ungefahr    10  Reihen    zarter,  flacher     tangential   ge-\n Die den Bast von dem Holze trennende Cambialzone           besteht\n                                       Das dicke   fleischige Holz  zeigt in  einem   der Rinde   ahnlichen    Parenchym      emreihige,\n streckter Zellen ohne festen Inhalt.\n                                                  Markstrahlen,    schwache.    zerstreute,   gelbliche,   aus  luplel-   und   Ireppen-\n schmale, sich gegen das Centrum verlierende\n                       Gefassgruppen  und  ebenfalls   Schleimschlauche,    wie   sie in der Rinde auftreten.\n eefassen bestehende"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 105,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分佈於歐洲（除斯堪的納維亞）、德國及溫帶西亞北亞，生長於潮濕草地、溝渠及鹽鹼地。",
+        "warnings": [],
+        "source_line_range": [
+          93,
+          98
+        ],
+        "exact_source_quote": "                                                 an Graben, Zaunen, vorzuglich  auf feuchtem,  salzigem\n         Verbreitung. In feuchten  Geblischen,\n                                                       und      ganzen  hoheren  Nordens,  ebenso  iiber\n Boden durch ganz Europa mit Ausnahme  Skandinaviens        des\n                                                    In Deutschland  (namentlich  Ntirnberg,  Bamberg),\n das ffemassigte West- und Nordasien verbreitet."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 105,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源於古高地德語 ibisca，Dioscorides 稱之為 Althaea，中世紀文獻如 Hildegard 及 Bock 亦有記載。",
+        "warnings": [],
+        "source_line_range": [
+          100,
+          111
+        ],
+        "exact_source_quote": "                                              Name Eibisch                          mittelhochdeutsch\n             Name und Geschichtliches.    Der               (althochdeutsch ibisca,\n                                                                                               Bock\n            Ivsch,Tbischa, Ywesche, bei Hildegard  Ibischa, Ibiscum,  bei Brunschwig      und\n Ibsche,\n\n   !\n               einem Worte                                                  he ursprunglich nicht angehort hat. Althaea\n   ftLG%og),\n                                                                            abgeleitet, mit welchem Worte Diosco rides\n   t   von Aldaia (aldoc\n unsere Pflanze bezeiehnete."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 106,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "全株富含粘液，根含約30%粘液、37%澱粉、8%糖、2%天冬酰胺及礦物質鹽類；Bacon 所稱 Althaein 實為天冬酰胺。",
+        "warnings": [],
+        "source_line_range": [
+          27,
+          35
+        ],
+        "exact_source_quote": "             Bestandtheile. Die offizinellen Theile der Pflanze sind sammtlich reich an Schleim, der\nnach Buchner beispielsweise in der trocknen Wurzel ca. 30°/ betragt.       Ausser dem Pflanzenschleim\nfand Buchner in der Wurzel 37°/ Starkemehl, 8°/ Zucker, 2% Asparagin, ll°/ Pektin, lV »/ fettes\n                                                                                             4\nOel, Pflanzenschleim, Aepfelsaure, schwefelsaure, phosphorsaure Kali-, Kalk- und Bittererdesalze. Die\nvon Bacon aus der Wurzel erhaltene krystallinische Substanz, die er Althaein nannte, ist von Plisson\nals Asparagin erkannt worden.    Letzteres ist fast geschmacklos und krystallisirt in grossen Prismen\noder Oktaedern des rhombischen Systemes.      Aus gut geschalter, bei 100° getrockneter Eibischwurzel\nerhielt Fliickiger 4,88% Asche, die reich an Phosphaten war.      (Husemann, Pflanzenst. 825.)"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 106,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史上根與葉之水浸劑用於呼吸道卡他之緩和劑，根亦作藥丸賦形劑；葉外用於漱口、灌腸及軟膏。",
+        "warnings": [],
+        "source_line_range": [
+          36,
+          43
+        ],
+        "exact_source_quote": "            Anwendung.    Eibischwurzel und Eibischblatter dienen in Form von wiisserigeri Auszugen\nals demulcirende Mittel bei JKatarrhen der Respiralionsorgane und als Vehikel fur scharfe Arzneistoffe.\nFlir den inneren Gebrauch verwendet man vorzugsweise die Wurzel, die namentlich auch in Pulver-\nform als Consistenzmittel der Pillen und Pastillen gebraucht wird.      Die Blatter finden meist nur\nausserlich in Form von wasserigen Auszugen zu Gargarismen und Collutorien, Klystiren und in Ver-\nbindung mit anderen erweichenden Krautern zu Cataplasmen Anwendung. (Husemann, Arzneimittel-\n                                                                       &   V\nlehre 332.)"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "e923611f1699a5091615008d4a7f92d1829459e55331d67c7172de8fab305a7a"
+}

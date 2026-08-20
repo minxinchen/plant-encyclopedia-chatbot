@@ -1,0 +1,155 @@
+{
+  "schema_version": "2.0",
+  "package_id": "kohler-volume-2:p0345-p0352:child-01:continuation-02",
+  "parent_entry_id": "kohler-volume-2:p0345-p0352",
+  "child_entry_id": "kohler-volume-2:p0345-p0352:child-01",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation-v2:kohler-volume-2:p0345-p0352:child-01:continuation-02:v1",
+  "owner_shard": "S04",
+  "package_sha256": "085e7c94ff796fd34061f14d4f72bb67fdc26d20b02f6a65076a288cb481cd24",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "prompt_version": "plant-structure-line-coordinates-v2",
+  "attempt_sha256": "6dbe7f6f1af929a761e84ceae57584c2277708ced07eb0fe755d2f4ac316e81b",
+  "raw_response_sha256": "69d4f4325c5535f65f2507c9a5fa9a10032b7d8674400eea962dca973bc6773f",
+  "elapsed_seconds": 11.547,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 351,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 0,
+      "char_end": 990,
+      "source_line_start": 1,
+      "source_line_end": 11,
+      "page_text_sha256": "5ef59b3489ee2ebf86c0797a79bc1ac48088d2ff2e60af74ee20cbe3634ba4a1",
+      "exact_text_sha256": "2f19065427cb0f98308b9a044dc244ddfaafd7f0b426378d0265e50d93815f3f",
+      "section_index": 0,
+      "section_type": "constituents"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 351,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 992,
+      "char_end": 3501,
+      "source_line_start": 13,
+      "source_line_end": 38,
+      "page_text_sha256": "5ef59b3489ee2ebf86c0797a79bc1ac48088d2ff2e60af74ee20cbe3634ba4a1",
+      "exact_text_sha256": "a1ce48b29f29d494bb814d1a4975c2de184c81e14ccc99801fbd6b4a8ce9fb11",
+      "section_index": 1,
+      "section_type": "historical_use"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 351,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 3600,
+      "char_end": 3955,
+      "source_line_start": 42,
+      "source_line_end": 45,
+      "page_text_sha256": "5ef59b3489ee2ebf86c0797a79bc1ac48088d2ff2e60af74ee20cbe3634ba4a1",
+      "exact_text_sha256": "f2f30f842a567c3894fa6843f7f92453d37b4c85f9de2e1c3cfff61d505b2ce4",
+      "section_index": 2,
+      "section_type": "literature"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 351,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 3957,
+      "char_end": 5110,
+      "source_line_start": 47,
+      "source_line_end": 61,
+      "page_text_sha256": "5ef59b3489ee2ebf86c0797a79bc1ac48088d2ff2e60af74ee20cbe3634ba4a1",
+      "exact_text_sha256": "b3dc4baace421557d07865fa416b54728ae73c56dfeef883c663bf9aced7c44f",
+      "section_index": 3,
+      "section_type": "other"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 352,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 0,
+      "char_end": 570,
+      "source_line_start": 1,
+      "source_line_end": 8,
+      "page_text_sha256": "1309202c0b9e6f2492dfa61ff80d6433ba0cc858d07f38c9073dbe06d0391a18",
+      "exact_text_sha256": "548fe6f11f3e1337b6220a217b57bc9b3cc57ca9687445283a6a6978d33651c0",
+      "section_index": 4,
+      "section_type": "plate_description"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-2:p0345-p0352:child-01:continuation-02",
+    "parent_entry_id": "kohler-volume-2:p0345-p0352",
+    "book_taxon": {
+      "scientific_name_candidate": "Theobroma Caeao"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "constituents",
+        "pdf_page": 351,
+        "source_line_range": [
+          1,
+          11
+        ],
+        "exact_source_quote": "          Das Kakaoroth ist ein carminrother, etwas bitter schmeckender in Wasser, We\n                                                                                             ingeist und\n Essigsäure löslicher Farbstoff, welcher sich mit Blei verbindet und nach Mitscher\n                                                                                   lich wahrscheinlich\n nachträglich (denn die Samen sind ursprünglich weiss) unter dem Einflusse des Sa\n                                                                                    uerstoffes aus einem\n gerbstoffähnlichen Körper gebildet wird. Es soll 3% der getrockneten\n                                                                          Samen betragen.\n           Das Stärkemehl hat im Vergleich zu anderen Stärkemehlsorten abweic\n                                                                              hende Form und Grösse;\n die Stärkekörnchen sind rund und sehr klein.           (Husemann, Pflanzenstoffe 820)."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 351,
+        "source_line_range": [
+          13,
+          38
+        ],
+        "exact_source_quote": "            Anwendung.       Der Kakao, welcher vermöge seiner Proteinsubstanzen, Kohlenhydrate und\n Nährsalze ein gutes Nahrungsmittel bildet, dient als ein vorzügliches Surrogat des Kaff\n                                                                                              ees und Thees;\n in der Medizin als Träger bitterer und anderer Stoffe. Seine Hauptverwendung\n                                                                                         findet er zur Her-\n stellung der Chocoladen. In der Medizin verwendet man die durch Röstung und Pulver\n                                                                                             ung der Kakao-\n bohnen hergestellte Kakaomasse (Pasta Cacao, Massa cacaotina, Massa Cacao),\n                                                                                        welche als ein vor-\n zügliches Excipiens von Arzneistoffen, ferner als ein vortreffliches Constituens für Pastille\n                                                                                               n und Trochis-\n ken, sowie als Grundlage verschiedener medizinischer Chocoladen und stürkender\n                                                                                         Kakaoprüparate be-\n trachtet wird. Wegen ihres Fettreichthums wird die Kakaomasse nicht immer\n                                                                                       gut vom Magen ver-\n tragen; es wird daher entólte Kakaomasse (Cacao expressum, Cacao ab oleo libe\n                                                                                       ratum), welche durch\n Pressen zum grössten Theile vom Fette befreit ist, in den Handel gebracht. Die Kakaos\n                                                                                              chalen (Zestae\n Cacao, Cortex Cacao tostus) werden diätetisch als Surrogat des Kaffees verwendet.\n            Oleum Cacao (Butyrum Cacao), Kakaobutter, das „dem Talg in seiner Consistenz sich nü\n                                                                                                      hernde\n F'ett, ist wegen seiner geringen Neigung zum Ranzigwerden als Constituens für Cerate, Lippenpo\n                                                                                                     maden,\n Augensalben sehr geeignet und dient besonders zur Bereitung von Suppositorien und Vagina\n                                                                                                    lkugeln,"
+      },
+      {
+        "section_type": "literature",
+        "pdf_page": 351,
+        "source_line_range": [
+          42,
+          45
+        ],
+        "exact_source_quote": "          Litteratur. Abbildung und Beschreibung.               Nees v. Esenb., Plant. med., Taf. 419; Hayne,\n Arzneigew. IX, Taf. 35 (Taf. 36 u. 37 bicolor); Berg u. Schmidt, Offiz. Gew., Taf. XXXIIIef; Bentley\n and Trimen,        Med. pl, Taf. 38; Luerssen,     Handb.    der syst. Bot, IL, 660; Karsten,    Deutsche   Flora\n 618; Wittstein, Pharm. 368."
+      },
+      {
+        "section_type": "other",
+        "pdf_page": 351,
+        "source_line_range": [
+          47,
+          61
+        ],
+        "exact_source_quote": "          Drogen und Präparate.           Semen Cacao: Ph. ross. 359; Ph. belg. 18; Cod. med. 43; Ph. dan.\n 207;   Ph. suec.    184;   Flückiger,    Pharm.   909; Mitscherlich,    Der Kakao    und die Chocolade,     Berlin\n 1859; Berg, Waarenk. 432.\n          Oleum Cacao s. Theobromae: Ph. germ. 192; Ph. austr. 96; Ph. hung. 325; Ph. ross. 287;\n Ph. helv. 90; Ph. Neerl 165; Brit. ph. 229; Ph. dan. 165; Ph. suec. 186; Ph. U. St. 244; Flücki-\n ger and Hanb., Pharm. 95; Hist. d. Drog I, 184; Berg, Waarenk. 585.                            Us\n           Unguentum Cacao: Ph. ross. 445.\n          Pasta     Cacao: Ph. dan. 175; Ph. suec,     147.\n          Pasta Cacao cum Caraghen und P. Cacao cum Lichene islandico: Ph. dan. 175.\n          Pastilli Magnesiae ustae: Ph. helv. suppl. 85.             -\n          Trochisci Santonini: Ph. germ. 291; Ph. Neerl. 276; Ph. dan. 279.\n          Trochisci lactatis ferrosi: Ph. Neerl. 276.\n          Suppositoria Acidi tannici, Hydrargyri, Morphii, Plumbi composita: Brit. ph. 307, 308; Ph.\n‎‫ لا‬St. 316;                  |\n          Bezügl. der Drogen und Präparate siehe Hager, Pharm. Prx. I, 639; III, 170."
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 352,
+        "source_line_range": [
+          1,
+          8
+        ],
+        "exact_source_quote": "                                             Tafelbeschreibung :\n\n           Taf. I. A blühender Ast nat. Gr. 1 Blüthe, vergrössert; 2 dieselbe im Langsschnitt, desgl; 3 Kronenblatt,\ndesgl.; 4 Blüthe ohne Kronenblätter; 5, 6, 7 Staubgefässe, desgl; 8 Stempel, desgl; 9, 10 Fruchtknoten im Lüngs-\nund Querschnitt, desgl.\n         Taf. II. B Frucht, nat. Grösse; 11 dieselbe im Längschnitt, desgl; 12 dieselbe im Querschnitt, desgl.; 13,\n14 Same, desgl; 15, 16 derselbe im Längs- und Querschnitt, desgl; 17 Same ohne Samenschale, desgl.       Nach der\nNatur von W. Müller."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "68455bb4ed1caa4ad0338bcb114c7999b6bec8c61360b43e1962bfc99f511c04"
+}

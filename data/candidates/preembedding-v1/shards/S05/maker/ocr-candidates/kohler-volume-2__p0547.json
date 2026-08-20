@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 547,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "495001a9c7c1798f416bc9d39b8b5929fce5a65688163b11c920a0a2059787fe",
+  "render_dpi": 144,
+  "render_sha256": "c41e2c8ca914731b6e06b0bdf0b22b6f96ee2673bceb982677889c8921673d34",
+  "input_sha256": "c41e2c8ca914731b6e06b0bdf0b22b6f96ee2673bceb982677889c8921673d34",
+  "render_pixel_width": 5570,
+  "render_pixel_height": 8054,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.256,
+  "embedded_character_count": 61,
+  "ocr_character_count": 29,
+  "ocr_alpha_ratio": 0.7586,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.02265205648210311,
+      "text": "Liliaceae.",
+      "width": 0.11435956694987448,
+      "x": 0.8400830134806803,
+      "y": 0.9068201537879919
+    },
+    {
+      "confidence": 1,
+      "height": 0.017668650263831687,
+      "text": "Veratrum",
+      "width": 0.10342966569547501,
+      "x": 0.3884711927981138,
+      "y": 0.11398425679820479
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185932098874,
+      "text": "album",
+      "width": 0.07142856986485047,
+      "x": 0.5168067243637933,
+      "y": 0.11337209363165668
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "102",
+      "width": 0.023109244479339486,
+      "x": 0.9117647057277672,
+      "y": 0.042151162711356105
+    }
+  ],
+  "text": "Liliaceae.\nVeratrum\nalbum\n102",
+  "output_sha256": "103983cc75a1eba6a0a8703f336595215447450d6caa55be47f24cdc67796117",
+  "receipt_sha256": "bc36cb10b7ac3ff25c8215246372c2fb43e8b3d13f4cea5522fc17138d185a45"
+}

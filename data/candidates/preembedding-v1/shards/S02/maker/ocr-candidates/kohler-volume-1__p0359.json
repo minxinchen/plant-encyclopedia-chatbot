@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 359,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "b4b1b8b85d305fdc04dbc0974174bc74aa5f645b4a8a6471015bc4557f411919",
+  "render_dpi": 144,
+  "render_sha256": "57091e4e5276f965c3ac9fa5ea6ce0a8c6eb1d167e4223104e6de13789c9fb82",
+  "input_sha256": "57091e4e5276f965c3ac9fa5ea6ce0a8c6eb1d167e4223104e6de13789c9fb82",
+  "render_pixel_width": 5810,
+  "render_pixel_height": 8066,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 5.071,
+  "embedded_character_count": 98,
+  "ocr_character_count": 37,
+  "ocr_alpha_ratio": 0.7297,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.019812385241190666,
+      "text": "Orchideae.",
+      "width": 0.10716089926475336,
+      "x": 0.8446050351287845,
+      "y": 0.9152391561968493
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372621082103,
+      "text": "WM.",
+      "width": 0.03629032113992149,
+      "x": 0.11693548463165214,
+      "y": 0.16569767431445892
+    },
+    {
+      "confidence": 1,
+      "height": 0.024709302281576417,
+      "text": "Orchis",
+      "width": 0.07056451697651678,
+      "x": 0.40524193576577383,
+      "y": 0.12209302337956063
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372621082103,
+      "text": "militaris L",
+      "width": 0.1209677388845396,
+      "x": 0.4858870974356104,
+      "y": 0.1279069763867181
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "61.",
+      "width": 0.020161289814089933,
+      "x": 0.9193548387623098,
+      "y": 0.0363372095136818
+    }
+  ],
+  "text": "Orchideae.\nWM.\nOrchis\nmilitaris L\n61.",
+  "output_sha256": "2cc7a6e43e97250727aa2b47521fff2f96a593536868d6012dbc4bf52c5c4511",
+  "receipt_sha256": "c6b2464222144bf68eaf3810ce9d8437959d8667309e71a3445ded2223c7d3b4"
+}

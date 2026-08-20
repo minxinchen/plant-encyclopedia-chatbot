@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0099-p0100",
+  "owner_shard": "S01",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 108.2,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0099-p0100",
+    "book_taxon": {
+      "scientific_name_candidate": "Thymus Serpyllum",
+      "authorship_candidate": "L.",
+      "aliases_candidates": [
+        "Quendel",
+        "wilder Thymian",
+        "Feldkiimmel",
+        "Betony",
+        "Thyme",
+        "Serpolet"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "description",
+        "pdf_page": 99,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "小型半灌木，具纖維根及匍匐莖，節處生根。葉對生，線形或橢圓形，邊緣微捲，具腺點及毛。",
+        "warnings": [],
+        "source_line_range": [
+          12,
+          23
+        ],
+        "exact_source_quote": "            Beschreibung.      Kleiner Halbstrauch mit faseriger Wurzel und dunnem, kriechendem, meisfr\nunterirdischem      liegende oder aufsteigende\n                       ,                           ringsum behaarte Stengel treibendem, an den Knoten\n                                                           ,\n\n\n\nwurzelndem Stamme.          Die gegenstandigen bis 7       ,         mm\n                                                               breiten, bis 10                    mm\n                                                                                    langen Blatter in einen\nkurzen Stiel verschmalert, linealisch oder elliptisch, flach oder an den Randern schwach abwarts gerollt,\ndrusig punktirt, am Grande borstig gewimpert, znweilen mit verkiirzten Seitenzweigen in den Achseln."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 99,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "葉背及葉面具大型油腺，常深陷。葉毛為一至二細胞，莖枝毛為多細胞且長尖。",
+        "warnings": [],
+        "source_line_range": [
+          69,
+          72
+        ],
+        "exact_source_quote": "            Anatomisches : Auf der Ruckseite des Blattes, bisweilen auch. auf der Vorderseite, befinden sich verbaltniss-\nmassig grosse Oeldriisen, die oft so tief eingesenkt sind, dass sie auf der Oberseite des Blattes, namentlicli bei durcli-\nfallendem Lichte, deutlich bemerkt werden. Der Bau dieser Oelzellen ist bei Thymus vulgaris L. naher beschrieben.\nDie Haare der Blattflachen sind ein- bis zweizellig, stumpflich, die der Stamme und Aeste mehrzellig, langzugespitzt."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 99,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分佈於溫帶歐洲、亞洲、北非及北美乾燥陽光處。喜馬拉雅山海拔可達4500公尺。",
+        "warnings": [],
+        "source_line_range": [
+          74,
+          76
+        ],
+        "exact_source_quote": "          Verbreitung*. An trockenen, sonnigen Orten, auf grasigen Hiigeln, Triften, Haiden, an\nWegrandern durch das gemassigte Europa, Asien, Nordafrika, einschliesslich Abessyniens, Nordamerika\nverbreitet.  Im Himalaya erreicht der Quendel eine Meereshohe von 4500 Metern."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 99,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源於拉丁語conila及希臘語，意指力量或獻祭。古人稱其為Serpyllum，因匍匐生長。",
+        "warnings": [],
+        "source_line_range": [
+          77,
+          84
+        ],
+        "exact_source_quote": "            Name und Geschichtliches.       Der Name Quendel, althochdeutsch chenela, keni(la T\nquenela, qiienala, bei Hildegard Cimella, stammt aus dem lateinischen conila, cunila, dem griechi-\nschen y.ovlfo], womit man ein Origanum oder Satureja bezeichnete. Thymus ist abgeleitet von dv^iog\n(Kraft, Muth) und bezieht sich auf die erregende, stark ende Wirkung der Pflanze; soil jedoch auch\nvon Svco (opfern) herruhren, wegen des Wohlgeruchs, oder weil man die getrocknete Pflanze bei den\n                                          a\nOpferfeuern verwendete. Mit serpyllum, von Eq7tv Hog (¥q7Z£lv kriechen, wegen des kriechenden Wuchses)\nbezeichneten die alten Schrifts teller unseren Feldquendel."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 100,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "古時用作香料、獸藥及嗅吸劑。Palladius記載其栽培法。歷史文獻區分其與Thymus vulgaris。",
+        "warnings": [],
+        "source_line_range": [
+          6,
+          18
+        ],
+        "exact_source_quote": "        Trotzdem die medizinische Benutzung von Seiten der alten    Aerzte  eine, dem  Thymus   vulgaris\nganz gleiche war, so unterschied man doch schon beide Pflanzen, wie aus den  Schriften des  Theophrast\nund Dioscorides unzweifelhaft hervorgeht.    \"EqtvvMov   des Theophrast,    womit   nach   den Berichten\ndes letzteren die Berge Thraciens ganz bedeckt waren, ist, wie   namentlich  die\n                                                                              *\n                                                                                 Beschreibungen\n                                                                                  '\n                                                                                                des\nDioscorides bestatigen, unser Thymus Serpyllum.        Gesucht nnd  geschatzt  war  der vom   Berge\nHymettus bezogene Quendel.     In erster Linie wurde der Quendel bei den Alten als Gewtirzpflanze\nbenutzt; nach Cato aucli in der Veterinarmedizin    ebenso bei Schwachezustanden nach Art unserer\nEan de Cologne als Riechmittel. Palladius (im 4. oder 5. Jahrhundert n. Chr. in Oberitalien) giebt\nin seinem Werke „De re rustica\" eine Anleitung zum Anbau des wilden Thymian."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 100,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含揮發油、單寧、苦味質、蛋白質及樹脂。油含香芹酚與百里香酚，具金黃至棕紅色。",
+        "warnings": [],
+        "source_line_range": [
+          42,
+          58
+        ],
+        "exact_source_quote": "          Bestandtheile. Das bluhende Kraut enthalt nach Herberger: atherisches Oel, Grerbstoff,\nBitterstoff, Eiweiss, ein Gummiharz, Fett, Chlorophyll, eigenthumlichen Farbstoff, verschiedene apfelsaure,\nschwefelsaure, und salzsaure Kali-, Kalk- und Talkerdesalze.\n          Das Quendelol, welches bis zu 0,08      0,09 °/       —\n                                                           aus frisch getrockneten Spitzen hochstens bis\n                                                                          ,\n\n\nzu 0,4 °/ aus dem Kraute gewonnen wird, ist von goldgelber bis braunrother Farbe, von angenehmem\nGeruche und gewiirzhaftem Geschmacke, besitzt ein spez. Gew. von 0,89                           —\n                                                                             0,91 und lost sich in Wein-\ngeist.   J alms hat im Jahre 1880 in demselben geringe Mengen von Carvacrol und Thymol auf-\ngefunden.    Nach P. Felevre besitzt das Quendelol 2 Bestandtheile, von denen der eine bei 175 177°                 —\nsiedend, aus Cymol (G 10 Hi 4), mit einem spez. Gew. von 0,873, besteht, der andere hingegen von einem\n                                                                      —\nPhenol (Cio H i4 0) mit einem Siedepunkt von 233 -235° und einem spez. Gew. von 0,988, gebildet\n        ."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "78fedc531bc94b1f3250eedc78b953c024ecea354194a02035d1167ceaa306c3"
+}

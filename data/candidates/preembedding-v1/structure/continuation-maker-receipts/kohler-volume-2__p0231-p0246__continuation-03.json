@@ -1,0 +1,187 @@
+{
+  "schema_version": "1.0",
+  "package_id": "kohler-volume-2:p0231-p0246:continuation-03",
+  "parent_entry_id": "kohler-volume-2:p0231-p0246",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation:kohler-volume-2:p0231-p0246:continuation-03:v1",
+  "owner_shard": "S03",
+  "package_sha256": "56020ee0fc140dccb0fe1a7ca9de47ed47b88384b1ae913955278a4e7a6cc544",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-continuation-line-anchors-v1",
+  "elapsed_seconds": 68.932,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "needs_review",
+  "errors": [
+    "section_2:invalid_source_line_range:p243:L47-L11"
+  ],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 243,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 237,
+      "char_end": 3476,
+      "source_line_start": 5,
+      "source_line_end": 38,
+      "page_text_sha256": "3503e13e3ced4c6cdee18a0e1f9f165108c3fb9967fb3c02847a42d1f89b559c",
+      "exact_text_sha256": "3fff1632eb3bec05768a3ddd016e0dcbed7a3e74e30b85a4dfc4b39ee7dd25de",
+      "section_index": 0,
+      "section_type": "history"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 244,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 1138,
+      "char_end": 3724,
+      "source_line_start": 12,
+      "source_line_end": 38,
+      "page_text_sha256": "d69ea206f042dd152e0fb3d0dfff81a5cd9374a34b7f35ee92ac95540565be5a",
+      "exact_text_sha256": "71bb8b8bb9f0ef23a9388dffdbc77a3f3d3fbae5dfcfee18255c660a96c28510",
+      "section_index": 1,
+      "section_type": "description"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 245,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 368,
+      "char_end": 4763,
+      "source_line_start": 5,
+      "source_line_end": 44,
+      "page_text_sha256": "3209f1794bf1e26ed1915a0e02f8734a19ab5ff5c1d2cda663aea0e7615d6966",
+      "exact_text_sha256": "9bb8b3de2d58f3f7941372c0ea1b7ed21573e725bff1653572f0947b68676214",
+      "section_index": 3,
+      "section_type": "constituents"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 245,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 4764,
+      "char_end": 5404,
+      "source_line_start": 45,
+      "source_line_end": 50,
+      "page_text_sha256": "3209f1794bf1e26ed1915a0e02f8734a19ab5ff5c1d2cda663aea0e7615d6966",
+      "exact_text_sha256": "501e735210666aed2c56c0fe5ed461ce056d9d5288f2c61b4c24fdf8bd675f26",
+      "section_index": 4,
+      "section_type": "historical_use"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 246,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 3546,
+      "char_end": 4383,
+      "source_line_start": 49,
+      "source_line_end": 56,
+      "page_text_sha256": "3cf2ba9f3d8979997f5d8e229ebbba08a549466dfeb7cebc4bf971d97ed8392a",
+      "exact_text_sha256": "5f9951acce69441525c089b7a987b089454cc58fe7fac98bb0ee97f7e0a920fd",
+      "section_index": 5,
+      "section_type": "plate_description"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-2:p0231-p0246:continuation-03",
+    "parent_entry_id": "kohler-volume-2:p0231-p0246",
+    "book_taxon": {
+      "scientific_name_candidate": "Myristica moschata",
+      "authorship_candidate": null,
+      "aliases_candidates": [
+        "Muskatnussbaum",
+        "Macis",
+        "Semen Myristicae",
+        "Nuces moschatae"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "history",
+        "pdf_page": 243,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源自Moschus，因果實有麝香氣。古希臘羅馬人可能不知，阿拉伯醫師早知。1500年確知產地為班達群島。荷蘭人壟斷貿易，銷毀島外樹木。",
+        "warnings": [],
+        "source_line_range": [
+          5,
+          38
+        ],
+        "exact_source_quote": "           Name und Geschichtliches.           Muskat 00              Macis Muscait, Muscart, Muscat,\n  Muscatenbluome, mittelniederd. Muschade, Muscatenblome) von Moschus (moschata), wegen des angeb-\n. lich moschusartigen Geruches der Früchte. Myristica von pugvorixos balsamisch (uvoov Balsam, wohl-\n  riechender Saft), bezogen auf die ólig aromatischen Früchte; ebenso fragrans, wohlriechend, duftend.\n            Es wird angenommen, dass die Muskatnüsse und -Blüthen (Macis) den Alten unbekannt\n  gewesen sind, was von Flückiger unter Hinweis auf Crawfurd, nach dessen Forschungen die Erzeug-\n  nisse des Muskatbaumes in früheren Zeiten bei den Eingeborenen keine Beachtung gefunden haben, —\n  als sehr wahrscheinlich betrachtet wird. Martius behauptet zwar, dass das in einem Lustspiele von\n  Plautus (260—180 v. Chr.) vorkommende Wort Macis auf unsere Muskatblüthe zu beziehen sel;\n  Flückiger hält dieses Wort jedoch für einen Phantasienamen und ähnlich klingende Namen wie macer,\n  macis,   machis, machir,   woxag   welche   bei   Scribonius   Largus,   Dioskorides,   Galenus,   Plinius\n u. A. vorkommen, für die Bezeichnung der Rinde eines indischen Baumes. Gewiss ist, dass die alten\n arabischen Aerzte schon lange Kenntniss von Macis und den Nüssen hatten und dass durch dieselben\n die Verbreitung der Erzeugnisse des Muskatbaumes nach Westen erfolgt ist. Letztere kannten auch\n schon um 900 die Abstammung der Muskatntisse aus Indien. Vorerst dienten die Muskatnüsse zu\n Ráucherungen in Kirchen und bei festlichen Gelegenheiten und standen zu jener Zeit wahrscheinlich\n sehr hoch im Preise. Letzteres scheint um 1214 nicht mehr der Fall gewesen zu sein, denn in diesem\n Jahre wurde zu Treviso gelegentlich eines Festspieles unter anderen Spezereien und Frücbten auch\n mit Muscatis geworfen. Von dieser Zeit ab beginnt auch die Verwendung der Muskatnüsse zu pharma-\n ceutischen und kosmetischen Prüparaten. Hildegard kennt die Mukatnüsse um 1150, und Albertus\n Magnus (1193—1280) giebt, ohne Angabe der Quelle, aus der er seine Kenntniss schópfte, eine Be-\n schreibung  des Baumes Muscata, den er als einen lorbeerblätterigen Baum Indiens schildert, dessen Blüthen\n die Macis lieferten.    Um dieselbe Zeit treten Nux muscata und Muscatae blomae in Dänemark\n auf. Das eigentliche Vaterland des Muskatbaumes wurde jedoch erst um 1500 bekannt, und zwar\n zur Zeit der ersten Seereisen nach Indien. Ludovico Barthema aus Bologna bezeichnet die Insel\n Bandan als die Heimath. Die Portugiesen bemächtigten sich vorerst des Handels mit Muskatnüssen,\n mussten aber später den Holländern weichen, welche den Handel, gleich demselben mit Zimmt und\n Gewürznelken, monopolisirten und auf Banda und Amboina beschränkten, alle Bäume ausserhalb dieser\n Orte ausrotteten und in Jahren reicher Erträge den Ueberfluss verbrannten. Die von der Regierung\n angelegten geschlossenen Gärten (Perken) wurden den Nachkommen holländischer Soldaten oder der\n unteren Beamten als Belohnung, mit. dem Rechte der Vererbung übergeben, jedoch unter der Be-\n dingung, den ganzen Ertrag gegen einen bestimmten Preis der ostindischen Compagnie zu liefern.\n Ausserdem stellte die Regierung für die einzelnen Perken eine bestimmte Zahl von Sklaven zur\n Verfügung."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 244,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "假種皮（Macis）鮮時肉質深紅，乾後肉桂色，氣味芳香。種子（Muskatnuss）橢圓，長約3公分，外殼網狀紋，內含豐富油脂，氣味辛香。",
+        "warnings": [],
+        "source_line_range": [
+          12,
+          38
+        ],
+        "exact_source_quote": "          Die Muskatblüthe oder Macis (Foelie der Holländer), nach Flückiger 130), des ganzen\ngetrockneten Samens betragend, ist im frischen Zustande fleischig, schön carminroth, an der Basis ganz,\nnach oben durch fast bis zum Grunde reichende Einschnitte in breite Lappen getheilt, welche wiederum\nin lange, schmale, bandartige, wellenfürmig-gekrümmt aufsteigende, oben zu einer krausen, gezähnelten\nUmhüllung zusammenlaufenden Streifen zerschlitzt sind. Die Muskatblüthe (Macis) wird entweder mit\ndem Messer oder mit der Hand von der Frucht losgelöst, bei günstigem Wetter an der Sonne,\nbei schlechtem Wetter in luftgen Räumen getrocknet und, um später beim Verpacken das Zer-\nbróckeln zu verhüten, leicht zusammengedrückt.       Trocken ist die Macis zimmtfarbig, mehr oder\nweniger gelblich, matt, schwach fettglänzend, hornartig, brüchig. Der Geruch ist eigenthümlich aro-\nmatisch;   der Geschmack      feiner    und   milder   als    der   des Kernes,    von    dem     er   sich    ausserdem     noch\ndurch einen schwach bitterlichen Beigeschmack unterscheidet.      Die Ausfuhr aus Holländisch -Indien\nbetrug nach Flückigers Angaben im Jahre 1877 etwas über 400000 Klgr. 1882 gingen nach\nHolland 150400 Klgr.\n          Wilde oder Bombay-Macis bildet einen Handelsartikel und dient zur Verfälschung der\nechten Macis. Sie ist safranfarben und zeigt einen etwas abweichenden anatomischen Bau (die spitz-\nendig zusammengefügten, nicht geradwandigen Epidermiszellen stark radial gestreckt mit oft sehr enger\nHöhlung; Oelräume nicht in der Mittelschicht, sondern beiderseits unter der Oberfläche). Sie ist sehr\nfettreich (bis 55%,) und enthält einen Alkohol brüunenden Farbstoff, dessen Lösung Fliesspapier\nkurkumagelb färbt. Sie besitzt kein Arom und ist bedeutend minderwerthig als die echte Macis.\n          Die von der harten, dunkelbraunen Schale befreiten elliptischen, fast kugeligen Nusskerne,\ndie Muskatnüsse, besitzen ungefähr 3 Ctm. Länge und 2 Otm. Dicke, sind aussen zierlich netzartig\ngefurcht-geadert, haben eine bräunlich-graue, an dem vertieften Hagelflecke dunklere, am Nabel hellere\nFarbe, die jedoch durch die anhängende Kalkmilch, besonders in den Vertiefungen, verdeckt ist; innen\nsind sie blassróthlich und hell- oder dunkelbraun marmorirt; sie sind sehr fettreich. Der Geruch und\nGeschmack    ist   eigenthümlich       aromatisch   (nicht    moschusartig),      sehr   gewürzhaft.          Trotz   der   vielen\nFalten, welche in das Innere des Kernes eindringen, ist die Nuss weder zerklüftet, noch bröckelig.\nDie äussere knócherne Samenschale ist geschmacklos."
+      },
+      {
+        "section_type": "harvest",
+        "pdf_page": 243,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "果實裂開時用竹籃叉採收。去除果肉，分離假種皮曬乾。種子經火烘乾至核殼分離，部分用石灰水處理以殺滅發芽力，再乾燥。",
+        "warnings": [],
+        "source_line_range": [
+          47,
+          11
+        ]
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 245,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含揮發油、固定油（Myristin）、樹脂及澱粉。種子油含Myristinsäure。揮發油主要為Terpen及Cymol，具右旋性。",
+        "warnings": [],
+        "source_line_range": [
+          5,
+          44
+        ],
+        "exact_source_quote": "                 Bestandtheile,            Die Macis     enthalten        nach Henry:           ütherisches       Oel, reichlich festes, gelbes,\n    fettes,   in Alkchol       schwer      lösliches und          festes, rothes,    fettes,     in Alkohol         leicht    lösliches     Oel,   eine\n    zwischen Gummi und Stärke stehende, durch Jod sich purpurroth färbende Substanz, wenig Faserstoff,\n    kein Stärkemehl. Bley erhielt aus Macis einen Balsam, welcher dem Balsam der Kerne ähnlich,\n    jedoch etwas weicher ist.\n                 Die Kerne enthalten         nach Schrader:            2,6%,   leichtes, 0.52 0/, schweres             ätherisches Oel, 10,41%,\n    róthliches,     weicher,     fettes     Oel,    17,72),        weisses, festes      Oel,      25 0/4    gummiartiges         Extrakt,      3,12%\n    schmieriges     Harz,      34,389)      Parenchym.            Bonastre      fand:    6%,       ätherisches       Oel,    7,6 0/, flüssiges Fett,\n    24,0%,    festes Fett, 2,4%,          Stärkemehl,    1,0 %/, Gummi,         54,09,         Faser.\n                 Ein Hauptbestandtheil             der Samenkerne         ist das Fett, welches            ca.    1/, des Gewichtes         der Kerne\n    beträgt und durch Auspressen der erwärmten Samen, mit ätherischem Oele gemengt, gewonnen wird.\n    In Indien wird es aus den ünverkäuflichen Nüssen hergestellt und als Oleum Nucistae, Oleum nucum\n    moschatarum expressum, Balsamwm Nucistae, Muskatbutter,                                    Muskatbalsam,                Banda-Seife in einer\n    besseren Sorte (englische Muskatbutter, orangegelb, weiss und roth marmorirt, feinkörnig, stark\n    bitterlich nach Muskatnuss schmeckend) und einer geringeren Sorte (holländische Muskatbutter,\n    fester, grobkörnig, weniger gewürzhaft riechend und schmeckend) in viereckigen, lünglichen, würfel-\n    fórmigen oder tafelfórmigen, mit breiten Blättern oder Bast umwickelten Stücken in den Handel gebracht.\n    Sie wird gegenwärtig auch in Europa hergestellt und ist häufig Fälschungen unterworfen. Die Muskat-\n    butter bildet eine bräunlich-gelbe, durch kórnig-krystallinische Ausscheidungen weisslich oder röthlich\n    marmorirte, sich fettig anfühlende, fast butterartige Masse von stark gewürzhaftem Geruch und Ge-\n    schmack, schmilzt zwischen 41 bis 51° (45°), erstarrt bei 32 bis 33°, besitzt ein spez. Gewicht von\n    0,995, löst sich in 4 Theilen kochendem,                  wenig in kaltem Weingeiste,                  leichter, jedoch nicht vollständig\n    in Aether,      Chloroform      und Benzol         und        besteht nach Koller           aus     6°), Muskatnussöl,         70%,     Myristin,\n    2% Olein, 1%, Butyrin, 3%, saurem Harze. Playfair fand 1841 in dem Balsam die Myristinsäure,\n              Myristinsäure C,,H,,0,, als Glycerid (Myristin) im Muskatbalsam enthalten, ausserdem im\n    Fette von Myristica Otaba Humb. et Bonpl., im Fette der Samen von Mangifera gabonensis, im Cro-\n    tonöl, im Irisstearopten und in der Kuhbutter nachgewiesen, bildet weisse, glänzende Krystallblättchen,\n    die bei 53,8? schmelzen und beim Erkalten schuppig krystallinisch wieder erstarren, reagirt sauer, ist im\n    Wasser unlöslich, leicht löslich in heissem Weingeist und in Aether.\n              Das durch Destillation mit Wasser aus den Muskatnüssen in einer Ausbeute von 8%, ge-\n    wonnene ätherische Oel besteht nach Wright der Hauptsache nach aus 2 Terpenen C,,H,,, welche\n    verschiedene Siedepunkte besitzen. Es ist begleitet von einer geringen Menge Cymol (C,, H,,) und\n    ausserdem wird, nach Flückiger, bei der Destillation die Ausscheidung einer sehr geringen Menge\n    eines im Wasser untersinkenden Antheiles bemerkt.         Nach Wright geht bei der Rektifikation des\n    ätherischen Oeles zuerst ein bei 163° siedendes Terpen und wahres Cymol über, dann folgt Gladstone's\n    Myristicol (C,y ‫يو‬‎ O,) endlich 2 sauerstoffhaltige Oele, von denen das eine bei 260— 2809, das andere\n    bei 280 bis 290° übergeht; 2%, eines Harzes bleiben zurück.\n              Das aus der Muskatblüthe bis 17%, gewonnene ätherische Oel wird der Hauptsache nach\n    ebenfalls aus Terpenen gebildet und ist, ebenso wie das Oel der Kerne, nach Flückiger rechtsdrehend;\n    es fehlt bis jetzt noch        ein genauer        Vergleich        beider Oele.      (Husemann,               Pflanzenstoffe    597.)"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 245,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "內服作芳香劑，外用於藥枕，常作調味料。Muskatbutter曾用於胃腸痙攣，現用於製藥膏。",
+        "warnings": [],
+        "source_line_range": [
+          45,
+          50
+        ],
+        "exact_source_quote": "                 Anwendung.               Innerlich in Form            von Pulver       und Tinktur              als angenehmes Aromaticum,\n    äusserlich    als Zusatz     zu Kräuterkissen;           am     häufigsten jedoch als Küchengewürz.\n             Die Muskatbutter wurde früher bei gastrischen Katarrhen, Koliken, Flatulenz etc. auf dem\n    Unterleib eingerieben; es hat sich jedoch herausgestellt, dass die Wirkung nicht Folge der gelind\n    reizenden Eigenschaften des ätherischen Oeles war, sondern grösstentheils der Manipulation des Reibens\n    innewohnte, Sie dient gegenwärtig zur Herstellung von Salben, Pflastern, Ceraten."
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 246,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "圖示：開花枝條（雄花）、雄蕊柱放大及切面、花粉、雌花、雌蕊切面、果實（帶假種皮及切開）、種子（帶假種皮、去假種皮、切面）及胚。",
+        "warnings": [],
+        "source_line_range": [
+          49,
+          56
+        ],
+        "exact_source_quote": "                                               Tafelbeschreibung:\n           A blühender Zweig mit männlichen Blüthen, nat. Grösse; 1 Staubgefässsäule mit Staubgefássen, vergrössert\n(stimmt mit der Zeichnung in Hayne, jedoch nicht mit Baillon in der Beschreibung überein); 2 dieselbe im Lüngs-\nschnitt, desgl; 3 dieselbe im Querschnitt, desgl; 4 Pollen, desgl.; 5 weibliche Blüthe, desgl.; 6 Stempel im Längs-\nschnitt, SE 7 Frucht mit der ‫را‬‎                     fleischigen Hülle, natürl. Grösse; 8 dieselbe mit halbirter Hülle,\ndesgl.; 9 Nuss mit Arillus, desgl.; 10 dieselbe ohne Arillus, desgl; 11 Nuss im Lüngsschnitt, desgl; 12 Embryo,\n                                                                                                                   ver-\ngrössert. Nach einer Originalzeichnung des Herrn Prof. Schmidt in Berlin."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "75020dc773b86c1d8715e75f6e997d78c63009e157a25deff2e5b207b723f02c"
+}

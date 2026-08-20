@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 573,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "43c6ded88272a093255aa538502d98b5ce5f698961562cffca9facee88ace2c8",
+  "render_dpi": 144,
+  "render_sha256": "e23b273520202efc2d2597fdfa7ee12b1cd4ea34d0cd1aa442a2d9fbab0f20ee",
+  "input_sha256": "e23b273520202efc2d2597fdfa7ee12b1cd4ea34d0cd1aa442a2d9fbab0f20ee",
+  "render_pixel_width": 5978,
+  "render_pixel_height": 8030,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.424,
+  "embedded_character_count": 39,
+  "ocr_character_count": 38,
+  "ocr_alpha_ratio": 0.7895,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01903364961109466,
+      "text": "Orchideae.",
+      "width": 0.09965657457203014,
+      "x": 0.8222420239688243,
+      "y": 0.9287099193640598
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "10",
+      "width": 0.015625,
+      "x": 0.44140624992187494,
+      "y": 0.1802325583218214
+    },
+    {
+      "confidence": 1,
+      "height": 0.02470930228157653,
+      "text": "Vanilla planifolia Andr.",
+      "width": 0.24023437499999994,
+      "x": 0.3945312495898438,
+      "y": 0.12790697651909544
+    }
+  ],
+  "text": "Orchideae.\n10\nVanilla planifolia Andr.",
+  "output_sha256": "ce219591b0acac88a53393fd79d78658b0ef9a1b0643f2f54de8d7ddf9d7ec33",
+  "receipt_sha256": "d4ba9b5bbfd13aa2eac6e9e0aeec4146cc91d74a24d0dc72724f73b65f02a261"
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 377,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "5302f136069e8661e7a961255a8f1d9c2783bc9de1da0fdb1d65b32d5842b303",
+  "render_dpi": 144,
+  "render_sha256": "0096413720013f9d513b46463f3b039bf062fdca7b04b2dd8549ce4fa38f70ea",
+  "engine": "Apple Vision VNRecognizeTextRequest accurate",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 18.36,
+  "embedded_character_count": 52,
+  "ocr_character_count": 40,
+  "ocr_alpha_ratio": 0.75,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.02325581368945895,
+      "text": "Sapotaceae.",
+      "width": 0.10204081784557381,
+      "x": 0.036734692179253924,
+      "y": 0.9549418608296891
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014632936507936511,
+      "text": "2 A",
+      "width": 0.02653061072585472,
+      "x": 0.29795918415237876,
+      "y": 0.27752976200943924
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "8",
+      "width": 0.016326530802125316,
+      "x": 0.7346938775435438,
+      "y": 0.10465116265325425
+    },
+    {
+      "confidence": 1,
+      "height": 0.020412282338218124,
+      "text": "Palaquium Gutta Burck.",
+      "width": 0.18571428571428572,
+      "x": 0.4387755117517006,
+      "y": 0.04935515917020772
+    }
+  ],
+  "text": "Sapotaceae.\n2 A\n8\nPalaquium Gutta Burck.",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-ocr-sha256=e54202ae838c94203816fd3331f4c37f7acac436188d481eab506c540c3d66d6",
+  "input_sha256": "0096413720013f9d513b46463f3b039bf062fdca7b04b2dd8549ce4fa38f70ea",
+  "output_sha256": "437b90768886fcd0d454715d2b18d68b526a87ee8a5508f9e385ff961f9e8fa3",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "receipt_sha256": "e3c530b5f81081146b27530450a4734e0268b1177a089bfe627129f032f60c2a"
+}

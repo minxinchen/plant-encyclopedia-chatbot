@@ -1,0 +1,132 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 499,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "960b42040c5fa0b55974978ad00ec37fb5158632a6a43a17a2d9709811143006",
+  "render_dpi": 144,
+  "render_sha256": "72305bb611e25d8dec8921bd8fc03e147dfabbe8e7ed6706e78eeb6a56576b2e",
+  "input_sha256": "72305bb611e25d8dec8921bd8fc03e147dfabbe8e7ed6706e78eeb6a56576b2e",
+  "render_pixel_width": 6026,
+  "render_pixel_height": 8354,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.612,
+  "embedded_character_count": 118,
+  "ocr_character_count": 81,
+  "ocr_alpha_ratio": 0.5802,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.020802995515248113,
+      "text": "Sapindaceae",
+      "width": 0.0929317133298766,
+      "x": 0.8325664003435337,
+      "y": 0.9576217583158727
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02061647649795295,
+      "text": "(Paullinieae)",
+      "width": 0.10090977224064002,
+      "x": 0.8285773731551652,
+      "y": 0.9359126917324363
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "36",
+      "width": 0.022177419439470603,
+      "x": 0.7479838708347001,
+      "y": 0.8750000002268917
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013081395436847054,
+      "text": "ва",
+      "width": 0.0201612902802647,
+      "x": 0.28427419336793214,
+      "y": 0.8328488373288149
+    },
+    {
+      "confidence": 1,
+      "height": 0.014656007289886475,
+      "text": "5 a",
+      "width": 0.02419354728688239,
+      "x": 0.37096774218317174,
+      "y": 0.838541666700671
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "12a",
+      "width": 0.030241936076294107,
+      "x": 0.818548387102982,
+      "y": 0.1729651162786695
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "116",
+      "width": 0.02419354728688239,
+      "x": 0.618951613453333,
+      "y": 0.1090116278276353
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "126",
+      "width": 0.0262096777578823,
+      "x": 0.8588709674802659,
+      "y": 0.08720930244003833
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "13",
+      "width": 0.01612903196185289,
+      "x": 0.6875000002345114,
+      "y": 0.0639534885958325
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395436846943,
+      "text": "13а",
+      "width": 0.028225805605294196,
+      "x": 0.770161291027998,
+      "y": 0.062499999999599765
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "62",
+      "width": 0.01612903196185289,
+      "x": 0.8951612906722993,
+      "y": 0.03343023277216317
+    },
+    {
+      "confidence": 1,
+      "height": 0.020429586607312422,
+      "text": "Paullinia Cupana Kunth.",
+      "width": 0.1955645113896471,
+      "x": 0.40120968174469257,
+      "y": 0.017361110685997216
+    }
+  ],
+  "text": "Sapindaceae\n(Paullinieae)\n36\nва\n5 a\n12a\n116\n126\n13\n13а\n62\nPaullinia Cupana Kunth.",
+  "output_sha256": "339ed7b7b8df7f022665380359144899bb278ef0ac8843cc39fc11c9cab9ab73",
+  "receipt_sha256": "e668e25b4051ad051643b900670884432f1bcaf6f5a099a118012bf1fb1ab944"
+}

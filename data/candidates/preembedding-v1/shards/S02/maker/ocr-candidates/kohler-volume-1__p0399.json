@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 399,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "d9f803957c7ff44eff92679626c7ce3d0d46b933164f8b3fda5bfa530d37592c",
+  "render_dpi": 144,
+  "render_sha256": "ceb7e4e959eb5fe729abcea4e024734ec427230786b8684b77d088bb63db43d7",
+  "input_sha256": "ceb7e4e959eb5fe729abcea4e024734ec427230786b8684b77d088bb63db43d7",
+  "render_pixel_width": 6002,
+  "render_pixel_height": 8138,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 5.09,
+  "embedded_character_count": 334,
+  "ocr_character_count": 51,
+  "ocr_alpha_ratio": 0.7647,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.019142001394241603,
+      "text": "Rubiaceae.",
+      "width": 0.10928730557409005,
+      "x": 0.8105416542874191,
+      "y": 0.9022696408503332
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883082859107,
+      "text": "WM.",
+      "width": 0.03543307080554259,
+      "x": 0.8622047244151421,
+      "y": 0.15843023296801806
+    },
+    {
+      "confidence": 1,
+      "height": 0.01889534791310632,
+      "text": "Cinchona officinalis Hook. fil.",
+      "width": 0.32086612621889704,
+      "x": 0.3444881999417326,
+      "y": 0.11627907018588868
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720930606599842,
+      "text": "79IT",
+      "width": 0.023622047203695096,
+      "x": 0.9094488188194122,
+      "y": 0.03633720915164196
+    }
+  ],
+  "text": "Rubiaceae.\nWM.\nCinchona officinalis Hook. fil.\n79IT",
+  "output_sha256": "5c5571ad3d493b29967baae6ddac640e7315293425ae5fd1c84496d37441921c",
+  "receipt_sha256": "96d376d6b84bc2b539abfe3d66fea3a012fb394ba393f29a9162b9943ecb02a1"
+}

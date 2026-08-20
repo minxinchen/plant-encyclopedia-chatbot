@@ -1,0 +1,155 @@
+{
+  "schema_version": "2.0",
+  "package_id": "kohler-volume-3:p0087-p0094:child-02:continuation-01",
+  "parent_entry_id": "kohler-volume-3:p0087-p0094",
+  "child_entry_id": "kohler-volume-3:p0087-p0094:child-02",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation-v2:kohler-volume-3:p0087-p0094:child-02:continuation-01:v1",
+  "owner_shard": "S06",
+  "package_sha256": "46c36070fbb71c1eab84b8a62a76c8d764d864f76a0e3f86b75c8752893d278e",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "prompt_version": "plant-structure-line-coordinates-v2",
+  "attempt_sha256": "dace0221e7b75ae40d5266a1a3b28111402d579b2154a3b48fca00f2fc64faea",
+  "raw_response_sha256": "54b30188d8caffb0964928fcb1539ab4bf9d3659514d40e4d19b2acfc2633180",
+  "elapsed_seconds": 12.642,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 93,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 192,
+      "char_end": 391,
+      "source_line_start": 3,
+      "source_line_end": 4,
+      "page_text_sha256": "8c0706e033ef3c863dbbb9ccfdad61c8ad71fd9640b892d914e948b1e3f60238",
+      "exact_text_sha256": "fee17ce805d66067a7ac639928f912f16874b35d15ca47e4a6e15b599d63cfb1",
+      "section_index": 0,
+      "section_type": "taxonomy"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 93,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 392,
+      "char_end": 1871,
+      "source_line_start": 5,
+      "source_line_end": 19,
+      "page_text_sha256": "8c0706e033ef3c863dbbb9ccfdad61c8ad71fd9640b892d914e948b1e3f60238",
+      "exact_text_sha256": "c7e89da21ee65d118e0e2410e76129f2cec89aeaacc4dd2a73fbb741bcc80ce0",
+      "section_index": 1,
+      "section_type": "description"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 93,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 3860,
+      "char_end": 4057,
+      "source_line_start": 41,
+      "source_line_end": 43,
+      "page_text_sha256": "8c0706e033ef3c863dbbb9ccfdad61c8ad71fd9640b892d914e948b1e3f60238",
+      "exact_text_sha256": "762329367a8132e64f4071737f2a1a0ddfb04e756ee83239b0e3b1635d8b7f71",
+      "section_index": 2,
+      "section_type": "distribution"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 94,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 158,
+      "char_end": 1306,
+      "source_line_start": 3,
+      "source_line_end": 14,
+      "page_text_sha256": "5943c6a2c634ed89698fe3ee8e0a70344383a480640061a51a82b5355f87e3e5",
+      "exact_text_sha256": "c18d5e568f746b4bdb8b48bacb5e062d49fe5381b001e71e5c978ea3c3bc0624",
+      "section_index": 3,
+      "section_type": "history"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 94,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 1995,
+      "char_end": 2543,
+      "source_line_start": 22,
+      "source_line_end": 27,
+      "page_text_sha256": "5943c6a2c634ed89698fe3ee8e0a70344383a480640061a51a82b5355f87e3e5",
+      "exact_text_sha256": "8fbb5d4558d859b2c86a6de6783a91ef79b78fb5ef6f313e6540cf3899fd3e8f",
+      "section_index": 4,
+      "section_type": "anatomy"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-3:p0087-p0094:child-02:continuation-01",
+    "parent_entry_id": "kohler-volume-3:p0087-p0094",
+    "book_taxon": {
+      "scientific_name_candidate": "Landolphia Watsoniana"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 93,
+        "source_line_range": [
+          3,
+          4
+        ],
+        "exact_source_quote": "           Familie.     Apocynaceae         R. Br.     Unterfamilie:       Plumieroideae,         Sect.   Arduineae,      Tribus\nLandolphünae K. Schum.                 Gattung: Landolphia Pal. Beauv."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 93,
+        "source_line_range": [
+          5,
+          19
+        ],
+        "exact_source_quote": "           Beschreibung.            Eine milchsaftführende         Liane       von   ausserordentlicher         Länge.          Die\ndünnen,  zähen Zweige sind knotig und mit kurzen, zurückgekrümmten Stacheln dicht besetzt,\nDie Internodien sind meist 5 cm lang und etwa federkieldick.   An den Knoten entstehen\ndurch dichasiale Verzweigung je ein blühender Kurztrieb mit wenigen Blattpaaren, je ein\nLangtrieb, welcher den Zweig fortsetzt, und eine blatt- und blütenlose Ranke ‚ welche am\noberen Teile mit kurzen, hakenförmig gekrümmten,     durch kleine Blattrudimente gestützte\nund aus den Knoten der Ranke entspringenden Krallen versehen ist.      Diese Ranken sind\nsehr stark modifizierte Blütenstände; ihretwegen gehört die Pflanze zu den sogenannten\nKrallenkriechern; sie bilden, an andern Pflanzen sich festklammernd, im Walde ein undurch-\ndringliches    Dickicht.       —     Die Blätter      sind    kreuzgegenständig,          lederartig,     einfach,     ungeteilt,\nsanzrandig, kurz gestielt, breit lanzettlich, beiderseits zugespitzt, oberseits dunkelgrün, unten\nheller, beiderseits kahl, mit 8—9 Paaren Seitennerven, die unter einem Winkel von 60° von\nder Mittelrippe ausgehen und sich am Rande des Blattes hakenförmig krümmen.                Die in\nder Blattsubstanz verborgenen Adern sind wenig erkennbar. Das Blatt ist etwa 6 cm lang\nund   3 cm    breit;    sein       Blattstiel    ist 0,5 cm    lang,   etwas    rinnig.     Die    Blütenrispen        sind    end-"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 93,
+        "source_line_range": [
+          41,
+          43
+        ],
+        "exact_source_quote": "       Heimat. Die Pflanze wächst in Deutsch-Ostafrika, Dar-es-Salaam und auf der Küste\nvon Zanzibar. Von dort ist sie in die Royal Gardens nach Kew, nach Ceylon und nach Java\nverpflanzt    worden."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 94,
+        "source_line_range": [
+          3,
+          14
+        ],
+        "exact_source_quote": "        Geschiehte. Nach gütigen Mitteilungen des Herrn W. T. Thiselton-Dyer, Direktor\nder Royal  Garde ns in Kew, wurde die Pflanz e vor etwa 15 Jahren in Kew aus Samen gezog en;\nzur Blüte ist aber     die Liane       dort bis heute noch       nicht gekommen.      In Ceylon   scheint sie sich\nbesser entwickelt       zu    haben.     Sie   kam    1885    durch   Dr. Romburgh      von   Ceylon   aus    ın den\nbotanischen  Garten  zu Buiten zorg. Acht daselb st angepf lanzte Steckl inge wuchs en rasch an,\nrankten an Eucalyptus alba-Bäumen empor und erreichten bald eine beträchtliche Länge; 1892\nwaren die Stengel noch so dünn, dass man an ein Anzapfen der Bäume nicht denken konnte;\n1894 scheint man indessen, wahrscheinlich aus abgeschnittenen Zweigen, probeweise Kautschuk\ndargestellt und denselben für sehr gut befunden zu haben.        (Vergl. Exemplar der Pflanze im\nHerbar. Schiffner.)   In der letzten Zeit ist die Liane wiederholt Gegenstand der Untersuchung\ngewesen, da man hofft, sie ebenfalls zur Kautschukgewinnung verwenden zu können, was\ndurch geeignete Kultur und sorgsame Bearbeitung ihres Milchsaftes zweifellos gelingen wird."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 94,
+        "source_line_range": [
+          22,
+          27
+        ],
+        "exact_source_quote": "         Anatomisches. Landolphia Watsoniana ist bisher nur von Chimani untersucht worden.\nEr fand das ganze Gewebe mit Stärke erfüllt. Die langen Milchsaftschläuche laufen in der\nRinde einander parallel und sind von Krystallkammerfasern begleitet, welche oft schön aus-\ngebildete Oxalatkrystalle enthalten. Im Marke verlaufen sie dagegen in Form eines wirren\nNetzwerkes, dessen Fäden nur auf kurzen Strecken beobachtet werden können.                          Auch     in den\nMarkstrahlen findet sich Milchsaft. Die Weite der Röhren betrug 15—20 u."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "ed37429a7537a9d622ac1831f6112c33b87ab752aa057402c47af0a910d75260"
+}

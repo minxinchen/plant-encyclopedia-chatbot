@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 389,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "e8590907cb4df6fc274571cf66e20b7855bd60f7f1ce530594f6e83e24ca688d",
+  "render_dpi": 144,
+  "render_sha256": "21acb7b3f4e95659688e8f858c2207a5ae24cf1e08dee1cf1c95de89092c135d",
+  "input_sha256": "21acb7b3f4e95659688e8f858c2207a5ae24cf1e08dee1cf1c95de89092c135d",
+  "render_pixel_width": 5834,
+  "render_pixel_height": 8042,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.194,
+  "embedded_character_count": 91,
+  "ocr_character_count": 61,
+  "ocr_alpha_ratio": 0.6721,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01908987855154365,
+      "text": "Laurineae.",
+      "width": 0.09807108463853165,
+      "x": 0.633964457456623,
+      "y": 0.9228678516585404
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "3",
+      "width": 0.009999999426361303,
+      "x": 0.10400000021181936,
+      "y": 0.841569767836904
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "10",
+      "width": 0.014000000239885263,
+      "x": 0.17000000005505736,
+      "y": 0.17587209323727937
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883082859107,
+      "text": "wM.",
+      "width": 0.02999999958280819,
+      "x": 0.896000000396096,
+      "y": 0.15261627946147738
+    },
+    {
+      "confidence": 1,
+      "height": 0.02041805074328462,
+      "text": "Cinnamomum Camphora F. Nees et Eberm.",
+      "width": 0.40599997697101425,
+      "x": 0.29400001658949276,
+      "y": 0.12202380936979229
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "76.",
+      "width": 0.019999998852722634,
+      "x": 0.920000000906972,
+      "y": 0.03343023270993428
+    }
+  ],
+  "text": "Laurineae.\n3\n10\nwM.\nCinnamomum Camphora F. Nees et Eberm.\n76.",
+  "output_sha256": "066dd0ba8c443647b5b88fff9b37de572a2aa15c64fd03f055969a8a066c60e4",
+  "receipt_sha256": "18f36a1a0a52a14b00b9b9f6b098f67efed213dd65f8e93ad4284d09e6e49d52"
+}

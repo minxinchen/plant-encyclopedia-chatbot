@@ -1,0 +1,269 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0061-p0062",
+  "entry_id": "kohler-volume-2:p0061-p0062",
+  "owner_shard": "S03",
+  "book_taxon": {
+    "scientific_name": "Oenanthe Phellandrium",
+    "authorship": "Lam.",
+    "aliases": [
+      "Oenanthe aquatica Lam.",
+      "Phellandrium aquaticum L."
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Oenanthe Phellandrium",
+      "Oenanthe phellandrium"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T13:31:33+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Oenanthe+Phellandrium",
+        "query_name": "Oenanthe Phellandrium",
+        "retrieved_at": "2026-08-13T12:27:41+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0013361",
+        "query_name": "Oenanthe Phellandrium",
+        "retrieved_at": "2026-08-13T12:27:41+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0013361",
+        "query_name": "Oenanthe Phellandrium",
+        "retrieved_at": "2026-08-13T12:27:41+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0024401",
+        "query_name": "Oenanthe Phellandrium",
+        "retrieved_at": "2026-08-13T12:27:41+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0024401",
+        "query_name": "Oenanthe Phellandrium",
+        "retrieved_at": "2026-08-13T12:27:41+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Oenanthe+phellandrium",
+        "query_name": "Oenanthe phellandrium",
+        "retrieved_at": "2026-08-13T12:27:41+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Oenanthe+aquatica",
+        "query_name": "Oenanthe aquatica",
+        "retrieved_at": "2026-08-13T12:55:38+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Phellandrium+aquaticum",
+        "query_name": "Phellandrium aquaticum",
+        "retrieved_at": "2026-08-13T12:55:38+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL and Tai2 returned no exact Taiwan species record or public Chinese name. The authorless historical name is taxonomically unsafe to promote: Kew POWO maps Oenanthe phellandrium Lam. to Oenanthe aquatica, but the later homonym Oenanthe phellandrium Nutt. to Oenanthe sarmentosa. Although Köhler prints Oenanthe aquatica and Phellandrium aquaticum among the aliases, no Taiwan public species name was found, so the entry remains unresolved rather than receiving a guessed translation."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 61,
+      "evidence_type": "text",
+      "page_text_sha256": "84396b36d6646011488803b2e464fc155e43dc83151b50c9949661b4b26b55b5",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 62,
+      "evidence_type": "text",
+      "page_text_sha256": "89bf51dfc4df5e233c248192a5af630558a927fc01dd07483d9095b53d65e6cb",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0061-p0062:s00:x00",
+      "section_type": "description",
+      "original_text": "         Beschreibung. Zweijährige, kahle Pflanze, deren Wurzel quirlfórmig mit befaserten Neben-\n wurzeln besetzt ist. Stengel */,—1'/, Meter hoch, aufrecht, stielrund, unter Wasser einfach, geringelt,\n mit kurzen Stengelgliedern,      innen querfácherig, mit markigen,    wenig hohlen Fächern;        über Wasser mit\n verlängerten Stengelgliedern, abstehend-üstig, gestreift, kahl, mit geschlossenen Knoten und in der Mitte\n meist hohlem Marke; Aeste innen hohl. Die zerstreut stehenden, langgestielten, am Grunde scheiden-",
+      "normalized_text": null,
+      "zh_tw_rendering": "二年生無毛植物，根具鬚根。莖高半至一米，水下部分簡單，水上部分節間延長。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 61,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 321,
+        "char_end": 846,
+        "page_text_sha256": "84396b36d6646011488803b2e464fc155e43dc83151b50c9949661b4b26b55b5",
+        "exact_text_sha256": "ca2449e7b74eca9c319ad58d7bf20a4aa76b82a3fa833ff4046c03add07fead4",
+        "source_line_start": 7,
+        "source_line_end": 11,
+        "section_index": 0,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "ca2449e7b74eca9c319ad58d7bf20a4aa76b82a3fa833ff4046c03add07fead4",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0061-p0062:s01:x00",
+      "section_type": "anatomy",
+      "original_text": "         Anatomisches: Flückiger sagt: „Die Fruchtwand wird von einer glasartigen Epidermis\nbedeckt und von einer starken, umfangreichen, gelben Faserschicht durchzogen. Unter jeder Rippe\nliegt ein im Querschnitt halbmondförmiges Faserbündel, dessen Bogen sich nach innen öffnet und von\njedem seiner Enden noch einen schmalen Lappen aussendet, welcher wieder sichelfórmig zurückge-",
+      "normalized_text": null,
+      "zh_tw_rendering": "Flückiger稱：果皮被玻璃狀表皮覆蓋，並有強壯黃色纖維層。每條棱下有一半月形纖維束。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 61,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2889,
+        "char_end": 3270,
+        "page_text_sha256": "84396b36d6646011488803b2e464fc155e43dc83151b50c9949661b4b26b55b5",
+        "exact_text_sha256": "2b15ca2ebff62e713694b424a6b0ebd209b6a70c8f58c4b9ed79bdb82278ff28",
+        "source_line_start": 33,
+        "source_line_end": 36,
+        "section_index": 1,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "2b15ca2ebff62e713694b424a6b0ebd209b6a70c8f58c4b9ed79bdb82278ff28",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0061-p0062:s02:x00",
+      "section_type": "flowering",
+      "original_text": "         Blüthezeit. Juni bis August.",
+      "normalized_text": null,
+      "zh_tw_rendering": "花期為六月至八月。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 61,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 4011,
+        "char_end": 4048,
+        "page_text_sha256": "84396b36d6646011488803b2e464fc155e43dc83151b50c9949661b4b26b55b5",
+        "exact_text_sha256": "d4f4825f0cb9be670cbcfc41ea17576a8134b819b2c24d4e67c9e4ef46508183",
+        "source_line_start": 45,
+        "source_line_end": 45,
+        "section_index": 2,
+        "section_type": "flowering"
+      },
+      "exact_text_sha256": "d4f4825f0cb9be670cbcfc41ea17576a8134b819b2c24d4e67c9e4ef46508183",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0061-p0062:s03:x00",
+      "section_type": "distribution",
+      "original_text": "          Verbreitung.      In Sümpfen,       Gräben,   stehenden Gewässern        etc.    Durch   Mitteleuropa   und\nMittelasien verbreitet.",
+      "normalized_text": null,
+      "zh_tw_rendering": "分佈於沼澤、溝渠及靜水等處。廣泛分佈於中歐及中亞。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 61,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 4049,
+        "char_end": 4190,
+        "page_text_sha256": "84396b36d6646011488803b2e464fc155e43dc83151b50c9949661b4b26b55b5",
+        "exact_text_sha256": "18275e75f39c079e4a8eae4f61a501a85ce8ba08cdfee7147b59c441be256709",
+        "source_line_start": 46,
+        "source_line_end": 47,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "18275e75f39c079e4a8eae4f61a501a85ce8ba08cdfee7147b59c441be256709",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0061-p0062:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "          Anwendung. Als Pulver, in Pillen, Latwergen und Aufguss gegen Husten, Lungenphthisis,\nTuberkulose; in der Veterinärpraxis bei Pferden gegen Kropf. „Das Mittel, ursprünglich bei Influenza\nder Pferde benutzt, wurde besonders von Marcus Herz, Hufeland und seinen Nachfolgern gegen\nchronische Katarrhe und Blennorhöen der Bronchien empfohlen und hat eine Zeit lang als Schwind-\nsuchtsmittel im Ruf gestanden. Auch bei Wechselfieber, Keuchhusten und Asthma wurde es benutzt.“",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史上用作粉末、丸劑或煎劑治療咳嗽、肺結核；獸醫用於馬匹治療甲状腺腫。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 62,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3772,
+        "char_end": 4252,
+        "page_text_sha256": "89bf51dfc4df5e233c248192a5af630558a927fc01dd07483d9095b53d65e6cb",
+        "exact_text_sha256": "e09af136913ca1e43dd37836ce2b54778c554b0f815d060e71acc28003e3924f",
+        "source_line_start": 41,
+        "source_line_end": 45,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "e09af136913ca1e43dd37836ce2b54778c554b0f815d060e71acc28003e3924f",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Do not translate this entry as 水芹 or promote it to Oenanthe aquatica without preserving the historical-name ambiguity and obtaining a Taiwan public species-name source.",
+    "The external taxonomy evidence is metadata only and does not supply Köhler plant facts.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "c69e7078dbcfe92b3a2a8ee2c2b6cae3bfbd8aee06cfc38d7ec2d278b6f381a5",
+    "maker_receipt_sha256": "902c1686f647af421b23e4a78a15b3f9c189adc7fcc329cf4c6ce3bafa8f67b3",
+    "validation_check_sha256": "781509706efa3e70a80f71d26cf79537963032b37b7d890e7bc820423a42ceaf",
+    "source_disposition_sha256": "33f63fb33162a660eba047a6da01ac5dd8f5c0f08cc5cac39b20606769ddda83",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "902c1686f647af421b23e4a78a15b3f9c189adc7fcc329cf4c6ce3bafa8f67b3",
+      "validation_check_sha256": "781509706efa3e70a80f71d26cf79537963032b37b7d890e7bc820423a42ceaf",
+      "source_disposition_sha256": "33f63fb33162a660eba047a6da01ac5dd8f5c0f08cc5cac39b20606769ddda83"
+    },
+    "naming_artifact_sha256": "9392e6a44fff6a44ede08452a3142146c3d5d6847fbee7305b81590955a9b06f"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "0e753b8d9b114fde640dba99bb69fb15ed847eeaefbb54d387edd1bc4fab3c81"
+}

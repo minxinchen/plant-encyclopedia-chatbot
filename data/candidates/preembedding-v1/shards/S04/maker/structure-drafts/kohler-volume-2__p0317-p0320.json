@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0317-p0320",
+  "owner_shard": "S04",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 195.327,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0317-p0320",
+    "book_taxon": {
+      "scientific_name_candidate": "Ipomoea Purga",
+      "authorship_candidate": "Hayne",
+      "aliases_candidates": [
+        "Ipomoea Schiedeana Schlecht.",
+        "Convolvulus Purga Wender.",
+        "Exogonium Purga Benth.",
+        "Jalape",
+        "Jalapenrinde",
+        "Jalap tubéreux ou officinal"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "description",
+        "pdf_page": 317,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "多年生植物，具肉質、多乳汁、內白外深褐之球狀主根，長至15公分，粗至10公分。莖高至3公尺，左旋，草質，多分枝。",
+        "warnings": [],
+        "source_line_range": [
+          6,
+          12
+        ],
+        "exact_source_quote": "             Beschreibung:             Ausdauernde       Pflanze    mit   einer fleischigen,     stark milchenden,      innen weissen,\n aussen rauhen und dunkelbraunen, bis 15 Ctm. langen, bis 10 Ctm. dicken, kugeligen, rübenartigen\n Hauptwurzel, die am Grunde plötzlich in eine lange, schwanzartige, hin- und hergebogene, gewöhnlich‘\n nur in der unteren Hälfte verzweigte Wurzel ausläuft, neben welcher sich manchmal noch eine zweite\n ähnliche bildet. Da den Knollen keinerlei Blattorgane entspringen, so werden sie als Wurzelanschwellungen\n und ihrem Inhalte nach als Reservestoffbehälter angesehen. Stengel zu mehreren aus dem Scheitel\n der Knolle entspringend, bis 3 Meter hoch, links windend, krautartig, stielrund, gestreift, kahl, ver-"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 317,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "根橫切面示薄皮層，由深色樹脂環與木質部分隔。皮層含澱粉粒及星狀草酸鈣結晶，並散佈含樹脂塊之樹脂細胞。",
+        "warnings": [],
+        "source_line_range": [
+          34,
+          40
+        ],
+        "exact_source_quote": "           Anatomisches.      Der Querschnitt der rundlichen oder stumpf 4kantigen Wurzel zeigt eine\n dünne    Rinde,     welche     durch einen dunklen           Harzring von      dem   aus     zahlreichen,     concentrischen     dunkel-\n braunen Zonen zusammengesetzten Holze getrennt ist. Die Aussenrinde besteht aus mehreren Reihen\n zusammengefallener tangential gestreckter, brauner Korkzellen; die Mittelrinde aus einem tangential ge-\n streckten Parenchym, welches nach aussen hin fast stärkefrei ist, nach innen zu farblose, von einem\n bräunlichen Stoffe umgebene Stärkekörner enthält. Zwischen dem Parenchym befinden sich oft reihen-\n weise neben einander zahlreiche kleine Zellen mit je einer morgensternförmigen Krystalldruse von Calcium-"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 317,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "產於墨西哥安第斯山東坡潮濕雨林，海拔1200至2400公尺。主要產於Huachinango、Cordoba及Huatusco，Jalapa已少見。",
+        "warnings": [],
+        "source_line_range": [
+          58,
+          62
+        ],
+        "exact_source_quote": "          Vorkommen.      In den feuchten, regenreichen Waldregionen der östlichen Abhänge der mexi-\n kanischen       Anden,     vom Coffre de Perote bis zum Pik von Orizaba,                   in Meereshöhen       von   1200 bis 2400\n Meter, mit einer mittleren Temperatur von 159. ® An Bäumen hoch emporklimmend, auch kultivirt,\n kommt die Winde nach Flückiger hauptsächlich bei Huachinango, Cordoba, Huatusco, jedoch kaum\n mehr bei Jalapa (Xalapa) vor. Nach Thomas sammeln die Indianer des Stádtchens Songolica bei"
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 318,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源自墨西哥Jalapa地。1609年Bauhin記述為Bryonia Mechoacanna。1530年Sevilla已用為瀉藥，1634年傳入德國。",
+        "warnings": [],
+        "source_line_range": [
+          4,
+          10
+        ],
+        "exact_source_quote": "            Name      und   Geschichtiches.      Jalape, nach der Bezugsquelle der Droge, dem mexikanischen\nOrte Jalapa (Xalapa) so benannt. Ipomoea von tj (irvös), Name eines Wurmes, und óporoc, ähnlich,\nwegen des wurmartig sich windenden Stammes.                                                     1\n          ie Jalape wurde nach den Angaben von C. Bauhin 1609 unter dem Namen Bryonia\nMechoacanna nigricans (Chelapa, Celapa) angeblich aus Indien (Westindien) nach England eingeführt. .\n ine andere        aus Carolina   stammende   Wurzel,     indischer Rhabarber,    Rhabarber   von Mechoacan     (Vala-\ndolid in Mexico), die schon 1530 in Sevilla als Purgans in Gebrauch kam und von Monardes aus-"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 319,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "根含特有樹脂（10-22%）、糖、膠質及澱粉。樹脂名Convolvulin，熔點150度，易溶於酒精，不溶於乙醚及氯仿。",
+        "warnings": [],
+        "source_line_range": [
+          42,
+          48
+        ],
+        "exact_source_quote": "           Bestandtheile.         Die Wurzel     enthält eigenthümliches   Harz; nach Guibourt      ausserdem 19 %,\nunkrystallisirbaren Zucker, 10 %/, Gummi, 18 ?/, Stärkemehl, Farbstoff.\n          Das Jalapenharz, welches 10 bis 17 9/,, sogar 22 9/, beträgt, wird der Wurzel durch Wein-\ngeist entzogen und aus dieser Lösung durch Wasser gefällt. Es besitzt eine schmutzig braungraue,\nauf dem Bruche gelbbraune Farbe, ist undurchsichtig, spröde, von nicht genau festgestellten Verun-\n reinigungen schwach eigenartig riechend und von scharfem, bitterem Geschmacke. Es ist sehr leicht lós-\n lich in Weingeist (1 Theil Weingeist löst 1 Theil Harz), Essigsäure und Essigäther, weniger leicht in"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 320,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史上作瀉藥（Purgans）使用，有效成分為樹脂。成人用量1.0至2.0克根或半量樹脂。曾用於兒童驅蟲及導引療法。",
+        "warnings": [
+          "Content describes historical medical usage; not modern medical advice."
+        ],
+        "source_line_range": [
+          28,
+          34
+        ],
+        "exact_source_quote": "            Anwendung. In Form von Pulver, Pillen, Tinktur als Purgans.                            Der wirksame Bestand-\ntheil ist das Harz.        „Die purgirende Wirkung der Jalape (und des Convolvulins)                 ist als örtliche anzu-\nsehen, da sie sich nicht bei subcutaner Applikation von 0.5 g Convolvulin oder bei Einspritzung von\n0.1 ‫ع‬‎ in die Venen einstellt. Dieselbe kommt zu Stande, wenn Convolvulin im Darme mit Galle in\nBerührung kommt, wobei letztere nur lósend, nicht aber veründernd auf das Harz wirkt. Bei\nerwachsenen Menschen zeigt sich die purgirende Wirkung der Jalape mit Sicherheit nach 1.0 bis 2.0 g\nder Wurzel und nach der Hälfte des offizinellen Harzes. Jalape ist in der Kinderpraxis als Drasticum"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "8c79366dbf1c43ee35c297e5cac6c46479789741743223b4401d21420d995a1b"
+}

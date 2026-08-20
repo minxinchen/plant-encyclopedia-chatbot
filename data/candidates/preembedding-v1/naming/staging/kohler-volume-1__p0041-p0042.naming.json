@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-1:p0041-p0042",
+  "owner_shard": "S01",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S01/maker/structure-drafts/kohler-volume-1__p0041-p0042.json",
+  "source_draft_sha256": "0ca9a5f9bdb2670e4a3472c7374c70f1ffa919c4bdef51ab96f28c2bbe8cc895",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "6fcf4b2b1030ea4eb321d42f3e6b1ef6c7176a9ab94c2fc4239a959677b5dce5",
+    "validation_check_sha256": "daf4d173657f1b2cc07e6093c5fbec75d143e2eccdb21885d42af410fc1458af",
+    "source_disposition_sha256": "0e22106f5bb767692a2ad32928ee10527a35837fc3b31c8fd0cfaf6ac921cd8c",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Cannabis sativa",
+    "authorship_candidate": null,
+    "aliases_candidates": [
+      "Cannabis indica Lam.",
+      "Cannabis sativa var. pedemontana",
+      "Cannabis sativa var. chinensis"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Cannabis sativa"
+    ],
+    "accepted_scientific_name": "Cannabis sativa",
+    "display_name_zh_tw": "大麻",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0040617",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary",
+    "rationale": "TaiCOL accepts the queried book binomial at species rank.",
+    "checked_at": "2026-08-13T14:24:44+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Cannabis sativa",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Cannabis+sativa",
+      "retrieved_at": "2026-08-13T14:24:44+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Cannabis sativa",
+          "matched_name_id": 121957,
+          "taxon_id": "t0040617",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Cannabis sativa",
+          "accepted_name_id": 121957,
+          "accepted_usage": [
+            {
+              "usage_id": 103149,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0040617",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0040617",
+          "taxon": {
+            "taxon_id": "t0040617",
+            "taxon_status": "accepted",
+            "name_id": 121957,
+            "simple_name": "Cannabis sativa",
+            "name_author": "L.",
+            "rank": "Species",
+            "common_name_c": "大麻",
+            "alternative_name_c": null,
+            "synonyms": "Trema sativa",
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2026-06-18"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

@@ -1,0 +1,148 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-2:p0337-p0338",
+  "owner_shard": "S04",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S04/maker/structure-drafts/kohler-volume-2__p0337-p0338.json",
+  "source_draft_sha256": "44b5a4df5e65351a89661658a77c48ae566639ccacc45c1c484bea3b51bebdee",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "9b04cbac67459616e1971738d7420572a3b55776c22fbb5c2a0a9db1a0087b97",
+    "validation_check_sha256": "e399bad1afa71f51cc0cebfdac8e1f7c4fdd50a65c8b3ae248e3278ccccceb8e",
+    "source_disposition_sha256": "076c15b000ba4da12ca5ba33cddf686c65044565f8050cac5d1c1b9586453cba",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Trigonella Foenum",
+    "authorship_candidate": "L.",
+    "aliases_candidates": [
+      "faenum graecum",
+      "Hornklee",
+      "Bockshornklee",
+      "Siebengezeit",
+      "Fenugrec",
+      "Fenugreek"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Trigonella Foenum",
+      "Trigonella foenum"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_zh_tw": null,
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_checked",
+    "taxon_id": null,
+    "display_name_source_scope": "unresolved",
+    "display_name_source_evidence_ids": [],
+    "display_name_is_taiwan_public": false,
+    "display_name_answer_policy": "scientific_name_only",
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping.",
+    "checked_at": "2026-08-13T14:30:55+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Trigonella Foenum",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Trigonella+Foenum",
+      "retrieved_at": "2026-08-13T14:30:53+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Trigonella",
+          "matched_name_id": 2792,
+          "taxon_id": "t0025040",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Trigonella",
+          "accepted_name_id": 2792,
+          "accepted_usage": [
+            {
+              "usage_id": 179792,
+              "reference_id": 2454,
+              "reference_type": "Book",
+              "publish_year": 2017,
+              "citation": "Ed. Comm. Red List TW Plants,  (2017) The Red List of Vascular Plants of Taiwan, 2017 = 2017 臺灣維管束植物紅皮書名錄.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 8696,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": null
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0025040",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0025040",
+          "taxon": {
+            "taxon_id": "t0025040",
+            "taxon_status": "accepted",
+            "name_id": 2792,
+            "simple_name": "Trigonella",
+            "name_author": "L.",
+            "rank": "Genus",
+            "common_name_c": "胡蘆巴屬",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": null,
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Trigonella foenum",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Trigonella+foenum",
+      "retrieved_at": "2026-08-13T14:30:53+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "faenum graecum",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=faenum+graecum",
+      "retrieved_at": "2026-08-13T14:30:53+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Trigonella foenum",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Trigonella%20foenum",
+      "retrieved_at": "2026-08-13T14:30:55+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears."
+  ]
+}

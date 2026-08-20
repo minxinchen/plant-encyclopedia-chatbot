@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0149-p0152",
+  "owner_shard": "S02",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 132.706,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0149-p0152",
+    "book_taxon": {
+      "scientific_name_candidate": "Beta vulgaris L. var. Rapa Dum.",
+      "authorship_candidate": null,
+      "aliases_candidates": [
+        "Beta vulgaris var. rapacea Koch.",
+        "Runkelriibe",
+        "Mangold",
+        "sweet turnip",
+        "betterave"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 149,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Beta vulgaris L. var. Rapa Dum.，同義名 var. rapacea Koch. 俗名 Runkelriibe、Mangold。",
+        "warnings": [],
+        "source_line_range": [
+          6,
+          14
+        ],
+        "exact_source_quote": "                                             Beta vulgaris L. var. Rapa Dum.\n\n                                                        Syn. Beta vulgaris var. rapacea Koch.\n\n\n                                        Runkelriibe, Mangold                            sweet turnip                 betterave.\n\n\n               Familie: Chenopodiaceae.                               Grattung: Beta."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 149,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "二年生植物，根紡錘形或球形，白色、黃色或紅色。葉心形，莖直立深溝。花綠，聚生穗狀。",
+        "warnings": [],
+        "source_line_range": [
+          16,
+          48
+        ],
+        "exact_source_quote": "               Beschreibung.                       Em-, in der Regel zweijahrige Pflanze mit spindel- oder rubenformiger, oft\n    fast   kugelig verdickter, mehr oder weniger aus der Erde hervorragender, weisser, gelber oder rother,\n\n    auch concentrisch verschieden gefarbter Wurzel, die einen einzigen, aufrechten,                                               tief gefurchten, glatten,\n\n                      — 1V Meter hohen Stengel\n                                                    *\n\n\n\n\n    astigen,    */\n                 2               2\n                                                                        treibt.    Wurzelblatter grasgrlin,               glanzend,          herzeiformig,   am\n    Grande schwach herzformig, stumpf, ganzrandig, meist wellig,\n                            -\n                                                                                                           oft      30 Ctm. lang, 7           — 14 Ctm.    breit,\n\n    langgestielt      ;    Stengelblatter langlich bis lanzettlich.                        Bliithenzweige abstehend, fast rutlienformig.                     Die\n                                               *\n\n\n\n\n    zwitterigen, griinlichen Bliithen in langen, geknauelten Aehren.                                       Bluthenknauelehen in der Achsel der\n    deckblattartigen Stengelblatter,                        aus 2     — 3 am Grande mit einander verwaclisenen Bliithen zusammen-\n    gesetzt.    Das napfformige,                   5spaltige, fleischige Perigori                am Grande mit dem halbunterstandigen Fracht-\n    knoten verwachsen, mit langlich- lineal en, oben einwarts gebogenen Luppen.                                              Staubgefasse zn          5,   einem\n    fleischigen,          den        einfacherigen         Fruchtknoten umgebenden Binge                   eingefiigt,      mit auf     »\n                                                                                                                                              dem Riicken    an-\n    gehefteten, mit Langsspalten                         sicli   offnenden Beuteln.            Narben 2   —    3,    eiformig.      Frucbt niedergedriickt\n    kugelig,    dem Perigon angewachsen und mit diesem und zwar                                            in       ganzen Knaueln abfallend.              Same\n    horizontal, mit ringformigem Keimling."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 150,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "野生種產於南歐、非洲及中亞沿海。各地作為食物及製糖原料廣泛栽培。",
+        "warnings": [],
+        "source_line_range": [
+          11,
+          15
+        ],
+        "exact_source_quote": "                                                                                                           Mittelasien etc. ein-\n             Verbreitung.                 Die wilde Form           an den Kiisten Siideuropas, Afrikas, in\n\nheimisch; bei uns in verscliiedenen Spielarten                                als   Nahrpflanze und            zum Zwecke der Zuckerfabrikation\nim Grosses, kultivirt."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 150,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源於古日耳曼語，指粗大根莖。古希臘羅馬時期已知，用於食物及藥用。",
+        "warnings": [],
+        "source_line_range": [
+          17,
+          52
+        ],
+        "exact_source_quote": "             Name und Geschichtliches.                                Der Name Runkel, Runkelrube (althochdeutsch beizcol,\n\nbiz-hrut, bilza,                                                                                                               Kraut\nbairische Rubbe, Biibenmangolt , bei Bock: Gartenmangold, Rungelsen, bei Brunschwig: Mangolt,\n\n                                                                                    runga,    i. em\nim Hortns sanitatns:   Romisch Kol) soil mit dem  gothischen hruggo, althochdeutsch        d.\n\n\ndicker Stab zum Sttitzen, oder noch wahrscheinlicher mit dem altnordischen hruga zusammenballen\n\n(hruga,      hryga          die Riesin,        hrungnir ein Riese) wegen der grossen dicken Wurzeln, verwandt sem.\nMangold, Mangolt hat verschiedene Deutungen; so wird                                            es    abgeleitet          von Mann und hold oder heil\n                                                                                                 Mem\n                                                                                                        Managold, Manigold\nder aus      dem Deutschen stammenden italienischen und spanischen Bezeichnung fur Henker: manigoldo,                                     *\n\n\n\n\nderen Beziehung zu unserer Pflanze allerdings unklar                                     ist.        Der Name Rube (althochdeutsch ruoba)\nsoil   mit   dem nordischen rofa,                 litauisch rope, slavisch repa, lateinisch                      rapum (rapa), griechisch {iartvg\n(qacpvg)     urverwandt und               einem gemeinsamen Stammworte entlehnt                                  sein.        Beta            ist   angeblich   dem\nkeltischen bett             = roth (auf die Art mit rother Wurzel bezogen) entsprungen, wird auch aus dem\nlateinischen meta,              eine kreiselformige             Erhohung, mit Beziehung auf                          die spindelformige               Wurzel, ab-\ngeleitet;    Andere beziehen               es    wegen der Aehnlichkeit der fruchtenden Pflanze mit diesem Buchstaben\nauf das griechische             /?.\n\n\n             Die Runkelrube, welche den Alten bereits in mehreren Varietaten bekannt war, ist schon in\nfriiheren Zeiten             sowohl      als    Nahrungsmittel               als    auch arzneilich benutzt worden.                            Beta vulgaris     ist\n\nTevvlog des Theophrast, Tevrlov ayqcov v. lei^itoviov des Dioscorides, Beta sylvestris des Plinius.\nTevrhov (rewXog) f^ielav                  des    Theophrast, Tevrlov                    v.   getIov (xelav des Dioscorides,                            Beta genus\nnigrum des Plinius bezieht sich nach Fraas auf die kultivirte rothe Rube.\n"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 151,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "根含蔗糖、蛋白質、果膠、甜菜鹼（Betain）。葉含草酸。含黃色及紅色色素。",
+        "warnings": [],
+        "source_line_range": [
+          25,
+          42
+        ],
+        "exact_source_quote": "             Bestandtheile.                          Die Wurzel          enthalt           nach    Braconnot                        10   — 18°/         Rohrzucker,                          Eiweiss,\n\nPektin, Schleim, Fett,                   Wachs und nach Michaelis Citronensaure (nicht Apfelsaure). nach Rossignon\n2   — 3°/ Asparagin, nach Schiibler ein Alkaloid: Betain (welches sich spater mit dem Liebreich'schen\nOxyneurin als gleichbedeutend erwiesen hat); nach Mehay ferner noch Oxalsaure.                                                                                          Letzterer fand in\n\nden Blattern          1   —   2°/    krystallinischen              und amorphen Zucker und                               */\n                                                                                                                              2\n                                                                                                                                  — 2°/ Oxalsaure.                              In den unreifen\nRuben ist Tricarballylsaure und Aconitsaure nachgewiesen worden.                                                                               Ausserdem hat Meier zwei\neigenthiimliche Farbstoffe                          gefunden, einen gelben:                   Xanthobetinsaure und einen rothen: Erythro-\nbetinsaure.               Der bei der Zuckergewinnung in storender Weise sich bildende Rubengummi ist nach\nScheibler ein Pflanzenprotagon mit Mannit, nach Cienkonzky eine Varietat von Ascococcus Bilrothii,\nnach Bunge Dextran (C 6 H 10 O 5 ).                               Die frischen Ruben enthalten 0,5                                — 3°/    ,    die Blatter 14°/                        und mehr,\ndie   Samen 4        — 6°/ Asche.                    Betain, mit der Formel C 5                   H u ON     2   ,   bildet grosse,                glanzende, an der Luft\n\nzerfliessende,         in     Wasser und Alkohol                        leicht       losliche     Krystalle,                 von kiihlend siisslichem Geschmack,\nohne Geruch und ohne alkalische Reaktion, mit Sauren Salze liefernd."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 152,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史用途：根作飼料及蔬菜。葉外敷消炎。糖粉曾用於治療角膜斑點、口腔潰瘍及喉炎。",
+        "warnings": [
+          "Content describes historical medical applications; not modern medical advice."
+        ],
+        "source_line_range": [
+          1,
+          16
+        ],
+        "exact_source_quote": "                                                                                              :\n\n\n\n\nschmerzen        etc.    als   ktihlendes       Mittel.   Der Zucker dient zur Versiissung der Mixturen.                                    Nach    der\n\nphysiologischen           Wirknng     ist       die   Anwendung         als   ausseres Reizmittel bei Hornhautflecken (in Pulver-\n\nform eingeblasen) und aphtosen Geschwiiren im Munde nicht unangemessen.                                                Auch gegen Caro luxurians\nund gegen Stockschnupfen wird Zuckerpulver verwendet,                                 desgleichen bei                  chronischer Laryngitis und\n\nbei Kehlkopfsgeschwuren, sowie bei Pannus der Augenbindehaut.       kommt er am meisten als                Innerlich\n\nExpektorans zur Linderung von Hustenreiz und Lockerung des Auswurfs in Frage.\" (Husemann,\nArzneimittell.          343 ff.)    Aus der Melasse wird durch Gahrung nnd Destination Rum gewonnen."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "647243adb483fa1a66f259bbb907991591e0146e33af4d40bade453f33fbe17e"
+}

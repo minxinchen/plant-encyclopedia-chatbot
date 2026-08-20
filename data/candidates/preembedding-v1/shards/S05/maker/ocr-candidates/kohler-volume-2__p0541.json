@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 541,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "d24361349bcf0bd596e5e354e1180b59dd62e19ef7e2e1bc9c6ca13a743b88b1",
+  "render_dpi": 144,
+  "render_sha256": "9d9f305bf61b7ae6e24dd4126dee3c0b7ca90907563a3414d7369af8191e4be5",
+  "input_sha256": "9d9f305bf61b7ae6e24dd4126dee3c0b7ca90907563a3414d7369af8191e4be5",
+  "render_pixel_width": 5510,
+  "render_pixel_height": 7970,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 1.989,
+  "embedded_character_count": 46,
+  "ocr_character_count": 55,
+  "ocr_alpha_ratio": 0.8,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.023325026981414365,
+      "text": "Liliaceae. (Smilaceae.)",
+      "width": 0.2478991471540979,
+      "x": 0.6995798380300938,
+      "y": 0.9171511632134101
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.020377676638345887,
+      "text": "Smilax medica Schlecht. et Cham",
+      "width": 0.37184872073114683,
+      "x": 0.31722690258085506,
+      "y": 0.11627906986512071
+    }
+  ],
+  "text": "Liliaceae. (Smilaceae.)\nSmilax medica Schlecht. et Cham",
+  "output_sha256": "cae5d7bc23a4da6e803bd476a840a11f0553aadf0a24839eeef1afd7a5afb511",
+  "receipt_sha256": "e10df473b24449fdec0ba7d157e7217ac6c86580154f8e82e7a8f64757b6003c"
+}

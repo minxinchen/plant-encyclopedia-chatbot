@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 517,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "d4f1b7ca6178797d51145f83326d1207bd8bd09d6cb4f695d9b6143a791764ba",
+  "render_dpi": 144,
+  "render_sha256": "5c2492e56777dee57cd48b6a9dd3b888e1c3439f97e52c3dffba23cf754076ce",
+  "input_sha256": "5c2492e56777dee57cd48b6a9dd3b888e1c3439f97e52c3dffba23cf754076ce",
+  "engine": "Apple Vision VNRecognizeTextRequest accurate",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-ocr-sha256=e54202ae838c94203816fd3331f4c37f7acac436188d481eab506c540c3d66d6",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 13.58,
+  "embedded_character_count": 113,
+  "ocr_character_count": 39,
+  "ocr_alpha_ratio": 0.8718,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01889534791310621,
+      "text": "Gentianaceae.",
+      "width": 0.14016735630430777,
+      "x": 0.6715481193635365,
+      "y": 0.908430233256383
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "A",
+      "width": 0.012552300890144696,
+      "x": 0.5962343097013713,
+      "y": 0.23255813974623984
+    },
+    {
+      "confidence": 1,
+      "height": 0.023342330304403247,
+      "text": "Menyanthes trifoliata L",
+      "width": 0.26778241171847084,
+      "x": 0.3912133974043629,
+      "y": 0.1366279073413169
+    }
+  ],
+  "text": "Gentianaceae.\nA\nMenyanthes trifoliata L",
+  "output_sha256": "b0053a087f0f883aee398d412a93d7c7de2a50e62281b33ccf243df47d8407fd",
+  "receipt_sha256": "3c06f850a381a2d127b61875b8ba8878951f874a61d60be740e14bda51adac6a"
+}

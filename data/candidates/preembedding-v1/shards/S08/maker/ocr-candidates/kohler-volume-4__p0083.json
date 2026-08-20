@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-4",
+  "volume": 4,
+  "pdf_page": 83,
+  "owner_shard": "S08",
+  "source_pdf": "/Volumes/NO NAME/第四集 mobot31753003431696.pdf",
+  "source_text_sha256": "aca03a230d92b844d071aab5656b1a1b83930d1fe21e34e8783307f24484bae6",
+  "render_dpi": 144,
+  "render_sha256": "c24c350c8401157ea151b02b65f612f2c44b982cf1c118e01b8afd5474be5546",
+  "input_sha256": "c24c350c8401157ea151b02b65f612f2c44b982cf1c118e01b8afd5474be5546",
+  "render_pixel_width": 5768,
+  "render_pixel_height": 8594,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 6.367,
+  "embedded_character_count": 115,
+  "ocr_character_count": 50,
+  "ocr_alpha_ratio": 0.78,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.020360372369251478,
+      "text": "Tafel 35",
+      "width": 0.06060606060606061,
+      "x": 0.030303030519480526,
+      "y": 0.9578373018668875
+    },
+    {
+      "confidence": 1,
+      "height": 0.027943179720923972,
+      "text": "Polygonaceae",
+      "width": 0.11959041530611947,
+      "x": 0.8090049858341134,
+      "y": 0.9396964413507003
+    },
+    {
+      "confidence": 1,
+      "height": 0.018912652182200618,
+      "text": "Coccoloba trifera (L. Jacqu.",
+      "width": 0.2878787878787879,
+      "x": 0.33549783789682536,
+      "y": 0.013081395871450852
+    }
+  ],
+  "text": "Tafel 35\nPolygonaceae\nCoccoloba trifera (L. Jacqu.",
+  "output_sha256": "dcfc226223a1095a9cd109609e2dd201a9ab6a192444fd152457ff7349e98660",
+  "receipt_sha256": "0c024dd7d19aab5bc013ed0c8a7562b998ffbf133c76439935737785d4778f2a"
+}

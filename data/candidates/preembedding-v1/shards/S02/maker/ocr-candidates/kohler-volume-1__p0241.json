@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 241,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "6c1beaaf8cf4804c2f55ec74acbdb9ee1ae8f923a2750dfdd499b6984f581564",
+  "render_dpi": 144,
+  "render_sha256": "b7e5236113383eb95f0b65b26ec6ecf2c1ed3ffd66cd463e3145ab61b9211303",
+  "input_sha256": "b7e5236113383eb95f0b65b26ec6ecf2c1ed3ffd66cd463e3145ab61b9211303",
+  "engine": "Apple Vision VNRecognizeTextRequest accurate",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-ocr-sha256=e54202ae838c94203816fd3331f4c37f7acac436188d481eab506c540c3d66d6",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 146.104,
+  "embedded_character_count": 98,
+  "ocr_character_count": 26,
+  "ocr_alpha_ratio": 0.8846,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.019351431301661837,
+      "text": "Juglandeae",
+      "width": 0.12129103275767539,
+      "x": 0.8151245053666342,
+      "y": 0.9241905634289077
+    },
+    {
+      "confidence": 1,
+      "height": 0.01909722222222221,
+      "text": "Juglans regia b",
+      "width": 0.18069815652412274,
+      "x": 0.42094455510549517,
+      "y": 0.0478670632524536
+    }
+  ],
+  "text": "Juglandeae\nJuglans regia b",
+  "output_sha256": "10a7a0168babd010f797d3370edad0df63427c9190a7437c93142c1de0bd33b7",
+  "receipt_sha256": "1d6ef4bbb9b20b84470a7775e23d58fdf380a930d75a30f8f866459a6dad3e70"
+}

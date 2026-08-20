@@ -1,0 +1,290 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0461-p0464",
+  "entry_id": "kohler-volume-2:p0461-p0464",
+  "owner_shard": "S04",
+  "book_taxon": {
+    "scientific_name": "Croton Tiglium",
+    "authorship": null,
+    "aliases": [
+      "Tiglium officinale Klotzsch",
+      "Croton Jamalgota Hamilt.",
+      "Croton Pavana Hamilt.",
+      "Purgir-Kroton",
+      "Graine de Tilly ou de Moluques",
+      "Croton"
+    ]
+  },
+  "display_name": "巴豆",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Croton Tiglium",
+      "Croton tiglium"
+    ],
+    "accepted_scientific_name": "Croton tiglium",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T19:58:14+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Croton+Tiglium",
+        "query_name": "Croton Tiglium",
+        "retrieved_at": "2026-08-13T19:58:14+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0002612",
+        "query_name": "Croton Tiglium",
+        "retrieved_at": "2026-08-13T19:58:14+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0002612",
+        "query_name": "Croton Tiglium",
+        "retrieved_at": "2026-08-13T19:58:14+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Croton+tiglium",
+        "query_name": "Croton tiglium",
+        "retrieved_at": "2026-08-13T19:58:14+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0053186",
+        "query_name": "Croton tiglium",
+        "retrieved_at": "2026-08-13T19:58:14+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0053186",
+        "query_name": "Croton tiglium",
+        "retrieved_at": "2026-08-13T19:58:14+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL accepts the queried book binomial at species rank."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 461,
+      "evidence_type": "text",
+      "page_text_sha256": "d3ea03c61c9de39a1f4914ba2da213673cbc707f2f571ca7846193113146ba69",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 462,
+      "evidence_type": "text",
+      "page_text_sha256": "e4de05428f4244dd0774e97e6b1304b07730a7575b01e24ccb9632d03c59399e",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 463,
+      "evidence_type": "text",
+      "page_text_sha256": "ba68f20f58516a507ae0bd84b9c430bafc419dfe5a4ebda38e81440d30a35931",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0461-p0464:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                              Croton Tiglium L.\n          Syn. Tiglium officinale Klotzsch.             - Croton Jamalgota Hamilt.           (nach Flückiger).\n                                     Croton Pavana Hamilt.            (nach Karsten).\n\n                      Purgir-Kroton —         Graine de Tilly ou de Moluques —                  Croton.\n\n            Familie: Ewphorbiaceae (Unterfamilie:                  Crotoneae); Gattung: Croton (L.) Müller Arg.",
+      "normalized_text": null,
+      "zh_tw_rendering": "大戟科，Croton 屬。異名包括 Tiglium officinale 及 Croton Jamalgota。俗名 Purgir-Kroton。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 461,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 478,
+        "page_text_sha256": "d3ea03c61c9de39a1f4914ba2da213673cbc707f2f571ca7846193113146ba69",
+        "exact_text_sha256": "111e8ac0d50522ccbd9ff925b9acc8baf0b4e78de77a60e0b4aed643f2d137c7",
+        "source_line_start": 1,
+        "source_line_end": 7,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "111e8ac0d50522ccbd9ff925b9acc8baf0b4e78de77a60e0b4aed643f2d137c7",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0461-p0464:s01:x00",
+      "section_type": "description",
+      "original_text": "            Beschreibung.        Ein      bis 6 Meter   hoher,     krummer   Baum     oder Strauch,     welcher   oft schon\nvom Grunde aus schlanke, kahle Aeste treibt und mit einer dünnen, aschgrauen Rinde bedeckt ist. Die\nstielrunden, grünlichgrauen Zweige sind mit kleinen Korkwarzen und halbkreisrunden Blattnarben aus-\ngestattet; die jungen Zweige zerstreut sternhaarig. Blätter zerstreut, abstehend, ziemlich lang gestielt,\naus der Basis fingerfórmig 3—®dnervig, sternhaarig, später kahl, 8—16 Ctm. lang, 4—7 Ctm. breit,\neiförmig, zugespitzt, am stumpfen bis abgerundeten Grunde beiderseits mit einer rundlichen Drüse besetzt,\nder Rand mehr oder weniger kerbig gesägt oder auch ganz, mit ungefähr 3 Mm. langen, pfriemen-\nförmigen, abstehenden oder etwas zurückgehogenen, bald abfallenden Nebenblättern. Blüthentrauben\ngipfelstándig, vielblüthig, einfach oder am Grunde dann und wann mit einem Aestchen ausgestattet,\nim   unteren    Theile   der Aehre     die weiblichen   Blüthen,     im oberen    die männlichen,      mit lanzett-pfriem-",
+      "normalized_text": null,
+      "zh_tw_rendering": "高至 6 米之樹或灌木，枝條星狀毛。葉卵形，長 8-16 公分，具腺體。花序頂生，雌雄同株。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 461,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 480,
+        "char_end": 1524,
+        "page_text_sha256": "d3ea03c61c9de39a1f4914ba2da213673cbc707f2f571ca7846193113146ba69",
+        "exact_text_sha256": "3a7ac54d2ead6893542d0e7907206ad9ae1810f0bab5c49a09749274711c213e",
+        "source_line_start": 9,
+        "source_line_end": 18,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "3a7ac54d2ead6893542d0e7907206ad9ae1810f0bab5c49a09749274711c213e",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0461-p0464:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "             Anatomisches            .\n                                               ge  rt er     St ei nz el le n     zu sa  mm  en  ge se tz t,        di e   mi t    fa st   ve  rh ol zt  en ,     br äu nl ic he n,   .\n  radial gestellter, sehr            ve  rl än\n                                            et     si nd ;   di e   in ne re     Sa  me  nh  au  t    ze ig t   ei n   se hr    za rt es ,   ve  rw or  re ne  s   Pa  re  nc  hy m\n  porösen Wänden ausges              ta  tt\n                                   el ch  en     fe in er    ab ro ll ba re r     Sp ir  al ge fä ss e.       Di e    dü nn  e    Ob  er  ha ut      de s   Sa  me ns     be st eh t\n. mit verzwe    ig te n    Bü  nd\n                             La  ge     au s   kl  ei ne n    ec ki ge n,     we  ni g    di  ck  wa nd ig  en     pa  re  nc hy  ma  ti  sc he  n    Ze  ll en ;   di e   in ne re ,\n  in ihre r  äu  ss er en\n                                  e  Sc  hi  ch t   au s   de rb en ,    ku rz     fa de  nf ór  mi ge n,      ve rf il zt en   Ze ll  en   mi t   po  rö se  n   Wa nd  un  ge  n.",
+      "normalized_text": null,
+      "zh_tw_rendering": "種皮由緊密石細胞組成。胚乳含脂肪油及蛋白質。內含草酸鈣晶體。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 462,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2682,
+        "char_end": 3778,
+        "page_text_sha256": "e4de05428f4244dd0774e97e6b1304b07730a7575b01e24ccb9632d03c59399e",
+        "exact_text_sha256": "2fd55826709f04d21fdb654989f447d3326f95366c977aa8bc6894f98e12a238",
+        "source_line_start": 23,
+        "source_line_end": 32,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "2fd55826709f04d21fdb654989f447d3326f95366c977aa8bc6894f98e12a238",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0461-p0464:s03:x00",
+      "section_type": "distribution",
+      "original_text": "                   Vorkommen.                     Im südlichen Ostindien (Malabar, Ceylon, Amboina und den Philippinen) ein-\n                      durch ganz            Ostindien,         Ceylon, Cochinchina                  und China, auf den Sundainseln,                             Philippinen            und\n   heimisch;\n    Mauritius der Samengewinnung halber kultivirt.\n",
+      "normalized_text": null,
+      "zh_tw_rendering": "原產南東印度（馬拉巴、錫蘭、安汶及菲律賓），現廣布東印度、中國及蘇門答臘等地。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 462,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 4914,
+        "char_end": 5290,
+        "page_text_sha256": "e4de05428f4244dd0774e97e6b1304b07730a7575b01e24ccb9632d03c59399e",
+        "exact_text_sha256": "dab4f2d7c1e2cff7a7e9ddf366cc8a62fd43b43778608872d7934de42f3a1ff7",
+        "source_line_start": 46,
+        "source_line_end": 50,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "dab4f2d7c1e2cff7a7e9ddf366cc8a62fd43b43778608872d7934de42f3a1ff7",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0461-p0464:s04:x00",
+      "section_type": "constituents",
+      "original_text": "       ` Bestandth eil e. Die Sam en  bes teh en    nac h   Nim  mo     aus    64% , Ker n   und     36   %,  Scha le.\n Brandes fand in den Kernen Spuren eine s flü cht ige n  Oel es, 17 %/o  fett es Oel mit   Cro ton säu re   und  Cro -\n tonin, 0.32 0/, erotonsaure             Salze und Farbstoff,            1.0 0/, braungelbes, in Aether unlósliches Harz, 0.65%,\n Stearin und Wachs, 2.0 5 9/,  Ext rak tiv sto ff,     Zuc ker , üpf els aur es  Kal i  und    Kal k,  5.7 1%,   Stä rke  mit\n phosphorsaurem Kalk und  Mag nes ia,    10. 17    9/,  Gum  mi  etc,    1.0 1  Y,  Eiw eis s,   2.0  Y,  Glu ten ,   39. 0%\n- Samenschale        und Holzfaser, 22.5 o               Wasser.      Das Crotonin von Brandes                   ist nach Weppen              fettsaure",
+      "normalized_text": null,
+      "zh_tw_rendering": "種子含 64% 胚乳與 36% 種皮。成分包括脂肪油、Crotonin、樹脂、澱粉及蛋白質。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 463,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 813,
+        "char_end": 1582,
+        "page_text_sha256": "ba68f20f58516a507ae0bd84b9c430bafc419dfe5a4ebda38e81440d30a35931",
+        "exact_text_sha256": "51387fbe434377d95e47d6279ce0c34b80142dfddea1b730edf2d6f6fc5f4ca2",
+        "source_line_start": 10,
+        "source_line_end": 15,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "51387fbe434377d95e47d6279ce0c34b80142dfddea1b730edf2d6f6fc5f4ca2",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0461-p0464:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "           Anwendung.               Früher in Substa nz, jet zt nur noc h das dar aus gew onn ene Oel als Dra sti cum .\n                           je nach der Grósse              der Gabe        drastisch,     schleimhautentzündend,              sogar     tödlich.      Ein-\n   Letzteres wirkt\n   reibungen auf den Unterleib sol len hef tig es Lax ire n, sog ar blu tig e Stü hle her vor bri nge n.\n                Das weissliche, leichte Holz, welches                     einen ähnlichen         Geschmack        wie die Samen           besitzt,    soll\n\n   auch ähnliche Wirkung äussern. Beide, sow        ohl    Sam   en   als   Hol z,    wer den    in   Ind  ien   als  Fis chb etä  ubu ngs  -\n   mittel verwendet. Die Wurzel braucht man           auf  Amb   oin a    geg  en    Was ser suc ht.        Sel bst   die  Blä tte r  sol len\n    purgirend wirken, und wer    den in  der  Hei mat h    geg en    Sch lan  gen bis  s   ang ewe  nde   t.",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史上用作強效瀉藥。印度用作魚毒。根治水腫，葉治蛇咬。具強烈刺激性。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 463,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 4154,
+        "char_end": 5102,
+        "page_text_sha256": "ba68f20f58516a507ae0bd84b9c430bafc419dfe5a4ebda38e81440d30a35931",
+        "exact_text_sha256": "29eef4d888484ca7e298f30b0b878114c476bd13b7ca09b6fe8b3cc88a974bdb",
+        "source_line_start": 39,
+        "source_line_end": 47,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "29eef4d888484ca7e298f30b0b878114c476bd13b7ca09b6fe8b3cc88a974bdb",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "6312d8ae57e8833bff37acc6138ca070f2ed2b321be3fd08a4323b756df59e91",
+    "maker_receipt_sha256": "a9b001117d18e8426e0d185c8f1bded38c446e6921ead30848d3df079473ca4c",
+    "validation_check_sha256": "0c49ec88f6f61daff6e6a06773353df6e88147f9aeaaf41588ba9df533b8b653",
+    "source_disposition_sha256": "ddf871b8ad5dca6964220a1368eb5b9f716aa5dc8ca17c9121cf0fe1dcc7df87",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "a9b001117d18e8426e0d185c8f1bded38c446e6921ead30848d3df079473ca4c",
+      "validation_check_sha256": "0c49ec88f6f61daff6e6a06773353df6e88147f9aeaaf41588ba9df533b8b653",
+      "source_disposition_sha256": "ddf871b8ad5dca6964220a1368eb5b9f716aa5dc8ca17c9121cf0fe1dcc7df87"
+    },
+    "naming_artifact_sha256": "0e990668d86ec50fce964997539dd8a8fc70e3b767303e2e2e001c0be23348f3"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "aa9233727081e9c8ec0ca5de269adb9e3b2c5377a5b328cbae3643d3d0e1eb1e"
+}

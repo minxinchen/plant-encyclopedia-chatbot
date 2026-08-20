@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 509,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "fd7a7bafb6dbab1f08d7b4c6a6ff8b27cca40f49d0ed47569fefcbb031ad5645",
+  "input_sha256": "074fd7168c2075ef0ab36a5f7262e69fb21c7ea8e7e6b5d5412c42242b1a63f2",
+  "model": "/Users/user/AI_WORKSTATION/services/chandra-ocr/models/chandra-ocr-2",
+  "engine": "chandra-ocr 0.2.0 / transformers hf / torch mps bf16",
+  "engine_version": "chandra-ocr=0.2.0;model_revision=af93b47dba1b47b6640c86ccf487ed2260ab9a09;transformers=5.15.0;torch=2.13.0;device=mps;dtype=bf16",
+  "elapsed_seconds": 62.437,
+  "page_box": [
+    0,
+    0,
+    7859,
+    10659
+  ],
+  "token_count": 409,
+  "embedded_character_count": 38,
+  "ocr_character_count": 52,
+  "ocr_alpha_ratio": 0.75,
+  "candidate_disposition": "candidate_quality_gain",
+  "staging_disposition": "candidate_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "chunks": [
+    {
+      "bbox": [
+        5980,
+        682,
+        7183,
+        959
+      ],
+      "label": "Text",
+      "content": "<p>Umbelliferae.</p>"
+    },
+    {
+      "bbox": [
+        275,
+        170,
+        7701,
+        9774
+      ],
+      "label": "Image",
+      "content": "<img alt=\"Botanical illustration of Oenanthe Phellandrium Lamarck, showing the whole plant and detailed views of its reproductive and vegetative parts.\"/><p>This botanical illustration depicts the plant <i>Oenanthe Phellandrium</i> Lamarck. The central figure shows the entire plant, including its thick, segmented rootstock (labeled A) with a dense fibrous root system, and its upright, hollow stem (labeled B) with deeply lobed, pinnate leaves. The stem terminates in several compound umbels of small, white flowers. Surrounding the main plant are detailed drawings of its reproductive and vegetative structures, numbered 1 through 11. Figures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, and 11 illustrate various stages of flower development, including buds, open flowers, and mature fruits (schizocarps) with their characteristic winged seeds (samaras). Figure 11 is a longitudinal section of a fruit, showing the internal structure. Figure 7 is a cross-section of a fruit, revealing the arrangement of seeds. The artist's initials 'WM.' are visible in the bottom right corner.</p>"
+    },
+    {
+      "bbox": [
+        2365,
+        9539,
+        5281,
+        9827
+      ],
+      "label": "Caption",
+      "content": "<p><i>Oenanthe Phellandrium</i> Lamarck.</p>"
+    },
+    {
+      "bbox": [
+        7057,
+        10403,
+        7261,
+        10563
+      ],
+      "label": "Page-Footer",
+      "content": "<p>85.</p>"
+    }
+  ],
+  "markdown": "Umbelliferae.\n\n*Oenanthe Phellandrium* Lamarck.\n\n85.",
+  "raw_html": "<div data-bbox=\"761 64 914 90\" data-label=\"Text\"><p>Umbelliferae.</p></div><div data-bbox=\"35 16 980 917\" data-label=\"Image\"><img alt=\"Botanical illustration of Oenanthe Phellandrium Lamarck, showing the whole plant and detailed views of its reproductive and vegetative parts.\"/><p>This botanical illustration depicts the plant <i>Oenanthe Phellandrium</i> Lamarck. The central figure shows the entire plant, including its thick, segmented rootstock (labeled A) with a dense fibrous root system, and its upright, hollow stem (labeled B) with deeply lobed, pinnate leaves. The stem terminates in several compound umbels of small, white flowers. Surrounding the main plant are detailed drawings of its reproductive and vegetative structures, numbered 1 through 11. Figures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, and 11 illustrate various stages of flower development, including buds, open flowers, and mature fruits (schizocarps) with their characteristic winged seeds (samaras). Figure 11 is a longitudinal section of a fruit, showing the internal structure. Figure 7 is a cross-section of a fruit, revealing the arrangement of seeds. The artist's initials 'WM.' are visible in the bottom right corner.</p></div><div data-bbox=\"301 895 672 922\" data-label=\"Caption\"><p><i>Oenanthe Phellandrium</i> Lamarck.</p></div><div data-bbox=\"898 976 924 991\" data-label=\"Page-Footer\"><p>85.</p></div>",
+  "output_sha256": "7d6a6dc6dc5fc388810f326529a7e21107ffd8cffc78aac6d3ca41a263d7f2e0",
+  "error": null,
+  "receipt_sha256": "5c3a86d152a677937dd4947ae578fbdc277fda3b7895cf9734cd9a45321ae7db"
+}

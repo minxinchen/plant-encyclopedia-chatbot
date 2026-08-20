@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0103-p0104",
+  "owner_shard": "S01",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 108.478,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0103-p0104",
+    "book_taxon": {
+      "scientific_name_candidate": "Larix decidua Miller",
+      "authorship_candidate": null,
+      "aliases_candidates": [
+        "Larix DC.",
+        "Larix excelsa Lk.",
+        "Finns Larix L.",
+        "L. sibiria Ledeb.",
+        "L. intermedia Fischer",
+        "L. Ledebourii Rupr.",
+        "Pinus Ledebourii Endl."
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 103,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名Larix decidua，別名Larix excelsa。屬松科，歐洲產。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          8
+        ],
+        "exact_source_quote": "                                           Larix decidua Miller.\n\n   Sy      Larix                     DC.    Larix     excelsa Lk.   Finns Larix L.      A hies                 am\n\n         Gemeine Larche, europaische Larche, Larchentanne                            Larch           Meleze.\n\n\n          Familie:   Coniferae.         Gattung: Larix Lk."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 103,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "高45米，具主根。樹冠金字塔形。嫩皮黃，老皮灰。針葉成束，長22-38毫米，秋季脫落。",
+        "warnings": [],
+        "source_line_range": [
+          9,
+          16
+        ],
+        "exact_source_quote": "          Beschreibung.     Bis 45 Meter holier Baum mit deutlicher Pfahlwurzel und zahlreichen Seiten-\nwurzeln, welche ziemlich tief in den Boden eindringen und pyramidaler, fast horizontalastiger Krone,\nderen feinere Verzweigungen abwarts hangen. Junge Rinde glatt und gelb, braun, altere aussen grau,\ninnen rothbraun, etwas rissig.    Nadeln an den Maitrieben einzeln, an den alteren Trieben zu 30 40             —\n                                                      —\nund mehr gebiischelt, schmal linealisch, 22 38 Mm. lang, stumpflicli, oberseits schmal gekielt, unter-\nseits schwacbkielig oder convex, weich und krautig, hellgnin, beiderseits mit Reihen weisser Piinktchen\n(Spaltoffnungen), im Herbst abfallend und dann kleine Hocker auf der Rinde hinterlassend.       Mannliche"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 103,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分佈於中歐山區，如阿爾卑斯山，海拔900-2300米。經栽培向北向南擴散。",
+        "warnings": [],
+        "source_line_range": [
+          52,
+          61
+        ],
+        "exact_source_quote": "          Verbreitung    In den Waldern der Gebirge von Mitteleuropa, namentlich Alpen und Karpathen,\n                         1\n\n                             .\n\n\n\n          —\nvon 900 2300 Meter emporsteigend.      Sie ist durch\" Kultur weit nach Norden und Siiden verbreitet,\nentwickelt ihren schonen Wuchs und ihre vorziiglichen technischen Eigenschaften aber nur im Gebirge."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 103,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源於拉丁語Larix。古羅馬建築師維特魯威提及木材與樹脂。威尼斯松節油名稱源自威尼西亞貿易。",
+        "warnings": [],
+        "source_line_range": [
+          63,
+          78
+        ],
+        "exact_source_quote": "          Name und Geschichtlich.es.        Der Name Larche, althochdeutsch lerbom, lerchboum,\nmittelhochdeutsch larche, lerche, bei Cordus und Bock Lerchenbaiim, bei Fuchs Lorclibaum, ist aus\ndem lateinischen Larix, womit Plinius die Larche bezeichnete, hervorgegangen. Larix soil wegen\ndes, mit dem Fette vergleichbaren Terpenthins aus lardum, laridum (Speck) entsprungen und nach\nDioscorides der gallische Name des Larchenharzes sein.\n         Schon der beriihmte, zu Casars Zeiten lebende, romische Architekt Marcus Vitruvius Pollio\ngedenkt in seinem, 13 v. Chr. verfassten Werke „de architectural des Larchenholzes und prei^t ihr\nhoniggelbes, heilkraftiges Harz. Dioscorides, Plinius und Galenus hatten ebenfalls Kenntni^s von\ndem Larchenterpenthin. Durch letzteren erfahren wir, dass der Name Terpenthin urspriinglich dem\nHarzsafte der Pistacia Terebintlms L. beigelegt war und erst spater auf die Harze der Coniferen tiber-\ntragen wurde.         Wort Terpenthin scheint der persischen Bezeichnung Termentin, Turmentin\nentlehnt zu sein.    Die Bezeichnung venetianischer Terpenthin (Terebinthina veneta) riihrt von\n                                                    —\nJohann Winkler aus Andernacb (1487 1574) her; sie bezieht sich auf die Stadt Venedig, die ur-\nspriinglich der Stapelplatz des Larchenterpeuthins war, von wo aus letzterer in den Handel gebracht\nwurde.    Matthiolus giebt uns eine Beschreibung der Gewinnung des Larchenterpenthins bei Trient."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 104,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含揮發油、松脂酸、松香酸。樹脂含C44H62O4。樹皮含Larixsäure。",
+        "warnings": [],
+        "source_line_range": [
+          33,
+          49
+        ],
+        "exact_source_quote": "          Bestandtheile.           Der      venetianische   Terpenthin    liefert   bei   derungefahr 15,\n                                                                                                Destination\nseltener bis 25°/ atherischen Oeles, welches der Hauptmenge nach bei 157° siedet; ein kleiner Theil geht\nerst gegen 190° iiber.   Das erstere entspricht der Formel Ci Hi 6 (Fltickiger). Das Harz besitzt nach\nMaly die Formel C 44: H 62 4       Die Bestandtheile des frischen Balsames sind nach Unverdorben\n                                    .\n\n\n\n\nfolgende: 2 fliichtige Oele, von denen das eine leicht, das andere weniger leicht destillirbar ist, geringe\nMengen von Bern stein saure, viel Pininsaure und wenig Silvinsaure, indifferentes, in Steinol unlosliches\nHarz, bitteren Extraktivstoff.    Maly halt jedoch die Pinin- und Silvinsaure fur unreine Abietinsaure.\nBerzelius fand in einem alten Balsam atherisches Oel, welches aus 2 Oelen bestand, von denen das\neine in Steinol loslich, das andere in letzterem unloslich war.    Stenhouse hat aus der Larchenrinde\neine krystallisirbare, in Wasser schwer, in Aether leicht losbare Substanz isolirt, die er Larixsdare\n—   Cio Hio O5 (Larixin, Larixinsaure) nannte.   (Husemann, Pflanzenstoff 347, 342.)"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 104,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史用途：樹脂內服製丸或乳劑，外用製膏。木材用於建築及水管。",
+        "warnings": [
+          "Content describes historical medical use; not modern medical advice."
+        ],
+        "source_line_range": [
+          55,
+          60
+        ],
+        "exact_source_quote": "          Anwendung.    Der Larchepterpenthin wird innerlich in Pillenform, in Bissen und als Emulsion\ngegeben, auch ausserlich zu Salben und Pflastern verwendet.      Bei innerlicher Anwendung wird der\nvenetianische Terpenthin den anderen Terpenthinen vorgezogen.                  (Husemann, Arzneimittell. 543.)            Im\nUebrigen siehe Ptnns Pinaster Sol. Der Larchenterpenthin ist ein gewohnlicher Bestandtheil der Lacke\nund Firnisse.  Das Holz der Larche ist als Bauholz und namentlich zu Rohren bei Wasserleitungen\nsehr geschatzt."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "df09d71ec30a744a4444858490d4151b6d1ed37a913cde2b77331891abd93ad8"
+}

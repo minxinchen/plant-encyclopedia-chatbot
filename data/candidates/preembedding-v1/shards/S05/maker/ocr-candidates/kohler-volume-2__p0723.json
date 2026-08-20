@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 723,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "eda86f75c2b11667358153872e372de7a48d2d5acfdb3ddf57884ede24f68f9f",
+  "render_dpi": 144,
+  "render_sha256": "071a61d8d3a0e286cae7f0f010da915a7ceefecd6f896918b395b3878d79296b",
+  "input_sha256": "071a61d8d3a0e286cae7f0f010da915a7ceefecd6f896918b395b3878d79296b",
+  "render_pixel_width": 5798,
+  "render_pixel_height": 7934,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.715,
+  "embedded_character_count": 59,
+  "ocr_character_count": 45,
+  "ocr_alpha_ratio": 0.8,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.019361846030704566,
+      "text": "Zingiberaceae.",
+      "width": 0.15914815542979344,
+      "x": 0.7315591221870034,
+      "y": 0.9154644255830422
+    },
+    {
+      "confidence": 1,
+      "height": 0.02325581368945895,
+      "text": "Alpinia",
+      "width": 0.0815109346097328,
+      "x": 0.3419483107103755,
+      "y": 0.04505813976379769
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372621082103,
+      "text": "officinarum",
+      "width": 0.14512922061832173,
+      "x": 0.4512922495743949,
+      "y": 0.050872092811136804
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01744185932098874,
+      "text": "Напсе.",
+      "width": 0.06163021796755741,
+      "x": 0.6262425443710922,
+      "y": 0.04941860544124976
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "187",
+      "width": 0.03180914559228454,
+      "x": 0.8926441348082315,
+      "y": 0.018895348956721736
+    }
+  ],
+  "text": "Zingiberaceae.\nAlpinia\nofficinarum\nНапсе.\n187",
+  "output_sha256": "1e74e8cec68985e950f5da0c8627020fe796a05803d5d96e2a89ab4d64e76a5f",
+  "receipt_sha256": "c02e74c8805a7103b58008acf5cea131896adc12ec4c09ea2da2f43d5f9ab9f4"
+}

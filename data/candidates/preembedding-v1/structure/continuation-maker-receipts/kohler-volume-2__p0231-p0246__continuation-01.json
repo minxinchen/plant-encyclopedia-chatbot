@@ -1,0 +1,200 @@
+{
+  "schema_version": "1.0",
+  "package_id": "kohler-volume-2:p0231-p0246:continuation-01",
+  "parent_entry_id": "kohler-volume-2:p0231-p0246",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation:kohler-volume-2:p0231-p0246:continuation-01:v1",
+  "owner_shard": "S03",
+  "package_sha256": "8cb775e4b59a2214b5a3b34bafa93e179c0b76978023a63b1a4a56d22f74a15c",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-continuation-line-anchors-v1",
+  "elapsed_seconds": 179.401,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 231,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 0,
+      "char_end": 284,
+      "source_line_start": 1,
+      "source_line_end": 9,
+      "page_text_sha256": "cc70955b8663592dcc59ddd9f07c583870f0d6198224b7dd367fa86e0082e1f5",
+      "exact_text_sha256": "0b5e909cffbb00a7edc77c585d48e448a68a7f0cf43d5422ffa394517f328a54",
+      "section_index": 0,
+      "section_type": "taxonomy"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 231,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 285,
+      "char_end": 2070,
+      "source_line_start": 10,
+      "source_line_end": 27,
+      "page_text_sha256": "cc70955b8663592dcc59ddd9f07c583870f0d6198224b7dd367fa86e0082e1f5",
+      "exact_text_sha256": "177d2d93d42a4dd71509adf88dd6524b29d47f6bac06dd0155ec37c635969fa5",
+      "section_index": 1,
+      "section_type": "description"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 231,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 2071,
+      "char_end": 3469,
+      "source_line_start": 28,
+      "source_line_end": 41,
+      "page_text_sha256": "cc70955b8663592dcc59ddd9f07c583870f0d6198224b7dd367fa86e0082e1f5",
+      "exact_text_sha256": "f091c2ad57cec730575f3e67fbf683bf3ec18f6c6abce3b9e233705678f5ee60",
+      "section_index": 2,
+      "section_type": "anatomy"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 232,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 30,
+      "char_end": 162,
+      "source_line_start": 4,
+      "source_line_end": 5,
+      "page_text_sha256": "571a7ce7158cfce57ddb47c7ae42176933bd5af67ddecc8e0ae3f97b8d8ccdcd",
+      "exact_text_sha256": "aea67fc5c50ae4ac55f983fc1cd4ec2333a2b35c0e39d52484399a2b7561d4a5",
+      "section_index": 3,
+      "section_type": "distribution"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 232,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 164,
+      "char_end": 1623,
+      "source_line_start": 7,
+      "source_line_end": 21,
+      "page_text_sha256": "571a7ce7158cfce57ddb47c7ae42176933bd5af67ddecc8e0ae3f97b8d8ccdcd",
+      "exact_text_sha256": "f2a32ef86860f4434ff7ec8a396c909a5951627733204bc75991f055d520440f",
+      "section_index": 4,
+      "section_type": "history"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 233,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 1840,
+      "char_end": 3068,
+      "source_line_start": 25,
+      "source_line_end": 39,
+      "page_text_sha256": "1519b5f2a84293d02048f2c2b37aab8960859e73453f65a59d11e50db2c36f06",
+      "exact_text_sha256": "f88864819b508e725e8a9bce08f51275f00cd87dbae21873cc02596dc2c9f41c",
+      "section_index": 5,
+      "section_type": "constituents"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-2:p0231-p0246:continuation-01",
+    "parent_entry_id": "kohler-volume-2:p0231-p0246",
+    "book_taxon": {
+      "scientific_name_candidate": "Callitris quadrivalvis",
+      "authorship_candidate": "Ventenat",
+      "aliases_candidates": [
+        "Thuya articulata Vahl",
+        "Frenela Fontanesii Mirb",
+        "Sandarakbaum",
+        "Sandaraque"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 231,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Callitris quadrivalvis Ventenat，同義名 Thuya articulata 及 Frenela Fontanesii。屬柏科 (Oupressineae)，Callitris 屬。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          9
+        ],
+        "exact_source_quote": "                               Callitris quadrivalvis Ventenat.\n\n                       Syn.:     Thuya articulata Vahl.        Frenela Fontanesii Mirb.\n\n\n                                       Sandarakbaum — Sandaraque.\n\n           Familie:    Oupressineae; Gattung: Callitris Vent.\n"
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 231,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "高至 6 米之樹脂豐富樹木，樹冠金字塔形。枝條圓形或羽狀分枝。葉對生、鱗片狀，緊貼枝條，具油腺。老枝葉藍綠色、針狀。",
+        "warnings": [],
+        "source_line_range": [
+          10,
+          27
+        ],
+        "exact_source_quote": "          Beschreibung. Niedriger, bis 6 Meter (nach Flückiger bis 12 Meter) hoher,\n                                                                                       sehr. harz-\n reicher Baum mit pyramidenförmiger, sparrig-ästiger Krone, brauner Rinde und fast\n                                                                                   zimmtbraunem\n Holze.   Aeste zerstreut, rund, gabelartig oder fiederig verästelt; Aestchen         von    den Blättern   dicht be-\n deckt, flach, gegliedert, im trocknen Zustande leicht zerbrechlich.      Blätter kreuzweis, gegenständig,\n schuppenförmig, den Zweigen dicht angedrückt, mit freier Spitze, am Grunde verlänge\n                                                                                            rt, am ganzen\n Glied herablaufend, am Rande schwach wimperig, an den Zweigkanten mit sehr hervortr\n                                                                                            etendem Rücken\n und an der Spitze des Blattes mit einer blasig vorstehenden, länglich-runden, gelblichen Oeld\n                                                                                                   rüse, an\n den flachen Zweigseiten flach, gegen die Spitze verbreitert und mit einer kleinen rundlichen Oeld\n                                                                                                   rüse ver-\nsehen.    Blätter   der älteren Zweige     blaugrün,   nadelförmig,   fast stachelspitzig,   im oberen Theile ab-\nstehend, auf dem convexen Rücken mit einer lineal rundlichen, sehr lang gestreckten Oeldrü\n                                                                                               se oder\nmit mehreren länglich-runden, übereinander stehenden Oeldrüsen bedeckt. Blüthen einháusig. Männ-"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 231,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "花單性。雄花圓柱形，具 4-5 花粉囊。雌花具 4 肉質果瓣，內含種子。果實球形，由 4 木質果瓣組成，成熟時裂開。種子具翅。",
+        "warnings": [],
+        "source_line_range": [
+          28,
+          41
+        ],
+        "exact_source_quote": "liche Blüthen an kurzen Zweigen, endständig, oblong-cylindrisch, 4—4'/, Mm. lang, mit kreuzwei\n                                                                                                      s\ngestellten, locker dachziegeligen, häutigen, fast kreisrunden Staubblüttern, die mit dickem, horizontal\nabstehendem Stiele und 4 bis 5 fast kugeligen Pollensücken versehen sind. Weibliche Blüthen-\nzapfen endstündig, an kurzen Zweigen, aufrecht, durch Brakteen gestützt, mit 4 fast quirlständigen,\nfleischigen,   stumpfen,   oberseits   schwach   hóckerigen Fruchtblüttern,    von   denen   2 derselben    und zwar\ndie beiden inneren und oberen eine geringere Breite besitzen und am Grunde eine Samenknospe tragen\noder steril sind, die beiden äusseren und breiteren hingegen je 2一8 Samenknospen entwickeln. Samen-\nknospen oval, mit griffelartig aufgesetztem Keimmund, beiderseits geflügelt. Zapfen 12 bis 14 Mm. im\nDurchmesser, rundlich-vierseitig, fast kugelig, aus 4 holzig-lederartigen, klappig sich berührenden Frucht-\nschuppen zusammengesetzt; die beiden äusseren und breiteren Fruchtschuppen fast herzfórmig, stumpf\ngespitzt, mit einer Furche am unteren Theile des Rückens, die beiden inneren und schmüleren oblong,\nmit einem kurzen, spitzen Höcker. Fruchtzapfen bei der Reife klappig aufspringend. Der längliche\nSame beiderseits breit geflügelt mit ovalen Oeldrüsen. Embryo mit 4 Keimblättern."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 232,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "產於阿爾及利亞、阿特拉斯山脈及其他西北非山區，分布範圍延伸至加特 (Ghat) 與賈奈特 (Djanet) 的綠洲。",
+        "warnings": [],
+        "source_line_range": [
+          4,
+          5
+        ],
+        "exact_source_quote": "         Vorkommen. In Algerien, auf dem Atlas und den übrigen nordwestafrikanischen Gebirgen;\nbis zu den Oasen von Ghat und Djanet."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 232,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源自阿拉伯語，意指紅色或具療效。古希臘羅馬時期用於工藝，其氣味似檸檬。中世紀用於製漆，12 世紀已有記載。",
+        "warnings": [],
+        "source_line_range": [
+          7,
+          21
+        ],
+        "exact_source_quote": "         Name und Geschichtliches.          Der Name Sandarak (arabisch el Arar, bei Aristoteles\noavdagaun) ist gebildet aus vavdv&, Mennig und «xq, Schärfe oder &xeouaı heilen; er würde demnach\neinen rothen, scharfen oder heilkräftigen Körper bezeichnen. Callitris von «dAÀog, Schönheit und Tots,\ndreimal,    bezogen   auf das äussere Ansehen   des Baumes   und die Wirtelstellung   seiner Blätter;   quadri-\nvalvis von quatuor, vier und valvae, Klappen, wegen der 4 klappigen Früchte.\n          Das wohlriechende und schön gemaserte Coniferenholz spielte im Alterthume in der Kunst-\ntischlerei eine grosse Rolle und glaubt man in dem Kedeog und Citrus der Alten das Holz des\nSandarakbaumes verstehen zu müssen. @vsov des Homer ist aller Wahrscheinlichkeit nach Callitris;\nebenso Ova, Juve, Ate des Theophrast, welcher bemerkt, dass dieser Baum in der Nähe des Jupiter\nAmmon-Tempels wachse, woraus hervorgeht, dass das Verbreitungsgebiet in früheren Zeiten sich über\nganz Nordafrika erstreckte. Aus dem Holze der Callitris (Citrusholz) wurden zu jener Zeit Kästen\nhergestellt, welche, wegen des Geruches, sich zur Aufbewahrung von Wollenstoffen gegen Mottenfrass\neigneten.                       i                                               ;                              ;\n         Die Aehnlichkeit des Geruchs des Callitrisholzes mit demjenigen der erst später nach Italien\ngebrachten Citronen war die Ursache der Benennung des Citronenbaumes mit Citrus."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 233,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含三種酸性樹脂及少量揮發油。伽瑪樹脂為白色粉末。Alpha 與 Beta 樹脂可藉酒精分離。屬萜烯樹脂類，化學式 (C19H29O)2 + 30。",
+        "warnings": [],
+        "source_line_range": [
+          25,
+          39
+        ],
+        "exact_source_quote": "         Bestandtheile. Nach Unverdorben besteht Sandarak aus einem\n                                                                               Gemenge von 3 Harzen,\nwelche nach Johnston saurer Natur sind; ausserdem ist wenig äthe\n                                                                        risches Oel vorhanden.      Das\nGammaharz (Giese's Sandaracim), welches aus der weingeistigen Lósung\n                                                                        durch Kali gefállt wird, bildet,\naus dieser Kalilósung durch Salzsüure abgeschieden, ein weisses, schwer\n                                                                        schmelzbares Pulver. Alpha-\nund Betaharz lassen sich durch 609/, Weingeist trennen, indem das erstere ra\n                                                                             scher gelöst wird; Alpha-\nharz löst sich in Terpenthinöl, Betaharz nicht. Die bis jetzt noch wenig un\n                                                                              tersuchten Bestandtheile\ndes Sandaraks gehören nach Hlasiwetz zu den Terpenharzen von der\n                                                                            Formel (Cı, H,, 0)? + 30\n= (Czo Hs, 0,) OH,."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "6a47528fb3ad1a5c809b75c782461b254d822c87ac5ce9fc08d70de8d7d50001"
+}

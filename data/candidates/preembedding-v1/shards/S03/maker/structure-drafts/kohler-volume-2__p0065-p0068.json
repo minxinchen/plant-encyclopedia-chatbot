@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0065-p0068",
+  "owner_shard": "S03",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 132.456,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0065-p0068",
+    "book_taxon": {
+      "scientific_name_candidate": "Triticum vulgare",
+      "authorship_candidate": "L.",
+      "aliases_candidates": [
+        "Weizen",
+        "Froment",
+        "Bled",
+        "Wheat",
+        "Triticum Spelta",
+        "Triticum turgidum",
+        "Triticum compositum"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 65,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "禾本科小麥屬，一年或二年生，莖直立光滑，葉帶狀。穗長至10公分，四稜形。分為有芒與無芒、冬麥與春麥等變種。",
+        "warnings": [],
+        "source_line_range": [
+          5,
+          24
+        ],
+        "exact_source_quote": "   8     Familie:    Gramineae.    Gattung:     Triticum L.\n\n          Beschreibung. Der ein- oder zweijährige Wurzelstock treibt einen oder einige meterhohe,\nstielrunde, aufrechte, glatte, zartgestreifte Halme, die locker mit langen, bandförmigen, lebhaft grünen,\nspitzen Blättern besetzt sind. Blattscheiden gestreift, ziemlich lang, jedoch den folgenden Knoten\nmeistentheils nicht erreichend; Blatthäutchen   kurz, stumpf, an   den Seiten mit zarten, halmumfassenden\nAehrchen. Aehre bis 10 und mehr Ctm. lang, deutlich vierkantig, mit zäher, nicht zerfallender Spindel,\ngipfelstándig. Aehrchen meist vierblüthig, wechselständig, sitzend, die 2 一 3 unteren Blüthen fruchtbar.\nHüllspelzen und Deckspelzen fast gleichlang, pergamentartig, nur oberwärts nervig; Hüllspelzen ge-\ndunsen, breit-eifórmig, oben gestutzt, im unteren Theile des Rückens abgerundet-gewólbt, im oberen\nTheile mit einem deutlichen, in eine kurze breite Stachelspitze auslaufenden Kiele; Aussenspelzen ge-\ndunsen, mit oder ohne Endgrane. Fruchtknoten an dem Scheitel behaart, die federigen Narben auf\nseiner Spitze tragend. Caryopse am Scheitel behaart, schmal gefurcht. Früchte frei, aus den Spelzen\nherausfallend.\n          Durch die Kultur sind zahlreiche Abarten gebildet worden, die sich in Bezug auf die Be-\nschaffenheit der Aehren in zwei Hauptgruppen bringen lassen, von denen sich die eine durch lockere,\nlängere Aehren, die andere durch dichtere, kürzere Aehren auszeichnet. Erstere Gruppe zerfällt\nin den begrannten Grannenweizen (meist Winterfrucht) und den unbegrannten Kolbenweizen\n(Winter- und Sommerfrucht); letztere Gruppe zerfällt in den begrannten Igelweizen (Sommerfrucht)\nund in den unbegrannten Bickel- oder Binkelweizen (Sommerfrucht)."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 66,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產於波斯與巴勒斯坦，古埃及已種植。現全球溫帶地區廣泛栽培以製粉，北至特隆赫姆與聖彼得堡。",
+        "warnings": [],
+        "source_line_range": [
+          7,
+          10
+        ],
+        "exact_source_quote": "         Vorkommen.      Das Vaterland des Weizens, der schon von den alten Aegyptern gebaut                             `\nwürde, ist wahrscheinlich Persien und Palästina. Gegenwärtig in den gemässigten Zonen der Erde\nzur Mehlgewinnung allenthalben angebaut und in vielen Spielarten kultivirt. Sein Anbau reicht nörd-\nlich bis Drontheim und Petersburg."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 66,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源流不明，古希臘羅馬文獻已有記載。古埃及人種植，西元前2世紀已有製粉技術，1716年列文虎克以顯微鏡觀察澱粉粒。",
+        "warnings": [],
+        "source_line_range": [
+          12,
+          25
+        ],
+        "exact_source_quote": "         Name und Geschichtliches.          Der Name Weizen, Waizen (althochdeutsch hueizi, hueizzi,\nweizi, weizzi, semala, simala, mittelhochdeutsch semele, siemel, keren, weize, weisse, bei Bock Weyssen,\nbei Fuchs gemeiner Weytzen) ist ein allgemein verbreiteter und unbekannten Ursprungs. Die gothische\nBezeichnung ist hvaiteis, hvaiti, die altnordische hueti. Ebenso ist das Wort Dinkel, althochdeutsch\ndinkil unbekannter Herkunft, wohingegen Spelz (althochdeutsch spelza, spelzo, angelsächsisch und\nniederdeutsch spelt, italienisch spelta, spanisch espelta, französisch épeautre) von spalten — weil die\nAehre gespalten erscheint — abstammen soll. Wegen Triticum siehe Trit. repens L.\n         Der Weizen ist ein schon seit den ältesten Zeiten bekanntes Nahrungsmittel; er ‘wurde schon\nbei den Griechen in mehreren Arten unterschieden, worüber Wittstein nach Fraas folgende Zu-\nsammenstellung giebt: Triticum monococcum L. =             Tign, Theophr,      Galen,   -4r019-Lera Dioskorides,\nTiphe Plinius; Triticum Spelta L. = Zea Homer, Theophrast (soll in den ältesten Zeiten die\nHauptgetreideart gewesen sein); Triticum Zea Host = \"OAvga der Alten; Triticum vulgare var. hibernum\n(Winterweizen) = IIvoog Homer, Theophrast, Dioskorides; Triticum vulgare var. aestivum\n(Sommerweizen) = voog oıravıog Theophrast, Dioskorides."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 67,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "澱粉粒呈球形或多面體，具同心層與偏心核。遇碘變藍，遇溴變橙黃。小麥澱粉粒直徑約0.019至0.029毫米。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          28
+        ],
+        "exact_source_quote": " seltigane des Wassers). Sie besteht aus SE         kugelfórmigen di eifórmigen oder kantigen Kugel-\n ausschnitten gleichenden, auch gänzlich polyédrischen, mikroskopischen, einfachen oder zusammenge-\n setzten Körnern,     welche      aus übereinanderliegenden      Schichten     bestehen,     die einen meist excentrischen\n Kern umschliesen. Die Schichten beruhen auf verschiedener Dichtigkeit und sollen durch die damit\n zusammenhängende Eigenschaft, ungleiche Mengen Wassers einzulagern und verschiedene Lichtbrechungen\n darzubieten,     erst sichtbar    gemacht     werden;     überhaupt   nach Schleiden         und Anderen   keine   anderen\n Eigenschaften zeigen, als diejenigen, die durch die mehr oder weniger grössere Dichtigkeit bedingt sind.\n Leuwenhoek, Raspail und Nägeli sind der Ansicht, dass die Stärkekörner aus einer in Speichel\n löslichen Granulose und einer in Speichel unlöslichen Cellulose bestehen; letztere umkleidet nach Delfs,\n Jessen u. A. sämmtliche Schichten in Form von dünnen Häutchen. Hierüber aussert sich Flückiger\n wie folgt: „Nach Nägeli besteht das Stärkekorn aus vorherrschender Granulose, der eigentlichen `\n Stärkesubstanz, welcher eine geringe Menge Cellulose eingelagert ist. Diese sehr allgemein ange-\n nommene Ansicht ist als nicht bewiesen zu erachten.“ Die Stärkekörner zeigen gleiche Eigenschaften\n wie die doppelt brechenden Krystalle; im polarisirten Lichte erscheint ein schwarzes Kreuz, dessen\n Arme   sich im Mittelpunkte        kreuzen.    Bei Gegenwart      von Jod färben sie sich blau, bei Berührung          von\n Brom pomeranzengelb. Hinsichtlich der Grösse der Stärkekörner ist zu bemerken, dass dieselbe neben\n der Form für manche Pflanzen bezeichnend ist. So beträgt beispielsweise der Durchmesser der Kartoffel-\n stärke in Millimetern 0,14— 0,185, von Arowroot 0,14, von Bohnen 0,075, von Sago 0,045—0,070, von `\n Linsen 0,067, von Erbsen 0,05, von Hirsen 0,010, von Mais 0,05. Die Weizenstürke stimmt mit Roggen-\n und Gerstenstärke überein, doch glaubt Wiesner auch hier in der Grösse ein Unterscheidungsmerkmal\n gefunden zu haben; nach letzterem beträgt die häufigste Grösse vom Weizen 0,019—0,029 Mm. bei\n grossen Kórnern, 0,0058— 0,0072 Mm. bei kleinen Kórnern; vom Roggen 0,036 Mm. bei grossen Körnern,\n 0,0063 Mm. bei kleinen Körnern;         von der Gerste 0,020 Mm.         bei grossen Körnern,     0,0063 Mm. bei kleinen\n  Körnern. Die Weizenstärke kommt auch in zusammengesetzten Körnern (2—25 Theilkörnern) vor; ihre\n. Form ist eine linsenfórmige, kugelige und polyédrische. Die im Handel vorkommende Weizenstärke bildet\n unregelmässige,     eckige Stücken,    welche im zerriebenen Zustande ein sehr feines, bläulich-weisses,           mattes,\n geruch- und geschmackloses, im kalten Wasser und Weingeist unlösliches Pulver 'geben. Sie giebt\n mit 100 Theilen Wasser einen weisslichen, wenig durchscheinenden, bläulich schillernden Kleister."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 67,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含50-60%澱粉，15-20%麩質，1.5%膠質與糖，1%脂肪，12%纖維及2.5%礦物質。麩皮含高量麩質與礦物質。",
+        "warnings": [],
+        "source_line_range": [
+          32,
+          37
+        ],
+        "exact_source_quote": "           Bestandtheile. Der Weizen enthält nach den Untersuchungen von Saussure, Boussingault\n u. A. 50—600/, Stärkemehl, 15—20°%, Kleber, 1,5%, Gummi, 1,5%, Zucker, 1%, Fett, 129, Faser,\n 2,5°/, Mineralstoffe. Nach Kekule sind in der Kleie enthalten: 67,5%, Kleber, Zucker und Stürkemehl,\n 4,1%, Fett, 0,29, Faser, 5,6%, Mineralstoffe. Ritthausen erhielt aus Weizen 4 besondere Proteinstoffe\n (Wittstein)        In der Asche ist Kali, Magnesia,          Phosphorsäure,     Kalkerde,     Kieselsäure, Eisenoxyd   und\n wenig Natron gefunden worden.               (Husemann, Pflanzenstoffe 115.)"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 67,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史用途：麵粉製敷料、藥丸及解毒劑；麩皮作瀉藥。澱粉轉化為糖與酒精，用於保護劑、灌腸及藥劑賦形劑。",
+        "warnings": [],
+        "source_line_range": [
+          39,
+          58
+        ],
+        "exact_source_quote": "          Anwendung.              Das Weizenmehl (Farina Tritici) dient äusserlich zu Umschlägen, die daraus\n gebackene      Brodkrume   mit Milch     ebenfalls      zu Umschlägen,   mit Milch, Glycerin und Kalicarbonatlösung\n  bei Drüsenverhärtung (Frauenbrüste), ferner als Konstituens zu Pillen, zur Herstellung von Oblaten,\n  als Antidot bei Vergiftungen mit Jod, Quecksilber, Kupfer etc. auch mit Wasser und Milch gekocht\n  zu nähernden Suppen, namentlich aber zur Bereitung des Stárkemehls. Hauptverwendung findet es\n  zur Herstellung des Weissbrodes und zur Bereitung von Weissbier und Branntwein. Die Weizenkleie\n  (Purfur Tritiei) wird zu Bädern verwendet und dient in Substanz genommen, vermóge des mechanischen\n  Reizes auf die Darmschleimhaut, als stuhlbefórderndes Mittel (Grahambrod). In Bezug auf das Stürke-\n  mehl äussert sich Husemann wie folgt: „Das Amylum wird als solches vom Organismus nicht resorbirt,\n  sondern verwandelt sich in den Tractus eingeführt in Dextrin und Glykose, bei welcher Metamorphose\n  Speichel und Bauchspeichel, nach Schiff auch der Darmsaft und nach Funk das Sekret des Processus\n  vermiformis betheiligt sind. Es ist zwar kein plastisches Nahrungsmittel, kann aber als Sparmittel\n  wie andere Kohlehydrate dienen. Das Amylum Tritici wird nicht als angebliches Plasticum, sondern,\n  abgesehen von seiner ziemlich selten in praxi vorkommenden antidotarischen Verwendung gegen akute\n  Jod- und Bromvergiftung, nur als Protektivum — sowohl in Substanz als Streupulver bei Intertrigo,\n. Ekzem und anderen Hautaffektionen, als auch besonders in Abkochnngen zu Klystieren bei entzünd-\n  lichen und akuten katarrhalischen Affektionen des Mastdarmes und des Dickdarmes, selbst bei Ge-\n  schwürbildung (Dysenterie) — als Contentivum (zu Kleisterverbänden) und als Grundlage für\n  gewisse Arzneiformen (Pulver, Trochisken, Mucilagines, Pseudogallerten) benutzt.“      (Husemann,\n  un            399.)"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "1709d6f3deed11b6d667dcc065dd1511083e8d858601e766452a25935e2e961f"
+}

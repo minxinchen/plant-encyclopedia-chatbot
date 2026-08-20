@@ -1,0 +1,265 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-3-p0241-p0244",
+  "entry_id": "kohler-volume-3:p0241-p0244",
+  "owner_shard": "S07",
+  "book_taxon": {
+    "scientific_name": "Gelsemium sempervirens",
+    "authorship": "Ait.",
+    "aliases": [
+      "Gelsemium nitidum Mich.",
+      "Gelsemium lucidum Poir.",
+      "Bignonia sempervirens L.",
+      "Lisianthus sempervirens Mill.",
+      "Anonymos sempervirens Walt."
+    ]
+  },
+  "display_name": "卡羅來納茉莉",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Gelsemium sempervirens"
+    ],
+    "accepted_scientific_name": "Gelsemium sempervirens",
+    "display_name_source_scope": "taiwan_academic_public",
+    "taiwan_occurrence_status": "not_asserted",
+    "checked_at": "2026-08-13T13:23:29+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Gelsemium+sempervirens",
+        "query_name": "Gelsemium sempervirens",
+        "retrieved_at": "2026-08-13T13:21:22+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Gelsemium+nitidum",
+        "query_name": "Gelsemium nitidum",
+        "retrieved_at": "2026-08-13T13:21:22+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Gelsemium+lucidum",
+        "query_name": "Gelsemium lucidum",
+        "retrieved_at": "2026-08-13T13:21:22+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Bignonia+sempervirens",
+        "query_name": "Bignonia sempervirens",
+        "retrieved_at": "2026-08-13T13:21:22+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Lisianthus+sempervirens",
+        "query_name": "Lisianthus sempervirens",
+        "retrieved_at": "2026-08-13T13:21:22+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Anonymos+sempervirens",
+        "query_name": "Anonymos sempervirens",
+        "retrieved_at": "2026-08-13T13:21:22+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL and Tai2 returned no exact species record. Kew POWO confirms Gelsemium sempervirens as the accepted scientific name. A Taiwan academic horticulture publication explicitly pairs the exact scientific name with 卡羅來納茉莉; the Taiwan Landscape Plant Guide independently pairs the same species with the spelling 卡羅萊那茉莉 and supplies public Taiwan aliases. No Taiwan occurrence is asserted."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 241,
+      "evidence_type": "text",
+      "page_text_sha256": "9c91d036f268c3ff65b469e1c3e12d9636e8dfbef89a3002d642652ce31c039a",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 242,
+      "evidence_type": "text",
+      "page_text_sha256": "9072b594e50b6358601b18922f560f1788280ff14ee6aac110ae516d123142de",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 243,
+      "evidence_type": "text",
+      "page_text_sha256": "caaf62845b278832f8c6f86eb62a918e147fe5b7a13df5a692bffe3d02ae06aa",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-3:p0241-p0244:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                   Gelsemium                        sempervirens                             Ait.\n                        Engl.: Yellow Jasmine.               False Jessamine, wild yellow Jessamine.\n\n             Syn. Gelsemium nitidum Mich.      Gelsemium lucidum                                  Poir.         Bignonia    sempervirens     L.\n    Lisianthus sempervirens Mill. Anonymos sempervirens Walt.\n\n              Familie: Loganiaceae.               Tribus: Gelsemieae.              Gattung: Gelsemium Juss.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Gelsemium sempervirens，隸屬馬錢科，同義名包括 G. nitidum 及 Bignonia sempervirens。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 241,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 530,
+        "page_text_sha256": "9c91d036f268c3ff65b469e1c3e12d9636e8dfbef89a3002d642652ce31c039a",
+        "exact_text_sha256": "9aae2a6c6251ca2a587e89461b13e05b5869d05d2ea91fe2cdd92ecaa84bf0f4",
+        "source_line_start": 1,
+        "source_line_end": 7,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "9aae2a6c6251ca2a587e89461b13e05b5869d05d2ea91fe2cdd92ecaa84bf0f4",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0241-p0244:s01:x00",
+      "section_type": "description",
+      "original_text": "          Beschreibung. Ein windender Strauch von Meterhöhe. Die dünnen, hin und\n                                                                                        her\n. gebogenen, ziemlich schlanken Zweige besitzen eine glänzend braune kahle Ri\n                                                                              nde und 3 bis\n    5 cm    lange Internodien.          Die Blätter         sind gegenständig,             durch      eine Stipularlinie        verbunden,\n3     bis 8 mm lang gestielt, lanzettlich, zweieinhalb- bis viermal, seltener bis fünfma\n                                                                                         l so lang\n    als breit,    im Mittel 5 bis          7 cm    lang und      1,5 bis 2,5 cm             breit,      am      Grunde     in den Blattstiel\n    verschmälert,        nach oben zu allmählich und lang zugespitzt,                              ganzrandig,           ziemlich dick und\n    lederartig,    beiderseitig     ganz     kahl,    die Oberseite           häufig glänzend             und     dunkelgrün,    die Unter-\n    seite hellgrün;        die Mittelrippe         entsendet        sieben     bis zehn Paar            nicht sehr deutlich hervor-\n    tretender     Seitennerven.       In den Achseln            der oberen            Blätter     entspringen je ein Paar             ein- bis\n    dreiblütige, bis 1 cm           lange Kurzzweige,            welche         dicht mit acht bis zwölf Brakteen besetzt\n    sind; diese sind       1 bis    3 mm     lang, von        dreieckiger Gestalt, mit breiter Basis                       sitzend, stumpf-\n    lich, gelbgrün,        nach     oben     zu häufig etwas bräunlich.                    Meist ist an jedem Kurzzweige nur\n    eine Blüte     entwickelt.       Die Blüte       ist actinomorph            und     fünfzählig       gebaut.         Der Kelch    besteht",
+      "normalized_text": null,
+      "zh_tw_rendering": "攀援灌木，高約一公尺。葉對生，披針形，革質，全緣。花黃色，漏斗鐘形，五裂，雄蕊五枚。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 241,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 531,
+        "char_end": 2424,
+        "page_text_sha256": "9c91d036f268c3ff65b469e1c3e12d9636e8dfbef89a3002d642652ce31c039a",
+        "exact_text_sha256": "629e423d89e9cdf664e800a57c10eeac429252c8bd05975c3abbd0a083edc972",
+        "source_line_start": 8,
+        "source_line_end": 23,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "629e423d89e9cdf664e800a57c10eeac429252c8bd05975c3abbd0a083edc972",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0241-p0244:s02:x00",
+      "section_type": "distribution",
+      "original_text": "                                                                                       m m t     vo r     an    F l u s s u f e r n    u n  d    d e r  M e e r e s -\n                                    und Verbreitung.       Di  e    P f l a n z e k o\n             Vorkommen\n                                                                                  Ih r   V e r b r e i t u n g s b e z i r k      e r s t r e c k t    si ch    v o n\n           im westlichen            Nord- und in M  i t t e l a m e r i k a .\nküste\n                                 g i a , Fl or id a, A l e b a m a , L o u i s i a n a , M e x i k o bi s G u a t e m a l a .\nVirginia, über Carolina, G e o r",
+      "normalized_text": null,
+      "zh_tw_rendering": "分佈於北美西部至中美洲，包括維吉尼亞、佛羅里達、阿拉巴馬、路易斯安那、墨西哥至瓜地馬拉。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 242,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 1723,
+        "char_end": 2406,
+        "page_text_sha256": "9072b594e50b6358601b18922f560f1788280ff14ee6aac110ae516d123142de",
+        "exact_text_sha256": "c267b07a39d403c312314f530630891435da0f45550e99567bf0f47a20a38112",
+        "source_line_start": 18,
+        "source_line_end": 25,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "c267b07a39d403c312314f530630891435da0f45550e99567bf0f47a20a38112",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0241-p0244:s03:x00",
+      "section_type": "constituents",
+      "original_text": "           Bestandteile.             Die Wurzel             enthält          0,1°),    des     sehr giftigen Alkaloids                  @elseminin,\n'C”®H®N?O3            (Spiegel,           Göldner),            sowie     sehr     kleine       Mengen        eines     amorphen           Alkaloids,\nwelches       vorläufig       als     amorphes            Gelseminin.           bezeichnet          wird.        Ferner     findet       man      etwa\n:0,04°/, des Glycosids Aeseulin, welches früher als Gelseminsäure bezeichnet wurde und dem\n‚die fluorescierenden Eigenschaften des alkalischen Auszugs der Wurzel zuzuschreiben sind.\n'V. Coblentz indessen tritt in jüngster Zeit für die Existenz einer Gelseminsäure ein (Am.\n.J. of Pharm.         1897. 229) und           zeigt,      dass        sie sich, ebenso            wie ihre Derivate,             wesentlich       von\nAesculir unterscheidet. Sie schmilzt bei 206°. Ihre Salze sind nicht krystallisierbar; das\nKaliumsalz bläht sich beim Erhitzen stark auf. Näheres bleibt abzuwarten. — Heute be-\nzeichnet man mit Gelsemin kein Alkaloid, sondern das nach amerikanischer Vorschrift aus\n‚der Gelsemiumwurzel erhaltene harzartige Produkt, das Resinoid, welches auf ähnliche\n Weise wie das Podophyllin gewonnen wird.",
+      "normalized_text": null,
+      "zh_tw_rendering": "根含 0.1% 劇毒生物鹼 Gelseminin，及微量無定形生物鹼、糖苷 Aesculin。Gelsemin 指樹脂狀產物。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 243,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 624,
+        "char_end": 1888,
+        "page_text_sha256": "caaf62845b278832f8c6f86eb62a918e147fe5b7a13df5a692bffe3d02ae06aa",
+        "exact_text_sha256": "f7b8fe3126e7f82caa753f0d8c7e2ecacba4975be6844771e33bd14157357f0a",
+        "source_line_start": 6,
+        "source_line_end": 17,
+        "section_index": 3,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "f7b8fe3126e7f82caa753f0d8c7e2ecacba4975be6844771e33bd14157357f0a",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0241-p0244:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "              Anwendung und Wirkung.                           Die Gelsemiumwurzel wirkt als heftiges Gift.                                Sie dient\nin     Substanz       wie     in Abkochung               als     Antineuralgicum              und    Antiperiodicum.             Das     Gift   wirkt\n zunächst          auf Gehirn       und     Rückenmark;              später     werden        die Atmungsorgane               und    das Herz      be-\n einflusst.        Dem      Patienten        scheinen          die Gegenstände               vor    Augen     zu     tanzen,        die Augenlider\n und die Zungenempfindlichkeit werden gelähmt.                                        Die Vergiftung führt bei Erwachsenen                        sehr\n oft, bei Kindern           immer     zum Tode;            derselbe          erfolgt nicht         durch Blutvergiftung,            sondern durch\n Lähmung           der Respirationsorgane.                 Deshalb           benutzt    man        neuerdings       stundenlang fortgesetzte\nkünstliche Respiration als Gegenmittel bei derartigen Vergiftungen.\n",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史上用作劇毒藥，治神經痛及週期性疾病。中毒致呼吸麻痹死亡，曾以人工呼吸急救。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 243,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 3211,
+        "char_end": 4314,
+        "page_text_sha256": "caaf62845b278832f8c6f86eb62a918e147fe5b7a13df5a692bffe3d02ae06aa",
+        "exact_text_sha256": "4ba2a521add7c851e35ba44b6c9f1d6fedffdeff5cff32090d0b7fbe718d2ec7",
+        "source_line_start": 30,
+        "source_line_end": 38,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "4ba2a521add7c851e35ba44b6c9f1d6fedffdeff5cff32090d0b7fbe718d2ec7",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "The external sources are used only for scientific-name and Taiwan public-name metadata; horticultural, toxicity, and other plant facts are not imported into the Köhler book-fact layer.",
+    "The common name contains 茉莉 but this taxon is not a Jasminum species; answers should preserve the scientific name for disambiguation.",
+    "No Taiwan occurrence claim was established.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "2f63ff12ba8c7db6b4c085237ae4ac7ab4cfe93c680b72be8bbb8fe28ddaf845",
+    "maker_receipt_sha256": "7cb380831c2c9cd6066bafb2f86f8fe2ee637e39ec71f4c8214913bfbefa8eb5",
+    "validation_check_sha256": "56d4d8be691f802737d55ecc341d1f624bac1ccafaea4eb9f9fff90a861ed3c9",
+    "source_disposition_sha256": "938abc7a855f3fcf78b61cf43a6a67d40bc6fa0fefd70eef6f126e9f14e8e8a4",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "7cb380831c2c9cd6066bafb2f86f8fe2ee637e39ec71f4c8214913bfbefa8eb5",
+      "validation_check_sha256": "56d4d8be691f802737d55ecc341d1f624bac1ccafaea4eb9f9fff90a861ed3c9",
+      "source_disposition_sha256": "938abc7a855f3fcf78b61cf43a6a67d40bc6fa0fefd70eef6f126e9f14e8e8a4"
+    },
+    "naming_artifact_sha256": "3a628105a8277e6be48013dc9e854c263bb3173933de7c2e2c3f1ba5c81d0363"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "007519698ac848f09bcae13b421f7092647f75815ee3c50103c44ef40aca39c0"
+}

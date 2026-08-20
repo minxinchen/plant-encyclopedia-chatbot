@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0179-p0182",
+  "owner_shard": "S03",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 145.186,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0179-p0182",
+    "book_taxon": {
+      "scientific_name_candidate": "Acacia Catechu",
+      "authorship_candidate": "Willd.",
+      "aliases_candidates": [
+        "Mimosa Catechu L. fil",
+        "Mimosa Sundra Roxb.",
+        "Acacia Suma Kurz",
+        "Mimosa Suma Roxb."
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 179,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Acacia Catechu Willd.，同義名 Mimosa Catechu 及 Mimosa Sundra。隸屬豆科含羞草亞科。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          6
+        ],
+        "exact_source_quote": "                                          Acacia Catechu Willd.\n                          syn. Mimosa         Catechu L. fil, Mimosa           Sundra Roxb.\n                (Letztere Form wird von -einigen Botanikern als besondere Art betrachtet.)\n\n                                                     Catechu -Acacie.\n          Familie:      Leguminosae, (Unterfamilie: Mimosaceae); Gattung: Acacia Willd."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 179,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "高約10米，樹幹直立，枝葉茂密。樹皮深褐色味苦。葉長至30公分，二回羽狀複葉，羽片30至60枚。",
+        "warnings": [],
+        "source_line_range": [
+          7,
+          14
+        ],
+        "exact_source_quote": "          Beschreibung.       Oft etwas verkrüppelter Baum von 10 Meter Hóhe, mit aufrechtem Stamme,\nsehr verzweigter, reichblätteriger, umfangreicher Krone und faseriger, dunkelbrauner, herbe schmecken-\nder Rinde. Aeste zerstreutstehend, stielrund, jüngere Aeste mit gepaarten Stacheln und mit einem\nweisslichen oder grauen, kurzhaarigen Ueberzuge bedeckt. Blätter zerstreut, bis 30 Ctm. lang, zuerst\naufrecht, später abstehend oder zurückgebogen, doppelt und paarig gefiedert. Spindel 4kantig, grau\nbehaart, mit 8 bis 30 Fiederpaaren, auf der Oberfläche flachrinnig und kurz unter dem untersten Fiederpaare,\nsowie unter den obersten Fiederpaaren mit einer länglichen bis rundlichen, schüsselfórmigen Drüse. Fiedern\n30 bis 60 ‫مدهتتع‬‎ mit bläulich-grünen, sitzenden, linealischen, 5 Mm. langen, 1 Mm. breiten, an der Spitze"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 180,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "產於前印度、後印度及錫蘭；特別在科羅曼德爾、錫蘭山脈及孟加拉；喜馬拉雅山海拔1000米以下。",
+        "warnings": [],
+        "source_line_range": [
+          8,
+          9
+        ],
+        "exact_source_quote": "        Vorkommen.      Vorder- und Hinterindien, Ceylon; besonders                            auf den Gebirgen von Koro-\nmandel, Ceylon und in Bengalen; im Himalaya bis 1000 Meter Hóhe."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 180,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源自希臘語刺或尖。1514年Barbosa提及Cacho，1563年Garcia del Orta描述製法及出口至中國。",
+        "warnings": [],
+        "source_line_range": [
+          13,
+          20
+        ],
+        "exact_source_quote": "          Name uud Geschichtliches. Acacia von «xama Stachel, Dorn, ex Spitze, wegen der\n bedornten Aeste. Mimosa von uıuely eine Bewegung machen, wegen der Reizbarkeit der Blätter\n mehrerer Arten, die sich beim Berühren zusammenklappen; auch von ¡uZuos Spötter, Schauspieler,\n Nachahmer. Wegen Catechu, hindostanisch catchu Baumsaft, siehe Uncaria Gambir.\n          Flückiger hält die Vermuthung des Campany, welcher das um 1221 im Zolltarife von\n Barcelona anftretende Catomaplum als Catechu deutet, für sehr zweifelhaft, jedoch glaubt er in dem\n Cacho, welches Barbosa 1514 als Ausfuhrartikel von Cambay (nördl. von Bombay) erwähnt, unser\nheutiges Acacien-Catechu zu erkennen. Garcia del Orta giebt 1563 von ,Cate* eine ; Beschreibung"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 181,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含特異鐵綠色鞣質（Catechugerbsäure）、結晶酸（Catechin）、樹膠及雜質。Catechin亦見於Gambir。",
+        "warnings": [],
+        "source_line_range": [
+          25,
+          32
+        ],
+        "exact_source_quote": "          Bestandtheile.     Sowohl Catechu als Gambir enthalten eigenthümlichen, eisengrünenden\n Gerbstoff (Catechugerbsüure) eigenthümliche, krystallinische Säure (Catechin, Catechusäure), Gummi,\n Beimengungen von Unreinlichkeiten.       Nach Flückiger’s Versuchen giebt gutes Pegu -Catechu\n0,6 ‎‫ ولا‬Asche.\n          Das im Holze der oben beschriebenen Acacien reichlich vorkommende und in Spalten\n desselben bisweilen in krystallinischen Ablagerungen auftretende Catechin, zuerst von Runge\n bemerkt, von Nees von Esenbeck und Döbereiner rein dargestellt, mit der Zusammensetzung\n Cio He De (Hlasiwetz)            C,,H,,0,    (Gautier)    ‫نور‬‎ Hat       (Liebermann         und   Tauchert),      ausserdem"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 182,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史用途：作收斂劑治慢性黏膜卡他、痢疾、出血；外用治牙痛、口臭、瘧疾及夜汗。",
+        "warnings": [
+          "Content describes historical medical usage; not modern medical advice."
+        ],
+        "source_line_range": [
+          4,
+          10
+        ],
+        "exact_source_quote": "         Anwendung. Als adstringirendes Mittel bei chronischen Katarrhen der Schleimhäute, Dysen-\nterie, gegen Blutungen, äusserlich als Zahntinktur, zu Mundwässern, bei Skorbut und übelriechendem\nAthem, gegen Wundheit der Brustwarzen, auch zu Einspritzungen bei Tripperkrankheiten und nament-\nlich gegen Nachtschweisse. Bei innerlicher Anwendung sind, wegen der Umwandlung in Catechugerb-\nsüure, Brechweinstein,            Eisen- und andere Metallsalze, Leim-                    und Eiweissstoffe       zu meiden.        Husemann\näussert sich hierüber: ,Therapeutisch ist das von den ostindischen Eingeborenen benutzte Catechu für\nsich oder háufiger als Adjuvans anderer Adstringentia gebraucht, ohne dass man besondere Indication"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "33f111f610431576be2f92975c6f10a636562045a4694624abfab31201e7837f"
+}

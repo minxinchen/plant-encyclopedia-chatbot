@@ -1,0 +1,126 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-3:p0101-p0104",
+  "owner_shard": "S06",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 161.502,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-3:p0101-p0104",
+    "book_taxon": {
+      "scientific_name_candidate": "Papaver Rhoeas",
+      "authorship_candidate": "L.",
+      "aliases_candidates": [
+        "Papaver erraticum (Plin.) J. Bauh.",
+        "Klatschrose",
+        "Klatschmohn",
+        "Kornrose",
+        "roter oder wilder Mohn",
+        "Red Poppy",
+        "Corn-Poppy",
+        "Coquelicot",
+        "Pavot rouge",
+        "Ponceau",
+        "Pos",
+        "Amapola",
+        "Klaprozen",
+        "Kornrozen",
+        "Papoila vermelha",
+        "Paparone",
+        "Mas de camp",
+        "Rosolaccio",
+        "Vilde Kornros",
+        "Valmode",
+        "Klapperose"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 101,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Papaver Rhoeas L.，屬罌粟科。別名包括 Klatschrose、Kornrose 及紅罌粟。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          8
+        ],
+        "exact_source_quote": "                                   Papaver             Rhoeas           L,\nKlatschrose, Klatschmohn, Kornrose, roter oder wilder Mohn. Engl.: Red Poppy, Corn-\nPoppy.     Franz.: Coquelicot, Pavot rouge, Ponceau.   Griech.: “Pos.   Span.: Amapola.\nHoll.: Klaprozen, Kornrozen. Port.: Papoila vermelha.      Rum.: Paparone, Mas de camp.\n        Ital.: Rosolaccio.   Schwed.: Vilde Kornros, Valmode.   Dän.: Klapperose.\n\n        Syn. Papaver erraticum (Plin.) J. Bauh.\n        Familie:     Papaveraceae Juss.     Unterfamilie:        Eupapaveraceae      Gattung:      Papaver L."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 101,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "一年生乳汁植物，具白色細主根。莖高 30-80 公分，密被直立的長刺毛。葉互生，無柄或具柄，邊緣鋸齒狀。",
+        "warnings": [],
+        "source_line_range": [
+          9,
+          24
+        ],
+        "exact_source_quote": "        Besehreibung. Die einjährige milchende Pflanze hat eine weissliche dünne, wenig\nästige Pfahlwurzel, aus der vereinzelte gekrümmte Nebenwurzeln und Wurzelfasern ent-\nspringen.    Auf  dem   Wurzelkopf    entspringen   einzelne, selten mehrere,   ziemlich    steif\naufrechte, 30—80 cm hohe, selten einfache, öfters schon vom Grunde aus ästige stielrunde\nStengel,   welche  dicht mit   rechtwinkelig    abstehenden,  am    Grunde verdickten    langen\nborstigen Haaren bekleidet sind.   Die Blätter sind mattgrün, wechselständig, nicht stengel-\numfassend, einfach und geteilt; Nebenblätter fehlen.     Die grundständigen Blätter sind\nsestielt, länglich oder länglich-lanzettlich, mit einfachen, spitzen, gezahnten Fieder-\nlappen, oder auch doppelt fiederspaltig, wenn die Pflanze auf magerem Boden steht\nund die Blattsubstanz     sich nicht sehr üppig entwickelt.    —    Die   stengelständigen    sind\nsitzend, zunächst dreiteilig, mit grösserem Mittelzipfel; jeder Zipfel wiederum       ist einfach\nfiederspaltig; die Lappen sind an allen Blättern länglich eiförmig, spitz, in ein Spitzchen aus-\nlaufend und am Rande bisweilen noch gesägt. — Die Blätter sind, ebenso wie der übrige\nsrüne Teil der Pflanze, auf allen Seiten rauhhaarig. Steht sie aber auf sehr feuchtem Boden, so\nnimmt die Behaarung mehr und mehr ab, sodass die Blätter schliesslich ganz kahl sind und\nnur auf den Nerven einzelne lange, kräftige Haare sitzen. Die Blüten stehen einzeln in den"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 102,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產東方，如幼發拉底河及巴勒斯坦。分佈於南歐、中歐、英國、愛爾蘭及北非，海拔可達 3000 公尺。",
+        "warnings": [],
+        "source_line_range": [
+          30,
+          36
+        ],
+        "exact_source_quote": "            Vorkommen.            Die Pflanze     stammt   aus     dem    Orient, wo   sie sich u.a.       am Euphrat            und\nin Palästina findet; nach De Candolle hat sie ihre Heimat in Sizilien, Griechenland, Dal-\nmatien, vielleicht auch im südlichen Kaukasus; verbreitet ist sie indessen im südlichen und\nmittleren Europa, in England, Schottland und Irland, sowie im südlichen Schweden; ferner\nauf Madeira, den Azoren und Cap Verdischen Inseln, im nördlichen Afrika und in Abyssinien,\nwo sie bis 3000 m hoch steigt.     Dagegen fehlt sie in Nordamerika und soll auch (nach\nFlückiger und Hanbury) in Indien nicht vorkommen. (s. u.)"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 103,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "乾花瓣含脂肪、色素、樹膠及纖維。含 Rhoeadinsäure 與 Klatschrosensäure。Hesse 於 1865 年發現生物鹼 Rhoeadin。",
+        "warnings": [],
+        "source_line_range": [
+          15,
+          25
+        ],
+        "exact_source_quote": "           Bestandteile. In den getrockneten Blumenblättern fand Riffart 12°/, Fett, 40°], Farb-\n  stoff, 20°, Gummi, 28°/, Zellfaser und Asche. — Letztere analysierte Warden: Er fand\n  3,86 Eisenoxyd, 1,23 Alumininoxyd, 5,61 Magnesia, 10,72 Kalk, 41,76 Kali, 12,25 Ohlorkalium,\n  1,21 Chlornatrium, 3,85 Schwefelsäure, 5,61 Phosporsäure, 13,86 Kieselsäure. — Der Farbstoff\n  wurde 1846 von L. Meyer analysiert. Er isolierte zwei Säuren: Rhoeadinsäure, welche sich in\n  Wasser tiefrot löst, und Klatschrosensäure, die Wasser nur rosa färbt.     Der Farbstoff wird\n  durch Alaun und Bleizucker gefällt, durch Eisenchlorid und Kalilauge schwarzbraun gefärbt.\n  Selmi    u. A.    wollten           in   den   Blättern   Morphin      gefunden      haben,   was      insbesondere     Hesse\n bestritt und auf das in der ganzen Pflanze enthaltene Rhoeadin zurückführte.      Rhoeadin\n OH H#NO® entdeckte Hesse 1865 in dem Milchsaft der Pflanze und wies nach, dass es sich in\n allen Teilen derselben vorfinde. Im Opium ist es nicht enthalten. Zur Darstellung wird der"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 103,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史上用作包裹性、緩和劑，用於胸茶。花汁據稱可安撫幼兒。嫩葉曾作蔬菜。古埃及視為無常象徵。",
+        "warnings": [
+          "Content describes historical medical use; not modern medical advice."
+        ],
+        "source_line_range": [
+          41,
+          50
+        ],
+        "exact_source_quote": "          Anwendung. In der Heilkunde dienen die Flores Rhoeados ihres Schleimgehaltes wegen\n als einhüllendes, linderndes Mittel und sind als solches Bestandteil von Brusttheemischungen.\n Klatschrosensaft, namentlich solcher aus frischen Blumenblättern, soll für kleine Kinder be-\n ruhigend wirken. Die jungen Blätter werden in manchen Gegenden als Gemüse gegessen. —\n Als Schmuck dient die Pflanze den Feldern und Gärten; in letzteren wird sie in zahlreichen\n Varietäten kultiviert.               Auch in früherer Zeit hat man die Blume schon geliebt.                        Flückiger\n  erzählt, dass man sie auf Pompejanischen Wandmalereien finde, sowie, dass Schweinfurt\n. die Blumenblätter in altägyptischen. Gräbern des oberen Nilgebietes gefunden habe, deren\n  Alter auf 3000 Jahre zu schätzen sind.   Vielleicht haben sie den alten Aegyptern als Sinnbild\n  der Vergänglichkeit gegolten."
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 104,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "圖版說明：A 植株下部，B 開花枝。1 放大雄蕊，2 未熟蒴果，3 橫切面，4 成熟蒴果，5 放大種子，6 縱切面。",
+        "warnings": [],
+        "source_line_range": [
+          26,
+          29
+        ],
+        "exact_source_quote": "                                                              Tafelbeschreibung:\n          A unter er Teil  der  Pflan ze.    B   blühe nder  Zweig .   1   Staub blatt    vergr össer t;   2 unrei fe   Kaps el ver-\ngrössert; 3 dieselbe im   Quers chnit t   vergr össer t;  4 reife  Kapse l   natür liche r   Gröss e,    5 Same n   sehr  stark ver-\ngrössert; 6 derselbe im Längsschnitt. Alles nach der Natur."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "5228f6fcc355b81f55a6d9217d539037ffa0da30e6081faa3fc99b97654f274b"
+}

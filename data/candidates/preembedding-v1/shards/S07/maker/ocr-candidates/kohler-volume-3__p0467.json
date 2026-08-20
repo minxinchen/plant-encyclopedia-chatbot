@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 467,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "883c911171e8c216e3efa06f75c3f5fda675c6e01b59bc40752887d719cbd2af",
+  "render_dpi": 144,
+  "render_sha256": "f23a34f8f0c859d83220b61442da1f5000d4162ec4bda03fbd24cab05c3cc0ac",
+  "input_sha256": "f23a34f8f0c859d83220b61442da1f5000d4162ec4bda03fbd24cab05c3cc0ac",
+  "render_pixel_width": 5762,
+  "render_pixel_height": 8306,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.84,
+  "embedded_character_count": 696,
+  "ocr_character_count": 58,
+  "ocr_alpha_ratio": 0.7414,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.019344555007086872,
+      "text": "Loganiaceae",
+      "width": 0.10476955062070004,
+      "x": 0.8597491155906396,
+      "y": 0.9605312107097427
+    },
+    {
+      "confidence": 1,
+      "height": 0.02034883650522379,
+      "text": "(Strychneae)",
+      "width": 0.10878660407894591,
+      "x": 0.8577405878663849,
+      "y": 0.9404069773505858
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "4",
+      "width": 0.010460250969014928,
+      "x": 0.9288702930301369,
+      "y": 0.7514534887162645
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883082859107,
+      "text": "10",
+      "width": 0.0230125525408425,
+      "x": 0.439330544005032,
+      "y": 0.06686046550798896
+    },
+    {
+      "confidence": 1,
+      "height": 0.02331349206349209,
+      "text": "Strychnos gnatii Bergius.",
+      "width": 0.22175732299717427,
+      "x": 0.40376569181382566,
+      "y": 0.020337301477289293
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "46",
+      "width": 0.016736400732404455,
+      "x": 0.901673640498512,
+      "y": 0.01162790709220185
+    }
+  ],
+  "text": "Loganiaceae\n(Strychneae)\n4\n10\nStrychnos gnatii Bergius.\n46",
+  "output_sha256": "2290ed80d5b57c9b97496435b8dccf5dcdd71016bbf328d4c575238b4b690fd3",
+  "receipt_sha256": "23c64c4400457ed60cc747b10e2cde8c61c6406b05b7aad39c6b2d4e896ac535"
+}

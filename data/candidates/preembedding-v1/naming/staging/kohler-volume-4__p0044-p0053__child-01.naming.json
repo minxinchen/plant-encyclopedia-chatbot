@@ -1,0 +1,185 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-4:p0044-p0053:child-01",
+  "owner_shard": null,
+  "source_draft": null,
+  "source_draft_sha256": null,
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "a4aefaeb890d44cb6cf6db335f5e08512458df06e1990e0527d314c313ff4e03",
+    "validation_check_sha256": null,
+    "source_disposition_sha256": "6a890c25ff5b40dbe61b162dc3b4d5bb8709b8e93a7e075555114ccd142be7fa",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": null,
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Agrostemma Githago",
+    "authorship_candidate": null,
+    "aliases_candidates": []
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Agrostemma Githago",
+      "Agrostemma githago"
+    ],
+    "accepted_scientific_name": "Agrostemma githago",
+    "display_name_zh_tw": "麥仙翁",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": null,
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "tai2"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary",
+    "rationale": "Tai2 exactly lists the book binomial as a main name or synonym and links it to this accepted species page.",
+    "checked_at": "2026-08-20T23:03:57+08:00",
+    "tai2_code": "999 990 247 40"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Agrostemma Githago",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Agrostemma+Githago",
+      "retrieved_at": "2026-08-20T23:03:05+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Argostemma",
+          "matched_name_id": 702,
+          "taxon_id": "t0002715",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Argostemma",
+          "accepted_name_id": 702,
+          "accepted_usage": [
+            {
+              "usage_id": 163006,
+              "reference_id": 1854,
+              "reference_type": "Journal Article",
+              "publish_year": 2017,
+              "citation": "Lin, C.-T. & Chung, K.-F. (2017) Phylogenetic Classification of Seed Plants of Taiwan. <i>Botanical Studies</i> 58(1): 52.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 182615,
+              "reference_id": 2454,
+              "reference_type": "Book",
+              "publish_year": 2017,
+              "citation": "Ed. Comm. Red List TW Plants,  (2017) The Red List of Vascular Plants of Taiwan, 2017 = 2017 臺灣維管束植物紅皮書名錄.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 278541,
+              "reference_id": 556,
+              "reference_type": "Book Chapter",
+              "publish_year": 1998,
+              "citation": "Liu, H.-Y. & Yang, T.-Y.A. (1998) 123. Rubiaceae. In: Flora of Taiwan, 2 ed., vol. 4. 245–340.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 6438,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": null
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0002715",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0002715",
+          "taxon": {
+            "taxon_id": "t0002715",
+            "taxon_status": "accepted",
+            "name_id": 702,
+            "simple_name": "Argostemma",
+            "name_author": "Wall.",
+            "rank": "Genus",
+            "common_name_c": "水冠草屬",
+            "alternative_name_c": "雪花屬",
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": null,
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2026-04-29"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Agrostemma githago",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Agrostemma+githago",
+      "retrieved_at": "2026-08-20T23:03:05+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Agrostemma githago",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Agrostemma%20githago",
+      "retrieved_at": "2026-08-20T23:03:57+08:00",
+      "exact_result_count": 1,
+      "exact_results": [
+        {
+          "name": "<em>Agrostemma</em> <em>githago</em> L.",
+          "ebooksearch": "Agrostemma githago",
+          "simnametitle": "<em>Agrostemma</em> <em>githago</em>",
+          "type": "M",
+          "code": "999 990 247 40",
+          "apgfamily": "Caryophyllaceae",
+          "chapgfamily": "石竹科",
+          "family": "Caryophyllaceae",
+          "chfamily": "石竹科",
+          "genus": "Agrostemma",
+          "chgenus": "麥仙翁屬",
+          "fern": "no",
+          "chname": "麥仙翁",
+          "comname": "",
+          "comtype": "",
+          "endetype": "Non-Taiwanese",
+          "result_type": "species"
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "species_url": "https://tai2.ntu.edu.tw/species/999%20990%20247%2040",
+      "accepted_species_record": {
+        "name": "<em>Agrostemma</em> <em>githago</em> L.",
+        "ebooksearch": "Agrostemma githago",
+        "simnametitle": "<em>Agrostemma</em> <em>githago</em>",
+        "type": "M",
+        "code": "999 990 247 40",
+        "apgfamily": "Caryophyllaceae",
+        "chapgfamily": "石竹科",
+        "family": "Caryophyllaceae",
+        "chfamily": "石竹科",
+        "genus": "Agrostemma",
+        "chgenus": "麥仙翁屬",
+        "fern": "no",
+        "chname": "麥仙翁",
+        "comname": "",
+        "comtype": "",
+        "endetype": "Non-Taiwanese"
+      },
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

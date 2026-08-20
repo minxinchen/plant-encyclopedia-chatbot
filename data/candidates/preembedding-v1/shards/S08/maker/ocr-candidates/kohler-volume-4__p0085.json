@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-4",
+  "volume": 4,
+  "pdf_page": 85,
+  "owner_shard": "S08",
+  "source_pdf": "/Volumes/NO NAME/第四集 mobot31753003431696.pdf",
+  "source_text_sha256": "ea93066ee28b79099b2d6c21f251d871f00f46b380a19dc398a9bdac533b65e4",
+  "render_dpi": 144,
+  "render_sha256": "ee2235b77775d1255b67bdf3fbedb29243f2e6d96ac7ebf4fe843e42a6e3f55b",
+  "input_sha256": "ee2235b77775d1255b67bdf3fbedb29243f2e6d96ac7ebf4fe843e42a6e3f55b",
+  "render_pixel_width": 5768,
+  "render_pixel_height": 8498,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 7.062,
+  "embedded_character_count": 129,
+  "ocr_character_count": 63,
+  "ocr_alpha_ratio": 0.8254,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01889534791310632,
+      "text": "Tafel",
+      "width": 0.04068522317466986,
+      "x": 0.03426124265249377,
+      "y": 0.9622093025986794
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883082859107,
+      "text": "31",
+      "width": 0.017130621164013995,
+      "x": 0.07708779443481772,
+      "y": 0.9680232560291685
+    },
+    {
+      "confidence": 1,
+      "height": 0.022834592395358566,
+      "text": "Caryophyliaceae",
+      "width": 0.14213982213579712,
+      "x": 0.8123017948306767,
+      "y": 0.9530163565491662
+    },
+    {
+      "confidence": 1,
+      "height": 0.019853086698622846,
+      "text": "(Silenoideae)",
+      "width": 0.10512659199661012,
+      "x": 0.8554855753184841,
+      "y": 0.9359523898247344
+    },
+    {
+      "confidence": 1,
+      "height": 0.0231218716454884,
+      "text": "Saponaria officinalis b.",
+      "width": 0.26013986101282865,
+      "x": 0.3783425553056135,
+      "y": 0.012418658787572867
+    }
+  ],
+  "text": "Tafel\n31\nCaryophyliaceae\n(Silenoideae)\nSaponaria officinalis b.",
+  "output_sha256": "28d5c233a2b63e848cc3a3458bdb4945df083e277d44e13771bad598ace9324f",
+  "receipt_sha256": "f71142f3dfecafe72e208e55e3230ab026009be608ecba1755665a311d9fefcb"
+}

@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-1:p0229-p0230",
+  "owner_shard": "S02",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S02/maker/structure-drafts/kohler-volume-1__p0229-p0230.json",
+  "source_draft_sha256": "f6664ce6ab1bae4e05a6e4517fb9c99d08b8eedcfdc88bcaba73adc5f74a3004",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "46d01d70e7bde2c2531e36a1c893731c94fa0aee555b07064d4ab736d6417458",
+    "validation_check_sha256": "2f1142d07fcb3a3b7c39bd62c36de728e1dc5a4adc0fde00764f8f2046a31482",
+    "source_disposition_sha256": "93e48df807265cfc3d5dc70250f2c7cf07d41b4560906d11c4fb1266e58f798b",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Erythroxylon Coca",
+    "authorship_candidate": "Lam.",
+    "aliases_candidates": [
+      "Koka",
+      "Cochuca",
+      "Hayo",
+      "Ipadu"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Erythroxylon Coca",
+      "Erythroxylon coca"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_zh_tw": null,
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_checked",
+    "taxon_id": null,
+    "display_name_source_scope": "unresolved",
+    "display_name_source_evidence_ids": [],
+    "display_name_is_taiwan_public": false,
+    "display_name_answer_policy": "scientific_name_only",
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping.",
+    "checked_at": "2026-08-13T19:30:27+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Erythroxylon Coca",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Erythroxylon+Coca",
+      "retrieved_at": "2026-08-13T19:30:22+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Erythroxylon coca",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Erythroxylon+coca",
+      "retrieved_at": "2026-08-13T19:30:22+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Erythroxylon coca",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Erythroxylon%20coca",
+      "retrieved_at": "2026-08-13T19:30:27+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears."
+  ]
+}

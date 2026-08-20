@@ -1,0 +1,286 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-4-p0018-p0020",
+  "entry_id": "kohler-volume-4:p0018-p0020",
+  "owner_shard": "S08",
+  "book_taxon": {
+    "scientific_name": "Amanita bulbosa",
+    "authorship": "Bull.",
+    "aliases": [
+      "Agaricus bulbosus Bull.",
+      "Ag. vemalis Bolton",
+      "Ag. phalloides Fr.",
+      "Ag. virosus Secretan",
+      "Ag. Mappa Batsch",
+      "Amanita viridis Pers.",
+      "Am. citrina Pers."
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Amanita bulbosa"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T13:31:33+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Amanita+bulbosa",
+        "query_name": "Amanita bulbosa",
+        "retrieved_at": "2026-08-13T12:27:48+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0033881",
+        "query_name": "Amanita bulbosa",
+        "retrieved_at": "2026-08-13T12:27:48+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0033881",
+        "query_name": "Amanita bulbosa",
+        "retrieved_at": "2026-08-13T12:27:48+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Agaricus+bulbosus",
+        "query_name": "Agaricus bulbosus",
+        "retrieved_at": "2026-08-13T12:55:41+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Amanita+viridis",
+        "query_name": "Amanita viridis",
+        "retrieved_at": "2026-08-13T12:55:41+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned only the narrower synonym Amanita bulbosa var. citrina, accepted there as Amanita citrina (柑橘鱗鵝膏菌); it did not establish that the unranked historical book concept Amanita bulbosa Bull. is the same taxon. Köhler's printed aliases span modern Amanita citrina, Amanita phalloides, and Amanita virosa concepts. International fungal backbones likewise show competing historical mappings for Amanita bulbosa names. Tai2 supplied no exact resolution. Because collapsing the old broad concept could attach the wrong Taiwan species name, the entry remains unresolved."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 18,
+      "evidence_type": "text",
+      "page_text_sha256": "ae3f01320550201924c7c1a49973e0526ff9074a360ce9727e1fe0ed71691680",
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e"
+    },
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 19,
+      "evidence_type": "text",
+      "page_text_sha256": "12a129c38fd0fd6d99c4ef3036b39c96504c1507e00b39f6ae10fc2a39145bf0",
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e"
+    },
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 20,
+      "evidence_type": "text",
+      "page_text_sha256": "764095e7d54f5f271b33b31ca0576c24364cf4a84cdb3b638f00735cff2be697",
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-4:p0018-p0020:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "         Syn. Agaricus bulbosus Bull. Ag. vemalis                                   Bolton.        Ag. phalloides Fr.           Ag. virosus\nSecretan.  Ag. Mappa Batsch. Amanita viridis Pers.                                     Am. citrina Pers.\n\n       Familie:                   Agaricaceae.     .     (Reihe: Autobasidiomycetes)               Tribus: Agariceae.              Gattung\nAmanita Pers.",
+      "normalized_text": null,
+      "zh_tw_rendering": "同義名包括Agaricus bulbosus、Ag. phalloides等；隸屬於Agaricaceae科，Amanita屬。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 18,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 271,
+        "char_end": 669,
+        "page_text_sha256": "ae3f01320550201924c7c1a49973e0526ff9074a360ce9727e1fe0ed71691680",
+        "exact_text_sha256": "5046bed11844ac428861f0f3c78b3ffcc51ae2fcf55a2329ca5a22a4680eb819",
+        "source_line_start": 5,
+        "source_line_end": 9,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "5046bed11844ac428861f0f3c78b3ffcc51ae2fcf55a2329ca5a22a4680eb819",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-4:p0018-p0020:s01:x00",
+      "section_type": "description",
+      "original_text": "              Beschreibung: Die Entwicklung der Fruchtkorper dieses Pilzes geht ganz ebenso vor sich,\nwie bei Amanita muscaria (Tafel 7). Auch hier entstehen an einem unterirdischen fadlichen Gewebe,\ndem Mycel, kleine Anschwellungen, die sich allmahlich zu den Fruchtkorpern, zu dem was man ge-\nmeinliin als Pilz bezeichnet, entwickeln.                       Der Fruchtkorper des Knollenblatterschwammes ist ebenfalls\nin derJugend von einer gemeinsamen Haut umgeben, die mit der Streckung des Stieles unterhalb\ndes Hutes abreifit, und die am erwachsenen Pilze dessen knollig verdickten FuB\n                                                                                 als Scheide\numgibt.            Auf der Oberseite des Hutes bleibt die auBere Haut in Gestalt                              einiger weiBlicher               Haut-\nfetzen       zuruck,        die   aber spater meist ganz abgeworfen werden und verschwinden.                                 Unterhalb des\n                                                       Hiille                                                                      Diese reiBt\nbeim Reifen des Fruchtkorpers                     am Rande des Hutes             ein    und     bleibt   am   Stiele   als   weiBliche oder\n                                  Manschette (annulus) stehen.              Der Stiel        des ausgereiften Fruchtkorpers              ist   8 bis\n10        cm Jang,     er ist anfanglich          voll,    spater wird      er   an der Spitze hohl.           Nach oben zu ist er ein\nwenig verjiingt, er ist gebrechlich, weiB.                        Der Hut                                          spater wird er              mehr\nkegelformig oder aber er breitet sich flachgewolbt aus.                             Er ist schwach seidenglanzend, in feuchtem\nZustande etwas klebrig,                  oft   mit einigen Fetzen der auBeren Hiille bedeckt, der Rand ist glatt.                                   Die\nFiirbung des Hutes                ist   eine sehr veranderliche, es         werden auf Grund seiner Farbung eine Reihe von\nVanetaten unterschieden,                   die    von einzelnen Forschern              als    besondere Arten angesprochen werden\n(s. u.).      Die Farbe schwankt zwischen weiB, gelblich und grunlich, die Mitte des Hutes ist oft dunkler\ngefarbt als der Rand.                   Die Lamellen sind einfach, ungeteilt und frei, d. h. nicht am Stiel angewachsen,\nweiB.        Die Sporen sind annahernd kugelig,                    glatt,   weiB,   8—10 fi lang und 8 ft breit.",
+      "normalized_text": null,
+      "zh_tw_rendering": "菌體由菌絲體發育，幼時有外膜，成熟後基部呈球狀並有菌托。菌柄中空，菌蓋色變，菌褶白色，孢子球形。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 18,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 820,
+        "char_end": 3378,
+        "page_text_sha256": "ae3f01320550201924c7c1a49973e0526ff9074a360ce9727e1fe0ed71691680",
+        "exact_text_sha256": "a899e915cbc24969f0ab43f14830ed00cc35dd780f44040ea042ec557193f228",
+        "source_line_start": 15,
+        "source_line_end": 35,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "a899e915cbc24969f0ab43f14830ed00cc35dd780f44040ea042ec557193f228",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-4:p0018-p0020:s02:x00",
+      "section_type": "distribution",
+      "original_text": "                                                                               Die     Fruchtkorper                 des Pikes                 finden    sich       bei    uns    in\n                  Reifezeit der Fruchtkorper:                                                                                                                                         den\n\n Monaten Juli bis November.\n\n                                                                                                                             verbreitet            und haufig        in   Laub- und\n         .\n                  Yorkommen: Der Knollenblatterschwamm                                                             ist\n\n                                                                                           zuweilen          tritt       er        auch        auf     Grasplatzen         und\n Nadelwaldern                     in    Europa und Nordamerika,                                                                                                                   unter\n\n Gebiischen                auf.",
+      "normalized_text": null,
+      "zh_tw_rendering": "產於歐洲及北美之闊葉林與針葉林，偶見於草地，成熟期為七月至十一月。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 19,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 0,
+        "char_end": 1098,
+        "page_text_sha256": "12a129c38fd0fd6d99c4ef3036b39c96504c1507e00b39f6ae10fc2a39145bf0",
+        "exact_text_sha256": "35f44ad05ed2befa1b2d800753b589802b6ad8f5759ab8bc77f54acf77c5dce5",
+        "source_line_start": 1,
+        "source_line_end": 13,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "35f44ad05ed2befa1b2d800753b589802b6ad8f5759ab8bc77f54acf77c5dce5",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-4:p0018-p0020:s03:x00",
+      "section_type": "historical_use",
+      "original_text": "                  Wichtigkeit:                   Bemerkenswert                 ist   der     Knollenblatterschwamm                                       dadurch,         daB    er    zu\n\n unseren           giftigsten            und gefahrlichsten                   Giftpilzen       gehort          und           infolge          seiner    Ahnlichkeit mit dem\n\n Champignon schon zu vielen, meist todlich verlaufenden Vergiftungen gefiihrt hat. Er unter-\n scheidet sich jedoch leicht vom Champignon durch 'semen am Grande deutlich knolligen Stengel;\n\n diese knollige Basis ist wenigstens bei                                      einigermaBen jungen Exemplaren mit der charakteristischen\n Volva oder Scheide umgeben.        Champignon ist der Stielgrund nicht verdickt, auch fehlt\n                                                                    Beim\ndie Scheide. Ferner sind die Lamellen des Knollenblatterschwammes stets weifi und werden\nim Alter schwach gelblich. Beim Champignon sind sie dagegen in der Jugend rosa, im Alter\nfarben           sie       sich        schwarzbraun,                 eine Farbe,      die    durch die schwarzen Sporen bedingt wird.                                             Beim\nKnollenblatterschwamm sind die Sporen weiBlich.                                                          Ferner hat der Knollenblatterschwamm\neinen unangenehmen Geruch nach frischen rohen Kartoffeln (nach Anderen mehr nach Marzipan), wahrend\n\nder     Champignon angenehm                                         duftet.    Auch     der     Champignon                             ist    sonst     ziemlich         veranderlich,\nauBerlich              kommen            einzelne             seiner       Formen      einzelnen      Formen des Knollenblatterschwammes\nsehr nahe.                 Ein        Champignon mit weiBlichen Lamellen ist aber immer verdachtig und sollte besser\nnicht verwendet werden.                                                                                       Marktware oft abgeschnitten, der Geruch\nbei nichtmehr ganz frischen Pilzen oft irrefiihrend, zumal wenn                                                                    sie       mit anderen Arten zusammen\nverpackt waren, deren Geruch sie dann angenommen haben.",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史記載為極毒蘑菇，易與蘑菇混淆致人死亡。區別在於基部球狀、菌托及白色孢子，氣味似生馬鈴薯。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 19,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 1206,
+        "char_end": 3471,
+        "page_text_sha256": "12a129c38fd0fd6d99c4ef3036b39c96504c1507e00b39f6ae10fc2a39145bf0",
+        "exact_text_sha256": "410eac31cd756c35ead1268ea591a2ff17cb3a484f97d1ad1d4171b98de67da8",
+        "source_line_start": 19,
+        "source_line_end": 40,
+        "section_index": 3,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "410eac31cd756c35ead1268ea591a2ff17cb3a484f97d1ad1d4171b98de67da8",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-4:p0018-p0020:s04:x00",
+      "section_type": "constituents",
+      "original_text": "              A. bulbosa verschiedener Provenienz und zu verschiedenen Zeiten gewinnen, das er Phallin nannte.\n              Dupetit hatte die Mykocymase gefunden, ein Encym, das jedoch in verschiedenen Pilzen vorkommt\n              und nur sub cut an giftig wirken soil.                 Gegen die Anschauung Roberts, daB das Phallin der giftige\n              Bestandteil des Pilzes         sei,     spricht die Tatsache, daB der Pilz auch nach                        dem Abkochen noch giftig\n              ist   und daB die Vergiftungserscheinungen nicht auf                       ein Blutgift          deuten:      Seibert fand den Harn\n              stets frei   von EiweiB und Blutfarbstoff.\n                         Abel und Ford                 haben       aus    frischen   Exemplaren von A. bulbosa [und A. citrind] eine\n              haemolytisch wirkende Substanz                  isoliert,    die sich nicht    als   Toxalbumin envies, der auch nicht die\n              Rolle eines Blutgiftes zugesprochen werden kann.                         Dieses Amanitahaemolysin ist ein stickstoffhaltiges\n              Glycosid, das gegen Alkalien wenig, gegen \"Warme                         und gegen Sauren sehr empfindlich                      ist.       Sauren\n              spalten es leicht in eine Pentose,                  Ammoniak und Methylamin.\n                         Es wirkt noch haemolytisch in Verdiinnungen von                           1   :   225000, und wird durch Kupferacetat\n                                                                                                                                     i\n\n\n\n\n              nach Neutralisation mit Ammoniak ausgefallt.\n                         Schlesinger und Ford fanden einen zweiten, Amanitatoxin genannten Stoff, der die Siede-\n              hitze,   selbst in alkalischer          Losung       vertragt,   durch kochende Sauren allerdings unwirksam gemacht\n              wird.     Er ist optisch inaktiv, leicht loslich in Wasser, wenig loslich in Alkohol, unloslich in organischen\n              Losungsmitteln.       Charakteristische              Reaktionen konnten          nicht         aufgefunden      werden.        Er      reduziert\n\n              Fehlingsche Losung erst nach                   dem Kochen mit etwa 10 prozentiger Salzsaure, und                               gibt     nur mit\n              Phosphorwolframsaure eine Fallung.\n                         Nach Abel und Ford enthalt er organisch gebundenen Schwefel.\n                         Rabe fand in neuerer Zeit ebenfalls ein toxalbuminahnliches                                Haemolysin, das Warmbliiter\n              auch intern schon          in geringen         Dosen totet.      Auch nach ihm verliert es beim Erwarmen                            seine Gift-\n\n              wirkung (schon bei          65°).       Bei den       damit vergifteten       Tieren          waren pathologisch-anatomische Ver-\n              anderungen nicht nachweisbar, jedoch fand er haufig Leberverfettung.                                  Es gelang Warmbliiter durch\n              steigende Dosen zu immunisieren.                    AuBer dem Haemolysin fand er auch ein muscarinahnlich wirken-\n              des,    beim Kochen bestandiges,               in   Wasser und Alkohol          losliches        in   Ather und Chloroform unlos-\n              liches Alkaloid.",
+      "normalized_text": null,
+      "zh_tw_rendering": "含Phallin、Amanitahaemolysin及Amanitatoxin等毒素，煮沸不減毒，具溶血作用，部分成分對熱敏感。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 20,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 0,
+        "char_end": 3411,
+        "page_text_sha256": "764095e7d54f5f271b33b31ca0576c24364cf4a84cdb3b638f00735cff2be697",
+        "exact_text_sha256": "08131e1e68fad8ad9fc4f6d4c37f97b7bf2a29fa00f18c5be80a3bd3084fcfac",
+        "source_line_start": 1,
+        "source_line_end": 34,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "08131e1e68fad8ad9fc4f6d4c37f97b7bf2a29fa00f18c5be80a3bd3084fcfac",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-4:p0018-p0020:s05:x00",
+      "section_type": "literature",
+      "original_text": "                         Literatur:        a)     Beschreibung           und   Abbildungen:    Vergl. Tafel          6.     AuBerdem: Ferry, Les\n              Amanites mortelles.\n\n                         b) Bestandteile:           Robert, Lehrbuch der Intoxicationen.                       — Real en eye lop a die der                 ges.\n\n                            — Seibert, Dissert.                            — Abel und Ford, Journ.\n          1\n\n\n    SIB\n\n              Pharmazie                                           1893.                                                   of Biol.   Chem. 2, 273.\n              Schlesinger und Ford, ebenda 3, 279.                         — Rabe, Zeitsch.            f.    exp. Path,    und Therapie % 352.\n              R a dais und Sartory, Comptes rendus de Tacad. d. sciences 153, 1527, 155, 180.",
+      "normalized_text": null,
+      "zh_tw_rendering": "參考文獻包括Ferry之Amanites mortelles，及Robert、Seibert、Abel與Ford等關於毒素之研究。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 20,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 4671,
+        "char_end": 5517,
+        "page_text_sha256": "764095e7d54f5f271b33b31ca0576c24364cf4a84cdb3b638f00735cff2be697",
+        "exact_text_sha256": "8d2b42851dc2efe430128095f88c332b2430c8abf7233ae8fc621dbaae1a6462",
+        "source_line_start": 55,
+        "source_line_end": 68,
+        "section_index": 5,
+        "section_type": "literature"
+      },
+      "exact_text_sha256": "8d2b42851dc2efe430128095f88c332b2430c8abf7233ae8fc621dbaae1a6462",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Do not answer 柑橘鱗鵝膏菌 solely from the TaiCOL match for Amanita bulbosa var. citrina; Köhler's unranked historical concept includes aliases now assigned to multiple Amanita species.",
+    "The external taxonomy evidence is metadata only and does not supply Köhler fungus facts.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "3f89239e8e5c6b0ef34b41e20e2859fd14b027700e16bbf9f7701b5cd7ee6eae",
+    "maker_receipt_sha256": "36ade504e2af780e24d1e2f86798cc4de40f163f7a98098e749a16323c6ccbfb",
+    "validation_check_sha256": "a00430dffb70a7658b33af9981e434947bc8cf941ee16fcfe068f60590bb9083",
+    "source_disposition_sha256": "94660341a41529e9c99fc5b500b7e5a2296353872689f040d7b5a00b6dfdeda0",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "36ade504e2af780e24d1e2f86798cc4de40f163f7a98098e749a16323c6ccbfb",
+      "validation_check_sha256": "a00430dffb70a7658b33af9981e434947bc8cf941ee16fcfe068f60590bb9083",
+      "source_disposition_sha256": "94660341a41529e9c99fc5b500b7e5a2296353872689f040d7b5a00b6dfdeda0"
+    },
+    "naming_artifact_sha256": "3339ec071a31981fa827ecb237d291010a14c09bf1d2952a9f198e9d62a402a6"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "bc724e1370e0fa322ad379cd3772cb58dc9b328854d7345972b823fe561e2938"
+}

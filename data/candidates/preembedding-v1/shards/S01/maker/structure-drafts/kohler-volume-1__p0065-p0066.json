@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0065-p0066",
+  "owner_shard": "S01",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 114.982,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0065-p0066",
+    "book_taxon": {
+      "scientific_name_candidate": "Ruta graveolens L.",
+      "authorship_candidate": "L.",
+      "aliases_candidates": [
+        "Ruta hortensis Miller"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 65,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Ruta graveolens L.，異名 Ruta hortensis Miller。德語名 Gartenraute，英語名 Rue。",
+        "warnings": [],
+        "source_line_range": [
+          6,
+          11
+        ],
+        "exact_source_quote": "                                           Ruta graveolens L.\n                                            Syn. Ruta hortensis Miller.\n\n                                  Gartenraute, Weinraute                   Rue          Rue.\n\n          Familie: Rntaceae.           Gattung: Ruta L."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 65,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "多年生草本，高 0.3-1.0 米。莖圓形，葉互生，上部單葉，下部二至三回羽狀分裂，葉片三角形。",
+        "warnings": [],
+        "source_line_range": [
+          12,
+          25
+        ],
+        "exact_source_quote": "          Beschreibung.          Ausdauernde, 0,30- 1,00          m hohe, am Grunde oft halbstrauchartige Staude\n                            Wurzel\nverzweigten oder einfachen, runden, griinen nnd braunen, weisslich bereiften, glatten Stengeln.                           Blatter\n\nabwechselnd, gestielt, die obersten einfachen sitzend, doppelt                 bis                   im Umrisse fast\n                                                                                     3fach fiedertheilig   ,\n\n\n\n\ndreieckig, die grosser en 10 cm lang   und 6 cm breit.             Fiederabschnitte spatel- bis verkehrt - eiformig, an\nder Spitze breit     gerundet, ganzrandig oder schwach gekerbt-gesagt; nach oben werden                             die   Blatter\n\neinfacherund gehen allmahlig in die einfachen, laubigen Deckblatter der Bllithenaste iiber.                         Alle Blatter"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 65,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "莖皮含厚木栓層，皮層含黃綠色葉綠體及油囊。內皮層含星狀晶體。草本莖無木栓，髓部海綿狀。",
+        "warnings": [],
+        "source_line_range": [
+          63,
+          74
+        ],
+        "exact_source_quote": "          Anatomisches : Die Rinde des Stammes besteht aus einer dicken Korklage, unter welcher sich die, im Quer-\nschnitte ein doppelschichtiges Parenchym zeigende Mittelrinde befindet. Die aussere, an den Kork grenzende Schicht\ndieses Parenchyms   besteht aus  Zellen, die  theils  mit  einem  gelblich-grunen  Chlorophyll,   theils mit  einer feinkornigen,\n\ntheils mit  einer  grobkornigen    Substanz   ertullt  sind,  in deren   ausserer Lage   ein  weitlaufiger  Kreis  von grosseren,\n\ngriinlich-gelben  Oelbehaltern  befindlich ist.   Die  innere  Schicht  dieser Mittelrinde   besteht  aus  ahnlichen Parenchym-\nzellen mit gleichem   Inhalte,  nur fehlen  hier  die Chlorophyll zellen, die durch  Gruppen   von  Zellen ersetzt  werden,\n\nderen Inhalt aus  morgensternformigen   Krystalldrusen  besteht.  Die Innenrinde besteht aus Biindeln von  Bastparenchym,\ndie durch 1-, selten 2reihige  Markstrahlen   von  einander  getrennt werden.    Die krautigen  Zweige  besitzen  2  Reihen\nvon Epidermalzellen, sind ohne Kork und enthalten ein schwammiges, weisses Mark."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 65,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分布於地中海地區。在德國等地作為藥用植物栽培，偶有逸生。",
+        "warnings": [],
+        "source_line_range": [
+          76,
+          78
+        ],
+        "exact_source_quote": "            Verbreitung.        Im Grebiet des Mittellandischen Meeres.              In Deutschland und andern Landern\n\nin den Garten als Arzneipflanze kultivirt             und hier und da verwildert."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 65,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "希波克拉底文獻中已提及。歷史上誤作解毒劑，為米特里達提解毒藥主要成分。",
+        "warnings": [
+          "Historical medical content described as historical, not advice."
+        ],
+        "source_line_range": [
+          90,
+          97
+        ],
+        "exact_source_quote": "         Die Grartenraute findet schon in  den  hypokratischen  Schriften  als Tttjyavov  Erwahnung;    sie ist\n\n                                      den  fruhesten Zeiten (irrthiimlicherweise) als ein  vorzugliches Mittel\nein uraltes Arzneimittel und gait  in\n                                       Schierlingssaft.   Das  Kraut  bildete  einen  Hauptbestandtheil     des\ngegen  Vergiftung, namentlich durch\n                          Mithridat genannt, jenes aus 54 meist erhitzenden Ingredienzen zusammen-\nmithridatischen Antidots,"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 66,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含蘋果酸、樹脂及約 1/4% 揮發油。油含烴及含氧成分（甲基十一酮）。葉含結晶性路丁。",
+        "warnings": [],
+        "source_line_range": [
+          35,
+          45
+        ],
+        "exact_source_quote": "            Bestandtheile.                            Neb en Apfelsaure, Harz etc. enthalt das Kraut ca. */4 °/                             i\n                                                                                                                                                    die Fruchte ca. 1 °, o\natherisches Oel,                  welches entweder farblos                   ist    oder schwach gelblich erscheint und einen                                  angenehmen\nGeruch     besitzt,              mit einem spec. Gew. von 0.03                       — 0.84.      Es         erstarrt       bei   1   bis            2° zu glanzenden\nBlattchen und               ist    zusammengesetzt aus einem unter 200° siedenden Kohlenwasserstoff und einem sauer-\nstoffhaltigen         ,    in    reinem Zustande bei 225                   — 236° siedenden, blaulich violett fluorescirenden, bei +6°\n                                                                                                                        -\n\nkrystallinisch erstarrenden Oele                           von 0.826        spez. Gewichte.            Die Untersuchungen von Gorup,                                   Grimm\nund Giesecke haben das Ergebniss                                      geliefert,    dass      der sauerstoffhaltige Bestandtheil des Eautenoles\naus Methylcaprinol oder Methylpelargonylketon                                                 H 10 (CH"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "03faa5cc2d40d077d0b72ab1770ff5655c01dd96c0397d4f7974bd33d279d93a"
+}

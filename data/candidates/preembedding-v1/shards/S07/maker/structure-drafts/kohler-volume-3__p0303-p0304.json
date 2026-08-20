@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-3:p0303-p0304",
+  "owner_shard": "S07",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 131.461,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-3:p0303-p0304",
+    "book_taxon": {
+      "scientific_name_candidate": "Paullinia Cupana",
+      "authorship_candidate": "Kunth",
+      "aliases_candidates": [
+        "Paullinia sorbilis Mart.",
+        "Guarana",
+        "Uarana",
+        "Guarana-üra",
+        "Gruarana-sipo"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 303,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Paullinia Cupana Kunth，同義名 Paullinia sorbilis，屬無患子科。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          4
+        ],
+        "exact_source_quote": "                                Paullinia                   Cupana              Kunth.\n                         Guarana, Uarana, Guarana-üra, Gruarana-sipo.\n         Syn.: Paullinia sorbilis Mart.            |\n         Familie: Sapindaceae. Tribus: Paullinieae. Subtribus: Bupaullinieae. Gattung: PaulliniaL."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 303,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "直立或攀援灌木，葉互生，奇數羽狀複葉，具五小葉，長 20-40 公分，革質，兩面無毛。",
+        "warnings": [],
+        "source_line_range": [
+          5,
+          16
+        ],
+        "exact_source_quote": "         Beschreibung. Ein aufrechter oder häufiger kletternder Strauch, die jüngeren Zweige\nmit vier bis fünf Längsfurchen, schwarzbrauner Rinde, gegen die Spitze zu behaart, aber\nbald kahl werdend. Die abwechselnd stehenden Blätter sind unpaarig-gefiedert und besitzen\nfünf Blättchen; sie sind 20 bis 40 cm lang und fast ebenso breit; der Blattstiel ist 7 bis 15 cm\nlang, die Blattachse ungefähr halb so lang, beide auf der Oberseite mit einer Längsrinne\nversehen, an der Unterseite konvex, fein gestreift und kahl. Die Nebenblätter am Grunde\ndes Blattstieles sind 2 bis 3 mm lang, aus breiterem Grunde pfriemenförmig. Die einzelnen\nBlättchen sind 3 bis 6 mm lang gestielt, 10 bis 20 cm lang, 4 bis 9 cm breit, eiförmig-läng-\nlich, das endständige an der Basis spitz und fast keilförmig, die seitlichen an der Basis ab-\ngerundet, alle nach der Spitze zu grob- und unregelmässig gezähnt (die Zähne meist stumpf\nund verschieden gross), lang zugespitzt, lederartig von Konsistenz, auf beiden Seiten kahl,\ndie Oberseite glänzend, die Unterseite mit kräftig hervortretenden Nerven und Adern versehen."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 303,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "產於委內瑞拉及巴西亞馬遜地區，如 Tapajos、Madeira 及 Para 省，亦有栽培。",
+        "warnings": [],
+        "source_line_range": [
+          38,
+          41
+        ],
+        "exact_source_quote": "        Vorkommen und Verbreitung. Die Pflanze ist in Venezuela und den brasilianischen\nProvinzen    Alto Amazonas        und    Para     verbreitet,     also   im    Gebiete     des   Tapajos,     des     unteren\nMadeira     und   des Amazonas.         An      einzelnen Stellen, so bei Villa bella de Imperatriz,                      und\nversuchsweise     auch     in Rio, wird       sie kultiviert."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 303,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "種子外殼具角質化層及厚壁柵狀細胞；子葉內含大量澱粉粒及糊粉粒。",
+        "warnings": [],
+        "source_line_range": [
+          44,
+          54
+        ],
+        "exact_source_quote": "        Anatomisches. Die Anatomie des Stammes und die Blattstruktur weichen nicht von\nden für die ganze Gattung Paullinia gültigen Verhältnissen ab. Näheres über diese vergl.\ndie ausführlichen Arbeiten von Radlkofer in seiner Monographie von Paullinia und in\nEngler-Prantl Nat. Pflanzenfam. a. a. ©. Zohlenhofer fand, dass die glänzende braune\nSamenschale aussen zunächst eine kutikularisierte Aussenschicht aufweist. Auf diese folgt\neine Schicht ziemlich stark verdickter Palissadenzellen mit welligen Wänden und zahlreichen\nPorenkanälen;     hierauf     folgt ein stark       obliteriertes   Gewebe       aus    tangentialgestreckten         Zellen.\nDie Kotyledonen haben eine nur eine Zelllage dicke Aussenschicht mit beinahe rechteckigen\ntangentialgestreckten       Wänden;       das    Innere     der   Kotyledonen          besteht   aus     isodiametrischen,\nstumpfeckigen     dicht mit Stärke und Aleuronkörnern angefüllten Zellen.                              Die Stärke besteht\n                                                                                                                68 („2"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 304,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原住民將種子搗碎加可可製成棒狀，作飲料「aqua branca」，歷史用途非醫療建議。",
+        "warnings": [],
+        "source_line_range": [
+          11,
+          27
+        ],
+        "exact_source_quote": "                            Sa me n     de r  Pf la nz e    we  rd en     vo n     de n   Ei ng  eb or en en      ze rs to ss en   un d   mi t\n        Droge.      Di e\n                                              Zusatz      von    Kakao        und     Manihotstärke,     zu     einer Masse         geknetet,\nheissem      Wasser,         oft unter\n                                                                bis 5 cm       dicke, harte Stangen             geformt         wird.   Diese\nwelche      häufig in 1 bis 3 dm lange,\n           un te r de m Na me n G@ ua ra na be ka nn t                       und dient den Eingeborenen                  als Genussmittel;\nPaste  ist\n                                                                             am unteren Amazonenstrom.                    Die Abstammung\nein Hauptplatz für ihren Vertrieb ist Santarem\n                                                           de m   Na me  n    de s  In di an  er st am me s    de r  Gu ar an is\ndes Namens ist nicht ganz sicher; er soll von\n                                                           r  Tu pi  -S pr ac he    Sc hl in gs tr au ch    be de ut en .    Di e\nabgeleitet sein; andererseits soll Guarana in de\n                                                           sc hm  ac k    un d    wi rd   hä uf ig   zu r  Be re it un g   ei ne s\nGuarana besitzt einen an Kakao erinnernden Ge\nGeträn ke s „a qu a br an ca “ de s Na me ns , we is se s Wa ss er ,   ve rw en de t."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 304,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含咖啡因（2.29-5%）、脂肪、單寧及澱粉；1817 年歐洲始知，1840 年確認含咖啡因。",
+        "warnings": [],
+        "source_line_range": [
+          28,
+          37
+        ],
+        "exact_source_quote": "         Bestandteile. Die Guarana-Pasta ist erst seit                 18 17   in   Eu  ro pa    be ka nn t,    in   we  lc he m\n                                            nd sc ha ft so ff iz ie r    vo n  Ri o  de s  Ja ne ir o   an   Ca de t     ge -\nJahre sie durch einen französischen Gesa\n                                        Er fand da        ri n    ei  ne   be so nd er e    Su bs ta nz    „G ua ra ni n“ ,\nlangte, der sie zuerst untersuchte\n                                    ff ei n   er ka nn t    wu rd e.      Pe  ck ol t    fa nd   in   de n  en ts ch äl te n\nwelches später im Jahre 1840 als Ko\nGuaranasamen 4,8 und in den Same    ns  ch  al  en    2, 4° |,   Ko ff ei n,   2, 29 °/ ,   Fe tt e,    8, 5 °/,  Ge  rb sä ur e,\n5,49 °/, Stärkemehl. Squibb erhielt     4, 83 °/ ,  Ko ff ei n;    Fl  üc  ki ge r     3, 72 °/ ,    se hr   re in es   Ko ff ei n\naus Guarana und Feem   st er 5° /, au s   Sa  me  n,    3, 9° /,  bis   5° ),  au s   de  r   Pa st e."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "01da4236531d238e0820d44af0a6f42eafbd0c587a75aa4c4d37708ee33a9d30"
+}

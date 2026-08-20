@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "selected_at": "2026-08-12T16:50:00+08:00",
+  "selector_report": "reports/production-candidate-selection-2026-08-12.json",
+  "selected": {
+    "taxon": "Polygala Senega L.",
+    "source_id": "kohler-volume-2",
+    "pdf_pages": [101, 102],
+    "next_entry": "Smilax medica Cham. et Schlechtend. on PDF page 103",
+    "raw_ocr_rank_before_promotion": 1
+  },
+  "visual_review": {
+    "pages_reviewed": [101, 102, 103],
+    "status": "passed",
+    "result": "PDF 101-102 form one readable Polygala Senega entry; PDF 103 visibly begins Smilax medica. No plate-image facts were promoted."
+  },
+  "name_decision": {
+    "display_name_zh_tw": "美遠志",
+    "aliases_zh_tw": ["遠志"],
+    "role_limit": "Taiwan sources support ingredient/name terminology, not Taiwan occurrence.",
+    "occurrence_status": "not_recorded_in_checked_sources",
+    "sources": [
+      {"authority": "衛生福利部《中藥管理法規解釋彙編》", "url": "https://www.mohw.gov.tw/dl-37982-5068c71c-8327-40ea-9fbe-72cba235fd61.html", "result": "Senega / 美遠志"},
+      {"authority": "衛生福利部《中醫藥年報》第 28 期第 4 冊", "url": "https://www.mohw.gov.tw/dl-28443-bc1272eb-6b0b-4ad6-adab-9a597d9f456b.html", "result": "Polygala senega / 遠志"},
+      {"authority": "台灣植物資訊整合查詢系統 Tai2", "url": "https://tai2.ntu.edu.tw/family/Polygalaceae", "result": "Senega / 美洲遠志屬；未用此屬名頁外推 Polygala senega 的臺灣 species occurrence。"}
+    ],
+    "do_not_conflate_with": ["Polygala tenuifolia / 細葉遠志"]
+  },
+  "verdict": "selected_for_one_bounded_production_batch"
+}

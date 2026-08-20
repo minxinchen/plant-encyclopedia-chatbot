@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 269,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "41c1ac856aa39a590d3fa3381f20c05594f869d363f77d4b792ea3e2c5891dc0",
+  "render_dpi": 144,
+  "render_sha256": "e08f7925342ee2d500398d9de1f5a55e91f68041a4dfa84df61dfa2193f9407f",
+  "input_sha256": "e08f7925342ee2d500398d9de1f5a55e91f68041a4dfa84df61dfa2193f9407f",
+  "render_pixel_width": 5906,
+  "render_pixel_height": 8282,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 5.5,
+  "embedded_character_count": 214,
+  "ocr_character_count": 45,
+  "ocr_alpha_ratio": 0.7778,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.017621161445738776,
+      "text": "Acoreae",
+      "width": 0.06323348298689585,
+      "x": 0.1038211397906258,
+      "y": 0.9257824427090404
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372621082214,
+      "text": "Acorus Calamus L",
+      "width": 0.1446028538307328,
+      "x": 0.45010183101742385,
+      "y": 0.13808139501940075
+    },
+    {
+      "confidence": 1,
+      "height": 0.015641334510984928,
+      "text": "WMüller ad Natur.",
+      "width": 0.11744649619154213,
+      "x": 0.8324167993145932,
+      "y": 0.1133457758844123
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "17",
+      "width": 0.010183299201254381,
+      "x": 0.9368635437972004,
+      "y": 0.02906976755731816
+    }
+  ],
+  "text": "Acoreae\nAcorus Calamus L\nWMüller ad Natur.\n17",
+  "output_sha256": "ff484e903f28911da75b4f183fe73398485749ad0a14184fbf5ac13e0d849eee",
+  "receipt_sha256": "08b227d12b03a31f86a723e53bb9f612591c1ffd3ec513af875533fd16c319c9"
+}

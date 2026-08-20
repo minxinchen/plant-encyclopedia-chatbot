@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 461,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "6274891fcae9cdde9bd8ae41077ec1c2f1aca802da73204e0ee050c5264049cf",
+  "render_dpi": 144,
+  "render_sha256": "f1609b7d435b2f72804badba0f3e0fdad15712fe8a0bbad282050cb2c5e8b9ce",
+  "input_sha256": "f1609b7d435b2f72804badba0f3e0fdad15712fe8a0bbad282050cb2c5e8b9ce",
+  "render_pixel_width": 5930,
+  "render_pixel_height": 8246,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.967,
+  "embedded_character_count": 99,
+  "ocr_character_count": 43,
+  "ocr_alpha_ratio": 0.7907,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.016849005033099496,
+      "text": "Santalaceae",
+      "width": 0.09320841822130932,
+      "x": 0.8867291248026247,
+      "y": 0.9603254975342552
+    },
+    {
+      "confidence": 1,
+      "height": 0.021571361829364144,
+      "text": "(Osyrideae)",
+      "width": 0.09343292236328127,
+      "x": 0.886616872843632,
+      "y": 0.9339817611401758
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "3",
+      "width": 0.01212121108482625,
+      "x": 0.1595959601814926,
+      "y": 0.694767441732674
+    },
+    {
+      "confidence": 1,
+      "height": 0.01747646691307181,
+      "text": "Santalum album L:",
+      "width": 0.16161615832098597,
+      "x": 0.4242424272368134,
+      "y": 0.06101190465633721
+    }
+  ],
+  "text": "Santalaceae\n(Osyrideae)\n3\nSantalum album L:",
+  "output_sha256": "909235126d2b0307060ad1e7ff9e0d8b5203ea77cfc649fc49e7c682a9c46fd4",
+  "receipt_sha256": "c1c6b8fecb112d5484a3d56cc5eb05895bae9679235562d438b09579a093e0aa"
+}

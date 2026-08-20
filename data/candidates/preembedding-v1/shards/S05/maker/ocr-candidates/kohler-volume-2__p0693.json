@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 693,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "973fc73ecb37623561d216d0bec370ec6f73bf5b5c16f6e852906057f77a8894",
+  "render_dpi": 144,
+  "render_sha256": "ed2f8a44935a9fa13a4792fc2e8d9e95512925dec7340ec452e51a8a5618fdff",
+  "input_sha256": "ed2f8a44935a9fa13a4792fc2e8d9e95512925dec7340ec452e51a8a5618fdff",
+  "render_pixel_width": 5762,
+  "render_pixel_height": 7922,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.262,
+  "embedded_character_count": 87,
+  "ocr_character_count": 51,
+  "ocr_alpha_ratio": 0.7255,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.3,
+      "height": 0.021579131247505323,
+      "text": "Zingiberaceáe.",
+      "width": 0.16594606073193585,
+      "x": 0.784292440767168,
+      "y": 0.9165360157506528
+    },
+    {
+      "confidence": 1,
+      "height": 0.08749999697246247,
+      "text": "T",
+      "width": 0.07428571392909639,
+      "x": 0.07999999997422733,
+      "y": 0.3041666688054354
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "B",
+      "width": 0.013972055530093064,
+      "x": 0.7664670659475282,
+      "y": 0.20058139535255215
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883082859107,
+      "text": "8",
+      "width": 0.01596806402017903,
+      "x": 0.8782435130331574,
+      "y": 0.07848837248473328
+    },
+    {
+      "confidence": 1,
+      "height": 0.023508802292838915,
+      "text": "Zingiber officinale. Rosc.",
+      "width": 0.3002073863938949,
+      "x": 0.35488657753870256,
+      "y": 0.05366410771755625
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "172",
+      "width": 0.02594810387026969,
+      "x": 0.8882235531147653,
+      "y": 0.023255814106704964
+    }
+  ],
+  "text": "Zingiberaceáe.\nT\nB\n8\nZingiber officinale. Rosc.\n172",
+  "output_sha256": "3c23ac3292fe854932905f261d27113ab5a1ff31a2a9bbef0699de5f5a8ea057",
+  "receipt_sha256": "1703934a62dafe754aca72de96c6e443b619f10ca1bdb9938a8b9a5b21e83df8"
+}

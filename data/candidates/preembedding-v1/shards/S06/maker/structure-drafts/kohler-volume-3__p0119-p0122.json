@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-3:p0119-p0122",
+  "owner_shard": "S06",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 139.982,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-3:p0119-p0122",
+    "book_taxon": {
+      "scientific_name_candidate": "Aethusa Cynapium",
+      "authorship_candidate": "L.",
+      "aliases_candidates": [
+        "Hundspetersilie",
+        "Katzenpetersilie",
+        "kleiner oder Garten-Schierling",
+        "Gleisse",
+        "Fool's Parsley",
+        "Petite Ciguë",
+        "Faux Persil",
+        "Ciguë des jardins",
+        "Ache des chiens",
+        "Honds-pieterselie",
+        "Cicuta minor",
+        "Cicuta menor",
+        "Coriandrum Cynapium"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 119,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "隕形科，Orthospermae亞科，Seselineae族，Aethusa屬。",
+        "warnings": [],
+        "source_line_range": [
+          7,
+          8
+        ],
+        "exact_source_quote": "          Familie: Umbelliferae Jussieu.                        Unterfamilie:                   Orthospermae Jussieu.                Section:          Sese-\n lineae Koch. Gattung: Aethusa L."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 119,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "一至二年生草本，直立中空莖，葉互生，三回羽狀分裂，呈近等邊三角形。",
+        "warnings": [],
+        "source_line_range": [
+          10,
+          15
+        ],
+        "exact_source_quote": "               Beschreibung.           Ein     ein- bis zweijähriges Kraut                        mit senkrechter, einfacher, spindel-\n förmiger,       wenig       ästiger, gelblich         weisser     Wurzel.           Der Stengel wird, je nach                       Zeit und Stand-\n ort, 10—120           cm     hoch,     ist aufrecht,         innen       hohl,       knotig,       stielrund,          fein     bereift     und   rillig,\n kahl,     am     Grunde           bisweilen    mit     schwarzroten               oder     schwarzvioletten                  Flecken      besetzt.       In\n verschiedener              Höhe      vom      Boden     an     teilt     er       sich    in    sehr      steife,       cymoes-sparrige               Äste,\n welche        sich    von     neuem         ebenso     verzweigen.                Die     Blätter       stehen          abwechselnd,           ziemlich"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 120,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分布於全歐洲及北亞，生長於園地、耕地、村莊周邊及廢墟堆。",
+        "warnings": [],
+        "source_line_range": [
+          43,
+          52
+        ],
+        "exact_source_quote": "                      Vorkommen.                 Auf Garten- und Ackerland jeder Art, in der Umgebung von Dörfern\n                                                                                                                                                                                         ?\n\n\n                                                                                                                                                     Asien     verbreitet\n                                                           D\n\n\n                                                                                   ganz     Europa            und         das nördliche\n        ="
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 120,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史上視為劇毒植物，誤食可致劇烈頭痛、腹痛、嘔吐及昏迷，易與毒芹或歐芹混淆。",
+        "warnings": [],
+        "source_line_range": [
+          69,
+          77
+        ],
+        "exact_source_quote": "                      Pharmaeeutisch                wichtig          ist die Pflanze             wegen             ihrer Ähnlichkeit                 sowohl      mit           Conium\nmaculatum                L., als auch             mit Petroselinum               sativum     Hofim.           —      Sie gilt, besonders                     im frischen           Zu-\n stande, für eine                    heftige        Giftpflanze,           die     zwar      nicht        entfernt           die Wirkung               von     Conium           macu-\n latum oder gar von Cieuta virosa L. hat, die aber nach dem Genusse,                                                                            wenn auch nicht den\n Tod,            so     doch       heftige Kopf-               und     Magenschmerzen,                   Schwindel,                Erbrechen,           Bewüsstlosigkeit .\n                                             e                                                            i\n Anschwellen des Leibes                                 zur Folge haben                   kann.         Eine          Verwechselung                   dieser Pflanze               mit\n Conium               würde        deshalb          letztere          Droge       entwerten;             eine        Verwechselung                    dieser     Pflanze           mit\n der Petersilie                könnte            aber     sehr nachteilige               Folgen         nach         sich ziehen."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 121,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "葉尖具乳突，中脈與側脈筆刷狀延伸，此特徵區別於毒芹與歐芹。",
+        "warnings": [],
+        "source_line_range": [
+          27,
+          32
+        ],
+        "exact_source_quote": "        Anatomie.    Die  Blät ter    von   Aeth usa   Cyn api um   L. hat   Han s Vir  cho w    unte rsuc ht,\nCharakteristisch ist hier zun äch  st   die  mit  Papi llen  bese tzte Spit ze der Blat tzäh ne,  in  wel che\nder Mittelnerv              und      die Seitennerven                pinselförmig    auslaufen.           Diese    Papillen         fehlen    sowohl\n\nden Blättern              von     Conium,       ‘wie    auch     denen      von     etroselinum.          Bei     Conium      ist    überdies          die\n"
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 122,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "圖版：開花植株，邊緣花，中央花，子房，果實及橫切面，部分放大。",
+        "warnings": [],
+        "source_line_range": [
+          19,
+          22
+        ],
+        "exact_source_quote": "                                                   Tafelbeschreibung:\n                                                           de;    2 Blü te  aus   dem    Inn ere n  der   Dol de;  3 Fru  cht kno ten ;\n         A blühende Pflanze. 1 Randblüte einer Dol\n4 Frucht; 5 die sel be im Que rsc hni tt. A nat ürl ich e Grö sse ,  1—5   ver grö sse rt,   All es  nac h   der  Nat ur."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "97170ea7ae13f855c16dd746e59f0632f7eac3fa2a22adedfe8d17ca0fa3175f"
+}

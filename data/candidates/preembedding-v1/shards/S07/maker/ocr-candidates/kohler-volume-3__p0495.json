@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 495,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "737f2afdcca85f4f1911fd3848818aa4f9bbdc7da5199e3dc58b842eb7d25f9c",
+  "render_dpi": 144,
+  "render_sha256": "97b3772877699dd4277acc19ae467a2e3f564d35939a082be108d6b14989a3f2",
+  "input_sha256": "97b3772877699dd4277acc19ae467a2e3f564d35939a082be108d6b14989a3f2",
+  "render_pixel_width": 5930,
+  "render_pixel_height": 8282,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.096,
+  "embedded_character_count": 51,
+  "ocr_character_count": 54,
+  "ocr_alpha_ratio": 0.7407,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.023678705805823874,
+      "text": "Aquifoliaceae.",
+      "width": 0.12186016600548066,
+      "x": 0.7970820870094744,
+      "y": 0.9431025077547075
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729363,
+      "text": "2",
+      "width": 0.0141987827015716,
+      "x": 0.9087221097901879,
+      "y": 0.8241279068974028
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847165,
+      "text": "3",
+      "width": 0.016227180607761404,
+      "x": 0.8945233267346588,
+      "y": 0.6017441860933497
+    },
+    {
+      "confidence": 1,
+      "height": 0.023342331250508663,
+      "text": "Ilex paraguariensis St. Hilaire.",
+      "width": 0.2778904669172546,
+      "x": 0.5111561887354227,
+      "y": 0.011627907132983784
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "60",
+      "width": 0.018255577193072692,
+      "x": 0.8965517247401775,
+      "y": 0.023255814190069946
+    }
+  ],
+  "text": "Aquifoliaceae.\n2\n3\nIlex paraguariensis St. Hilaire.\n60",
+  "output_sha256": "bf543aa4191231d9fa896a61e54b2178fc94ef27b854f36f2248840f77ed213f",
+  "receipt_sha256": "e04d10b04444d86ebeb4167644e4e7012da06016dccfec5933ca0ebd9e515060"
+}

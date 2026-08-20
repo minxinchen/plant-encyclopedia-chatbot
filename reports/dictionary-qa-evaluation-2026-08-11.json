@@ -1,0 +1,171 @@
+{
+  "schema_version": "1.0",
+  "checked_at": "2026-08-11T09:25:00+08:00",
+  "author": "OpenAI Codex",
+  "model": "gpt-5",
+  "purpose": "Evaluate dictionary-style retrieval and source-layer discipline on two user-supplied questions.",
+  "corpus": {
+    "collection": "Kohler's Medizinal-Pflanzen",
+    "sources": 4,
+    "indexed_pdf_pages": 1774,
+    "fts_rows": 1774,
+    "quality_counts": {
+      "usable": 1175,
+      "fragmented": 22,
+      "low_text": 376,
+      "empty": 201
+    },
+    "coverage_note": "Every PDF page has an index row, but 631 fragmented, low-text or empty pages remain OCR candidates. A zero-hit result therefore means no evidence in the current text index, not proof that no unreadable page can contain it."
+  },
+  "source_policy": {
+    "book_facts": "Only claims supported by cited PDF pages.",
+    "taiwan_names": "TaiCOL first; Tai2 or another Taiwan public authority second. Preserve the scientific name when no verified Taiwan Chinese name is available.",
+    "web_supplement": "Current medical guidance and cultural associations are labelled external and never presented as book content."
+  },
+  "questions": [
+    {
+      "id": "q1-constipation",
+      "question_zh_tw": "便秘的時候有什麼植物可以用？具有什麼處理方法？",
+      "dictionary_queries": [
+        {"term": "Verstopfung", "hits": 6},
+        {"term": "Obstipation", "hits": 6},
+        {"term": "abführ*", "hits": 26},
+        {"term": "Abführmittel", "hits": 8}
+      ],
+      "book_candidates": [
+        {
+          "display_name_zh_tw": "亞歷山大決明",
+          "book_scientific_name": "Cassia acutifolia Delile",
+          "current_scientific_name": "Senna alexandrina Mill.",
+          "taiwan_name_status": "Tai2 cultivated record",
+          "taiwan_name_source": "https://tai2.ntu.edu.tw/species/409%20132%20337%200",
+          "source_id": "kohler-volume-2",
+          "entry_pdf_page": 339,
+          "evidence_pdf_pages": [343, 344],
+          "book_processing_summary": "The leaves were given almost exclusively as an infusion. The entry also lists fluid extract, syrup, compound infusion, tincture and confection preparations.",
+          "book_effect_and_risk_summary": "The entry describes a mild laxative effect but also abdominal pain, nausea and even colic in many people.",
+          "answer_status": "include_as_historical_book_record_with_current_safety_warning"
+        },
+        {
+          "display_name_zh_tw": "Rhamnus purshiana（未查得台灣公開中文名，保留學名）",
+          "book_scientific_name": "Rhamnus Purshiana De Candolle",
+          "current_scientific_name": "Frangula purshiana (DC.) A.Gray ex J.G.Cooper",
+          "taiwan_name_status": "unresolved",
+          "source_id": "kohler-volume-3",
+          "entry_pdf_page": 57,
+          "evidence_pdf_pages": [59],
+          "book_processing_summary": "The bark was not used fresh; the entry says it was stored for more than a year. It describes maceration with magnesium oxide and water, drying, and preparation as fluid extract, tincture or wine.",
+          "book_effect_and_risk_summary": "The entry connects the aged bark with habitual constipation and says fresh bark could cause nausea and colic.",
+          "answer_status": "include_as_historical_book_record_only"
+        },
+        {
+          "display_name_zh_tw": "Podophyllum peltatum（Tai2 無中文名）",
+          "book_scientific_name": "Podophyllum peltatum L.",
+          "current_scientific_name": "Podophyllum peltatum L.",
+          "taiwan_name_status": "Tai2 Non-Taiwanese record without Chinese name",
+          "taiwan_name_source": "https://tai2.ntu.edu.tw/species/999%20990%208%2017",
+          "source_id": "kohler-volume-1",
+          "entry_pdf_page": 191,
+          "evidence_pdf_pages": [191, 192],
+          "book_processing_summary": "The rhizome was treated with alcohol; the resin called podophyllin was precipitated from the alcoholic solution with acidified water or alum.",
+          "book_effect_and_risk_summary": "The entry calls the root and resin drastic purgatives and notes colic. It is not suitable as a modern self-treatment instruction.",
+          "answer_status": "exclude_from_modern_recommendation"
+        },
+        {
+          "display_name_zh_tw": "蘆薈類",
+          "book_scientific_name": "Aloe socotrina (succotrina) Lam. and other Aloe source species",
+          "current_scientific_name": "multiple Aloe taxa",
+          "taiwan_name_status": "generic Chinese name only; exact source-species mapping not promoted",
+          "source_id": "kohler-volume-2",
+          "entry_pdf_page": 309,
+          "evidence_pdf_pages": [313],
+          "book_processing_summary": "The drug is described in powder, pills and tincture among other preparations.",
+          "book_effect_and_risk_summary": "The entry links it to habitual constipation but says larger doses are drastic and frequent or prolonged use is very harmful.",
+          "answer_status": "exclude_from_modern_recommendation"
+        },
+        {
+          "display_name_zh_tw": "蓖麻",
+          "book_scientific_name": "Ricinus communis L.",
+          "current_scientific_name": "Ricinus communis L.",
+          "taiwan_name_status": "Tai2 naturalized record",
+          "taiwan_name_source": "https://tai2.ntu.edu.tw/species/415%20034%2001%200",
+          "source_id": "kohler-volume-2",
+          "entry_pdf_page": 361,
+          "evidence_pdf_pages": [362, 364],
+          "book_processing_summary": "The medicinal product discussed is expressed castor oil, not eating the seeds.",
+          "book_effect_and_risk_summary": "The entry describes occasional use of castor oil for constipation. Taiwan public sources warn that the seeds contain ricin and can poison when eaten.",
+          "answer_status": "book_record_only_do_not_instruct_seed_use"
+        },
+        {
+          "display_name_zh_tw": "大黃藥材（Rheum spp.）",
+          "book_scientific_name": "Rheum spp.",
+          "current_scientific_name": "source species unresolved in the book entry",
+          "taiwan_name_status": "generic medicinal name only",
+          "source_id": "kohler-volume-2",
+          "entry_pdf_page": 378,
+          "evidence_pdf_pages": [378, 383],
+          "book_processing_summary": "The entry lists substance, infusion, powder and pill forms.",
+          "book_effect_and_risk_summary": "The effect depends on dose, and the entry says it is not recommended as a permanent laxative.",
+          "answer_status": "include_as_historical_book_record_only"
+        }
+      ],
+      "false_positive_and_safety_checks": [
+        {
+          "candidate": "Hydrastis canadensis",
+          "verdict": "excluded",
+          "reason": "The constipation sentence refers to another similarly named resin, not Hydrastis itself."
+        },
+        {
+          "candidate": "Helleborus viridis",
+          "verdict": "excluded",
+          "reason": "The same page labels the plant poisonous despite reporting historical use for obstipation."
+        }
+      ],
+      "current_external_layer": {
+        "preferred_first_response": "Begin with dietary fibre, enough fluid when increasing fibre, regular physical activity and appropriate bowel habits. A fibre product such as psyllium may be considered according to its label and a clinician or pharmacist. Senna is a short-term stimulant laxative, not a long-term daily herb.",
+        "sources": [
+          "https://www.niddk.nih.gov/health-information/digestive-diseases/constipation/treatment",
+          "https://medlineplus.gov/druginfo/meds/a601104.html",
+          "https://medlineplus.gov/druginfo/meds/a601112.html"
+        ],
+        "medical_boundary": "Seek medical advice if self-care fails or constipation is persistent; rectal bleeding, blood in stool or continual abdominal pain are reasons to see a doctor."
+      },
+      "evaluation": {
+        "verdict": "pass_with_source_layering",
+        "reason": "The index retrieves several real entries and preparation details, while the safety checker removes toxic or misleading candidates and prevents historical formulations from becoming unsupervised modern instructions."
+      }
+    },
+    {
+      "id": "q2-libra-plants",
+      "question_zh_tw": "天秤座相關的植物有哪些？",
+      "dictionary_queries": [
+        {"term": "Libra", "hits": 0},
+        {"term": "Waage", "hits": 0},
+        {"term": "Tierkreis", "hits": 0},
+        {"term": "Sternzeichen", "hits": 0},
+        {"term": "Venus", "hits": 0}
+      ],
+      "strict_book_answer": "現有四冊文字索引查不到天秤座、黃道、星座或金星與任何植物的關聯，因此不能依這本書指定『天秤座植物』。",
+      "related_book_entries": [
+        {
+          "name": "Rosa gallica / Rosa centifolia / Rosa damascena",
+          "source_id": "kohler-volume-2",
+          "evidence_pdf_pages": [211, 212, 213, 214, 215, 216],
+          "relation_note": "The book has a rose entry, but the pages do not connect roses to Libra."
+        }
+      ],
+      "web_cultural_supplement": {
+        "answer": "占星文化網站常把玫瑰與天秤座連結；部分來源也列水仙。這是文化聯想，不是植物學或醫學結論，而且不同網站的配對並不一致。",
+        "sources": [
+          "https://cafeastrology.com/libra-symbols.html",
+          "https://www.almanac.com/best-flowers-your-zodiac-sign"
+        ]
+      },
+      "evaluation": {
+        "verdict": "pass_only_if_the_bot_refuses_book_attribution_and_labels_web_supplement",
+        "reason": "A chatbot claiming the rose-Libra link comes from the book would be hallucinating."
+      }
+    }
+  ],
+  "overall_verdict": "The dictionary-first retrieval is already useful for grounded text questions. The required answer contract is book evidence first, Taiwan display-name resolution second, optional web supplement third, with explicit refusal when a relation is absent from the book."
+}

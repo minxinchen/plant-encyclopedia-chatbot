@@ -1,0 +1,1073 @@
+{
+  "schema_version": "1.0",
+  "run_id": "volume3-carica-papaya-profile-check-2026-08-11",
+  "batch_id": "kohler-v3-p165-p170-carica-papaya",
+  "embedded_at": "2026-08-11T21:13:02+08:00",
+  "source_id": "kohler-volume-3",
+  "record_id": "carica-papaya",
+  "pdf_pages": [
+    165,
+    166,
+    167,
+    168,
+    169,
+    170
+  ],
+  "model": "gemini-embedding-2",
+  "dimensions": 768,
+  "vector_space_id": "gemini-embedding-2__768__qa-prefix-v1",
+  "token_unit_contract": "Provider-neutral regex units: Unicode word sequences or individual non-whitespace punctuation. These are deterministic portable chunk units, not a claim about Gemini's private tokenizer.",
+  "external_model_calls": 1,
+  "external_model_calls_this_run": 1,
+  "batch_embed_items": 26,
+  "batch_usage_metadata": {
+    "promptTokenCount": 20993,
+    "promptTokenDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 20993
+      }
+    ]
+  },
+  "incremental_usd": 0,
+  "paid_fallback_used": false,
+  "source_range_notes": [],
+  "attempt_history": [],
+  "profile_results": {
+    "page-baseline": {
+      "chunk_count": 6,
+      "page_chunk_counts": {
+        "165": 1,
+        "166": 1,
+        "167": 1,
+        "168": 1,
+        "169": 1,
+        "170": 1
+      },
+      "mean_mrr": 1.0,
+      "answer_recall_at_1": 1.0,
+      "answer_recall_at_3": 1.0,
+      "mean_evidence_margin": 0.075842,
+      "refusal_precision": 1.0,
+      "citation_completeness": 1.0,
+      "query_metrics": [
+        {
+          "query_id": "carica-papayotin-zh-tw",
+          "expected_status": "answerable",
+          "answer_gate": "supporting_book_terms_found",
+          "relevant_chunk_count": 4,
+          "first_relevant_rank": 1,
+          "mrr": 1.0,
+          "recall_at_1": true,
+          "recall_at_3": true,
+          "evidence_margin": 0.084096,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-3:p168:carica-papaya:page",
+              "pdf_page": 168,
+              "cosine_similarity": 0.821512,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-3:p167:carica-papaya:page",
+              "pdf_page": 167,
+              "cosine_similarity": 0.801566,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-3:p169:carica-papaya:page",
+              "pdf_page": 169,
+              "cosine_similarity": 0.785837,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-3:p170:carica-papaya:page",
+              "pdf_page": 170,
+              "cosine_similarity": 0.783435,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 5,
+              "chunk_id": "kohler-volume-3:p165:carica-papaya:page",
+              "pdf_page": 165,
+              "cosine_similarity": 0.737416,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "carica-papayotin-en",
+          "expected_status": "answerable",
+          "answer_gate": "supporting_book_terms_found",
+          "relevant_chunk_count": 4,
+          "first_relevant_rank": 1,
+          "mrr": 1.0,
+          "recall_at_1": true,
+          "recall_at_3": true,
+          "evidence_margin": 0.067587,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-3:p168:carica-papaya:page",
+              "pdf_page": 168,
+              "cosine_similarity": 0.80617,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-3:p167:carica-papaya:page",
+              "pdf_page": 167,
+              "cosine_similarity": 0.783866,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-3:p169:carica-papaya:page",
+              "pdf_page": 169,
+              "cosine_similarity": 0.77824,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-3:p170:carica-papaya:page",
+              "pdf_page": 170,
+              "cosine_similarity": 0.774751,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 5,
+              "chunk_id": "kohler-volume-3:p165:carica-papaya:page",
+              "pdf_page": 165,
+              "cosine_similarity": 0.738583,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "carica-chromosome-refusal-zh-tw",
+          "expected_status": "unanswerable",
+          "answer_gate": "no_supporting_book_relation",
+          "refusal_correct": true,
+          "relevant_chunk_count": 0,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-3:p166:carica-papaya:page",
+              "pdf_page": 166,
+              "cosine_similarity": 0.753944,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-3:p165:carica-papaya:page",
+              "pdf_page": 165,
+              "cosine_similarity": 0.737012,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-3:p167:carica-papaya:page",
+              "pdf_page": 167,
+              "cosine_similarity": 0.713565,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-3:p168:carica-papaya:page",
+              "pdf_page": 168,
+              "cosine_similarity": 0.707751,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 5,
+              "chunk_id": "kohler-volume-3:p170:carica-papaya:page",
+              "pdf_page": 170,
+              "cosine_similarity": 0.703095,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "carica-wrong-name-refusal-zh-tw",
+          "expected_status": "unanswerable",
+          "answer_gate": "no_supporting_book_relation",
+          "refusal_correct": true,
+          "relevant_chunk_count": 0,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-3:p168:carica-papaya:page",
+              "pdf_page": 168,
+              "cosine_similarity": 0.787431,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-3:p169:carica-papaya:page",
+              "pdf_page": 169,
+              "cosine_similarity": 0.772585,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-3:p167:carica-papaya:page",
+              "pdf_page": 167,
+              "cosine_similarity": 0.76876,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-3:p170:carica-papaya:page",
+              "pdf_page": 170,
+              "cosine_similarity": 0.761481,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 5,
+              "chunk_id": "kohler-volume-3:p165:carica-papaya:page",
+              "pdf_page": 165,
+              "cosine_similarity": 0.747873,
+              "has_required_book_term": false
+            }
+          ]
+        }
+      ]
+    },
+    "section-aware-512-100-v1": {
+      "chunk_count": 16,
+      "page_chunk_counts": {
+        "165": 2,
+        "166": 2,
+        "167": 3,
+        "168": 3,
+        "169": 3,
+        "170": 3
+      },
+      "mean_mrr": 1.0,
+      "answer_recall_at_1": 1.0,
+      "answer_recall_at_3": 1.0,
+      "mean_evidence_margin": 0.033744,
+      "refusal_precision": 1.0,
+      "citation_completeness": 1.0,
+      "query_metrics": [
+        {
+          "query_id": "carica-papayotin-zh-tw",
+          "expected_status": "answerable",
+          "answer_gate": "supporting_book_terms_found",
+          "relevant_chunk_count": 9,
+          "first_relevant_rank": 1,
+          "mrr": 1.0,
+          "recall_at_1": true,
+          "recall_at_3": true,
+          "evidence_margin": 0.028971,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-3:p168:carica-papaya:section-aware-512-100-v1:c01",
+              "pdf_page": 168,
+              "cosine_similarity": 0.814666,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-3:p167:carica-papaya:section-aware-512-100-v1:c02",
+              "pdf_page": 167,
+              "cosine_similarity": 0.810045,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-3:p168:carica-papaya:section-aware-512-100-v1:c00",
+              "pdf_page": 168,
+              "cosine_similarity": 0.803435,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-3:p167:carica-papaya:section-aware-512-100-v1:c01",
+              "pdf_page": 167,
+              "cosine_similarity": 0.794447,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 5,
+              "chunk_id": "kohler-volume-3:p168:carica-papaya:section-aware-512-100-v1:c02",
+              "pdf_page": 168,
+              "cosine_similarity": 0.787737,
+              "has_required_book_term": true
+            }
+          ]
+        },
+        {
+          "query_id": "carica-papayotin-en",
+          "expected_status": "answerable",
+          "answer_gate": "supporting_book_terms_found",
+          "relevant_chunk_count": 9,
+          "first_relevant_rank": 1,
+          "mrr": 1.0,
+          "recall_at_1": true,
+          "recall_at_3": true,
+          "evidence_margin": 0.038517,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-3:p168:carica-papaya:section-aware-512-100-v1:c01",
+              "pdf_page": 168,
+              "cosine_similarity": 0.811746,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-3:p168:carica-papaya:section-aware-512-100-v1:c00",
+              "pdf_page": 168,
+              "cosine_similarity": 0.794618,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-3:p167:carica-papaya:section-aware-512-100-v1:c02",
+              "pdf_page": 167,
+              "cosine_similarity": 0.789939,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-3:p168:carica-papaya:section-aware-512-100-v1:c02",
+              "pdf_page": 168,
+              "cosine_similarity": 0.782648,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 5,
+              "chunk_id": "kohler-volume-3:p170:carica-papaya:section-aware-512-100-v1:c00",
+              "pdf_page": 170,
+              "cosine_similarity": 0.779851,
+              "has_required_book_term": true
+            }
+          ]
+        },
+        {
+          "query_id": "carica-chromosome-refusal-zh-tw",
+          "expected_status": "unanswerable",
+          "answer_gate": "no_supporting_book_relation",
+          "refusal_correct": true,
+          "relevant_chunk_count": 0,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-3:p166:carica-papaya:section-aware-512-100-v1:c00",
+              "pdf_page": 166,
+              "cosine_similarity": 0.756137,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-3:p166:carica-papaya:section-aware-512-100-v1:c01",
+              "pdf_page": 166,
+              "cosine_similarity": 0.742339,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-3:p170:carica-papaya:section-aware-512-100-v1:c02",
+              "pdf_page": 170,
+              "cosine_similarity": 0.741062,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-3:p165:carica-papaya:section-aware-512-100-v1:c01",
+              "pdf_page": 165,
+              "cosine_similarity": 0.73768,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 5,
+              "chunk_id": "kohler-volume-3:p165:carica-papaya:section-aware-512-100-v1:c00",
+              "pdf_page": 165,
+              "cosine_similarity": 0.734827,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "carica-wrong-name-refusal-zh-tw",
+          "expected_status": "unanswerable",
+          "answer_gate": "no_supporting_book_relation",
+          "refusal_correct": true,
+          "relevant_chunk_count": 0,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-3:p168:carica-papaya:section-aware-512-100-v1:c00",
+              "pdf_page": 168,
+              "cosine_similarity": 0.782821,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-3:p168:carica-papaya:section-aware-512-100-v1:c01",
+              "pdf_page": 168,
+              "cosine_similarity": 0.778619,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-3:p169:carica-papaya:section-aware-512-100-v1:c02",
+              "pdf_page": 169,
+              "cosine_similarity": 0.774065,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-3:p168:carica-papaya:section-aware-512-100-v1:c02",
+              "pdf_page": 168,
+              "cosine_similarity": 0.770409,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 5,
+              "chunk_id": "kohler-volume-3:p170:carica-papaya:section-aware-512-100-v1:c01",
+              "pdf_page": 170,
+              "cosine_similarity": 0.767249,
+              "has_required_book_term": false
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "selected_profile": "section-aware-512-100-v1",
+  "selected_profile_review_status": "approved_bounded_hybrid_batch",
+  "verdict": "promote",
+  "promotion_scope": "Carica papaya PDF pages 165-170 only; no next-taxon or full-volume expansion",
+  "pure_semantic_verdict": "promote",
+  "pure_semantic_selected_profile": "section-aware-512-100-v1",
+  "hybrid_parent_results": {
+    "page-baseline": {
+      "fusion_contract": "cosine + 0.08 * deterministic lexical coverage, then max score per parent page",
+      "query_results": [
+        {
+          "query_id": "carica-papayotin-zh-tw",
+          "expected_status": "answerable",
+          "expanded_lexical_terms": [
+            "papayotin"
+          ],
+          "answer_gate": "answerable_with_page_evidence",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-3:p168:carica-papaya:page",
+              "parent_chunk_id": "kohler-volume-3:p168:carica-papaya:page",
+              "pdf_page": 168,
+              "semantic_score": 0.821512,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.901512,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-3:p168:carica-papaya:page"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-3:p168:carica-papaya:page"
+              ],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-3:p167:carica-papaya:page",
+              "parent_chunk_id": "kohler-volume-3:p167:carica-papaya:page",
+              "pdf_page": 167,
+              "semantic_score": 0.801566,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.881566,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-3:p167:carica-papaya:page"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-3:p167:carica-papaya:page"
+              ],
+              "rank": 2
+            },
+            {
+              "chunk_id": "kohler-volume-3:p169:carica-papaya:page",
+              "parent_chunk_id": "kohler-volume-3:p169:carica-papaya:page",
+              "pdf_page": 169,
+              "semantic_score": 0.785837,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.865837,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-3:p169:carica-papaya:page"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-3:p169:carica-papaya:page"
+              ],
+              "rank": 3
+            },
+            {
+              "chunk_id": "kohler-volume-3:p170:carica-papaya:page",
+              "parent_chunk_id": "kohler-volume-3:p170:carica-papaya:page",
+              "pdf_page": 170,
+              "semantic_score": 0.783435,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.863435,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-3:p170:carica-papaya:page"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-3:p170:carica-papaya:page"
+              ],
+              "rank": 4
+            }
+          ]
+        },
+        {
+          "query_id": "carica-papayotin-en",
+          "expected_status": "answerable",
+          "expanded_lexical_terms": [
+            "papayotin"
+          ],
+          "answer_gate": "answerable_with_page_evidence",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-3:p168:carica-papaya:page",
+              "parent_chunk_id": "kohler-volume-3:p168:carica-papaya:page",
+              "pdf_page": 168,
+              "semantic_score": 0.80617,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.88617,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-3:p168:carica-papaya:page"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-3:p168:carica-papaya:page"
+              ],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-3:p167:carica-papaya:page",
+              "parent_chunk_id": "kohler-volume-3:p167:carica-papaya:page",
+              "pdf_page": 167,
+              "semantic_score": 0.783866,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.863866,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-3:p167:carica-papaya:page"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-3:p167:carica-papaya:page"
+              ],
+              "rank": 2
+            },
+            {
+              "chunk_id": "kohler-volume-3:p169:carica-papaya:page",
+              "parent_chunk_id": "kohler-volume-3:p169:carica-papaya:page",
+              "pdf_page": 169,
+              "semantic_score": 0.77824,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.85824,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-3:p169:carica-papaya:page"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-3:p169:carica-papaya:page"
+              ],
+              "rank": 3
+            },
+            {
+              "chunk_id": "kohler-volume-3:p170:carica-papaya:page",
+              "parent_chunk_id": "kohler-volume-3:p170:carica-papaya:page",
+              "pdf_page": 170,
+              "semantic_score": 0.774751,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.854751,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-3:p170:carica-papaya:page"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-3:p170:carica-papaya:page"
+              ],
+              "rank": 4
+            }
+          ]
+        },
+        {
+          "query_id": "carica-chromosome-refusal-zh-tw",
+          "expected_status": "unanswerable",
+          "expanded_lexical_terms": [
+            "chromosom"
+          ],
+          "answer_gate": "refuse_no_book_relation",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-3:p166:carica-papaya:page",
+              "parent_chunk_id": "kohler-volume-3:p166:carica-papaya:page",
+              "pdf_page": 166,
+              "semantic_score": 0.753944,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.753944,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-3:p166:carica-papaya:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-3:p165:carica-papaya:page",
+              "parent_chunk_id": "kohler-volume-3:p165:carica-papaya:page",
+              "pdf_page": 165,
+              "semantic_score": 0.737012,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.737012,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-3:p165:carica-papaya:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            },
+            {
+              "chunk_id": "kohler-volume-3:p167:carica-papaya:page",
+              "parent_chunk_id": "kohler-volume-3:p167:carica-papaya:page",
+              "pdf_page": 167,
+              "semantic_score": 0.713565,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.713565,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-3:p167:carica-papaya:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 3
+            },
+            {
+              "chunk_id": "kohler-volume-3:p168:carica-papaya:page",
+              "parent_chunk_id": "kohler-volume-3:p168:carica-papaya:page",
+              "pdf_page": 168,
+              "semantic_score": 0.707751,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.707751,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-3:p168:carica-papaya:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 4
+            }
+          ]
+        },
+        {
+          "query_id": "carica-wrong-name-refusal-zh-tw",
+          "expected_status": "unanswerable",
+          "expanded_lexical_terms": [
+            "papayotin"
+          ],
+          "answer_gate": "refuse_no_book_relation",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-3:p168:carica-papaya:page",
+              "parent_chunk_id": "kohler-volume-3:p168:carica-papaya:page",
+              "pdf_page": 168,
+              "semantic_score": 0.787431,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.867431,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-3:p168:carica-papaya:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-3:p169:carica-papaya:page",
+              "parent_chunk_id": "kohler-volume-3:p169:carica-papaya:page",
+              "pdf_page": 169,
+              "semantic_score": 0.772585,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.852585,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-3:p169:carica-papaya:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            },
+            {
+              "chunk_id": "kohler-volume-3:p167:carica-papaya:page",
+              "parent_chunk_id": "kohler-volume-3:p167:carica-papaya:page",
+              "pdf_page": 167,
+              "semantic_score": 0.76876,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.84876,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-3:p167:carica-papaya:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 3
+            },
+            {
+              "chunk_id": "kohler-volume-3:p170:carica-papaya:page",
+              "parent_chunk_id": "kohler-volume-3:p170:carica-papaya:page",
+              "pdf_page": 170,
+              "semantic_score": 0.761481,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.841481,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-3:p170:carica-papaya:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 4
+            }
+          ]
+        }
+      ],
+      "all_gates_pass": true
+    },
+    "section-aware-512-100-v1": {
+      "fusion_contract": "cosine + 0.08 * deterministic lexical coverage, then max score per parent page",
+      "query_results": [
+        {
+          "query_id": "carica-papayotin-zh-tw",
+          "expected_status": "answerable",
+          "expanded_lexical_terms": [
+            "papayotin"
+          ],
+          "answer_gate": "answerable_with_page_evidence",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-3:p168:carica-papaya:section-aware-512-100-v1:c01",
+              "parent_chunk_id": "kohler-volume-3:p168:carica-papaya:page",
+              "pdf_page": 168,
+              "semantic_score": 0.814666,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.894666,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-3:p168:carica-papaya:section-aware-512-100-v1:c01",
+                "kohler-volume-3:p168:carica-papaya:section-aware-512-100-v1:c00",
+                "kohler-volume-3:p168:carica-papaya:section-aware-512-100-v1:c02"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-3:p168:carica-papaya:section-aware-512-100-v1:c01",
+                "kohler-volume-3:p168:carica-papaya:section-aware-512-100-v1:c00",
+                "kohler-volume-3:p168:carica-papaya:section-aware-512-100-v1:c02"
+              ],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-3:p167:carica-papaya:section-aware-512-100-v1:c02",
+              "parent_chunk_id": "kohler-volume-3:p167:carica-papaya:page",
+              "pdf_page": 167,
+              "semantic_score": 0.810045,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.890045,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-3:p167:carica-papaya:section-aware-512-100-v1:c02",
+                "kohler-volume-3:p167:carica-papaya:section-aware-512-100-v1:c01",
+                "kohler-volume-3:p167:carica-papaya:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-3:p167:carica-papaya:section-aware-512-100-v1:c02",
+                "kohler-volume-3:p167:carica-papaya:section-aware-512-100-v1:c01"
+              ],
+              "rank": 2
+            },
+            {
+              "chunk_id": "kohler-volume-3:p170:carica-papaya:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-3:p170:carica-papaya:page",
+              "pdf_page": 170,
+              "semantic_score": 0.78684,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.86684,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-3:p170:carica-papaya:section-aware-512-100-v1:c00",
+                "kohler-volume-3:p170:carica-papaya:section-aware-512-100-v1:c01",
+                "kohler-volume-3:p170:carica-papaya:section-aware-512-100-v1:c02"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-3:p170:carica-papaya:section-aware-512-100-v1:c00",
+                "kohler-volume-3:p170:carica-papaya:section-aware-512-100-v1:c01"
+              ],
+              "rank": 3
+            },
+            {
+              "chunk_id": "kohler-volume-3:p169:carica-papaya:section-aware-512-100-v1:c01",
+              "parent_chunk_id": "kohler-volume-3:p169:carica-papaya:page",
+              "pdf_page": 169,
+              "semantic_score": 0.785944,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.865944,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-3:p169:carica-papaya:section-aware-512-100-v1:c01",
+                "kohler-volume-3:p169:carica-papaya:section-aware-512-100-v1:c00",
+                "kohler-volume-3:p169:carica-papaya:section-aware-512-100-v1:c02"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-3:p169:carica-papaya:section-aware-512-100-v1:c01",
+                "kohler-volume-3:p169:carica-papaya:section-aware-512-100-v1:c00"
+              ],
+              "rank": 4
+            }
+          ]
+        },
+        {
+          "query_id": "carica-papayotin-en",
+          "expected_status": "answerable",
+          "expanded_lexical_terms": [
+            "papayotin"
+          ],
+          "answer_gate": "answerable_with_page_evidence",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-3:p168:carica-papaya:section-aware-512-100-v1:c01",
+              "parent_chunk_id": "kohler-volume-3:p168:carica-papaya:page",
+              "pdf_page": 168,
+              "semantic_score": 0.811746,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.891746,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-3:p168:carica-papaya:section-aware-512-100-v1:c01",
+                "kohler-volume-3:p168:carica-papaya:section-aware-512-100-v1:c00",
+                "kohler-volume-3:p168:carica-papaya:section-aware-512-100-v1:c02"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-3:p168:carica-papaya:section-aware-512-100-v1:c01",
+                "kohler-volume-3:p168:carica-papaya:section-aware-512-100-v1:c00",
+                "kohler-volume-3:p168:carica-papaya:section-aware-512-100-v1:c02"
+              ],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-3:p167:carica-papaya:section-aware-512-100-v1:c02",
+              "parent_chunk_id": "kohler-volume-3:p167:carica-papaya:page",
+              "pdf_page": 167,
+              "semantic_score": 0.789939,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.869939,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-3:p167:carica-papaya:section-aware-512-100-v1:c02",
+                "kohler-volume-3:p167:carica-papaya:section-aware-512-100-v1:c01",
+                "kohler-volume-3:p167:carica-papaya:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-3:p167:carica-papaya:section-aware-512-100-v1:c02",
+                "kohler-volume-3:p167:carica-papaya:section-aware-512-100-v1:c01"
+              ],
+              "rank": 2
+            },
+            {
+              "chunk_id": "kohler-volume-3:p170:carica-papaya:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-3:p170:carica-papaya:page",
+              "pdf_page": 170,
+              "semantic_score": 0.779851,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.859851,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-3:p170:carica-papaya:section-aware-512-100-v1:c00",
+                "kohler-volume-3:p170:carica-papaya:section-aware-512-100-v1:c01",
+                "kohler-volume-3:p170:carica-papaya:section-aware-512-100-v1:c02"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-3:p170:carica-papaya:section-aware-512-100-v1:c00",
+                "kohler-volume-3:p170:carica-papaya:section-aware-512-100-v1:c01"
+              ],
+              "rank": 3
+            },
+            {
+              "chunk_id": "kohler-volume-3:p169:carica-papaya:section-aware-512-100-v1:c01",
+              "parent_chunk_id": "kohler-volume-3:p169:carica-papaya:page",
+              "pdf_page": 169,
+              "semantic_score": 0.767779,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.847779,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-3:p169:carica-papaya:section-aware-512-100-v1:c01",
+                "kohler-volume-3:p169:carica-papaya:section-aware-512-100-v1:c00",
+                "kohler-volume-3:p169:carica-papaya:section-aware-512-100-v1:c02"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-3:p169:carica-papaya:section-aware-512-100-v1:c01",
+                "kohler-volume-3:p169:carica-papaya:section-aware-512-100-v1:c00"
+              ],
+              "rank": 4
+            }
+          ]
+        },
+        {
+          "query_id": "carica-chromosome-refusal-zh-tw",
+          "expected_status": "unanswerable",
+          "expanded_lexical_terms": [
+            "chromosom"
+          ],
+          "answer_gate": "refuse_no_book_relation",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-3:p166:carica-papaya:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-3:p166:carica-papaya:page",
+              "pdf_page": 166,
+              "semantic_score": 0.756137,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.756137,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-3:p166:carica-papaya:section-aware-512-100-v1:c00",
+                "kohler-volume-3:p166:carica-papaya:section-aware-512-100-v1:c01"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-3:p170:carica-papaya:section-aware-512-100-v1:c02",
+              "parent_chunk_id": "kohler-volume-3:p170:carica-papaya:page",
+              "pdf_page": 170,
+              "semantic_score": 0.741062,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.741062,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-3:p170:carica-papaya:section-aware-512-100-v1:c02",
+                "kohler-volume-3:p170:carica-papaya:section-aware-512-100-v1:c01",
+                "kohler-volume-3:p170:carica-papaya:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            },
+            {
+              "chunk_id": "kohler-volume-3:p165:carica-papaya:section-aware-512-100-v1:c01",
+              "parent_chunk_id": "kohler-volume-3:p165:carica-papaya:page",
+              "pdf_page": 165,
+              "semantic_score": 0.73768,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.73768,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-3:p165:carica-papaya:section-aware-512-100-v1:c01",
+                "kohler-volume-3:p165:carica-papaya:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 3
+            },
+            {
+              "chunk_id": "kohler-volume-3:p167:carica-papaya:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-3:p167:carica-papaya:page",
+              "pdf_page": 167,
+              "semantic_score": 0.716637,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.716637,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-3:p167:carica-papaya:section-aware-512-100-v1:c00",
+                "kohler-volume-3:p167:carica-papaya:section-aware-512-100-v1:c02",
+                "kohler-volume-3:p167:carica-papaya:section-aware-512-100-v1:c01"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 4
+            }
+          ]
+        },
+        {
+          "query_id": "carica-wrong-name-refusal-zh-tw",
+          "expected_status": "unanswerable",
+          "expanded_lexical_terms": [
+            "papayotin"
+          ],
+          "answer_gate": "refuse_no_book_relation",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-3:p168:carica-papaya:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-3:p168:carica-papaya:page",
+              "pdf_page": 168,
+              "semantic_score": 0.782821,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.862821,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-3:p168:carica-papaya:section-aware-512-100-v1:c00",
+                "kohler-volume-3:p168:carica-papaya:section-aware-512-100-v1:c01",
+                "kohler-volume-3:p168:carica-papaya:section-aware-512-100-v1:c02"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-3:p170:carica-papaya:section-aware-512-100-v1:c01",
+              "parent_chunk_id": "kohler-volume-3:p170:carica-papaya:page",
+              "pdf_page": 170,
+              "semantic_score": 0.767249,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.847249,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-3:p170:carica-papaya:section-aware-512-100-v1:c01",
+                "kohler-volume-3:p170:carica-papaya:section-aware-512-100-v1:c00",
+                "kohler-volume-3:p170:carica-papaya:section-aware-512-100-v1:c02"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            },
+            {
+              "chunk_id": "kohler-volume-3:p169:carica-papaya:section-aware-512-100-v1:c01",
+              "parent_chunk_id": "kohler-volume-3:p169:carica-papaya:page",
+              "pdf_page": 169,
+              "semantic_score": 0.756168,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.836168,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-3:p169:carica-papaya:section-aware-512-100-v1:c01",
+                "kohler-volume-3:p169:carica-papaya:section-aware-512-100-v1:c00",
+                "kohler-volume-3:p169:carica-papaya:section-aware-512-100-v1:c02"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 3
+            },
+            {
+              "chunk_id": "kohler-volume-3:p167:carica-papaya:section-aware-512-100-v1:c02",
+              "parent_chunk_id": "kohler-volume-3:p167:carica-papaya:page",
+              "pdf_page": 167,
+              "semantic_score": 0.753615,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.833615,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-3:p167:carica-papaya:section-aware-512-100-v1:c02",
+                "kohler-volume-3:p167:carica-papaya:section-aware-512-100-v1:c01",
+                "kohler-volume-3:p167:carica-papaya:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 4
+            }
+          ]
+        }
+      ],
+      "all_gates_pass": true
+    }
+  },
+  "selection_basis": "deterministic bilingual domain-term expansion + lexical/semantic fusion + parent-page collapse + exact book-term gate"
+}

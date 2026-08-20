@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-2:p0151-p0154",
+  "owner_shard": "S03",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S03/maker/structure-drafts/kohler-volume-2__p0151-p0154.json",
+  "source_draft_sha256": "b26f9c905d77cdd46c2e219efe34a73e1c0cbf46c952f12a5ca264f5ffd94e41",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "fdc0b73c019e5fc4b86a8c1ed71e5a0332456c96217fe93b88ad7da932f9c7cb",
+    "validation_check_sha256": "4a2591e76dc816a3ad9dd2d1fcf725126973e090a3edd3a8a36f32b850febb8b",
+    "source_disposition_sha256": "a5418ea099a2bb0cf11c4d4102c402e75d04a1d38be233dd593ee2b0532c6c32",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Punica granatum",
+    "authorship_candidate": "L.",
+    "aliases_candidates": [
+      "Granatapfel",
+      "Grenadier",
+      "Pomegranate",
+      "Cortex Granati radicis",
+      "Cortex Granati fructus",
+      "Flores Granati"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Punica granatum"
+    ],
+    "accepted_scientific_name": "Punica granatum",
+    "display_name_zh_tw": "石榴",
+    "alternative_names_zh_tw": [
+      "安石榴"
+    ],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0054998",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary",
+    "rationale": "TaiCOL accepts the queried book binomial at species rank.",
+    "checked_at": "2026-08-13T17:11:36+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Punica granatum",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Punica+granatum",
+      "retrieved_at": "2026-08-13T17:11:36+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Punica granatum",
+          "matched_name_id": 23841,
+          "taxon_id": "t0054998",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Punica granatum",
+          "accepted_name_id": 23841,
+          "accepted_usage": [
+            {
+              "usage_id": 4364,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0054998",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0054998",
+          "taxon": {
+            "taxon_id": "t0054998",
+            "taxon_status": "accepted",
+            "name_id": 23841,
+            "simple_name": "Punica granatum",
+            "name_author": "L.",
+            "rank": "Species",
+            "common_name_c": "石榴",
+            "alternative_name_c": "安石榴",
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": "cultured: 原生於波斯到印度西北部喜馬拉雅一帶; 沒有入侵性",
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

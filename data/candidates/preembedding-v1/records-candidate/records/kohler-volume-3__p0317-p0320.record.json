@@ -1,0 +1,299 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-3-p0317-p0320",
+  "entry_id": "kohler-volume-3:p0317-p0320",
+  "owner_shard": "S07",
+  "book_taxon": {
+    "scientific_name": "Nigella sativa",
+    "authorship": null,
+    "aliases": [
+      "Echter Schwarzkümmel",
+      "schwarzer oder römischer Koriander",
+      "Nardensamen",
+      "Nigelle",
+      "Semen Nigellae sativae",
+      "Semen Melanthii",
+      "Semen Oumini nigri"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Nigella sativa"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T17:19:50+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Nigella+sativa",
+        "query_name": "Nigella sativa",
+        "retrieved_at": "2026-08-13T17:19:47+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Echter+schwarzk",
+        "query_name": "Echter schwarzk",
+        "retrieved_at": "2026-08-13T17:19:47+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=schwarzer+oder",
+        "query_name": "schwarzer oder",
+        "retrieved_at": "2026-08-13T17:19:47+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Semen+nigellae",
+        "query_name": "Semen nigellae",
+        "retrieved_at": "2026-08-13T17:19:47+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Semen+melanthii",
+        "query_name": "Semen melanthii",
+        "retrieved_at": "2026-08-13T17:19:47+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Semen+oumini",
+        "query_name": "Semen oumini",
+        "retrieved_at": "2026-08-13T17:19:47+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 317,
+      "evidence_type": "text",
+      "page_text_sha256": "732bc09c463d61db13b35d5d2d52196842cf2d5855c8dfc336aa752b93083eee",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 318,
+      "evidence_type": "text",
+      "page_text_sha256": "d1dcbdd919cfc2f1220b3a410837538f940a4e66e29305f453465ee577e3035b",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 319,
+      "evidence_type": "text",
+      "page_text_sha256": "c711fbf13ca8be47471f88e0d1fa68b117b16c2c0a2e2fab841a2e324d814d22",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 320,
+      "evidence_type": "text",
+      "page_text_sha256": "5acddb59690eb82de1c81b86fdbfe7e5741a8ade2e896355a713220090a2e2e9",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-3:p0317-p0320:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                                 1) Nigella sativa         L.\n        Echter      Schwarzkümmel, schwarzer oder römischer Koriander, Nardensamen.\n                          Franz.: Nigelle Engl.: Nigella. Holl.: Nigelle.\n\n         Familie: Ranunculaceae               Unterfamilie: Helleboreae.           Gattung: Nigella Tourn.            Sekt.:\nNigellaria DC.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Nigella sativa L.，屬毛茛科，黑葶苈屬。俗名真黑孜然、羅馬芫荽。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 317,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 124,
+        "char_end": 500,
+        "page_text_sha256": "732bc09c463d61db13b35d5d2d52196842cf2d5855c8dfc336aa752b93083eee",
+        "exact_text_sha256": "078add0bda508381d3663b37b1255f4731f83db52425b95676eb899ce1ad89ad",
+        "source_line_start": 3,
+        "source_line_end": 8,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "078add0bda508381d3663b37b1255f4731f83db52425b95676eb899ce1ad89ad",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0317-p0320:s01:x00",
+      "section_type": "description",
+      "original_text": "        Beschreibung. Die einjährige krautige Pflanze hat eine gelbbraune, dünne, spindel-\nförmige, einfache Pfahlwurzel mit wenigen verzweigten Nebenwurzeln. Der Stengel ist auf-\nrecht, wenig ästig, 30 bis 50 cm hoch, rundlich-eckig, mit kurzen Flaum- und Drüsenhaaren\nbedeckt. — Die Blätter sind 3 bis 7 cm lang, im ganzen Umfange eirund; die unteren sind\ngestielt,      die oberen        sitzend, alle wiederholt fiederspaltig mit dreispaltigen Endlappen;                      die\nZipfel sind schmallineal            oder    lineallanzettlich,     spitz und    ebenfalls   flaumhaarig.      Die Blüten",
+      "normalized_text": null,
+      "zh_tw_rendering": "一年生草本，具黃褐色主根。莖直立，高30-50公分，被毛。葉長3-7公分，羽狀深裂。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 317,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 502,
+        "char_end": 1106,
+        "page_text_sha256": "732bc09c463d61db13b35d5d2d52196842cf2d5855c8dfc336aa752b93083eee",
+        "exact_text_sha256": "e396284c5f612304548b93b4e2b639d0cf30093c77072afc62b122dbe3fe876b",
+        "source_line_start": 10,
+        "source_line_end": 15,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "e396284c5f612304548b93b4e2b639d0cf30093c77072afc62b122dbe3fe876b",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0317-p0320:s02:x00",
+      "section_type": "flowering",
+      "original_text": "            Blütezeit.      Juni, Juli.",
+      "normalized_text": null,
+      "zh_tw_rendering": "花期為六月至七月。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 318,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 815,
+        "char_end": 854,
+        "page_text_sha256": "d1dcbdd919cfc2f1220b3a410837538f940a4e66e29305f453465ee577e3035b",
+        "exact_text_sha256": "8cbf5094f3e6eeb9b3cd5cd7937d3ddddb04bb9c6bee92b2880bcf1aa8edb4cc",
+        "source_line_start": 11,
+        "source_line_end": 11,
+        "section_index": 2,
+        "section_type": "flowering"
+      },
+      "exact_text_sha256": "8cbf5094f3e6eeb9b3cd5cd7937d3ddddb04bb9c6bee92b2880bcf1aa8edb4cc",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0317-p0320:s03:x00",
+      "section_type": "distribution",
+      "original_text": "           Vorkommen.             Die Pflanze      findet sich in Süddeutschland,                      überhaupt        im südlichen\n Europa und        dem     westlichen Asien        wild, und      wird    in manchen           Gegenden        des     Samens   wegen\n kultiviert.",
+      "normalized_text": null,
+      "zh_tw_rendering": "原產南歐及西亞，野生於南德，亦因種子而栽培。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 318,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 855,
+        "char_end": 1134,
+        "page_text_sha256": "d1dcbdd919cfc2f1220b3a410837538f940a4e66e29305f453465ee577e3035b",
+        "exact_text_sha256": "21ace577e881b123acd548b5b182c051853babfed44e637fa1b1c0e6f7eb3e82",
+        "source_line_start": 12,
+        "source_line_end": 14,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "21ace577e881b123acd548b5b182c051853babfed44e637fa1b1c0e6f7eb3e82",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0317-p0320:s04:x00",
+      "section_type": "constituents",
+      "original_text": "          Bestandteile. Die Samen von Nigella sativa L. enthalten fettes und ätherisches Öl und\n “einen Bitterstoff. -Das fette Öl beträgt nach früheren Berichten bis 25 %; Haenseltand 11%,\n eines dunkelgrünen, im auffallenden Lichte blau fluorescierenden, schwachsauren, nach Erd-\n  beeren riechenden Öles von 0,924 spezifischem Gewicht. — Das ätherische Öl las von\n Schimmel & Co. in Mengen von 0,46°/, erhalten. Es besitzt ein spez. Gewicht von: 0,875\n und eine Rechtsdrehung von + 1° 26° und riecht deutlich nach Petersilie. Es siedet zwischen\n  170 bis 230°. Den Bitterstoff isolierte Reinsch und nannte ihn Nigellin; Greenish konnte\n \"ihn    in   kultiviertem      Samen       nicht     wiederfinden,      sondern    erhielt daraus        einen    Bitterstoff mit",
+      "normalized_text": null,
+      "zh_tw_rendering": "種子含脂肪油、揮發油及苦味素。脂肪油約11%，揮發油具胡荽氣味。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 319,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 1440,
+        "char_end": 2209,
+        "page_text_sha256": "c711fbf13ca8be47471f88e0d1fa68b117b16c2c0a2e2fab841a2e324d814d22",
+        "exact_text_sha256": "4c9abf616a5222bb7222311b5556dca1b5e03a2bf0a58b02653812f68bb403f9",
+        "source_line_start": 19,
+        "source_line_end": 26,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "4c9abf616a5222bb7222311b5556dca1b5e03a2bf0a58b02653812f68bb403f9",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0317-p0320:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "       Anwendung.    Die  Sam en   der  Nig ell a  sati va L. wur  den   unt er    dem   Nam  en   Mei dvs uov -\nschon zu Zeiten  des Hip pok rat es    und   Dio  sco rid  es  als  Arz nei mit tel  geb rau cht ;  man     be-\nnutzte sie als gelinde reizendes, Blähungen vertreibendes, eröffnendes, auflösendes und\ndiuretisches     Mittel, besonders         bei Lungenaffektionen               und Darmkatarrh,              sowie    gegen     Würmer\nund Gelbsucht. In Ägypten und im Orient benutzt man sie als Würze des Brotes und anderer\nGebäcke. Nach Berichten Baillons finden sie ihres pikanten Geschmackes wegen in Frank--\nreich Verwendung als Pfeffersurrogat unter dem Namen JPoivrette und Toutes espices.",
+      "normalized_text": null,
+      "zh_tw_rendering": "古希臘時期用作藥用，具驅風、利尿及驅蟲作用。埃及與東方用作麵包香料。",
+      "evidence_indexes": [
+        3
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 320,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 1228,
+        "char_end": 1936,
+        "page_text_sha256": "5acddb59690eb82de1c81b86fdbfe7e5741a8ade2e896355a713220090a2e2e9",
+        "exact_text_sha256": "0edb8c3a3a32068a136ad870f1a1482e1be3df663dcf99bd3351cf9cdc4a53e3",
+        "source_line_start": 11,
+        "source_line_end": 17,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "0edb8c3a3a32068a136ad870f1a1482e1be3df663dcf99bd3351cf9cdc4a53e3",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "3c82aa971a1fcd5738c044fa793e1c8e9302ab818ff98c6eeed787a63620e239",
+    "maker_receipt_sha256": "44a60b5313a5ec9c4bd53f9d816356efda8a974e90da35864056f86ca4cab2b0",
+    "validation_check_sha256": "9e288ed97a8ec9a09f73daa212e75995e066abca3643eba97d3ef4c8f0a2648a",
+    "source_disposition_sha256": "e8f935ca38345c428d6d71bd73c314c39daf671f8152d92dc043e653bc763fef",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "44a60b5313a5ec9c4bd53f9d816356efda8a974e90da35864056f86ca4cab2b0",
+      "validation_check_sha256": "9e288ed97a8ec9a09f73daa212e75995e066abca3643eba97d3ef4c8f0a2648a",
+      "source_disposition_sha256": "e8f935ca38345c428d6d71bd73c314c39daf671f8152d92dc043e653bc763fef"
+    },
+    "naming_artifact_sha256": "e8236404bf9a3d02a29df340975c149e42d260a0cb81788aac1974ccbdc94e4c"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "794e173b70c9d1d9eeceb74c0f0ad294188f7b26fd8f24b962f2e78171f420b2"
+}

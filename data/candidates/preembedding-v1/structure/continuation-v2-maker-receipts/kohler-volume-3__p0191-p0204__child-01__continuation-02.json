@@ -1,0 +1,155 @@
+{
+  "schema_version": "2.0",
+  "package_id": "kohler-volume-3:p0191-p0204:child-01:continuation-02",
+  "parent_entry_id": "kohler-volume-3:p0191-p0204",
+  "child_entry_id": "kohler-volume-3:p0191-p0204:child-01",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation-v2:kohler-volume-3:p0191-p0204:child-01:continuation-02:v1",
+  "owner_shard": "S06",
+  "package_sha256": "70d6423dbc997d3f5e0934e6a39ab4638b6281f91b215808ed84d3b8958f0246",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "prompt_version": "plant-structure-line-coordinates-v2",
+  "attempt_sha256": "48873168e435ffee0629a8f080146aa27fb7edfe0958f3d00b35375416252207",
+  "raw_response_sha256": "7c9d52bbd82b4aa90b088c2023a9690e202d13b9782632511b3fcd355bdd65c2",
+  "elapsed_seconds": 25.83,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 198,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 0,
+      "char_end": 1069,
+      "source_line_start": 1,
+      "source_line_end": 11,
+      "page_text_sha256": "a4818399bd7f32f19ab3805169482bc489f4cbfbbe3f56f6b62a2c6a011fb9dd",
+      "exact_text_sha256": "596a217c99f0ec232ad6e7096a6770b07c64aed96a0bc5bcd196af41ade5d4cc",
+      "section_index": 0,
+      "section_type": "description"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 198,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 1070,
+      "char_end": 2937,
+      "source_line_start": 12,
+      "source_line_end": 26,
+      "page_text_sha256": "a4818399bd7f32f19ab3805169482bc489f4cbfbbe3f56f6b62a2c6a011fb9dd",
+      "exact_text_sha256": "e1244c5b8acac5f98aece366c87f3827cdf1532f3b98c456efc8b2a862a69064",
+      "section_index": 1,
+      "section_type": "constituents"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 199,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 0,
+      "char_end": 1267,
+      "source_line_start": 1,
+      "source_line_end": 14,
+      "page_text_sha256": "2c3750f0d35bf90464a444c6e23906c81039fcccbb0f05eee9e3f0ac57ac7147",
+      "exact_text_sha256": "0efec76bf6fcd01c8b1497bd9a98354c18961e411653146aa33ffa74e2340bf4",
+      "section_index": 2,
+      "section_type": "harvest"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 197,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 2958,
+      "char_end": 4275,
+      "source_line_start": 28,
+      "source_line_end": 38,
+      "page_text_sha256": "15f4aff7ac4f3751c0617104e62a6f37e041be346a53112c1a2b23847364b8f8",
+      "exact_text_sha256": "22afb4aee18698088d4341257ec26498e29ce0ace7aa5cab34985a73ace90218",
+      "section_index": 3,
+      "section_type": "anatomy"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 200,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 4362,
+      "char_end": 4713,
+      "source_line_start": 47,
+      "source_line_end": 50,
+      "page_text_sha256": "f4ce402cdf4d6740413f698bb9ede29aa7b29be6d861501198e04ca72d242c0e",
+      "exact_text_sha256": "e54a59c78595ce677b044fc7239574fba86044c14caf91c9424907b4673c0e10",
+      "section_index": 4,
+      "section_type": "historical_use"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-3:p0191-p0204:child-01:continuation-02",
+    "parent_entry_id": "kohler-volume-3:p0191-p0204",
+    "book_taxon": {
+      "scientific_name_candidate": "Eucalyptus globulus"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "description",
+        "pdf_page": 198,
+        "source_line_range": [
+          1,
+          11
+        ],
+        "exact_source_quote": "        Folia Euealypti.       Die Blätte    r  von    Zuc aly ptu s   glo bul us  Lab ill .   sin d    ge wö hn li ch      sta rk\nverlängert eilanz ett lic h, sic hel för mig   geb oge n,   und     lau fen    in  ein e   sch arf e   Spi tze    aus .     Na ch\ndem Grunde zu werden sie bis              3 em   bre it   nnd    lau fen     in   ein en   3— 5    em    lan  gen     Bla tts tie l\naus. Die ganze Länge des Blattes beträg             t   15 —2 0    em.      Get roc kne  t   sin d   sie  har t,    gra  ugr  ün,\nsehr brüchig,         drüsig,    aber nicht      durchscheinend            punktiert;          den     unversehrten           Rand       begleitet\n\nin   einer    Entfernung         von    1 mm        (nicht     1 cm!       Deutsch.        Arzm.)        ein       Randnerv,       in    den   die\n\nSeitennerven einmünden. Seltener     fin den   sic h die  geg  ens tän dig en   run dli che n,   bre ite ren  abe r\nkürzeren Blätter der nicht. blühen den    Tri ebe .   Ge ru ch   und    Ge sc hm ac k   ist  kam pfe rar  tig  un  d\nstark gewürzhaft."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 198,
+        "source_line_range": [
+          12,
+          26
+        ],
+        "exact_source_quote": "         Oleum Eucalypti. Das durch Dampfd                      est ill  ati on    der   fri  sch en    Blä  tte r    von    Euc  aly ptu s\nglobulus Labill. erhalt     ene   Öl  ist   ein e   gel  bli che ,    dün ne    Flü ssi gke it    von     sta rke   m,   eig  ent  üml ich\nkampferartigem Geruche,            in  gle  ich  en    Tei  len    Wei nge ist     lös lic h.    Es     bes itz t    ein   spe zif  isc hes\nGewicht von 0,915—0,925 bei 150           °   C.,   ein  en   Sie  dep unk t   von    175 —17  8°,     ein    opt  isc hes   Dr eh  un gs -\nvermögen von       —+   1° bis  +  20°   und     ers tar rt,    bei   50°  mit    20° /,   ze rr ie be  ne m   Jod      ve rm en gt ,    ZU\neinem Krysta   llb rei .    Ebe nso    ers tar rt     es    dur  ch    Ei nw ir ku ng     von      fre iem    Br  om  ,    sow ie     bei m\nSättigen mit Chl    or-    und   Bro mwa sse rst  off  gas  ,     wo ge ge n    es  mit    Sal pet  rig  säu re     kei nen    kry sta lli -\nsierten Körper erzeugt. Durch Natri                            tall wird es gelb gefärbt; Weingeist von 90°,\nlöst sein gleiches Volumen. Das Öl von Bucalyptus globulus enthält 60—80°/, Cineol (Buca-\nlyptol) C'°H15O, Siedepunkt. 176—177°, daneben Terpene, besonders Rechts-Pinen (Eucalypten)\nC1°H1%,      Siedepunkt 160°, dann Spuren                   hochsiedender Terpene und eines Phenols.                              Olivier      und\nBouchardat            fanden      darin ferner Äthylalkohol,                    Amylalkohol,           Butyraldehyd,           Valeraldehyd,\nCapronaldehyd,           nachdem          .vorher     schon     Schimmel               & Co.     auf         die    Aldehyde      hingewiesen\nhatten.       Voiry     wies      Ameisensäure,             Essigsäure      und        Ester    der Essigsäure,              Buttersäure       und\nBaldriansäure nach."
+      },
+      {
+        "section_type": "harvest",
+        "pdf_page": 199,
+        "source_line_range": [
+          1,
+          14
+        ],
+        "exact_source_quote": "         Euealypt   - Kin\n                     uso.    Australisches oder Eucalyptus -Kino, Botany Bay-Kino bildet\n eine oft dem westindischen Kino von Pterocarpus Marsupium ähnliche, oft aber auch davon\n sehr verschiedene Masse. Dasselbe findet sich in flachen Hohlräumen, die nicht selten den\n Jahresringen des meist harten Holzes parallel laufen, und wird im erhärteten ..oder halb-\n erhärteten Zustande beim Fällen der Eucalyptusbäume gesammelt.      Im lebenden Baume\n findet   sich dasselbe     in   flüssiger Form         und      kann   demselben        als    zähflüssige,       an        der    Luft\n erhärtende Masse durch Anbohren entzogen werden. — Erhärtet bildet dieses Kino eine\n mehr oder weniger dunkelrote, brüchige Masse, welche in Wasser und Alkohol löslich ist,\n wenn     es gut und reich an Kinogerbsäure ist, —                 welches     aber von Alkohol         weniger         angegriffen\n wird, wenn       es Gummi       enthält.    Diese     Verschiedenheit         erklärt   sich aus      der Abstammung                der\n Droge, da nicht nur einer, sondern eine sehr grosse Anzahl der früher genannten Bäume\n austraulisches oder Eucalyptus-Kino liefern.    Nach Wiesner und späteren Berichten von\n Bosisto gehören dahin folgende Bäume:"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 197,
+        "source_line_range": [
+          28,
+          38
+        ],
+        "exact_source_quote": "            Amatomisches.             Die    Ölbehälter        der Eukalyptusarten                  sind lysigen       entstanden;          sie sind\nvon Wänden            umgeben,        welche keine Cellulosereaktion                   mehr         geben.     Sie liegen         dem Nachbar-\ngewebe so fest an, dass sie das Aussehen eines geschlossenen Sackes haben. Diese Sekret-\nbehälter finden sich vorwiegend in den spaltöffnungsarmen Teilen der Pflanze, also im Blatt-\nstiel, im Rindenparenchym, in der Kelchröhre, bisweilen sogar im Marke der Zweige. (Briosi).\nIn der senkrechten Stellung der Blätter der Blütenzweige erkennt derselbe Verfasser die\nAbsicht,       die Verdunstung              zu verlangsamen;               ähnliches     gelte        für    die Verteilung          der Sekret-\nbehälter.          In der Rinde        sind die letzteren             auf das Rindenparenchym                   beschränkt          und werden\nin der Nähe des Bastteiles von Krystallkammerzellen begleitet. Mc. Alpine und J. R. Remfrey\nfanden     in der Struktur            der Blattstiele         der Eukalyptusarten               derartige       Verschiedenheiten,               dass\nsie in denselben          ein Mittel         zur    Bestimmung            der Spezies        gefunden        zu haben       glauben."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 200,
+        "source_line_range": [
+          47,
+          50
+        ],
+        "exact_source_quote": "         Anwendung. Das ätherische Öl von Eucalyptus globulus Labill. hat zunächst wegen\nseines Gehaltes an Eucalyptol und Terpen antiseptische Eigenschaften. Deshalb verwendet\nman das Öl hin und wieder für cosmetische Zwecke. — Sodann wirkt es antipyretisch, und\nwurde deshalb in ungeheuren Mengen beim Ausbruch der Infiuenza-Epidemie in England 1892"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "baeb57a1348a26f87dcf8f7537dd8f15306037a310356090e75bb9c87282c46a"
+}

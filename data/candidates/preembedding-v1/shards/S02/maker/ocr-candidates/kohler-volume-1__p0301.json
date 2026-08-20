@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 301,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "43d6758059cb8355853fdc19a5bdcc46c8e004fb4438d2481ff1d81631a7f9a0",
+  "render_dpi": 144,
+  "render_sha256": "3cc43af6d4d727658a63dbe1bc2f38cabcf2cefb28c3f1130541db4492a391c8",
+  "input_sha256": "3cc43af6d4d727658a63dbe1bc2f38cabcf2cefb28c3f1130541db4492a391c8",
+  "render_pixel_width": 5738,
+  "render_pixel_height": 8090,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.316,
+  "embedded_character_count": 137,
+  "ocr_character_count": 52,
+  "ocr_alpha_ratio": 0.7308,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.022824444468059202,
+      "text": "Cupuliferae.",
+      "width": 0.10696408998716134,
+      "x": 0.8379113972237366,
+      "y": 0.9239075449858887
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "10",
+      "width": 0.016393441420335053,
+      "x": 0.6004098363936576,
+      "y": 0.8473837210170759
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "6",
+      "width": 0.012295081398703833,
+      "x": 0.29508196739491044,
+      "y": 0.17005813992992724
+    },
+    {
+      "confidence": 1,
+      "height": 0.016345313617161294,
+      "text": "WMüllern. dIat.",
+      "width": 0.0882421373487352,
+      "x": 0.8626412275088696,
+      "y": 0.150984319912972
+    },
+    {
+      "confidence": 1,
+      "height": 0.0244077699525016,
+      "text": "Fagus silvatica l.",
+      "width": 0.18880024089679848,
+      "x": 0.424042500705921,
+      "y": 0.11715658033335852
+    }
+  ],
+  "text": "Cupuliferae.\n10\n6\nWMüllern. dIat.\nFagus silvatica l.",
+  "output_sha256": "fe9350263090a1362a00cfbddb7226e20ac4a819f32cf0dbc6009d0b237d8feb",
+  "receipt_sha256": "339a1ff44e0e6e3ac57b1f997ff05d559662722c9300f8355a8ee42226810f46"
+}

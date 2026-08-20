@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 633,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "84f28ee3ddfa3e91141c9be8f628334435002d7150a8dd4c7d5a9bb15dd9ba65",
+  "render_dpi": 144,
+  "render_sha256": "0b8786837f903f29710f5599913afc18a4adfa6aafed8f965086182c9045a0cd",
+  "input_sha256": "0b8786837f903f29710f5599913afc18a4adfa6aafed8f965086182c9045a0cd",
+  "render_pixel_width": 5606,
+  "render_pixel_height": 7910,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.06,
+  "embedded_character_count": 31,
+  "ocr_character_count": 29,
+  "ocr_alpha_ratio": 0.7586,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.021500803175426575,
+      "text": "Piperaceae.",
+      "width": 0.13160890294923233,
+      "x": 0.8214166865788733,
+      "y": 0.9086970483657968
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "8",
+      "width": 0.010245901125139789,
+      "x": 0.6168032790224711,
+      "y": 0.14680232563023476
+    },
+    {
+      "confidence": 1,
+      "height": 0.02325581368945895,
+      "text": "Piper nigrum L.",
+      "width": 0.17213114263962997,
+      "x": 0.4344262332293653,
+      "y": 0.09883720966689846
+    }
+  ],
+  "text": "Piperaceae.\n8\nPiper nigrum L.",
+  "output_sha256": "cdf4c33f2553196e6da9421558515a102d454e860b1f13560c7b10bae8c8dfea",
+  "receipt_sha256": "f5deed2b5a926adf3a5c023fc1f27b0f688ed9340938d0f4b53480ca7b5898ec"
+}

@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0069-p0070",
+  "owner_shard": "S03",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 152.928,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0069-p0070",
+    "book_taxon": {
+      "scientific_name_candidate": "Foeniculum capillaceum",
+      "authorship_candidate": "Gilib.",
+      "aliases_candidates": [
+        "F. officinale All.",
+        "F. vulgare Gärtn.",
+        "Anethum Foeniculum L.",
+        "Meum Foeniculum Spreng.",
+        "Foeniculum dulce DC.",
+        "Foeniculum urticifolium DC."
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 69,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Foeniculum capillaceum Gilib.，同物異名包括 F. officinale 及 Anethum Foeniculum。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          5
+        ],
+        "exact_source_quote": "                                           Foeniculum capillaceum Gilib.\n  Dyn. F. officinale All. F vulgare Gàrtn. Anethum Foeniculum L. Meum Foeniculum Spreng.\n\n                                              Fenchel — Fennel — Fenouil.\n               Familie:          Umbelliferae. Gattung: Foeniculum Adans."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 69,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "一或二年生草本，莖高 1-2 米，葉羽狀分裂，花黃色，果實長橢圓形，具 10 條棱。",
+        "warnings": [],
+        "source_line_range": [
+          6,
+          25
+        ],
+        "exact_source_quote": "  NCC es                            Ein- oder zweijährige oder auch ausdauernde Pflanze mit walziger, nach\n  0 1 Se ying er, wenig          ästiger, fleischiger Wurzel und 1— 2 Meter hohem, stielrundem, zartgerilltem,\n   Pan              tem, kahlem, oberwürts ästigem, innen markigem Stengel.      Blätter zerstreutstehend, kahl,\n  2. n               DE       fast den ganzen Blattstiel einnehmenden, rinnenförmigen Scheide, drei- bis mehr-\n  RUD i ds erac cie gegenständig, abstehend, mit fädigen, ganzrandigen, dichotomen Fieder-\n  OUT: on p 8 schmalrinnigen Zipfeln; die oberen, kleineren, einfacher werdenden Blätter kürzer\n  S        P ETE anfangs endständigen Dolden später blattgegenstándig, 10—20 strahlig; Dóldchen\n  a Ser ohne Hü E und Hüllchen. Blüthen gelb, mit undeutlichem Kelche. Kronblátter rundlich,\n  TUNE  n Pu SER      SCH fast quadratischem Endlüppchen. Staubgefüsse 5, eingebogen, mit rund-\n  PR   unten und oben  ausger andete n, zweifüc herigen , der Länge nach aufspr ingend en, gelben Staub-\n  LIN SE  Pollen             länglich, dreifurchig ; «dreinabelig. Der unterstándige, längliche, seitlich etwas zu-\n  ee     dade                Fruchtknoten undeutlich gerippt, zweifächerig, zweieiig, mit hängendem Eichen. Die\n  En           aufrechten, später überhängenden Griffel mit zweitheiligem, polsterfórmigem, drüsigem, gelbem\n    riffelfuss. Narben einfach. Frucht länglich-eiförmig, bis 8 Mm. lang, 3 Mm. dick, 10rippig, vom\n  Griffelfuss und den Griffeln gekrönt; Theilfriichtchen planconvex, sich bei der Reife leicht trennend;\n  Rippen grünlich-gelb, längsstreifig, randstündige stärker, mit weitem Thälchen zwischen der nächsten\n  Rückenrippe. Thälchen ziemlich flach, braungrün, mit dunklem, starkem, durchscheinendem Oelstriemen.\n  Spaltfläche flach, mit 2 Oelstriemen.                       Der eiweisshaltige Same mit dem Fruchtgehäuse verwachsen,\n  0 do e               dreirippig.                    Embryo      in der oberen Spitze des Eiweisses, mit geradem,                           nach oben\n  gerichtetem Würzelchen."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 69,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "橫切面顯示棱下纖維束，油室呈平面凸形，內果皮具兩層細胞，胚乳被棕色種皮覆蓋。",
+        "warnings": [],
+        "source_line_range": [
+          35,
+          46
+        ],
+        "exact_source_quote": "           Anatomisches.     Der Querschnitt zeigt nach Flückiger unter den „abgerundeten, obwohl\n  bedeutend hervorragenden Rippen ein nicht sehr starkes, rundlich dreieckiges Bündel enger, grossporiger\n  Fasern, welche gegen innen in sehr weite, etwas dickwandige Parenchymzellen übergehen, deren Wände\n  durch breite Bänder ausgezeichnet sind.“ Eigenthümlich ist die Beschaffenheit der dunkelbraunen Oel-\n  gänge,      die im Querschnitte             meist     planconvex        erscheinen       und von       ziemlich     flachen,     nach innen dick-\n  wandigen Zellen umgeben sind.                     Die mittlere Fruchtschicht besteht aus schlaffen, tangential gestreckten\n  Parenchymzellen.             Die innere Seite der Fruchtwand                   zeigt 2 Schichten weiter, im Längsschnitte                     radialer,\n. im Querschnitte tangential gestreckter Tafelzellen. Das aus rundlich eckigen Zellen bestehende Eiweis\n  ist von einer dünnen, braunen Samenhaut bedeckt. Die Oelgänge des römischen Fenchels sind\n  enger und besitzen auf dem Querschnitte eine mehr herzförmige oder kreisrunde Form. Die ganze\n  Mittelschicht dieser Fenchelfrucht ist aus grossen, rundlich-eckigen Zellen zusammengesetzt, deren dünne\n  Wände grosse Poren oder Netzgänge zeigen."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 69,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產地中海沿岸，分布至南俄、阿比西尼亞及摩洛哥；歐洲多地栽培。",
+        "warnings": [],
+        "source_line_range": [
+          48,
+          51
+        ],
+        "exact_source_quote": "              Verbre     itu  ng.      In    den      Mitt elme   erlä nder  n    einh  eimi sch;       von    dem     südk aspi  sche    n   und      kau-\n  kasischen Länd       erge biet e   bis   Abys  inie  n    und    Maro  kko;     eben  so    auch     durc h   Fran krei ch     bis   zum     südl iche  n\n  Englan   d   und     Irla nd.    Ang eba  ut     der    Früc  hte,    geni essb  aren     Sten gel    und    Wurz  eln   wege    n     in  Nord  chin  a,\n  Indi en,   Itali en,   Fran krei ch,    Gali zien ,   Deut   schl and     (Sac hsen ,    Fran  ken,     Würt temb  erg) ."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 69,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "古希臘羅馬時期已用，中世紀視為催乳及明目藥，曾入藥方治療發燒。",
+        "warnings": [],
+        "source_line_range": [
+          52,
+          66
+        ],
+        "exact_source_quote": "              Name und Geschichtliches. Der Name Fenchel (althochdeutsch fenihil, fenchil, fenichal*\n  mittelhochdeutsch Fenekel, Fencol,                     Feng  el,   Feni  chel ,   Feni  kel,     bei   Bru nfe ls,     Boc k,       Fuc   hs    Feni  kl)\n  ist aus dem lateinischen            Foe nic  ulu  m     herv  orge gang  en.      Foe  nic  ulu  m    von   foen  um,   Heu,      wege   n    der   gras -\n  (heu-)artigen Blätter oder             auch     wege   n    des    heua rtig  en   Geru   ches  .     Ane  thu m    wird    abge   leit  et   von    «va,\n  durchdringend und «dew, brennen                      in  Bezu   g   auf   den   Gesc   hmac  k    der   Báre nwur zel.     Meu    m     kom mt    scho   n\n  bei Plinius vor; angeblich                von    jov       oder    ‫متر‬  ‎    we    =     wijw ng,    Mutt er    oder   ,‫ممتع‬ ‎    Amm   e;      auf   den\n  arzneili  chen     Gebr auch     zur   Ver meh   run  g     der   Milc  habs  onde rung       bezo  gen.\n              Der Fenchel find       et   sch on   in   den   hip  pok rat isc hen   Sch  rif ten    Erw  ähn ung     und  füh  rt    zu   The oph ras  t's\n   Zeiten     den    Namen        JM&gm2gov.          Von Dioscorides              erfahren     wir,    dass sowohl Kraut             als Früchte        zu\n   jener Zeit als Zuspeise Verwendung fanden;  auc h   erw ähn t   letz tere r eine s  Gum mih arz  es,   wel che s  aus  dem\n   Fenchel ausschwitzen soll. Celsius, Col ume lla  ,   Pli niu  s   und     Pal lad  ius   ber ich ten   uns,   das s  ihn en\n   Feniculum genau bekannt war und     von  Ale xan  der    Tra  lli  anu  s   wis sen  wir,   das s  er Meg a.I gov   häu fig\n   verordnete.        Foeniculi       semen      bildete      einen Bestandtheil          des Pulvers         „contra omnes        febres eto.\"        Die\n   Pflanze befindet sich in dem Capitulare   Kar l's des  Gro sse n,  wel che  r sie zum    Anb  au   emp fah l  und   wir d\n   von Strabo in seinen Heilpf  lan zen bes ung en.    In  „Ci rca   ins tan s*  der  sal ern ita ner  Sch ule ,  sow ie  in"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 70,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "果實含至 7% 茴香腦精油，根含糖分、澱粉及不同精油。",
+        "warnings": [],
+        "source_line_range": [
+          34,
+          42
+        ],
+        "exact_source_quote": "          Bestandtheile. Die Früchte der noch wenig untersuchten Pflanze enthalten je nach der Be-\nschaffenheit der Waare bis zu 7°/, ätherisches Oel, das sogen. Fenchelöl, welches dem Anisöl sehr\nähnlich ist. Es ist farblos oder gelblich, etwas dickflüssig, von gewürzhaftem Geruch und süsslichem\nGeschmack, mit einem spez. Gew. von 0.90— 1,00 und wird fest bei + 5 bis + 10°. Der Hauptbestandtheil\nist wie bei dem Anisöl Anethol (,, H, 0), dem ein bei 185—190? siedendes Camphen beigesellt\nist. Das in Südfrankreich aus dem römischen Fenchel gewonnene Oel schmeckt milder und süsser,\nist daher mehr geschätzt; es dreht die Polarisationsebene stärker als die anderen Sorten und zwar\nnach Ansicht Flückiger's, weil es weniger Anethol besitzt. Die Wurzel enthält Zucker, Stärkemehl\nund ein ätherisches, mit dem Fruchtöl nicht übereinstimmendes Oel. (Husemann, Pflanzenstoffe 937)."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "3d9f0f436c9323fb29f8d7dc22039b7f3f9beb5358403d3de38a8f2189da440c"
+}

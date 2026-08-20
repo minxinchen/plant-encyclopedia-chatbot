@@ -1,0 +1,1041 @@
+{
+  "schema_version": "1.0",
+  "run_id": "production4-laminaria-hyperborea-profile-check-2026-08-13",
+  "batch_id": "kohler-v2-p315-p316-laminaria-hyperborea",
+  "embedded_at": "2026-08-13T07:29:07+08:00",
+  "source_id": "kohler-volume-2",
+  "record_id": "laminaria-hyperborea",
+  "pdf_pages": [
+    315,
+    316
+  ],
+  "model": "gemini-embedding-2",
+  "dimensions": 768,
+  "vector_space_id": "gemini-embedding-2__768__qa-prefix-v1",
+  "token_unit_contract": "Provider-neutral regex units: Unicode word sequences or individual non-whitespace punctuation. These are deterministic portable chunk units, not a claim about Gemini's private tokenizer.",
+  "external_model_calls": 1,
+  "external_model_calls_this_run": 1,
+  "batch_embed_items": 13,
+  "batch_usage_metadata": {
+    "promptTokenCount": 6512,
+    "promptTokenDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 6512
+      }
+    ]
+  },
+  "incremental_usd": 0,
+  "paid_fallback_used": false,
+  "source_range_notes": [
+    {
+      "pdf_page": 315,
+      "source_char_start": 26,
+      "source_char_end": 5294,
+      "excluded_range_reason": "Keep the complete first page of the Laminaria Cloustoni entry."
+    },
+    {
+      "pdf_page": 316,
+      "source_char_start": 0,
+      "source_char_end": 5555,
+      "excluded_range_reason": "Keep the continuation, distribution, historical iodine passage and plate-caption text; image reasoning remains excluded."
+    }
+  ],
+  "attempt_history": [],
+  "profile_results": {
+    "page-baseline": {
+      "chunk_count": 2,
+      "page_chunk_counts": {
+        "315": 1,
+        "316": 1
+      },
+      "mean_mrr": 0.75,
+      "answer_recall_at_1": 0.5,
+      "answer_recall_at_3": 1.0,
+      "mean_evidence_margin": 0.010677,
+      "refusal_precision": 1.0,
+      "citation_completeness": 1.0,
+      "query_metrics": [
+        {
+          "query_id": "laminaria-iodine-zh-tw",
+          "expected_status": "answerable",
+          "answer_gate": "supporting_book_terms_found",
+          "relevant_chunk_count": 1,
+          "first_relevant_rank": 1,
+          "mrr": 1.0,
+          "recall_at_1": true,
+          "recall_at_3": true,
+          "evidence_margin": 0.02797,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:page",
+              "pdf_page": 316,
+              "cosine_similarity": 0.719461,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:page",
+              "pdf_page": 315,
+              "cosine_similarity": 0.691491,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "laminaria-iodine-en",
+          "expected_status": "answerable",
+          "answer_gate": "supporting_book_terms_found",
+          "relevant_chunk_count": 1,
+          "first_relevant_rank": 1,
+          "mrr": 1.0,
+          "recall_at_1": true,
+          "recall_at_3": true,
+          "evidence_margin": 0.041847,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:page",
+              "pdf_page": 316,
+              "cosine_similarity": 0.735232,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:page",
+              "pdf_page": 315,
+              "cosine_similarity": 0.693385,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "laminaria-distribution-zh-tw",
+          "expected_status": "answerable",
+          "answer_gate": "supporting_book_terms_found",
+          "relevant_chunk_count": 1,
+          "first_relevant_rank": 2,
+          "mrr": 0.5,
+          "recall_at_1": false,
+          "recall_at_3": true,
+          "evidence_margin": -0.02497,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:page",
+              "pdf_page": 315,
+              "cosine_similarity": 0.731973,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:page",
+              "pdf_page": 316,
+              "cosine_similarity": 0.707003,
+              "has_required_book_term": true
+            }
+          ]
+        },
+        {
+          "query_id": "laminaria-comparison-zh-tw",
+          "expected_status": "answerable",
+          "answer_gate": "supporting_book_terms_found",
+          "relevant_chunk_count": 1,
+          "first_relevant_rank": 2,
+          "mrr": 0.5,
+          "recall_at_1": false,
+          "recall_at_3": true,
+          "evidence_margin": -0.002139,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:page",
+              "pdf_page": 316,
+              "cosine_similarity": 0.753661,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:page",
+              "pdf_page": 315,
+              "cosine_similarity": 0.751522,
+              "has_required_book_term": true
+            }
+          ]
+        },
+        {
+          "query_id": "laminaria-wrong-name-refusal-zh-tw",
+          "expected_status": "wrong_name",
+          "answer_gate": "no_supporting_book_relation",
+          "refusal_correct": true,
+          "relevant_chunk_count": 0,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:page",
+              "pdf_page": 315,
+              "cosine_similarity": 0.734666,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:page",
+              "pdf_page": 316,
+              "cosine_similarity": 0.728754,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "laminaria-chromosome-refusal-zh-tw",
+          "expected_status": "unanswerable",
+          "answer_gate": "no_supporting_book_relation",
+          "refusal_correct": true,
+          "relevant_chunk_count": 0,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:page",
+              "pdf_page": 315,
+              "cosine_similarity": 0.707911,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:page",
+              "pdf_page": 316,
+              "cosine_similarity": 0.690939,
+              "has_required_book_term": false
+            }
+          ]
+        }
+      ]
+    },
+    "section-aware-512-100-v1": {
+      "chunk_count": 5,
+      "page_chunk_counts": {
+        "315": 2,
+        "316": 3
+      },
+      "mean_mrr": 0.708333,
+      "answer_recall_at_1": 0.5,
+      "answer_recall_at_3": 1.0,
+      "mean_evidence_margin": 0.00409,
+      "refusal_precision": 1.0,
+      "citation_completeness": 1.0,
+      "query_metrics": [
+        {
+          "query_id": "laminaria-iodine-zh-tw",
+          "expected_status": "answerable",
+          "answer_gate": "supporting_book_terms_found",
+          "relevant_chunk_count": 2,
+          "first_relevant_rank": 1,
+          "mrr": 1.0,
+          "recall_at_1": true,
+          "recall_at_3": true,
+          "evidence_margin": 0.028059,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c02",
+              "pdf_page": 316,
+              "cosine_similarity": 0.73929,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c01",
+              "pdf_page": 316,
+              "cosine_similarity": 0.722308,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c00",
+              "pdf_page": 316,
+              "cosine_similarity": 0.711231,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:section-aware-512-100-v1:c00",
+              "pdf_page": 315,
+              "cosine_similarity": 0.695633,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 5,
+              "chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:section-aware-512-100-v1:c01",
+              "pdf_page": 315,
+              "cosine_similarity": 0.688325,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "laminaria-iodine-en",
+          "expected_status": "answerable",
+          "answer_gate": "supporting_book_terms_found",
+          "relevant_chunk_count": 2,
+          "first_relevant_rank": 1,
+          "mrr": 1.0,
+          "recall_at_1": true,
+          "recall_at_3": true,
+          "evidence_margin": 0.027254,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c01",
+              "pdf_page": 316,
+              "cosine_similarity": 0.727959,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c02",
+              "pdf_page": 316,
+              "cosine_similarity": 0.718079,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c00",
+              "pdf_page": 316,
+              "cosine_similarity": 0.700705,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:section-aware-512-100-v1:c00",
+              "pdf_page": 315,
+              "cosine_similarity": 0.690657,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 5,
+              "chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:section-aware-512-100-v1:c01",
+              "pdf_page": 315,
+              "cosine_similarity": 0.649296,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "laminaria-distribution-zh-tw",
+          "expected_status": "answerable",
+          "answer_gate": "supporting_book_terms_found",
+          "relevant_chunk_count": 2,
+          "first_relevant_rank": 3,
+          "mrr": 0.333333,
+          "recall_at_1": false,
+          "recall_at_3": true,
+          "evidence_margin": -0.015581,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:section-aware-512-100-v1:c00",
+              "pdf_page": 315,
+              "cosine_similarity": 0.736448,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c02",
+              "pdf_page": 316,
+              "cosine_similarity": 0.724131,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c00",
+              "pdf_page": 316,
+              "cosine_similarity": 0.720867,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:section-aware-512-100-v1:c01",
+              "pdf_page": 315,
+              "cosine_similarity": 0.719541,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 5,
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c01",
+              "pdf_page": 316,
+              "cosine_similarity": 0.715558,
+              "has_required_book_term": true
+            }
+          ]
+        },
+        {
+          "query_id": "laminaria-comparison-zh-tw",
+          "expected_status": "answerable",
+          "answer_gate": "supporting_book_terms_found",
+          "relevant_chunk_count": 1,
+          "first_relevant_rank": 2,
+          "mrr": 0.5,
+          "recall_at_1": false,
+          "recall_at_3": true,
+          "evidence_margin": -0.023374,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c00",
+              "pdf_page": 316,
+              "cosine_similarity": 0.788617,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:section-aware-512-100-v1:c01",
+              "pdf_page": 315,
+              "cosine_similarity": 0.765243,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:section-aware-512-100-v1:c00",
+              "pdf_page": 315,
+              "cosine_similarity": 0.736037,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c01",
+              "pdf_page": 316,
+              "cosine_similarity": 0.709317,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 5,
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c02",
+              "pdf_page": 316,
+              "cosine_similarity": 0.698616,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "laminaria-wrong-name-refusal-zh-tw",
+          "expected_status": "wrong_name",
+          "answer_gate": "no_supporting_book_relation",
+          "refusal_correct": true,
+          "relevant_chunk_count": 0,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c00",
+              "pdf_page": 316,
+              "cosine_similarity": 0.748846,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:section-aware-512-100-v1:c00",
+              "pdf_page": 315,
+              "cosine_similarity": 0.730488,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:section-aware-512-100-v1:c01",
+              "pdf_page": 315,
+              "cosine_similarity": 0.725797,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c02",
+              "pdf_page": 316,
+              "cosine_similarity": 0.719826,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 5,
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c01",
+              "pdf_page": 316,
+              "cosine_similarity": 0.717083,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "laminaria-chromosome-refusal-zh-tw",
+          "expected_status": "unanswerable",
+          "answer_gate": "no_supporting_book_relation",
+          "refusal_correct": true,
+          "relevant_chunk_count": 0,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:section-aware-512-100-v1:c00",
+              "pdf_page": 315,
+              "cosine_similarity": 0.709251,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c00",
+              "pdf_page": 316,
+              "cosine_similarity": 0.705238,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:section-aware-512-100-v1:c01",
+              "pdf_page": 315,
+              "cosine_similarity": 0.701019,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c01",
+              "pdf_page": 316,
+              "cosine_similarity": 0.69026,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 5,
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c02",
+              "pdf_page": 316,
+              "cosine_similarity": 0.686666,
+              "has_required_book_term": false
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "selected_profile": "section-aware-512-100-v1",
+  "selected_profile_review_status": "approved_bounded_hybrid_batch",
+  "verdict": "promote",
+  "promotion_scope": "Laminaria Cloustoni PDF pages 315-316 reviewed text ranges only; PDF 317 Ipomoea Purga and plate-image reasoning are excluded",
+  "pure_semantic_verdict": "hold_for_evidence",
+  "pure_semantic_selected_profile": null,
+  "hybrid_parent_results": {
+    "page-baseline": {
+      "fusion_contract": "cosine + 0.08 * deterministic lexical coverage, then max score per parent page",
+      "query_results": [
+        {
+          "query_id": "laminaria-iodine-zh-tw",
+          "expected_status": "answerable",
+          "expanded_lexical_terms": [
+            "jod",
+            "meerwasser"
+          ],
+          "answer_gate": "answerable_with_page_evidence",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:page",
+              "parent_chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:page",
+              "pdf_page": 316,
+              "semantic_score": 0.719461,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.799461,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p316:laminaria-hyperborea:page"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-2:p316:laminaria-hyperborea:page"
+              ],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:page",
+              "parent_chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:page",
+              "pdf_page": 315,
+              "semantic_score": 0.691491,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.691491,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p315:laminaria-hyperborea:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            }
+          ]
+        },
+        {
+          "query_id": "laminaria-iodine-en",
+          "expected_status": "answerable",
+          "expanded_lexical_terms": [
+            "jod",
+            "meerwasser"
+          ],
+          "answer_gate": "answerable_with_page_evidence",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:page",
+              "parent_chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:page",
+              "pdf_page": 316,
+              "semantic_score": 0.735232,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.815232,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p316:laminaria-hyperborea:page"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-2:p316:laminaria-hyperborea:page"
+              ],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:page",
+              "parent_chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:page",
+              "pdf_page": 315,
+              "semantic_score": 0.693385,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.693385,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p315:laminaria-hyperborea:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            }
+          ]
+        },
+        {
+          "query_id": "laminaria-distribution-zh-tw",
+          "expected_status": "answerable",
+          "expanded_lexical_terms": [
+            "grossbritannien",
+            "seetiefen"
+          ],
+          "answer_gate": "answerable_with_page_evidence",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:page",
+              "parent_chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:page",
+              "pdf_page": 316,
+              "semantic_score": 0.707003,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.787003,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p316:laminaria-hyperborea:page"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-2:p316:laminaria-hyperborea:page"
+              ],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:page",
+              "parent_chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:page",
+              "pdf_page": 315,
+              "semantic_score": 0.731973,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.731973,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p315:laminaria-hyperborea:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            }
+          ]
+        },
+        {
+          "query_id": "laminaria-comparison-zh-tw",
+          "expected_status": "answerable",
+          "expanded_lexical_terms": [
+            "flexicaulis",
+            "leicht biegen"
+          ],
+          "answer_gate": "answerable_with_page_evidence",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:page",
+              "parent_chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:page",
+              "pdf_page": 315,
+              "semantic_score": 0.751522,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.831522,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p315:laminaria-hyperborea:page"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-2:p315:laminaria-hyperborea:page"
+              ],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:page",
+              "parent_chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:page",
+              "pdf_page": 316,
+              "semantic_score": 0.753661,
+              "lexical_coverage": 0.5,
+              "hybrid_score": 0.793661,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p316:laminaria-hyperborea:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            }
+          ]
+        },
+        {
+          "query_id": "laminaria-wrong-name-refusal-zh-tw",
+          "expected_status": "wrong_name",
+          "expanded_lexical_terms": [],
+          "answer_gate": "refuse_no_book_relation",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:page",
+              "parent_chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:page",
+              "pdf_page": 315,
+              "semantic_score": 0.734666,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.734666,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p315:laminaria-hyperborea:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:page",
+              "parent_chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:page",
+              "pdf_page": 316,
+              "semantic_score": 0.728754,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.728754,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p316:laminaria-hyperborea:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            }
+          ]
+        },
+        {
+          "query_id": "laminaria-chromosome-refusal-zh-tw",
+          "expected_status": "unanswerable",
+          "expanded_lexical_terms": [
+            "chromosom"
+          ],
+          "answer_gate": "refuse_no_book_relation",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:page",
+              "parent_chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:page",
+              "pdf_page": 315,
+              "semantic_score": 0.707911,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.707911,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p315:laminaria-hyperborea:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:page",
+              "parent_chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:page",
+              "pdf_page": 316,
+              "semantic_score": 0.690939,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.690939,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p316:laminaria-hyperborea:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            }
+          ]
+        }
+      ],
+      "all_gates_pass": true
+    },
+    "section-aware-512-100-v1": {
+      "fusion_contract": "cosine + 0.08 * deterministic lexical coverage, then max score per parent page",
+      "query_results": [
+        {
+          "query_id": "laminaria-iodine-zh-tw",
+          "expected_status": "answerable",
+          "expanded_lexical_terms": [
+            "jod",
+            "meerwasser"
+          ],
+          "answer_gate": "answerable_with_page_evidence",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c02",
+              "parent_chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:page",
+              "pdf_page": 316,
+              "semantic_score": 0.73929,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.81929,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c02",
+                "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c01",
+                "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c02",
+                "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c01"
+              ],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:page",
+              "pdf_page": 315,
+              "semantic_score": 0.695633,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.695633,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p315:laminaria-hyperborea:section-aware-512-100-v1:c00",
+                "kohler-volume-2:p315:laminaria-hyperborea:section-aware-512-100-v1:c01"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            }
+          ]
+        },
+        {
+          "query_id": "laminaria-iodine-en",
+          "expected_status": "answerable",
+          "expanded_lexical_terms": [
+            "jod",
+            "meerwasser"
+          ],
+          "answer_gate": "answerable_with_page_evidence",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c01",
+              "parent_chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:page",
+              "pdf_page": 316,
+              "semantic_score": 0.727959,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.807959,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c01",
+                "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c02",
+                "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c01",
+                "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c02"
+              ],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:page",
+              "pdf_page": 315,
+              "semantic_score": 0.690657,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.690657,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p315:laminaria-hyperborea:section-aware-512-100-v1:c00",
+                "kohler-volume-2:p315:laminaria-hyperborea:section-aware-512-100-v1:c01"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            }
+          ]
+        },
+        {
+          "query_id": "laminaria-distribution-zh-tw",
+          "expected_status": "answerable",
+          "expanded_lexical_terms": [
+            "grossbritannien",
+            "seetiefen"
+          ],
+          "answer_gate": "answerable_with_page_evidence",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:page",
+              "pdf_page": 316,
+              "semantic_score": 0.720867,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.800867,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c00",
+                "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c01",
+                "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c02"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c00",
+                "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c01"
+              ],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:page",
+              "pdf_page": 315,
+              "semantic_score": 0.736448,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.736448,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p315:laminaria-hyperborea:section-aware-512-100-v1:c00",
+                "kohler-volume-2:p315:laminaria-hyperborea:section-aware-512-100-v1:c01"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            }
+          ]
+        },
+        {
+          "query_id": "laminaria-comparison-zh-tw",
+          "expected_status": "answerable",
+          "expanded_lexical_terms": [
+            "flexicaulis",
+            "leicht biegen"
+          ],
+          "answer_gate": "answerable_with_page_evidence",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:section-aware-512-100-v1:c01",
+              "parent_chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:page",
+              "pdf_page": 315,
+              "semantic_score": 0.765243,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.845243,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p315:laminaria-hyperborea:section-aware-512-100-v1:c01",
+                "kohler-volume-2:p315:laminaria-hyperborea:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-2:p315:laminaria-hyperborea:section-aware-512-100-v1:c01"
+              ],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:page",
+              "pdf_page": 316,
+              "semantic_score": 0.788617,
+              "lexical_coverage": 0.5,
+              "hybrid_score": 0.828617,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c00",
+                "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c01",
+                "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c02"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            }
+          ]
+        },
+        {
+          "query_id": "laminaria-wrong-name-refusal-zh-tw",
+          "expected_status": "wrong_name",
+          "expanded_lexical_terms": [],
+          "answer_gate": "refuse_no_book_relation",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:page",
+              "pdf_page": 316,
+              "semantic_score": 0.748846,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.748846,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c00",
+                "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c02",
+                "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c01"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:page",
+              "pdf_page": 315,
+              "semantic_score": 0.730488,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.730488,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p315:laminaria-hyperborea:section-aware-512-100-v1:c00",
+                "kohler-volume-2:p315:laminaria-hyperborea:section-aware-512-100-v1:c01"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            }
+          ]
+        },
+        {
+          "query_id": "laminaria-chromosome-refusal-zh-tw",
+          "expected_status": "unanswerable",
+          "expanded_lexical_terms": [
+            "chromosom"
+          ],
+          "answer_gate": "refuse_no_book_relation",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p315:laminaria-hyperborea:page",
+              "pdf_page": 315,
+              "semantic_score": 0.709251,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.709251,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p315:laminaria-hyperborea:section-aware-512-100-v1:c00",
+                "kohler-volume-2:p315:laminaria-hyperborea:section-aware-512-100-v1:c01"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p316:laminaria-hyperborea:page",
+              "pdf_page": 316,
+              "semantic_score": 0.705238,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.705238,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c00",
+                "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c01",
+                "kohler-volume-2:p316:laminaria-hyperborea:section-aware-512-100-v1:c02"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            }
+          ]
+        }
+      ],
+      "all_gates_pass": true
+    }
+  },
+  "selection_basis": "deterministic bilingual domain-term expansion + lexical/semantic fusion + parent-page collapse + exact book-term gate"
+}

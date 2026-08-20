@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 427,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "e53f8ae3ef6c8ff3151a3459d23b4ed7b5475b28ed03a420b4086701248f02ed",
+  "render_dpi": 144,
+  "render_sha256": "13a5faa870b350a9623bee9a6395dc0effb04532d06f8eddefeecfd28aa139d5",
+  "input_sha256": "13a5faa870b350a9623bee9a6395dc0effb04532d06f8eddefeecfd28aa139d5",
+  "render_pixel_width": 5558,
+  "render_pixel_height": 8246,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.374,
+  "embedded_character_count": 92,
+  "ocr_character_count": 63,
+  "ocr_alpha_ratio": 0.7619,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.016205781982058576,
+      "text": "Solanacede",
+      "width": 0.09060129442137776,
+      "x": 0.870647629298202,
+      "y": 0.9635540858035131
+    },
+    {
+      "confidence": 1,
+      "height": 0.024235299655369302,
+      "text": "(Salpiglossideae)",
+      "width": 0.12754204239890887,
+      "x": 0.853254839645088,
+      "y": 0.938463745763173
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "A",
+      "width": 0.01293103356322789,
+      "x": 0.6336206902765757,
+      "y": 0.17732558166221146
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "8",
+      "width": 0.010775861536605591,
+      "x": 0.5129310348566972,
+      "y": 0.1162790697738878
+    },
+    {
+      "confidence": 1,
+      "height": 0.020458425794328883,
+      "text": "Duboisia myoporoides R. Br.",
+      "width": 0.22198275242595655,
+      "x": 0.3922413846275389,
+      "y": 0.06820436463851554
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494425,
+      "text": "26",
+      "width": 0.017241379019966696,
+      "x": 0.9073275865244994,
+      "y": 0.018895349181380583
+    }
+  ],
+  "text": "Solanacede\n(Salpiglossideae)\nA\n8\nDuboisia myoporoides R. Br.\n26",
+  "output_sha256": "4633ad84208b163a6a81a8eb005cd045682caa6cc1545d523c306c673674351d",
+  "receipt_sha256": "67aead9d12e4163501b6111c7029260dde627d017e722d63ccd11a4b296971c7"
+}

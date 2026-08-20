@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 341,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "547c00bdd1bc396de648bbdf2e565ceb07c3427b0afa0152ce9015296fe0ce33",
+  "render_dpi": 144,
+  "render_sha256": "de60bd32c1617a3e6f45e672c4bb2b240a79c57863d04a16898cc76452ad1d1f",
+  "input_sha256": "de60bd32c1617a3e6f45e672c4bb2b240a79c57863d04a16898cc76452ad1d1f",
+  "render_pixel_width": 5810,
+  "render_pixel_height": 7886,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.164,
+  "embedded_character_count": 119,
+  "ocr_character_count": 70,
+  "ocr_alpha_ratio": 0.5714,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.019088542650616325,
+      "text": "Goniferae.",
+      "width": 0.10065822678331093,
+      "x": 0.8165347910957412,
+      "y": 0.9286824727985661
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494425,
+      "text": "12",
+      "width": 0.013806705038448053,
+      "x": 0.8520710063565157,
+      "y": 0.649709302756962
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "15",
+      "width": 0.015779092205966627,
+      "x": 0.7376725841590623,
+      "y": 0.3081395349913283
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "B",
+      "width": 0.013806706321993545,
+      "x": 0.4615384613754924,
+      "y": 0.20494186055192543
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "13",
+      "width": 0.0177514793734852,
+      "x": 0.6686390533901805,
+      "y": 0.19331395373706617
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436846943,
+      "text": "18",
+      "width": 0.0177514793734852,
+      "x": 0.36883629201937185,
+      "y": 0.17151162792353392
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "17",
+      "width": 0.01183431915447497,
+      "x": 0.8382642998902182,
+      "y": 0.17296511649914958
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372621082103,
+      "text": "WMüllern.d. Nat.",
+      "width": 0.09467455323579976,
+      "x": 0.8303747539935399,
+      "y": 0.13808139501213346
+    },
+    {
+      "confidence": 1,
+      "height": 0.0233192604685587,
+      "text": "Juniperus communis l.",
+      "width": 0.2228796690662327,
+      "x": 0.382643008045779,
+      "y": 0.11185515829477544
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "53.",
+      "width": 0.019723865257458284,
+      "x": 0.8974358975882335,
+      "y": 0.026162790879960762
+    }
+  ],
+  "text": "Goniferae.\n12\n15\nB\n13\n18\n17\nWMüllern.d. Nat.\nJuniperus communis l.\n53.",
+  "output_sha256": "e99e5803f0af59ee90ef504a7aa312576272f43cdea53645a6329594fb47120d",
+  "receipt_sha256": "747f07b6ed7dbe5593b34de09ac31abc16403e70fb24fdb9155f6284a162a0ed"
+}

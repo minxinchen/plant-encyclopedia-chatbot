@@ -1,0 +1,373 @@
+{
+  "schema_version": "1.0",
+  "run_id": "podophyllum-chunking-ab-2026-08-11",
+  "batch_id": "volume-1-podophyllum-pages-191-192-chunking-ab",
+  "embedded_at": "2026-08-11T16:26:17+08:00",
+  "source_id": "kohler-volume-1",
+  "record_id": "podophyllum-peltatum",
+  "pdf_pages": [
+    191,
+    192
+  ],
+  "model": "gemini-embedding-2",
+  "dimensions": 768,
+  "vector_space_id": "gemini-embedding-2__768__qa-prefix-v1",
+  "token_unit_contract": "Provider-neutral regex units: Unicode word sequences or individual non-whitespace punctuation. These are deterministic portable chunk units, not a claim about Gemini's private tokenizer.",
+  "external_model_calls": 1,
+  "batch_embed_items": 5,
+  "batch_usage_metadata": {
+    "promptTokenCount": 3063,
+    "promptTokenDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 3063
+      }
+    ]
+  },
+  "independent_review": {
+    "checker": "deterministic exact-substring/source-term validator plus Codex sampled raw-evidence inspection",
+    "result": "passed",
+    "observations": [
+      "Both 512/100 page-192 overlap chunks retain the exact Verstopfung and Obstipation passage and the PDF page-192 parent locator.",
+      "The chromosome-count query produced a high nearest-vector score but remained blocked because no Chromosom, Chromosomenzahl or chromosome source term exists on either approved page.",
+      "No Libra or astrology probe is part of this formal acceptance suite."
+    ]
+  },
+  "incremental_usd": 0,
+  "paid_fallback_used": false,
+  "official_contract": "https://ai.google.dev/api/embeddings#method_models.batchEmbedContents",
+  "candidate_chunk_files": {
+    "section-aware-512-100-v1": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/chunks/experiments/podophyllum-peltatum-section-aware-512-100-v1.jsonl",
+    "section-aware-1024-200-v1": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/chunks/experiments/podophyllum-peltatum-section-aware-1024-200-v1.jsonl"
+  },
+  "experiment_database": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/index/experiments/podophyllum-chunking-ab.sqlite",
+  "query_checkpoints": {
+    "habitual-constipation-zh-tw": "reused-approved-query",
+    "habitual-constipation-en": "reused-approved-query",
+    "chromosome-count-zh-tw": "embedded-synchronous-batch"
+  },
+  "profile_results": {
+    "page-baseline": {
+      "chunk_count": 2,
+      "page_chunk_counts": {
+        "191": 1,
+        "192": 1
+      },
+      "mean_mrr": 1.0,
+      "answer_recall_at_1": 1.0,
+      "answer_recall_at_3": 1.0,
+      "mean_evidence_margin": 0.01548,
+      "refusal_precision": 1.0,
+      "citation_completeness": 1.0,
+      "query_metrics": [
+        {
+          "query_id": "habitual-constipation-zh-tw",
+          "expected_status": "answerable",
+          "answer_gate": "supporting_book_terms_found",
+          "relevant_chunk_count": 1,
+          "first_relevant_rank": 1,
+          "mrr": 1.0,
+          "recall_at_1": true,
+          "recall_at_3": true,
+          "evidence_margin": 0.017285,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-1:p192:podophyllum-peltatum:page",
+              "pdf_page": 192,
+              "cosine_similarity": 0.709438,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-1:p191:podophyllum-peltatum:page",
+              "pdf_page": 191,
+              "cosine_similarity": 0.692153,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "habitual-constipation-en",
+          "expected_status": "answerable",
+          "answer_gate": "supporting_book_terms_found",
+          "relevant_chunk_count": 1,
+          "first_relevant_rank": 1,
+          "mrr": 1.0,
+          "recall_at_1": true,
+          "recall_at_3": true,
+          "evidence_margin": 0.013675,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-1:p192:podophyllum-peltatum:page",
+              "pdf_page": 192,
+              "cosine_similarity": 0.727371,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-1:p191:podophyllum-peltatum:page",
+              "pdf_page": 191,
+              "cosine_similarity": 0.713696,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "chromosome-count-zh-tw",
+          "expected_status": "unanswerable",
+          "answer_gate": "no_supporting_book_relation",
+          "refusal_correct": true,
+          "relevant_chunk_count": 0,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-1:p191:podophyllum-peltatum:page",
+              "pdf_page": 191,
+              "cosine_similarity": 0.741892,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-1:p192:podophyllum-peltatum:page",
+              "pdf_page": 192,
+              "cosine_similarity": 0.717375,
+              "has_required_book_term": false
+            }
+          ]
+        }
+      ]
+    },
+    "section-aware-512-100-v1": {
+      "chunk_count": 4,
+      "page_chunk_counts": {
+        "191": 2,
+        "192": 2
+      },
+      "mean_mrr": 1.0,
+      "answer_recall_at_1": 1.0,
+      "answer_recall_at_3": 1.0,
+      "mean_evidence_margin": 0.029797,
+      "refusal_precision": 1.0,
+      "citation_completeness": 1.0,
+      "query_metrics": [
+        {
+          "query_id": "habitual-constipation-zh-tw",
+          "expected_status": "answerable",
+          "answer_gate": "supporting_book_terms_found",
+          "relevant_chunk_count": 2,
+          "first_relevant_rank": 1,
+          "mrr": 1.0,
+          "recall_at_1": true,
+          "recall_at_3": true,
+          "evidence_margin": 0.031062,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-1:p192:podophyllum-peltatum:section-aware-512-100-v1:c01",
+              "pdf_page": 192,
+              "cosine_similarity": 0.718814,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-1:p192:podophyllum-peltatum:section-aware-512-100-v1:c00",
+              "pdf_page": 192,
+              "cosine_similarity": 0.709944,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-1:p191:podophyllum-peltatum:section-aware-512-100-v1:c01",
+              "pdf_page": 191,
+              "cosine_similarity": 0.687752,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-1:p191:podophyllum-peltatum:section-aware-512-100-v1:c00",
+              "pdf_page": 191,
+              "cosine_similarity": 0.678495,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "habitual-constipation-en",
+          "expected_status": "answerable",
+          "answer_gate": "supporting_book_terms_found",
+          "relevant_chunk_count": 2,
+          "first_relevant_rank": 1,
+          "mrr": 1.0,
+          "recall_at_1": true,
+          "recall_at_3": true,
+          "evidence_margin": 0.028533,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-1:p192:podophyllum-peltatum:section-aware-512-100-v1:c01",
+              "pdf_page": 192,
+              "cosine_similarity": 0.741802,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-1:p192:podophyllum-peltatum:section-aware-512-100-v1:c00",
+              "pdf_page": 192,
+              "cosine_similarity": 0.725189,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-1:p191:podophyllum-peltatum:section-aware-512-100-v1:c01",
+              "pdf_page": 191,
+              "cosine_similarity": 0.713269,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-1:p191:podophyllum-peltatum:section-aware-512-100-v1:c00",
+              "pdf_page": 191,
+              "cosine_similarity": 0.702523,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "chromosome-count-zh-tw",
+          "expected_status": "unanswerable",
+          "answer_gate": "no_supporting_book_relation",
+          "refusal_correct": true,
+          "relevant_chunk_count": 0,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-1:p191:podophyllum-peltatum:section-aware-512-100-v1:c00",
+              "pdf_page": 191,
+              "cosine_similarity": 0.735603,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-1:p191:podophyllum-peltatum:section-aware-512-100-v1:c01",
+              "pdf_page": 191,
+              "cosine_similarity": 0.733125,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-1:p192:podophyllum-peltatum:section-aware-512-100-v1:c00",
+              "pdf_page": 192,
+              "cosine_similarity": 0.71171,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-1:p192:podophyllum-peltatum:section-aware-512-100-v1:c01",
+              "pdf_page": 192,
+              "cosine_similarity": 0.689157,
+              "has_required_book_term": false
+            }
+          ]
+        }
+      ]
+    },
+    "section-aware-1024-200-v1": {
+      "chunk_count": 2,
+      "page_chunk_counts": {
+        "191": 1,
+        "192": 1
+      },
+      "mean_mrr": 1.0,
+      "answer_recall_at_1": 1.0,
+      "answer_recall_at_3": 1.0,
+      "mean_evidence_margin": 0.01548,
+      "refusal_precision": 1.0,
+      "citation_completeness": 1.0,
+      "query_metrics": [
+        {
+          "query_id": "habitual-constipation-zh-tw",
+          "expected_status": "answerable",
+          "answer_gate": "supporting_book_terms_found",
+          "relevant_chunk_count": 1,
+          "first_relevant_rank": 1,
+          "mrr": 1.0,
+          "recall_at_1": true,
+          "recall_at_3": true,
+          "evidence_margin": 0.017285,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-1:p192:podophyllum-peltatum:section-aware-1024-200-v1:c00",
+              "pdf_page": 192,
+              "cosine_similarity": 0.709438,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-1:p191:podophyllum-peltatum:section-aware-1024-200-v1:c00",
+              "pdf_page": 191,
+              "cosine_similarity": 0.692153,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "habitual-constipation-en",
+          "expected_status": "answerable",
+          "answer_gate": "supporting_book_terms_found",
+          "relevant_chunk_count": 1,
+          "first_relevant_rank": 1,
+          "mrr": 1.0,
+          "recall_at_1": true,
+          "recall_at_3": true,
+          "evidence_margin": 0.013675,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-1:p192:podophyllum-peltatum:section-aware-1024-200-v1:c00",
+              "pdf_page": 192,
+              "cosine_similarity": 0.727371,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-1:p191:podophyllum-peltatum:section-aware-1024-200-v1:c00",
+              "pdf_page": 191,
+              "cosine_similarity": 0.713696,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "chromosome-count-zh-tw",
+          "expected_status": "unanswerable",
+          "answer_gate": "no_supporting_book_relation",
+          "refusal_correct": true,
+          "relevant_chunk_count": 0,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-1:p191:podophyllum-peltatum:section-aware-1024-200-v1:c00",
+              "pdf_page": 191,
+              "cosine_similarity": 0.741892,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-1:p192:podophyllum-peltatum:section-aware-1024-200-v1:c00",
+              "pdf_page": 192,
+              "cosine_similarity": 0.717375,
+              "has_required_book_term": false
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "selected_profile": "section-aware-512-100-v1",
+  "selected_profile_review_status": "approved_bounded_batch",
+  "verdict": "promote",
+  "promotion_scope": "Podophyllum PDF pages 191-192 chunking profile only; no full-volume expansion"
+}

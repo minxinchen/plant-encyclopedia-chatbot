@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 649,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "e17a3d0be83420c4a2301104a8d8fcfef19258413c5992e897ef12a4004414d0",
+  "render_dpi": 144,
+  "render_sha256": "3e77ea3b53979dd421e638e1be5cf02c581c7c6061dc5b62e02d98c163a7b480",
+  "input_sha256": "3e77ea3b53979dd421e638e1be5cf02c581c7c6061dc5b62e02d98c163a7b480",
+  "render_pixel_width": 5714,
+  "render_pixel_height": 8006,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.395,
+  "embedded_character_count": 37,
+  "ocr_character_count": 31,
+  "ocr_alpha_ratio": 0.7742,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.02180232509734137,
+      "text": "Cupulifèrae.",
+      "width": 0.11405294814649924,
+      "x": 0.8350305535438582,
+      "y": 0.9069767444135386
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720930606599842,
+      "text": "6",
+      "width": 0.012219959866097599,
+      "x": 0.0997963336107394,
+      "y": 0.14680232550338612
+    },
+    {
+      "confidence": 1,
+      "height": 0.02325581368945895,
+      "text": "Quercus Suber I.",
+      "width": 0.16700611021719192,
+      "x": 0.4378818752885527,
+      "y": 0.10901162832968914
+    }
+  ],
+  "text": "Cupulifèrae.\n6\nQuercus Suber I.",
+  "output_sha256": "f9bfa8b5c140fd48375887318f16eaf72e2c4e1556392a380d66b15fe7370a23",
+  "receipt_sha256": "a606d4a968f0e1d54bc52698a807436e32d20ddb77930abc82a758a2cdf5a2ca"
+}

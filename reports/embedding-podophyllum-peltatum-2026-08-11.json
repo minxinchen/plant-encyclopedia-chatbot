@@ -1,0 +1,99 @@
+{
+  "schema_version": "1.1",
+  "run_id": "podophyllum-page-embedding-2026-08-11",
+  "batch_id": "volume-1-podophyllum-peltatum-pages-191-192",
+  "embedded_at": "2026-08-11T11:23:15+08:00",
+  "source_id": "kohler-volume-1",
+  "record_id": "podophyllum-peltatum",
+  "scientific_name": "Podophyllum peltatum L.",
+  "display_name": "",
+  "pdf_pages": [
+    191,
+    192
+  ],
+  "model": "gemini-embedding-2",
+  "dimensions": 768,
+  "provider": "google-ai-studio",
+  "embedding_profile": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/config/embedding-profile.json",
+  "profile_id": "google-gemini-embedding-2-768-qa-v1",
+  "vector_space_id": "gemini-embedding-2__768__qa-prefix-v1",
+  "prompt_contract_version": "qa-prefix-v1",
+  "api_task_type_field_used": false,
+  "external_model_calls": 4,
+  "external_model_calls_this_process": 0,
+  "recovered_external_model_calls": 4,
+  "incremental_usd": 0,
+  "paid_fallback_used": false,
+  "indexed_chunks": [
+    {
+      "chunk_id": "kohler-volume-1:p191:podophyllum-peltatum:page",
+      "pdf_page": 191,
+      "characters": 5272,
+      "text_sha256": "224968624c4cfd2214d0f20347ab8da678ba0960961a3f0c7437f435549cc7c4",
+      "checkpoint": "reused"
+    },
+    {
+      "chunk_id": "kohler-volume-1:p192:podophyllum-peltatum:page",
+      "pdf_page": 192,
+      "characters": 5182,
+      "text_sha256": "4565cd73f6afbd9571fa73ba18c988cccf0c000431aa15b8eb03f18d4d7b144b",
+      "checkpoint": "reused"
+    }
+  ],
+  "query_results": [
+    {
+      "query_id": "habitual-constipation-zh-tw",
+      "question_zh_tw": "哪一種植物的根莖及其樹脂在書中被記載用於習慣性便秘？",
+      "checkpoint": "reused",
+      "expected_status": "answerable",
+      "raw_exact_hits": 0,
+      "required_book_terms": [
+        "Verstopfung",
+        "Obstipation"
+      ],
+      "supporting_pages": [
+        192
+      ],
+      "answer_gate": "supporting_book_terms_found",
+      "rankings": [
+        {
+          "pdf_page": 192,
+          "cosine_similarity": 0.709438
+        },
+        {
+          "pdf_page": 191,
+          "cosine_similarity": 0.692153
+        }
+      ]
+    },
+    {
+      "query_id": "libra-plant-zh-tw",
+      "question_zh_tw": "天秤座相關的植物是什麼？",
+      "checkpoint": "reused",
+      "expected_status": "unanswerable",
+      "raw_exact_hits": 0,
+      "required_book_terms": [
+        "Libra",
+        "Waage",
+        "Tierkreis",
+        "Sternzeichen",
+        "Venus"
+      ],
+      "supporting_pages": [],
+      "answer_gate": "no_supporting_book_relation",
+      "rankings": [
+        {
+          "pdf_page": 191,
+          "cosine_similarity": 0.555775
+        },
+        {
+          "pdf_page": 192,
+          "cosine_similarity": 0.532503
+        }
+      ]
+    }
+  ],
+  "vector_database": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/index/plant-embeddings.sqlite",
+  "portable_chunks_jsonl": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/chunks/podophyllum-peltatum.jsonl",
+  "review_status": "approved_bounded_batch"
+}

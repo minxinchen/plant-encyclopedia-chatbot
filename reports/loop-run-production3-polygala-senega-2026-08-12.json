@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0",
+  "run_id": "production3-polygala-senega-2026-08-12",
+  "started_at": "2026-08-12T16:46:30+08:00",
+  "finished_at": "2026-08-12T17:00:00+08:00",
+  "status": "approved",
+  "cost": {"incremental_usd": 0, "paid_fallback_used": false},
+  "input": {"pages_file": "data/fulltext/kohler-pages.sqlite#kohler-volume-2:p101-p102-reviewed-ranges", "name_file": "data/sample-name-resolution.json#Polygala-senega", "page_count": 2, "taxon_count": 1},
+  "stages": [
+    {"name": "candidate_selection_and_visual_boundary", "attempt": 1, "status": "passed", "tool": "durable OCR selector plus PDF skill Poppler render and Codex page review", "checks": ["Polygala Senega spans two adjacent PDF pages, within the six-page limit.", "PDF page 103 visibly begins Smilax medica.", "Plate caption text is retained separately while image reasoning remains disabled."], "retry_target": null},
+    {"name": "name_and_source_exact_record", "attempt": 1, "status": "passed", "tool": "MOHW Taiwan name metadata plus declarative range builder and deterministic record validator", "checks": ["Taiwan display name is 美遠志 and 遠志 is retained as an alias.", "Name/ingredient terminology is separated from Taiwan occurrence.", "Seven record sections occur exactly inside cited PDF pages 101-102.", "Polygala tenuifolia is guarded as a wrong-name conflation."], "retry_target": null},
+    {"name": "embedding_and_retrieval", "attempt": 1, "status": "passed", "tool": "one gemini-embedding-2 Free Tier batch plus deterministic hybrid and exact-term checker", "checks": ["One external call embedded two page baselines, seven 512/100 children and six query vectors.", "Both profiles reached answer recall at rank 1 and refusal precision of 1.0.", "Chinese and English Senegin questions rank PDF page 102 first; distribution ranks PDF page 101 first.", "Ambiguity, Polygala tenuifolia wrong-name and chromosome questions refuse."], "retry_target": null},
+    {"name": "portable_integration_and_regression", "attempt": 1, "status": "passed", "tool": "SQLite migration, deterministic chat API, Gem exporter and inactive n8n replay harness", "checks": ["Main index contains 49 approved child chunks across 23 parent pages and 33 approved queries.", "The deterministic chat API passes 49 cases across seven approved fact records.", "The Classic Gem pack exports seven records and 49 canonical child chunks.", "PEHybridIdx001 canonical source and database rows match and remain inactive; n8n and Qwen remain stopped."], "retry_target": null}
+  ],
+  "review_summary": {"passed": 4, "needs_review": 0, "failed": 0, "warnings": ["No volume is fully processed.", "Taiwan public sources support naming but do not establish Polygala senega occurrence in Taiwan.", "Historical medicinal content is not modern medical advice.", "Image reasoning remains disabled."]}
+}

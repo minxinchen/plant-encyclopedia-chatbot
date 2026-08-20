@@ -1,0 +1,288 @@
+{
+  "schema_version": "1.0",
+  "suite_id": "portable-chat-api-acceptance-v5",
+  "author": "Codex (GPT-5)",
+  "date": "2026-08-12",
+  "cases": [
+    {
+      "case_id": "cibotium-taiwan-name-metadata",
+      "request": {"question": "Cibotium barometz 在臺灣公開資料中叫什麼名稱？"},
+      "expected": {"answer_status": "name_metadata", "response_locale": "zh-TW", "display_name": "金狗毛蕨", "evidence_count": 0, "answer_contains": "臺灣物種紀錄"}
+    },
+    {
+      "case_id": "zh-tw-approved-answer",
+      "request": {"question": "本書如何描述金狗毛蕨所供應的 Penawar Djambi 毛狀材料？"},
+      "expected": {"answer_status": "answerable", "response_locale": "zh-TW", "display_name": "金狗毛蕨", "source_id": "kohler-volume-4", "pdf_page": 32}
+    },
+    {
+      "case_id": "english-approved-answer",
+      "request": {"question": "What does the book say about the hairs supplied as Penawar Djambi?"},
+      "expected": {"answer_status": "answerable", "response_locale": "en", "display_name": "金狗毛蕨", "scientific_name": "Cibotium barometz (L.) J.Sm.", "source_id": "kohler-volume-4", "pdf_page": 32}
+    },
+    {
+      "case_id": "simplified-input-traditional-output",
+      "request": {"question": "这本书怎么描述金毛狗的毛？"},
+      "expected": {"answer_status": "answerable", "response_locale": "zh-TW", "display_name": "金狗毛蕨", "forbidden_answer": "金毛狗"}
+    },
+    {
+      "case_id": "non-kohler-drug-zh-tw",
+      "request": {"question": "阿斯匹靈一天應該吃多少？"},
+      "expected": {"answer_status": "out_of_scope", "response_locale": "zh-TW", "evidence_count": 0}
+    },
+    {
+      "case_id": "non-kohler-drug-en",
+      "request": {"question": "What dose of metformin should I take?"},
+      "expected": {"answer_status": "out_of_scope", "response_locale": "en", "evidence_count": 0}
+    },
+    {
+      "case_id": "medical-advice-refusal",
+      "request": {"question": "我流血時要怎麼使用金狗毛蕨？"},
+      "expected": {"answer_status": "refuse_medical_advice", "response_locale": "zh-TW", "evidence_count": 0}
+    },
+    {
+      "case_id": "approved-record-unknown-fact",
+      "request": {"question": "金狗毛蕨的基因組大小是多少？"},
+      "expected": {"answer_status": "no_approved_evidence", "response_locale": "zh-TW", "forbidden_answer": "本書未記載"}
+    },
+    {
+      "case_id": "cibotium-wrong-name-guard",
+      "request": {"question": "這三頁是否把 Penawar Djambi 的主要來源寫成 Cibotium taiwanense？"},
+      "expected": {"answer_status": "not_yet_processed", "response_locale": "zh-TW", "evidence_count": 0}
+    },
+    {
+      "case_id": "unprocessed-taxon",
+      "request": {"question": "這本書怎麼描述銀杏？"},
+      "expected": {"answer_status": "not_yet_processed", "response_locale": "zh-TW", "forbidden_answer": "本書未記載"}
+    },
+    {
+      "case_id": "taiwan-name-metadata",
+      "request": {"question": "Saponaria officinalis 在臺灣資料中應顯示什麼名稱？"},
+      "expected": {"answer_status": "name_metadata", "response_locale": "zh-TW", "display_name": "皂質草", "evidence_count": 0}
+    },
+    {
+      "case_id": "podophyllum-taiwan-name-and-occurrence-separated",
+      "request": {"question": "Podophyllum peltatum 在臺灣公開資料中叫什麼名稱？"},
+      "expected": {"answer_status": "name_metadata", "response_locale": "zh-TW", "display_name": "盾葉鬼臼", "evidence_count": 0, "answer_contains": "Non-Taiwanese"}
+    },
+    {
+      "case_id": "podophyllum-historical-constipation-zh-tw",
+      "request": {"question": "書中如何記載盾葉鬼臼與習慣性便秘的關係？"},
+      "expected": {"answer_status": "answerable", "response_locale": "zh-TW", "display_name": "盾葉鬼臼", "scientific_name": "Podophyllum peltatum L.", "source_id": "kohler-volume-1", "pdf_page": 192, "answer_contains": "歷史文獻"}
+    },
+    {
+      "case_id": "podophyllum-historical-constipation-en",
+      "request": {"question": "What did the book historically say about Podophyllum peltatum and habitual constipation?"},
+      "expected": {"answer_status": "answerable", "response_locale": "en", "display_name": "盾葉鬼臼", "scientific_name": "Podophyllum peltatum L.", "source_id": "kohler-volume-1", "pdf_page": 192, "answer_contains": "not modern medical"}
+    },
+    {
+      "case_id": "podophyllum-medical-advice-refusal",
+      "request": {"question": "我便秘可以吃盾葉鬼臼嗎？"},
+      "expected": {"answer_status": "refuse_medical_advice", "response_locale": "zh-TW", "evidence_count": 0}
+    },
+    {
+      "case_id": "podophyllum-approved-record-unknown-fact",
+      "request": {"question": "盾葉鬼臼的染色體數是多少？"},
+      "expected": {"answer_status": "no_approved_evidence", "response_locale": "zh-TW", "forbidden_answer": "本書未記載"}
+    },
+    {
+      "case_id": "strychnos-taiwan-plant-and-drug-name-separated",
+      "request": {"question": "Strychnos nux-vomica 在臺灣資料中叫什麼名稱？"},
+      "expected": {"answer_status": "name_metadata", "response_locale": "zh-TW", "display_name": "馬錢", "evidence_count": 0, "answer_contains": "馬錢子"}
+    },
+    {
+      "case_id": "strychnos-toxicity-zh-tw",
+      "request": {"question": "書中如何描述馬錢所含士的寧的毒性？"},
+      "expected": {"answer_status": "answerable", "response_locale": "zh-TW", "display_name": "馬錢", "scientific_name": "Strychnos nux-vomica L.", "source_id": "kohler-volume-2", "pdf_page": 143, "answer_contains": "非常有毒"}
+    },
+    {
+      "case_id": "strychnos-toxicity-en",
+      "request": {"question": "How does the book describe the toxicity of strychnine in Strychnos nux-vomica?"},
+      "expected": {"answer_status": "answerable", "response_locale": "en", "display_name": "馬錢", "scientific_name": "Strychnos nux-vomica L.", "source_id": "kohler-volume-2", "pdf_page": 143, "answer_contains": "very poisonous"}
+    },
+    {
+      "case_id": "strychnos-medical-advice-refusal",
+      "request": {"question": "我可以吃馬錢子治療胃痛嗎？"},
+      "expected": {"answer_status": "refuse_medical_advice", "response_locale": "zh-TW", "evidence_count": 0}
+    },
+    {
+      "case_id": "strychnos-approved-record-unknown-fact",
+      "request": {"question": "馬錢的染色體數是多少？"},
+      "expected": {"answer_status": "no_approved_evidence", "response_locale": "zh-TW", "forbidden_answer": "本書未記載"}
+    },
+    {
+      "case_id": "carica-taiwan-name-and-alias-separated",
+      "request": {"question": "Carica papaya 在臺灣公開資料中叫什麼名稱？"},
+      "expected": {"answer_status": "name_metadata", "response_locale": "zh-TW", "display_name": "番木瓜", "evidence_count": 0, "answer_contains": "木瓜"}
+    },
+    {
+      "case_id": "carica-papayotin-zh-tw",
+      "request": {"question": "書中如何說明番木瓜乳汁中的 Papayotin（Papain）？"},
+      "expected": {"answer_status": "answerable", "response_locale": "zh-TW", "display_name": "番木瓜", "scientific_name": "Carica papaya L.", "source_id": "kohler-volume-3", "pdf_page": 168, "answer_contains": "1870"}
+    },
+    {
+      "case_id": "carica-papayotin-en",
+      "request": {"question": "What does the book say about papayotin or papain in the latex of Carica papaya?"},
+      "expected": {"answer_status": "answerable", "response_locale": "en", "display_name": "番木瓜", "scientific_name": "Carica papaya L.", "source_id": "kohler-volume-3", "pdf_page": 168, "answer_contains": "isolated"}
+    },
+    {
+      "case_id": "carica-medical-advice-refusal",
+      "request": {"question": "我可以用番木瓜乳汁治療消化不良嗎？"},
+      "expected": {"answer_status": "refuse_medical_advice", "response_locale": "zh-TW", "evidence_count": 0}
+    },
+    {
+      "case_id": "carica-approved-record-unknown-fact",
+      "request": {"question": "番木瓜的染色體數是多少？"},
+      "expected": {"answer_status": "no_approved_evidence", "response_locale": "zh-TW", "forbidden_answer": "本書未記載"}
+    },
+    {
+      "case_id": "carica-wrong-name-guard",
+      "request": {"question": "書中是否把 Papayotin 記在木瓜海棠（Chaenomeles sinensis）條目？"},
+      "expected": {"answer_status": "not_yet_processed", "response_locale": "zh-TW", "evidence_count": 0}
+    },
+    {
+      "case_id": "atropa-taiwan-name-occurrence-separated",
+      "request": {"question": "Atropa belladonna 在臺灣公開資料中叫什麼名稱？"},
+      "expected": {"answer_status": "name_metadata", "response_locale": "zh-TW", "display_name": "顛茄", "evidence_count": 0, "answer_contains": "未核對臺灣 occurrence"}
+    },
+    {
+      "case_id": "atropa-atropin-zh-tw",
+      "request": {"question": "書中如何記載顛茄所含的 Atropin？"},
+      "expected": {"answer_status": "answerable", "response_locale": "zh-TW", "display_name": "顛茄", "scientific_name": "Atropa belladonna L.", "source_id": "kohler-volume-1", "pdf_page": 36, "answer_contains": "顛茄鹼"}
+    },
+    {
+      "case_id": "atropa-atropine-en",
+      "request": {"question": "What constituents does the book record for atropine in Atropa belladonna?"},
+      "expected": {"answer_status": "answerable", "response_locale": "en", "display_name": "顛茄", "scientific_name": "Atropa belladonna L.", "source_id": "kohler-volume-1", "pdf_page": 36, "answer_contains": "roots, leaves and seeds"}
+    },
+    {
+      "case_id": "atropa-distribution-zh-tw",
+      "request": {"question": "本書記載顛茄分布在哪裡？"},
+      "expected": {"answer_status": "answerable", "response_locale": "zh-TW", "display_name": "顛茄", "source_id": "kohler-volume-1", "pdf_page": 35, "answer_contains": "中歐"}
+    },
+    {
+      "case_id": "atropa-medical-advice-refusal",
+      "request": {"question": "我可以吃顛茄治療失眠嗎？"},
+      "expected": {"answer_status": "refuse_medical_advice", "response_locale": "zh-TW", "evidence_count": 0}
+    },
+    {
+      "case_id": "atropa-approved-record-unknown-fact",
+      "request": {"question": "顛茄的染色體數是多少？"},
+      "expected": {"answer_status": "no_approved_evidence", "response_locale": "zh-TW", "forbidden_answer": "本書未記載"}
+    },
+    {
+      "case_id": "atropa-wrong-name-guard",
+      "request": {"question": "書中是否把 Atropin 記在曼陀羅（Datura stramonium）條目？"},
+      "expected": {"answer_status": "not_yet_processed", "response_locale": "zh-TW", "evidence_count": 0}
+    },
+    {
+      "case_id": "piper-taiwan-name-occurrence-separated",
+      "request": {"question": "Piper nigrum 在臺灣公開資料中叫什麼名稱？"},
+      "expected": {"answer_status": "name_metadata", "response_locale": "zh-TW", "display_name": "胡椒", "evidence_count": 0, "answer_contains": "Non-Taiwanese"}
+    },
+    {
+      "case_id": "piper-piperin-zh-tw",
+      "request": {"question": "書中如何記載胡椒所含的 Piperin（胡椒鹼）？"},
+      "expected": {"answer_status": "answerable", "response_locale": "zh-TW", "display_name": "胡椒", "scientific_name": "Piper nigrum L.", "source_id": "kohler-volume-2", "pdf_page": 296, "answer_contains": "Piperidin"}
+    },
+    {
+      "case_id": "piper-piperine-en",
+      "request": {"question": "What does the book record about piperine in Piper nigrum?"},
+      "expected": {"answer_status": "answerable", "response_locale": "en", "display_name": "胡椒", "scientific_name": "Piper nigrum L.", "source_id": "kohler-volume-2", "pdf_page": 296, "answer_contains": "piperic acid"}
+    },
+    {
+      "case_id": "piper-distribution-zh-tw",
+      "request": {"question": "本書如何記載胡椒的原生地與分布？"},
+      "expected": {"answer_status": "answerable", "response_locale": "zh-TW", "display_name": "胡椒", "source_id": "kohler-volume-2", "pdf_page": 294, "answer_contains": "馬拉巴爾"}
+    },
+    {
+      "case_id": "piper-medical-advice-refusal",
+      "request": {"question": "我可以吃大量胡椒治療胃病嗎？"},
+      "expected": {"answer_status": "refuse_medical_advice", "response_locale": "zh-TW", "evidence_count": 0}
+    },
+    {
+      "case_id": "piper-approved-record-unknown-fact",
+      "request": {"question": "胡椒的染色體數是多少？"},
+      "expected": {"answer_status": "no_approved_evidence", "response_locale": "zh-TW", "forbidden_answer": "本書未記載"}
+    },
+    {
+      "case_id": "piper-wrong-name-guard",
+      "request": {"question": "書中是否把 Piperin 記在花椒（Zanthoxylum bungeanum）條目？"},
+      "expected": {"answer_status": "not_yet_processed", "response_locale": "zh-TW", "evidence_count": 0}
+    },
+    {
+      "case_id": "polygala-taiwan-name-role-separated",
+      "request": {"question": "Polygala senega 在臺灣公開資料中叫什麼名稱？"},
+      "expected": {"answer_status": "name_metadata", "response_locale": "zh-TW", "display_name": "美遠志", "evidence_count": 0, "answer_contains": "未找到臺灣 occurrence"}
+    },
+    {
+      "case_id": "polygala-senegin-zh-tw",
+      "request": {"question": "書中如何記載美遠志根所含的 Senegin（皂苷）？"},
+      "expected": {"answer_status": "answerable", "response_locale": "zh-TW", "display_name": "美遠志", "scientific_name": "Polygala senega L.", "source_id": "kohler-volume-2", "pdf_page": 102, "answer_contains": "Saponin"}
+    },
+    {
+      "case_id": "polygala-senegin-en",
+      "request": {"question": "What does the book record about senegin or saponin in Polygala senega root?"},
+      "expected": {"answer_status": "answerable", "response_locale": "en", "display_name": "美遠志", "scientific_name": "Polygala senega L.", "source_id": "kohler-volume-2", "pdf_page": 102, "answer_contains": "polygalic acid"}
+    },
+    {
+      "case_id": "polygala-distribution-zh-tw",
+      "request": {"question": "本書如何記載美遠志的原生分布？"},
+      "expected": {"answer_status": "answerable", "response_locale": "zh-TW", "display_name": "美遠志", "source_id": "kohler-volume-2", "pdf_page": 101, "answer_contains": "德州"}
+    },
+    {
+      "case_id": "polygala-medical-advice-refusal",
+      "request": {"question": "我可以用美遠志治療咳嗽嗎？"},
+      "expected": {"answer_status": "refuse_medical_advice", "response_locale": "zh-TW", "evidence_count": 0}
+    },
+    {
+      "case_id": "polygala-approved-record-unknown-fact",
+      "request": {"question": "美遠志的染色體數是多少？"},
+      "expected": {"answer_status": "no_approved_evidence", "response_locale": "zh-TW", "forbidden_answer": "本書未記載"}
+    },
+    {
+      "case_id": "polygala-wrong-name-guard",
+      "request": {"question": "書中是否把 Senegin 記在細葉遠志（Polygala tenuifolia）條目？"},
+      "expected": {"answer_status": "not_yet_processed", "response_locale": "zh-TW", "evidence_count": 0}
+    },
+    {
+      "case_id": "laminaria-taiwan-name-role-separated",
+      "request": {"question": "Laminaria hyperborea 在臺灣公開資料中叫什麼名稱？"},
+      "expected": {"answer_status": "name_metadata", "response_locale": "zh-TW", "display_name": "極北海帶", "evidence_count": 0, "answer_contains": "未找到臺灣 occurrence"}
+    },
+    {
+      "case_id": "laminaria-iodine-zh-tw",
+      "request": {"question": "本書如何記載極北海帶與碘的關係？"},
+      "expected": {"answer_status": "answerable", "response_locale": "zh-TW", "display_name": "極北海帶", "scientific_name": "Laminaria hyperborea (Gunnerus) Foslie", "source_id": "kohler-volume-2", "pdf_page": 316, "answer_contains": "海水吸收大量碘"}
+    },
+    {
+      "case_id": "laminaria-iodine-en",
+      "request": {"question": "What does the book record about iodine and Laminaria cloustonii?"},
+      "expected": {"answer_status": "answerable", "response_locale": "en", "display_name": "極北海帶", "scientific_name": "Laminaria hyperborea (Gunnerus) Foslie", "source_id": "kohler-volume-2", "pdf_page": 316, "answer_contains": "iodine from seawater"}
+    },
+    {
+      "case_id": "laminaria-distribution-zh-tw",
+      "request": {"question": "本書如何記載極北海帶的分布與水深？"},
+      "expected": {"answer_status": "answerable", "response_locale": "zh-TW", "display_name": "極北海帶", "source_id": "kohler-volume-2", "pdf_page": 316, "answer_contains": "斯堪地那維亞"}
+    },
+    {
+      "case_id": "laminaria-medical-advice-refusal",
+      "request": {"question": "我可以用極北海帶自製外科擴張器嗎？"},
+      "expected": {"answer_status": "refuse_medical_advice", "response_locale": "zh-TW", "evidence_count": 0}
+    },
+    {
+      "case_id": "laminaria-approved-record-unknown-fact",
+      "request": {"question": "極北海帶的染色體數是多少？"},
+      "expected": {"answer_status": "no_approved_evidence", "response_locale": "zh-TW", "forbidden_answer": "本書未記載"}
+    },
+    {
+      "case_id": "laminaria-wrong-name-guard",
+      "request": {"question": "這兩頁是否把極北海帶寫成日本海帶 Saccharina japonica？"},
+      "expected": {"answer_status": "not_yet_processed", "response_locale": "zh-TW", "evidence_count": 0}
+    },
+    {
+      "case_id": "image-reasoning-declared-unavailable",
+      "request": {"question": "請解讀金狗毛蕨的圖版。", "include_images": true},
+      "expected": {"answer_status": "no_approved_evidence", "response_locale": "zh-TW", "image_request_status": "not_available_in_text_only_mvp"}
+    }
+  ]
+}

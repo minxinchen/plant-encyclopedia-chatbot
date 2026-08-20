@@ -1,0 +1,287 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0401-p0404",
+  "entry_id": "kohler-volume-2:p0401-p0404",
+  "owner_shard": "S04",
+  "book_taxon": {
+    "scientific_name": "Calamus Draco",
+    "authorship": "Willd.",
+    "aliases": [
+      "Daemonorops Draco Blume",
+      "Calamus Rotang 6. Draco L."
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Calamus Draco",
+      "Calamus draco"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T16:43:25+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Calamus+Draco",
+        "query_name": "Calamus Draco",
+        "retrieved_at": "2026-08-13T16:43:20+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0023350",
+        "query_name": "Calamus Draco",
+        "retrieved_at": "2026-08-13T16:43:20+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0023350",
+        "query_name": "Calamus Draco",
+        "retrieved_at": "2026-08-13T16:43:20+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Calamus+draco",
+        "query_name": "Calamus draco",
+        "retrieved_at": "2026-08-13T16:43:20+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Daemonorops+draco",
+        "query_name": "Daemonorops draco",
+        "retrieved_at": "2026-08-13T16:43:22+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Calamus+rotang",
+        "query_name": "Calamus rotang",
+        "retrieved_at": "2026-08-13T16:43:22+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 401,
+      "evidence_type": "text",
+      "page_text_sha256": "776f9e8999da58b56e969658c365fdfbbbd9524c0fe395684ab9c1d7bc9c3292",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 402,
+      "evidence_type": "text",
+      "page_text_sha256": "004d8b1733390a877f0c6ab6eeca1fc92bb521a38a1ce0a5e4e0d71f8fc82158",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 403,
+      "evidence_type": "text",
+      "page_text_sha256": "21404d17ef4b08088d9c5f0d45e7d05ec61e2333e7ccea7c84f01fd53180fdc9",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0401-p0404:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                        Calamus Draco Willd.\n                   Syn. Daemonorops         Draco Blume.        Calamus Rotang 6. Draco L.\n\n                Drachenblut-Palme,         Rotang —         Sang-Dragon      —     Dragons blood.\n        Familie: Palmae (Unterfamilie: Lepidocarynae); Tribus: Calameae;\n                                                                         Gattung: Calamus L.\n(Daemonorops Bl.)",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Calamus Draco Willd.，同義名 Daemonorops Draco。屬棕櫚科，攀援莖。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 401,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 434,
+        "page_text_sha256": "776f9e8999da58b56e969658c365fdfbbbd9524c0fe395684ab9c1d7bc9c3292",
+        "exact_text_sha256": "bfbdfbff10748d6a6eeff2daaa20e2a1f41abf72eacf6736ef7fd696e36e623a",
+        "source_line_start": 1,
+        "source_line_end": 7,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "bfbdfbff10748d6a6eeff2daaa20e2a1f41abf72eacf6736ef7fd696e36e623a",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0401-p0404:s01:x00",
+      "section_type": "description",
+      "original_text": "         Beschreibung. Die Rotange, welche zur Gruppe der flechtenden Stämme gehö\n                                                                                           ren und an\nden Bäumen emporklettern, in Ermangelung der letzteren auch auf dem Boden in Schl\n                                                                                       angenwindungen\nhinkriechen, entwickeln sich oft zu einer ganz erstaunlichen Länge. Kerner giebt in\n                                                                                      seinem Pflanzen-\nleben die fabelhafte Länge bis zu 200 Meter an, bei einer gleichmässigen Dicke von 2-\n                                                                                      4 Ctm. Unsere\nDrachenblutpalme besitzt einen fingerdicken, biegsamen, rohrartig gegliederten, an Bäumen\n                                                                                                empor-\nkletternden Stamm, welcher mit ungleich langen, in Querreihen stehenden, aufr\n                                                                              echt angedrückten,            oft auch\nrückwärts gebogenen Stacheln besetzt ist und eine Länge über 100 Meter (nach Blume sogar\n                                                                                                 bis 1800\nFuss) erreicht. Blattstiel an der Basis den Stamm umfassend, nebst der peitschenförmigen Blat",
+      "normalized_text": null,
+      "zh_tw_rendering": "莖長可達 100 米以上，具刺，葉單數羽狀，花單性，果實紅色，覆蓋鱗片並滲出樹脂。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 401,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 435,
+        "char_end": 1852,
+        "page_text_sha256": "776f9e8999da58b56e969658c365fdfbbbd9524c0fe395684ab9c1d7bc9c3292",
+        "exact_text_sha256": "786258fea5fe50fe658b91827c015e79df9a58f3369738ed391c333036693d5e",
+        "source_line_start": 8,
+        "source_line_end": 22,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "786258fea5fe50fe658b91827c015e79df9a58f3369738ed391c333036693d5e",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0401-p0404:s02:x00",
+      "section_type": "distribution",
+      "original_text": "         Vorkommen. In sumpfigen Wäldern von Java, Sumatra, Borneo; nach Flückiger in den\nSumpfwäldern von Palembang und Jambi in Ost-Sumatra, im Süden und Südosten Borneos, wahrschein-\nlich auch auf Penang und mehreren der östlichen Sundainseln.       Bezüglich Javas bemerkt Nees\nv. Esenbeck: „Mein Freund Blume konnte aller Mühe ungeachtet während seines Aufenthaltes in\nJava kein Exemplar dieser Palme erhalten, welche auf Java gar nicht vorkommen soll.“",
+      "normalized_text": null,
+      "zh_tw_rendering": "產於爪哇、蘇門答臘、婆羅洲沼澤森林。Neess 指出爪哇可能無此種。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 401,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3772,
+        "char_end": 4230,
+        "page_text_sha256": "776f9e8999da58b56e969658c365fdfbbbd9524c0fe395684ab9c1d7bc9c3292",
+        "exact_text_sha256": "940865993abf273a94cb1fb2d2fd81ea0f378ddd7fd4f32b1b327f2e2bfba019",
+        "source_line_start": 43,
+        "source_line_end": 47,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "940865993abf273a94cb1fb2d2fd81ea0f378ddd7fd4f32b1b327f2e2bfba019",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0401-p0404:s03:x00",
+      "section_type": "history",
+      "original_text": "            Name      und      Geschichtliches.         Der    Name     Drachenblut,     cinnabaris,    «uwvofaor     der     Alten,\n soll mit der Droge nach Europa gekommen sein; die alten Bezeichnungen sind ostindischen Ursprungs\n und bedeuten so viel wie Drachenblut, Sanguis Draconis, und beziehen sich auf Farbe und Beschaffen-\n heit der Droge. Calamus von xdAauog, bei dem Arabern kalem, Rohr; Drago, Drache; Rotang,\n Rotting, rötan sind malayische Namen für das spanische Rohr.\n          Drachenblut ist zwar ein sehr altes Arzneimittel, doch lässt sich das Produkt von DUM.\n Drago,     obgleich Chinesen      und Araber      mit Borneo     und Sumatra      in lebhaftem        Verkehr     standen,     erst\n  seit Kämpfer und Rumphius (Ende des 17. Jahrhunderts) nachweisen. Das unter den Ausfuhrartikeln\n  Arabiens und Chinas genannte Drachenblut, ebenso dasjenige, welches schon Theophrast, Dioskorides\n. und Plinius erwähnen, war das im Anhange behandelte Drachenblut von Dracaena abstammend.",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源自東印度，意為龍血。17 世紀後確認為 Daemonorops 產物，古時所指為 Dracaena。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 402,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 1003,
+        "page_text_sha256": "004d8b1733390a877f0c6ab6eeca1fc92bb521a38a1ce0a5e4e0d71f8fc82158",
+        "exact_text_sha256": "97beb8cc13c4dc4e1781c75f135305dc35659f40067b386bbf7717208cce1d8a",
+        "source_line_start": 1,
+        "source_line_end": 10,
+        "section_index": 3,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "97beb8cc13c4dc4e1781c75f135305dc35659f40067b386bbf7717208cce1d8a",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0401-p0404:s04:x00",
+      "section_type": "constituents",
+      "original_text": "         Bestandtheile.    Das Drachenblut enthält nach Herberger: 90.79/, amorphes Harz, 3%,\nBenzoésüure, 29/, Fett, 59/, Kalksalze (oxalsauren und phosphorsauren Kalk).\n           Das reine Harz besitzt       einen süsslichen   etwas    kratzenden        Geschmack,        erweicht in kochendem\nWasser, schmilzt bei 120% und beginnt in etwas höherer Temperatur heftig reizende, benzo&säurehaltige\nDämpfe     zu entwickeln.    Nach Johnson       besitzt es eine Zusammensetzung                von     C,oH,002, ist aber nach\nFlückiger kein einheitlicher Kórper.            Die alkalische Lösung wird mit Salzsäure und Schwefelsäure\ngelb     gefärbt und Wasser    scheidet    aus diesen Lösungen           ein Harz    ab (Draconin,            Dracenin,   Dracin),\nwelches     sich in viel Wasser mit gelber Farbe löst und mit Alkalien roth wird.                             Mittelst Petroleum-\näther,    welcher   Benzoösäure    reichlich    löst,   erhält     man     die    letztere    nicht     aus    dem   Drachenblut,\nwohingegen durch trockene Destillation Krystalle von Benzoésáure und ein öliger Antheil gewonnen\nwerden. In letzterem haben Glenard und Boudault 1844 Dracyl (jetzt Toluol = C,H, [CH;]) und\nDraconyl (jetzt Styrol) aufgefunden. Husemann bringt das letztere mit Metastyrol in Beziehung;",
+      "normalized_text": null,
+      "zh_tw_rendering": "含無定形樹脂、苯甲酸、脂肪及鈣鹽。乾餾可得苯甲酸、甲苯及苯乙烯。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 403,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 811,
+        "char_end": 2118,
+        "page_text_sha256": "21404d17ef4b08088d9c5f0d45e7d05ec61e2333e7ccea7c84f01fd53180fdc9",
+        "exact_text_sha256": "c3a6679e22dda9412daa637b0328bb3306eeb931a4155add56167f874ecf4b1d",
+        "source_line_start": 11,
+        "source_line_end": 22,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "c3a6679e22dda9412daa637b0328bb3306eeb931a4155add56167f874ecf4b1d",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0401-p0404:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "          Anwendung.      Jetzt nur noch wenig in der Medizin. Früher galt Drachenblut als ein\nstyptisches und austrocknendes Mittel im äusseren Gebrauche, innerlich gegen Speichelfluss, Lungen-\nauswurf, profuse Schweisse, Durchfall.          „Es dient,       nachdem     es    seinen    Credit    als blutstillendes   Mittel\nverloren, nur noch als färbender Zusatz zu Zahnpulvern.* In der Technik wird es besonders zur Her-\nstellung der rothen Firnisse und des Goldlackes verwendet. Die Stengel und Zweige dieser und anderer\nCalamusarten finden als spanisches Rohr zu Spazierstöcken, Stuhl- und anderen Geflechten, Stäben in\nRegenschirmen etc. Verwendung. (Husemann, Arzneimittell. 402.)",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史上用作收斂劑，治流涎、肺病及腹瀉。現僅作牙膏著色劑及製造紅色清漆。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 403,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2904,
+        "char_end": 3592,
+        "page_text_sha256": "21404d17ef4b08088d9c5f0d45e7d05ec61e2333e7ccea7c84f01fd53180fdc9",
+        "exact_text_sha256": "d6b71351dee15228b8ad1fc469eb93a7ae54a6a5b2db75d1c8a041007a5b9418",
+        "source_line_start": 32,
+        "source_line_end": 38,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "d6b71351dee15228b8ad1fc469eb93a7ae54a6a5b2db75d1c8a041007a5b9418",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "919a37262116c3aa3c438891549f4e34d58cf79106fca6fe7e9ff5dd932a43af",
+    "maker_receipt_sha256": "f8b2eb94c7a396a29bee8234a23b75371d3fe274b5a8b8d8d47f8f43e59df1ce",
+    "validation_check_sha256": "7dabf1253d1b3d3352ca6d5a0fffa758d635a7a288146487e3f7e46b13ade60a",
+    "source_disposition_sha256": "06654204db6eb2c5d3dfac60b3a2b54de3d478afcf6c3024478778c79b362878",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "f8b2eb94c7a396a29bee8234a23b75371d3fe274b5a8b8d8d47f8f43e59df1ce",
+      "validation_check_sha256": "7dabf1253d1b3d3352ca6d5a0fffa758d635a7a288146487e3f7e46b13ade60a",
+      "source_disposition_sha256": "06654204db6eb2c5d3dfac60b3a2b54de3d478afcf6c3024478778c79b362878"
+    },
+    "naming_artifact_sha256": "0ada790a0725827c00df03256003e748fe484d797c38b27740af13471473a825"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "5845639f216b5b594f79b46bad62ce341fd05c938f8c3ffc34006cdf22dd56de"
+}

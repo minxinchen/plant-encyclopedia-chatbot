@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 597,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "0e24f95e1eb52a0a1170178e0f6339ddd5525a84c48e75ddb311b666f040e301",
+  "render_dpi": 144,
+  "render_sha256": "2eaa7d63964a441420d1905621ddf2205775143f6d4fd3a218e26aecd9568acc",
+  "input_sha256": "2eaa7d63964a441420d1905621ddf2205775143f6d4fd3a218e26aecd9568acc",
+  "render_pixel_width": 5714,
+  "render_pixel_height": 8006,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.257,
+  "embedded_character_count": 21,
+  "ocr_character_count": 57,
+  "ocr_alpha_ratio": 0.6842,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.026162790873693997,
+      "text": "• Deguminosae. (Papilionaceae.)",
+      "width": 0.3299388978280816,
+      "x": 0.619144606931173,
+      "y": 0.9215116280805948
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252612005,
+      "text": "15",
+      "width": 0.016293278495995378,
+      "x": 0.769857433908825,
+      "y": 0.24709302335915906
+    },
+    {
+      "confidence": 1,
+      "height": 0.052325581747388106,
+      "text": "U",
+      "width": 0.05091649546566901,
+      "x": 0.9002036668292837,
+      "y": 0.25726744148319325
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883082859107,
+      "text": "16",
+      "width": 0.018329938473678253,
+      "x": 0.8900203668884156,
+      "y": 0.24418604664897736
+    },
+    {
+      "confidence": 1,
+      "height": 0.024182387760707358,
+      "text": "Ononis spinosa e.",
+      "width": 0.2242174605846074,
+      "x": 0.4031483049884796,
+      "y": 0.0881120385407147
+    }
+  ],
+  "text": "• Deguminosae. (Papilionaceae.)\n15\nU\n16\nOnonis spinosa e.",
+  "output_sha256": "fed2ac2c19340d9703d8f2279d668b0be8a71edfe5d7c59d90aac82f0beb5cc5",
+  "receipt_sha256": "d911fd8d4c41315500100be2189a118f0ce6829f508a4995f622d1f29d1fa3db"
+}

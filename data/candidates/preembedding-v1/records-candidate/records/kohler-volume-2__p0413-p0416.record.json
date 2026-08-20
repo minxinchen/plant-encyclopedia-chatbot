@@ -1,0 +1,265 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0413-p0416",
+  "entry_id": "kohler-volume-2:p0413-p0416",
+  "owner_shard": "S04",
+  "book_taxon": {
+    "scientific_name": "Croton Eluteria",
+    "authorship": "Bennet",
+    "aliases": [
+      "Clutia Eluteria L.",
+      "Kaskarille",
+      "Croton",
+      "Schakarille",
+      "Cascarille officinale",
+      "Bahama-Cascarilla"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Croton Eluteria",
+      "Croton eluteria"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T17:29:43+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Croton+Eluteria",
+        "query_name": "Croton Eluteria",
+        "retrieved_at": "2026-08-13T17:29:40+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0002612",
+        "query_name": "Croton Eluteria",
+        "retrieved_at": "2026-08-13T17:29:40+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0002612",
+        "query_name": "Croton Eluteria",
+        "retrieved_at": "2026-08-13T17:29:40+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Croton+eluteria",
+        "query_name": "Croton eluteria",
+        "retrieved_at": "2026-08-13T17:29:40+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Clutia+eluteria",
+        "query_name": "Clutia eluteria",
+        "retrieved_at": "2026-08-13T17:29:41+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Cascarille+officinale",
+        "query_name": "Cascarille officinale",
+        "retrieved_at": "2026-08-13T17:29:41+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 413,
+      "evidence_type": "text",
+      "page_text_sha256": "9f97c156b9fef70c2683ada480ccde2c174227e52cebfe5e3157697d351932b1",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 414,
+      "evidence_type": "text",
+      "page_text_sha256": "1601f9d62e414f053440cc71263d08aae489f230c937313b5a7a20f4ab84401c",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 415,
+      "evidence_type": "text",
+      "page_text_sha256": "8ddb6b4c47cca3876474a7d213545b0599bd0a2ad1a9555a433ee4823febd0e8",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0413-p0416:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                 Croton Eluteria Bennet.\n                                       Syn. Clutia Eluteria L.\n\n      Kaskarille, Croton, Schakarille — Cascarille officinale —                 Bahama-Cascarilla.\n         Familie: Euphorbiaceae; (Unterfam.: Crotoneae); Gattung:              Croton (L), J. Müller Arg.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Croton Eluteria Bennet，同義名 Clutia Eluteria L.，屬大戟科。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 413,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 325,
+        "page_text_sha256": "9f97c156b9fef70c2683ada480ccde2c174227e52cebfe5e3157697d351932b1",
+        "exact_text_sha256": "f93bce52dbf6a0a3560473a0077d594e8aa9144445e6c79de0df628179410e24",
+        "source_line_start": 1,
+        "source_line_end": 5,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "f93bce52dbf6a0a3560473a0077d594e8aa9144445e6c79de0df628179410e24",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0413-p0416:s01:x00",
+      "section_type": "description",
+      "original_text": "          Beschreibung. Bis 6 Meter hoher, sparrig ästiger Strauch oder kleiner Baum mit asch-\ngrauer, weisslicher, nach Bentley blass gelbbrauner, innen graugelblicher bis brauner, rissiger,\nunregelmüssig gefelderter Rinde, weisslichem Holze und zerstreut stehenden, wiederholt gabelig ge-\ntheilten Aesten. Jüngere Zweige mit kleinen, rostbraunen Schuppen (Schülfern) dicht bedeckt. Letztere\nsind schildfórmig angehettet und mit einem braunen Nabel ausgestattet. Blätter abwechselnd, 4—7 Ctm.\nlang, gestielt, fiedernervig, lederartig, häutig, eilanzettlich, wenig zugespitzt, am Grunde abgerundet\noder schwach herzförmig, ausgeschweift-gezähnt, oberseits grün und locker, unterseits bleich und dicht\nmit gelblich-silberweissen, schildfórmigen Schülfern bedeckt. Blattstiele 1l, oder Y, so lang als das\nBlatt, am Grunde mit verkümmerten Drüsen, letztere auch fehlend. Nebenblätter ebenfalls fehlend.",
+      "normalized_text": null,
+      "zh_tw_rendering": "高至 6 米灌木，灰白裂紋樹皮，葉互生披針形，背面密被銀白盾狀鱗片。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 413,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 326,
+        "char_end": 1225,
+        "page_text_sha256": "9f97c156b9fef70c2683ada480ccde2c174227e52cebfe5e3157697d351932b1",
+        "exact_text_sha256": "1a5ae58582d751183284ce635e6ba28499aabd80708104316d5f359dcdc45504",
+        "source_line_start": 6,
+        "source_line_end": 14,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "1a5ae58582d751183284ce635e6ba28499aabd80708104316d5f359dcdc45504",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0413-p0416:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "          Anatomisches.      Die Korkschicht der Rinde besteht nach Flücki ger aus zahlreichen Lagen\ngrosser würfelfórmiger (nach Berg tafelfórmiger) Zellen, mit schwachgelblichen, in den Aussenlagen\n verdickten Wänden. Die inneren Lagen zeigen weniger verdickte Wandungen und daher gróssere\nZellhóhlungen, die mit kleinen Körnchen angefüllt sind. Das Parenchym der Mittelrinde ist aus dünn-\nwandigen, tangential gestreckten Zellen zusammengesetzt, welche rothbraunen Extraktivstoff oder citronen-\ngelbes ätherisches Oel, überwiegend aber Stärke enthalten. Die gelben, 2—8reihigen Baststrahlen,\nwelche keilförmig bis zur Mittelrinde heranreichen, enthalten spärlich und meist nur in ihren spitzen\nAusläufern vereinzelte Gruppen von 2 一 9 (auch mehr) geschichtete und ganz verdickte Bastfasern.",
+      "normalized_text": null,
+      "zh_tw_rendering": "樹皮木栓層含立方細胞，皮層含澱粉及紅色提取物，韌皮部含樹脂管。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 413,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3289,
+        "char_end": 4082,
+        "page_text_sha256": "9f97c156b9fef70c2683ada480ccde2c174227e52cebfe5e3157697d351932b1",
+        "exact_text_sha256": "3a879f5a62e603c2b25ebe70efa6cc90847ecd9e9eb7a6ff9a78eb76dc9508ba",
+        "source_line_start": 37,
+        "source_line_end": 44,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "3a879f5a62e603c2b25ebe70efa6cc90847ecd9e9eb7a6ff9a78eb76dc9508ba",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0413-p0416:s03:x00",
+      "section_type": "distribution",
+      "original_text": "               Vorkommen.                   Auf den Baha main seln , nach Ben tle y auch auf Cuba .",
+      "normalized_text": null,
+      "zh_tw_rendering": "產於巴哈馬群島，據 Bentley 記載亦見於古巴。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 414,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 932,
+        "char_end": 1031,
+        "page_text_sha256": "1601f9d62e414f053440cc71263d08aae489f230c937313b5a7a20f4ab84401c",
+        "exact_text_sha256": "439d8faf7dd491718a97c02db2ebfbb6bd1c0f8675ef0163e70a10a1fbbb9aef",
+        "source_line_start": 12,
+        "source_line_end": 12,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "439d8faf7dd491718a97c02db2ebfbb6bd1c0f8675ef0163e70a10a1fbbb9aef",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0413-p0416:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "        Anwendung.       In Substanz, Aufguss, Absud, als Extrakt und Tinktur als ein gewürzhaftes\n\"Tonieum bei atrophischen und anämischen Zuständen, habituellen Blutungen, Verdauungsstörungen,\nMagenkatarrh,     Erbrechen,    Durchfall,   Pollutionen   etc.   Als    das wirksame     Prinzip     ist das   Cascarillin\nerkannt worden. „Genaue physiologische Prüfung fehlt noch, was um so mehr zu beklagen ist, als nicht:\nnur der Rauch, sondern auch der innerliche Gebrauch von Cascarillapulver Störungen im Organismus\nhervorrufen kann. Erbrechen und Uebelkeit sind bei manchen Personen constante Folgen selbst sehr\nkleiner Dosen des Pulvers (0.5); bei anderen tritt höchst lästige Beunruhigung, zeitweise Schlaflosig-\nkeit oder doch durch schreckhafte Träume gestörter Schlaf, Muskelzittern und Zucken, insbesondere\nnach dem Rauchen auf.“ Als Stomachicum, Febrifugum oder Antasthmaticum leistet Cascarilla nicht\nmehr als andere Mittel, bei chronischen Durchfällen          steht die Rinde      der Colombo       nach.   (Husemann,            :\nArzneimittell. 658.)                                                                                                          à",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史上用作補藥治貧血及消化障礙，但內服可能引起嘔吐、失眠及肌肉顫抖。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 415,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 560,
+        "char_end": 1731,
+        "page_text_sha256": "8ddb6b4c47cca3876474a7d213545b0599bd0a2ad1a9555a433ee4823febd0e8",
+        "exact_text_sha256": "4da147e763e8343aacf58d5dccbbb04f59cc136dd4d1f966b8d6726ca0b44d25",
+        "source_line_start": 8,
+        "source_line_end": 18,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "4da147e763e8343aacf58d5dccbbb04f59cc136dd4d1f966b8d6726ca0b44d25",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "2babfc50abf30774c94855744286b541eb73b0db5df812c2203fae21a74ec68f",
+    "maker_receipt_sha256": "ca90f4620ffbf58e938a8e41baaa2911716e7fde8ae8d4d5e0c9b4ae02dada7b",
+    "validation_check_sha256": "634044020dd066995d0f756ff3b7cb5e539c4da3ef5d3dcdcbd39c3034cb38ab",
+    "source_disposition_sha256": "578f33d720494a1b473957405fb540bb1c74473171dd0b6daa7ba0157542e3da",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "ca90f4620ffbf58e938a8e41baaa2911716e7fde8ae8d4d5e0c9b4ae02dada7b",
+      "validation_check_sha256": "634044020dd066995d0f756ff3b7cb5e539c4da3ef5d3dcdcbd39c3034cb38ab",
+      "source_disposition_sha256": "578f33d720494a1b473957405fb540bb1c74473171dd0b6daa7ba0157542e3da"
+    },
+    "naming_artifact_sha256": "d4ece18d429ab58e74f67878b22a78f4c7680bb07334f06c30f5ed3a0b8a3b38"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "4a37f8c7c8a125543a914601f7bc74aa6e2bdbbfb5afcea1e0c6428f7530acd8"
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 613,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "d2393d25ca5ef26954f2a880aa8464dbb9bfce26a06af1320fa6a6e9db5c8485",
+  "render_dpi": 144,
+  "render_sha256": "477668cfe968bf1963a849c7d422525f5229e47d6b7bdf7a41baa2e7739b0aa1",
+  "input_sha256": "477668cfe968bf1963a849c7d422525f5229e47d6b7bdf7a41baa2e7739b0aa1",
+  "render_pixel_width": 5510,
+  "render_pixel_height": 7862,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.202,
+  "embedded_character_count": 15,
+  "ocr_character_count": 30,
+  "ocr_alpha_ratio": 0.8333,
+  "candidate_disposition": "candidate_quality_gain",
+  "staging_disposition": "candidate_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01972620638590017,
+      "text": "Gentianaceae.",
+      "width": 0.1478940257769651,
+      "x": 0.819314195814207,
+      "y": 0.9182245572592668
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "5",
+      "width": 0.010373443554920744,
+      "x": 0.09751037355448984,
+      "y": 0.3343023259269887
+    },
+    {
+      "confidence": 1,
+      "height": 0.017609126984126977,
+      "text": "Gentiana lutea",
+      "width": 0.1867219853384311,
+      "x": 0.3983402544780873,
+      "y": 0.08854166713538536
+    }
+  ],
+  "text": "Gentianaceae.\n5\nGentiana lutea",
+  "output_sha256": "63398834ea4352dfa773efae225aef6ea7db189c22341d652cff1931cd34db1b",
+  "receipt_sha256": "1674d24ea72780754ba64992b1d7c9ca91f683a1071ca42755d8e2b8c85917d3"
+}

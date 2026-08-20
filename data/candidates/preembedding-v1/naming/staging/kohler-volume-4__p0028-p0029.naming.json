@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-4:p0028-p0029",
+  "owner_shard": "S08",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S08/maker/structure-drafts/kohler-volume-4__p0028-p0029.json",
+  "source_draft_sha256": "6a97456778cedac9803115eac9b6d67617ac175c935c957893809d06fbdc28d4",
+  "eligibility": {
+    "deterministic_status": "pass",
+    "checked_field": "deterministic_status",
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "17ce3f56d3492d704379c442b45c49d30f2918ac754a71739c10a035b1b82de0",
+    "validation_check_sha256": "3783577256ecb5f599aeccf3c86af5f5dca6f599cec0310ed0b5b0b00a29b613",
+    "source_disposition_sha256": "7fc6bbdb440f1b78b256bbbeaed3d05df07d9983e7cc95d37f57e618933bbb9e",
+    "review_status": "machine_extracted"
+  },
+  "book_name": {
+    "scientific_name_candidate": "Russula emetica",
+    "authorship_candidate": "(Schaff.) Fr.",
+    "aliases_candidates": [
+      "Agarlcus emetlcus Schaff.",
+      "Speitaufel",
+      "Speitaubling",
+      "Emetic Russule"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Russula emetica"
+    ],
+    "accepted_scientific_name": "Russula emetica",
+    "display_name_zh_tw": "毒紅菇",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0043807",
+    "rationale": "TaiCOL accepts the queried book binomial at species rank.",
+    "checked_at": "2026-08-13T12:28:10+08:00",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Russula emetica",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Russula+emetica",
+      "retrieved_at": "2026-08-13T12:28:10+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Russula emetica",
+          "matched_name_id": 50898,
+          "taxon_id": "t0043807",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Russula emetica",
+          "accepted_name_id": 50898,
+          "accepted_usage": [
+            {
+              "usage_id": 125556,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 85028,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0043807",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0043807",
+          "taxon": {
+            "taxon_id": "t0043807",
+            "taxon_status": "accepted",
+            "name_id": 50898,
+            "simple_name": "Russula emetica",
+            "name_author": "(Schaeff. ex Fr.) Pers.",
+            "rank": "Species",
+            "common_name_c": "毒紅菇",
+            "alternative_name_c": null,
+            "synonyms": "Agaricus emeticus,Agaricus emeticus var. emeticus,Agaricus linnaei var. emeticus,Russula clusii,Russula emetica fo. emeticella,Russula emetica var. gregaria,Russula emetica var. silvestris,Russula emeticella,Russula gregaria,Russula silvestris",
+            "is_in_taiwan": true,
+            "alien_type": "native",
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2026-02-04"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0116-p0117",
+  "entry_id": "kohler-volume-1:p0116-p0117",
+  "owner_shard": null,
+  "book_taxon": {
+    "scientific_name": "Sambucus nigra",
+    "authorship": null,
+    "aliases": []
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Sambucus nigra"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-20T23:03:11+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Sambucus+nigra",
+        "query_name": "Sambucus nigra",
+        "retrieved_at": "2026-08-20T23:02:41+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 116,
+      "evidence_type": "text",
+      "page_text_sha256": "786b20d73392538debfa017181439764f084f7fb202196d0b1765027d641d235",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0116-p0117:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                                Sambucus nigra L.\n\n      Holunder, schwarzer Hollunder, Holder, Flieder                                          Elder,            Bore Tree                   Sureau.\n\n\n            Familie:     Caprifoliaceae.         Gattung: Sambucus Tourn.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 116,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 0,
+        "char_end": 290,
+        "source_line_start": 1,
+        "source_line_end": 6,
+        "page_text_sha256": "786b20d73392538debfa017181439764f084f7fb202196d0b1765027d641d235",
+        "exact_text_sha256": "4c81f17d947b57b8fd99df8d1129f3c5d471c6226af45d1a69d23521216e55a3",
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "4c81f17d947b57b8fd99df8d1129f3c5d471c6226af45d1a69d23521216e55a3",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0116-p0117:s01:x00",
+      "section_type": "description",
+      "original_text": "            Beschreibung.         3         9% Meter hoher, sehr astiger Strauch oder Baum mit astiger, aus-\ngebreiteter Wurzel,       rissigen    i\n                                           aussen   aschgrauen              alteren Aesten      und Stammen und graubraunlichen,\nreichlich    mit Korkwarzchen besetzten Zweigen.                            Die jungsten Zweige znerst griin, spater griingrau.\nAeste und Zweige mit weissem Marke                    erfullt.            Blatter gegenstandig, gestielt, meist unpaarig-2jochig-\ngefiedert, nebenblattlos oder             mit pfriemlichen, sehr hinfalligen Nebenblattern versehen, kahl oder unter-\nseits fein    behaart; Blattchen gestielt, eiformig oder langlich-eiformig, lang zugespitzt, ungleich scharf\ngesagt, etwas runzelig, oberseits dunkelgriin, glanzend, unterseits hellgriin, netzaderig, das endstandige\nlanggestielt,     am Grunde keilformig, die seitlichen kurzgestielt, am Grunde schief, die untersten kleiner.\nBlattspindel rinnenformig, gleich den Stielchen                          am Grunde cjuerfaltig. Doldenrispen gestielt, endstandig,\n10   — 14 Ctm.     breit, flach, zerstreut behaart, reichbllithig, aufrecht,                        nach der Bliithezeit hangend; Aeste\nerster   Ordnung zn 5       (4 Aeste        urn einen Mittelast gestellt),                 Aestchen 5           — 2, Endastchen gewohnlich\n3bliithig, mit einer mittleren sitzenden, friiher aufbliihenden                           und 2          seitlichen gestielten Bltithen.              Die\nzwitterigen Bltithen mit 1       — 3 kleinen, abfallenden Deckblattchen.                                    Kelch halboberstandig,             5zahnig,\nselten 4zahnig, mehrkantig, abstehend,                gegen die Fruchtreife angedriickt.                           Kelchzahne sturnpf-3eckig.\nKrone radformig, 5        — 4theilig, gelblichweiss                 ,    mit abstehenden,      mit den Kelchzahnen abwechselnden,\neiformigen, stumpfen Lappen               und sehr kurzer, ziemlich weiter Rohre,                           abfallend, stark riechend.          Frucht-\nknoten halbunterstandig,         3-       oder 2facherig, jedes Fach eineiig.\n                                                                Der aus dem Unterkelch gebildete,\nspater zur Frucht auswachsende Theil entwickelt aus seinem Rande den Kelch, die Krone, die Staub-\ngefasse und die 3 oder 2 Fruchtblatter  die mit einander verwachsend den oberen freien Theil des\n                                                      ,\n\n\n\nFruchtknotens und die 3knopfige,                 selten        2theilige, gelbe,          mit Papillen besetzte Narbe bilden.                         Der\nmittelstandige Samentrager mit 3 oder 2 hangenden Eichen.                                   Staubgefasse 5 oder 4 mit der Kronen-\nrohre verwachsen und mit den Lappen abwechselnd,                                    ausgebr eitet   ,       mit pfriemlichen Staubfaden und\novalen,     an beiden Enden ausgerandeten                 ,    uber clem Grunde des Rlickens angehefteten                               ,   2facherigen,\ngelben Beuteln.        Facher der Lange nach mit einem Spalte sich offnend.                                      Die kleinen gelben, stumpf-\neiformigen Pollen 3furchig, 3porig.                 Steinfriichtchen eiformig, bis fast kugelig, bis 6                                Mm. lang, meist\nschwarzviolett, glanzend, mit purpurrothem                      ,       sehr saftigem Fleische, von              dem Griffel und den kleinen\nanliegenden Kelchzahnen gekront,                mit 3         — 2 eiformigen, etwas zusammengedriickten                           ,    nach oben zu-\ngespitzten,     auf   dem Rticken gewolbten,                  auf der Bauchseite fast flachen, aussen griinlich-braunlichen,\nquerrunzeligen,       harten,   einsamigen Steinkernen.                      Die olreichen Samen hangend                 ,       von der Form des\nSteinkernes, mit diinner, weisslicher Samenhaut.                           Embryo gerade, in der Mitte des fleischigen Eiweisses,\nmit    walzenformigem Wiirzelchen               und       ovallanglichen        ,    blattartigen           Samenlappen.     '    Variirt     mehrfach\nund zwar:                                                                                               .\n\n\n\n",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 116,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 291,
+        "char_end": 4656,
+        "source_line_start": 7,
+        "source_line_end": 48,
+        "page_text_sha256": "786b20d73392538debfa017181439764f084f7fb202196d0b1765027d641d235",
+        "exact_text_sha256": "65ac1bda0d4e05a569afb4d0674a032b9035d236a6e5ae1b873098cdbbca313a",
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "65ac1bda0d4e05a569afb4d0674a032b9035d236a6e5ae1b873098cdbbca313a",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0116-p0117:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "            Anatomisches:Die Borkenschuppen des Stammes und der alteren Aeste bestehen aus abgestorbenem, von\nPeridermschichten durchschnittenem Rindenparenchym. Die Rinde der jiingeren Aeste ist mit einer starken Korkla«-e\nbedeckt.    Die Mittelrinde besteht aus chloropliyllfiihrenclen Parenchymzellen                         die Innenrinde enthalt Bastbiindel.\n                                                                                                ;\n                                                                                                               Das\naus deutlichen Jahrringen bestehende Holz ist von Markstrahlen durchschnitten   die aus dickwandigem Prosenchym\n                                                                                                            ;\n\n\nzusammengesetzten Gefassbiinclel zeigen zwischen den Bundeln Tiipfelgefasse. Das Mark besteht aus einem\n                                                                                                         sclilaffen\nParenchym, welches nach dem ausseren Umfange hin Milchgefasse mit braunrothem Inhalte aufweist.\n                                                                                                  Die Kronblatter\nsind aus einem derbwandigen, polyedrischen Parenchym zusammengesetzt, welches von ziemlich\n                                                                                            starken Gefassbiindeln\ndurchzogen ist.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 116,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 5004,
+        "char_end": 6456,
+        "source_line_start": 54,
+        "source_line_end": 69,
+        "page_text_sha256": "786b20d73392538debfa017181439764f084f7fb202196d0b1765027d641d235",
+        "exact_text_sha256": "6beaae7e86091a852332ba7254dbfd89cd89a9b6d363fb56b286cfb70d285e40",
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "6beaae7e86091a852332ba7254dbfd89cd89a9b6d363fb56b286cfb70d285e40",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "752dc15ff2fff653f30bd7ea45bd6a2ed4e6f4d64c09573e50a4f78f2d82cb89",
+    "maker_receipt_sha256": null,
+    "validation_check_sha256": "65b4dc7b63c796d4136fc7bf28c85afd2122567c32679e7f8d4a4f04fe546f25",
+    "source_disposition_sha256": null,
+    "candidate_source_chain": {
+      "validation_check_sha256": "65b4dc7b63c796d4136fc7bf28c85afd2122567c32679e7f8d4a4f04fe546f25",
+      "package_sha256": "796c2e493f4b5d596da15e9dc3d813c52d8ec525ef83a5543b81bddee43e5950",
+      "receipt_sha256": "feca62536716b178c513316c22b94688d06a02bc62906cc99586a6d0bc4d9d74",
+      "recovery_kind": "page_quality_with_terminal_no_text_exclusions",
+      "source_parent_entry_id": "kohler-volume-1:p0116-p0117"
+    },
+    "naming_artifact_sha256": "eece9ea603453e0a6129cbc933757988b7e44fa6f1954bd89f760ee3a32c281d"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "857533aac1e758e0c63548ff63cc2abe8961c7716884cce4dc595f816ca2765a"
+}

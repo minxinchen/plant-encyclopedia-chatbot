@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 567,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "36f8aaa0a83a7f898c055f84d07e44abf6d33ecd17cfb88c4cbf8eaa5552cb22",
+  "render_dpi": 144,
+  "render_sha256": "4b752ee4be4536b24a829bac41900b96fb322ee80dd0d156ece9062ef506852a",
+  "input_sha256": "4b752ee4be4536b24a829bac41900b96fb322ee80dd0d156ece9062ef506852a",
+  "render_pixel_width": 5774,
+  "render_pixel_height": 8222,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.203,
+  "embedded_character_count": 59,
+  "ocr_character_count": 42,
+  "ocr_alpha_ratio": 0.9048,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.017596746247912187,
+      "text": "Liliaceae",
+      "width": 0.09943381271793339,
+      "x": 0.7867220177465228,
+      "y": 0.8909109292628109
+    },
+    {
+      "confidence": 1,
+      "height": 0.02183693174331902,
+      "text": "Schoenocaulon officinale Albray.",
+      "width": 0.32919253333140236,
+      "x": 0.3209109838260172,
+      "y": 0.10465116305089339
+    }
+  ],
+  "text": "Liliaceae\nSchoenocaulon officinale Albray.",
+  "output_sha256": "892c6bd1cb7854b7a17d164017599a597359e6fe3f92f8fb767c6989e9d97de8",
+  "receipt_sha256": "11c6607a8b1b8ce1ce474337f0ba301a6f5bfde74e5560949d385ccd0c11292d"
+}

@@ -1,0 +1,155 @@
+{
+  "schema_version": "2.0",
+  "package_id": "kohler-volume-2:p0231-p0246:child-03:continuation-01",
+  "parent_entry_id": "kohler-volume-2:p0231-p0246",
+  "child_entry_id": "kohler-volume-2:p0231-p0246:child-03",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation-v2:kohler-volume-2:p0231-p0246:child-03:continuation-01:v1",
+  "owner_shard": "S03",
+  "package_sha256": "072fe53bc2a5ddf24d0e9be29d03913f47b4820b1ca1d1e54f626dbb476f889f",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "prompt_version": "plant-structure-line-coordinates-v2",
+  "attempt_sha256": "4d15f9708a108c316bbb4ff044b2d81d82b26342fa6747cedc8ddd855b1a8890",
+  "raw_response_sha256": "9cc47563fb04cda82e821348ee14502dd73dc65423d4353bd977905fee22c952",
+  "elapsed_seconds": 18.569,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 237,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 286,
+      "char_end": 843,
+      "source_line_start": 6,
+      "source_line_end": 10,
+      "page_text_sha256": "6e3f8cbdb88416faf45c9849908294099131317ea627df6818e9d853c095c6f4",
+      "exact_text_sha256": "c1dc12a91e5f85ffe047beb82a8914c66dbbf5dedb24d7d4fb2a32cb270b0ae2",
+      "section_index": 0,
+      "section_type": "description"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 238,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 0,
+      "char_end": 519,
+      "source_line_start": 1,
+      "source_line_end": 5,
+      "page_text_sha256": "30cd24ec4473abe818c00b01538457073e5859d239b84099b100f9d6795f5050",
+      "exact_text_sha256": "eef61ce1043047b51191922f5eff0d6dd8b11942b4933683f73b258dcae8ab2a",
+      "section_index": 1,
+      "section_type": "anatomy"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 238,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 1483,
+      "char_end": 2250,
+      "source_line_start": 19,
+      "source_line_end": 26,
+      "page_text_sha256": "30cd24ec4473abe818c00b01538457073e5859d239b84099b100f9d6795f5050",
+      "exact_text_sha256": "606005c265835121dd1ac69eea2d581e3277698d161c22755f47c259fe5ed73d",
+      "section_index": 2,
+      "section_type": "distribution"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 239,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 5744,
+      "char_end": 6409,
+      "source_line_start": 65,
+      "source_line_end": 70,
+      "page_text_sha256": "1dc2d6ce4ede03b1cbbf24c7c2b7faec96dd5601e381e30a59b897bb1675533d",
+      "exact_text_sha256": "401abd162f64c4d2fd402c5d1c261399ff840bc526942c3e1528766e1a6ea0dc",
+      "section_index": 3,
+      "section_type": "constituents"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 240,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 0,
+      "char_end": 476,
+      "source_line_start": 1,
+      "source_line_end": 5,
+      "page_text_sha256": "9069d703b084c4d066e6c132fd4630821e52a720e3d58500df336357c8cbdccd",
+      "exact_text_sha256": "b780abff21f305a2c3c5931d9b546612986a923f8e407d1b7cb57a5aebac266d",
+      "section_index": 4,
+      "section_type": "historical_use"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-2:p0231-p0246:child-03:continuation-01",
+    "parent_entry_id": "kohler-volume-2:p0231-p0246",
+    "book_taxon": {
+      "scientific_name_candidate": "Tamarindus indica"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "description",
+        "pdf_page": 237,
+        "source_line_range": [
+          6,
+          10
+        ],
+        "exact_source_quote": ":             Beschreibung.              20 bis 25 Meter hoher, immergrüner,               langsam wachsender           Baum    mit weit-\n    ausgebreitet-reichüstiger, domartiger Krone, schwärzlich brauner, rissiger Rinde, graubraunen Aesten\n    und hin und her gebogenen Zweigen. Blätter abwechselnd, paarig gefiedert, 10—20jochig; Blattspindel\n    oben rinnenförmig; Blättchen linealisch-länglich, abgerundet, gestutzt bis ausgerandet, ganzrandig, fast\n    sitzend, 12 bis 20 Mm. lang, ungleichhälftig, namentlich am Grunde ungleich, kahl oder am unteren"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 238,
+        "source_line_range": [
+          1,
+          5
+        ],
+        "exact_source_quote": "          Anatomisches.           Die Wand der Hülse zeigt 3 Schichten: eine dünne, krustige, zerbrechliche,\n rauhe Aussenschicht (Epicarp), eine sich leicht trennende,         aus schwarzem oder braunem Musse bestehende\nMittelschicht (Mesocarp) und eine die Samenfächer auskleidende, záhe Membran, die Innenschicht\n(Endocarp). Die äussere Schicht, das Epicarp, besteht (nach Flückiger) aus ziemlich grossen, kugeligen `\nSteinzellen und lockerem Parenchym. An der auf der Oberfläche nicht oder doch nur wenig sichtbaren"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 238,
+        "source_line_range": [
+          19,
+          26
+        ],
+        "exact_source_quote": "         Vorkommen.      Ursprünglich wohl nur in Centralafrika und in den heissen Ländern von\nOstafrika einheimisch. Flückiger sagte über die Verbreitung: „Der Baum durchzieht das Gebiet des\nSenegals, des Nigers und Tsad-Sees, geht in die Nilländer, durch den äussersten Nordosten Afrikas\nnach Mozambik bis ungefähr 24° südlicher Breite, während er seine Nordgrenze bei ungefähr 141/,0\nnördlicher Breite, am weissen Nil, Bahr el Abjad, nach Schweinfurth               schon bei 12° erreicht“.     Gegen-\nwärtig durch Arabien, in Ostindien, auf den Sundainseln (namentlich Java), in Cochinchina,                    auf den\nPhilippinen, auch in Nordaustralien       vorkommend.       Durch     Kultur nach Westindien,     Centralamerika    und\nBrasilien übergesiedelt."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 239,
+        "source_line_range": [
+          65,
+          70
+        ],
+        "exact_source_quote": "          Bestandtheile,           Vauquelin fand in 100 Theilen Tamarinde:             1,5 Weinsteinsäure,          3,2 Weinstein,\n9,4 Citronensáure         (nach Nessler und Barth 13,594),             0,4 zum        grössten Theile an Kali gebundene\nApfelsäure,     6,2 Pektin,    12,5 Zucker, 4,7 Gummi,        31,2 Häute      und Samen,         36,5 Wasser.         Gorup     fand\nausserdem Essigsäure, Ameisensäure und wahrscheinlich auch Buttersáure. Scheele konnte keine\nCitronensäure nachweisen. K. Müller untersuchte 9 ostindische Sorten und erhielt folgende Werthe:\n2,4—38,0%, (im Mittel 13,9%,) Samen; in der von den Samen befreiten Pulpa fand er: 21,92—"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 240,
+        "source_line_range": [
+          1,
+          5
+        ],
+        "exact_source_quote": "                                    Die Tamarinden           wirken     erfrischend, kühlend           und gelind eróffnend und werden\n             Anwendung.\n                                      hl en de s   un d   ge li nd  ab  fü hr en de s Mi tt el    be i   fi eb er ha ft en    Zu st än de n\ndaher, meist in Abkochung,  al  s  kü\n                                        en   au ch  al s Zu sa tz  vo n   Mi xt ur en  un d    al s  Co ns ti tu en s    fü r La tw er ge ."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "b854f13600818ebac66e614a4443aa6d7da2e8b04b45f239e66a480578520e6e"
+}

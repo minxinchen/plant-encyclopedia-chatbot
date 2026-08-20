@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0493-p0494",
+  "owner_shard": "S04",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 97.378,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0493-p0494",
+    "book_taxon": {
+      "scientific_name_candidate": "Abrus preeatorius",
+      "authorship_candidate": "L.",
+      "aliases_candidates": [
+        "Kranzerbse",
+        "Paternostererbse",
+        "Abrusbohne",
+        "a réglisse",
+        "Réglisse d'Amerique",
+        "Indian Liquorice",
+        "Semen Jequirity"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 493,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "隕豆科，蝶形花亞科，Vicieae族，Abrus屬。",
+        "warnings": [],
+        "source_line_range": [
+          5,
+          6
+        ],
+        "exact_source_quote": "            Familie: Leguminosae (Papilionaceae); Unterfamilie: Vicieae;\n                                                                                Gattung: Abrus L."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 493,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "小型木質灌木，莖細長，葉互生羽狀複葉。花小，蝶形，玫瑰紅色。莢果長3公分以上，含4-6顆鮮紅發亮種子，具黑色斑點。",
+        "warnings": [],
+        "source_line_range": [
+          7,
+          38
+        ],
+        "exact_source_quote": "            Beschreibung. Ein kleiner holziger Strauch mit windenden Zweige\n                                                                                  n und einer langen, ver-\n   zweigten, gedrehten Wurzel von 12 und mehr Mm. Durchmesser. Sten\n                                                                      gel schlank, cylindrisch, verzweigt,\n  mit einer glatten oder gefurchten, braunen Rinde.      Blätter abwechselnd, kurz gestielt, spreizend,\n  5—15 Ctm. lang, 8—15jochig paarig gefiedert, am Grunde der\n                                                                        Spindel mit kleinen pfriemlichen\n  Afterblüttchen.   Fiederblättchen einander gegenüberstehend, sehr kurz gestielt, 12—20\n                                                                                               Mm. lang,\n  oblong, mit sehr stumpfer, abgestutzter oder etwas ausgerandeter Spit\n                                                                        ze und kleinem Stachelspitzchen,\n  dünn, beiderseits glatt. Blüthen klein, kurz gestielt, in langgest\n                                                                     ielte, blattachselständige Trauben\n  geordnet, mit etwas gebogener Blüthenspindel. Kelch klein, glockenf\n                                                                      örmig, mit 5 sehr seichten Zähnen,\n  häutig, fein behaart. Krone schmetterlingsförmig, rosenroth; Fahne ei\n                                                                            förmig, aufrecht, mit kurzer\n  Klaue (Nagel); Flügel schmal, sichelfórmig oblong; Schiffchen länger al\n                                                                           s die Flügel, mit 2 nicht ver-\n  bundenen Klauen (Nägeln). Staubgefässe 9; die Filamente in eine oben\n                                                                           gespaltene Scheide verwachsen,\n  9 abwechselnd lünger und 4 kürzer. Staubbeutel gleichfórmig. Fruchtkn\n                                                                           oten kurz gestielt, sehr klein,\n  flaumig. Griffel gebogen, kahl; Narbe kopfförmig. Hülse 3 Ctm. und darübe\n                                                                               r lang, breit oblong, kurz\n  geschnäbelt, zusammengedrückt, 2klappig sich óffnend, zwischen den Same\n                                                                               n unvollständig gefüchert.\n  Samen 4—6, kugelig-eifórmig, lebhaft scharlachroth, stark glänzend, ca. 6—\n                                                                                 7 Mm. lang, mit harter\n  äusserer Samenschale und einem grossen schwarzen Flecken am Nabel. Same\n                                                                                     nlappen planconvex.\n  Eiweiss fehlt."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 493,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產東印度，現廣泛分佈於熱帶地區。",
+        "warnings": [],
+        "source_line_range": [
+          40,
+          40
+        ],
+        "exact_source_quote": "           Vorkommen,     In Ostindien einheimisch; gegenwürtig durch fast alle Tropenlünder verbreitet."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 493,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "種子用於念珠與項鍊。梵文醫書Susruta已有記載。1844年引入孟加拉藥典，1868年入印度藥典。種子用於眼科屬近代。",
+        "warnings": [],
+        "source_line_range": [
+          41,
+          58
+        ],
+        "exact_source_quote": "            Name und Geschichtliches, Paternostererbsen, Kranzerbsen, weil die schön ro\n                                                                                            then Samen\n  zu Rosenkränzen und in der Heimath als Halsschmuck verwendet werden. Abru\n                                                                                    s von 08006 zart,\n  zierlich; nach Prosper Alpinus (gest. 1617) ist Abrus der Name der Pflanze in\n                                                                                    Aegypten, woselbst\n  die Samen zu Halsbändern benutzt werden; precatorius von precari beten, wegen der.\n                                                                                         Benutzung der\n  Samen zu Rosenkränzen.\n           Die Pflanze und ihre Wurzel   wird schon im Sanskrit und zwar   in den medizinischen Schriften\n  des Sasruta erwähnt, woraus auf eine uralte Benutzung des Abrus in Indien gesc\n                                                                                        hlossen werden\n  darf. Die Aehnlichkeit der Wurzel mit dem Süssholz ist durch Sloane (1700) nachgewi\n                                                                                          esen worden,\n  welcher die Pflanze mit Phaseolus glycyrrhitis bezeichnete. Ihre Einführung in die Beng. ph.\n                                                                                                erfolgte\n  1844, in die Pharm. of India 1868.      Der Gebrauch der Samen in der Augenheilkunde gehört\n  der Neuzeit an."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 493,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史用途：1882年Wecker引入眼科，用種子浸液誘發結膜炎症以治療顆粒性角膜雲翳。",
+        "warnings": [
+          "Historical medical content described as historical, not advice."
+        ],
+        "source_line_range": [
+          68,
+          77
+        ],
+        "exact_source_quote": "           Bezüglich des Samens und seiner arzneilichen Verwendung, worauf es hier ankommt, hatte\n Herr Professor Husemann die Güte uns folgendes mitzutheilen:\n           „Die Abrussamen sind 1882 von dem Pariser Augenarzte Wecker in die augenärztliche\n Therapie eingeführt worden, weil ein Aufguss derselben im Stande ist, auf der Augenbindehaut eine\n  croupóse Entzündung hervorzurufen, welche die Hornhaut nicht beeinträchtigt und dadurch die unter\n. dem Namen des granulären Pannus bekannte Augenaffektion zur Heilung zu bringen. Die sogenannte\n. Jequirity-Ophthalmie wird dadurch hervorgerufen, dass man die Augen mit einem kalt bereiteten Auf-\n  gusse wiederholt wäscht, und es genügt, die Waschungen 3mal täglich an 3 aufeinanderfolgenden\n  Tagen vorzunehmen.     Wecker lässt 10 Gr. Semen Abri (ohne die Hülse!) mit 500 Gr. Wasser\n  4 Stunden maceriren und filtriren. Diese Form ist die allgemein gebräuchliche und beste."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 494,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "毒素為蛋白質（Abrin），非生物鹼或糖苷。含Abrusparaglobulin與Abrusalbumose，加熱可失活。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          33
+        ],
+        "exact_source_quote": "            „Man führte,       gem äss      den    neu ere n     The ori en     über    Ent zün  dun  g    und    Eit eru ng,     die    Jequ irit y-\nEntzündung zuerst auf Bacillen zurück, welche sich in dem Aufgusse der Paternostererbsen in grosser\nMenge bilden und auch in dem Secrete der hierdurch hervorgerufenen Augenentzündung in grosser\nMenge vorhanden sind. Diese Ansicht fand um so mehr allgemeinen Anklang, als eine aus den Pater\nnostererbsen dargestellte krystallinische Substanz die Entzündung nicht bewirkte. Obschon eine Theil-\nnahme     dies er Baci llen ,   wel che    sich   übr ige ns    auc h   in   Auf güs sen    von    Erb sen   und    and ere n   Hül  sen  frü cht en   -\nbilden, an der Erzeug         ung     der   Aug ene  ntz  ünd  ung    sich    nich t   ganz    best reit en  läss t, ist   doc h   sow  ohl     dies e\nWir  kun g:   als  auc h   die   toxi sche    Wir kun g,     die   sich   z.  B.   bei   dire kter   Ein  spr itz ung    in  die   Ven  en     dur ch\nsofo rtig en   Herz stil lsta nd   zu   erk  enn en    gieb t,   hau pts äch  lic h    auf  eig  ent hüm lic he    Stof fe   zu   bezi  ehen  ,   die\nsich   in   and ere n   Leg  umi nos  en      (mit    Aus  nah  me     von     Rhy  nch osi a     prec  ator ia)     nich t     find en.     Dur  ch\nchemische Untersuchungen ist das merkwürdige Ergebniss zu Tage gekommen, dass das Gift der\nAbrussamen nicht zu den Alkaloiden oder Glykosiden, wie die meisten Pflanzengifte, sondern zu den\nEiweisskörpern gehört und sich somit sehr enge an entzündungerregende thierische Gifte anschliesst,\nindem ja die aktiven Prinzipien des Schlangengiftes (und nach Kobert’s neuesten Untersuchungen\nauch das Spinnengift und das Gift der Ricinusólkuchen, sowie auch das Gift einzelner Pilze) ferment-\nartig wirkende Eiweisskörper sind. Bruylante und Vennemann bezeichnen das von ihnen als\nJequiritine genannte Prinzip als ein bei der Keimung sich bildendes, bei Erhitzen auf 65° inaktiv\nwerdendes, in einem Macerate aus Jequiritipulver nicht entstehendes, stickstoffhaltiges Ferment, welches\n(ohne Beziehung zu Bakterien) schon zu !/,,—!/;oo Mgr. am Kaninchenauge und zu 1—11/, Mgr.\nam Menschenauge Entzündung hervorruft und das durch die Erzeugung von lokalem hämorrhagischen\nOedem bei Subcutanapplication und einer mit starkem Blutergusse verbundenen Entzündung des Darmes\nbei direkter Einführung in das Blut sich den oben angeführten Eiweissstoffen auf das engste an-\nschliesst. Auch Warden und Waddell kamen zu dem Schluss, dass das Abrusgift, welches sie\nAbrin nannten, und auch in dem Stamme und in der Wurzel nachwiesen, zu den Proteiden gehöre.\nDie neueste Arbeit von Martins zeigt, dass ähnlich wie das Schlangengift, auch das Abrusgift nicht\nein einziger Eiweisskörper ist, sondern aus Abrusparaglobulin und Abrusalbumose besteht. Das erstere\nlöst sich in 15%, Kochsalzlösung und coagulirt durch Hitze bei 75—80°; aus seinen Lösungen wird\nes durch Sättigung mit Natriumchlorid und Magnesiumsulfat gefällt. Die Albumose löst sich in\nWasser, wird nicht durch Siedehitze gefällt, wohl aber durch Salpetersäure (der Niederschlag löst sich\nbeim Erwärmen) und färbt sich mit Kupfervitriol und kaustischem Kali hellroth. Beide bewirken\nschon in sterilisirten Lösungen Augenentzündung und in grösseren Dosen subcutan Vergiftung. Das\nParaglobulin ist 6mal giftiger als die Albumose. Erhitzen schwächt die Wirkung beider Körper ab;\nzwischen 75—80° wird die des Paraglobulins, bei 85° die der Albumose völlig aufgehoben.“ Siehe"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "f59c076730ed2ccd602dc72f25da48120fbee1f5cd2bfaf8134f7e7769e1da89"
+}

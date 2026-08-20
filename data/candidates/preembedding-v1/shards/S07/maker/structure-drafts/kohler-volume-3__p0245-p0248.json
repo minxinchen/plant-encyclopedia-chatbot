@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-3:p0245-p0248",
+  "owner_shard": "S07",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 138.999,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-3:p0245-p0248",
+    "book_taxon": {
+      "scientific_name_candidate": "Aspidosperma Quebracho",
+      "authorship_candidate": "Schlechtendal",
+      "aliases_candidates": [
+        "Aspidosperma Quebracho-blanco Schlechtendal",
+        "Macaglia Quebracho Rich.",
+        "Peltosperma Quebracho DO.",
+        "Ostreocarpus Quebracho Rich."
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 245,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "科：夾竹桃科；亞科：Plumieroideae；族：Alstonieae；屬：Aspidosperma。",
+        "warnings": [],
+        "source_line_range": [
+          7,
+          8
+        ],
+        "exact_source_quote": "       Familie: Apocynaceae R. Brown. Unterfamilie: Plumieroideae Section:                                                 Plumiereae,\nTribus: Alstonieae K. Schumann.   Gattung: Aspidosperma Mart. & Zucc."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 245,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "高13-20米，樹皮灰紅裂紋。葉革質，對生或輪生，長3-5公分，藍綠或黃綠，具刺尖。",
+        "warnings": [],
+        "source_line_range": [
+          9,
+          16
+        ],
+        "exact_source_quote": "        beschreibung. Ein Baum von 13-20, seltener 30 m Höhe und bis zu 1,20 m Durch-\nmesser und hartem, weissen Holze, von dem Aussehen einer Trauerweide; im Alter mit\ngrauer, ziegelrot schimmernder, tiefrissiger Borke und dicker Rinde. Die schlanken, hän-\ngenden Zweige        sind glatt, nicht korkig,               grau   oder gelbbraun,       mit leicht ablösbarem Periderm\nüberzogen.       Die immergrünen             Blätter     stehen     ziemlich dicht       gedrängt       an    den       Zweigen,    ent-\nweder     gegenständig      oder    zu dreien      wirtelig;        sie sind hart lederartig,         einfach,      ungeteilt,     ganz-\nrandig,   länglich      oder länglich-lanzettlich,            3—5 cm lang,       1,2 cm breit; ihre Farbe                ist entweder\nblaugrün,     bereift    oder    oberseits     gelbgrün         bis goldgelb,     unterseits     gelbgrün        oder      umgekehrt."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 246,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "產阿根廷聖地亞哥省，可能分佈於智利、玻利維亞及南巴西。",
+        "warnings": [],
+        "source_line_range": [
+          21,
+          22
+        ],
+        "exact_source_quote": "         Vorkommen.    Argentinische Republik, Provinz Santiago, insbesondere im Bezirk von\n Catamarca, wahrscheinlich auch in Chile, Bolivia und Südbrasilien."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 247,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "樹皮含石細胞群，內皮層具長形石細胞纖維，伴隨含草酸鹽晶體的腔室細胞。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          6
+        ],
+        "exact_source_quote": "        Anatomie. Die Borke der Rinde besteht aus parenchymatischen ‚ gelbbraunen und\nzinnoberroten Zelllagen, zwischen die sich zarte braune Korkschichten tangential einschieben.\nDas Gewebe wird durch zahlreiche Sklerenchymgruppen unterbrochen. Ebensolche Skleren-\nchymgruppen, aus rundlichen Zellen bestehend und rundliche Komplexe bildend, setzen sich\nauch in der Innenrinde fort, während weiter nach dem Cambium hin, teils sie begleitend,\nteils selbständig      auftretend       langgestreckte Sklerenchymfasern wahrgenommen                             werden,       welche"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 247,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含0.8-1.4%生物鹼（Aspidospermin等）、3.9%單寧及Quebrachol。",
+        "warnings": [],
+        "source_line_range": [
+          13,
+          17
+        ],
+        "exact_source_quote": "         Bestandteile. Die Rinde enthält nach Hesse (l. c.) sechs Alkaloide im Gesamtbetrage\nvon 0,8—1,4°/,, etwa 3,9°/, Gerbsäure, sowie einen in farblosen Blättchen krystallisierenden,\ndem Cholesterin ähnlichen Stoff, das Quebrachol. Von den Alkaloiden sind Aspidospermin,\nQuebrachin, Aspidospermatin und Quebrachamin krystallisierbar, Hypoquebrachin und Aspi-\ndosamin amorph. Alle sind sehr schwache Basen, deren Salze schon durch Lösungsmittel"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 247,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史用途：鮮皮治間歇熱；乾皮無退熱效。生物鹼為呼吸毒，曾用於治療呼吸困難。",
+        "warnings": [
+          "Historical medical content described as historical, not advice."
+        ],
+        "source_line_range": [
+          27,
+          33
+        ],
+        "exact_source_quote": "           Anwendung.          Das     Holz    der Pflanze       dient als Bauholz            und   zur Herstellung        von Holz-\nschnitten in der Xylographie. Die frische Rinde wird von den Einheimischen als Mittel gegen\nIntermittens und Malaria, überhaupt als Fiebermittel benutzt. Die getrocknete Rinde zeigt\nkeine antifebrile Wirkung.             Die Alkaloide         der Droge sind Respirationsgifte, und zwar ist durch sie\neine Herabsetzung der Erregbarkeit .des Respirationszentrums wahrzunehmen. Deshalb dient\ndie Rinde als Extrakt oder Tinktur, oder ihre Alkaloide in subkutaner Injektion als Mittel\ngegen Dyspnöe infolge von Zirkulationsstörungen und Herzkrankheiten.                                  Man giebt Aspidospermin"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "a0f302a46d857815e598b861d45ff506f5125a8cd23f7b8dfa75e015a5663cd5"
+}

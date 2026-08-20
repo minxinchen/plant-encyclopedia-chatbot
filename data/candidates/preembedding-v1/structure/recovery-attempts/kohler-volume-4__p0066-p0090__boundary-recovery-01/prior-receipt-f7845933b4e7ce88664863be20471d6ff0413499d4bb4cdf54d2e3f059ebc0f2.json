@@ -1,0 +1,157 @@
+{
+  "schema_version": "1.0",
+  "package_id": "kohler-volume-4:p0066-p0090:boundary-recovery-01",
+  "parent_entry_id": "kohler-volume-4:p0066-p0090",
+  "child_entry_id": null,
+  "recovered_entry_id": "kohler-volume-4:p0066-p0069",
+  "work_id": "structure-recovery:kohler-volume-4:p0066-p0090:boundary-recovery-01:v1",
+  "owner_shard": "S08",
+  "package_sha256": "34cb84d65b417af51fc6ff76ffa0fc1d2b530857205899bb9567c6b0ac9aee8c",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "prompt_version": "plant-structure-continuation-line-anchors-v1",
+  "attempt_sha256": "fb08d2fb5bfd6c08fe1048e8f1b36ccc68e8b9c59119363f053d8348cf1f8e4c",
+  "raw_response_sha256": "1af35a05ec1bc3ffe54b26dd05587c655bb6f91b4128b40ee6ad65f787d53e39",
+  "elapsed_seconds": 7.262,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "needs_review",
+  "errors": [
+    "section_4:duplicate_section_type:constituents"
+  ],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 66,
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+      "char_start": 195,
+      "char_end": 355,
+      "source_line_start": 4,
+      "source_line_end": 5,
+      "page_text_sha256": "be8fdcec960165d5acf3ec11dc6ab9140c3870bb4b576bc94bcb667492b20923",
+      "exact_text_sha256": "fcfbc088e9491732b2fd3e04be878cebda8bbf9936899bc6a00a290c1906a513",
+      "section_index": 0,
+      "section_type": "taxonomy"
+    },
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 66,
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+      "char_start": 357,
+      "char_end": 1810,
+      "source_line_start": 7,
+      "source_line_end": 22,
+      "page_text_sha256": "be8fdcec960165d5acf3ec11dc6ab9140c3870bb4b576bc94bcb667492b20923",
+      "exact_text_sha256": "3de979fe033bc73f2a490804bf5b978969f6d61640dfe5a741b10f9983726339",
+      "section_index": 1,
+      "section_type": "description"
+    },
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 67,
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+      "char_start": 6496,
+      "char_end": 7905,
+      "source_line_start": 110,
+      "source_line_end": 125,
+      "page_text_sha256": "72587b7582af60126ae26b2b38d3e1f491d40cebeaca75331f1e759091a057d4",
+      "exact_text_sha256": "3ccefd1e459d5a1a77c8263f93fe3ff53221a89134712f46a941af7e139ce870",
+      "section_index": 2,
+      "section_type": "anatomy"
+    },
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 67,
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+      "char_start": 7907,
+      "char_end": 8611,
+      "source_line_start": 127,
+      "source_line_end": 138,
+      "page_text_sha256": "72587b7582af60126ae26b2b38d3e1f491d40cebeaca75331f1e759091a057d4",
+      "exact_text_sha256": "8c76d80b34fe3a491e7aec4df70c5cf8f7d70a036ecb278ec586dff55d6c2614",
+      "section_index": 3,
+      "section_type": "constituents"
+    },
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 68,
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+      "char_start": 469,
+      "char_end": 1538,
+      "source_line_start": 7,
+      "source_line_end": 18,
+      "page_text_sha256": "6b92b9937ed0628478bad5935ee14102bf1b91ff00af7392efae950ae2d09d1a",
+      "exact_text_sha256": "e99796b6ac7305331b927994603397aedf0a274e2cdceb563d61ea8e78fb7ec8",
+      "section_index": 4,
+      "section_type": "constituents"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-4:p0066-p0090:boundary-recovery-01",
+    "parent_entry_id": "kohler-volume-4:p0066-p0090",
+    "book_taxon": {
+      "scientific_name_candidate": "Lupinus albus"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 66,
+        "source_line_range": [
+          4,
+          5
+        ],
+        "exact_source_quote": "           Familie: Leguminosae (Reihe: Rosales.)                          Unterfam.: Papilionatae.                   Tribus: Genisteae.\n    Gattung: Lupinus L."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 66,
+        "source_line_range": [
+          7,
+          22
+        ],
+        "exact_source_quote": "               Beschreibung Lupinus albus ist ein einjahriges Kraut. Aus der Wurzel\n                                  :\n\n\n    etwa einen halben bis ganzen Meter hohe, aufrechte, oben verzweigte Stengel, der mit anliegenden\n    seidigen   Haaren bedeckt ist.          Die ziemlich langgestielten Blatter sind fiinf-                     bis siebenfingerig.        Die\n    Blattchen sind bis 4 cm lang, bis 1 cm breit, langlich-verkehrt-eiformig, kurzgesielt, auf der Oberseite\n    kahl, auf der Unterseite weichhaarig. Der Stengel endet in dem traubigen Bliitenstand; dieser ist ziemlich\n    armbliitig   und tragt die kurzgestielten, ziemlich grofien Bliiten, die keine Deckblatter besitzen, in ab-\n    wechselnder, nicht quirliger Stellung.                 Der dicht seidenhaarige Kelch ist zweilippig.                   Die Oberlippe\n    ist   ungeteilt   und urn ein weniges kurzer als die dreizahnige Unterlippe. Die Blumenblatter sind kahl,\n    weiB, an den Spitzen blau oder blaulich.   Die zehn Staubgefafie sind zu einem Biindel verwachsen;\n    sie   umschliefien den mit pfriemformigem Griffel und kopfformiger Narbe versehenen Fruchtknoten,\n    aus     welchem     bei   der Reife     am Fruchtstand         aufrecht stehende,             bis 6     cm lange,    fast 1    cm breite,\n    linealische, geschnabelte, behaarte Friichte              hervorgehen     ;   die       Samen sind glatt, rundlich, etwas platt,\n    und weifilich von Farbe."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 67,
+        "source_line_range": [
+          110,
+          125
+        ],
+        "exact_source_quote": "          Anatomie: Von Wichtigkeit sind die anatomischen Verhaltnisse des Sam ens. Die Samen-\nschale   besteht aus Epidermis, Hypoderm und parenchymatischen Schichten.   Die Epidermiszellen,\ndie   von einer warzigen Cuticula uberzogen                         sind,       sind palisadenartig,                stark verdickt und mit zahl-\nreichen Tiipfelkanalen versehen.\n                               Die Zellen des einschichtigen Hypoderms haben die Form hohler\nNahgarnspulen, und lassen daher groBe Interzellularen zwischen\n                                                               sich. Sie sind derbwandig. Das\nParenchym ist mehrschichtig, auBen groBzellig, stark tangential\n                                                                gestreckt, nach innen zu kleinerzellig\nund hier von GefaBbiindeln durchzogen. Endosperm\n                                                       ist nur sparlich vorhanden oder fehlt.     Cha-\nraktenstisch Bind die Zellen der Kotyledonen\n                                               des Keimlings.                                   Sie sind rundlich, haben kleine drei-\noder viereckige Interzellularen, besitzen eine\n                                                                     derbe        Wand mit auffallend groBen Tiipfeln, und                                        ent-\nhalten femkorniges Plasma               und Aleuronkorner, aber keine Starke."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 67,
+        "source_line_range": [
+          127,
+          138
+        ],
+        "exact_source_quote": "          Bestandteile         Die Samen wie auch das Kraut der Lupinen\n                             :\n                                                                        enthalten Alkaloide.\n          Ill   Lnpinns\n                lJUDlTlllS      albus\n                                fl.lhna wurde\n                                        ™-nr*rU           ~~~U^;i„_v    i\n                                                          rech tsdrehendos               ,       .   .     .    .   _   .         _              .   .\n\n\n                                                                                     und optisch inaktiycs                       (d-       und       i-)    Lupanin\ngefunden."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 68,
+        "source_line_range": [
+          7,
+          18
+        ],
+        "exact_source_quote": "            d-   und i-Lupanin          aus Lupinus albus werden nach\n                                                            Davis gewonnen durch Ausschiitteln\nder mit Natriumhydroxyd stark alkalisch gemachten Extraktlosung mit Chloroform, Aufnehmen\n                                                                                              des\nRuckstandes der Chloroformlosung mit Salzsaure und Eindampfen des Filtrates zu einem Syrup.\n                                                                                            Nach\nlangerem Stehen werden Kristalle von salzsaurem d-Lupanin abgeschieden, die, aus Wasser urn-\nkristallisiert, rhombische Prismen vom Schmelzpunkt 127 °\n                                                          bilden.  Die Mutterlaugen der letzten\nKristallfraktionen enthalten das i-Lupanin.            Man entzieht es ihnen durch Zusatz von iiberschussiger\nstarker Natronlauge durch           warmen Ather und kristallisiert          die freie   Base aus Petrolather urn.    Sie\nbildet farblose     Nadeln vom Schmelzpunkt 99°."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "f7845933b4e7ce88664863be20471d6ff0413499d4bb4cdf54d2e3f059ebc0f2"
+}

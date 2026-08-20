@@ -1,0 +1,236 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-3-p0189-p0190",
+  "entry_id": "kohler-volume-3:p0189-p0190",
+  "owner_shard": "S06",
+  "book_taxon": {
+    "scientific_name": "Hamamelis virginiana",
+    "authorship": null,
+    "aliases": [
+      "Wünschelrute",
+      "Zaubernuss",
+      "Zauberhaselnuss",
+      "Hopfenhainbuche",
+      "Snapping Hazel-nutt",
+      "Witsch hazel",
+      "Noisette de la sorciere"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Hamamelis virginiana"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T18:33:16+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Hamamelis+virginiana",
+        "query_name": "Hamamelis virginiana",
+        "retrieved_at": "2026-08-13T18:33:13+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Snapping+hazel-nutt",
+        "query_name": "Snapping hazel-nutt",
+        "retrieved_at": "2026-08-13T18:33:13+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Witsch+hazel",
+        "query_name": "Witsch hazel",
+        "retrieved_at": "2026-08-13T18:33:13+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 189,
+      "evidence_type": "text",
+      "page_text_sha256": "958e89d7e8a5a7e7aa6343286d50b65a3c6e377db27cfbbc807fa0afa3e1ca26",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 190,
+      "evidence_type": "text",
+      "page_text_sha256": "04b26f894940c09bf83d83da66cb1ae81ed00e61b047456fb71ad5917a72d0ea",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-3:p0189-p0190:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "           Familie: Hamamelidaceae             Gattung: Hamamelis L. (Zrilopus Raf.)",
+      "normalized_text": null,
+      "zh_tw_rendering": "科：Hamamelidaceae；屬：Hamamelis L.（Zrilopus Raf.）。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 189,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 288,
+        "char_end": 372,
+        "page_text_sha256": "958e89d7e8a5a7e7aa6343286d50b65a3c6e377db27cfbbc807fa0afa3e1ca26",
+        "exact_text_sha256": "882dc644c380ae600d617c000e623387da5c7867da8dccb5a8bb6f78ddfa61f4",
+        "source_line_start": 5,
+        "source_line_end": 5,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "882dc644c380ae600d617c000e623387da5c7867da8dccb5a8bb6f78ddfa61f4",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0189-p0190:s01:x00",
+      "section_type": "description",
+      "original_text": "           Beschreibung.       Ein Baum        bis zu 6 m    Höhe     oder ein 2—3        m     hoher Strauch     mit zahl-\nreichen braunen, in der Jugend mit braunen Sternhaaren besetzten Zweigen. — Nebenblätter\nvorhanden, aber sehr hinfällig, lineallanzettlich, dicht mit Büschelhaaren besetzt.       Blätter\nwechselständig, gestielt, einfach ungeteilt, breit lanzettlich oder verkehrt eiförmig, am Grunde\nungleich, die längere Hälfte öhrig verlängert und herzförmig anlaufend, die kürzere keilförmig.\nSpitze abgerundet oder zugespitzt. Rand mit stumpfen Zähnen buchtig, bis 12 cm lang und\n9 em   breit, jüngere       unterseits   rostfarben     sternhaarig,      ältere    oberseits    dunkelgrün,      unterseits\ngelbgrün, kahl, glänzend.            Nerven stark hervortretend;              die Seitenrippen, fünf bis sechs auf\njeder Blatthälfte ‚ gehen unter einem Winkel von 45°                        von der Mittelrippe aus und münden\nfast schnurgerade in je einen Blattzahn.    Die Adern                       sind stark verzweigt und verlaufen\nnahezu senkrecht zu den Seitennerven und schliessen ein engeres Adernetz ein. Der Blatt-\nstiel ist 1—1,5 cm lang, rinnig, kahl, in der Jugend büschelhaarig. — Die kleinen goldgelben",
+      "normalized_text": null,
+      "zh_tw_rendering": "高至6公尺之樹或2-3公尺灌木，枝具星狀毛。葉互生，寬披針形或倒卵形，基部不整，邊緣鈍齒。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 189,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 373,
+        "char_end": 1608,
+        "page_text_sha256": "958e89d7e8a5a7e7aa6343286d50b65a3c6e377db27cfbbc807fa0afa3e1ca26",
+        "exact_text_sha256": "26b957a3ef984220160a8939cee2bf33c1aa36154ffc51a1edad186243aa3e4a",
+        "source_line_start": 6,
+        "source_line_end": 17,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "26b957a3ef984220160a8939cee2bf33c1aa36154ffc51a1edad186243aa3e4a",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0189-p0190:s02:x00",
+      "section_type": "flowering",
+      "original_text": "           Blütezeit.     September bis November, wenn die Blätter abfallen, oft bis                        Januar; Frucht-\nreife im August.",
+      "normalized_text": null,
+      "zh_tw_rendering": "花期九月至十一月，葉落時開花，常延至一月；果實八月成熟。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 189,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 4037,
+        "char_end": 4177,
+        "page_text_sha256": "958e89d7e8a5a7e7aa6343286d50b65a3c6e377db27cfbbc807fa0afa3e1ca26",
+        "exact_text_sha256": "817ddc2485dede0fbcc6dae5ce13aaa608dd7f7e8ae57290827666ee2636163f",
+        "source_line_start": 44,
+        "source_line_end": 45,
+        "section_index": 2,
+        "section_type": "flowering"
+      },
+      "exact_text_sha256": "817ddc2485dede0fbcc6dae5ce13aaa608dd7f7e8ae57290827666ee2636163f",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0189-p0190:s03:x00",
+      "section_type": "distribution",
+      "original_text": "         Standort. Felsige Stellen von Kanada bis Florida, überhaupt häufig in den Vereinigten\nStaaten von Nordamerika, ferner in China, Japan, Indien, Afrika; bei uns in Anlagen nicht\nselten als Zierstrauch gezogen.",
+      "normalized_text": null,
+      "zh_tw_rendering": "產於加拿大至佛羅里達之岩石地，北美常見，亦見於中國、日本、印度、非洲；歐洲園藝栽培。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 189,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 4178,
+        "char_end": 4394,
+        "page_text_sha256": "958e89d7e8a5a7e7aa6343286d50b65a3c6e377db27cfbbc807fa0afa3e1ca26",
+        "exact_text_sha256": "7aae770801f5663a1ffdb5b768ee7e9f0e8ca09b30a9c23ef6093bc998da4f15",
+        "source_line_start": 46,
+        "source_line_end": 48,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "7aae770801f5663a1ffdb5b768ee7e9f0e8ca09b30a9c23ef6093bc998da4f15",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0189-p0190:s04:x00",
+      "section_type": "historical_use",
+      "original_text": " vielen  Kran khei ten an; die Zwei ge dien en ihne n als Wüns chel rute n, um verb orge ne Schä tze\n zu finden. Die Pflanze wurde 1736 durch Collinson nach Europa gebracht.",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史記載：原住民用葉皮煎劑治多種病；枝條作尋寶杖。1736年Collinson引入歐洲。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 190,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 173,
+        "page_text_sha256": "04b26f894940c09bf83d83da66cb1ae81ed00e61b047456fb71ad5917a72d0ea",
+        "exact_text_sha256": "87e4062c168f4d36fabee23a20b81c34dc0cb8a18c140129c8bbd83406c00035",
+        "source_line_start": 1,
+        "source_line_end": 2,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "87e4062c168f4d36fabee23a20b81c34dc0cb8a18c140129c8bbd83406c00035",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "893a8cd9f5fa7dbb1e5aa1e080c1847380f35dae7d6d3cc1376b3f27c6eb8956",
+    "maker_receipt_sha256": "62931a3cc4efe399b196013c4c6e64d07e9c64918fcff8f13fe4ad26f88c6d26",
+    "validation_check_sha256": "4092e5fad03827c2226505978c00983068e45cc39808724b852f6b3a3f68c988",
+    "source_disposition_sha256": "5869515c21f69b542833ace45f324198c759c7259d1b6756a27e086ef42a88e4",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "62931a3cc4efe399b196013c4c6e64d07e9c64918fcff8f13fe4ad26f88c6d26",
+      "validation_check_sha256": "4092e5fad03827c2226505978c00983068e45cc39808724b852f6b3a3f68c988",
+      "source_disposition_sha256": "5869515c21f69b542833ace45f324198c759c7259d1b6756a27e086ef42a88e4"
+    },
+    "naming_artifact_sha256": "41b6b61d2f3b2ebd73dd485180ac8d9595a3523fe87fb5851abe22775ed9155e"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "cf139800648271fb1d5b71ef2e9e14fe1f75f53395658fcc7bcb82b27148c3f6"
+}

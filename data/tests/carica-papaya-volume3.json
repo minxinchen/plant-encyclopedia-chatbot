@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "run_id": "volume3-carica-papaya-profile-check-2026-08-11",
+  "batch_id": "kohler-v3-p165-p170-carica-papaya",
+  "source_id": "kohler-volume-3",
+  "source_filename": "第三集 mobot31753002839105.pdf",
+  "volume": 3,
+  "record_id": "carica-papaya",
+  "scientific_name": "Carica papaya L.",
+  "display_name": "番木瓜",
+  "pdf_pages": [165, 166, 167, 168, 169, 170],
+  "source_ranges": [],
+  "promotion_scope": "Carica papaya PDF pages 165-170 only; no next-taxon or full-volume expansion",
+  "token_unit_contract": "Provider-neutral regex units: Unicode word sequences or individual non-whitespace punctuation. These are deterministic portable chunk units, not a claim about Gemini's private tokenizer.",
+  "profiles": [
+    {"profile_id": "page-baseline", "target_token_units": null, "overlap_token_units": null},
+    {"profile_id": "section-aware-512-100-v1", "target_token_units": 512, "overlap_token_units": 100}
+  ],
+  "queries": [
+    {
+      "query_id": "carica-papayotin-zh-tw",
+      "question": "書中如何說明番木瓜乳汁中的 Papayotin（Papain）？",
+      "expected_status": "answerable",
+      "required_book_terms": ["Papayotin"],
+      "expected_pdf_pages": [167, 168]
+    },
+    {
+      "query_id": "carica-papayotin-en",
+      "question": "What does the book say about papayotin or papain in the latex of Carica papaya?",
+      "expected_status": "answerable",
+      "required_book_terms": ["Papayotin"],
+      "expected_pdf_pages": [167, 168]
+    },
+    {
+      "query_id": "carica-chromosome-refusal-zh-tw",
+      "question": "這六頁記載番木瓜的染色體數是多少？",
+      "expected_status": "unanswerable",
+      "required_book_terms": ["Chromosom", "chromosome number"],
+      "expected_pdf_pages": []
+    },
+    {
+      "query_id": "carica-wrong-name-refusal-zh-tw",
+      "question": "這本書是否把 Papayotin 記在木瓜海棠（Chaenomeles sinensis）條目？",
+      "expected_status": "unanswerable",
+      "required_book_terms": ["Chaenomeles sinensis"],
+      "expected_pdf_pages": []
+    }
+  ]
+}

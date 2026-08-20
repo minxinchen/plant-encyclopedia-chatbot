@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 307,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "e082a4331def75282d298eb4b76b446c3c037692c668d7478fa759b5a449cdbd",
+  "render_dpi": 144,
+  "render_sha256": "9d9b42cf2b9d2eb259cfd24014cffe9635e42fc7a6e82fdc1fa2acf229e93553",
+  "input_sha256": "9d9b42cf2b9d2eb259cfd24014cffe9635e42fc7a6e82fdc1fa2acf229e93553",
+  "render_pixel_width": 5606,
+  "render_pixel_height": 7994,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.542,
+  "embedded_character_count": 209,
+  "ocr_character_count": 65,
+  "ocr_alpha_ratio": 0.6462,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01909722222222221,
+      "text": "Rosaceae. (truneac.)",
+      "width": 0.18219460321450676,
+      "x": 0.7681159490828778,
+      "y": 0.9330357146191951
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494425,
+      "text": "8",
+      "width": 0.010351966766184773,
+      "x": 0.82608695649786,
+      "y": 0.7354651166741133
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "B",
+      "width": 0.01656314709567619,
+      "x": 0.5196687369076485,
+      "y": 0.6351744188160073
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436846943,
+      "text": "5",
+      "width": 0.018633540314022867,
+      "x": 0.14285714278294717,
+      "y": 0.1976744186914603
+    },
+    {
+      "confidence": 1,
+      "height": 0.015962570432632717,
+      "text": "wMiller n.i. Nat.",
+      "width": 0.09566103923101574,
+      "x": 0.07432269068442646,
+      "y": 0.1548094124402145
+    },
+    {
+      "confidence": 1,
+      "height": 0.026749643068464946,
+      "text": "Prunus Gerasus I.",
+      "width": 0.19063856240883575,
+      "x": 0.4181382775967812,
+      "y": 0.11889262064752093
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "36",
+      "width": 0.018633540314022867,
+      "x": 0.9316770185075848,
+      "y": 0.03488372092356562
+    }
+  ],
+  "text": "Rosaceae. (truneac.)\n8\nB\n5\nwMiller n.i. Nat.\nPrunus Gerasus I.\n36",
+  "output_sha256": "a2f18003bc26cf7e2d12c02169245684bc8a84018d38175312381244c4f7c291",
+  "receipt_sha256": "5c801953804b0f9a6f0a6d1b39e537b54c615d61a4c1f1567f21083ab7d44639"
+}

@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0195-p0196",
+  "owner_shard": "S02",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 123.463,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0195-p0196",
+    "book_taxon": {
+      "scientific_name_candidate": "Pilocarpus pinnatifolius",
+      "authorship_candidate": "Lemaire",
+      "aliases_candidates": [
+        "P. pinnatus Martius",
+        "Jaborandi"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 195,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Pilocarpus pinnatifolius Lemaire，同義名 P. pinnatus Martius，俗名 Jaborandi，屬 Butaceae 科。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          11
+        ],
+        "exact_source_quote": "              Pilocarpus pinnatifolius (pennatifolius) Lemaire\n\n                                                               Syn. P. pinnatus Martius.\n\n                                                                            Jaborandi.\n                                                                                                             9\n\n\n\n\n            Familie: Butaceae.                          Gattung: Pilocarpus Valil."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 195,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "高 1-3 米灌木，枝條直立。葉互生，奇數羽狀複葉，小葉 2-5 對，革質，上表面無毛，下表面有短毛及油點。",
+        "warnings": [],
+        "source_line_range": [
+          12,
+          27
+        ],
+        "exact_source_quote": "            Beschreibung.                        Wenig verzweigter,           1   — 3 Meter holier Strauch, mit 8 Mm. dicken, grau-\nbraunlichen,          cliclit   rothgelb-haarigen,                    aufrechten Zweigen.           Rinde         briichig,         leicht    abschalbar;       Holz\ngelblich-weiss.           Blatter abwechselnd, unpaarig gefiedert, mit                              2—5 Paaren einfachen, fast stets gegen-\nxiberstehenden Fiederblattern                      ,   bis    \\ Meter lang; Blattspindel langsfurchig ca. 15 Ctm. lang bis zum\n                                                                                                                            ,\n\n\n\n\nuntersten Blattpaare.                   und mehr Ctm. lang, 4 und mehr Ctm. breit, mit kurzem, an\n                                        Fiederblatter 10\nder Basis etwas geschwollenem Blattstiele, Endblatt langer gestielt und ofters etwas grosser, lanzett-\nlich, oval-langlich, zugespitzt oder stumpf und ausgerandet, manchmal an der Basis ungleichhalftig,\n\nziemlich rasch in den kurzen BJattstiel iibergehend, ganz- und umgebogen randig, derb lederartig,\noberseits    kahl,        oft   unterseits,              namentlich auf den Nerven, kurzhaarig,                            durcli        zablreiche Oelbehalter"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 195,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "葉橫切面顯示上層為柵欄組織，下層為海綿組織含草酸鈣腺體。氣孔僅位於葉下表面，油囊位於表皮下。",
+        "warnings": [],
+        "source_line_range": [
+          52,
+          56
+        ],
+        "exact_source_quote": "            Anatomisches                    :     Der Blattquerschnitt            zeigt   in der oberen Halfte eine Palissadenschicht,                            in\n\nder    unteren        Schwammparenchym mit                            einzelnen Drlisen von         Calcium oxalat.                 Spaltoffnungen befinden\nsich   nur auf der unteren Blattseite.                            Die Oelbehalter liegen auf beiden Seiten des Blattes dicht unter\nder Epidermis,    am zahlreichten jedoch in der oberen Blatthalfte (Fluckiger)."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 195,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分佈於巴西東部各省，包括馬托格羅索州（Matto Grosso）的一部分。",
+        "warnings": [],
+        "source_line_range": [
+          57,
+          62
+        ],
+        "exact_source_quote": "            Verbreitung     In den ostlichen Provinzen Brasiliens einschliesslich\n                                    1\n\n                                        .\n                                                                                                                                             eines    Theiles    von\nMatto Grosso."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 196,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史上用作強效發汗劑，刺激唾液分泌。歷史文獻記載其對心臟及迷走神經有興奮作用，曾用於治療風濕及梅毒。",
+        "warnings": [
+          "Historical medical content described as historical, not advice."
+        ],
+        "source_line_range": [
+          61,
+          77
+        ],
+        "exact_source_quote": "            Anwendung.                  Jaborandiblatter, welche bisher gewohnlich\n                                                                      im Aufguss gereicht wurden, der\n aber neuerdings durch das Praparat Pihcarpinum hydrochloriciim verdrangt worden ist, sind\n                                                                                               als das\n hauptsachlichste schweisstreibende Mittel der Gregenwart zu betrachten.   „In medizinalen Dosen raft\n Pilocarpin vorzugsweise Schweiss und Vermehrung der Speichelsecretion hervor; in grosseren\n                                                                                                Dosen\n wirkt es toxisch und letal.    Das Herz und die Vagusendigungen werden durch Pilocarpin in einen\n Erregungszustand versetzt.   Jaborandi und das darin enthaltene Alkaloid veranlasst die ausserordent-\n lich starke Hidrose nicht bios durch Wirkung auf die Driisen, sondern auf\n                                                                                 bestimmte Theile des\n Nervensystems und zwar nicht nur auf das im verlangerten Mark belegene Schweisscentrum,\n                        ,\n                                                                                              sondern\n auch auf die peripherischen Endigungen der Schweissnervenfasern.      Die vermehrende Wirkung auf\n die Speichelsecretion resultirt ebenfalls aus einer Erregung peripherischer\n                                                                             Secretionsnerven.\"                                                                     Pilocarpin"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 196,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "主要成分包括揮發油（Oleum Jaborandi）及兩種生物鹼：Pilocarpin 與 Jaborin。",
+        "warnings": [],
+        "source_line_range": [
+          41,
+          44
+        ],
+        "exact_source_quote": "              Bestandtheile.                 Die wesentlichsten Bestandtheile von Jaborandi sind: das von Hardy zuerst\n dargestellte  nnd beschriebene atherische Oel: Oleum Jaborandi nnd 2 Alkaloide, namlich. das fast\n gleichzeitig von Hardy und Gerrard entdeckte Pilocarpin nnd das von Harnack nnd Meyer auf-\n gefundene Jaborin."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "32f0dac77a9e1463d34a28efceaab842bc48a7f0c3f2cee8823cfba10d4f94d2"
+}

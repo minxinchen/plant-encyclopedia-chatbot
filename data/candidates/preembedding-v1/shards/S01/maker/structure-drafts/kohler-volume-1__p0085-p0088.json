@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0085-p0088",
+  "owner_shard": "S01",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 194.853,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0085-p0088",
+    "book_taxon": {
+      "scientific_name_candidate": "Cydonia vulgaris",
+      "authorship_candidate": null,
+      "aliases_candidates": [
+        "Pirns Cydonia L.",
+        "Cydonia Cydonia Karst.",
+        "Cydonia europaea Savi.",
+        "Sorbus Cydonia Crantz."
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "description",
+        "pdf_page": 85,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "高達3公尺的灌木或喬木，枝條無刺，葉片卵形至披針形，兩面被毛。",
+        "warnings": [],
+        "source_line_range": [
+          10,
+          14
+        ],
+        "exact_source_quote": "            Beschreibung.                    Bis   ca. 3   m holier Strauch oder Baum, mit abstehenden, dornenlosen, braunen\n alteren,   krautartigen        ,\n                                        griinen,   grauzotti                               angedriickten   ,   eiformig\n Blatter kurzgestielteiformig, eilanzettformig, ganzrandig, oberseits zuletzt kahl, unterseits gleich den\n                            ,"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 85,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "種子橫切面顯示含植物黏液組織，乾燥時形成白色薄膜，外種皮由8-10層細胞組成。",
+        "warnings": [],
+        "source_line_range": [
+          57,
+          60
+        ],
+        "exact_source_quote": "           Anatomisches: Der Querschnilt des Samens zeigt auf der Oberflache ein aus prismatischen, radial gestreckfcen,\nsehr diinnrandigen, farblosen Zellen bestehendes, Pflanzenschleim enthaltendes Gewebe, welches im trocknen Zustande\nein weisses Hautchen bilclet.    Hierauf folgt die aus 8             —\n                                                           10 Zellenreihen bestehende aussere Samenhaut, cleren, nach"
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 85,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源自希臘語，與克里特島城市Kydon有關，古希臘人視其為幸福、愛情與豐饒的象徵。",
+        "warnings": [],
+        "source_line_range": [
+          74,
+          78
+        ],
+        "exact_source_quote": "            Name und Geschichtliches.      Der Name Quitte, althochdeutsch kntina, mittelhochdeutsch\nkutina und quiten, nach Leonhard Fuchs Kiitten, ist aus dem lateinischen cydoniurn, cotoneum und\ndieses aus dem griechischen y.vdcuviov hervorgegangen.    Der griechische Name riihrt von der Stadt\nKvdtov, jetzt Canea, auf Kreta her, aus welchem Orte die Griechen die erste Kenntniss der Quitte er-\nlangten.  Wegen Pirus siehe Apfelbaum. Die Quitte, der kydonische Apfel der Griechen, war bei"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 86,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "古代僅果實作藥用；中世紀起種子黏液用於喉痛，並作為Mesue藥方成分。",
+        "warnings": [
+          "Historical medical content described as historical, not advice."
+        ],
+        "source_line_range": [
+          11,
+          15
+        ],
+        "exact_source_quote": "                                                                                            auf     Frucht,  die als sehr\n            Die mediziiiische Benulzung erstreckte                sicli   im Alterthume nur     die\n                                                                                            medizimsche   Benutzung   aer\nbeliebtes    inediziniscli - diatetisches   Mittel   Verwendung             fand. Ueber die\n                                                                         Gebrauch    der hochasiaftsciien"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 86,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "種子含約20%黏液，為纖維素與樹膠的酸性可水解化合物，化學式C15H26O11。",
+        "warnings": [],
+        "source_line_range": [
+          59,
+          63
+        ],
+        "exact_source_quote": "          Bestandtheile. Der ca. 20°/ der Samenmasse ausmachende, durch Schutteln des Samens\nmit Wasser leicht hervortretende, dem 50fachen des letzteren eine dicke Beschaffenlieit verleihende\nQuittenschleim ist nach Kirchner und Tollens eine durch Sauren spaltbare Verbindung von gewohn-\nlicher Cellulose und Gummi.       Der durch Filtration der heissen Losung gereinigte, durch Behandlung\nmit Salzsaure und Alkohol in reinem Zustande hergestellte Schleim entspricht der Formel CisH^sOu."
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 86,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "圖版描述：開花枝條、果實、側生葉、花縱切、雄蕊、花粉、雌蕊、柱頭及果實切面。",
+        "warnings": [],
+        "source_line_range": [
+          107,
+          111
+        ],
+        "exact_source_quote": "            A bluhender Zweig, naturl. Grosse; B Frucht, desgl.        Nebenblattchen clesgl.; 2 Bliithe im Langsschnitt,\n                                                                             ;   1                        ,\n\n\n"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "61a5a88933135d1577c757b1f376bf991b68fbdbf8b137b047cf798423189eb2"
+}

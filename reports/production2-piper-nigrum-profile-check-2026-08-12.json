@@ -1,0 +1,1456 @@
+{
+  "schema_version": "1.0",
+  "run_id": "production2-piper-nigrum-profile-check-2026-08-12",
+  "batch_id": "kohler-v2-p293-p296-piper-nigrum",
+  "embedded_at": "2026-08-12T16:30:40+08:00",
+  "source_id": "kohler-volume-2",
+  "record_id": "piper-nigrum",
+  "pdf_pages": [
+    293,
+    294,
+    295,
+    296
+  ],
+  "model": "gemini-embedding-2",
+  "dimensions": 768,
+  "vector_space_id": "gemini-embedding-2__768__qa-prefix-v1",
+  "token_unit_contract": "Provider-neutral regex units: Unicode word sequences or individual non-whitespace punctuation. These are deterministic portable chunk units, not a claim about Gemini's private tokenizer.",
+  "external_model_calls": 1,
+  "external_model_calls_this_run": 1,
+  "batch_embed_items": 15,
+  "batch_usage_metadata": {
+    "promptTokenCount": 5369,
+    "promptTokenDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 5369
+      }
+    ]
+  },
+  "incremental_usd": 0,
+  "paid_fallback_used": false,
+  "source_range_notes": [
+    {
+      "pdf_page": 293,
+      "source_char_start": 40,
+      "source_char_end": 2762,
+      "excluded_range_reason": "Keep the Piper nigrum heading and primary description; exclude the following related-species descriptions."
+    },
+    {
+      "pdf_page": 294,
+      "source_char_start": 305,
+      "source_char_end": 979,
+      "excluded_range_reason": "Keep only Piper nigrum flowering and distribution before the related-species occurrence paragraphs."
+    },
+    {
+      "pdf_page": 295,
+      "source_char_start": 5477,
+      "source_char_end": 6430,
+      "excluded_range_reason": "Keep the explicitly headed black-pepper constituents passage through the page boundary."
+    },
+    {
+      "pdf_page": 296,
+      "source_char_start": 391,
+      "source_char_end": 4368,
+      "excluded_range_reason": "Keep the continuous Piperin chemistry and historical-use passages; exclude bibliography and caption from text retrieval."
+    }
+  ],
+  "attempt_history": [],
+  "profile_results": {
+    "page-baseline": {
+      "chunk_count": 4,
+      "page_chunk_counts": {
+        "293": 1,
+        "294": 1,
+        "295": 1,
+        "296": 1
+      },
+      "mean_mrr": 1.0,
+      "answer_recall_at_1": 1.0,
+      "answer_recall_at_3": 1.0,
+      "mean_evidence_margin": 0.042718,
+      "refusal_precision": 1.0,
+      "citation_completeness": 1.0,
+      "query_metrics": [
+        {
+          "query_id": "piper-piperin-zh-tw",
+          "expected_status": "answerable",
+          "answer_gate": "supporting_book_terms_found",
+          "relevant_chunk_count": 2,
+          "first_relevant_rank": 1,
+          "mrr": 1.0,
+          "recall_at_1": true,
+          "recall_at_3": true,
+          "evidence_margin": 0.053787,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-2:p296:piper-nigrum:page",
+              "pdf_page": 296,
+              "cosine_similarity": 0.805972,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-2:p295:piper-nigrum:page",
+              "pdf_page": 295,
+              "cosine_similarity": 0.771323,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-2:p293:piper-nigrum:page",
+              "pdf_page": 293,
+              "cosine_similarity": 0.752185,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-2:p294:piper-nigrum:page",
+              "pdf_page": 294,
+              "cosine_similarity": 0.741441,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "piper-piperine-en",
+          "expected_status": "answerable",
+          "answer_gate": "supporting_book_terms_found",
+          "relevant_chunk_count": 2,
+          "first_relevant_rank": 1,
+          "mrr": 1.0,
+          "recall_at_1": true,
+          "recall_at_3": true,
+          "evidence_margin": 0.037125,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-2:p296:piper-nigrum:page",
+              "pdf_page": 296,
+              "cosine_similarity": 0.802224,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-2:p295:piper-nigrum:page",
+              "pdf_page": 295,
+              "cosine_similarity": 0.795064,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-2:p293:piper-nigrum:page",
+              "pdf_page": 293,
+              "cosine_similarity": 0.765099,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-2:p294:piper-nigrum:page",
+              "pdf_page": 294,
+              "cosine_similarity": 0.760965,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "piper-distribution-zh-tw",
+          "expected_status": "answerable",
+          "answer_gate": "supporting_book_terms_found",
+          "relevant_chunk_count": 1,
+          "first_relevant_rank": 1,
+          "mrr": 1.0,
+          "recall_at_1": true,
+          "recall_at_3": true,
+          "evidence_margin": 0.037242,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-2:p294:piper-nigrum:page",
+              "pdf_page": 294,
+              "cosine_similarity": 0.788479,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-2:p293:piper-nigrum:page",
+              "pdf_page": 293,
+              "cosine_similarity": 0.751237,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-2:p296:piper-nigrum:page",
+              "pdf_page": 296,
+              "cosine_similarity": 0.713723,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-2:p295:piper-nigrum:page",
+              "pdf_page": 295,
+              "cosine_similarity": 0.707482,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "piper-ambiguous-pepper-zh-tw",
+          "expected_status": "ambiguous",
+          "answer_gate": "no_supporting_book_relation",
+          "refusal_correct": true,
+          "relevant_chunk_count": 0,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-2:p293:piper-nigrum:page",
+              "pdf_page": 293,
+              "cosine_similarity": 0.705246,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-2:p295:piper-nigrum:page",
+              "pdf_page": 295,
+              "cosine_similarity": 0.700662,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-2:p294:piper-nigrum:page",
+              "pdf_page": 294,
+              "cosine_similarity": 0.694413,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-2:p296:piper-nigrum:page",
+              "pdf_page": 296,
+              "cosine_similarity": 0.687289,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "piper-wrong-name-refusal-zh-tw",
+          "expected_status": "wrong_name",
+          "answer_gate": "no_supporting_book_relation",
+          "refusal_correct": true,
+          "relevant_chunk_count": 0,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-2:p296:piper-nigrum:page",
+              "pdf_page": 296,
+              "cosine_similarity": 0.756136,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-2:p293:piper-nigrum:page",
+              "pdf_page": 293,
+              "cosine_similarity": 0.739896,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-2:p294:piper-nigrum:page",
+              "pdf_page": 294,
+              "cosine_similarity": 0.735292,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-2:p295:piper-nigrum:page",
+              "pdf_page": 295,
+              "cosine_similarity": 0.728146,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "piper-chromosome-refusal-zh-tw",
+          "expected_status": "unanswerable",
+          "answer_gate": "no_supporting_book_relation",
+          "refusal_correct": true,
+          "relevant_chunk_count": 0,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-2:p293:piper-nigrum:page",
+              "pdf_page": 293,
+              "cosine_similarity": 0.709573,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-2:p294:piper-nigrum:page",
+              "pdf_page": 294,
+              "cosine_similarity": 0.705878,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-2:p295:piper-nigrum:page",
+              "pdf_page": 295,
+              "cosine_similarity": 0.683706,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-2:p296:piper-nigrum:page",
+              "pdf_page": 296,
+              "cosine_similarity": 0.681874,
+              "has_required_book_term": false
+            }
+          ]
+        }
+      ]
+    },
+    "section-aware-512-100-v1": {
+      "chunk_count": 5,
+      "page_chunk_counts": {
+        "293": 1,
+        "294": 1,
+        "295": 1,
+        "296": 2
+      },
+      "mean_mrr": 1.0,
+      "answer_recall_at_1": 1.0,
+      "answer_recall_at_3": 1.0,
+      "mean_evidence_margin": 0.045361,
+      "refusal_precision": 1.0,
+      "citation_completeness": 1.0,
+      "query_metrics": [
+        {
+          "query_id": "piper-piperin-zh-tw",
+          "expected_status": "answerable",
+          "answer_gate": "supporting_book_terms_found",
+          "relevant_chunk_count": 3,
+          "first_relevant_rank": 1,
+          "mrr": 1.0,
+          "recall_at_1": true,
+          "recall_at_3": true,
+          "evidence_margin": 0.055931,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-2:p296:piper-nigrum:section-aware-512-100-v1:c00",
+              "pdf_page": 296,
+              "cosine_similarity": 0.804444,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-2:p296:piper-nigrum:section-aware-512-100-v1:c01",
+              "pdf_page": 296,
+              "cosine_similarity": 0.784026,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-2:p295:piper-nigrum:section-aware-512-100-v1:c00",
+              "pdf_page": 295,
+              "cosine_similarity": 0.769375,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-2:p293:piper-nigrum:section-aware-512-100-v1:c00",
+              "pdf_page": 293,
+              "cosine_similarity": 0.748513,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 5,
+              "chunk_id": "kohler-volume-2:p294:piper-nigrum:section-aware-512-100-v1:c00",
+              "pdf_page": 294,
+              "cosine_similarity": 0.738114,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "piper-piperine-en",
+          "expected_status": "answerable",
+          "answer_gate": "supporting_book_terms_found",
+          "relevant_chunk_count": 3,
+          "first_relevant_rank": 1,
+          "mrr": 1.0,
+          "recall_at_1": true,
+          "recall_at_3": true,
+          "evidence_margin": 0.044475,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-2:p296:piper-nigrum:section-aware-512-100-v1:c00",
+              "pdf_page": 296,
+              "cosine_similarity": 0.808087,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-2:p295:piper-nigrum:section-aware-512-100-v1:c00",
+              "pdf_page": 295,
+              "cosine_similarity": 0.793335,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-2:p296:piper-nigrum:section-aware-512-100-v1:c01",
+              "pdf_page": 296,
+              "cosine_similarity": 0.792276,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-2:p293:piper-nigrum:section-aware-512-100-v1:c00",
+              "pdf_page": 293,
+              "cosine_similarity": 0.763612,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 5,
+              "chunk_id": "kohler-volume-2:p294:piper-nigrum:section-aware-512-100-v1:c00",
+              "pdf_page": 294,
+              "cosine_similarity": 0.760431,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "piper-distribution-zh-tw",
+          "expected_status": "answerable",
+          "answer_gate": "supporting_book_terms_found",
+          "relevant_chunk_count": 1,
+          "first_relevant_rank": 1,
+          "mrr": 1.0,
+          "recall_at_1": true,
+          "recall_at_3": true,
+          "evidence_margin": 0.035678,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-2:p294:piper-nigrum:section-aware-512-100-v1:c00",
+              "pdf_page": 294,
+              "cosine_similarity": 0.784412,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-2:p293:piper-nigrum:section-aware-512-100-v1:c00",
+              "pdf_page": 293,
+              "cosine_similarity": 0.748734,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-2:p296:piper-nigrum:section-aware-512-100-v1:c01",
+              "pdf_page": 296,
+              "cosine_similarity": 0.718184,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-2:p296:piper-nigrum:section-aware-512-100-v1:c00",
+              "pdf_page": 296,
+              "cosine_similarity": 0.709299,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 5,
+              "chunk_id": "kohler-volume-2:p295:piper-nigrum:section-aware-512-100-v1:c00",
+              "pdf_page": 295,
+              "cosine_similarity": 0.704964,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "piper-ambiguous-pepper-zh-tw",
+          "expected_status": "ambiguous",
+          "answer_gate": "no_supporting_book_relation",
+          "refusal_correct": true,
+          "relevant_chunk_count": 0,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-2:p296:piper-nigrum:section-aware-512-100-v1:c01",
+              "pdf_page": 296,
+              "cosine_similarity": 0.705694,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-2:p293:piper-nigrum:section-aware-512-100-v1:c00",
+              "pdf_page": 293,
+              "cosine_similarity": 0.700892,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-2:p295:piper-nigrum:section-aware-512-100-v1:c00",
+              "pdf_page": 295,
+              "cosine_similarity": 0.698112,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-2:p294:piper-nigrum:section-aware-512-100-v1:c00",
+              "pdf_page": 294,
+              "cosine_similarity": 0.692174,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 5,
+              "chunk_id": "kohler-volume-2:p296:piper-nigrum:section-aware-512-100-v1:c00",
+              "pdf_page": 296,
+              "cosine_similarity": 0.689989,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "piper-wrong-name-refusal-zh-tw",
+          "expected_status": "wrong_name",
+          "answer_gate": "no_supporting_book_relation",
+          "refusal_correct": true,
+          "relevant_chunk_count": 0,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-2:p296:piper-nigrum:section-aware-512-100-v1:c00",
+              "pdf_page": 296,
+              "cosine_similarity": 0.753294,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-2:p296:piper-nigrum:section-aware-512-100-v1:c01",
+              "pdf_page": 296,
+              "cosine_similarity": 0.743476,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-2:p293:piper-nigrum:section-aware-512-100-v1:c00",
+              "pdf_page": 293,
+              "cosine_similarity": 0.73674,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-2:p294:piper-nigrum:section-aware-512-100-v1:c00",
+              "pdf_page": 294,
+              "cosine_similarity": 0.73217,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 5,
+              "chunk_id": "kohler-volume-2:p295:piper-nigrum:section-aware-512-100-v1:c00",
+              "pdf_page": 295,
+              "cosine_similarity": 0.727103,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "piper-chromosome-refusal-zh-tw",
+          "expected_status": "unanswerable",
+          "answer_gate": "no_supporting_book_relation",
+          "refusal_correct": true,
+          "relevant_chunk_count": 0,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-2:p293:piper-nigrum:section-aware-512-100-v1:c00",
+              "pdf_page": 293,
+              "cosine_similarity": 0.710443,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-2:p294:piper-nigrum:section-aware-512-100-v1:c00",
+              "pdf_page": 294,
+              "cosine_similarity": 0.703197,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-2:p296:piper-nigrum:section-aware-512-100-v1:c01",
+              "pdf_page": 296,
+              "cosine_similarity": 0.69363,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-2:p296:piper-nigrum:section-aware-512-100-v1:c00",
+              "pdf_page": 296,
+              "cosine_similarity": 0.688961,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 5,
+              "chunk_id": "kohler-volume-2:p295:piper-nigrum:section-aware-512-100-v1:c00",
+              "pdf_page": 295,
+              "cosine_similarity": 0.681956,
+              "has_required_book_term": false
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "selected_profile": "section-aware-512-100-v1",
+  "selected_profile_review_status": "approved_bounded_hybrid_batch",
+  "verdict": "promote",
+  "promotion_scope": "Piper nigrum PDF pages 293-296 reviewed source ranges only; related Piper taxa, plate image and full-volume content are excluded",
+  "pure_semantic_verdict": "promote",
+  "pure_semantic_selected_profile": "section-aware-512-100-v1",
+  "hybrid_parent_results": {
+    "page-baseline": {
+      "fusion_contract": "cosine + 0.08 * deterministic lexical coverage, then max score per parent page",
+      "query_results": [
+        {
+          "query_id": "piper-piperin-zh-tw",
+          "expected_status": "answerable",
+          "expanded_lexical_terms": [
+            "piperin"
+          ],
+          "answer_gate": "answerable_with_page_evidence",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-2:p296:piper-nigrum:page",
+              "parent_chunk_id": "kohler-volume-2:p296:piper-nigrum:page",
+              "pdf_page": 296,
+              "semantic_score": 0.805972,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.885972,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p296:piper-nigrum:page"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-2:p296:piper-nigrum:page"
+              ],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-2:p295:piper-nigrum:page",
+              "parent_chunk_id": "kohler-volume-2:p295:piper-nigrum:page",
+              "pdf_page": 295,
+              "semantic_score": 0.771323,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.851323,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p295:piper-nigrum:page"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-2:p295:piper-nigrum:page"
+              ],
+              "rank": 2
+            },
+            {
+              "chunk_id": "kohler-volume-2:p293:piper-nigrum:page",
+              "parent_chunk_id": "kohler-volume-2:p293:piper-nigrum:page",
+              "pdf_page": 293,
+              "semantic_score": 0.752185,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.752185,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p293:piper-nigrum:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 3
+            },
+            {
+              "chunk_id": "kohler-volume-2:p294:piper-nigrum:page",
+              "parent_chunk_id": "kohler-volume-2:p294:piper-nigrum:page",
+              "pdf_page": 294,
+              "semantic_score": 0.741441,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.741441,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p294:piper-nigrum:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 4
+            }
+          ]
+        },
+        {
+          "query_id": "piper-piperine-en",
+          "expected_status": "answerable",
+          "expanded_lexical_terms": [
+            "piperin"
+          ],
+          "answer_gate": "answerable_with_page_evidence",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-2:p296:piper-nigrum:page",
+              "parent_chunk_id": "kohler-volume-2:p296:piper-nigrum:page",
+              "pdf_page": 296,
+              "semantic_score": 0.802224,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.882224,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p296:piper-nigrum:page"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-2:p296:piper-nigrum:page"
+              ],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-2:p295:piper-nigrum:page",
+              "parent_chunk_id": "kohler-volume-2:p295:piper-nigrum:page",
+              "pdf_page": 295,
+              "semantic_score": 0.795064,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.875064,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p295:piper-nigrum:page"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-2:p295:piper-nigrum:page"
+              ],
+              "rank": 2
+            },
+            {
+              "chunk_id": "kohler-volume-2:p293:piper-nigrum:page",
+              "parent_chunk_id": "kohler-volume-2:p293:piper-nigrum:page",
+              "pdf_page": 293,
+              "semantic_score": 0.765099,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.765099,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p293:piper-nigrum:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 3
+            },
+            {
+              "chunk_id": "kohler-volume-2:p294:piper-nigrum:page",
+              "parent_chunk_id": "kohler-volume-2:p294:piper-nigrum:page",
+              "pdf_page": 294,
+              "semantic_score": 0.760965,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.760965,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p294:piper-nigrum:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 4
+            }
+          ]
+        },
+        {
+          "query_id": "piper-distribution-zh-tw",
+          "expected_status": "answerable",
+          "expanded_lexical_terms": [
+            "malabarküste",
+            "südindien"
+          ],
+          "answer_gate": "answerable_with_page_evidence",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-2:p294:piper-nigrum:page",
+              "parent_chunk_id": "kohler-volume-2:p294:piper-nigrum:page",
+              "pdf_page": 294,
+              "semantic_score": 0.788479,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.868479,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p294:piper-nigrum:page"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-2:p294:piper-nigrum:page"
+              ],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-2:p293:piper-nigrum:page",
+              "parent_chunk_id": "kohler-volume-2:p293:piper-nigrum:page",
+              "pdf_page": 293,
+              "semantic_score": 0.751237,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.751237,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p293:piper-nigrum:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            },
+            {
+              "chunk_id": "kohler-volume-2:p296:piper-nigrum:page",
+              "parent_chunk_id": "kohler-volume-2:p296:piper-nigrum:page",
+              "pdf_page": 296,
+              "semantic_score": 0.713723,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.713723,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p296:piper-nigrum:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 3
+            },
+            {
+              "chunk_id": "kohler-volume-2:p295:piper-nigrum:page",
+              "parent_chunk_id": "kohler-volume-2:p295:piper-nigrum:page",
+              "pdf_page": 295,
+              "semantic_score": 0.707482,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.707482,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p295:piper-nigrum:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 4
+            }
+          ]
+        },
+        {
+          "query_id": "piper-ambiguous-pepper-zh-tw",
+          "expected_status": "ambiguous",
+          "expanded_lexical_terms": [],
+          "answer_gate": "refuse_no_book_relation",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-2:p293:piper-nigrum:page",
+              "parent_chunk_id": "kohler-volume-2:p293:piper-nigrum:page",
+              "pdf_page": 293,
+              "semantic_score": 0.705246,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.705246,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p293:piper-nigrum:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-2:p295:piper-nigrum:page",
+              "parent_chunk_id": "kohler-volume-2:p295:piper-nigrum:page",
+              "pdf_page": 295,
+              "semantic_score": 0.700662,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.700662,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p295:piper-nigrum:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            },
+            {
+              "chunk_id": "kohler-volume-2:p294:piper-nigrum:page",
+              "parent_chunk_id": "kohler-volume-2:p294:piper-nigrum:page",
+              "pdf_page": 294,
+              "semantic_score": 0.694413,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.694413,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p294:piper-nigrum:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 3
+            },
+            {
+              "chunk_id": "kohler-volume-2:p296:piper-nigrum:page",
+              "parent_chunk_id": "kohler-volume-2:p296:piper-nigrum:page",
+              "pdf_page": 296,
+              "semantic_score": 0.687289,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.687289,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p296:piper-nigrum:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 4
+            }
+          ]
+        },
+        {
+          "query_id": "piper-wrong-name-refusal-zh-tw",
+          "expected_status": "wrong_name",
+          "expanded_lexical_terms": [
+            "piperin"
+          ],
+          "answer_gate": "refuse_no_book_relation",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-2:p296:piper-nigrum:page",
+              "parent_chunk_id": "kohler-volume-2:p296:piper-nigrum:page",
+              "pdf_page": 296,
+              "semantic_score": 0.756136,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.836136,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p296:piper-nigrum:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-2:p295:piper-nigrum:page",
+              "parent_chunk_id": "kohler-volume-2:p295:piper-nigrum:page",
+              "pdf_page": 295,
+              "semantic_score": 0.728146,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.808146,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p295:piper-nigrum:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            },
+            {
+              "chunk_id": "kohler-volume-2:p293:piper-nigrum:page",
+              "parent_chunk_id": "kohler-volume-2:p293:piper-nigrum:page",
+              "pdf_page": 293,
+              "semantic_score": 0.739896,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.739896,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p293:piper-nigrum:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 3
+            },
+            {
+              "chunk_id": "kohler-volume-2:p294:piper-nigrum:page",
+              "parent_chunk_id": "kohler-volume-2:p294:piper-nigrum:page",
+              "pdf_page": 294,
+              "semantic_score": 0.735292,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.735292,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p294:piper-nigrum:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 4
+            }
+          ]
+        },
+        {
+          "query_id": "piper-chromosome-refusal-zh-tw",
+          "expected_status": "unanswerable",
+          "expanded_lexical_terms": [
+            "chromosom"
+          ],
+          "answer_gate": "refuse_no_book_relation",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-2:p293:piper-nigrum:page",
+              "parent_chunk_id": "kohler-volume-2:p293:piper-nigrum:page",
+              "pdf_page": 293,
+              "semantic_score": 0.709573,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.709573,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p293:piper-nigrum:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-2:p294:piper-nigrum:page",
+              "parent_chunk_id": "kohler-volume-2:p294:piper-nigrum:page",
+              "pdf_page": 294,
+              "semantic_score": 0.705878,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.705878,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p294:piper-nigrum:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            },
+            {
+              "chunk_id": "kohler-volume-2:p295:piper-nigrum:page",
+              "parent_chunk_id": "kohler-volume-2:p295:piper-nigrum:page",
+              "pdf_page": 295,
+              "semantic_score": 0.683706,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.683706,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p295:piper-nigrum:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 3
+            },
+            {
+              "chunk_id": "kohler-volume-2:p296:piper-nigrum:page",
+              "parent_chunk_id": "kohler-volume-2:p296:piper-nigrum:page",
+              "pdf_page": 296,
+              "semantic_score": 0.681874,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.681874,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p296:piper-nigrum:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 4
+            }
+          ]
+        }
+      ],
+      "all_gates_pass": true
+    },
+    "section-aware-512-100-v1": {
+      "fusion_contract": "cosine + 0.08 * deterministic lexical coverage, then max score per parent page",
+      "query_results": [
+        {
+          "query_id": "piper-piperin-zh-tw",
+          "expected_status": "answerable",
+          "expanded_lexical_terms": [
+            "piperin"
+          ],
+          "answer_gate": "answerable_with_page_evidence",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-2:p296:piper-nigrum:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p296:piper-nigrum:page",
+              "pdf_page": 296,
+              "semantic_score": 0.804444,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.884444,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p296:piper-nigrum:section-aware-512-100-v1:c00",
+                "kohler-volume-2:p296:piper-nigrum:section-aware-512-100-v1:c01"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-2:p296:piper-nigrum:section-aware-512-100-v1:c00",
+                "kohler-volume-2:p296:piper-nigrum:section-aware-512-100-v1:c01"
+              ],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-2:p295:piper-nigrum:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p295:piper-nigrum:page",
+              "pdf_page": 295,
+              "semantic_score": 0.769375,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.849375,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p295:piper-nigrum:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-2:p295:piper-nigrum:section-aware-512-100-v1:c00"
+              ],
+              "rank": 2
+            },
+            {
+              "chunk_id": "kohler-volume-2:p293:piper-nigrum:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p293:piper-nigrum:page",
+              "pdf_page": 293,
+              "semantic_score": 0.748513,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.748513,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p293:piper-nigrum:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 3
+            },
+            {
+              "chunk_id": "kohler-volume-2:p294:piper-nigrum:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p294:piper-nigrum:page",
+              "pdf_page": 294,
+              "semantic_score": 0.738114,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.738114,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p294:piper-nigrum:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 4
+            }
+          ]
+        },
+        {
+          "query_id": "piper-piperine-en",
+          "expected_status": "answerable",
+          "expanded_lexical_terms": [
+            "piperin"
+          ],
+          "answer_gate": "answerable_with_page_evidence",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-2:p296:piper-nigrum:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p296:piper-nigrum:page",
+              "pdf_page": 296,
+              "semantic_score": 0.808087,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.888087,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p296:piper-nigrum:section-aware-512-100-v1:c00",
+                "kohler-volume-2:p296:piper-nigrum:section-aware-512-100-v1:c01"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-2:p296:piper-nigrum:section-aware-512-100-v1:c00",
+                "kohler-volume-2:p296:piper-nigrum:section-aware-512-100-v1:c01"
+              ],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-2:p295:piper-nigrum:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p295:piper-nigrum:page",
+              "pdf_page": 295,
+              "semantic_score": 0.793335,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.873335,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p295:piper-nigrum:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-2:p295:piper-nigrum:section-aware-512-100-v1:c00"
+              ],
+              "rank": 2
+            },
+            {
+              "chunk_id": "kohler-volume-2:p293:piper-nigrum:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p293:piper-nigrum:page",
+              "pdf_page": 293,
+              "semantic_score": 0.763612,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.763612,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p293:piper-nigrum:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 3
+            },
+            {
+              "chunk_id": "kohler-volume-2:p294:piper-nigrum:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p294:piper-nigrum:page",
+              "pdf_page": 294,
+              "semantic_score": 0.760431,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.760431,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p294:piper-nigrum:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 4
+            }
+          ]
+        },
+        {
+          "query_id": "piper-distribution-zh-tw",
+          "expected_status": "answerable",
+          "expanded_lexical_terms": [
+            "malabarküste",
+            "südindien"
+          ],
+          "answer_gate": "answerable_with_page_evidence",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-2:p294:piper-nigrum:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p294:piper-nigrum:page",
+              "pdf_page": 294,
+              "semantic_score": 0.784412,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.864412,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p294:piper-nigrum:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-2:p294:piper-nigrum:section-aware-512-100-v1:c00"
+              ],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-2:p293:piper-nigrum:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p293:piper-nigrum:page",
+              "pdf_page": 293,
+              "semantic_score": 0.748734,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.748734,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p293:piper-nigrum:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            },
+            {
+              "chunk_id": "kohler-volume-2:p296:piper-nigrum:section-aware-512-100-v1:c01",
+              "parent_chunk_id": "kohler-volume-2:p296:piper-nigrum:page",
+              "pdf_page": 296,
+              "semantic_score": 0.718184,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.718184,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p296:piper-nigrum:section-aware-512-100-v1:c01",
+                "kohler-volume-2:p296:piper-nigrum:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 3
+            },
+            {
+              "chunk_id": "kohler-volume-2:p295:piper-nigrum:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p295:piper-nigrum:page",
+              "pdf_page": 295,
+              "semantic_score": 0.704964,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.704964,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p295:piper-nigrum:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 4
+            }
+          ]
+        },
+        {
+          "query_id": "piper-ambiguous-pepper-zh-tw",
+          "expected_status": "ambiguous",
+          "expanded_lexical_terms": [],
+          "answer_gate": "refuse_no_book_relation",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-2:p296:piper-nigrum:section-aware-512-100-v1:c01",
+              "parent_chunk_id": "kohler-volume-2:p296:piper-nigrum:page",
+              "pdf_page": 296,
+              "semantic_score": 0.705694,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.705694,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p296:piper-nigrum:section-aware-512-100-v1:c01",
+                "kohler-volume-2:p296:piper-nigrum:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-2:p293:piper-nigrum:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p293:piper-nigrum:page",
+              "pdf_page": 293,
+              "semantic_score": 0.700892,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.700892,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p293:piper-nigrum:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            },
+            {
+              "chunk_id": "kohler-volume-2:p295:piper-nigrum:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p295:piper-nigrum:page",
+              "pdf_page": 295,
+              "semantic_score": 0.698112,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.698112,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p295:piper-nigrum:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 3
+            },
+            {
+              "chunk_id": "kohler-volume-2:p294:piper-nigrum:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p294:piper-nigrum:page",
+              "pdf_page": 294,
+              "semantic_score": 0.692174,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.692174,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p294:piper-nigrum:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 4
+            }
+          ]
+        },
+        {
+          "query_id": "piper-wrong-name-refusal-zh-tw",
+          "expected_status": "wrong_name",
+          "expanded_lexical_terms": [
+            "piperin"
+          ],
+          "answer_gate": "refuse_no_book_relation",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-2:p296:piper-nigrum:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p296:piper-nigrum:page",
+              "pdf_page": 296,
+              "semantic_score": 0.753294,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.833294,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p296:piper-nigrum:section-aware-512-100-v1:c00",
+                "kohler-volume-2:p296:piper-nigrum:section-aware-512-100-v1:c01"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-2:p295:piper-nigrum:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p295:piper-nigrum:page",
+              "pdf_page": 295,
+              "semantic_score": 0.727103,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.807103,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p295:piper-nigrum:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            },
+            {
+              "chunk_id": "kohler-volume-2:p293:piper-nigrum:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p293:piper-nigrum:page",
+              "pdf_page": 293,
+              "semantic_score": 0.73674,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.73674,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p293:piper-nigrum:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 3
+            },
+            {
+              "chunk_id": "kohler-volume-2:p294:piper-nigrum:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p294:piper-nigrum:page",
+              "pdf_page": 294,
+              "semantic_score": 0.73217,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.73217,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p294:piper-nigrum:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 4
+            }
+          ]
+        },
+        {
+          "query_id": "piper-chromosome-refusal-zh-tw",
+          "expected_status": "unanswerable",
+          "expanded_lexical_terms": [
+            "chromosom"
+          ],
+          "answer_gate": "refuse_no_book_relation",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-2:p293:piper-nigrum:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p293:piper-nigrum:page",
+              "pdf_page": 293,
+              "semantic_score": 0.710443,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.710443,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p293:piper-nigrum:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-2:p294:piper-nigrum:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p294:piper-nigrum:page",
+              "pdf_page": 294,
+              "semantic_score": 0.703197,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.703197,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p294:piper-nigrum:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            },
+            {
+              "chunk_id": "kohler-volume-2:p296:piper-nigrum:section-aware-512-100-v1:c01",
+              "parent_chunk_id": "kohler-volume-2:p296:piper-nigrum:page",
+              "pdf_page": 296,
+              "semantic_score": 0.69363,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.69363,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p296:piper-nigrum:section-aware-512-100-v1:c01",
+                "kohler-volume-2:p296:piper-nigrum:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 3
+            },
+            {
+              "chunk_id": "kohler-volume-2:p295:piper-nigrum:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p295:piper-nigrum:page",
+              "pdf_page": 295,
+              "semantic_score": 0.681956,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.681956,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p295:piper-nigrum:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 4
+            }
+          ]
+        }
+      ],
+      "all_gates_pass": true
+    }
+  },
+  "selection_basis": "deterministic bilingual domain-term expansion + lexical/semantic fusion + parent-page collapse + exact book-term gate"
+}

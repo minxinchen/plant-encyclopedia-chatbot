@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 477,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "f5faf8a507cbfd1bb3aff3a71deba3a54dfead4e8a94362b0d5567371498c68e",
+  "render_dpi": 144,
+  "render_sha256": "809846adec178ad132dd8a5fbca05f3e3ddbad54818540527c79ecaf153ead01",
+  "input_sha256": "809846adec178ad132dd8a5fbca05f3e3ddbad54818540527c79ecaf153ead01",
+  "render_pixel_width": 5822,
+  "render_pixel_height": 8414,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 5.511,
+  "embedded_character_count": 101,
+  "ocr_character_count": 53,
+  "ocr_alpha_ratio": 0.8491,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.018543048510475724,
+      "text": "Anacardiaceae",
+      "width": 0.12007284403701834,
+      "x": 0.2981568545454552,
+      "y": 0.9631121965954347
+    },
+    {
+      "confidence": 1,
+      "height": 0.01937232320270843,
+      "text": "(Mangifereae)",
+      "width": 0.11780519109472998,
+      "x": 0.29824026159389067,
+      "y": 0.9401684897503867
+    },
+    {
+      "confidence": 1,
+      "height": 0.020406514879256932,
+      "text": "Anacardium occidentale 1.",
+      "width": 0.23109242429015464,
+      "x": 0.41176471453559493,
+      "y": 0.03918650802451784
+    }
+  ],
+  "text": "Anacardiaceae\n(Mangifereae)\nAnacardium occidentale 1.",
+  "output_sha256": "2d3a0e29889fdfd6aacc2ca4dd7f706917b05f115df4ab8fa4e6d83694c361e1",
+  "receipt_sha256": "505797e38be8a141f77c44e531be5cac79d36732a6aac8a4a1a300e22d516e63"
+}

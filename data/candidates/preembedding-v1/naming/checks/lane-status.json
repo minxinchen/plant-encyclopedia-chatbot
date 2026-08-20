@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-08-13T14:06:50+08:00",
+  "lane_status": "caught_up_waiting_for_maker",
+  "maker_status": "running",
+  "maker_updated_at": "2026-08-13T14:06:14+08:00",
+  "eligibility_authority": "integration/embedding-ready-candidate-manifest.json",
+  "eligible_entries": 62,
+  "staged_entries": 62,
+  "pending_entries": [],
+  "terminal_status_counts": {
+    "accepted": 37,
+    "alias": 17,
+    "unresolved": 8
+  },
+  "display_name_source_scope_counts": {
+    "non_taiwan_traditional_fallback": 2,
+    "taiwan_academic_public": 4,
+    "taiwan_government_public": 13,
+    "taiwan_public_fallback": 2,
+    "taiwan_taxonomic_public": 33,
+    "unresolved": 8
+  },
+  "record_chunk_projection": "naming/checks/record-chunk-projection.json",
+  "source_scope_backfill": {
+    "artifacts": 62,
+    "changed": 0,
+    "source_scope_counts": {
+      "non_taiwan_traditional_fallback": 2,
+      "taiwan_academic_public": 4,
+      "taiwan_government_public": 13,
+      "taiwan_public_fallback": 2,
+      "taiwan_taxonomic_public": 33,
+      "unresolved": 8
+    }
+  },
+  "validation": {
+    "valid": true,
+    "eligibility_authority": "integration/embedding-ready-candidate-manifest.json",
+    "eligible_embedding_ready_candidates": 62,
+    "artifacts": 62,
+    "coverage": 1.0,
+    "missing_entries": [],
+    "ineligible_entries": [],
+    "terminal_status_counts": {
+      "accepted": 37,
+      "alias": 17,
+      "unresolved": 8
+    },
+    "display_name_source_scope_counts": {
+      "non_taiwan_traditional_fallback": 2,
+      "taiwan_academic_public": 4,
+      "taiwan_government_public": 13,
+      "taiwan_public_fallback": 2,
+      "taiwan_taxonomic_public": 33,
+      "unresolved": 8
+    },
+    "record_chunk_projection": "naming/checks/record-chunk-projection.json",
+    "failures": []
+  },
+  "taicol_created_this_iteration": 0,
+  "taicol_book_alias_checked_this_iteration": 0,
+  "taicol_book_alias_promoted_this_iteration": 0,
+  "tai2_checked_this_iteration": 0,
+  "external_fact_policy": "naming and occurrence metadata only; no Köhler facts",
+  "canonical_writes": false
+}

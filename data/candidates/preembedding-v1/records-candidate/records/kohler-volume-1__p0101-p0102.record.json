@@ -1,0 +1,261 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0101-p0102",
+  "entry_id": "kohler-volume-1:p0101-p0102",
+  "owner_shard": "S01",
+  "book_taxon": {
+    "scientific_name": "Symphytum officinale",
+    "authorship": null,
+    "aliases": [
+      "Schwarzwurz",
+      "Wallwurz",
+      "Beinwell",
+      "Comfrey",
+      "Consoude (grande)",
+      "Radix Consolidae majoris",
+      "Radix Symphyti"
+    ]
+  },
+  "display_name": "康復力",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Symphytum officinale"
+    ],
+    "accepted_scientific_name": "Symphytum officinale",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T19:53:36+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Symphytum+officinale",
+        "query_name": "Symphytum officinale",
+        "retrieved_at": "2026-08-13T19:53:36+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0055493",
+        "query_name": "Symphytum officinale",
+        "retrieved_at": "2026-08-13T19:53:36+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0055493",
+        "query_name": "Symphytum officinale",
+        "retrieved_at": "2026-08-13T19:53:36+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL accepts the queried book binomial at species rank."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 101,
+      "evidence_type": "text",
+      "page_text_sha256": "81ce897d0283e59df15b5e2e77dabbce3132e550f87b2227b0f9140c665d9720",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 102,
+      "evidence_type": "text",
+      "page_text_sha256": "cdd772c868f785b519736690f7c2ffc2b83558c6884a492f4d698aeac962fac5",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0101-p0102:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                         Symphytum officinale L.\n\n      Schwarzwurz, Wallwurz,                offizineller            Beinwell             Comfrey                    Consoude (grande).\n\n\n          Familie: Boragineae.             Gattung: Symphytum Tourn.                          •",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Symphytum officinale L.，屬紫草科。俗名 Schwarzwurz、Wallwurz、Beinwell。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 101,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 0,
+        "char_end": 298,
+        "page_text_sha256": "81ce897d0283e59df15b5e2e77dabbce3132e550f87b2227b0f9140c665d9720",
+        "exact_text_sha256": "c5fba5127f1da3d728706bfe18bba756ddee46936b7e072fdd916b4870e06503",
+        "source_line_start": 1,
+        "source_line_end": 6,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "c5fba5127f1da3d728706bfe18bba756ddee46936b7e072fdd916b4870e06503",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0101-p0102:s01:x00",
+      "section_type": "description",
+      "original_text": "          Beschreibung.            Perennirende     ,    0,30      — 1,0 m hohe Pflanze, mit langen, fleischigen, spindel-\nformigen,              oben 2 cm dicken, mit braunschwarzer Rinde bedeckten Wurzeln und einem\n               verzweigten,\n                    *\n\n\n\n\noder mehreren, dicken, astigen, unterwarts stumpfkantigen Stengeln. Blatter lang herablanfend die                                                             ,\n\n\n\n\nunteren   grossen       eiformig   bis   langlich- lanzettlich,         in   den gefliigelten Stiel verschmalert,                                   die   oberen\nlanzettlich und sitzend.      Bliithenstand eine unbeblatterte, gipfel- oder blattachselstandige, einseitswendige,\nvor  dem Bluhen schneckenformig znriickgerollte Traube bildend. Kelch tief 5theilig, bleibend. Kelch-\nzipfel lanzettlich, zugespitzt, dem Kronenrohre angedriickt. Krone rohrig, tiber cler Mitte bauchig, fast\nglockig erweitert, mit breit 5zahnigem, etwas zuruckgekriimmtem Saume nnd 5 lanzettformigen auf-                                                          ,",
+      "normalized_text": null,
+      "zh_tw_rendering": "多年生草本，高 0.3-1 米。根長、肉質、紡錘形，皮黑褐色。莖多分枝。葉下大上小。花序為單側總狀。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 101,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 303,
+        "char_end": 1377,
+        "page_text_sha256": "81ce897d0283e59df15b5e2e77dabbce3132e550f87b2227b0f9140c665d9720",
+        "exact_text_sha256": "15c45bda4cfc13a0b0cde9ba24a9ec1f549ae93ea1e98e8d94278b69202cdfd4",
+        "source_line_start": 11,
+        "source_line_end": 28,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "15c45bda4cfc13a0b0cde9ba24a9ec1f549ae93ea1e98e8d94278b69202cdfd4",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0101-p0102:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "          Anatoinisclies : Der Wurzelquerschnitt zeigt eine diinne,                   aussen schwarzbraune Rincle und ein weisses, aus\ndreieckigen Gefassbundeln bestehendes Holz; die Gefassbiindel zwischen breiten Markstrahlen sternformig verlaufend.\nDas sehr' enge Mark nicht bis in die Wurzelspitze vordringend. Das Rinden- und Markstrahlenparenchym enthalt viel\nPfianzenschleim und Starkemehl; letzteres in zahlreichen, kugeligen Kornern auftretencl.",
+      "normalized_text": null,
+      "zh_tw_rendering": "根橫切面示黑褐色外皮及白色木質部。維管束星狀排列。皮層與髓射線含大量植物黏液與澱粉。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 101,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 2941,
+        "char_end": 3394,
+        "page_text_sha256": "81ce897d0283e59df15b5e2e77dabbce3132e550f87b2227b0f9140c665d9720",
+        "exact_text_sha256": "d7915c7efad6273835bc2fa056dc95f4a500112f964cc61ebacf934eaf89c732",
+        "source_line_start": 57,
+        "source_line_end": 60,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "d7915c7efad6273835bc2fa056dc95f4a500112f964cc61ebacf934eaf89c732",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0101-p0102:s03:x00",
+      "section_type": "distribution",
+      "original_text": "          Verbreitung.             An    feuchten       Orten,       Graben,        Bachen, Wiesen,                durch den grossten Theil\nEuropas verbreitet.",
+      "normalized_text": null,
+      "zh_tw_rendering": "分佈於歐洲大部分地區，生長於潮濕處、溝渠、溪流旁及草地。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 101,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 3396,
+        "char_end": 3555,
+        "page_text_sha256": "81ce897d0283e59df15b5e2e77dabbce3132e550f87b2227b0f9140c665d9720",
+        "exact_text_sha256": "a36926c803053bb91d74a325a0691314a17656e84c2b580fe6768e8edfe1a0b3",
+        "source_line_start": 62,
+        "source_line_end": 63,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "a36926c803053bb91d74a325a0691314a17656e84c2b580fe6768e8edfe1a0b3",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0101-p0102:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "          Name und Geschichtliches.                       Der Name Schwarzwurz     von der schwarz-       ist    abgeleitet\n\nlichen Farbe der Wurzelrinde.  Beinwell, mittelniederdeutsch Beenwell, bei Brunfels, Cordus und\nBock Beinivellen soil von wohl, dem englischen well abstammen und sich auf die heilenden (namentlich\nknochenheilenden) Eigenschaften (daher auch Beinheil) der Pflanze beziehen. Symphytum stammt von\n             des Dioscorides (ovpcpvo) zusammenwachsen                             lassen),       womit     letzterer     eine   dem Symphytum\n                                                                                                   *t                                  n   .-   1                 _\n\n\n\n\nofficinale\nConsolida oder Solidago benannt, von                    Fraas als Symphytum Brochum Bory mit Wahrscheinlichkeit\nbestimmt worden ist.          Plinius schatzte die Pflanze in arzneilicher Beziehung sehr hoch und schrieb ihr\neine aussergewohnliche wundenheilende   Kraft zu, die sich namentlich auch dadurch  aussere,  dass sie\n\nkochendem Fleische  zugesetzt, dasselbe  zusammenbacke.    Schwarzwurz  wurde  in alter  Zeit  als ein\n\nUniversalmittel betrachtet         und fand bei alien moglichen Krankheiten, sowohl innerlichen als ausserlichen,\nVerwendung.",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史記載：Plinius 稱其具強效癒合力。古時視為萬能藥，用於內外傷及骨折。名稱源於根皮顏色或癒合特性。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 101,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 3557,
+        "char_end": 4854,
+        "page_text_sha256": "81ce897d0283e59df15b5e2e77dabbce3132e550f87b2227b0f9140c665d9720",
+        "exact_text_sha256": "7f7b8e0819dc58dd9dc50c7e340eb7736e936e79a6ffc0bdfd4d6d95f87dfaba",
+        "source_line_start": 65,
+        "source_line_end": 84,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "7f7b8e0819dc58dd9dc50c7e340eb7736e936e79a6ffc0bdfd4d6d95f87dfaba",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0101-p0102:s05:x00",
+      "section_type": "constituents",
+      "original_text": "             Bestandtheile.         Wurzel\nGerbstoff,    Grallussaure, Zucker und nach Henry und Plisson Asparagin.",
+      "normalized_text": null,
+      "zh_tw_rendering": "根部成分：單寧、草酸、糖，以及 Henry 和 Plisson 發現的天門冬素。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 102,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 1105,
+        "char_end": 1220,
+        "page_text_sha256": "cdd772c868f785b519736690f7c2ffc2b83558c6884a492f4d698aeac962fac5",
+        "exact_text_sha256": "b6cf8c3c25aee2fc53f72376b4799154bfccf1f8a6fe1d186d5003ea20d423a9",
+        "source_line_start": 16,
+        "source_line_end": 17,
+        "section_index": 5,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "b6cf8c3c25aee2fc53f72376b4799154bfccf1f8a6fe1d186d5003ea20d423a9",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "507444563c2591ac204d6baaedb1dec477ed83e5b74d0efa8fc179e1365d70ee",
+    "maker_receipt_sha256": "e197f98194d100951f1b38f06708a28141b39e75e33adaf5ae391a9e0cb8481c",
+    "validation_check_sha256": "46ef21694fcedecd2acfdb785a667ce4c8902cd91baf4179cd3686972401cda6",
+    "source_disposition_sha256": "d803a5f5d96d9fdf7b8b6a7d57267940d0c7a939a17103c2c0ed4bfeac8a47f7",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "e197f98194d100951f1b38f06708a28141b39e75e33adaf5ae391a9e0cb8481c",
+      "validation_check_sha256": "46ef21694fcedecd2acfdb785a667ce4c8902cd91baf4179cd3686972401cda6",
+      "source_disposition_sha256": "d803a5f5d96d9fdf7b8b6a7d57267940d0c7a939a17103c2c0ed4bfeac8a47f7"
+    },
+    "naming_artifact_sha256": "c86d0397d16cba5eae266043bbc7801f21968400aa2200dab2f1de5d9472ce1f"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "42ffa6c6a720fde2fb85c9acd72ea7ce570364d096a46f39b377f2ca2508c772"
+}

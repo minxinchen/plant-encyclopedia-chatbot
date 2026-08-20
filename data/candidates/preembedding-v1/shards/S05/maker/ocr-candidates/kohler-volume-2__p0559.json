@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 559,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "a52dbddce181001957542ab506bd141e31652c4b7e5d8e8809964eef1740f350",
+  "render_dpi": 144,
+  "render_sha256": "7183fa6f46e2537a78e6a75439d1c138d90c6667dde14c79746b2e62aedf6769",
+  "input_sha256": "7183fa6f46e2537a78e6a75439d1c138d90c6667dde14c79746b2e62aedf6769",
+  "render_pixel_width": 5558,
+  "render_pixel_height": 8186,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.475,
+  "embedded_character_count": 81,
+  "ocr_character_count": 40,
+  "ocr_alpha_ratio": 0.65,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.024301131566365597,
+      "text": "Lobeliaceae.",
+      "width": 0.15237386632435856,
+      "x": 0.7964040751643056,
+      "y": 0.907907573619441
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "10",
+      "width": 0.021413276455017477,
+      "x": 0.149892933614033,
+      "y": 0.16133720914930905
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "8",
+      "width": 0.012847965873010514,
+      "x": 0.6488222696545011,
+      "y": 0.1700581397171701
+    },
+    {
+      "confidence": 1,
+      "height": 0.024709302281576417,
+      "text": "Lobelia",
+      "width": 0.08565310024710093,
+      "x": 0.3661670255188479,
+      "y": 0.12354651195877575
+    },
+    {
+      "confidence": 1,
+      "height": 0.01944846577114534,
+      "text": "inflata L.",
+      "width": 0.11796295634145026,
+      "x": 0.5523675568108395,
+      "y": 0.1290839068788292
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729363,
+      "text": "108",
+      "width": 0.019271948112894677,
+      "x": 0.9207708779992271,
+      "y": 0.03779069768228649
+    }
+  ],
+  "text": "Lobeliaceae.\n10\n8\nLobelia\ninflata L.\n108",
+  "output_sha256": "9bf2ff78179c01916dd935042bc4b571adf2f9c7402d2ae84d9b02d1fa51f357",
+  "receipt_sha256": "d40afd30d1c3eb3065fb422fefab5e6be39570c3e1161e8b4db83769385e932d"
+}

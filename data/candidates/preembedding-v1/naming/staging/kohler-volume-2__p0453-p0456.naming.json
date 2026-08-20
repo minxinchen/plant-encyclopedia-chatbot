@@ -1,0 +1,181 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-2:p0453-p0456",
+  "owner_shard": "S04",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S04/maker/structure-drafts/kohler-volume-2__p0453-p0456.json",
+  "source_draft_sha256": "7feeedebc6809da7072b516174d3a4555de6c462c66fd6a7c06ac2ad1894ce8e",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "7049620a44f93d8d5de5d8521cff10e75c7f03cf55de9739d3285b4dda16ffe4",
+    "validation_check_sha256": "162cef65f38093728424b117ae55422a534d8729ea66fff35d7a3f4401fb2d89",
+    "source_disposition_sha256": "eb6dacf7c4ed804b3ab19d84d1db4cfd60776d8dfbb62d1e13bda1c66f668cbc",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Garcinia Morella",
+    "authorship_candidate": "Desrousseaux",
+    "aliases_candidates": [
+      "G. Gutta Wight",
+      "G. pictoria Roxb.",
+      "G. cambogioides Royle",
+      "G. elliptica Wall.",
+      "G. Gaudichaudü et acuminata Planchon et Triana",
+      "Cambogia gutta Lindl.",
+      "Hebradendron campogioides Graham",
+      "Garcinia Morella var. pedicellata Hanb.",
+      "G. Hanburyi Hook."
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Garcinia Morella",
+      "Garcinia morella"
+    ],
+    "accepted_scientific_name": "Garcinia morella",
+    "display_name_zh_tw": "藤黃",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0074080",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary",
+    "rationale": "TaiCOL accepts the queried book binomial at species rank.",
+    "checked_at": "2026-08-13T19:35:04+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Garcinia Morella",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Garcinia+Morella",
+      "retrieved_at": "2026-08-13T19:35:04+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Garcinia",
+          "matched_name_id": 1454,
+          "taxon_id": "t0002597",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Garcinia",
+          "accepted_name_id": 1454,
+          "accepted_usage": [
+            {
+              "usage_id": 162763,
+              "reference_id": 1854,
+              "reference_type": "Journal Article",
+              "publish_year": 2017,
+              "citation": "Lin, C.-T. & Chung, K.-F. (2017) Phylogenetic Classification of Seed Plants of Taiwan. <i>Botanical Studies</i> 58(1): 52.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 178813,
+              "reference_id": 2454,
+              "reference_type": "Book",
+              "publish_year": 2017,
+              "citation": "Ed. Comm. Red List TW Plants,  (2017) The Red List of Vascular Plants of Taiwan, 2017 = 2017 臺灣維管束植物紅皮書名錄.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 273846,
+              "reference_id": 943,
+              "reference_type": "Book Chapter",
+              "publish_year": 1996,
+              "citation": "Robson, N.K.B. (1996) 46. Guttiferae. In: Flora of Taiwan, 2 ed., vol. 2. 694–714.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 7243,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": null
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0002597",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0002597",
+          "taxon": {
+            "taxon_id": "t0002597",
+            "taxon_status": "accepted",
+            "name_id": 1454,
+            "simple_name": "Garcinia",
+            "name_author": "L.",
+            "rank": "Genus",
+            "common_name_c": "福木屬",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": null,
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Garcinia morella",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Garcinia+morella",
+      "retrieved_at": "2026-08-13T19:35:04+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Garcinia morella",
+          "matched_name_id": 56612,
+          "taxon_id": "t0074080",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Garcinia morella",
+          "accepted_name_id": 56612,
+          "accepted_usage": [
+            {
+              "usage_id": 40544,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0074080",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0074080",
+          "taxon": {
+            "taxon_id": "t0074080",
+            "taxon_status": "accepted",
+            "name_id": 56612,
+            "simple_name": "Garcinia morella",
+            "name_author": "Desv.",
+            "rank": "Species",
+            "common_name_c": "藤黃",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

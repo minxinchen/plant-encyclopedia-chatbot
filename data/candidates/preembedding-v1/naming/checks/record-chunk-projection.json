@@ -1,0 +1,3858 @@
+{
+  "schema_version": "1.0",
+  "projection": "record_and_chunk_naming_metadata",
+  "eligibility_authority": "integration/embedding-ready-candidate-manifest.json",
+  "validation_valid": true,
+  "contract": {
+    "display_name_source_scope_enum": [
+      "non_taiwan_traditional_fallback",
+      "taiwan_academic_public",
+      "taiwan_government_public",
+      "taiwan_public_fallback",
+      "taiwan_taxonomic_public",
+      "unresolved"
+    ],
+    "evidence_source_scope_enum": [
+      "kohler_source_visual",
+      "non_taiwan_scientific_authority",
+      "non_taiwan_traditional_fallback",
+      "other_external_support",
+      "taiwan_academic_public",
+      "taiwan_government_public",
+      "taiwan_public_fallback",
+      "taiwan_taxonomic_public",
+      "unresolved"
+    ],
+    "taiwan_primary_scopes": [
+      "taiwan_academic_public",
+      "taiwan_government_public",
+      "taiwan_public_fallback",
+      "taiwan_taxonomic_public"
+    ],
+    "non_taiwan_fallback_requires_label": true,
+    "unresolved_answer_uses_scientific_name_only": true,
+    "book_facts_included": false
+  },
+  "entries": [
+    {
+      "entry_id": "kohler-volume-1:p0009-p0012",
+      "candidate_sha256": "11036c304816d89bbaf61987b535f7aa96d428abc7311e86419f1521152110f9",
+      "validation_check_sha256": "2fdc7ef31cc2d1054bd8b272d70034ed40d436c388047041a28290b4ee49a7c4",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Laurus nobilis",
+      "display_name_zh_tw": "月桂",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T12:27:08+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0013-p0016",
+      "candidate_sha256": "6f871bfa8958c2d31376573e09896111c84a99c73f409bf26a1171f70c3b81b1",
+      "validation_check_sha256": "f939d7e4322396c8021c457bef755a5aace522cfee111d9ddb4fb29fbac06541",
+      "naming_terminal_status": "alias",
+      "accepted_scientific_name": "Citrus × aurantium",
+      "display_name_zh_tw": "來母",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T12:27:08+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0017-p0020",
+      "candidate_sha256": "26b2550c7f6aff31c52a4a49d0e0c2bff5136cbb18d7977ff97ed2e3b0ac2b49",
+      "validation_check_sha256": "55e69e4ae32c064977b72084d6e262ca9e77cd2e603fe2ed04a87cb02551d4bb",
+      "naming_terminal_status": "alias",
+      "accepted_scientific_name": "Citrus limon",
+      "display_name_zh_tw": "檸檬",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T12:39:47+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0021-p0024",
+      "candidate_sha256": "71975a3a721b3de9187528c6d8c423663ed4ba7283796580993e6676c158d658",
+      "validation_check_sha256": "25287b2c0e63898a5de4c2354a261d370195494277c1c7f3f9ab7eb63f490ad3",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Juglans regia",
+      "display_name_zh_tw": "核桃",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T12:32:16+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0025-p0028",
+      "candidate_sha256": "33b668562f03cc2c8e492b4f27fd6c4ccf71565295ac98d4b4d76c2d57a68df7",
+      "validation_check_sha256": "f9b68877ae867011305834dca9e18b0c1bb3e348b573e8f70dd5c3c2ae524749",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Taraxacum officinale",
+      "display_name_zh_tw": "西洋蒲公英",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T12:49:03+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0029-p0030",
+      "candidate_sha256": "bf7c6dfe4fbcf2368c58d8af0ebf3899b9e314752470a66d31b62adcbd5d732f",
+      "validation_check_sha256": "292cc1efbb17044bfa65a663f3966a451df1d9e352eab88bbad4f83e70b38adf",
+      "naming_terminal_status": "alias",
+      "accepted_scientific_name": "Pinus sylvestris",
+      "display_name_zh_tw": "歐洲松",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol_book_alias"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T13:12:00+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0031-p0032",
+      "candidate_sha256": "60351ea8238a470ad05210b513f99aef73d27fdc8f93788676ad14b10d4bdd4c",
+      "validation_check_sha256": "c633cb5a5b53c51a83d24a59b298c0eca524a04a0cb30498bb6bddde909d9345",
+      "naming_terminal_status": "alias",
+      "accepted_scientific_name": "Picea abies var. abies",
+      "display_name_zh_tw": "挪威雲杉",
+      "display_name_source_scope": "taiwan_government_public",
+      "display_name_source_evidence_ids": [
+        "tfri"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T13:27:15+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0033-p0034",
+      "candidate_sha256": "17387c89e2793e071c6bfa2d5587798e82e0b1d649c8f08b6f3a4cf45d33f7e8",
+      "validation_check_sha256": "ae69faf350c960517c1419e5ddd6c19c9a4b61fae828e1cac236bcdb595610f2",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Brassica napus",
+      "display_name_zh_tw": "大油菜",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T13:40:53+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0037-p0038",
+      "candidate_sha256": "a2d00fc9c1aa2de0a9c1de07dde1160b321a7b67bf25c6e18737a1bd0d178e5d",
+      "validation_check_sha256": "5e9fd352635331f9faf24bf661f4afce78a23deb909b6d53e333294607d2dfac",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Hyoscyamus niger",
+      "display_name_zh_tw": "莨菪",
+      "display_name_source_scope": "taiwan_academic_public",
+      "display_name_source_evidence_ids": [
+        "ntu_seed"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T14:08:00+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0039-p0040",
+      "candidate_sha256": "d31380ef19175394c28ba97e9be994ab71a80bcebed0f21f5cfddf94a504edbb",
+      "validation_check_sha256": "84f01833b0822bbfe097f9b13a66478d2f972745f72ff7f7dbe0dc00a7f16195",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Arnica montana",
+      "display_name_zh_tw": "高山阿尼卡菊",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T14:11:49+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0041-p0042",
+      "candidate_sha256": "6fcf4b2b1030ea4eb321d42f3e6b1ef6c7176a9ab94c2fc4239a959677b5dce5",
+      "validation_check_sha256": "daf4d173657f1b2cc07e6093c5fbec75d143e2eccdb21885d42af410fc1458af",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Cannabis sativa",
+      "display_name_zh_tw": "大麻",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T14:24:44+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0043-p0044",
+      "candidate_sha256": "2cbf13b39268fccfceb63c5c2c2a249378ddb0e28ae5b76fa29829908c2425d1",
+      "validation_check_sha256": "d6fd44db4b34d573d828e36cce31652678efc077ce42edb7c70d30cf2814d81d",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T14:37:42+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0045-p0046",
+      "candidate_sha256": "cf5dd0060ff3bd193eb5175919d231d4f71575ea27a79157cf24c5f646d73a5b",
+      "validation_check_sha256": "448a500475aeff5e6d6a5f785b27ec41ad42a08b5fcf4b9e1776a39f23b56d6f",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Brassica juncea",
+      "display_name_zh_tw": "芥菜",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T14:51:05+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0047-p0048",
+      "candidate_sha256": "628f06e3b60561a2427cf8df9422a279281507c7965b13c3ccdbe2eb9cd0becc",
+      "validation_check_sha256": "162cd4dc6b0e5404ba6f2ab93f0952eb674a81dcfb19c0f2244353ed973dc9d6",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T15:05:06+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0049-p0052",
+      "candidate_sha256": "37d8b6ebb2f4d94bb3c2adfd7ecae98604fcdc4696ef4326263f9e1663f87d78",
+      "validation_check_sha256": "12b6ebde6bab891403d0b4eb1ab59c7ef3185bcc87d28bd64314f0c1abd915aa",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Linum usitatissimum",
+      "display_name_zh_tw": "亞麻",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T15:20:27+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0053-p0054",
+      "candidate_sha256": "70ef267056b6bd69e2a9832db681065ac8feacdc47495b4b080d35263fa4da30",
+      "validation_check_sha256": "7f435c24f91a14898af3849ece52bddf286f5a938ab3f7103e192efb3fa6343b",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T15:35:21+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0055-p0056",
+      "candidate_sha256": "3892884a850b30d12efc26d2f1ad04445f460ee375ec9ae84f605ee28861854a",
+      "validation_check_sha256": "d5def45a728f2095ac354c6ad4efe052a11b04f47e59cdbeef85e764fd289549",
+      "naming_terminal_status": "alias",
+      "accepted_scientific_name": "Alcea rosea",
+      "display_name_zh_tw": "蜀葵",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol_book_alias"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T15:49:18+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0057-p0060",
+      "candidate_sha256": "617e3aa5bd1a37478264b8eaefe115dd42192fce5651dbad590e8da3a3314a2d",
+      "validation_check_sha256": "5c2fbf2b5b574b17e7d46963ea618e6a803f106b71dc4ac4b2fe3c5a1196d2b4",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T16:05:12+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0061-p0062",
+      "candidate_sha256": "ba8dfbd377ff0110b2fae16000cee038c193486ead17194c70c95c09384af8c8",
+      "validation_check_sha256": "c603b0b382d9541fddfa2cfb8b790ef4715297be0421a7ed54401c09ca993421",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T16:20:16+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0063-p0064",
+      "candidate_sha256": "8ecfefd9188fa4b667b9d1fd27201245c2d23749da22338eb1525d019ba06a9f",
+      "validation_check_sha256": "d0058564f35bcdcb8ac1b85d227a3c73146de452c34f2531d74530c63c4c8391",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Datura stramonium",
+      "display_name_zh_tw": "番曼陀羅",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T16:37:11+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0065-p0066",
+      "candidate_sha256": "a4b04cd9dd99c8dd37fe2d4aed2f48bbee5a319f116b3dc6e505f668a2067292",
+      "validation_check_sha256": "215c4bd1240cf97eff71e8c5ae104d8a049b1772b2e227f3614db97ac8f5e167",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Ruta graveolens",
+      "display_name_zh_tw": "臭芙蓉",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T16:51:36+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0067-p0068",
+      "candidate_sha256": "a239a01483419f543e6be81a2d580bb25a1719e290e6792f83cbd3c9a640d9b3",
+      "validation_check_sha256": "26c058d79b7ea20624f6f9a2b7cde3ade0be5646b979a5d339a9dedc01dcec8b",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T17:07:02+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0069-p0070",
+      "candidate_sha256": "fad4d69e6290bc540e3bb1420f9ebd28e0a5200932814f0830ba0fec58b276a4",
+      "validation_check_sha256": "f642e39894f321a99a47b7648d3e35e8dabaff339685139c2f00bb789a5df117",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Daphne mezereum",
+      "display_name_zh_tw": "歐亞瑞香",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "tai2"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T17:22:28+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0071-p0072",
+      "candidate_sha256": "5088afdb0d76b390430bcb8bba755e07f0c0856dc4de20f017b3292ddb5d64f8",
+      "validation_check_sha256": "648123d82aef43e633b75342994bc7d0b1c690a2f1a02eb271219332cab69fae",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Viola tricolor",
+      "display_name_zh_tw": "三色堇",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "tai2"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T17:36:57+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0073-p0076",
+      "candidate_sha256": "dbb775a06af2e8d5a104ca09976d965e31359e7020c7091ae9998e285247038c",
+      "validation_check_sha256": "6394469a34670172934bc926ea69708d5ad2768f394e52fd98a32604035dbabf",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T17:53:59+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0077-p0079",
+      "candidate_sha256": "b73110edba426c755fdbb2fc5a06952ab0dbf63b2e7cabb5be717c2aebce3536",
+      "validation_check_sha256": "7d4a7c20c3daca7f2295259a06ed9eb5ce0ec7b6eed8757107480a8d2d984b0a",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T18:08:27+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0080-p0080",
+      "candidate_sha256": "c4e25a09c354b9d342019148cf79bad80bb66639084c0425e0cce900c2b0c750",
+      "validation_check_sha256": "a451042c4a0a512d27954e617835bdaf33af2f8a6d85778fee1eae7caa48768a",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T18:22:55+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0081-p0082",
+      "candidate_sha256": "b1fd6eeb6cb4ce040a6735b2a849f336eab1ad0dcf701dddfecaac740cdd6264",
+      "validation_check_sha256": "e1593e9442233e8bd62939e3ec70a33c3db5c02a965d4e704ab072a3983c8bed",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T18:36:25+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0083-p0084",
+      "candidate_sha256": "b555c0ec396394be074c9cc2a10a0ebbf55afa117bdfe99a5f9b52a95021d878",
+      "validation_check_sha256": "60c2a6cbeb952b1e6bd5b093b6041d2a77c44bd09bb7c77321f315a8070dc0f2",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T18:49:17+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0085-p0088",
+      "candidate_sha256": "a2b0fdaf20da9c1ebd4c8eb50ad0c4ee133456a5cc6860455dac9b522bf61ed8",
+      "validation_check_sha256": "ece24228cde303e79358fe9408af1ac73d500f5bfd501411abfc64246931c60f",
+      "naming_terminal_status": "alias",
+      "accepted_scientific_name": "Cydonia oblonga",
+      "display_name_zh_tw": "榅桲",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T19:01:34+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0089-p0090",
+      "candidate_sha256": "4c7833e7aace87c520e25143565ed006576c71b71130ae4967108fe0eb863abc",
+      "validation_check_sha256": "70504801bd632d58c4d9d2365cc897c75cf66d7514c0536c831d9d01c6f73780",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T19:13:00+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0091-p0096",
+      "candidate_sha256": "e08f137da6fcfd2db41290e2f48123f262fcfa60462737e774309eb0d4e3e29d",
+      "validation_check_sha256": "bc33ebd471a7d281188e22e3251061b7284aed3a78d841ec901d22148a6802ab",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Papaver somniferum",
+      "display_name_zh_tw": "罌粟",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T19:28:20+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0097-p0098",
+      "candidate_sha256": "0aa6448c567ebcde2faa470d0057f04e72a86a68efcdf18c43f9455b298d61ea",
+      "validation_check_sha256": "23e01503046a8f2b07554e7286be864f07d94893fa74819b7f1dbf83e38a646f",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Salvia officinalis",
+      "display_name_zh_tw": "鼠尾草",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T19:40:10+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0099-p0100",
+      "candidate_sha256": "a431224f63c318b6072052c7c4ec8c72b21206a2181860d2e3c0dbb148c2cbd0",
+      "validation_check_sha256": "996284188a3ddac2daab0a39c45f6e09b38e7ad8414fdfd073d201c5af4f2b2d",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T19:48:29+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0101-p0102",
+      "candidate_sha256": "507444563c2591ac204d6baaedb1dec477ed83e5b74d0efa8fc179e1365d70ee",
+      "validation_check_sha256": "46ef21694fcedecd2acfdb785a667ce4c8902cd91baf4179cd3686972401cda6",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Symphytum officinale",
+      "display_name_zh_tw": "康復力",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T19:53:36+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0103-p0104",
+      "candidate_sha256": "fa7ae4d71e58d0a5040f952449c4f59f1c0e48a6e4e4556f011de436eaa7f475",
+      "validation_check_sha256": "f731107f6f7eb5fe3be413d9fa5c3856164480d462a953ee4da4c159dfd3f248",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T19:59:50+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0105-p0106",
+      "candidate_sha256": "bc9efb149bfa7310c07db38a04757e67c345ab13ab35baa32d51af0e2a05c2a8",
+      "validation_check_sha256": "2cb1da7090abf1ee6d809b75564065a7670f22d05e73f7ca3d30acf26f7da96e",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T20:08:09+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0107-p0108",
+      "candidate_sha256": "2abdba35c4f6dc087ef64eb29ec02abd83f99ff3b807068144ba570fcb8a7007",
+      "validation_check_sha256": "f238300d86ab77280e239bafa31b7f3a0b881ab6bf9ce2052495fa0026118df9",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T20:13:52+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0109-p0110",
+      "candidate_sha256": "9d11fb303668a15dc390e39f2de3d0f0e3f6add5e9fe39e6b65bbbea86ff578d",
+      "validation_check_sha256": "8b4e4f2007c57de05a01147b9b2d2ef9e43a2b3830a474cf1228a2945215420f",
+      "naming_terminal_status": "alias",
+      "accepted_scientific_name": "Lactuca serriola",
+      "display_name_zh_tw": "刺萵苣",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol_book_alias"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T20:20:00+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0111-p0115",
+      "candidate_sha256": "91b4d9a24e228b7d622072e7e75b1616cea441b396e46d8bf37b2ee7802d8ab0",
+      "validation_check_sha256": "eea0ff06b1f433b6c63d37e38dab6f8797034e509c046364042f356a36f716a8",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-20T23:03:10+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0116-p0117",
+      "candidate_sha256": "752dc15ff2fff653f30bd7ea45bd6a2ed4e6f4d64c09573e50a4f78f2d82cb89",
+      "validation_check_sha256": "65b4dc7b63c796d4136fc7bf28c85afd2122567c32679e7f8d4a4f04fe546f25",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-20T23:03:11+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0118-p0120",
+      "candidate_sha256": "2ab54369845dbf8cdaddaec03a99cdbe4c4753cee89e143206641d3fe4808c44",
+      "validation_check_sha256": "83144e51269a8ec920c56b47b65c1c94b734e9d63c11741d5fb89b56606b1690",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T20:27:13+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0121-p0125",
+      "candidate_sha256": "39ac82b356d91df996e4afd02f94d7a24ad0c6a3e853377b38abad9022c87e4d",
+      "validation_check_sha256": "12fcb012d206de2e319450fd459ee1372660a4a6c522a0d2c42f13a6448cbe75",
+      "naming_terminal_status": "alias",
+      "accepted_scientific_name": "Valeriana fauriei",
+      "display_name_zh_tw": "纈草",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-20T23:02:42+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0126-p0127",
+      "candidate_sha256": "053c29e9fa71a210f2c83727ce398df2e09b744279e09448d299b00b6800da50",
+      "validation_check_sha256": "193d9bff7d616b8020305201faa3762f9f9edf80955229d3958ebad11c749367",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Artemisia cina",
+      "display_name_zh_tw": "沿海艾",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-20T23:02:42+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0128-p0130",
+      "candidate_sha256": "31c8d9361672274e7d1a6b6428264792fae28f5bdb2bb76466dc0288b7e6a9e2",
+      "validation_check_sha256": "f280d1d5913d34f787ce7dff6b3c2a14af3a1ae8a71b46ce1aa161cb334a70e8",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Artemisia cina",
+      "display_name_zh_tw": "沿海艾",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T12:27:09+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0131-p0132",
+      "candidate_sha256": "a1e1bbdc1c8b5a426d1b3e021a7a1d6341b30161df8381002ccda5c58ba396f0",
+      "validation_check_sha256": "b81ae51a80f4e2581f25133e2e96f7e7339315f07f88eec250e83700b712df25",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Lycopodium clavatum",
+      "display_name_zh_tw": "石松",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T12:27:10+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0133-p0134",
+      "candidate_sha256": "4852e5670b7d0c43bfd86a4550744c4bca78ff9e8e375b44e5bdbab928a0f67b",
+      "validation_check_sha256": "2defe30b29c53fba8314d2dc01635712c38dcfb52809cb2c788dc8817b542be4",
+      "naming_terminal_status": "alias",
+      "accepted_scientific_name": "Mallotus philippensis",
+      "display_name_zh_tw": "粗糠柴",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T12:27:11+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0135-p0140",
+      "candidate_sha256": "9e7d251f8d4d40299b44d952c0ac88215e95ff7325ab7c940a092a31d1d1b04e",
+      "validation_check_sha256": "a7fb38fce59d5c42d53710b0af520115c8ba572ab8641076828bd7d6e1190f52",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Vitis vinifera",
+      "display_name_zh_tw": "葡萄",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T12:35:11+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0141-p0142",
+      "candidate_sha256": "4c50e064b3c74d08d66188b6b8bb3fbd4558dc77e764474503789253b8b2cd3c",
+      "validation_check_sha256": "f43899ce5ae31d17176832d41c2dff1b5f3fe9d3fec66ba14ff9a7e80f02080a",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Melilotus officinalis",
+      "display_name_zh_tw": "黃香草木樨",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T12:51:25+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0143-p0146",
+      "candidate_sha256": "4b8f2b7ef3bd7a8b490888befaf3741f08b127b23e7df2ebec97e6444b3e65bc",
+      "validation_check_sha256": "a5cb0c5c26c9bf3a37445a537fbc83516c55027671f16c83d5ffb2d9e6bec842",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Juniperus communis",
+      "display_name_zh_tw": "歐洲刺柏",
+      "display_name_source_scope": "taiwan_government_public",
+      "display_name_source_evidence_ids": [
+        "taiwan_fda"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T13:14:30+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0147-p0148",
+      "candidate_sha256": "c40e771d18c48cd13ade25bed0a1d9ce8537155008c1ebbfbb33e8b53bcba0b0",
+      "validation_check_sha256": "13156912afaecb07f3b6bb26c013ab50a8095b29aa32e2442de5b21ccf09a2ad",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Abies alba",
+      "display_name_zh_tw": "歐洲冷杉",
+      "display_name_source_scope": "taiwan_government_public",
+      "display_name_source_evidence_ids": [
+        "forest_bureau"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T13:28:16+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0149-p0152",
+      "candidate_sha256": "6cca7d0bea6d32e5ed791370fb5fa6ffc5bbb905c3a91f0cbf1a669819b2e9ab",
+      "validation_check_sha256": "600359251edd66f38dd86d0e42fd0a08461144755ec4320cbec2e52ad689bdb7",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Beta vulgaris",
+      "display_name_zh_tw": "根菾菜",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T13:43:24+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0153-p0154",
+      "candidate_sha256": "d18c0674e18b1de3d267ec34b40bd295119453c4d76e714e8693215e2b163716",
+      "validation_check_sha256": "4b557b141125df1ad475e27ce06f4b61b8348674e30a64756505c0fb322edc4b",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Populus nigra",
+      "display_name_zh_tw": "白楊",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T13:58:40+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0155-p0156",
+      "candidate_sha256": "ae4ee137e0e0b7dfba7adeae6b77897255b0db311a46d681c35367bf5b294e13",
+      "validation_check_sha256": "b35215998ad9e9b9c9c3793728278150a615e3e5139e7ac140d329bec6b56edb",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T14:13:23+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0157-p0158",
+      "candidate_sha256": "16b7253e419a3e8c760bd89375f2ae524bbbfbac9ccb176e5370d7441a5f25c8",
+      "validation_check_sha256": "99ba17243a67ba6dbdabf2a23ad13161cfc236755abd73744f6882ae343885f1",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T14:26:48+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0159-p0160",
+      "candidate_sha256": "8c17fbb1c28678b83d85bd040b18dbc9bbfe6e7126d0a9b5c771ef1693391155",
+      "validation_check_sha256": "5a46fa51f2112e669047f9e85adb4ef422588e5e51bf91beeb371262d38266a0",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-20T23:03:11+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0161-p0162",
+      "candidate_sha256": "3768acc89ec51664c48241be653c82c966a8093e962adefaed1bf127f0b102cd",
+      "validation_check_sha256": "60bbd7e4eb48b4d4d76dbd316718e782cd0e9ebb4d923e55baca3cfe79bb780b",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T14:53:39+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0163-p0164",
+      "candidate_sha256": "682cb11c3a8b1b7c6890dcc742313733cd2fd97fd97e9aad6e0935b5acf1f672",
+      "validation_check_sha256": "e4119673fbb70f5d1bd55b89044369dcec02cbc8e9167b5ad087a97c835118fc",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T15:07:11+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0165-p0166",
+      "candidate_sha256": "8571d061d24e53ffc5e92d9e55760aeae99ba922b883f09c1caf4a4066871e3a",
+      "validation_check_sha256": "fb58010d0bc9287005d9faf4b69bef5287bb69f1829516b60cfe83ad5c915b77",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Digitalis purpurea",
+      "display_name_zh_tw": "毛地黃",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T15:22:59+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0167-p0168",
+      "candidate_sha256": "037daab4840d25395415197371a9405476162013045924722c221c0a5079772e",
+      "validation_check_sha256": "bceea22cd375d8007b615525bf7338d1a104448b08fb5c7b92ad6b4f0fe9c6b4",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T15:37:25+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0169-p0170",
+      "candidate_sha256": "9af56bf4a3642ea96e12775e04480b1cc27c52b1fbcd3e2b6c09f73cf004572d",
+      "validation_check_sha256": "d69c089a8681ce21a8041cb635106a409492497206a4a753e024be2764104496",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T15:51:23+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0171-p0172",
+      "candidate_sha256": "1d2c1cd868b435595a136045f65d642c0c5105b60b67abeffffdf9d635dd9c6c",
+      "validation_check_sha256": "f771e2b7cc0b474ca0cb3cc82d1b41c5bb8b581ca39a363ed1ae39b1a1dd2bfa",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Melissa officinalis",
+      "display_name_zh_tw": "香蜂草",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T16:06:43+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0173-p0176",
+      "candidate_sha256": "fd4aa5647d9aee71670a258037d868236e51cd688714242b21449830a1b2e84f",
+      "validation_check_sha256": "f8fcdc840603f87497ec767d9b5b7195c3e1d5eacf3f3bae6f5071320a3d1795",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T16:22:20+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0177-p0178",
+      "candidate_sha256": "c639af7f63ea2b0a427de8e3ab29f4a74cf6c888e6a68bed795284c29dcff077",
+      "validation_check_sha256": "fa25f3d5c1bd379011345520d89b6dc15a8b36e698f79724589e0d5a63e7b27c",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Artemisia absinthium",
+      "display_name_zh_tw": "歐洲艾",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T16:39:44+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0179-p0180",
+      "candidate_sha256": "f34227787b885ebbd9711008c3a2d0675304f4977946099d3b2b7940bfed70a7",
+      "validation_check_sha256": "bf9fa9b6f7bcba046f3e2eca2d5f6d5ecfeedbcd8c3f8f421f2ba418c178a31b",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Humulus lupulus",
+      "display_name_zh_tw": "啤酒花",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T16:53:38+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0181-p0182",
+      "candidate_sha256": "e14f004803ab0bd48e9b852da0c2cd3f01360cfb508a1800576b97858f1e2d8e",
+      "validation_check_sha256": "d50f4bb919edd4d7ed20c8061bf7d586c814da677d30d4e73b958c9fb23c86dc",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Achillea millefolium",
+      "display_name_zh_tw": "洋蓍草",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T17:09:03+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0183-p0186",
+      "candidate_sha256": "434689ac2e4ce50d50ba494fd76bb94bde8a97548d40136815c6720e6c8e2ebe",
+      "validation_check_sha256": "2548733f6f77bf0f850717172baa5a14effee775a14e43566164bda2af129d69",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Cetraria islandica",
+      "display_name_zh_tw": "島衣",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T17:24:02+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0187-p0190",
+      "candidate_sha256": "81220f910712fd1745d0155d75cec88a0873bcc71d4776d25534814439795f08",
+      "validation_check_sha256": "e115026706a248c93c6e4ff8d725fec2dfd9c80e2469595b605610d8867066ed",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T17:39:34+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0193-p0194",
+      "candidate_sha256": "82568e3f3cfec676fe438b74f0d1447ad6bc7c0557602cd9426f7b50aaf59207",
+      "validation_check_sha256": "7fd9137e3428bed87854a32471a4fa483da162c1edd10a29ddb2b991f31d26c9",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T17:56:04+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0195-p0196",
+      "candidate_sha256": "38ef6eba78032ede61ea75c2ea7482918c11e59bb006db4df8a14e6f77198fc9",
+      "validation_check_sha256": "12ecf39e3cbf0a7a67d00681967e5d391906db8552894296a4ba70175188571b",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T18:10:31+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0197-p0200",
+      "candidate_sha256": "d2126f7f512d50acf4a47298ea062638ac61809247939e699e16aa9e6d5c8c22",
+      "validation_check_sha256": "d9090708618a3dd7de86354237eb44f5ee3c25b75627aeafe0da483539945469",
+      "naming_terminal_status": "alias",
+      "accepted_scientific_name": "Camphora officinarum",
+      "display_name_zh_tw": "樟樹",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol_book_alias"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T18:25:59+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0201-p0204",
+      "candidate_sha256": "3c16237432cf05d108802a022ca5703d7f199f80312be4610ec4b1596dbf88f8",
+      "validation_check_sha256": "4f1b72ded3b5598146c75db19eb2501e5a81e6fa84c050dc0bacbd1f1dfdc598",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T18:39:31+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0205-p0208",
+      "candidate_sha256": "403d4060fcff970ae509dab8fb2c64edad395db592da16c63e3d6fba60fd2735",
+      "validation_check_sha256": "ee8839d58015471d719280aa504211c404512f7e05bf90332e60d31a03f8bb2f",
+      "naming_terminal_status": "alias",
+      "accepted_scientific_name": "Cinnamomum verum",
+      "display_name_zh_tw": "錫蘭肉桂",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T18:51:19+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0209-p0222:child-01",
+      "candidate_sha256": "d49da88a17019238a0fcdf324466bb18045857f5a823196cacadd40db1e36269",
+      "validation_check_sha256": null,
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Cinchona calisaya",
+      "display_name_zh_tw": "白金雞納樹",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-20T23:02:44+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0209-p0222:child-02",
+      "candidate_sha256": "87880fbf1b68aa045dcfb291b8ff0c8ba742c8dc04a0990daa3ef3595912b465",
+      "validation_check_sha256": null,
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-20T23:03:12+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0223-p0224",
+      "candidate_sha256": "f466928b42fec3a0ea4d781b89860a06e01002c0cfdf2105d8572166f9e65d67",
+      "validation_check_sha256": "a0aa5f415dd900b4a74a0acd9be586f363c780aa67602826ca1fa2665ddfa8e2",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T19:03:39+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0225-p0228",
+      "candidate_sha256": "6ea7d8f1c492da75d316f6eed4bf670e21c14a34cfe530d4cc8c518328211a0a",
+      "validation_check_sha256": "53cee5cea5be886c2a28e307197977c1357d93e1f0acb83f4ec96ff2899dec61",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T19:15:36+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0229-p0230",
+      "candidate_sha256": "46d01d70e7bde2c2531e36a1c893731c94fa0aee555b07064d4ab736d6417458",
+      "validation_check_sha256": "2f1142d07fcb3a3b7c39bd62c36de728e1dc5a4adc0fde00764f8f2046a31482",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T19:30:27+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0231-p0232",
+      "candidate_sha256": "5cea7bc38eb37104bc5d26369c7e565c13bda46dd9130c0e572cb6ea5dd8650e",
+      "validation_check_sha256": "7aad75e66bac91637a0d945345c33acd00a2737463e5df1771154e23662e5e9c",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T19:41:45+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-1:p0233-p0234",
+      "candidate_sha256": "7ce0e0939b71eb821de313c6bc0a23a63769fa64395357ac1d96b43b003482ff",
+      "validation_check_sha256": "269b47e640d9bd11205237b7b67bbf63a1125f8abb8fbcb3609f4dbd2c7468eb",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-20T23:03:13+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0061-p0062",
+      "candidate_sha256": "c69e7078dbcfe92b3a2a8ee2c2b6cae3bfbd8aee06cfc38d7ec2d278b6f381a5",
+      "validation_check_sha256": "781509706efa3e70a80f71d26cf79537963032b37b7d890e7bc820423a42ceaf",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T13:31:33+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0063-p0064",
+      "candidate_sha256": "b1ca5746186fa990eefe9e0fc9272ec51bdf74c6bc8f3eda9848f1d00ee1348f",
+      "validation_check_sha256": "458d1279dfa2fb7d0396f5da597a54421eb267d63a0f4912da331358c9e7ea7f",
+      "naming_terminal_status": "alias",
+      "accepted_scientific_name": "Elymus repens",
+      "display_name_zh_tw": "鵝觀草",
+      "display_name_source_scope": "taiwan_government_public",
+      "display_name_source_evidence_ids": [
+        "executive_yuan_gazette"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T13:00:01+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0065-p0068",
+      "candidate_sha256": "a8741387f03decc30f99c2eab4cc5b859339a44414c7d69a10a299263b27cc66",
+      "validation_check_sha256": "2c80f479eddd953801ff1050a38b02b9a9542e778d56043b6255c673bcac0cca",
+      "naming_terminal_status": "alias",
+      "accepted_scientific_name": "Triticum aestivum",
+      "display_name_zh_tw": "小麥",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T12:27:42+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0069-p0070",
+      "candidate_sha256": "1d1d8153168346b793f8968c0005e8c13cdd5f041a5147cc4e6517ffeee9e0c8",
+      "validation_check_sha256": "74e0c45020187f913ca6e6eca8e85d00e7472ced081e71cf2a33cd044465d163",
+      "naming_terminal_status": "alias",
+      "accepted_scientific_name": "Foeniculum vulgare",
+      "display_name_zh_tw": "茴香",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T12:37:36+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0071-p0072",
+      "candidate_sha256": "2228633fc57f223c3627a9edce582a31da382ce04b48dbd7e177b76eb7ede371",
+      "validation_check_sha256": "06fa724b7949a8565669edaa15179a8fd06647c6b967d87a8a68d0b4afb45080",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Menyanthes trifoliata",
+      "display_name_zh_tw": "睡菜",
+      "display_name_source_scope": "taiwan_academic_public",
+      "display_name_source_evidence_ids": [
+        "nmns"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T13:01:54+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0073-p0076",
+      "candidate_sha256": "f10411b12b90becd92102fc0cf5c8fb4a09c041df674fff0dc41b5e80a219233",
+      "validation_check_sha256": "6435db5a35419ce07fbfdaa5cf296aac94005a136e178e7a9a2b2e2bfa5be047",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Inula helenium",
+      "display_name_zh_tw": "土木香",
+      "display_name_source_scope": "taiwan_government_public",
+      "display_name_source_evidence_ids": [
+        "taiwan_fda"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T13:16:00+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0077-p0082",
+      "candidate_sha256": "22768b9afd40ad33a171cb9d0e5501cfe27044e0df74c05de46891f5e8778bbc",
+      "validation_check_sha256": "7fb4cf97b617c3f98a8821a1fa2b2338768fcf801bad5aaf6eaddd3b805f4afb",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Carum carvi",
+      "display_name_zh_tw": "葛縷子",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "tai2"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T13:31:04+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0083-p0084",
+      "candidate_sha256": "f7ef7090639d1147135c882bfacc99dd7a0e24d0283ee9bbc4a44c1e9188eb61",
+      "validation_check_sha256": "35ea85b2fe801bb3744d48e74512aecd6c65ab7f850bf6033597abe408fd2c3c",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Pimpinella anisum",
+      "display_name_zh_tw": "大茴香",
+      "display_name_source_scope": "taiwan_government_public",
+      "display_name_source_evidence_ids": [
+        "aphia"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T13:45:32+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0085-p0088",
+      "candidate_sha256": "250ce77956f9078e4899ec5eb38e4aef42680517b47e31765497009ee0dc1d1e",
+      "validation_check_sha256": "fd21c34b1f71fd0f911eeff34d95c622aa83179480a5aad89616554749083890",
+      "naming_terminal_status": "alias",
+      "accepted_scientific_name": "Prunus amygdalus",
+      "display_name_zh_tw": "扁桃",
+      "display_name_source_scope": "taiwan_government_public",
+      "display_name_source_evidence_ids": [
+        "aphia"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T14:04:00+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0089-p0092",
+      "candidate_sha256": "9ffa16d51e122e540fe550ce154ddeaef8e173379436c726df7da9f576f54851",
+      "validation_check_sha256": "c369e2db546c1cccfb973465ef0930b72f46684e89946c7f54292544c7ccb1d8",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-20T23:03:14+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0093-p0096",
+      "candidate_sha256": "7b0861f931e98e281a63ce5c81dcbe08b7f73124105b50196c13dec228f917a8",
+      "validation_check_sha256": "740c2db938efe6c833fa246551611afd77b3709771ce9b61fc0e909fe621e111",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T14:28:51+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0097-p0100",
+      "candidate_sha256": "0d991f36609150e4e27d33af1ad08aabd1648de3d6126e31b43ff1421dc83fec",
+      "validation_check_sha256": "6352a311cebfa660cd1fd4d8ef25e050f9f8de5f0176b04b9f1e9830b816de89",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T14:42:18+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0103-p0108",
+      "candidate_sha256": "a4445452d7935e0ebed4504c0cce75921cb4a557236dcba916d816b69e6cfd8f",
+      "validation_check_sha256": "5b8f8d52259f073c8ffadf27cdd3edb3ebbf5a782f9a0e1a4cfcb65ec9dd054e",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T14:56:43+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0109-p0112",
+      "candidate_sha256": "b3d87da67efadb19c86c328be16cf0f3345f3908befb393eaed94c3331916c0c",
+      "validation_check_sha256": "5a6f730a0c86332042f2e96ccce356e649b476dad4cd8820924a0c63e0ddf17b",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T15:09:45+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0113-p0116",
+      "candidate_sha256": "4b8b356d59b800912e57a444d012c75c2252f339a5472619de719403f4289739",
+      "validation_check_sha256": "d2617f06dfec80a29fc8d71f3229a0ce8d4d12f273866123ecfbfc5e4c7de064",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Liquidambar orientalis",
+      "display_name_zh_tw": "蘇合香",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T15:25:32+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0117-p0120",
+      "candidate_sha256": "6ae524f3ad3c6baf08ece3dd93e6c0ffc1b09d1aba8afe20423c9e4251d64b11",
+      "validation_check_sha256": "8ffb6c1a58bb7411e0903eefbb7bd5ebb81fa78e1afd1bc73a09af67d02614eb",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T15:40:01+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0121-p0124",
+      "candidate_sha256": "87c6bc82ee6ea876f9e15520b38af6f54db7350a446a1dc7cc84e78b5a2b6a66",
+      "validation_check_sha256": "1db2885d723d86971a36b23abae94eec9ae40fa728efdf62b75c8c2fb9519088",
+      "naming_terminal_status": "alias",
+      "accepted_scientific_name": "Piper cubeba",
+      "display_name_zh_tw": "簍澄茄",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol_book_alias"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T15:53:56+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0125-p0126",
+      "candidate_sha256": "434780acc2a092aca9fb04581cb1478f9da062ee52104d3e3a2558a4e25ae9c4",
+      "validation_check_sha256": "d4f0b2d85cbcea9d5df0ddfc23b21735845fcbb12767f4d6b55b86d05ddce15e",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T16:08:51+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0127-p0132",
+      "candidate_sha256": "dacfa7eee4afcfec8c73424cbeb1edbb1bca8a7b1566ad3479b22181032b053d",
+      "validation_check_sha256": "2ed89dcbaf703dc095b1c9d06aed4cf705e47e66b1621c8052784ecce158492f",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T16:25:56+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0133-p0140:child-01",
+      "candidate_sha256": "85113e1716f2f59c2a165c1b6a30c7ee037075cc8c63e0c3a88b90809f355305",
+      "validation_check_sha256": null,
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Coffea arabica",
+      "display_name_zh_tw": "咖啡樹",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-20T23:02:46+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0145-p0146",
+      "candidate_sha256": "56b6cf5fc24ca764906b23f005ab5f4af86381b084be3c2274bbba77376ac4c0",
+      "validation_check_sha256": "8bda03b9083e5afa40096acec6816c4492996a70b0dbbb302f3d6d28227a5fa1",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T16:41:49+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0147-p0150",
+      "candidate_sha256": "81b2fc4b30eebbbbaa9c6590ef2a1c4c894118d312b833722547c4af7bd85ab7",
+      "validation_check_sha256": "aaede5f5dde5f6926ac1aebe0ee4dba572e2a828acf7eaad6c5b7395489999c3",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Olea europaea",
+      "display_name_zh_tw": "油橄欖",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T16:56:41+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0151-p0154",
+      "candidate_sha256": "fdc0b73c019e5fc4b86a8c1ed71e5a0332456c96217fe93b88ad7da932f9c7cb",
+      "validation_check_sha256": "4a2591e76dc816a3ad9dd2d1fcf725126973e090a3edd3a8a36f32b850febb8b",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Punica granatum",
+      "display_name_zh_tw": "石榴",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T17:11:36+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0155-p0158",
+      "candidate_sha256": "f446a86583e06a96edc878b11802f9808cc6c634d5abbe5bd8b88866337a232d",
+      "validation_check_sha256": "bbb0c72f929759e63b2676a1a0eb81d95f0b77c0fc75f7978a2d136fda0d36e5",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T17:26:38+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0159-p0162",
+      "candidate_sha256": "d106e49b7cf9e1b16cd69aa631a044d12a6912d5bbaa2ea39147c28b3d2a9211",
+      "validation_check_sha256": "c8ad2bc6252b9b3bca11dada79b9f5b0c5c0e67662c7a8593ee9da9e11a5136d",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T17:41:40+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0163-p0166",
+      "candidate_sha256": "dad26b211d836c47275fa6ab37429fd1d5b6e66b6bb5ee878673de0fd505003d",
+      "validation_check_sha256": "f06216de28f4f67ef8a3e81a6b9484012a5d9de8493860c01b23d77c0e27536a",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T17:58:10+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0167-p0172",
+      "candidate_sha256": "237f35c67ba9b7bd867fc7c2d46f41bc32e0077f8de9777531ac768d17a76620",
+      "validation_check_sha256": "d3a5ec4edb19c528183db18cde987e96316f7b805395ec392ab4d055ba62b617",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T18:13:36+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0173-p0178",
+      "candidate_sha256": "86dd0c6e4d2730c574bfb9df5bea570fdbc0e6cbf638129b6a66775b8d60d0e9",
+      "validation_check_sha256": "f44e2a2516183a6d2c6131d884aed6eb825c86a567abf896969b8bcdda05a59d",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T18:29:05+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0179-p0182",
+      "candidate_sha256": "6dea3edf6bc6f16a09b6577ac86d1becdfd75fb0596470583856e58031ce2848",
+      "validation_check_sha256": "43fad1893d0a654e8fd5955e190a7c08573040b6d6ec50d4580149cb8dfe26f3",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Acacia catechu",
+      "display_name_zh_tw": "兒茶",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T18:41:33+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0183-p0186",
+      "candidate_sha256": "cf1eaca6face164ebefcd8c1a6e9f87bb923da12eff9bd8bd77f72694bfe5c09",
+      "validation_check_sha256": "c5f14074e7dbecc5f83f3857cafae0349a484d144395b6924befaf105c15af13",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T18:53:54+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0187-p0190",
+      "candidate_sha256": "823f9e4b96c72be75b11936dc3905589259fabfebb0daae5852b38a8de01d55c",
+      "validation_check_sha256": "abdd4462e98b2875d877af4190d8ece8f50b39280bded3990a9979b605a25c78",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T19:06:15+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0191-p0196",
+      "candidate_sha256": "e39f51a27eb0c3e7b2bc59807f3ccfbb19dac9f34cddebfe12ed35d38e1ed7a5",
+      "validation_check_sha256": "e987b6467521708a9aebc982dea0e6f84a3511a8e1836877534004086b00ab2e",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T19:18:10+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0197-p0198",
+      "candidate_sha256": "f8b00b39acb45a1c800fe7afe77e364dba998269152be63a7813cfcc12f908ed",
+      "validation_check_sha256": "dbe40ad02d4cfdbd122ee42eb73a7c22d969a762e33d38c1e1ad0fada0e7aa3c",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T19:32:01+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0199-p0204",
+      "candidate_sha256": "6564a170b34b0832895208a5c313a0c0a1dcb1f0b8d12a80646e20fde6ba4648",
+      "validation_check_sha256": "a99e13792c2131d66c451379783e96aa994f2ac9f3d55f32fcf244de460143eb",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T19:44:49+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0205-p0208",
+      "candidate_sha256": "f2d50d6c690e4c589c26e1a5da6773d952886387c782704c87811b9069d666d4",
+      "validation_check_sha256": "f5bd55275d5018480e7621ac19c3bd169dd75cefd02dc8d847ff751357ff781f",
+      "naming_terminal_status": "alias",
+      "accepted_scientific_name": "Salvia rosmarinus",
+      "display_name_zh_tw": "迷迭香",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol_book_alias"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T19:50:31+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0209-p0210",
+      "candidate_sha256": "d8913402afd0f73fcc6da7dd3683fc853453add478f0e7e0e7991f065fb16392",
+      "validation_check_sha256": "f2df14c64ad0cea4a3bb9a7f53cdba765c4faba7b71f76d1d1a0fd47e42c8698",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T19:55:42+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0211-p0216",
+      "candidate_sha256": "4ecb4e161f14ac4df9cc9564d99819b53a58e12674a99395066af88a3d07893b",
+      "validation_check_sha256": "c9d31ae87c49573b4feaa2bfdcad9b510d17c583658a643edb128095a536c697",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Rosa centifolia",
+      "display_name_zh_tw": "西洋薔薇",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T20:02:52+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0217-p0222",
+      "candidate_sha256": "fee1271a7747e874e93b9e9a3da7515a2291788d7525f6511afe4c23436c18ed",
+      "validation_check_sha256": "895b399f37dfd4d9d62d3d3ce5014143bcf83609a2b208744f763106bf29f67b",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Eugenia caryophyllata",
+      "display_name_zh_tw": "丁香",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T20:10:11+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0223-p0230:child-01",
+      "candidate_sha256": "3fdc34de16d157eb12fe316700d93b9556279991c3d48473c245b5dee040aee0",
+      "validation_check_sha256": null,
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-20T23:03:15+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0223-p0230:child-02",
+      "candidate_sha256": "4c0dfac5c35c1ce67c266a8f66b0fec5344cfb3529f3fc330f4920e54cfa2c0e",
+      "validation_check_sha256": null,
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Capsicum annuum",
+      "display_name_zh_tw": "辣椒",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-20T23:02:46+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0223-p0230:child-03",
+      "candidate_sha256": "70d03a496ed1bd54ab0ff36f655a132b0d6dcea2dcfd54d9608670d501f20368",
+      "validation_check_sha256": null,
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-20T23:03:17+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0231-p0246:child-01",
+      "candidate_sha256": "fbe9c8310c561f43e7f5f068a520d072acfd48080fe3b629c9ba87850ab1c1c9",
+      "validation_check_sha256": null,
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Callitris quadrivalvis",
+      "display_name_zh_tw": "方苞澳洲柏",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-20T23:02:47+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0231-p0246:child-02",
+      "candidate_sha256": "6c83cb2a7510ce62839627ff29f4db4692d3d07e42ddf24d9aa34647cc203376",
+      "validation_check_sha256": null,
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-20T23:03:18+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0231-p0246:child-03",
+      "candidate_sha256": "8c4cc3859709d4a88d8a23c53b1f8fbe4b3c15a7fc59c8c2de5165b3b10e958a",
+      "validation_check_sha256": null,
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Tamarindus indica",
+      "display_name_zh_tw": "羅望子",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-20T23:02:48+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0231-p0246:child-04",
+      "candidate_sha256": "9023b408f4d53bd6cdc4d33d2046bee0d4adb2ca381bdc526c76c4e5e4b9b656",
+      "validation_check_sha256": null,
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Myristica fragrans",
+      "display_name_zh_tw": "肉豆蔻",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-20T23:02:49+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0247-p0250",
+      "candidate_sha256": "78f2f0c426266ba36d4ae6ebe8d9a30fa2eb88d7327252d3c855a35d448e03f6",
+      "validation_check_sha256": "dbdaf77d1671d4d62f1b7ee6243543ec39ed0c06d1eb7099e2355c5d3bc3d9db",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Pterocarpus marsupium",
+      "display_name_zh_tw": "囊果紫檀",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "tai2"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-20T23:03:21+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0251-p0254",
+      "candidate_sha256": "f0aecb8f49157f68420ed5be97516d63fcea5443a479b28b443d528a6718adaa",
+      "validation_check_sha256": "bd75c4e971295ff2317d90646e2d03f9efc70a07ed83f8b6d0ce56313b0166cc",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T20:22:37+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0255-p0260",
+      "candidate_sha256": "768a7282407b55c30d8e9a7cb47e4f086d602d42162830e8a2da8fb66d4e2b31",
+      "validation_check_sha256": "e45472674da9243ac1d36998be039870cc261778bbf2ef5f25f0adb930a21780",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T20:30:18+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0261-p0268:child-01",
+      "candidate_sha256": "70292e78bfbffc802a7cb17507512ba66f0c3c2d8c3a9b2a85190c60ac52e7be",
+      "validation_check_sha256": null,
+      "naming_terminal_status": "alias",
+      "accepted_scientific_name": "Camellia sinensis",
+      "display_name_zh_tw": "茶",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-20T23:02:50+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0269-p0270",
+      "candidate_sha256": "a67ec1c084ca96e215724d5b135b725b495c68bd56285610c0614f0d5d7af889",
+      "validation_check_sha256": "f406aa4fa99d593b8466466fbd1c5ef70b61b674c97a4fc487923e325090caf7",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T20:34:26+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0271-p0272",
+      "candidate_sha256": "131b3e654a94cfa28c7e10e4bfe567146f742b3c85f03ece847c7c643497de93",
+      "validation_check_sha256": "2ad84d6bfe4c9d9f00b9c78061b4aa8ee7687875b1f680356f894f38afaf31f6",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T20:38:10+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0273-p0276",
+      "candidate_sha256": "7cc37c36f4816cfd65f9fefdc80fd8852c58e41e51078e0ce59d128eff8c7629",
+      "validation_check_sha256": "3ca4a815699b994bbc9f43f3282d3dc69eb6b5369841d15f136236c7ad1fab87",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T20:41:17+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0277-p0280",
+      "candidate_sha256": "3eb3884bc58450be13b1b711555809c98b01bb973ee00ed60015944a31b02262",
+      "validation_check_sha256": "647aed99351b625096b12030e6bb18b2258508189eb1925b7b434b2378ba6340",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T20:45:27+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0281-p0284",
+      "candidate_sha256": "fb8a20b553d600db524a1cd430b0b9daf61fe2f35170a7bdfab1e510219d0df9",
+      "validation_check_sha256": "15cfbfc9068b1a43435dd552f21862dafdc7328fdde8c790ba532bc2c32b293d",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Melaleuca leucadendron",
+      "display_name_zh_tw": "白千層",
+      "display_name_source_scope": "taiwan_government_public",
+      "display_name_source_evidence_ids": [
+        "forestry_bureau"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T12:49:44+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0285-p0288",
+      "candidate_sha256": "e61ba7eb414b75a5b738ba143210e220abd8a99f67c5c50c61b770ffb02cb566",
+      "validation_check_sha256": "e586401b2e050b52e07362d24c544767502065e13f31d5fd4ac162aa60c558d0",
+      "naming_terminal_status": "alias",
+      "accepted_scientific_name": "Pimpinella niitakayamensis",
+      "display_name_zh_tw": "玉山茴香",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "tai2"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T12:31:58+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0289-p0292",
+      "candidate_sha256": "bebf26fd06fa402eafc3f4b0ca024b6e0c2e090d060ca6801e18830b036af143",
+      "validation_check_sha256": "15078256cda42550ac6cb9f12527098859a480f447f0eb44232f9fd1ad427a2c",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Prunus laurocerasus",
+      "display_name_zh_tw": "桂櫻",
+      "display_name_source_scope": "taiwan_government_public",
+      "display_name_source_evidence_ids": [
+        "aphia"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T12:41:17+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0297-p0300",
+      "candidate_sha256": "11d90529b39504abd11f2e4d4699f9cd11443353b5455a055a924d53df406baf",
+      "validation_check_sha256": "3549b9843130744c566db1da739e898f5d02aec55978d521f44ba1b4345e305e",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Coriandrum sativum",
+      "display_name_zh_tw": "芫荽",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T12:40:30+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0301-p0304",
+      "candidate_sha256": "abea3d970c85fcd0641240cc78f03dd3c3a14f914f0514e1f1c5991fd30b853c",
+      "validation_check_sha256": "b36566a71579af689cc14d94ae8294ae5b0b1eff67d705cacc164717ff4de91e",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T13:31:33+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0305-p0314:child-01",
+      "candidate_sha256": "02d0d02f94491258f475ac5d66c9a770818410abee299f31b47eb8090afbd1f5",
+      "validation_check_sha256": null,
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-20T23:03:25+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0305-p0314:child-02",
+      "candidate_sha256": "f834ca5445c1fe2cd2ecdb330a3178699df029b6e750c4c0f472065a627ad519",
+      "validation_check_sha256": null,
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-20T23:03:27+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0317-p0320",
+      "candidate_sha256": "8b68db890ce05789d284c73cc5db9e176f25a2af433d300a85a8eb6f9a90ea5b",
+      "validation_check_sha256": "99c346ff3a3e8ed07776d769f059d4b9d6f8026645cf90f14f21e08b77946a10",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Ipomoea purga",
+      "display_name_zh_tw": "球莖牽牛",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T13:16:29+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0321-p0324",
+      "candidate_sha256": "7e79b6a10cfad6a3f222e535ee89138774266371bdaa202deb58ac3087adb328",
+      "validation_check_sha256": "bfd998553d4696a32f5654996c72351eb198d4c8626a801e913c4bca88ed9fb8",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Quassia amara",
+      "display_name_zh_tw": "苦木",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T13:33:38+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0325-p0328",
+      "candidate_sha256": "e1af07eef9e8a84dabcc934dc8ab81edfa63458b3f154fd247842c591ea964cc",
+      "validation_check_sha256": "5b28a559ef39a3e486845b0dadb1caa743754930ae7e731662d120e45b005e42",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Quercus suber",
+      "display_name_zh_tw": "西班牙栓皮櫟",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T13:47:28+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0329-p0332",
+      "candidate_sha256": "1dd97aeadf85c2c71ae76a07c0c657031030cc7f5004cfda15d08241c10238b3",
+      "validation_check_sha256": "7896ac5b0f018744cc49e95236ad04a85bd322433b39be3d7274c179ac0d5941",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T14:06:00+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0333-p0336",
+      "candidate_sha256": "d16bf4ba452e7821ef8d7e0b99ea6cf3f397d8eaf8387e3dd99c85eaa499b995",
+      "validation_check_sha256": "8f51248d38e870d33562ac95b1aa636dc82d8a26d6d39d208486e51b4d0ce46c",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T14:18:01+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0337-p0338",
+      "candidate_sha256": "9b04cbac67459616e1971738d7420572a3b55776c22fbb5c2a0a9db1a0087b97",
+      "validation_check_sha256": "e399bad1afa71f51cc0cebfdac8e1f7c4fdd50a65c8b3ae248e3278ccccceb8e",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T14:30:55+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0339-p0344",
+      "candidate_sha256": "8e49e7c8a44b7a1cb80bddaed5ce93aa75e6897dab03b87e937a4a290684f558",
+      "validation_check_sha256": "048583cd79b01fc711e121f2069ba8a8b6e081946ccd43c004ac5f48bcb1a982",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T14:45:22+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0345-p0352:child-01",
+      "candidate_sha256": "762d21d656a370a23b215d9986d86c837e69e713f1af26937852ca233bb94975",
+      "validation_check_sha256": null,
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-20T23:03:28+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0353-p0356",
+      "candidate_sha256": "bdd3681178663ab5c4155abb132532cb13669697609d084d065479d24bea5142",
+      "validation_check_sha256": "c0d3263f22da0283abb03b880af9e18c78ac81a4f9b50863e3352e543244c16b",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Gossypium barbadense",
+      "display_name_zh_tw": "海島棉",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "tai2"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T14:59:18+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0357-p0360",
+      "candidate_sha256": "c3795144e17714d653784c1836844009109c623eb9a067d997efcab0aaa22d58",
+      "validation_check_sha256": "a465b2c8d8b8ff987e67b4f083cd6444b5098525eb23c114daa0b4adf3cf033b",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Euphorbia resinifera",
+      "display_name_zh_tw": "龍骨木",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T15:11:46+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0361-p0364",
+      "candidate_sha256": "3930b9349d9292acda17fa170f7dcba2d0a8a54c9e409dbc443423281c2ecadc",
+      "validation_check_sha256": "3d7bef3150dff57223315dd716e1e77b6b42fd3f0497b4a83b5597732f379010",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T15:28:10+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0365-p0372:child-01",
+      "candidate_sha256": "e987aeaaae96f4e515a6f153b5b92264a8f9c2d41d966d4ab45eb71d1488ea5a",
+      "validation_check_sha256": null,
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-20T23:03:29+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0373-p0376",
+      "candidate_sha256": "562f71f42c7b064a0847e8a8c73ab26b90cd4eccad86beb9dbf2e01d993ef145",
+      "validation_check_sha256": "f58d8f4412795e747357911d7a6a71327f259a9d96988ac0f4e87c14af270c49",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T15:42:36+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0377-p0384:child-01",
+      "candidate_sha256": "3c8b9a2cc5fc137dcba57fa0be361ed38eb78a6663fa0e389c6db459f4e79aea",
+      "validation_check_sha256": null,
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-20T23:03:30+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0385-p0388",
+      "candidate_sha256": "2287c2d653ce456a1b967c4de372671e59717ea47267138e12df131dd6507ff2",
+      "validation_check_sha256": "d8a811812b8bf354cdfc8fbd7cf721a85ff72d9c5409a430bc81227b9fb97a88",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Crocus sativus",
+      "display_name_zh_tw": "番紅花",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T15:56:58+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0389-p0394",
+      "candidate_sha256": "9570ed209c2cd8c41e9e9b78beebf92772d26b7407980396b8325459ea7e6349",
+      "validation_check_sha256": "7778b3ce2ca27093ff607c96932d0b25dcd18e52a482d2fe725609f1fdab8dff",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T16:12:58+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0395-p0400",
+      "candidate_sha256": "6ea58b613b1a78c82e5475cf36a2684bda331787a0a0e7113a51d4a2b04c8c1c",
+      "validation_check_sha256": "f2c77c0dbb80dc9715ac3e161bee7e8965454227dcc5d35cea6a8c3631ba929c",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T16:28:30+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0401-p0404",
+      "candidate_sha256": "919a37262116c3aa3c438891549f4e34d58cf79106fca6fe7e9ff5dd932a43af",
+      "validation_check_sha256": "7dabf1253d1b3d3352ca6d5a0fffa758d635a7a288146487e3f7e46b13ade60a",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T16:43:25+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0405-p0408",
+      "candidate_sha256": "ee57c903a43c09e93dab5eafcbe18dc5296006d8aa657215d3409be0f32ab799",
+      "validation_check_sha256": "a5d786577c5cf6be89278f6049983b00f061d7e9a1c6a24fdfb9ba7a48615318",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T16:59:16+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0409-p0412",
+      "candidate_sha256": "54edbf0783e0f01c3841a9e57981c9421e98638c64385e2115384501f1fc8250",
+      "validation_check_sha256": "8c6933c20177d23af120e645cc8828a997bbd12b7a9c4c01dbe5e727696eb844",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Saccharum officinarum",
+      "display_name_zh_tw": "秀貴甘蔗",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T17:14:39+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0413-p0416",
+      "candidate_sha256": "2babfc50abf30774c94855744286b541eb73b0db5df812c2203fae21a74ec68f",
+      "validation_check_sha256": "634044020dd066995d0f756ff3b7cb5e539c4da3ef5d3dcdcbd39c3034cb38ab",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T17:29:43+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0417-p0422",
+      "candidate_sha256": "314d780724314b1271475529b1247a233d41dbbe7196b418cb0be804ea2789d9",
+      "validation_check_sha256": "f7462fc4ba0074db80e9bfd612b7854a7ae6ba59b1f19b07deef2a3f64c8d19e",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T17:45:16+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0423-p0428",
+      "candidate_sha256": "3207b34222aaa3b933d0ed0e3ec71b6e650f5f3da70b2a9203a9ce463581e043",
+      "validation_check_sha256": "385077f8b3948356b040741c6646b64b815afc4b9bf6e0cfbb00e9f5b4dc4eda",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Zingiber officinale",
+      "display_name_zh_tw": "薑",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T18:01:12+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0429-p0434",
+      "candidate_sha256": "9d5eba13cc4352210f8b998663cdc486b1078c423c939033e51662c472eb9e2e",
+      "validation_check_sha256": "bac28235dd484c7606554128cc3a6e2b8c3b19fef140d7d9d723a6c2178299b3",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Acacia senegal",
+      "display_name_zh_tw": "阿拉伯膠樹",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T18:16:08+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0435-p0436",
+      "candidate_sha256": "c140d156060f4eeaf35de1749f0bb4ed1fc8685a6fb6f1389360b27192a9fba7",
+      "validation_check_sha256": "d47df11027fe7acd958a8b88b668d1f150b7064c8f9e86bb7aaf39b5f3cbd8f2",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T18:31:42+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0437-p0440",
+      "candidate_sha256": "6f35065f8979ea54bbdbfcebb5cc5565eaac32c3e326d4f0c4db91a1d9b7aca9",
+      "validation_check_sha256": "646b7470dac7afc1513979e1aa634ef9ff1c9ee8d8600ca60e9028d4b594addb",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T18:44:40+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0441-p0444",
+      "candidate_sha256": "5255ddd366f7651c00403fcd550737de92b65908ebdcc5c910fadce52ff8f2bb",
+      "validation_check_sha256": "679b2aacbdff12a2ff39e4ed9248f6a97b1eed7ee1dc498bc74c4dfddcf0d5f0",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Pterocarpus santalinus",
+      "display_name_zh_tw": "紫檀",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T18:55:55+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0445-p0448",
+      "candidate_sha256": "8ebac0bd3ddb5ae7036b35db1bb398026210551be8046a2a96c6ec4444c23778",
+      "validation_check_sha256": "3cdf05ac64eff7f206dcc89e637ddf5e44edb895101803cca4a81bf8153ed23c",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T19:08:53+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0449-p0452",
+      "candidate_sha256": "7678883a2f589f6d7d5e0e9b07266717d0d82e14b1529713234e3653d8ed1c8c",
+      "validation_check_sha256": "d973a7c8ad48b36d04de8b90a53cc6000fb95ceb01c6cc9340021cd70ec79356",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Curcuma longa",
+      "display_name_zh_tw": "薑黃",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T19:20:42+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0453-p0456",
+      "candidate_sha256": "7049620a44f93d8d5de5d8521cff10e75c7f03cf55de9739d3285b4dda16ffe4",
+      "validation_check_sha256": "162cef65f38093728424b117ae55422a534d8729ea66fff35d7a3f4401fb2d89",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Garcinia morella",
+      "display_name_zh_tw": "藤黃",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T19:35:04+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0457-p0458",
+      "candidate_sha256": "1d9bbbdbc9eb3d8b2ffaed725d4de576adcabc74e6bb4f971f32e21a670aff47",
+      "validation_check_sha256": "517768705ce1d07c0b6517baf2e670969eda56b30de285d44800d7e79eda7a11",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T19:46:55+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0459-p0460",
+      "candidate_sha256": "7bee08dba8dde6baaa2cafafb68595272801fcc84fbe7059c2c23b970b7eb380",
+      "validation_check_sha256": "d14e90539792a361c819f5b0efaf8595f497af3927ee51b67a26304a0558e94b",
+      "naming_terminal_status": "alias",
+      "accepted_scientific_name": "Curcuma zedoaria",
+      "display_name_zh_tw": "莪朮",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol_book_alias"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T19:52:04+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0461-p0464",
+      "candidate_sha256": "6312d8ae57e8833bff37acc6138ca070f2ed2b321be3fd08a4323b756df59e91",
+      "validation_check_sha256": "0c49ec88f6f61daff6e6a06773353df6e88147f9aeaaf41588ba9df533b8b653",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Croton tiglium",
+      "display_name_zh_tw": "巴豆",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T19:58:14+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0465-p0468",
+      "candidate_sha256": "97aab52bc5e737da0a26288c96e247b94e101a0284f7273f2c908cd60a884774",
+      "validation_check_sha256": "75bcf738fb02e46769887393e074d7fa8305226e83f108a89c37671ae9b0d1be",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T20:06:00+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0469-p0472",
+      "candidate_sha256": "fc8c434fa63e743df07867a84be4881a2780019fc3a33fac6022f0b51b472779",
+      "validation_check_sha256": "a4815b5c5d3ddd745d60f663dd58c63dd73dbbc69f439c8f3653cb6eab868bdd",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T20:11:47+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0473-p0476",
+      "candidate_sha256": "bfe4129c6f63f07efdfb3e11bde10bdb191475de41f2fe0eb360df876fc7ff18",
+      "validation_check_sha256": "d7446a6127ef347caade4cc5d6e4316a23c3d6209a9f5e4f1dd409c43affa529",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T20:17:58+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0477-p0482",
+      "candidate_sha256": "d1df91a5b6110ad1113fdd763a6ead3ddaec4e4b57f2a269474605347e609127",
+      "validation_check_sha256": "9d65f4d73c14add2b44b17902a92719176cc5a50548a7995c6418cc7bd9ff75d",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Elettaria cardamomum",
+      "display_name_zh_tw": "小豆蔻",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-20T23:02:55+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0483-p0486",
+      "candidate_sha256": "9ccd3e3dd7b0f24b24dceef80298057edcb6d3aab8ca3002e47422dee9fa59bc",
+      "validation_check_sha256": "6236a94520a9d15fd8513b21cb8190ecfb00cbe78f970fcd7ddc1356146a29f2",
+      "naming_terminal_status": "alias",
+      "accepted_scientific_name": "Alpinia galanga",
+      "display_name_zh_tw": "高良薑",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol_book_alias"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T20:32:20+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0487-p0490",
+      "candidate_sha256": "3492905bab206c03dea4815d74cfd63be0a50422a543f81856a65fe0e9950e85",
+      "validation_check_sha256": "56b2f67cf7dee133305e879f179afa957bb87a410bf4df8cfbd57546c36e38b1",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T20:36:33+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0491-p0492",
+      "candidate_sha256": "a5038ba616181ef2688424c7a0df310917fa305463c23636f39c08bb6de7bd54",
+      "validation_check_sha256": "8a24d651b6a29ba9f19d1b2b005eea67a5f186c433ae5c66a187ec6ba74a2d52",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T20:39:13+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0493-p0494",
+      "candidate_sha256": "780435bb45634e2be8ac15e2953fda02a97d067c3f54923480e8b4c66a7c85b7",
+      "validation_check_sha256": "6159258f6f3f11c5507d0626099d38b35fd0116581b6e64b610d8bb5deb6a3f7",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T20:42:51+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0495-p0498",
+      "candidate_sha256": "a379c9da72b2f67dd8204bc92b6e823f6fdd75583421c51e4df2d7e9c89107a8",
+      "validation_check_sha256": "1896bb3e3b93b83f36173bb0ab99949d8547de978421fcec1ad580f33f730ae2",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T20:47:31+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0499-p0500",
+      "candidate_sha256": "d8ad0a860ec11337d56c0c68a175cef0c79204a1f14257872e0375a35ac7a84f",
+      "validation_check_sha256": "87d1dc837c5769ea2e49e3ab8cfa943465ed9536d4419c1e9ec33ffd8ad1129c",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Areca catechu",
+      "display_name_zh_tw": "檳榔",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T20:49:33+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0501-p0504",
+      "candidate_sha256": "53cb7d6580ccb4dc54ad7e2039d8c519815ee13231235c20c7c610ca6377c1a0",
+      "validation_check_sha256": "0de392c9ea6d50caa6c5188bfa26f942a802a31badb43bfbf2ef012ceb95b025",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T20:51:39+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-2:p0505-p0508",
+      "candidate_sha256": "94368f92dd5676e8a339494734b3ae3406db0980eef8de26b665f13c3da1a486",
+      "validation_check_sha256": "c0883aef503fa2af277eb1b16839079eae1068b7d2cc16ba58b5f3c5ea9d149c",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-20T23:03:32+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0043-p0044",
+      "candidate_sha256": "6eb2851490d7f4019f53d8d9bfe72c61252f51919b99b7182ba26267d6a18ed3",
+      "validation_check_sha256": "c95df2c537b9e715ad7f229b70e529655d191d3a2190054154ad5210e6bcee51",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Palaquium gutta",
+      "display_name_zh_tw": "膠木",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T12:45:07+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0045-p0048",
+      "candidate_sha256": "9e8653cb9bbf91dbea1a64e6543ec29263c7f761af66b98a36bf317a48c80120",
+      "validation_check_sha256": "5a16e07e4048555478d147a390daecb4c1f6cfaa1b08c875a1cf3ba12fc84a24",
+      "naming_terminal_status": "alias",
+      "accepted_scientific_name": "Palaquium gutta",
+      "display_name_zh_tw": "膠木",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T13:04:52+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0049-p0060:child-01",
+      "candidate_sha256": "208a4dee7dadbe42e279fa672428f41cd0f925ddb7f8f69053d97da25b597b75",
+      "validation_check_sha256": null,
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-20T23:03:34+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0049-p0060:child-02",
+      "candidate_sha256": "3bd75851fc248da886ce15ad673da6645133462c181633d37b4fa9ef696cf13c",
+      "validation_check_sha256": null,
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-20T23:03:36+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0061-p0066",
+      "candidate_sha256": "34f5317037c2ec0c549aa1084aa31b13ea2ac4c93c1db9d21d7db5955f4189aa",
+      "validation_check_sha256": "954e20133b10c32948d006d4ec664bba8c2cdab2d4521ee39aad63bcfa1134d8",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Manihot glaziovii",
+      "display_name_zh_tw": "薩拉橡膠樹",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T12:27:45+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0067-p0074:child-01",
+      "candidate_sha256": "66e5cd1bee6d9c7a3a5456302ec5f05f8ec7f6c44b4b17cc7e947c672c912a2e",
+      "validation_check_sha256": null,
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Hevea brasiliensis",
+      "display_name_zh_tw": "巴西橡膠樹",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-20T23:02:57+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0075-p0078",
+      "candidate_sha256": "13e7f686bb5c3496c78fa6e2f0377ce520633c5278138ca2dd4f8ef617c38a1f",
+      "validation_check_sha256": "b70389e18f1d6bc4ec521dc12f999ec8b1596161051840cdbd067ce4f0d2d078",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Anthemis nobilis",
+      "display_name_zh_tw": "羅馬洋甘菊",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T12:41:51+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0079-p0080",
+      "candidate_sha256": "4023c55e1f9ca84d8088ea143141d9c571cedeb96c27039797c23a63bcaf32b5",
+      "validation_check_sha256": "e13c88d01f18188f08f40c0c6a7d4b70c9566c7c833127425f3219499d1e710b",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Anthemis arvensis",
+      "display_name_zh_tw": "田春黃菊",
+      "display_name_source_scope": "taiwan_government_public",
+      "display_name_source_evidence_ids": [
+        "executive_yuan_gazette"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T12:57:34+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0081-p0086",
+      "candidate_sha256": "f7467128648c1700a42b226b33e19e5a10e1905cb6be57970b036971660e9c28",
+      "validation_check_sha256": "6ff81cd66eb43437e2eb99393c80572f5018484a5e6cf8880c6e56dd113ef4ce",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Anthemis cotula",
+      "display_name_zh_tw": "臭甘菊",
+      "display_name_source_scope": "taiwan_government_public",
+      "display_name_source_evidence_ids": [
+        "taiwan_acri"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T13:20:00+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0087-p0094:child-01",
+      "candidate_sha256": "d4318c467b632ffb7580674337b8069a6d2b932afb0014e90653b61e02bd6740",
+      "validation_check_sha256": null,
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-20T23:03:38+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0087-p0094:child-02",
+      "candidate_sha256": "5914121a16d8a7dc9233cf55c027690f4c9e90a0b87218b3a225d984d0a99e4e",
+      "validation_check_sha256": null,
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-20T23:03:39+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0095-p0098",
+      "candidate_sha256": "c736805c215e1e5c9aac340222fe09439b9bc1bf4878bd8dc069673435051b30",
+      "validation_check_sha256": "5294ffbb183bb1c40b410eef0ffa16bd2a5b23ad12980f03e4a2280631050307",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T13:36:51+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0099-p0100",
+      "candidate_sha256": "da1fd68ef6019e038a0e3a57abb357c2dd62f688ad2dc3242fb20ef8b58ad1c9",
+      "validation_check_sha256": "736ec1c2c8a10a46eca82da6e0a001c334c7bd74ecbf86a4016837fd4e770056",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T13:51:11+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0101-p0104",
+      "candidate_sha256": "15e1d61f4c891bd0aeb738019433f0a486e9edcc86314a194b97ad250445b817",
+      "validation_check_sha256": "63c0ff4cda45dc239d716c8743d9d28e69a6994d40c935c1d63d09f02ea3affd",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Papaver rhoeas",
+      "display_name_zh_tw": "虞美人",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T14:06:46+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0105-p0108",
+      "candidate_sha256": "8598d6adedf2954e780e9733e099ef24fa9465c15ea6ffcf46f6694af3b403bc",
+      "validation_check_sha256": "c7ec09c84a3d2778806a54276a54881e69a68a2f2d9d5e80b87ffcfa2259a26e",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T14:20:09+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0109-p0114",
+      "candidate_sha256": "16a1ffa6a51643390f0bfce9d18db1f1c4c82d517d2f84cba29377f03994b541",
+      "validation_check_sha256": "030f97f30af7f447db2c6811190fe7ab664ecfe6a874458c54e200312f91f7da",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T14:33:31+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0115-p0118",
+      "candidate_sha256": "6ec711310c728b8dade82bdfaed0faa5698ff4b83a1476a45341296d006a18c8",
+      "validation_check_sha256": "57091be08f5048843163acd903f875e22fc5a7a8dc10c6d17a5952af4a87c4b1",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Cicuta virosa",
+      "display_name_zh_tw": "毒芹",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "tai2"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T14:48:00+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0119-p0122",
+      "candidate_sha256": "505498a2eee74450a8814b5d1f24e2497bfa4a2a8eaecdcc3df4c53a83cf79b9",
+      "validation_check_sha256": "36069a3b99ca74c16d2b519c0ad77f3a4559cf15bd129c11dbaa3f9adcd84f11",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T15:01:58+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0123-p0126",
+      "candidate_sha256": "e03e30448d981020d59496aa65636bfdcab9d1409e16e9bf555afa5e438e53d7",
+      "validation_check_sha256": "001e906ad319d88a47ea3ddcbb1a124e7b41edf8648ae6b714f161565cfc1da2",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T15:13:52+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0127-p0132",
+      "candidate_sha256": "4e61b8cc8ac321ec5cdef15eda221fb95c35381f6557acf6df0f029943fa94df",
+      "validation_check_sha256": "b13fbf06c5ee312dee8d4e2685e4051b34f37d39507281c35e513b12cc288f83",
+      "naming_terminal_status": "alias",
+      "accepted_scientific_name": "Apium petroselinum",
+      "display_name_zh_tw": "美國香菜",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol_book_alias"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T15:30:42+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0133-p0136",
+      "candidate_sha256": "4e2b55362d0541d7715e5fc60ad02f3a14fe5e0affeb56ef3f20c3965b51f0e3",
+      "validation_check_sha256": "571b088a76e7cfe70c935d79719cdf556df8b9b6904da85da1b058eb0ef5099a",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T15:45:42+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0137-p0140",
+      "candidate_sha256": "b8a5652222cc0c2fef189c39b07fef508d939b15b25421ea613019fc6b7ae4d3",
+      "validation_check_sha256": "21e216a63e63b4811a4e9434bab34f71915c5f07bb70b6c0456f0fdb267d773b",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T16:00:04+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0141-p0144",
+      "candidate_sha256": "fb19984a5c7645aee3c4c2ed86070a840c00a255a36a6a05268d1a26665047de",
+      "validation_check_sha256": "257ee7f9056efac03be561e475aaf3fb63bee1ada25a26a0f9c807a8e3e4e35f",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T16:16:06+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0145-p0148",
+      "candidate_sha256": "2b74db7251b191a1937952b831b8b058f08ccc4641af083901d3a77f711f055e",
+      "validation_check_sha256": "d982d99233259da82baef81ab52077e518cf374d45e26ffc1ab09f30d16bcb29",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T16:32:06+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0149-p0154",
+      "candidate_sha256": "ca153b8604b0199347d0b6bf40c45470a3f990e53b9b9d87dd264b6016694563",
+      "validation_check_sha256": "a3a312b525712dad3e3ba930ce7d389015bb54b6a55b3a88a22c7d02e34e04ef",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Chrysanthemum cinerariaefolium",
+      "display_name_zh_tw": "除蟲菊",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T16:46:57+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0155-p0160",
+      "candidate_sha256": "dd2f49fe419dfe363ca2719475548a547b7a45c8ada83c85f5349acf30359d91",
+      "validation_check_sha256": "7a9b48501622ce05b0b29a683cda73d7590a2047b46ac42d74980d27ff8dacef",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T17:02:22+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0161-p0164",
+      "candidate_sha256": "109ac7df39a4c6fde141b8746de895d6778c9921f9d85de5bd4a31786edaa940",
+      "validation_check_sha256": "96bfbb55dc5dd3173a20f66c667261a80f2812e1e8268c3db35c85244f16b8c1",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T17:17:15+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0171-p0174",
+      "candidate_sha256": "88ed45b736f151df4d9f542d45cd859a8b14fe7063a61f611f4202c47ff8fa46",
+      "validation_check_sha256": "cec0bcbff679ce30d7a7cd7393a929c61a3ead8dc058bb75764bb806e41d9cd4",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T17:32:17+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0175-p0180",
+      "candidate_sha256": "75fe7e54795b738fe268545471be6a0dcfcf38208492ff5609314ba625ad4933",
+      "validation_check_sha256": "845f3f86503adb66a2e10ac1a41f4fee8159a7958869e695eab20fe299b3c0d9",
+      "naming_terminal_status": "alias",
+      "accepted_scientific_name": "Indigofera suffruticosa",
+      "display_name_zh_tw": "野木藍",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T17:48:18+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0181-p0184",
+      "candidate_sha256": "7829b8853aeff1524a6e009f02c2269c7bb436634ff098b0260ffb25ca52df94",
+      "validation_check_sha256": "86e33de85acd093e77fcff4241acd95d85c6f5efc3b57aa05b853c8375572988",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T18:03:49+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0185-p0188",
+      "candidate_sha256": "f007eb4661ce4d32c40780510c846495e12056e5fa8ba16b020ea7042deaef3e",
+      "validation_check_sha256": "68aec18579e30330cf313305d9d297de2c6be6cb498d69c5959c05c9c4da2777",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T18:19:14+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0189-p0190",
+      "candidate_sha256": "893a8cd9f5fa7dbb1e5aa1e080c1847380f35dae7d6d3cc1376b3f27c6eb8956",
+      "validation_check_sha256": "4092e5fad03827c2226505978c00983068e45cc39808724b852f6b3a3f68c988",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T18:33:16+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0191-p0204:child-01",
+      "candidate_sha256": "f5627a5b6c5c2ef4e9733e941634ba0ec38e6da65b509bc4d30af9f2bf1f6b53",
+      "validation_check_sha256": null,
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Eucalyptus globulus",
+      "display_name_zh_tw": "藍桉",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-20T23:02:58+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0205-p0208",
+      "candidate_sha256": "213020b57c1c940dba83209e104ab42a6aa567d0b99dcb5da01a68b937bac2d7",
+      "validation_check_sha256": "91a54e88b89ef5475e4e4f8d1a2abb0fb8b46d34a1c3839f94e43fa09d991b9c",
+      "naming_terminal_status": "alias",
+      "accepted_scientific_name": "Piscidia piscipula",
+      "display_name_zh_tw": "毒魚豆",
+      "display_name_source_scope": "non_taiwan_traditional_fallback",
+      "display_name_source_evidence_ids": [
+        "zh_wikipedia_fallback"
+      ],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "use_only_with_non_taiwan_fallback_label",
+      "checked_at": "2026-08-13T13:07:31+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0209-p0214",
+      "candidate_sha256": "f1c5271603728f2d460d5c5a0207e24b68b611032728f6d15e2194ffda27ce3a",
+      "validation_check_sha256": "ef9a298e06dea86f57a9b10babd691312a81bae59c95774d126d733b0ce8cc01",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Arachis hypogaea",
+      "display_name_zh_tw": "落花生",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T12:27:47+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0215-p0224:child-01",
+      "candidate_sha256": "b5469315127987f53e0d10dffd23de3a0bf85c2b75edfa52592735bf858adf1c",
+      "validation_check_sha256": null,
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Santalum album",
+      "display_name_zh_tw": "檀香",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-20T23:02:59+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0225-p0230",
+      "candidate_sha256": "b7b86c35a4541992bb3dff4b29afebcb23528dad06ae50e7b30cd230f9732a6e",
+      "validation_check_sha256": "b06d55e27e087aa6268f3a6d2d7fa0a6a0cc0fb7075bcdebe6803c86f2a3c792",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Gaultheria procumbens",
+      "display_name_zh_tw": "冬青",
+      "display_name_source_scope": "taiwan_academic_public",
+      "display_name_source_evidence_ids": [
+        "taiwan_academic_publication"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T13:04:52+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0231-p0234",
+      "candidate_sha256": "64117cbb7f49c571cfac1a32762056c5da357606c20ca3596579c168c5ea3616",
+      "validation_check_sha256": "cf112bff368c48e282ffdb5d5309eb4afe34341ec2c803eb6fff392780ccbf72",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Strychnos toxifera",
+      "display_name_zh_tw": "南美箭毒樹",
+      "display_name_source_scope": "non_taiwan_traditional_fallback",
+      "display_name_source_evidence_ids": [
+        "zh_wikipedia_fallback"
+      ],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "use_only_with_non_taiwan_fallback_label",
+      "checked_at": "2026-08-13T13:09:10+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0235-p0240",
+      "candidate_sha256": "a9c8ad2a76d5736b5bbcc9c24fd35d98b8563011e8590a52d272b6b6c85f378e",
+      "validation_check_sha256": "dd9a8e9f9ee7771128b4b07d062b8157b6ff930125dcd1bafa490e169f1a86e0",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Strychnos ignatii",
+      "display_name_zh_tw": "呂宋果",
+      "display_name_source_scope": "taiwan_government_public",
+      "display_name_source_evidence_ids": [
+        "tfri"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T13:00:56+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0241-p0244",
+      "candidate_sha256": "2f63ff12ba8c7db6b4c085237ae4ac7ab4cfe93c680b72be8bbb8fe28ddaf845",
+      "validation_check_sha256": "56d4d8be691f802737d55ecc341d1f624bac1ccafaea4eb9f9fff90a861ed3c9",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Gelsemium sempervirens",
+      "display_name_zh_tw": "卡羅來納茉莉",
+      "display_name_source_scope": "taiwan_academic_public",
+      "display_name_source_evidence_ids": [
+        "nchu_horticulture"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T13:23:29+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0245-p0248",
+      "candidate_sha256": "ce6367a4e260daa09fad5ba80d05f1e4e696ef1a77205023f1af5f8ca2121de3",
+      "validation_check_sha256": "f6218f9025e443403169111614e01a8da4a132b8177b62901e683a89e6449b48",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T13:39:04+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0249-p0254",
+      "candidate_sha256": "384e8d33002fe85b3266e804ac2bb32baa4c585686e60f795d1be72751e2b835",
+      "validation_check_sha256": "2e9d52aefb9b57017f66c7c35c5d4363ef82a5dbc58978000acbdb67cee2cf51",
+      "naming_terminal_status": "alias",
+      "accepted_scientific_name": "Citrus × aurantium",
+      "display_name_zh_tw": "來母",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T13:52:33+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0255-p0258",
+      "candidate_sha256": "e7d3e414b27487a31d08a8d0ac791a8d1d3f2b2d430115c9f976335a7c1f23f2",
+      "validation_check_sha256": "d4d89f1022a32d176e38347106ec4fabf9954bb7f9dc591e97eec4a5524f6269",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Rhus succedanea",
+      "display_name_zh_tw": "木蠟樹",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T14:09:17+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0259-p0262",
+      "candidate_sha256": "b5b9271843cf205bf84dc1240c507e462219ca3ee0810ada71a4b81d68a6990c",
+      "validation_check_sha256": "2e13fd897241a145ca910fd7edda1866f5807f8c6ccdabd4af5fd6912ac36d1b",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T14:22:42+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0263-p0276:child-01",
+      "candidate_sha256": "ca4c6c652e8917bc73133862f0ca63eec2a1d1f69412c61eabe9e6ffa285671a",
+      "validation_check_sha256": null,
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-20T23:03:40+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0263-p0276:child-02",
+      "candidate_sha256": "e9c6ca5eb932f56695721c763eb27fd92a616ef2a1cbe14cce7ed836e2b2b0de",
+      "validation_check_sha256": null,
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-20T23:03:42+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0263-p0276:child-03",
+      "candidate_sha256": "f74ec485cdfc6e8344585b1b35ed5c866e0e54e679e02f492353994613d15f1f",
+      "validation_check_sha256": null,
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-20T23:03:43+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0277-p0278",
+      "candidate_sha256": "e3764011fad90139adc79ba5a840d5211e94c5d212fe21741d74ca11ea8e282e",
+      "validation_check_sha256": "6592dcabf195df777693e6330a8c75ffd9b6796da539b86d434e2c61f94f02e1",
+      "naming_terminal_status": "alias",
+      "accepted_scientific_name": "Cerbera manghas",
+      "display_name_zh_tw": "海檬果",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "tai2"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T14:35:37+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0279-p0282",
+      "candidate_sha256": "f95a0b8fe3362c3e83b7676b65c571b666bbb673fedcc911c83625f2017a9160",
+      "validation_check_sha256": "f6148d4c196b404d29a6c88b76d4b09c1fb62b2620e9a8a8d23cc24d3270a295",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Chrysanthemum parthenium",
+      "display_name_zh_tw": "玲瓏菊",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T14:49:33+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0283-p0284",
+      "candidate_sha256": "838520939f699ff6f9ecdd414d4298623cef054cbd57742e9250e1bcd90cda5b",
+      "validation_check_sha256": "0b11c531971cc454fd9eab0ffc9f5b70c5101e562c93cda2f14832837586fc4b",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T15:03:32+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0285-p0290",
+      "candidate_sha256": "59389c679aca550eaf4a3afcd650ba6b5dfbceb66256a182685dc04463ae0900",
+      "validation_check_sha256": "97875aff12f9d3785d1450101aed4e3c4644974334dc4697c3fb9ab3bed82c5d",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Sesamum indicum",
+      "display_name_zh_tw": "胡麻",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T15:16:54+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0291-p0294",
+      "candidate_sha256": "4638fac75a42fa0288fbe153e95f001485fdfc9006ed52c4a3bf68160132a04d",
+      "validation_check_sha256": "06997161f01625b6d59f5873c206c90f53d91974da4eff490f73da2791296a86",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T15:32:46+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0295-p0298",
+      "candidate_sha256": "09d912054c2efa1147dbbfccfa6d578c1d341e68068aca3cba6c32452b029461",
+      "validation_check_sha256": "c63269831f0a8f8b7c7047c9265eab8ee1e60d1524dbd1dc3bcfcd3e488b3ef3",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T15:47:46+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0299-p0302",
+      "candidate_sha256": "7e40f5aef5d084a3b78c48bd22d448656f102879d6007d0e83802e23453565dd",
+      "validation_check_sha256": "b136e18f80fa73f842548fd9700b74a29481f706a95dcb10fea2c842af316acd",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Calendula officinalis",
+      "display_name_zh_tw": "金盞花",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T16:02:06+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0303-p0304",
+      "candidate_sha256": "6708b389e13de6304f51e8b88899af0da3d57b7cc4fa19c9f95a76bc9769de80",
+      "validation_check_sha256": "3490921b61e261a39664627e08f7381849d90285eeecb23f584d06d55951f183",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T16:18:10+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0305-p0308",
+      "candidate_sha256": "1bde37f50df648fecbbc9ca40796007860862e1a3f8a964673fc93faa0526b93",
+      "validation_check_sha256": "87e28721f611a8985ded008239b2f81a462bc7829d0bb965dac7f31a962e824c",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T16:34:40+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0309-p0312",
+      "candidate_sha256": "c577afe3376dbadcd73533ba723f2a94c2a798d8e1511b6e001bf9129386554c",
+      "validation_check_sha256": "4443c7c4ba3b00ec7b238606bb38970a22451326b2e33b70f1300d72925be2c4",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T16:49:34+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0313-p0316",
+      "candidate_sha256": "43209664717e015a91d430b49e5826a7e49830af2327381dbb8aa6b16d14e12a",
+      "validation_check_sha256": "1e0c3745fd42bb66d9f97290c36df036db76dc2bdc0202b6aab6750b52e625fe",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T17:04:26+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0317-p0320",
+      "candidate_sha256": "3c82aa971a1fcd5738c044fa793e1c8e9302ab818ff98c6eeed787a63620e239",
+      "validation_check_sha256": "9e288ed97a8ec9a09f73daa212e75995e066abca3643eba97d3ef4c8f0a2648a",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T17:19:50+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0321-p0324",
+      "candidate_sha256": "9274070a8493744a8b82c2d3bcd9c3f41ab0e3fb361ce3b53aafdf513d5c0b44",
+      "validation_check_sha256": "576edc1bacfad3b61c4d7e76fdfe31c8018c713fd3b3dba3e4086a88ada9dfa3",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T17:34:21+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0325-p0328",
+      "candidate_sha256": "dec4249a568f9a2bf79c5abea7c7135307735f2c18038e33829248a06fe18dbb",
+      "validation_check_sha256": "09ae08f2fbbab6846803f1947d566d2788bd9f43da0468cbd2a00157f8601433",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T17:51:24+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0329-p0332",
+      "candidate_sha256": "98c0a95be5373c7e533483f57d8b73429db4b282b73beda06353ea7695b11dad",
+      "validation_check_sha256": "50a48e6ffa43e608929d0dd1f0180a528bd1b4dee06f7ce5f565fa31baa1b657",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T18:05:53+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0333-p0336",
+      "candidate_sha256": "160a8f4e72ceb19f658b6fed312781b6692cd3bc8aa095805b2dea9a6417bfab",
+      "validation_check_sha256": "b8a69de6eae294c480deb04efee97ee290c0f4ace94103f91eed1f7c38deef7d",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T18:21:22+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0337-p0338",
+      "candidate_sha256": "7164d790c2c7f8a83b71f8d41fbca3ffb91a1b94e92a070fcb36ec02c43d5b00",
+      "validation_check_sha256": "2391193eadd5438c60d8b32bf7c822977a23b91da64da7a76b0595803966830b",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T18:34:51+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0339-p0342",
+      "candidate_sha256": "a79f18608dc9ff73b46cbeaec272109be1757112a458bda1910e54f19efc0695",
+      "validation_check_sha256": "1c6d52b0925d4986d89e04dc3f525c33f67aab09ee6e43dd39e8ac9962130c02",
+      "naming_terminal_status": "alias",
+      "accepted_scientific_name": "Ficus elastica",
+      "display_name_zh_tw": "印度橡膠樹",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol_book_alias"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T18:47:12+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0343-p0346",
+      "candidate_sha256": "dbfca372802a0c9284af2e60991e5164bf194da13c603c30676c9286c2d86ef3",
+      "validation_check_sha256": "f8c75c11f5ca665e75ef020a608694952c88a6e32c8280b223e4e2a6028ab754",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T18:58:32+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0347-p0352",
+      "candidate_sha256": "fa473b52f9303bf06dd0cded4f0592cbd1cc423c8812d5ecc644f36573dab1ae",
+      "validation_check_sha256": "efc4204086e73b3a115ac988251481ddf360026a42d2c63f240191d87dd96ad4",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Oryza sativa",
+      "display_name_zh_tw": "稻",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T19:11:25+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0353-p0358",
+      "candidate_sha256": "95b549f0c07d712eb5847385d37163db5886e7dd73ef4992a7e310d072d3604a",
+      "validation_check_sha256": "765e6988d3c8648ab297af91830754dd2e82cf20e8cc67d66f632a740325663e",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Cocos nucifera",
+      "display_name_zh_tw": "可可椰子",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T19:24:15+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0359-p0364",
+      "candidate_sha256": "9caef61d5a004bbd7484e4c0b50432a2155d1e5921a22ae1fb44213ed46836c5",
+      "validation_check_sha256": "8436cfdc0371ab5337a19f2ce390cfdb0393165d6c3a1fec3277cf8c4b13d4fc",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Elaeis guineensis",
+      "display_name_zh_tw": "油椰子",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T19:37:37+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0365-p0372:child-01",
+      "candidate_sha256": "34b88f8d25b0b8294395482ce631bda1199ff4693cea8ea3871ae19865da2960",
+      "validation_check_sha256": null,
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-20T23:03:44+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0373-p0374",
+      "candidate_sha256": "015bbb5bae5883da280a2bc975acbea793f3ee3db1866020017191f9d33f6629",
+      "validation_check_sha256": "5de842144b995beec9856498272873fbd97cdc6e1c35a158f1f0c0829a09a164",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-20T23:03:46+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-3:p0375-p0376",
+      "candidate_sha256": "cab082cabc0d8877e4d3ce9b22c1418ddaa36524789e20658aed0176770d3a8e",
+      "validation_check_sha256": "17bdcdf0d687ddc727e3231f49933a900750b5e59b8836be10738b676018959a",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Convallaria majalis",
+      "display_name_zh_tw": "鈴蘭",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-20T23:03:03+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-4:p0002-p0017:child-01",
+      "candidate_sha256": "357ee282617bc82abee9a501395dde786b056739fd5b6d7a482b570bdcb05a94",
+      "validation_check_sha256": null,
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-20T23:03:47+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-4:p0002-p0017:child-02",
+      "candidate_sha256": "2ff9df1a79d93f1bba61e8259ef4c484fc5defefde11d2033df6626db07556b6",
+      "validation_check_sha256": null,
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-20T23:03:49+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-4:p0002-p0017:child-03",
+      "candidate_sha256": "f239514ed53521bc7ba6c5cc88d6ec2ecac77d5b553738c5c24a605f275b03e6",
+      "validation_check_sha256": null,
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-20T23:03:50+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-4:p0002-p0017:child-04",
+      "candidate_sha256": "a2352a9716481a8586cdfd4f1e5a0e077976c5015643d6a6b6d5d7a5742e6b24",
+      "validation_check_sha256": null,
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-20T23:03:51+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-4:p0002-p0017:child-05",
+      "candidate_sha256": "9a0b21b3c4d63c0fcaecfaa8a6b9eac333ca6d24e797c79af702b13865181605",
+      "validation_check_sha256": null,
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Amanita caesarea",
+      "display_name_zh_tw": "橙蓋鵝膏",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-20T23:03:05+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-4:p0018-p0020",
+      "candidate_sha256": "3f89239e8e5c6b0ef34b41e20e2859fd14b027700e16bbf9f7701b5cd7ee6eae",
+      "validation_check_sha256": "a00430dffb70a7658b33af9981e434947bc8cf941ee16fcfe068f60590bb9083",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T13:31:33+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-4:p0021-p0023",
+      "candidate_sha256": "f94cf28722670706bc820dda93a71a5ec6344cabe4505d620f7b653f79fc96ed",
+      "validation_check_sha256": "1bb364098e7e6ca61a46c326ea382b59e0035930e00bdfa33a5f08666ee9935f",
+      "naming_terminal_status": "alias",
+      "accepted_scientific_name": "Agaricus campestris",
+      "display_name_zh_tw": "高溫洋菇",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T12:28:09+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-4:p0024-p0027",
+      "candidate_sha256": "ce7dc93f580562036de5d82373d93171b80c9119c1268732e18f6bdae1602bb1",
+      "validation_check_sha256": "0b539b5657cba18ceafed1e655b211b23f007499d4c96380a4ecdb78b6d14b0d",
+      "naming_terminal_status": "alias",
+      "accepted_scientific_name": "Lactarius torminosus",
+      "display_name_zh_tw": "絨毛乳菇",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol_book_alias"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T12:55:42+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-4:p0028-p0029",
+      "candidate_sha256": "17ce3f56d3492d704379c442b45c49d30f2918ac754a71739c10a035b1b82de0",
+      "validation_check_sha256": "3783577256ecb5f599aeccf3c86af5f5dca6f599cec0310ed0b5b0b00a29b613",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Russula emetica",
+      "display_name_zh_tw": "毒紅菇",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T12:28:10+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-4:p0034-p0037",
+      "candidate_sha256": "650b2bd0a2d3950db7064c714ca23435efcf00020613ca014a7776e7294ae36f",
+      "validation_check_sha256": "8fbdc9bcfac4c538b3e9e280a57281c57a48988963c41d7fcb07f72610f9eeab",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Maranta arundinacea",
+      "display_name_zh_tw": "竹芋",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T12:49:04+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-4:p0038-p0043",
+      "candidate_sha256": "29dde903fd8f9357550c7f6596ad3b3fbeb11273e7561351e8b79b129438cb3c",
+      "validation_check_sha256": "901b574fd7312e9bb48d74dfdd16d6afe2761ccb8a224e1cbf843195af658f1b",
+      "naming_terminal_status": "alias",
+      "accepted_scientific_name": "Betula pendula subsp. pendula",
+      "display_name_zh_tw": "歐洲白樺",
+      "display_name_source_scope": "taiwan_government_public",
+      "display_name_source_evidence_ids": [
+        "taiwan_moa"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T13:10:15+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-4:p0044-p0053:child-01",
+      "candidate_sha256": "a4aefaeb890d44cb6cf6db335f5e08512458df06e1990e0527d314c313ff4e03",
+      "validation_check_sha256": null,
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Agrostemma githago",
+      "display_name_zh_tw": "麥仙翁",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "tai2"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-20T23:03:57+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-4:p0044-p0053:child-02",
+      "candidate_sha256": "1b177287485209403dfcb9ca13a3e80c91467e0ccd3f6276049a2dc410639532",
+      "validation_check_sha256": null,
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Saponaria officinalis",
+      "display_name_zh_tw": "皂質草",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-20T23:03:06+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-4:p0054-p0057",
+      "candidate_sha256": "ec2cfb7ac9f2a8f332341bb7dec06bf72073f6f84d7f34762085b619fafa6f4a",
+      "validation_check_sha256": "00e1767beff0e9f7c5be15c6a125aa2fbc443e6e895b0c93b7f2289b0597fd23",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Helleborus niger",
+      "display_name_zh_tw": "聖誕玫瑰",
+      "display_name_source_scope": "taiwan_public_fallback",
+      "display_name_source_evidence_ids": [
+        "taiwan_public_horticulture"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T13:25:05+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-4:p0058-p0061",
+      "candidate_sha256": "d904447f7dbcb0ba1594095cbcd09eab9f509ccd0b61978bbc626ede9790fe28",
+      "validation_check_sha256": "621eadc761b74a934efae5af0730f20f6345ca4ba1b317ae59c36250bf7a284b",
+      "naming_terminal_status": "unresolved",
+      "accepted_scientific_name": null,
+      "display_name_zh_tw": null,
+      "display_name_source_scope": "unresolved",
+      "display_name_source_evidence_ids": [],
+      "display_name_is_taiwan_public": false,
+      "display_name_answer_policy": "scientific_name_only",
+      "checked_at": "2026-08-13T13:41:37+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-4:p0062-p0065",
+      "candidate_sha256": "f6a82aceef60878b7fe5732d92f575593a3174008eca8daff3717ea7b0680c9d",
+      "validation_check_sha256": "bbb2d84b69f1783ef3a146a2334c88a6d4cc746381aab8c6bc47be6264eccfef",
+      "naming_terminal_status": "alias",
+      "accepted_scientific_name": "Laburnum anagyroides",
+      "display_name_zh_tw": "金鏈花",
+      "display_name_source_scope": "taiwan_public_fallback",
+      "display_name_source_evidence_ids": [
+        "taiwan_public_horticulture"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-13T14:00:00+08:00"
+    },
+    {
+      "entry_id": "kohler-volume-4:p0066-p0069",
+      "candidate_sha256": "f4018ebf15fceb03054b541bbc2cca7b75a8485b87d910d0adb206dacef1024d",
+      "validation_check_sha256": "61b3d4b42959a46ad8392fe68ab4a2eccc48fd85adecd351ca576a1c770c8167",
+      "naming_terminal_status": "accepted",
+      "accepted_scientific_name": "Lupinus albus",
+      "display_name_zh_tw": "白花羽扇豆",
+      "display_name_source_scope": "taiwan_taxonomic_public",
+      "display_name_source_evidence_ids": [
+        "taicol"
+      ],
+      "display_name_is_taiwan_public": true,
+      "display_name_answer_policy": "use_as_taiwan_primary",
+      "checked_at": "2026-08-20T23:03:06+08:00"
+    }
+  ]
+}

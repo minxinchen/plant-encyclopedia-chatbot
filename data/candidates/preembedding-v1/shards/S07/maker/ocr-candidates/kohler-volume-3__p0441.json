@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 441,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "7f39c5be29e1bdb62e0795a447fab4fb6ed83ba834dc73845ce770e26be52233",
+  "render_dpi": 144,
+  "render_sha256": "db5caa45c13dd5e832d103f03c6ac8ef1916f2cc80303d5927058269698ee41a",
+  "input_sha256": "db5caa45c13dd5e832d103f03c6ac8ef1916f2cc80303d5927058269698ee41a",
+  "render_pixel_width": 5522,
+  "render_pixel_height": 8294,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.457,
+  "embedded_character_count": 165,
+  "ocr_character_count": 43,
+  "ocr_alpha_ratio": 0.6279,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.017867406209309933,
+      "text": "Papayaceae.",
+      "width": 0.10278145211641909,
+      "x": 0.8667315437032683,
+      "y": 0.9474616459110472
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "5",
+      "width": 0.015283841845175505,
+      "x": 0.7816593892120556,
+      "y": 0.10465116288193044
+    },
+    {
+      "confidence": 1,
+      "height": 0.023928168274107375,
+      "text": "• Carica Papaya I.",
+      "width": 0.17923365904215371,
+      "x": 0.4453176693455071,
+      "y": 0.03164056727017317
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "33",
+      "width": 0.01965065400397903,
+      "x": 0.8842794766552158,
+      "y": 0.02906976767844205
+    },
+    {
+      "confidence": 1,
+      "height": 0.017482234372033,
+      "text": "Taf. I.",
+      "width": 0.05021834053687646,
+      "x": 0.5131004364045968,
+      "y": 0.008680555680903201
+    }
+  ],
+  "text": "Papayaceae.\n5\n• Carica Papaya I.\n33\nTaf. I.",
+  "output_sha256": "46caecb89816ea53808c0533c8b5969403f7fe1baac2caa6ed32c12a312abbe5",
+  "receipt_sha256": "a15f886aa5a18fdc39c3792df445727091d880a3ee5d598d7e4bdd39c3e67f69"
+}

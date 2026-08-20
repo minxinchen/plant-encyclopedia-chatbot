@@ -1,0 +1,244 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0157-p0158",
+  "entry_id": "kohler-volume-1:p0157-p0158",
+  "owner_shard": "S02",
+  "book_taxon": {
+    "scientific_name": "Thymus vulgaris",
+    "authorship": null,
+    "aliases": [
+      "Thymian",
+      "Thyme",
+      "Thym"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Thymus vulgaris"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T14:26:48+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Thymus+vulgaris",
+        "query_name": "Thymus vulgaris",
+        "retrieved_at": "2026-08-13T14:26:46+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 157,
+      "evidence_type": "text",
+      "page_text_sha256": "17f92b9ee714efa6fb06a5a5b4c7b90b1d9386809cb9dc366904ed4065e63f10",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 158,
+      "evidence_type": "text",
+      "page_text_sha256": "0cf51ce7a062285b631c8ca24bc20254f35b3bfa94e8efc5be4b7060a205cc3f",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0157-p0158:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                                      Thymus vulgaris L.\n                                              Thymian               — Thyme — Thym.\n            Familie: Labiatae.           Grattung:                 Thymus Tourn.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Thymus vulgaris L.，德名 Thymian，英名 Thyme，屬唇形科。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 157,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 52,
+        "char_end": 289,
+        "page_text_sha256": "17f92b9ee714efa6fb06a5a5b4c7b90b1d9386809cb9dc366904ed4065e63f10",
+        "exact_text_sha256": "3ac3d575f09f4aa06ebc205dcf2e4ebdd49d1a6ad2260896c532894d5ae55e86",
+        "source_line_start": 6,
+        "source_line_end": 8,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "3ac3d575f09f4aa06ebc205dcf2e4ebdd49d1a6ad2260896c532894d5ae55e86",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0157-p0158:s01:x00",
+      "section_type": "description",
+      "original_text": "           Beschreibung.             Die holzige,               ausdauernde,             verastelte,      mit diinnen Wurzelfasern          besetzte\nWurzel treibt einen aufrechten oder aufsteigenden, holzigen, vom Grande an sehr astigen, bis 40 Ctm.\nhohen Stengel, dessen mehr oder weniger krautige, zusanmiengedriickt 4kantige Aeste mit sehr ver-\nkurzten Seitenzweigen (Blattbiischeln) in den Achseln der Blatter versehen sind.                                              Jiingere Stengel       und\nAeste grau - kurzhaarig     ,   altere mit            einem grauen, rissigen Korke bedeckt.                              Blatter gegenstandig    ,   fast\n                                                                         r\n\n\n\nsitzend oder im unteren Theile der Pflanze kurz gestielt, dicklich, bis 12 Mm. lang nnd 5 Mm. breit,\neiformig oder langlich bis lanzettlich, ganzrandig, am Rande etwas umgerollt, in den Blattstiel ver-\nlaufend, kurz behaart, auf beiden Seiten drusig punktirt.                                   In den nnteren Blattwinkeln entwickeln sich\nkurze, biischelige, beblatterte Triebe,                      die   nach oben in lockere, entfernte Scheinquirle nnd zuletzt in\nden traubigen, kopfigen Bluthenstand iibergehen.                                Deckblatter klein, lanzettformig, stnmpf.                Der driisige",
+      "normalized_text": null,
+      "zh_tw_rendering": "木質多年生，莖高至40公分，葉對生，卵形至披針形，邊緣反卷，具腺點。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 157,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 290,
+        "char_end": 1637,
+        "page_text_sha256": "17f92b9ee714efa6fb06a5a5b4c7b90b1d9386809cb9dc366904ed4065e63f10",
+        "exact_text_sha256": "1c44caf1ebf26e750d9378627d214cbb69e664f9e81e5f5b59aba6cb4cc80f7d",
+        "source_line_start": 9,
+        "source_line_end": 22,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "1c44caf1ebf26e750d9378627d214cbb69e664f9e81e5f5b59aba6cb4cc80f7d",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0157-p0158:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "            Anatomisches: Das Blatt, welches eine sehr derbe Cuticula und Epidermis besitzt, zeigt im Querschnitt\nauf der einen Halfte eine Palissadenschicht, auf der anderen Schwammparenchym.                                     Die Driisen befinden sich auf der\nOberflache der Blatter und des Kelches in Vertiefungen.                              Sie bestehen aus einer sehr kurzen Stielzelle,       auf welcher\nsich 8   — 16 und mehr schildformig ausgebreitete Tochterzellen erheben, die von der durch Oelabsonderung bis zur\nBlattdicke    blasig   aufgetriebenen Cuticula uberragt werden.                           Die ausserdem noch auftretenden sogen. Kleindiiisen\nbestehen aus einer einzigen von einem Stiele getragenen Oelzelle. Die kurzen, mit einer gerundeten Spitze endenden\nHaare bestehen aus einer oder 2 rauhen, dickwandigen Zellen (Fliickiger).",
+      "normalized_text": null,
+      "zh_tw_rendering": "葉具厚角質層，腺體位於凹陷處，由8-16個盾狀細胞組成，覆蓋於膨脹的角質層下。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 157,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 3679,
+        "char_end": 4536,
+        "page_text_sha256": "17f92b9ee714efa6fb06a5a5b4c7b90b1d9386809cb9dc366904ed4065e63f10",
+        "exact_text_sha256": "97d5921fb9812cc65297a92173abaf018465426068cb5e5d987c9e74bd90b424",
+        "source_line_start": 48,
+        "source_line_end": 54,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "97d5921fb9812cc65297a92173abaf018465426068cb5e5d987c9e74bd90b424",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0157-p0158:s03:x00",
+      "section_type": "distribution",
+      "original_text": "            Verbreitung.             Auf durren,                unbebauten Orten des                    westlichen   Siideuropa,      namentlich im\nnordlichen Mittelmeergebiet            von            Italien      bis       Portugal und Marocco verbreitet.                 In    den Seealpen bis\n1000 Meter hoch emporsteigend.                        Gedeiht noch in Island und Skandinavien bis                            zum 70. Breitengrade.\nWircl allenthalben als Ktichengewurz- und Arzneipflanze in den Garten kultivirt.",
+      "normalized_text": null,
+      "zh_tw_rendering": "分佈於西歐乾燥地，從義大利至摩洛哥，海峽阿爾卑斯山至1000米，亦見於冰島及北緯70度。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 157,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4538,
+        "char_end": 5062,
+        "page_text_sha256": "17f92b9ee714efa6fb06a5a5b4c7b90b1d9386809cb9dc366904ed4065e63f10",
+        "exact_text_sha256": "00108e2ccff0d60e8802712f448110692d564f4b708f816dd933bcb4659935df",
+        "source_line_start": 56,
+        "source_line_end": 59,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "00108e2ccff0d60e8802712f448110692d564f4b708f816dd933bcb4659935df",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0157-p0158:s04:x00",
+      "section_type": "history",
+      "original_text": "            Name und Geschichtliches.  Der Name Thymian, althochdeutsch timian, pine- oder\nbinesuga, pine- oder binibhtoma saga, mittelhochdeutsch Binsoge, Thiimel, bei Fuchs und Bock\n                                                  7\n\n\n\nromischer oder welscher Quendela, bei Cordus Tymchen, stammt aus dem lateinischen Thymus,\ngriechischen &v/j,og Kraft,          Muth in Bezug auf die erregende, starkende Wirkung der Pflanze (oder auch\n                                                                                                -\nvon d-va), ich opfere).          *",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源於希臘語，意指力量或獻祭。古羅馬及中世紀文獻有記載，但中世紀較少被提及。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 157,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 5267,
+        "char_end": 5839,
+        "page_text_sha256": "17f92b9ee714efa6fb06a5a5b4c7b90b1d9386809cb9dc366904ed4065e63f10",
+        "exact_text_sha256": "83ea2474dc8cc771f4dd82d3872a824c69d312e8a39a95341246b128619b7e86",
+        "source_line_start": 71,
+        "source_line_end": 80,
+        "section_index": 4,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "83ea2474dc8cc771f4dd82d3872a824c69d312e8a39a95341246b128619b7e86",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0157-p0158:s05:x00",
+      "section_type": "constituents",
+      "original_text": "            Bestandtheile.              Das Kraut enthalt ungefahr l°/                      atherisches Oel (Thymianol), eisengrunenden\n\nGerbstoff, Harz, Extraktivstoff,  Gummi, Eiweiss, Salze.\n            Das durch Destination des Krautes mit Wasser gewonnene Thymianol ist dunnflussig, gelblich\n\n                       durchdringend nach Thymian, hat einen kampferartigen Geschmack, hesitzt ein\noder braunlich, riecht\nspez. Gew. von 0,87                                                      Wein\nEs  besteht aus  einem Gemenge  von Thymen,    Cymen  und Thymol.   Thymol   (Thymi ankampfer)  C J0 H u 0,\ndas Stearopten  des Thymianoles, welches   zu  ungefahr 50 °/ in dem letzteren vorhanden  ist, bildet  den\nschwerniichtigsten Bestandtheil des Oeles.    Es entsteht aus Cymol und Thymen durch Oxydation an\nder Luft, krystallisirt in diinnen, farblosen, klinorhombischen Tafeln (Miller)      nach Fluckiger in                       —",
+      "normalized_text": null,
+      "zh_tw_rendering": "含約1%揮發油（百里香酚），具樟腦味。主要成分為百里香酚、對傘花烃及百里香烯。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 158,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 2285,
+        "char_end": 3222,
+        "page_text_sha256": "0cf51ce7a062285b631c8ca24bc20254f35b3bfa94e8efc5be4b7060a205cc3f",
+        "exact_text_sha256": "b6179acfab03b9b53dbdab0f0134c725ecc7153cf364fb623cca1838e8256518",
+        "source_line_start": 42,
+        "source_line_end": 53,
+        "section_index": 5,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "b6179acfab03b9b53dbdab0f0134c725ecc7153cf364fb623cca1838e8256518",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "16b7253e419a3e8c760bd89375f2ae524bbbfbac9ccb176e5370d7441a5f25c8",
+    "maker_receipt_sha256": "3f48b0a2003d3d7baafb6ba2ccbfac91372077f828adc4ba1def09fc1fb93705",
+    "validation_check_sha256": "99ba17243a67ba6dbdabf2a23ad13161cfc236755abd73744f6882ae343885f1",
+    "source_disposition_sha256": "2a358e13325458958b167273d30538de8d886e9027ada0952e7c67241fe0cac7",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "3f48b0a2003d3d7baafb6ba2ccbfac91372077f828adc4ba1def09fc1fb93705",
+      "validation_check_sha256": "99ba17243a67ba6dbdabf2a23ad13161cfc236755abd73744f6882ae343885f1",
+      "source_disposition_sha256": "2a358e13325458958b167273d30538de8d886e9027ada0952e7c67241fe0cac7"
+    },
+    "naming_artifact_sha256": "2cb77de13f33ab7401259c5a21b60d163bf13570a740db08e526ac70b56f986e"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "5564e4887c64639b7dfde828d85cd84a291b82bcf1644c08e8dca6b748c42229"
+}

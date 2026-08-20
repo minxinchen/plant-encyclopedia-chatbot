@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0089-p0092",
+  "owner_shard": "S03",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 145.151,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "needs_review",
+  "errors": [
+    "invalid_source_line_range:p89:L37-L42",
+    "source_quote_not_exact:p89"
+  ],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0089-p0092",
+    "book_taxon": {
+      "scientific_name_candidate": "Quercus lusitanica",
+      "authorship_candidate": "Webb",
+      "aliases_candidates": [
+        "Quercus infectoria Olivier",
+        "Quercus lusitanica Webb, var. a infectoria D. C."
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 89,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Quercus lusitanica，異名 Quercus infectoria，屬櫟屬，科殼斗科。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          6
+        ],
+        "exact_source_quote": "          Quercus lusitanica Webb, var. a infectoria D. C.\n                                       Syn. Quercus infectoria Olivier.\n\n                   Färber- oder Galläpfeleiche 一 Chéne d'Alep —                     Gall-oak.\n\n         Familie: Cupuliferae.         Gattung: Quercus L."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 89,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "高約2米灌木狀，葉卵狀長圓形，果實次年成熟，杯狀果托鐘形，種子無胚乳。",
+        "warnings": [],
+        "source_line_range": [
+          7,
+          25
+        ],
+        "exact_source_quote": "         Beschreibung.          Diese von Olivier zuerst beschriebene, jetzt zur Formenreihe der orienta-\nDechen   Quercus   lusitanica   Webb    gezogene   Eiche   ist ein Büumchen   von   ca.   2 Meter    Hóhe;    sie er-\nscheint jedoch wegen der schon von unten anfangenden, starken Verästelung gewöhnlich strauchartig.\nAeste zerstreutstehend, graubraun berindet. Blätter kurz gestielt (mit 2—10 Mm. langem Stiele), oval-\nlänglich oder länglich-verkehrt-eiförmig, 5 Ctm. lang, 21, Ctm. breit, stumpf, buchtig- oder ein-\ngeschnitten gesägt, die Zähne mit feinem Stachelspitzchen versehen, kahl oder auf der unteren Seite\nmit wenigen Haaren besetzt, netzaderig, alljährlich abfallend. Die häutigen, hinfälligen Nebenblätter\nlanzettförmig, bráunlich.   Männliche Blüthen einzeln oder zu mehreren aus besonderen Knospen,\noder aus den unteren Knoten der Blattknospen hervorbrechend,          schlaffe, unterbrochene,      dünne Kätzchen\nbildend. Das meist 5lappige, häutige Perigon am Rande der Lappen stark gewimpert. Staubgefässe\nmit ovalen, unten und oben ausgerandeten, zweifächerigen, am Grunde des Rückens angehefteten, der\nLänge nach aufspringenden Staubbeutel.    Pollen rundlich, dreinabelig. Weibliche Blüthen fast\nsitzend, in den Blattwinkeln     der oberen Blätter; sonst wie bei unseren     einheimischen Eichen.         Früchte\nim zweiten Jahre reifend, zu 1—3,        walzig, bis 4 Ctm. lang und 12 Mm. dick, kurz zugespitzt, glänzend\nbraun, mit kurzem, bis 8 Mm.       langem,   dickem Fruchtstiel    Becher   glockenförmig,    mit kleinen, ziegel-\ndachartigen, breiteiförmigen, dicht- und kurzbehaarten, auf dem Rücken gekielten Schuppen.         Der\neiweisslose Same die Nuss vollständig ausfüllend, daher von gleicher Form, mit dunkelbraun geaderter\ndünner Samenhaut. Embryo gerade, mit kurzem, nach oben gerichtetem Würzelchen. Samenlappen\nplanconvex."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 89,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "蟲瘿核心為含澱粉細胞，外層為石細胞，中層含單寧與草酸鈣結晶。",
+        "warnings": [],
+        "source_line_range": [
+          37,
+          42
+        ]
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 90,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產東地中海區，包括塞浦路斯、小亞細亞、美索不達米亞、敘利亞至底格里斯河。",
+        "warnings": [],
+        "source_line_range": [
+          13,
+          14
+        ],
+        "exact_source_quote": "          Vorkommen.        Im Ostgebiete des Mittelmeeres einheimisch,       in Cypern,   Kleinasien,    Meso-\n potamien, Syrien, östlich bis zum Tigris."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 90,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "古希臘羅馬時期用於醫藥與技術，阿拉伯人製墨，中世紀用於止血與染髮。",
+        "warnings": [],
+        "source_line_range": [
+          20,
+          29
+        ],
+        "exact_source_quote": "           Schon zur Zeit des Hippokrates und Theophrast sind die kleinasiatischen und griechischen\n Galläpfel sowohl medizinisch als technisch benutzt worden und zu Zeiten des Plinius verwendete man\n bereits mit Galläpfel getränktes Papier als chemisches Reagens zur Prüfung des Kupfervitriols auf\n Eüsenvitriol Die besten Galläpfel sollen zu jener Zeit aus Kommagene, der nordöstlichsten Provinz\n des alten Syriens, bezogen worden sein. Die Araber waren schon sehr frühzeitig mit der aus Gall-\n äpfeln und Eisenvitriol bestehenden   schwarzen   Tinte bekannt.   Celsus    und   Alexander    Trallianus\n benutzten Galla häufig als Heilmittel; der letztere namentlich zum Schwarzfärben der Haare, als\n Magenpflaster und als blutstillendes Mittel. Die Galläpfel bildeten nach den Kreuzzügen einen regel-\n mássigen Ausfuhrartikel Kleinasien.     Albertus Magnus kannte schon die Entstehung der Gallen\n durch den im Innern sitzenden Wurm (Flückiger)."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 91,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含約70%單寧酸，另含沒食子酸、鞣酸、膠質、澱粉及揮發油。",
+        "warnings": [],
+        "source_line_range": [
+          40,
+          43
+        ],
+        "exact_source_quote": "              Bestandtheile.       Ausser ca. 70%, eisenbläuender Gerbsäure fand Guibourt in den Galläpfeln\n2%, Gallussäure,        2%, Ellagsäure       und    Luteogallussáure,       2,5%, braunen   Extraktivstoff,   2 99, Gummi,\n2%, Stürkemehl, 0,7%, Chlorophyll und ätherisches Oel, 1,3%, (nach Flückiger 3°/,) Zucker, Albumin\nund Salze."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "cc959346df1167dcc41c82e9725189bb6e546e55b330cd58d8279526969c885d"
+}

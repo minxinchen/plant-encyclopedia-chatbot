@@ -1,0 +1,216 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0233-p0234",
+  "entry_id": "kohler-volume-1:p0233-p0234",
+  "owner_shard": null,
+  "book_taxon": {
+    "scientific_name": "Hagenia abyssinica",
+    "authorship": null,
+    "aliases": []
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Hagenia abyssinica"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-20T23:03:13+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Hagenia+abyssinica",
+        "query_name": "Hagenia abyssinica",
+        "retrieved_at": "2026-08-20T23:02:45+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 233,
+      "evidence_type": "text",
+      "page_text_sha256": "54567e5473c94e9fe8e6d5a591ba14f4f2dc784ca59998d820f141dd020d4f85",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 234,
+      "evidence_type": "text",
+      "page_text_sha256": "026fd0ede0305307df448ca65cfd658100d5c93d8f686b74bce6d2901513333f",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0233-p0234:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                        Hagenia abyssinica Willd.\n                 Syn.      Bray era anthelminthica Kunth.                Bankesia abyssinica Bruce.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 233,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 0,
+        "char_end": 165,
+        "source_line_start": 1,
+        "source_line_end": 2,
+        "page_text_sha256": "54567e5473c94e9fe8e6d5a591ba14f4f2dc784ca59998d820f141dd020d4f85",
+        "exact_text_sha256": "9bac4f9600e57d4b1b6b316c21bc04280263194d24986637e40c81dd8701c4c5",
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "9bac4f9600e57d4b1b6b316c21bc04280263194d24986637e40c81dd8701c4c5",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0233-p0234:s01:x00",
+      "section_type": "description",
+      "original_text": "            Beschreibung.         Bis   20 Meter       holier   Baum mit (von den Narben der abgefallenen Blatter)\n „ ov\n geimgeiteii     Zweigen, die mit braungelben Haaren zottig besetzt sind.\n                                                                                 Blatter zerstrent und ziemlich\n dicht stehend       unpaang 4-7jochig unterbroclien gefiedert, bis 20 Ctm. lang, bis 14\n                                                                                                        Ctm. breit.\n .Blattcnen haufig abwechselnd, sitzend,\n                                             langlich oder langlich-lanzettlich, spitz, die seitlichen am Grunde\n stumpi, scinet bis fast herzformig, das\n                                               endstandige spitz, sammtlich scliarf gesagt, am Rande zottig\n gewmipert, aui beiden Seiten mit kleinen gelblicben\n                                                              Drusen besetzt und im Anfang beiderseits diclit\n benaart      spater oberseits fast kalil nnd fein runzelig, unterseits auf\n                                                                               den Nerven zottiff. Die kleinen\n ca 1 Ctim langen Zwisclienfiedern rundlich\n                                                   bis breit eiformig, ganzrandig oder kerbig gesagt.          Die\n breiten, hautigen, am Rande gewimperten,\n                                                   flugelartigen Nebenblatter in der ganzen Lange mit dem\n tf lattstiel oft bis znr untersten\n                                     Fieder verwachsen. Blutlienrispen achselstandig, bis melir als 30 Ctm.           .\n\n lang, 15 Ctm. dick, mit durchlauf ender bin- und\n                                               ,         bergebogener Spindel, die nebst den Zweigen zottig\n•behaart und mit Drusen diclit besetzt ist; die untersten Bltithenaste\n                                                                                werden von kleinen gefiederten\n Laubblattern, die oberen von allmahlig kleiner werdenden, einfachen, ellipsoidischen,\n                                                                                               bis ei- und nieren-\n forimgen Blattchen gestutzt. Die weibliche Bltithenrispe dicht gedrangt, die mannliche\n                                                                                                 locker. Bluthen\n kurz gestielt, 7—8 Mm. im Durchmesser, von 2 grossen, rundlichen, hautigen,\n                                                                                        netzaderigen Vorblattern\n gestutzt, die bei den mannlichen Bluthen eine grime, bei den weiblichen Bluthen\n                                                                                                eine purpurrothe\n Farbe besitzen.      Mannliche Bliithe mit kreiselformigem Unterkelch, aussen zottig behaart, durch\n emen hautigen, am Rande ungleichlappig-gesagten Ring am Schlunde verengert, mit doppeltem, 8- oder\n        ,\n\n\n lOblattrigem, netzaderigem, unterseits behaartem Kelche; ausserer Kelch mit kiirzeren und schmaleren\n Blattern.     Kronblatter 4—5, lanzettformig, zuruckgeschlagen.         Staubgefasse 15—25, mit rundlichen,\n an beiden Enden ausgerandeten, in der Mitte des Riickens angehefteten, der Lange nach aufspringenden\n Staubbeuteln. Pollen tetraedrisch, 3nabelig.        Stempel frei, verkiimmert. Weibliche Bluthen eben-\n falls mit doppeltem^ 8- oder lOblatterigem Kelch, Kelchlappen oval, hautig, netzaderig, die ausseren\n nach der Bliithe weiter auswachsend bis zur dreifachen Grosse der irmeren, erstere zuerst griinlich-\n roth, spater purpurfarben.      Kronblatter 4—5, von weisser Farbe, sonst gleich denen der mannlichen\n Bliithe.    Staubgefasse^ 10 — 20, mit kurzen Filamenten und sterilen Beuteln.         Stempel im Grunde des\n Unterkelches frei, ausj2, dann und wann auch 3 freien Samenblattern bestehend. Fruchtknoten oval-\n langlich, eiformig, mit hangender Samenknospe.          Griffel endstandig, behaart, spater nach aussen ge-\n bogen. Narbe fleischig, breit, fast spatelformig, stark warzig.         Frucht durch Fehlschlagen meist nur\n aus einem, von der bleibenden Griffelbasis kurz geschnabelten, eiformigen von dem Unterkelch ein-\n geschlossenen Niisschen bestehend.       Same ohne Endosperm; der gerade, fleischige Embryo mit dicken,\n planconvexen Samenlappen und sehr kurzem, nach oben gerichtetem Wiirzelchen.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 233,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 441,
+        "char_end": 4842,
+        "source_line_start": 11,
+        "source_line_end": 62,
+        "page_text_sha256": "54567e5473c94e9fe8e6d5a591ba14f4f2dc784ca59998d820f141dd020d4f85",
+        "exact_text_sha256": "67fac6036a578d293ada21e9cf87a1626e55a36200cc0d72764b547e086f238c",
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "67fac6036a578d293ada21e9cf87a1626e55a36200cc0d72764b547e086f238c",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0233-p0234:s02:x00",
+      "section_type": "distribution",
+      "original_text": "            Vorkommen.    den Gebirgen Abyssiniens von 2500\n                               In                                               —\n                                                                3500 Meter Meeresliohe.  Nach\nFliickiger's Wahrnehmnng|auf der Pariser Ausstellung soil auch Koso auf Madagascar vorkommen.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 233,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4906,
+        "char_end": 5235,
+        "source_line_start": 64,
+        "source_line_end": 67,
+        "page_text_sha256": "54567e5473c94e9fe8e6d5a591ba14f4f2dc784ca59998d820f141dd020d4f85",
+        "exact_text_sha256": "f99f47103101489124f2f1d2f4e7747fca0602d10670fde058f3cd03962a4df7",
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "f99f47103101489124f2f1d2f4e7747fca0602d10670fde058f3cd03962a4df7",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0233-p0234:s03:x00",
+      "section_type": "historical_use",
+      "original_text": "         In Abyssinien, woselbst^durch\" vielen Genuss rohen Fleisches der Bandwurm sehr haufig auftritt,\nbenutzt man Kusso (Koso) schon seit Jahrhunderten als wurmtreibendes Mittel.        Die friiheste Nach-\nricht'uber ein abyssinisches wurmtreibendes Mittel stammt nach Fliickiger von dem portugiesischen\nJesuit^Godinho (um 1600), der einer, mit wurmtreibenden Eigenschaften ausgestatteten Frucht in\n                                                        u\nseiner Schrift „De Abyssinorum rebus, Lyon 1615           Erwahnung thut, die wahrscheinlich als die\nFrucht des Kosobaumes zu betrachten ist. Die ersten zuverlassigen Nachrichten stammen von James\n                                                                                       —\nBruce, welcher auf seiner Forschungsreise nach den Nilquellen (1769 1771) in Abyssinien mit\nunserem Bandwurmmittel und seiner Abstammung bekannt wurde. Er nannte den Baum, von dem er\neine Beschreibung^und Abbildung gab, zu Ehren des Naturforschers Sir Joseph Banks (1743           1820)   —\nBanksia abyssinica.    Da jedoch dieser Name von Linne fil. bereits vergeben war, so bezeichnete\nWilldenow den Kosobaum zu Ehren des Konigsberger Professors und Apothekers K. G. Hagen\n(1749   —\n        1829) mit Hagenia.     Kunth erhielt von dem franzosischen Arzt Dr. Brayer aus Konstanti-\nnopel im Jahre 1809 Proben der Kosobliithen, die er fur etwas neues ansah und die Stammpflanze\ndieser Bluthen als Brayera anthelminthica beschrieb.      Spater (1837) stellte sich jedoch durch die\nUntersuchungen von Fresenius heraus, dass die Brayera Kunth's nichts anderes als die Hagenia\nWilldenow's sei. In Deutschland ist Koso seit 1834 bekannt und namentlich war es Hofrath Schubert,\nder von seiner orientalischen Reise (1837) grosser Proben dieser Droge zum Zwecke der Untersuchung\n\n\n\n                                                                                                                84",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 233,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 5709,
+        "char_end": 7643,
+        "source_line_start": 78,
+        "source_line_end": 101,
+        "page_text_sha256": "54567e5473c94e9fe8e6d5a591ba14f4f2dc784ca59998d820f141dd020d4f85",
+        "exact_text_sha256": "7a7e39f1bde8883ad934dcc21477950f606e90a982e6afd1477d661e0903d742",
+        "section_index": 3,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "7a7e39f1bde8883ad934dcc21477950f606e90a982e6afd1477d661e0903d742",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0233-p0234:s04:x00",
+      "section_type": "constituents",
+      "original_text": "                   Bestandtheile.               Nach Witt stein          und geschmackloses Harz, fettes Oel,\n                                                                             bitter   kratzendes\n    Wachs, eisengriinenden Gerbstoff, Zucker, Gum mi. Das bitter kratzende Harz erhielt Saint Martin\n    in\\ weissen Krystallnadeln, die er Kosein nannte.       Nach Be da 11 ist noch atherisches Oel, Starkemehl,\n    Essigsaure, Baldriansaure, Oxalsaure und Borsaure in dem Kosso enthalten. Viale und Latini geben\n    noch eine besondere Saure: Hageniasdure als Bestandtheil der Bltithen an, die jedoch Fliickiger\n    nicht als reine Substanz ansieht. Bedall erhielt mittelst Alkohol und Kalk ein weissliches, krystallini-\n    sches, in Alkalien losliches, in weingeistiger Losung sauer reagirendes, jalapenartig riechendes Pulver,\n.   das er mit Koussin bezeichnete, welches Fliickiger zwar als ein wirksames Praparat, jedoch als ein\n    Gemenge bezeichnet, dem sich mit Httlfe von Eisessig Kosin entziehen lasst. Dem von E. Merck\n    dargestellten, gut krystallisirten Bestandtheil hat Fliickiger die Bezeichnung Kosin gegeben und.\n    hierfiir eine Form el von C\n                                  31 H 38 O o\n                                              festgestellt.  t\n                                                              Dieses Kosin   „bildet schwefelgelbe  Prismen  des\n    rhombischen Systems, die sich besonders in der Warme reichlich in Alkohol, Aether, Benzol, Chloro-\n    form, Schwefelkohlenstoff und niedrig siedendem Petroleum auflosen. Die schonsten Krystalle schiessen\n    in der Kalte aus concentrirter Schwefelsaare an, welche man bei nur 15° mit gepulvertem Kosin\n    sattigt.. Das Kosin ist ohne Reaktion auf Lackmus, schmilzt bei 142°; ist aber nicht flQchtig.            In\n    hoherer Temperatur zersetzt es sich und giebt Buttersaure nebst rothbraunem Theer. u           (Fliickiger.)\n    Aus emer rothen Schwefelsaureverbindung erhalt man mit Wasser neben Isobuttersaure purpurrothe,\n    nicht krystallisirbare, in Aether, Weingeist und wasserigen Alkalien losliche Flocken, die je nach der\n    Art der Gewinnung auf kaltem oder warmem Wege die Formel C 22 H 21 O j0 oder Co23 H22 O 10 besitzen.\n    Das Kosin aussert clieselbe Wirkung wie die Bliithen. Das nach der Husemann'schen Darstellungs-\n    weise erhaltene Kosin bildet ein weisses, haufig etwas ins Gelbe spielendes, schwach krystallinisch.es\n    Pulver ohne Geruch, von kratzend bitterem Geschmack und saurer Reaktion mit der Zusammensetzung\n    C 26 H44 5     Es schmilzt bei 194° lost sich wenig in Wasser, in 1300 Theilen kaltem 45° 0' in\n                      .\n                                                                 i\n\n\n    12 Theilen kaltem 90°''o Weingeist, in kochendem Weingeist und Aether.               (Husemann, Pflanzen-\n    stoffe    1013.)\n",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 234,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 1412,
+        "char_end": 4283,
+        "source_line_start": 18,
+        "source_line_end": 51,
+        "page_text_sha256": "026fd0ede0305307df448ca65cfd658100d5c93d8f686b74bce6d2901513333f",
+        "exact_text_sha256": "105bd6643b3f5f9bec3adb5c443bdb16ff0f57caf4965c6f3ddbaa00905a52fd",
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "105bd6643b3f5f9bec3adb5c443bdb16ff0f57caf4965c6f3ddbaa00905a52fd",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "7ce0e0939b71eb821de313c6bc0a23a63769fa64395357ac1d96b43b003482ff",
+    "maker_receipt_sha256": null,
+    "validation_check_sha256": "269b47e640d9bd11205237b7b67bbf63a1125f8abb8fbcb3609f4dbd2c7468eb",
+    "source_disposition_sha256": null,
+    "candidate_source_chain": {
+      "validation_check_sha256": "269b47e640d9bd11205237b7b67bbf63a1125f8abb8fbcb3609f4dbd2c7468eb",
+      "package_sha256": "811141e6584cdc2b32ea13a46ee4805c731651255af7a4994133ca98e3bd7b66",
+      "receipt_sha256": "ddea006eed44d964e0a8ed884272a02b56b87c0713a35a5926578430de2ae3af",
+      "recovery_kind": "terminal_body_boundary_split",
+      "source_parent_entry_id": "kohler-volume-1:p0233-p0410"
+    },
+    "naming_artifact_sha256": "dc3bc191eef8b90b5b79c651fa98a86aa776e82c77356dac210b82b7eb7ddbb7"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "ced077f685e8f23c910be722ba7a4d8d61b35df3473e169b800b1a6ea6c71359"
+}

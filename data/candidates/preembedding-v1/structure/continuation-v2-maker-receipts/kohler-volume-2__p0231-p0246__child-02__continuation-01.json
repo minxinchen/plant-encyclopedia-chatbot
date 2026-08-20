@@ -1,0 +1,155 @@
+{
+  "schema_version": "2.0",
+  "package_id": "kohler-volume-2:p0231-p0246:child-02:continuation-01",
+  "parent_entry_id": "kohler-volume-2:p0231-p0246",
+  "child_entry_id": "kohler-volume-2:p0231-p0246:child-02",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation-v2:kohler-volume-2:p0231-p0246:child-02:continuation-01:v1",
+  "owner_shard": "S03",
+  "package_sha256": "214a0f47352b463bf353a99ba4ff0b34622356fa96f7c63810e4b0d4b3967ee6",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "prompt_version": "plant-structure-line-coordinates-v2",
+  "attempt_sha256": "daf6264c683d8d7d22a54e1a211456a86ad03e89b7cb9247f0d92f9defd4bc92",
+  "raw_response_sha256": "f358dcdcb112bedf68d84cc649f43aca4b1177c742aca484c2dd9a130eb4ec96",
+  "elapsed_seconds": 15.235,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 235,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 156,
+      "char_end": 227,
+      "source_line_start": 3,
+      "source_line_end": 3,
+      "page_text_sha256": "87ea5d55a45c20a60f810751201a009baaa4f31abb41465cfad4026fda9c5ccb",
+      "exact_text_sha256": "1e242402480c94831bccaf62eea509cf7a8bcc85eda2d041484b4444dda2c146",
+      "section_index": 0,
+      "section_type": "taxonomy"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 235,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 228,
+      "char_end": 2458,
+      "source_line_start": 4,
+      "source_line_end": 24,
+      "page_text_sha256": "87ea5d55a45c20a60f810751201a009baaa4f31abb41465cfad4026fda9c5ccb",
+      "exact_text_sha256": "016f51b908ff7f746164339e07a28c8e1b31a888d9de9fa711e457b2353a250a",
+      "section_index": 1,
+      "section_type": "description"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 235,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 2459,
+      "char_end": 2971,
+      "source_line_start": 25,
+      "source_line_end": 29,
+      "page_text_sha256": "87ea5d55a45c20a60f810751201a009baaa4f31abb41465cfad4026fda9c5ccb",
+      "exact_text_sha256": "a34cedf6433556094e2ddf36e5ad3f2e7fe59624226b8db52d58c6db37af8b52",
+      "section_index": 2,
+      "section_type": "anatomy"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 236,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 3502,
+      "char_end": 4857,
+      "source_line_start": 25,
+      "source_line_end": 34,
+      "page_text_sha256": "48a2524bb30d1468dabb0aca47bdfd575e41777002ddf4afe00dbae6a82744d3",
+      "exact_text_sha256": "a88eb81c904a1b8a3f38a2770ee74740277ce6eb3f2eb2a88d0c8278262b9913",
+      "section_index": 3,
+      "section_type": "constituents"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 236,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 8085,
+      "char_end": 8627,
+      "source_line_start": 68,
+      "source_line_end": 72,
+      "page_text_sha256": "48a2524bb30d1468dabb0aca47bdfd575e41777002ddf4afe00dbae6a82744d3",
+      "exact_text_sha256": "2b0ce057a6fb3b95e043bc2443d2fa8581d5973e7d6a28a810f774bff61ff959",
+      "section_index": 4,
+      "section_type": "plate_description"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-2:p0231-p0246:child-02:continuation-01",
+    "parent_entry_id": "kohler-volume-2:p0231-p0246",
+    "book_taxon": {
+      "scientific_name_candidate": "Pistacia Lentiscus"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 235,
+        "source_line_range": [
+          3,
+          3
+        ],
+        "exact_source_quote": "          Familie.      Anacardiaceae;        Gattung:      Pistacia L."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 235,
+        "source_line_range": [
+          4,
+          24
+        ],
+        "exact_source_quote": "        Beschreibung. Kleiner, bis 5 Mtr. hoher, sehr ästiger, immergrüner Baum oder kräftiger\nStrauch mit braunen, höckerigen Zweigen; jüngste Zweige feinhaarig. :Die immergrünen, gestielten\nBlätter abwechselnd, drei- bis fünfpaarig gefiedert.   Stiel und Spindel geflügelt, kahl; Blättchen kahl,\nlederartig, oberseits lebhafter grün, unterseits matter, sitzend, ganzrandig, lanzettlich oder fast lineal\n(var. 8 angustifolia D. C.) oder eifórmig (var. y Chia D. C.), abgerundet oder mit sehr kurzem Stachel-\nspitzchen, selten ausgerandet, an der Basis keilfórmig, an den Ründern schwach zurückgerollt; Blüthen\nzweihäusig, in dichten einfachen (männlichen) oder lockeren, zusammengesetzten (weiblichen), ziemlich\nkurz gestielten, unansehnlichen, grünlichen           oder (durch die Staubbeutel)         rothen, ährenförmigen            Trauben,\nderen Stiele fein haarig und am Grunde von einigen kleinen Schüppchen umgeben sind; Trauben einzeln\noder zu zweien aus den Blattachseln, die einzelnen Blüthen an der Basis von einem Schüppchen «unter-\nstützt. Männliche Blüthen: Kelch fünf- (durch Verkümmerung auch vier- oder drei-)blütterig; Kelch-\nblätter eirund, zugespitzt, schuppenförmig viel kürzer als die Staubgefässe, an Länge ungleich. Staub-\ngefüsse 5, auch weniger, mit sehr kurzen, der ringförmigen Scheibe eingefügten Staubfäden und grossen,\nlänglichen, röthlichen, vierfächerigen, der Länge nach aufspringenden Staubbeuteln.                          Pollen rundlich, drei-\nporig, dreinabelig.  Stempel entweder ganz fehlend oder rudimentär als kleines gestieltes Körperchen\nvorhanden. Kronblätter fehlend. Weibliche Blüthen: Kelch viertheilig, mit eiförmigen, stumpf zuge-\nspitzten Blättchen. Stempel mit rundlichem, eifórmigem, eineiigem Fruchtknoten, sehr kurzem, kaum deut-\nlichem Griffel, welcher mit drei, fast keulenförmigen,             sehr verdickten, übergebogenen,              ausgerandeten Nar-\nben versehen ist. Eichen grundständig.          Steinfrucht bräunlich-roth bis schwärzlich, erbsengross, fast kuge-\nlig, trocken; Nuss von der Form der Frucht, mit knochenharter Schale, Embryo ohne Eiweiss, mit dicken,\nplanconvexen Samenlappen und nach oben gekehrtem, der Keimblattkante anliegendem Würzelchen."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 235,
+        "source_line_range": [
+          25,
+          29
+        ],
+        "exact_source_quote": "          Anatomisches.          Nach   Flückiger          zeigt   der Querschnitt      der Rinde        zahlreiche,       vom    Cam-\nbium nach aussen an Mächtigkeit zunehmende Harzgänge, welche in verschiedener Länge, in einfacher\noder doppelter Radialreihe       im Siebtheil       der Phloémbiindel          aufsteigen und auch in den Blattstielen ge-\nfunden werden. In diese Gänge ergiesst sich das Harz der anliegenden Zellen, woraus es durch Rinden-\neinschnitte gewonnen wird. Das Holz ist ganz ohne Harz."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 236,
+        "source_line_range": [
+          25,
+          34
+        ],
+        "exact_source_quote": "               Bestandtheile.                  Mastix besteht aus                2 Harzen, von             denen       das eine in 80%), Weingeist löslich\nist, das andere nicht. Der erstere und    zwa r   grö sse re,   in   Wei nge ist    lös lic he   Ant hei l   (Ma sti xsä ure ,\nC,,H,,0, [Johnsohn]) ist      rei che r an   Sau ers tof f    und   zei gt   sau re   Eig  ens cha fte n.     Der   ger ing ere\nca. ‫لب‬‎ der Masse betragende, in Weinge   ist    unl ósl ich e   Ant hei l   (Ma sti cin ,   C,,    Hz,  02)   ist ärm er    an\nSauerstoff und indifferent.                     Mastix       besitzt ein spez. Gew. von                     1,07— 1,074           (nach Hager               1,056—1,062,\nältere Waare bis 1,080) ,   lös t sic h lei cht  in Nel  ken öl,    Amy lal  koh ol,     Ter pen thi nöl  ,   wen ige r  in  den  Koh len -\nwasserstoffen des Pet rol eum s,    noc h   wen ige r   in  Eis ess ig.    Nac h    Hl  as iw  et z   geh  ört  er  mit   den  Con ife ren -\nharzen zu den Terpenabk     ómm  lin gen  .    Mas tix    ent häl t  aus ser  dem    ca  2%) ,  äth eri sch es  Oel   von   an ge ne hm em\nGeruche. Dasselbe    ist   nac h   Fl  üc ki ge r    ein   Ter  pen    (C, ,  H,, ),    rec hts dre hen  d,    mit   ein em   Sie dep unk  t\nvon     155°—160°.               Husemann,                Pflanzenstoffe         866."
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 236,
+        "source_line_range": [
+          68,
+          72
+        ],
+        "exact_source_quote": "                                                                        Tafelbeschreibung:\n           A Zweig mit männlichen Blüthen, natürl. Grösse; B desgleichen mit weiblichen Blüthen, desgl; C Frucht-\n zweig, desgl; 1 männliche Blüthe, vergróssert; 2 dieselbe im Längsschnitt, desgl; 3 Pollen, desgl; 4 weie Blüthe\n desgl; 5 dieselbe im Längsschnitt, desgl; 6 Frucht, desgl; 7 und 8 dieselbe im Längs- und Querschnitt, des is\n 9 Embryo, desgl Nach einer Originalzeichnung des Herrn Professor Schmidt in Berlin.                           A"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "bca7e2b4025fef508d6f29dab7676f86d7dd23add371d1f750f177d1199055a0"
+}

@@ -1,0 +1,257 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0041-p0042",
+  "entry_id": "kohler-volume-1:p0041-p0042",
+  "owner_shard": "S01",
+  "book_taxon": {
+    "scientific_name": "Cannabis sativa",
+    "authorship": null,
+    "aliases": [
+      "Cannabis indica Lam.",
+      "Cannabis sativa var. pedemontana",
+      "Cannabis sativa var. chinensis"
+    ]
+  },
+  "display_name": "大麻",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Cannabis sativa"
+    ],
+    "accepted_scientific_name": "Cannabis sativa",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T14:24:44+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Cannabis+sativa",
+        "query_name": "Cannabis sativa",
+        "retrieved_at": "2026-08-13T14:24:44+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0040617",
+        "query_name": "Cannabis sativa",
+        "retrieved_at": "2026-08-13T14:24:44+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0040617",
+        "query_name": "Cannabis sativa",
+        "retrieved_at": "2026-08-13T14:24:44+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL accepts the queried book binomial at species rank."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 41,
+      "evidence_type": "text",
+      "page_text_sha256": "e7b1f087b9b8cb6680f56f831b0827efa0b859bfa99f7cbef39bb100100f8590",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 42,
+      "evidence_type": "text",
+      "page_text_sha256": "37a14cdf753650abcce0f3dfad4852ecefdf1cea5e94375b4d1b68951c0aab58",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0041-p0042:s00:x00",
+      "section_type": "description",
+      "original_text": "           Beschreibung.     Einjahrige dioeische (bisweilen auch monocische) Pflanze.     Die senkreclit in\nden Boden gehende, spindelformige,                                             W\n                                                                       treibt einen aufrechten, rauh- und\nkurzhaarigen, meist astigen, l f2r\n                                     6         — m\n                                          hohen Stengel mit langgestielten gefingerten 5 7- oder audi\n                                                                                        ,\n                                                                                                           —\n9zahligen, unten gegenstandigen oben zerstreuten, allmahlig kleiner und einfacher werdenden, rauh en\n                                               ,",
+      "normalized_text": null,
+      "zh_tw_rendering": "一年生雌雄異株植物，莖直立粗糙，葉掌狀分裂，雄花序腋生，雌花序具苞片。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 41,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 414,
+        "char_end": 1246,
+        "page_text_sha256": "e7b1f087b9b8cb6680f56f831b0827efa0b859bfa99f7cbef39bb100100f8590",
+        "exact_text_sha256": "d2cb0994cbe26f358dd88de33ef469d529b5ab479d209fb877fd3e788b658404",
+        "source_line_start": 10,
+        "source_line_end": 19,
+        "section_index": 0,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "d2cb0994cbe26f358dd88de33ef469d529b5ab479d209fb877fd3e788b658404",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0041-p0042:s01:x00",
+      "section_type": "anatomy",
+      "original_text": "          Anatomisches Die Hanfblatter enthalten, namentlich auf der Unterflache, zahlreiche Haare, die aus einer\n                        :\n\ngebogenen scharf zugespitzten Zelle mit dicker, zum Theil warziger Wand bestehen.         Das in dem innerhalb der\nCuticula liegenden Gewebe wurzelnde, oft an Ausdehnung betrachtliche Ende dieser Zellen enthalt einen, hauptsach-\nlich aus Calciumcarbonat bestehenden, von der Seitenwand herabh'angenden Cystolith. Ebenso sind in das Schwamm-\nparenchym und in das Palissadengewebe zahlreiche Krystalldrusen von Calciumoxolat eingestreut. Ausser den oben\nbeschriebenen Haaren sind hauptsiichlich die Deckblatter und die iibrigen Theile der bltihenden Triebe mit sowohl\neinzelligen als mehrzelligen. kurz- und langgestielten Drusenhaaren besetzt (Fliickiger).    Die graue bis griinliche,",
+      "normalized_text": null,
+      "zh_tw_rendering": "葉含晶體細胞與鈣碳酸鹽，苞片具單細胞及多細胞腺毛。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 41,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 3329,
+        "char_end": 4154,
+        "page_text_sha256": "e7b1f087b9b8cb6680f56f831b0827efa0b859bfa99f7cbef39bb100100f8590",
+        "exact_text_sha256": "2ec3a3a656757123666efa9da42e43fca6ac348c4fd4d9ae95a08436a181c532",
+        "source_line_start": 54,
+        "source_line_end": 62,
+        "section_index": 1,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "2ec3a3a656757123666efa9da42e43fca6ac348c4fd4d9ae95a08436a181c532",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0041-p0042:s02:x00",
+      "section_type": "distribution",
+      "original_text": "            Verbreitung. Einheimisch in Persien und Ostindien. Der werthvollen Bastfaser wegen fast\nm  alien Kulturlandern gebaut, besonders in grosserem Maassstabe in den stidwestlich von Moskau\ngelegenen Gouvernements Smolensk, Kaluga, Tula, Orel; Kursk, Tschernigoff; Im Himalaya steigt der\nHanf bis 3000    m\n                 Meereshohe empor.",
+      "normalized_text": null,
+      "zh_tw_rendering": "原產波斯與東印度，廣泛栽培於歐洲，喜馬拉雅山海拔3000米處亦有生長。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 41,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4935,
+        "char_end": 5282,
+        "page_text_sha256": "e7b1f087b9b8cb6680f56f831b0827efa0b859bfa99f7cbef39bb100100f8590",
+        "exact_text_sha256": "7cf37d772f6d539bdc756fc66dc80463540b080690d7b02eaffd5426655d0650",
+        "source_line_start": 73,
+        "source_line_end": 77,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "7cf37d772f6d539bdc756fc66dc80463540b080690d7b02eaffd5426655d0650",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0041-p0042:s03:x00",
+      "section_type": "history",
+      "original_text": "          Schon   in  dem   lange   vor  unserer  Zeitrechnung   erschienenen     chinesischen   Buche    Rha-ya     wird\ndes  Hanfes   Erwahnung      gethan.    Ebenso   erhalten wir  aus   der  indischen    Litteratur  Kenntniss,   dass  der\nHanf schon im 8. und 9. Jahrhundert v. Chr. in Indien als Heilmittel angewendet wurde. Hero dot\nberichtet,   dass  die   Skythen    am   Kaspischen   Meere   und    dem   Aralsee   den   Hanf    zur   Gewinnung     des\nSamens   bauten,  aus   welchem   sie ein berauschendes   Genussmittel    darstellten,  wahrenddem      die Thraker   und\n           Griechen   den  Anbau   zum   Zweck   der Gewinnung    der  Faser   betrieben,  aus  welcher   sie Kleidungs-\ndie alten",
+      "normalized_text": null,
+      "zh_tw_rendering": "中國《神農本草經》早有記載，古印度作藥用，斯基泰人製成致幻劑，歐洲用於製繩。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 41,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 6138,
+        "char_end": 6853,
+        "page_text_sha256": "e7b1f087b9b8cb6680f56f831b0827efa0b859bfa99f7cbef39bb100100f8590",
+        "exact_text_sha256": "3e38157b2c7dc7e08881ff57b0e87ec425461cd1a328f34a98f2e116af544588",
+        "source_line_start": 86,
+        "source_line_end": 92,
+        "section_index": 3,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "3e38157b2c7dc7e08881ff57b0e87ec425461cd1a328f34a98f2e116af544588",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0041-p0042:s04:x00",
+      "section_type": "constituents",
+      "original_text": "            Bestandtheile.        Die   Samen                           nach\n                                                           Buchliolz 19.1% fettes Oel, 1.6 °/ Harz,\n                                                     enthalten\n1.6% Zucker mit siisslich-bitterem Extraktivstoff, 9°/ braunes gummiges Extrakt, 24.7% losliches\nEiweis, 5% Faser, 38.3% Gehause, 0.7% Verlust.           Der Gehalt des fetten, nicht trocknenclen, sehr\nleicht ranzig werdenden Oeles schwankt zwischen 15                       —\n                                                         25%; Pliickiger fand 34.5%.",
+      "normalized_text": null,
+      "zh_tw_rendering": "種子含約19%脂肪油、1.6%樹脂及蛋白質；油易酸敗，含揮發性成分。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 42,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 2837,
+        "char_end": 3438,
+        "page_text_sha256": "37a14cdf753650abcce0f3dfad4852ecefdf1cea5e94375b4d1b68951c0aab58",
+        "exact_text_sha256": "e890b86e875515d79cf0871630083ae452f9e86548f33db005ecf450dba49271",
+        "source_line_start": 38,
+        "source_line_end": 44,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "e890b86e875515d79cf0871630083ae452f9e86548f33db005ecf450dba49271",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0041-p0042:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "            Anwendung.          Der indische Hanf und seine Praparate beeinflussen hauptsachlicb                                       die Thatig-\nkeit des Gehirnes      und des Nervensystems.\n                                            Kleine Graben wirken anregend auf die Nerven, die Sinnes-\norgane und das Vorstellungsvermogen sie erzeugen eine heitere Stimmung.\n                                                 ;                            Nach grosseren Gaben\ntritt Verminderung der Sinnesfunktionen, Empfindungslosigkeit, Erschlaffung,\n                                                                             Delirium, zuletzt tiefer\nSchlaf ein.   Als Medikament findet der indische Hanf nicht haufige Anwendung; er wird in",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史上用於影響神經系統，小劑量興奮，大劑量致幻與昏睡，曾作為嗎啡替代品。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 42,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4544,
+        "char_end": 5278,
+        "page_text_sha256": "37a14cdf753650abcce0f3dfad4852ecefdf1cea5e94375b4d1b68951c0aab58",
+        "exact_text_sha256": "ebe1cf37dc5ba1eff40b175fbbd9bcd7754dc31eb7648029473dd4ef8f858837",
+        "source_line_start": 63,
+        "source_line_end": 70,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "ebe1cf37dc5ba1eff40b175fbbd9bcd7754dc31eb7648029473dd4ef8f858837",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "6fcf4b2b1030ea4eb321d42f3e6b1ef6c7176a9ab94c2fc4239a959677b5dce5",
+    "maker_receipt_sha256": "d7bc8d727561d8bec227526eadbd3f291f24fcadd64416dc9b43f44be898e89d",
+    "validation_check_sha256": "daf4d173657f1b2cc07e6093c5fbec75d143e2eccdb21885d42af410fc1458af",
+    "source_disposition_sha256": "0e22106f5bb767692a2ad32928ee10527a35837fc3b31c8fd0cfaf6ac921cd8c",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "d7bc8d727561d8bec227526eadbd3f291f24fcadd64416dc9b43f44be898e89d",
+      "validation_check_sha256": "daf4d173657f1b2cc07e6093c5fbec75d143e2eccdb21885d42af410fc1458af",
+      "source_disposition_sha256": "0e22106f5bb767692a2ad32928ee10527a35837fc3b31c8fd0cfaf6ac921cd8c"
+    },
+    "naming_artifact_sha256": "7155b408290a7f6152b7e2283ee5f0b4eba54a52d7dfb86015810372c1d6133e"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "afd88ea77a0d49be5069076f4532bb50240e61d94a854c7a3f5ccb070d7468a4"
+}

@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0385-p0388",
+  "owner_shard": "S04",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 174.755,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0385-p0388",
+    "book_taxon": {
+      "scientific_name_candidate": "Crocus sativus L.",
+      "authorship_candidate": null,
+      "aliases_candidates": [
+        "Safran",
+        "Saffran",
+        "Saffron"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "description",
+        "pdf_page": 385,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "地下球莖直徑3.5公分，呈壓扁球形，覆蓋棕色纖維狀鱗片，基部具簡單側根。",
+        "warnings": [],
+        "source_line_range": [
+          5,
+          18
+        ],
+        "exact_source_quote": "          Beschreibung.           Die unterirdische      Zwiebelknolle     besitzt einen Durchmesser         von   35 Ctm., ist\nniedergedrückt kugelig, oben und unten vertieft, von der nussbraunen, parallelfaserigen, nur locker\nzusammenhängenden Zwiebelschale bedeckt und unten mit einem Kranze einfacher Nebenwurzeln besetzt.\nDie diesjährige Stengelbasis ist von den Resten der Scheidenblütter ringsum schopfig umhüllt. Aus\nder oberen    vertieften Mitte entwickeln        sich eine oder mehrere,        an ihrem     Grunde    knollige,    später noch\nweiter auswachsende, 1—2blüthige Knospen. Nach Luerssen bildet sich die Hauptknospe des Crocus\nin der Achsel des obersten Laubblattes oder in der Achsel des dem Tragblatte der untersten Blüthe\nvoraufgehenden Blattes; der Stengeltheil unter ihr schwillt nach der Blüthe zu der von den faserigen\noder netzig zerschlitzten Resten der Scheidenblätter umhüllten, die Reservestoffe aufspeichernden, bis zum\nnächsten Frühjahre bleibenden und dann allmálig absterbenden Knolle an. Bei Anlage mehrerer\nAchselknospen entstehen bei Crocus sativus, jedoch seltener, mehrere Knollen neben einander; im letzteren\nFalle entwickelt dann die alte Knolle mehrere blättertragende Stengel. Die aus der Basis der neuen end-\n ständigen Knospe zu 5—6 hervortretenden, grösstentheils unterirdischen Wurzelscheiden sind häutig,\n durchscheinend, längsstreifig, schief abgestutzt und umhüllen den Grund der Blätter und Blüthen."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 385,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "柱頭表皮由具圓錐形乳突的板狀細胞組成，內部組織含色素顆粒和油滴。",
+        "warnings": [],
+        "source_line_range": [
+          58,
+          61
+        ],
+        "exact_source_quote": "          Anatomisches. Die Epidermis der Narben besteht nach Flückiger aus tafelfórmigen, mit\neiner kegelförmigen Papille frei hervortretenden Zellen; das innere Gewebe aus dünnwandigen, pro-\nsenchymatischen Zelle  n,  die von   zarte n,   gabel ig   verz weig ten  Gefä ssbü ndel n  begle itet  sind.    Letzt ere  Zelle n\nenthalten Farbstoffkórner und Oeltrópfchen."
+      },
+      {
+        "section_type": "flowering",
+        "pdf_page": 386,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "在中歐地區，開花時間為九月和十月。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          1
+        ],
+        "exact_source_quote": "               Blüthezeit.       In Mitteleuropa September und October."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 386,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產於小亞細亞和西亞，現主要栽培於南歐及下奧地利，野生於阿提卡等地。",
+        "warnings": [],
+        "source_line_range": [
+          2,
+          6
+        ],
+        "exact_source_quote": "         Vorkommen,     Das Vaterland des Safrans ist wahrscheinlich in Kleinasien und Vorderasien\nzu suchen. Er wird namentlich in Südeuropa, auch in Niederösterreich, der Droge wegen im Grossen\nangebaut. Nach Heldreich soll Crocus sativus noch wild in Attika und auf den Inseln Syros und\nTenos vorkommen. Flückiger vermuthet, dass der in den Abruzzen auftretende, nur wenig von sati-\nvus abweichende Crocus Orsinii Parlatore eine ursprüngliche, wilde Form der Safranpflanze sei."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 386,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "古人將其用作香料、藥物及染料，被譽為「植物之王」，聖經中亦有記載。",
+        "warnings": [],
+        "source_line_range": [
+          11,
+          14
+        ],
+        "exact_source_quote": "         Bereits die Alten benutzten den Safran sowohl als Gewiirz, als auch als Medizin und Farbmittel.\nSchon die älteste indische Medizin, Salomo, Homer, Hippokrates, Theophrast u. A. beschäftigen sich\nmit ihm und die alten Aerzte preisen die Pflanze als die Königin der Pflanzen. Das Hohelied Salomonis\nbezeichnet Karkom als eines der gepriesensten Produkte des Pflanzenreichs. Schon früh hat nach"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 387,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含10%水分、1.04%揮發油、6.5%樹膠、65%藏紅花色素（Polychroit）及蠟質等。",
+        "warnings": [],
+        "source_line_range": [
+          46,
+          50
+        ],
+        "exact_source_quote": "          Bestandtheile. Bouillon-Lagrange und A. Vogel fanden in dem Safran: 10%, Wasser,\n1.049/, ätherisches Oel (7.5%, ätherisches Oel mit Stearopten), 6.5%% Gummi, 659/, Safranfarbstoff\n(Polychroit) 0.5 wachsartige Materie, 0.5%, Eiweiss, 10%, Faser, ferner ein bei 48? schmelzendes\nFett etc.      Quadrat    fand   Zucker     und Apfelsáure.           Stoddart   erhielt      62.319/,     fárbende     Substanzen\nund 1.32%, flüchtiges Oel. Der Aschegehalt beträgt 44-۰"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "893106658be9a7d29f66e09be7d4e73f8b6f2d323cf50c9c8b86896b0ce9dd48"
+}

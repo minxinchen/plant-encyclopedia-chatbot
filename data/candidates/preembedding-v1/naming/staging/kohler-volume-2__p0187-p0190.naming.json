@@ -1,0 +1,148 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-2:p0187-p0190",
+  "owner_shard": "S03",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S03/maker/structure-drafts/kohler-volume-2__p0187-p0190.json",
+  "source_draft_sha256": "64aff0caa83ce3ea13985f38fc4a6b9d284e082cc64fbaa33a19cf7c1f19ca89",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "823f9e4b96c72be75b11936dc3905589259fabfebb0daae5852b38a8de01d55c",
+    "validation_check_sha256": "abdd4462e98b2875d877af4190d8ece8f50b39280bded3990a9979b605a25c78",
+    "source_disposition_sha256": "b013821af8bc2579b883c16fe8c978319d7a35dfd2a5c7ed58122d8f6599511b",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Citrullus Colocynthis",
+    "authorship_candidate": "Schrader",
+    "aliases_candidates": [
+      "Cucumis Colocynthis L.",
+      "Colocynthis officinarum Schrad."
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Citrullus Colocynthis",
+      "Citrullus colocynthis"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_zh_tw": null,
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_checked",
+    "taxon_id": null,
+    "display_name_source_scope": "unresolved",
+    "display_name_source_evidence_ids": [],
+    "display_name_is_taiwan_public": false,
+    "display_name_answer_policy": "scientific_name_only",
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping.",
+    "checked_at": "2026-08-13T19:06:15+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Citrullus Colocynthis",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Citrullus+Colocynthis",
+      "retrieved_at": "2026-08-13T19:06:11+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Citrullus",
+          "matched_name_id": 1022,
+          "taxon_id": "t0023497",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Citrullus",
+          "accepted_name_id": 1022,
+          "accepted_usage": [
+            {
+              "usage_id": 6781,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": null
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0023497",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0023497",
+          "taxon": {
+            "taxon_id": "t0023497",
+            "taxon_status": "accepted",
+            "name_id": 1022,
+            "simple_name": "Citrullus",
+            "name_author": "Schrad.",
+            "rank": "Genus",
+            "common_name_c": "西瓜屬",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": null,
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Citrullus colocynthis",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Citrullus+colocynthis",
+      "retrieved_at": "2026-08-13T19:06:11+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Cucumis colocynthis",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Cucumis+colocynthis",
+      "retrieved_at": "2026-08-13T19:06:13+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Colocynthis officinarum",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Colocynthis+officinarum",
+      "retrieved_at": "2026-08-13T19:06:13+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Citrullus colocynthis",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Citrullus%20colocynthis",
+      "retrieved_at": "2026-08-13T19:06:15+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears."
+  ]
+}

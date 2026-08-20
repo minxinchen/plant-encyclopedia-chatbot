@@ -1,0 +1,367 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0377-p0384-child-01",
+  "entry_id": "kohler-volume-2:p0377-p0384:child-01",
+  "owner_shard": null,
+  "book_taxon": {
+    "scientific_name": "Rheum officinale",
+    "authorship": null,
+    "aliases": []
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Rheum officinale"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-20T23:03:30+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Rheum+officinale",
+        "query_name": "Rheum officinale",
+        "retrieved_at": "2026-08-20T23:02:54+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 377,
+      "evidence_type": "text",
+      "page_text_sha256": "24956306a4306274269c08150f0cc65aabdf268e23015a131cc3256c515cbf57",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 378,
+      "evidence_type": "text",
+      "page_text_sha256": "9c21ce8a01e33f4ba3d0528b3cbab475df287ecef245c55d8dbacbf2db226578",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 379,
+      "evidence_type": "text",
+      "page_text_sha256": "fb9a57da3f339cc6adbccd37e9e8fc8396116877257c49736adbb02aaf1f0fe2",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 380,
+      "evidence_type": "text",
+      "page_text_sha256": "4fbbdc196e0fe6ebed78a6ab39c35593ef26b0fdc337698cb848aa295486b05a",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 383,
+      "evidence_type": "text",
+      "page_text_sha256": "df22a69d9829d2c49c83da024e053d0e10b59be0cdb30fb14b8388af48fb32b2",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 384,
+      "evidence_type": "text",
+      "page_text_sha256": "79a042c57955cd3ab95e9e1e3ed220c1798e42be116a2987cd6bddf3a5f04eb4",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0377-p0384:child-01:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                          Rheum                 officinale Baill.\n      Rhabarber —            Rhubarbe de Chine, Rhubarhe de Moscovie — Thibetan-Rhubarb.\n         Familie: Polygonaceae: Gattung: Rheum L.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 377,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 220,
+        "source_line_start": 1,
+        "source_line_end": 3,
+        "page_text_sha256": "24956306a4306274269c08150f0cc65aabdf268e23015a131cc3256c515cbf57",
+        "exact_text_sha256": "0a51fa5629bebc14ef962b9719b0abd641f88c144759631238c44b3b70c837a9",
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "0a51fa5629bebc14ef962b9719b0abd641f88c144759631238c44b3b70c837a9",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0377-p0384:child-01:s01:x00",
+      "section_type": "description",
+      "original_text": "         Rheum officinale Baill. ist eine 11/, bis fast 3 Meter hohe Pflanze mit einem mehrköpfigen,\nschiefen, cylindrischen, bis 20 Ctm.            aus dem         Boden      hervorragenden     Rhizom,     welches    auf den älteren\nThelen mit Blattstiel- und Knospennarben bedeckt ist. Die grossen, aus herzfórmigem Grunde\neiförmigen, zugespitzten, handförmig gross 5- oder 7lappigen Blätter besitzen gelappte und gezahnte\nAbschnitte und eine wellige Blattspreite. Untere Blätter sammt dem fast cylindrischen Blattstiele\nüber 1 Meter lang und etwas breiter. Blattstiele nach oben kürzer werdend, nebst den Nerven der\nBlattunterseite      dicht   mit     kurzen,    abstehenden,             weichen   Härchen     bedeckt.     Die     am      Grunde      der\nBlattstiele befindlichen Tuten 2theilig. Flückiger sagt: „Die bei uns recht gut gedeihende Pflanze\ntreibt Ende März aus dem mächtigen Rhizom auffallend wellige, gelblich bronzefarbene Blätter mit\nrothen Adern und rothen, gewimperten Rändern. Vor der völligen Entfaltung sind die Blätter unter-\nseits reichlich mit weichen Börstchen besetzt, zuletzt weisslich-flaumig. Das ausgewachsene Blatt\nzeigt 5, zwar wenig hervortretende Lappen, die fast fücherfórmig von je einem starken Nerven durch-\nzogen sind. Der mittlere Lappen pflegt kaum mehr vorzuspringen, als die übrigen, daher die Blatt-\nspreite, nach beiden Richtungen über 1 Meter erreichend, oft mehr breit als lang erscheint. Am\nGrunde ist sie herzförmig oder fast geöhrt, der Blattstiel von halber Blattlänge. Im Mai treibt die\nPflanze meist auffallend zahlreiche Stengel bis zur Höhe von 23/, Meter, welche Mitte Juni blühen\nund. Ende Juli die letzten Früchte reifen. Die weissen oder grünlich-weissen Blüthen auf kurzen\nStielen, zu grossen, dichten, traubigen, endständigen Rispen vereinigt. Perigonabschnitte eifórmig,\nconcav. Die den Grund des Fruchtknotens umgebende dankelgrüne Scheibe 9kerbig eingeschnitten.\nFruchtknoten eine kantige, nach oben verjüngte Säule darstellend, mit 3 übergebogenen kurzen Griffeln\nund kopfigen Narben. Eichen aufrecht. Frucht gelb mit purpurnen Flügeln.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 377,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 1943,
+        "char_end": 4049,
+        "source_line_start": 21,
+        "source_line_end": 41,
+        "page_text_sha256": "24956306a4306274269c08150f0cc65aabdf268e23015a131cc3256c515cbf57",
+        "exact_text_sha256": "9fa959ea954bd4b71b34febcec0bc26b73bb684ddef1cbded5086b6f373fdde9",
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "9fa959ea954bd4b71b34febcec0bc26b73bb684ddef1cbded5086b6f373fdde9",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0377-p0384:child-01:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "            Anatomisches.           Die   im   Handel    erscheinende    Droge ist durch Schälen von         der Rinde ent-\nblösst; die Farbe ist vorherrschend gelb und hier und da durch grössere oder kleinere Rindenreste\ndunkel gefärbt. Flückiger giebt über den anatomischen Bau der Wurzel folgende Beschreibung: Auf\nder gelben Färbung der Aussenfläche treten weisse, körnig krystallinische Felder auf, welche parallel\nzur Axe von glänzenden, gelben bis dunkel braunrothen Adern und Streifen durchsetzt sind. Diese\nZeichnungen zeigen jedoch nur in den äusseren Schichten der Wurzel Regelmässigkeiten, während sie\nnach innen einen unbestimmten Verlauf nehmen. Die weisse Grundmasse besteht aus dem Gefäss-\nbündelsystem und Parenchym; die rothgelben Streifen aus Markstrahlen. Die Gefässbündel sind von\neinem dünnwandigen, nicht verholzten Parenchym umgeben, welches von den zahlreichen Markstrahlen\nsehr unregelmässig durchschnitten wird. Letztere sind nur im Rindentheile des Rhizoms regelmässig\ngeordnet;      „im Innern aber,      oder wo     die    Waare    tief geschält ist,     bietet sie ein wenig regelmässiges\nGewirre rother, zierlich geschlängelter Adern in der weissen Grundmasse, welche Zeichnung mit dem\ntechnischen Ausdrucke marmorirt belegt wird.“ Der körnigen Beschaffenheit wegen lässt sich die\nStruktur der Rhabarberwurzel besser auf dem frischen Bruche als auf dem Querschnitte beobachten.\n„Möglichst regelmässige, cylindrische Stücke zeigen auf dem Querbruche dicht unter der Aussenfläche\neinen schmalen, zusammenhängenden, gelblich schwarzen Cambiumring, der gewöhnlich nicht im ganzen\nUmfange erhalten ist. Die rothen Markstrahlen durchsetzen diesen Ring bis auf eine Tiefe von etwa",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 378,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3229,
+        "char_end": 4934,
+        "source_line_start": 34,
+        "source_line_end": 50,
+        "page_text_sha256": "9c21ce8a01e33f4ba3d0528b3cbab475df287ecef245c55d8dbacbf2db226578",
+        "exact_text_sha256": "ba31c34ce2aeb85e510a3f998528a2de6eb38ebd75eaebb4d93db5c4d154d0d2",
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "ba31c34ce2aeb85e510a3f998528a2de6eb38ebd75eaebb4d93db5c4d154d0d2",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0377-p0384:child-01:s03:x00",
+      "section_type": "distribution",
+      "original_text": "             Vorkommen.       In Tibet und wahrscheinlich auch im westlichen und nordwestlichen China.\n   Flückiger bezeichnet das bis 4000 Meter hohe wilde Alpenland Tangut (Turfan oder Si-fan), welches\n   das weidenreiche Becken des Kuku-nor, sowie das Quellgebiet des Hwangho oder Hoangho umfasst,\n   als die eigentliche Heimath der Rhabarberpflanzen, bemerkt aber, dass grosse Theile vom nördlichen\n und nordwestlichen   China, namentlich   die Provinzen   Schensi und Schansi, sowie Sz'tschwan am oberen\n Kiang zum Verbreitungsgebiete des Rhabarbers gehören. Der Mittelpunkt und Hauptstapelplatz des\n Rhabarberhandels ist die Stadt Si-ning, östlich vom Kuku-nor gelegen. Der beste Rhabarber soll\n jedoch aus der nordöstlichen Provinz Schansi stammen. Auch im östlichen Tibet wird Rhabarber\n gesammelt. Flückiger sagt: „Man darf also wohl annehmen, dass die betreffenden Pflanzen in vielen\n Gegenden der nördlichen Gebirgsländer Chinas, der westlichen Theile der Provinz Sui-tschuan (Sze-tschuan),\n sowie der westwärts anstossenden Gebiete einheimisch sind. Eine so grosse Ausdehnung des Ver-.\n breitungsbezirkes berechtigt zu  der Vermuthung,    dass es  sich nicht nur  um  eine einzige Art  handle,\n sondern dass die Rhabarber von mehreren Pflanzen abstammen können.“",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 379,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3604,
+        "char_end": 4878,
+        "source_line_start": 38,
+        "source_line_end": 50,
+        "page_text_sha256": "fb9a57da3f339cc6adbccd37e9e8fc8396116877257c49736adbb02aaf1f0fe2",
+        "exact_text_sha256": "501bf95845a4aafac61cae86c83a9684fb4fd7498b431e49215e18519dfe316c",
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "501bf95845a4aafac61cae86c83a9684fb4fd7498b431e49215e18519dfe316c",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0377-p0384:child-01:s04:x00",
+      "section_type": "history",
+      "original_text": "            Name und Geschichtliches.                 Rheum und Rhabarber von 60, 6%, óñov, vom Flusse Rha\n (Wolga) an dessen Ufern die Rhabarberpflanze angeblich wachsen sollte; barbarum, fremd, ausländisch.\n Nach Ritter stammt der Name entweder von dem alten Hafenort Barberika im Indusdelta, oder von\n der   afrikanischen   Landschaft   Barberica    am     Eingang    in das   Rothe     Meer.    Die erstere Ableitung vom\n Flusse Rha dürfte wohl die richtigere sein.\n          Bereits in dem 2700 Jahre vor unserer Zeitrechnung verfassten chinesischen Kräuterbuche,\n Pen-king, tritt Rhabarber unter der Bezeichnung Huang liang (ausgezeichnet gelb) und Ta-huang\n (grosses Gelb) auf.     Auch   Dioskorides        scheint die Wurzel       schon gekannt      zu haben, denn die aussen\n schwarze, innen röthliche, weder harte noch schwere Wurzel ó& oder óño», welche nach jenem Schrift-\n steller von jenseits des Bosporus kam, ist nach Flückigers Vermuthung wohl die Rhabarberwurzel\n gewesen,    die   damals wahrscheinlich        durch    Karawanen,     welche      beispielsweise   um   114    v. Chr.    aus\n Schensi in Nord-China über Bokhara westwürts zogen, nach Europa                        gebracht worden ist.            Auch in\n der von    Plinius    erwähnten,   von   jenseits      des Pontus   stammenden       Wurzel    Rhacoma,        deren    Pulver\neine weingelbe bis rothe Farbe besitze, wird Rhabarber vermuthet; ebenso in einer von Ammianus\nMarcellinus allerdings nicht nüher beschriebenen Heilwurzel, vom Flusse Rha (Wolga) stammend.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        3
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 380,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 1554,
+        "source_line_start": 1,
+        "source_line_end": 15,
+        "page_text_sha256": "4fbbdc196e0fe6ebed78a6ab39c35593ef26b0fdc337698cb848aa295486b05a",
+        "exact_text_sha256": "bfaa487f23c26f73e85675c2cb5445519b33b5b7c0354eb41d89960a7cb07dbd",
+        "section_index": 4,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "bfaa487f23c26f73e85675c2cb5445519b33b5b7c0354eb41d89960a7cb07dbd",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0377-p0384:child-01:s05:x00",
+      "section_type": "constituents",
+      "original_text": " Emodin ist nach Liebermann gleichbedeutend mit Frangulinsäure aus der Faul\n                                                                                     baumrinde.\n          Erythroretin bildet ein gelbes, fast geschmackloses, in Wasser und Aether wenig, in Weingeist\n leicht lösliches Pulver. Kalilauge und Ammoniak lösen mit schön purpurrother Farbe, aus\n                                                                                                    welcher\n Lösung es durch Säuren in gelben Flocken niedergeschlagen wird.\n          Phaeoretin (C,¿H,¿O, nach Kubly) ist ein gelbbraunes in Wasser und Aether unlösliches, in\n Weingeist und Alkalien leicht lösliches Pulver; die alkalische Lösung ist tief rothbraun und Säuren\n schlagen es daraus in gelben Flocken nieder.\n          Aporetin bildet eine schwarze, glänzende Substanz, welche wenig löslich in heissem Weingeist,\n Aether, kaltem und heissem Wasser, leicht lóslich in Kalilauge und Ammoniak ist, Die ammoniakalische\n Lösung ist braun, woraus es durch Säuren in braunen Flocken niedergeschlagen wird.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        4
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 383,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 193,
+        "char_end": 1267,
+        "source_line_start": 3,
+        "source_line_end": 14,
+        "page_text_sha256": "df22a69d9829d2c49c83da024e053d0e10b59be0cdb30fb14b8388af48fb32b2",
+        "exact_text_sha256": "01703ee6cf449cf266dd33429392f5ddc255d9431884443d00a3122f5aade80c",
+        "section_index": 0,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "01703ee6cf449cf266dd33429392f5ddc255d9431884443d00a3122f5aade80c",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0377-p0384:child-01:s06:x00",
+      "section_type": "historical_use",
+      "original_text": "          Anwendung. Rhabarber ist in Substanz, im Aufguss, in Pulver und Pillenform ein sehr\ngeschätztes tonisches und zugleich abführendes Mittel, welches je nach der Grösse der Dosis verschiedene\nWirkungen äussert. Kleine Dosen befördern die Verdauung und beschränken die übermässigen Abson-\nderungen im Darmkanal, grössere Dosen erzeugen breiige Stuhlgänge ohne Leibschneiden. Häufig findet\nRhabarber in kleinen Dosen Anwendung bei Dyspepsie und chronischem Darmkatarrh, namentlich im\nkindlichen Lebensalter. „Ueber das oder die aktiven Prinzipien des Rhabarbers bestehen bis auf den\nheutigen Tag divergirende Anschauungen. Man hat längere Zeit die nur in geringen Mengen darin vorhan-\ndene Chrysophansäure dafür angesehen, neben welcher sich nach Kubly noch Chrysophan und ein bis jetzt\nnicht benannter krystallisirter Körper findet, von denen das erstere vielleicht im Tractus — wie beim\nKochen mit verdünnter Salzsäure — in Chrysophansäure und Zucker sich spaltete. Von den sonst im\nRhabarber vorgefundenen harzartigen, als Emodin, Phaeoretin, Aporetin und Erythroretin bezeichneten\nStoffen wirkt nach Kubly Phaeorotin in grossen Mengen purgirend, während Aporetin den Tractus\nnicht afficirt. In einem gewissen Gegensatze zu den genannten Stoffen steht die Rheumgerbsáure,\nwelche vielleicht zu den dem Rhabarber beigelegten tonischen Wirkungen Beziehung hat. Sicher ist das\naktive Prinzip vorzugsweise in Wasser lóslich, doch auch in Alkohol und dürfte deshalb zwar Analogie\nmit dem Prinzip der Sennesblätter besitzen, jedoch nicht damit völlig identisch sein.“ Kleine Dosen\nsind bei gesunden Menschen ohne besondere Wirkung, während sie bei Magenkatarrh Steigerung des\nAppetits und Förderung        der Digestion    bewirken.       „Mehrmals   wiederholte   kleine Dosen     wirken   retar-\ndirend auf den Stuhlgang, was auch bei regelmässigem                  Stuhl, auffallender    bei Vorhandensein       von\nDiarrhoe   sich zeigt.“     Die   ausserordentliche    Milde   in seinen Wirkungen       macht   die Anwendung       des\nRhabarbers      besonders   geeignet bei Kindern      und schwächlichen    Personen;     wohingegen     die Anwendung\nals dauerndes Abführmittel nicht empfohlen wird. (Husemann, Arzneimittel. 613.)",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        4
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 383,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 1909,
+        "char_end": 4147,
+        "source_line_start": 22,
+        "source_line_end": 43,
+        "page_text_sha256": "df22a69d9829d2c49c83da024e053d0e10b59be0cdb30fb14b8388af48fb32b2",
+        "exact_text_sha256": "1cbd198ccd0f2e9ca97db615d8cef206b0f72344d4124060855515904779326c",
+        "section_index": 1,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "1cbd198ccd0f2e9ca97db615d8cef206b0f72344d4124060855515904779326c",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0377-p0384:child-01:s07:x00",
+      "section_type": "literature",
+      "original_text": "          Litteratur. Abbildung und Beschreibung. Nees v. Esenb., Plant. med., Taf. 118—120\n(palmatum), Taf. 116 und 117 (undulatum), Tat. 121 (compactum), Suppl II, Taf 4—6 (hybridum),\nSuppl V, Taf, 5 (australe); Hayne, Arzneigew. XII, Taf. 10 (palmatum), XII, Taf. 8 (undulatum),\nXII, Taf. 9 (compactum), XII, Taf. 6 (australe); Berg u. Schmidt, Offs, Gew., Taf. XXXla (australe);\nBentley and Trimen, Med. pl, Taf. 213 (officinale), Taf. 214 (palmatum), Taf. 215 (Rhaponticum);      `\nLuerssen, Handb. der syst. Bot., IL, 535 f£; Karsten, Deutsche Flora 518 ff; Wittstein, Pharm. 676. `\n         Drogen und Präparate. Rhizoma Rhei (Radix Rhei): Ph. germ. 223; Ph. austr. 110\nPh. hung. 369; Ph. ross. 334; Ph. helv. 109; Cod. med. 75; Ph. belg. 71; Ph. Neerl. 195; Brit. ph.\n270; Ph. dan. 193; Ph. suec. 172; Ph. U. St. 282; Flückiger, Pharm. 364; Flückiger and Hanb,,\nPharm.   491;    Hist. d. Drog. II, 195; Berg,         Waarenk.   73; Berg,    Atlas 21, Taf, XII.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        4
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 383,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 4228,
+        "char_end": 5196,
+        "source_line_start": 45,
+        "source_line_end": 54,
+        "page_text_sha256": "df22a69d9829d2c49c83da024e053d0e10b59be0cdb30fb14b8388af48fb32b2",
+        "exact_text_sha256": "3274e698904f3cddb5e9ebcab98a435702eacc5651db467cbdf2f638f03279bb",
+        "section_index": 2,
+        "section_type": "literature"
+      },
+      "exact_text_sha256": "3274e698904f3cddb5e9ebcab98a435702eacc5651db467cbdf2f638f03279bb",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0377-p0384:child-01:s08:x00",
+      "section_type": "anatomy",
+      "original_text": "           ie rübenförmige, fleischige Wurzel kommt meist ungeschält in cylindrischen, 8 bis 23 Ctm.\nlangen, 21/, bis 5 Ctm. dicken, markigen oder hohlen Stücken in den Handel. Sie ist aussen dunkel-\ngelb bis bräunlich, innen blassgelb oder weiss und wird auf dem Querschnitte von rothen oder bräun-\nlich rothen Linien radial durchschnitten. Das zwischenliegende Gewebe besteht aus weissen, krystal-\nlinischen Schichten.      Die rothen Linien werden aus kleinen, rundlichen Zellen zusammengesetzt, welche mit\neinem gelben Farbstoff angefüllt sind. Die breiten, weissen Schichten zwischen diesen Linien zeigen ein\nschlaffes Parenchym, welches wenig Stärkemehl und zahlreiche Drusen von Kalkoxalat enthält und\nin   der   Mitte   von    einer   schmalen    Reihe   von    Gefässen        durchzogen      wird.   Der die Rinde vom         Holze\ntrennende Cambiumring ist stärke- und krystallfrei.                          |",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        5
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 384,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 4119,
+        "char_end": 5039,
+        "source_line_start": 51,
+        "source_line_end": 59,
+        "page_text_sha256": "79a042c57955cd3ab95e9e1e3ed220c1798e42be116a2987cd6bddf3a5f04eb4",
+        "exact_text_sha256": "f9513c6d5f186badd8ff7c49245d35b36aba9ecb43aed01c7968d217d7cd0b77",
+        "section_index": 4,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "f9513c6d5f186badd8ff7c49245d35b36aba9ecb43aed01c7968d217d7cd0b77",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "3c8b9a2cc5fc137dcba57fa0be361ed38eb78a6663fa0e389c6db459f4e79aea",
+    "maker_receipt_sha256": null,
+    "validation_check_sha256": null,
+    "source_disposition_sha256": "d5ba4e6b4139617b43f5c9ff7eac5f4817e61b30e522cbdc264a1155d5ba1548",
+    "candidate_source_chain": {
+      "source_disposition_sha256": "d5ba4e6b4139617b43f5c9ff7eac5f4817e61b30e522cbdc264a1155d5ba1548",
+      "boundary_overlay_plan_sha256": "c7c0253e52f0583570699f98cc9c8fa3dda15857551bc2b94d6430ed0afd008a",
+      "boundary_segment_sha256": "498c1d06045fc1d595f55108f60a0c154ebb4120a462951377989734e2a2f21c",
+      "source_parent_entry_id": "kohler-volume-2:p0377-p0384",
+      "continuation_v2_receipts": [
+        {
+          "package_id": "kohler-volume-2:p0377-p0384:child-01:continuation-01",
+          "package_sha256": "08efcaafae4168f50f5afb52f4518faf0e386de233e54224a6a08b9cef315ef3",
+          "receipt_sha256": "88c20e7d5aaabd906883312018769c26dbf245185715ea972468ce8bd2861b90",
+          "attempt_sha256": "3d6fb6cce6217797c7c1acacf5dd37744a6a4a6d307a07d3026b3c7eef64c2cd",
+          "validation_check_sha256": "318a8441c134fcfc2e2add28904678e24ecfdce9952e3dae868342d2b04e3b1a"
+        },
+        {
+          "package_id": "kohler-volume-2:p0377-p0384:child-01:continuation-02",
+          "package_sha256": "61df59282148cc366b9e3e89e985c4f3f3c8146623d1404446acc3ea76fabf8e",
+          "receipt_sha256": "3050c728213911563ae520e89bfab7eddc134159907a3dcb067f5cf8f0ff1d65",
+          "attempt_sha256": "23d019a94a2438aaee7da7f3f30655f7bfd0562f1b690cd7f5e0710dc281290d",
+          "validation_check_sha256": "3dee442b141668b34d67590c959b1265e30fe820f9002f743e3d4f8a6820dc5d"
+        }
+      ]
+    },
+    "naming_artifact_sha256": "5a249aca24acc4382149c965699dc761bb8b285df6516066ab6b2b9d7e7e8f06"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "3c76915bb659a2d27c9d35638e3f13742a0562334d37d8e68c26de6963df42b9"
+}

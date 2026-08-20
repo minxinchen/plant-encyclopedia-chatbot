@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 347,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "b65e192b6d840993f2891941fca888916fab3e59069655c3867cc07ff98d85c0",
+  "render_dpi": 144,
+  "render_sha256": "ca56775e16b2d63dece2216a2d47f55df78ef002d2f3e4e5c6e4f964c4b4d474",
+  "input_sha256": "ca56775e16b2d63dece2216a2d47f55df78ef002d2f3e4e5c6e4f964c4b4d474",
+  "render_pixel_width": 5714,
+  "render_pixel_height": 7874,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 6.365,
+  "embedded_character_count": 154,
+  "ocr_character_count": 70,
+  "ocr_alpha_ratio": 0.6714,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01744185932098874,
+      "text": "Salicaceae",
+      "width": 0.10399999507713709,
+      "x": 0.8040000014214316,
+      "y": 0.9331395353976452
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "3",
+      "width": 0.009999999426361317,
+      "x": 0.7840000002118193,
+      "y": 0.6424418608601598
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252612005,
+      "text": "13",
+      "width": 0.01599999934292296,
+      "x": 0.06000000016853852,
+      "y": 0.5406976745219498
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "14",
+      "width": 0.01799999974968497,
+      "x": 0.46400000002515757,
+      "y": 0.424418605024404
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.06337209731813465,
+      "text": "Galsamupera",
+      "width": 0.13006852541732528,
+      "x": 0.8539657365243015,
+      "y": 0.21395348542810233
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252612005,
+      "text": "E",
+      "width": 0.014000000239885346,
+      "x": 0.797999999796724,
+      "y": 0.1889534886328995
+    },
+    {
+      "confidence": 1,
+      "height": 0.014961083730061886,
+      "text": "WMüller n.d. Nat.",
+      "width": 0.09412375167877973,
+      "x": 0.8139381248323824,
+      "y": 0.14077527212693863
+    },
+    {
+      "confidence": 1,
+      "height": 0.022275167798239126,
+      "text": "Populas nigral",
+      "width": 0.16044520745111174,
+      "x": 0.40177739787223293,
+      "y": 0.10950195109109018
+    },
+    {
+      "confidence": 1,
+      "height": 0.011656746031746046,
+      "text": "• 56",
+      "width": 0.020000000156446873,
+      "x": 0.8939999997217766,
+      "y": 0.03050595249883259
+    }
+  ],
+  "text": "Salicaceae\n3\n13\n14\nGalsamupera\nE\nWMüller n.d. Nat.\nPopulas nigral\n• 56",
+  "output_sha256": "a9a3709fce957b07aebd8fec09d07a8478b3b078189c66c4a3871894d28457c1",
+  "receipt_sha256": "855263c2d02f3ddd1462e1c786cd9296bcb7fa1d00317e4fee5daaae4fc9f9e2"
+}

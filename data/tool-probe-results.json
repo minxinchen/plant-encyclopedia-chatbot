@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "checked_at": "2026-08-11T08:34:00+08:00",
+  "cost": {
+    "incremental_usd": 0,
+    "paid_fallback_used": false
+  },
+  "probes": {
+    "gemini_auth_key_connection": {
+      "status": "passed",
+      "checked_at": "2026-08-11T08:34:00+08:00",
+      "authentication": "dedicated Gemini authorization key loaded from the project-specific Git-ignored env file",
+      "models_endpoint": "passed without exposing the key",
+      "embedding_model": "gemini-embedding-2",
+      "embedding_dimensions": 768,
+      "embedding_values_finite": true,
+      "incremental_usd": 0
+    },
+    "gemini_multimodal_embedding": {
+      "status": "passed",
+      "authentication": "provisional existing Gemini API Free Tier key stored in n8n credentials",
+      "model": "gemini-embedding-2",
+      "input": "volume 4 PDF page 79 plate image plus Chinese/German taxon text",
+      "dimensions": 768,
+      "vector_norm": 1.0,
+      "conclusion": "A plate image and multilingual taxon description can be embedded in one normalized vector."
+    },
+    "gemini_plate_review": {
+      "status": "passed",
+      "model": "gemini-3.5-flash",
+      "source": "kohler-volume-4 PDF page 79",
+      "verdict": "Plate is fern-like and its printed Cibotium barometz caption is consistent.",
+      "constraint": "Visual description is evidence review, not a source of medicinal facts."
+    },
+    "qwen_evidence_review": {
+      "status": "failed_overconfident",
+      "model": "Qwen3.5-35B-A3B-6bit local",
+      "source": "kohler-volume-4 PDF page 31 embedded text",
+      "maker_verdict": "The candidate distribution sentence was fully supported.",
+      "checker_verdict": "The embedded text reading order was scrambled; page-image adjudication showed the north/south direction was reversed.",
+      "correction": "Assam and southern China are the northern boundary; the range extends south to Formosa and the Malay region.",
+      "lesson": "A generative reviewer cannot approve layout-damaged OCR without checking the page image."
+    },
+    "qwen_9b_availability": {
+      "status": "passed_maker_only",
+      "model": "mlx-community/Qwen3.5-9B-6bit",
+      "installed_size": "7.7 GiB",
+      "license": "Apache-2.0",
+      "service": "OpenAI-compatible local endpoint at 127.0.0.1:18080",
+      "evidence_checker_trap": "failed_overconfident",
+      "restriction": "Use for candidate extraction and JSON structuring; never self-approve layout-sensitive OCR."
+    },
+    "independent_adjudication": {
+      "status": "passed",
+      "maker": "Qwen3.5-35B-A3B on embedded text",
+      "checker": "Gemini 3.5 Flash on PDF page image plus deterministic Codex inspection",
+      "result": "The checker rejected the maker's reversed distribution direction and produced a source-consistent correction.",
+      "policy_added": "Layout-damaged OCR claims require page-image adjudication before promotion."
+    },
+    "gemini_notebook_crosscheck": {
+      "status": "needs_review",
+      "notebook": "Botanical Studies of Cinnamomum and Cinchona Species",
+      "source_count": 41,
+      "observed_scope": "First-volume split PDFs with text and color plates",
+      "verdict": "The notebook could not confirm that the 41 sources form a complete first volume; do not duplicate-upload or treat it as canonical until source-to-page mapping is inventoried."
+    }
+  }
+}

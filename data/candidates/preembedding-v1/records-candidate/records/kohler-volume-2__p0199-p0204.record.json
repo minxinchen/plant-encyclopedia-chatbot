@@ -1,0 +1,254 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0199-p0204",
+  "entry_id": "kohler-volume-2:p0199-p0204",
+  "owner_shard": "S03",
+  "book_taxon": {
+    "scientific_name": "Guajacum offiemale",
+    "authorship": "L.",
+    "aliases": [
+      "Pockholzbaum",
+      "Franzosenholzbaum",
+      "Guajakholzbaum",
+      "Gayac",
+      "Guajacum"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Guajacum offiemale"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T19:44:49+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Guajacum+offiemale",
+        "query_name": "Guajacum offiemale",
+        "retrieved_at": "2026-08-13T19:44:48+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 199,
+      "evidence_type": "text",
+      "page_text_sha256": "a3ba61120410814fdb3e9d76be866ee3502f662fee6e043385a88325166b6dd5",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 200,
+      "evidence_type": "text",
+      "page_text_sha256": "31da1fbb03b84d1fd2d3fb0806a74be7bf611da7f61d777590d9cd14fd5f97c1",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 202,
+      "evidence_type": "text",
+      "page_text_sha256": "b52e6e95b8ec9fdcb799e652477bd9bd8915197b65c1312d98b36af1bc9aa2af",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0199-p0204:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                          Guajacum                offiemale L.\n\n        Pockholzbaum,          Franzosenholzbaum,              Guajakholzbaum              —     Gayac 一           Guajacum.\n\n           Familie:       Zygophyllaceae;        Gattung: Guajacum L.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Guajacum offiemale L.，屬莢莢科。俗名 Pockholzbaum、Franzosenholzbaum。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 199,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 275,
+        "page_text_sha256": "a3ba61120410814fdb3e9d76be866ee3502f662fee6e043385a88325166b6dd5",
+        "exact_text_sha256": "9721604a9fa5f324e3aa1a07f9292233a8a2d93ed71c2a89cc80c079f4cb19d8",
+        "source_line_start": 1,
+        "source_line_end": 5,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "9721604a9fa5f324e3aa1a07f9292233a8a2d93ed71c2a89cc80c079f4cb19d8",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0199-p0204:s01:x00",
+      "section_type": "description",
+      "original_text": "          Beschreibung. Immergrüner, bis 13 Meter hoher Baum, mit ausgebreiteter Krone, gabel-\ntheiligen, gegliederten, fast walzenrunden, kahlen, grünlich-grauen Aesten und sehr fein behaarten,\ngrünen, an den Knoten verdickten jüngeren Zweigen. Blätter gegenständig, kurz gestielt oder fast\nsitzend, 2- selten 3paarig gefiedert, mit halbstielrunder,                oberhalb     rinnenfórmiger,          fein behaarter,   später\nkahler Spindel. Blüttchen gegenständig, sitzend, eiförmig oder eiförmig-länglich, stumpf, ganzrandig,\nkahl, am Grunde ungleichseitig, undeutlich gewimpert, 4 Ctm. lang, 2!/, Ctm. breit, das oberste Paar\netwas grösser. Nebenblätter klein, lanzettlich, abfallend. Blüthen zu 6—10 (durch Fehlschlagen auch",
+      "normalized_text": null,
+      "zh_tw_rendering": "常綠喬木，高至13米。葉對生，2-3回羽狀複葉。小葉橢圓形，全緣，長4厘米。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 199,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 276,
+        "char_end": 1007,
+        "page_text_sha256": "a3ba61120410814fdb3e9d76be866ee3502f662fee6e043385a88325166b6dd5",
+        "exact_text_sha256": "bceee5178340a8590dc81864b317109c8b120a7d121a6b77605f43fb0f676004",
+        "source_line_start": 6,
+        "source_line_end": 12,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "bceee5178340a8590dc81864b317109c8b120a7d121a6b77605f43fb0f676004",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0199-p0204:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "        Anatomisches .    Der  Stam  mque rsch nitt   zeig t  bei    alte n   Stä  mme n   eine  kau m   2   Mom.   bei\njungen Stämmen eine ca. 2 Ctm. brei te Schi cht   von hell gelb lich em    Spli nte, welc her   vom   inne ren,  grün -\nlich-braunen     Kerne    scharf abgegrenzt ist.         Splint      und Holz     lassen       keine   echten Jahrringe       erkennen,\n\n\n                                                                                                                                     121",
+      "normalized_text": null,
+      "zh_tw_rendering": "老樹心材窄，幼樹寬。無年輪，有明暗層。木質部含樹脂，木射線單列。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 199,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3515,
+        "char_end": 4029,
+        "page_text_sha256": "a3ba61120410814fdb3e9d76be866ee3502f662fee6e043385a88325166b6dd5",
+        "exact_text_sha256": "80a36949c7f368a133b23ccce02ae701cbb63124ca56ebb685ca7c2b53a6a4f6",
+        "source_line_start": 37,
+        "source_line_end": 42,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "80a36949c7f368a133b23ccce02ae701cbb63124ca56ebb685ca7c2b53a6a4f6",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0199-p0204:s03:x00",
+      "section_type": "distribution",
+      "original_text": "          Vorkommen.             Auf den westindischen Inseln: Trinidad, St. Vincent, St. Lucia, Martinique,\nSt. Domingo,      Haiti, Jamaica,    Cuba;    auch   auf der Nordküste          Südamerikas,",
+      "normalized_text": null,
+      "zh_tw_rendering": "產於西印度群島（特立尼達、海地、古巴等）及南美洲北岸。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 200,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3374,
+        "char_end": 3575,
+        "page_text_sha256": "31da1fbb03b84d1fd2d3fb0806a74be7bf611da7f61d777590d9cd14fd5f97c1",
+        "exact_text_sha256": "cd373250564b2f39ba9d92f8f5d07b2761e2b67d5a99e6b2a0e5de866c0c16eb",
+        "source_line_start": 35,
+        "source_line_end": 36,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "cd373250564b2f39ba9d92f8f5d07b2761e2b67d5a99e6b2a0e5de866c0c16eb",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0199-p0204:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "          Name und Geschichtliches.       Guajac, Hujacum, Hoaxacan ist der westindische Name\nfür den Baum. Das Wort tritt nach Flückiger in verschiedenen Ortsbeze\n                                                                          ichnungen auf Porto Rico\nauf, so z. B. Guajama, Guanica, Gujaras. Franzosenholz bezieh\n                                                                   t sich auf die Anwendung gegen\nSyphilis, welche Krankheit von den Franzosen nach Deutschland gebr\n                                                                   acht worden sein soll. Pockholz\n(Pockenholz) von Pocken, Blattern, wegen der Färbung.",
+      "normalized_text": null,
+      "zh_tw_rendering": "西印度名Guajac。歷史用於治療梅毒（Syphilis），16世紀歐洲盛行。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 200,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3608,
+        "char_end": 4250,
+        "page_text_sha256": "31da1fbb03b84d1fd2d3fb0806a74be7bf611da7f61d777590d9cd14fd5f97c1",
+        "exact_text_sha256": "1bda0bfdf7799ff1fccb5730ead82ef58128e9ba713bb116856136bc2e961f6b",
+        "source_line_start": 40,
+        "source_line_end": 47,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "1bda0bfdf7799ff1fccb5730ead82ef58128e9ba713bb116856136bc2e961f6b",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0199-p0204:s05:x00",
+      "section_type": "constituents",
+      "original_text": "           Bestandtheile.           Nach Trommsdorf enthält die Rinde 2,3 ‫او‬‎ eigenthümliches, vom Harze des\nHolzes    verschiedenes      Hartharz,       bitter kratzenden         Stoff,    Gummi,          braunen     Farbstoff,    schleimigen     Ex-\ntraktivstoff,   oxalsauren Kalk;          das Holz         1%, des Rindenharzes,           26%,      Guajakharz.        Die Splintasche ist\nnach Flückiger           reich an Phosphorsäure;              letzter Autor erhielt vom Splinte 0,91 ‫اور‬‎ vom Kernholze\n0,60%,,     hingegen      von     der    Rinde      23%,    Aschenbestandtheile.            Nach         Buchner    enthält        das gemeine\nGuajakharz      80°, Harz,        16,5%,         Beimengungen        von   Holzresten,           1.5?|     in Wasser      lösliches     Gummi,\n2,0 ‫و‬۲‎ m Wasser        löslichen       Extraktivstoff        Nach    den neueren         Untersuchungen          von     Hadelich      enthält\ndas Guajakharz 4,0%, Guajaksäure,                        10,5\",      Guajakharzsäure,               70,5%,     Guajakonsáure,             9,8%,\nGuajak-Betaharz,        9,7 ‫الو‬‎ Gummi.          0,8%,   Aschenbestandtheile,        ausserdem           gelben Farbstoff und Unreinlich-",
+      "normalized_text": null,
+      "zh_tw_rendering": "含樹脂、苦味物質、樹膠。樹脂含Guajaksäure、Guajakharzsäure、Guajakonsäure。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 202,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2435,
+        "char_end": 3666,
+        "page_text_sha256": "b52e6e95b8ec9fdcb799e652477bd9bd8915197b65c1312d98b36af1bc9aa2af",
+        "exact_text_sha256": "0e7318d546aad0c39084fe6bd3630895e0f474787151f7665984aa8cd5857cae",
+        "source_line_start": 25,
+        "source_line_end": 33,
+        "section_index": 5,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "0e7318d546aad0c39084fe6bd3630895e0f474787151f7665984aa8cd5857cae",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "6564a170b34b0832895208a5c313a0c0a1dcb1f0b8d12a80646e20fde6ba4648",
+    "maker_receipt_sha256": "66f418999bcb55880304904f1bbbd864d0ee241fef47ee69f5ebf03adc461c47",
+    "validation_check_sha256": "a99e13792c2131d66c451379783e96aa994f2ac9f3d55f32fcf244de460143eb",
+    "source_disposition_sha256": "a8102b9515382f1068a5cf54188a6a869daa5c81b86b801c4292b49b4d11fbec",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "66f418999bcb55880304904f1bbbd864d0ee241fef47ee69f5ebf03adc461c47",
+      "validation_check_sha256": "a99e13792c2131d66c451379783e96aa994f2ac9f3d55f32fcf244de460143eb",
+      "source_disposition_sha256": "a8102b9515382f1068a5cf54188a6a869daa5c81b86b801c4292b49b4d11fbec"
+    },
+    "naming_artifact_sha256": "e7eb773ee6bfea786f8eed4cc8d9135783ac152147999f8bafa0635e38287882"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "47d801ad00d30a042ea83700b4aac0c93e98b51d9b4fdec3cbd5b60bc58d49a6"
+}

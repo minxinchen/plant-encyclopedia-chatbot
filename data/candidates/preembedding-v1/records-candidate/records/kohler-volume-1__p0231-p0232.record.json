@@ -1,0 +1,279 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0231-p0232",
+  "entry_id": "kohler-volume-1:p0231-p0232",
+  "owner_shard": "S02",
+  "book_taxon": {
+    "scientific_name": "Potentilla Tormentilla",
+    "authorship": "Schrnk.",
+    "aliases": [
+      "Potentilla silvestris Neck.",
+      "Tormentilla erecta L."
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Potentilla Tormentilla",
+      "Potentilla tormentilla"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T19:41:45+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Potentilla+Tormentilla",
+        "query_name": "Potentilla Tormentilla",
+        "retrieved_at": "2026-08-13T19:41:42+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0024607",
+        "query_name": "Potentilla Tormentilla",
+        "retrieved_at": "2026-08-13T19:41:42+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0024607",
+        "query_name": "Potentilla Tormentilla",
+        "retrieved_at": "2026-08-13T19:41:42+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Potentilla+tormentilla",
+        "query_name": "Potentilla tormentilla",
+        "retrieved_at": "2026-08-13T19:41:42+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Potentilla+silvestris",
+        "query_name": "Potentilla silvestris",
+        "retrieved_at": "2026-08-13T19:41:43+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Tormentilla+erecta",
+        "query_name": "Tormentilla erecta",
+        "retrieved_at": "2026-08-13T19:41:43+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 231,
+      "evidence_type": "text",
+      "page_text_sha256": "a3e84447336a338f758d4cc06797d4977abeb4516c187626f94dbbab2f22bcd3",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 232,
+      "evidence_type": "text",
+      "page_text_sha256": "1ff5a32942f19ef61093144c0b4f0b4783056c285d0c18ae2729795c453b9d47",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0231-p0232:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                         Potentilla Tormentilla Schrnk.\n\n                                Syn. Potentilla silvestris Neck.                        Tormentilla erecta L.\n\n\n                      Blutwurz, Ruhrwurz, Rothheilwurz                                      Tormentil                 Tormentille\n\n\n              Familie: Bosaceae.                 Gattung: Potentilla L.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Potentilla Tormentilla Schrnk.，同義名 P. silvestris 及 T. erecta。俗名 Blutwurz。隸屬 Rosaceae 科。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 231,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 120,
+        "char_end": 508,
+        "page_text_sha256": "a3e84447336a338f758d4cc06797d4977abeb4516c187626f94dbbab2f22bcd3",
+        "exact_text_sha256": "cbb3eedcfbbb39765e7dac2e9c0b98969e267cd91cb9245a8e50f4f6e7b21167",
+        "source_line_start": 6,
+        "source_line_end": 14,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "cbb3eedcfbbb39765e7dac2e9c0b98969e267cd91cb9245a8e50f4f6e7b21167",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0231-p0232:s01:x00",
+      "section_type": "description",
+      "original_text": "              Beschreibung.                  Wurzelstock etwas schief in der Erde liegend,                            fast   wagerecht, cylindrisch\nbis   knollig        und unformlich, mehrkopfig, gerade oder etwas gekriimmt, hockerig,                                             bis 7       Ctm. lang,\n1   — 2*/ Ctm. dick, mit vielen Wurzelfasern besetzt, aussen dunkelrothbraun, innen gelblichweiss, spater\n         2\n\nroth und weiss gefleckt,                     bei alten Wurzelstocken blutroth mit sternformig geordneten,                                  gelben Holz-\nkorpern.           Stengel 15   — 30 Ctm. hoch,           aufrecht, bogig aufsteigend, bis fast niederliegend, nicht wurzelnd,\nstielrund, kurzhaarig,           nach oben         astig.    Stengelblatter sitzend, 3zahlig, mit lanzettformigen oder keil-\nformig-langlichen,          in      der        oberen    Halfte      eingesehnitten-gesagten,           unterseits            angedriickt       behaarten\nBlattchen.           Die zur Bluthezeit meist nicht mehr vorhandenen wurzelstandigen Blatter langgestielt,\n3- (auch 5-) zahlig, mit rundlichen,                     nach vorn gekerbt - sageartigen, gegen die Basis schmaler werdenden\nBlattchen.           Nebenblatter sitzend,              gross,   3   — 5- und mehrspaltig; Abschnitte* lanzettformig.                             Bluthen\neinzeln, auf langen,            den Blattwinkeln entspringenden, diinnen Stielen, oder gipfelstandig.                                  Der bleibende\nKelch 8spaltig, aus einem Haupt- und Nebenkelche bestehend;                                     ersterer mit eilanzettlichen           ,    zugespitzten\nAbschnitten, letzterer aus lanzettlichen Blattchen bestehend.                                   Blumenkrone 4blatterig; Kronenblatter\numgekehrt-herzformig, gelb,                     am Grrunde mit einem dunklen Flecken.                        Staubgefasse meist 16, kurzer\nals die      Krone, mit pfriemenformigen Filamenten und 2facherigen, rundlichen                                              Staubbeuteln.        Stempel\nzu 5   — 12 und         dariiber,        mit umgekehrt - eiformigem Fruchtknoten, fadenformigem                                 dem Fruchtknoten\n                                                                                                                                ,\n\n\n\nseitlich      entspringendem             Griffel   und      stumpfer Narbe.            Friichtchen      zu        5   —   12 und mehr, auf dem\ntrocknen Fruchtboden              vom bleibenden Kelche umgeben, schief eiformig, kahl, schwach runzelig.",
+      "normalized_text": null,
+      "zh_tw_rendering": "根莖斜臥，圓柱狀至塊狀，外暗紅褐內黃白。莖直立，葉三出複葉。花單生，黃色，具深色斑點。蒴果 5-12 枚。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 231,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 510,
+        "char_end": 3130,
+        "page_text_sha256": "a3e84447336a338f758d4cc06797d4977abeb4516c187626f94dbbab2f22bcd3",
+        "exact_text_sha256": "9ba52c4995a5db121f1643e0eddd6f272b4438ebfb33f849ce58ce9f847865cb",
+        "source_line_start": 16,
+        "source_line_end": 39,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "9ba52c4995a5db121f1643e0eddd6f272b4438ebfb33f849ce58ce9f847865cb",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0231-p0232:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "              Anatomisches   Der Querschnitt des Rhizoms zeigt eine dunne Rinde mit einem darunter\n                                         :\n\n\n\nbefindlichen Kreise hellerer Gefassbiindel und ein weites Mark. Das anfangs in den Zellen auftretende\nStarkemehl soil sich spater in Harz umwandeln.",
+      "normalized_text": null,
+      "zh_tw_rendering": "根莖橫切面示薄皮層，其下有維管束環及寬大髓部。澱粉後期轉化為樹脂。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 231,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 3282,
+        "char_end": 3575,
+        "page_text_sha256": "a3e84447336a338f758d4cc06797d4977abeb4516c187626f94dbbab2f22bcd3",
+        "exact_text_sha256": "c691db944d709bd26c32705f92fc968fe142abf4c340f08a2331965b490cf623",
+        "source_line_start": 43,
+        "source_line_end": 49,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "c691db944d709bd26c32705f92fc968fe142abf4c340f08a2331965b490cf623",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0231-p0232:s03:x00",
+      "section_type": "distribution",
+      "original_text": "              Vorkommen.                     In lichten Waldern, auf Triften, Haiden, trocknen und feuchten Wiesen, vor-\nziiglich aber auf         feuchtem Boden durch ganz Europa mit Ausschluss der sudlichsten Landstriche, auch\nim nordlichen Asien.",
+      "normalized_text": null,
+      "zh_tw_rendering": "產於林緣、草地及濕地。分佈於歐洲（除最南端）及北亞。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 231,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 3577,
+        "char_end": 3826,
+        "page_text_sha256": "a3e84447336a338f758d4cc06797d4977abeb4516c187626f94dbbab2f22bcd3",
+        "exact_text_sha256": "0e850c1e3202a87f12b6ff1a944c122ef264e335149b83eff8d8514180067c3c",
+        "source_line_start": 51,
+        "source_line_end": 53,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "0e850c1e3202a87f12b6ff1a944c122ef264e335149b83eff8d8514180067c3c",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0231-p0232:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "               Name und Geschichtliches.   Der Name Blutwurz (althochdeutsch fie- oder figivarz,\nturnella, mittelhochdeutsch Fri- oder Frigivurz, bei Hildegard Birckivurz und Dornella, bei Brun-\nfels, Bock und Cordus Blutwurz, bei Tabernaemontanus Feigiourz, Herzwurz, bei Fuchs roth\nHeilwurz) bezieht sich auf die rothe Farbe des Wurzelinnern.                                     Die altdeutsche Form gensinc (Gensing,\nGensich, Ganzing) fur Potentilla bezieht sich auf Pot anserina, von der Br unf els sagt: „Disses kraut\nessen        die    ganss gem,       ist       jnen anmutig, und           darumb       wiirt    es   auch von den ganssen genennet.\"\nPotentilla (Ilevx acpvhlov  Quinquefolium, der Alten) ist Diminutiv von potens machtig, potentia Kraft,\n                                    ',\n\n\n\n\nalso kleines, heilkraftiges Kraut, weil mehrere Arten fur sehr heilkraftig gehalten wurden. Tormentilla,\nVerkleinerungswort von                       tormentum Schmerz, weil             es    fruher     gegen Ruhr (Leibschmerz) und nach\nBauhin gegen Zahnschmerz Verwendung fand.          Nach Wittstein ist Lucius Apulejus Barbarus\n(im 4. Jahrh. n. Chr.) wohl der erste, der Tormentilla erwahnt und dessen „meynung\" Brunfels nebst\neiner leidlichen         Abbildung wiedergiebt wie folgt:                    „Es      ist    ein kreitlein Tormentilla genannt, welches",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源自根內紅色。中世紀用於治療痢疾及牙痛。Brunfels 記載其為五葉草，實則七葉。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 231,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 3974,
+        "char_end": 5344,
+        "page_text_sha256": "a3e84447336a338f758d4cc06797d4977abeb4516c187626f94dbbab2f22bcd3",
+        "exact_text_sha256": "86b08ccabfb20534394538ce6f803eedf6fc195d5ac8d90713f9286212c59d95",
+        "source_line_start": 60,
+        "source_line_end": 76,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "86b08ccabfb20534394538ce6f803eedf6fc195d5ac8d90713f9286212c59d95",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0231-p0232:s05:x00",
+      "section_type": "constituents",
+      "original_text": "               Bestandtheile.              Wnrzel enthalt nach Meissner eisengrunenden Gerbstoff (Tormentill-\n              e),   Harz, Wachs.\n        Die Tormentillgerhsaure (C H O ), welche ans der wasserigen Abkockung dnrch Behand-\n                                   26  22  n\n lung mit Bleizucker, Schwefelwasserstoff nnd Bleiessig gewonnen wird, fallt Leimlosnng und farbt\n Eisenchlorid blaugriin.            Beim Kochen mit        verdiinnter Schwefelsaure        verwandelt   sie sich in          ein roth-\n braunes, amorphes, in Wasser unlosliches Pulver, Tormentillroth , mit einer annahernd gleichen Zu-\n sammensetzung. Tormentillroth liefert bei der Behandlung mit Kalihydrat Protocatechusaure und Phloro-\n glucin und wird als identisch mit Ratanhia-                und Kastanienroth betrachtet.         Die bereits unter Cinchona",
+      "normalized_text": null,
+      "zh_tw_rendering": "含鐵質單寧（Tormentille）、樹脂及蠟。Tormentillgerbsäure 遇鐵鹽呈藍綠色，可轉化為 Tormentillroth。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 232,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 1084,
+        "char_end": 1925,
+        "page_text_sha256": "1ff5a32942f19ef61093144c0b4f0b4783056c285d0c18ae2729795c453b9d47",
+        "exact_text_sha256": "f3d8997b013d6f529f29cc17c7688b7c3fe3bd682d45801612020a7cc9c81d2e",
+        "source_line_start": 22,
+        "source_line_end": 30,
+        "section_index": 5,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "f3d8997b013d6f529f29cc17c7688b7c3fe3bd682d45801612020a7cc9c81d2e",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "5cea7bc38eb37104bc5d26369c7e565c13bda46dd9130c0e572cb6ea5dd8650e",
+    "maker_receipt_sha256": "2a43805da00f75bd4854058aefe1dc2e61ff48e012ad06a2a530b884d4f63f93",
+    "validation_check_sha256": "7aad75e66bac91637a0d945345c33acd00a2737463e5df1771154e23662e5e9c",
+    "source_disposition_sha256": "ae0d8594abb066d573b2b3f666968b78e6667152de1695c71060a91231c57a09",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "2a43805da00f75bd4854058aefe1dc2e61ff48e012ad06a2a530b884d4f63f93",
+      "validation_check_sha256": "7aad75e66bac91637a0d945345c33acd00a2737463e5df1771154e23662e5e9c",
+      "source_disposition_sha256": "ae0d8594abb066d573b2b3f666968b78e6667152de1695c71060a91231c57a09"
+    },
+    "naming_artifact_sha256": "10a2d13a53d4c8b0c4d17cb052079150cccfc7ab95ee495368d03ef52a85d62e"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "077c5a50f8ce42a5bfad38f906defb09a193d41eb4fbfb39ff10bb7422f07524"
+}

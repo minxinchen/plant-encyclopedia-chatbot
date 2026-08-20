@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 587,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "0a14676b7334bd3700df17b279b65402648cadfb60c4829b3a550bd78868c0f3",
+  "render_dpi": 144,
+  "render_sha256": "dd0de5ebef437139627b337da0fc6ab2cd38da919c29765d40e9648c44b7a886",
+  "input_sha256": "dd0de5ebef437139627b337da0fc6ab2cd38da919c29765d40e9648c44b7a886",
+  "render_pixel_width": 5654,
+  "render_pixel_height": 7706,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.716,
+  "embedded_character_count": 31,
+  "ocr_character_count": 43,
+  "ocr_alpha_ratio": 0.7907,
+  "candidate_disposition": "candidate_quality_gain",
+  "staging_disposition": "candidate_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.029444185514298615,
+      "text": "Zygophyllaceae.",
+      "width": 0.17675352064317107,
+      "x": 0.7680588823068467,
+      "y": 0.9351325581391738
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "A",
+      "width": 0.011881188011556354,
+      "x": 0.5247524752219446,
+      "y": 0.32122093051032197
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "10",
+      "width": 0.017821782017334475,
+      "x": 0.15247524742697632,
+      "y": 0.14534883709262292
+    },
+    {
+      "confidence": 1,
+      "height": 0.02194402331397649,
+      "text": "Guajacum",
+      "width": 0.10104682721182495,
+      "x": 0.36234787342435865,
+      "y": 0.09876636021787322
+    },
+    {
+      "confidence": 1,
+      "height": 0.02007748399462017,
+      "text": "officinale I.",
+      "width": 0.1527394261853448,
+      "x": 0.4850164267919194,
+      "y": 0.10260660683764733
+    }
+  ],
+  "text": "Zygophyllaceae.\nA\n10\nGuajacum\nofficinale I.",
+  "output_sha256": "c64ec7377e6afbbd5345adb5da430de28ecc47fc895363e71186a0c9a55b31b7",
+  "receipt_sha256": "f65f233e610ef69a14c347417eb134083c26d20660b4fd9626b97842c41f52da"
+}

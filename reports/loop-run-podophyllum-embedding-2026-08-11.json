@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "timestamp": "2026-08-11T10:11:58+08:00",
+  "run_id": "podophyllum-page-embedding-2026-08-11",
+  "batch_id": "volume-1-podophyllum-peltatum-pages-191-192",
+  "hypothesis": "Gemini embedding-2 can retrieve German habitual-constipation evidence from a Traditional Chinese question, while an explicit book-evidence gate prevents an unrelated Libra question from becoming an invented relation.",
+  "maker": {
+    "tools": [
+      "Poppler page extraction",
+      "Gemini API Free Tier gemini-embedding-2"
+    ],
+    "artifacts": [
+      "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/index/plant-embeddings.sqlite",
+      "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/reports/embedding-podophyllum-peltatum-2026-08-11.json"
+    ],
+    "external_model_calls": 4,
+    "incremental_usd": 0,
+    "paid_fallback_used": false
+  },
+  "checker": {
+    "tools": [
+      "Manual review of rendered PDF pages 191-193",
+      "validate-embedding-batch.py source hash, dimensions, norm and answer gates"
+    ],
+    "result": "passed"
+  },
+  "results": {
+    "indexed_pages": [191, 192],
+    "dimensions": 768,
+    "answerable_query": {
+      "question": "哪一種植物的根莖及其樹脂在書中被記載用於習慣性便秘？",
+      "top_pdf_page": 192,
+      "top_cosine_similarity": 0.649134,
+      "supporting_terms": ["Verstopfung", "Obstipation"],
+      "verdict": "passed"
+    },
+    "unanswerable_query": {
+      "question": "天秤座相關的植物是什麼？",
+      "nearest_pdf_page": 192,
+      "top_cosine_similarity": 0.444736,
+      "supporting_relation_terms": [],
+      "verdict": "passed_refusal_gate"
+    }
+  },
+  "verdict": "promote",
+  "promotion_scope": "Only the two page-level Podophyllum peltatum vectors are approved. This does not approve full-volume embedding or convert historical medicinal text into modern advice.",
+  "n8n": {
+    "workflow_id": "PEHybridIdx001",
+    "workflow_name": "Plant Encyclopedia - Hybrid Index Batch",
+    "active": false
+  }
+}

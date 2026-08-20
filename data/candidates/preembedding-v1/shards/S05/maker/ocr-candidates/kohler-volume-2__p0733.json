@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 733,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "67a1a8aa11040808a9395061373a01255297e67ab7e46b4f73d6028295979ebd",
+  "render_dpi": 144,
+  "render_sha256": "ed78619cc5ec0de5376a6f525786a82ec72624f9bcf3ffa70eb658858c7503af",
+  "input_sha256": "ed78619cc5ec0de5376a6f525786a82ec72624f9bcf3ffa70eb658858c7503af",
+  "render_pixel_width": 5294,
+  "render_pixel_height": 7658,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.372,
+  "embedded_character_count": 69,
+  "ocr_character_count": 40,
+  "ocr_alpha_ratio": 0.5,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.017317226954868925,
+      "text": "Palmae.",
+      "width": 0.08124902361263675,
+      "x": 0.8796539126822676,
+      "y": 0.9387839233858565
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436846943,
+      "text": "13",
+      "width": 0.018907562047884463,
+      "x": 0.26260504242668803,
+      "y": 0.4593023257009079
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883082859107,
+      "text": "12",
+      "width": 0.021008402579483998,
+      "x": 0.6554621853699218,
+      "y": 0.11337209316060526
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "10",
+      "width": 0.01470588235294118,
+      "x": 0.34873949588585434,
+      "y": 0.09156976754081625
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "A",
+      "width": 0.01470588235294118,
+      "x": 0.4999999999212185,
+      "y": 0.09447674430555908
+    },
+    {
+      "confidence": 1,
+      "height": 0.017921916076115152,
+      "text": "Are ca",
+      "width": 0.07376494879702072,
+      "x": 0.35702508793107063,
+      "y": 0.05499253097696544
+    },
+    {
+      "confidence": 1,
+      "height": 0.018008744905865348,
+      "text": "Catechu l.",
+      "width": 0.1471973785882017,
+      "x": 0.45791391391000213,
+      "y": 0.05349562750364134
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883082859107,
+      "text": "192",
+      "width": 0.03361344576908154,
+      "x": 0.903361344499913,
+      "y": 0.014534884221651834
+    }
+  ],
+  "text": "Palmae.\n13\n12\n10\nA\nAre ca\nCatechu l.\n192",
+  "output_sha256": "7abf0fcd00df8225f3fbc7b6a14b087f620040f45e128e420ec0d3e46f7ed17c",
+  "receipt_sha256": "1065f955048cd8c440f93eef0f7643536fe71e188312aa5411b0fa793f5989aa"
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 469,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "e22a0fe4b18c628a73419529f7a0e76ce17163d9c206370629b1f402bcedd6d1",
+  "render_dpi": 144,
+  "render_sha256": "c4aba3212e74408208aeab77c25449604cc3817aced5a53f8095a24e03a1a887",
+  "input_sha256": "c4aba3212e74408208aeab77c25449604cc3817aced5a53f8095a24e03a1a887",
+  "render_pixel_width": 5726,
+  "render_pixel_height": 8186,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.862,
+  "embedded_character_count": 98,
+  "ocr_character_count": 54,
+  "ocr_alpha_ratio": 0.8704,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.021057796856713717,
+      "text": "Loganiaceae",
+      "width": 0.10630297288827018,
+      "x": 0.8460169123264845,
+      "y": 0.9633083106731344
+    },
+    {
+      "confidence": 1,
+      "height": 0.01834008239564444,
+      "text": "(Gelsemieae)",
+      "width": 0.1125446076088763,
+      "x": 0.8418565950269704,
+      "y": 0.9443183309440822
+    },
+    {
+      "confidence": 1,
+      "height": 0.021848467607346822,
+      "text": "Gelsenium sempervirens Aiton.",
+      "width": 0.2661122639973958,
+      "x": 0.3721413751738592,
+      "y": 0.021802326095951452
+    }
+  ],
+  "text": "Loganiaceae\n(Gelsemieae)\nGelsenium sempervirens Aiton.",
+  "output_sha256": "42a96537248c54855af4754b2c1724d9ef03781171d99308c2977a08e1e3a18c",
+  "receipt_sha256": "a195226f87e21350923255b61869e7805d55de17c6bfb72f16b866a66d866a52"
+}

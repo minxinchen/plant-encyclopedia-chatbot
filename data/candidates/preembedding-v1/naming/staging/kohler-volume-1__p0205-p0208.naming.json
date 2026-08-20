@@ -1,0 +1,137 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-1:p0205-p0208",
+  "owner_shard": "S02",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S02/maker/structure-drafts/kohler-volume-1__p0205-p0208.json",
+  "source_draft_sha256": "dac051a54c53393cbdb523e78d3a9a3b52a43839332fc45236bccd4bbab13ffb",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "403d4060fcff970ae509dab8fb2c64edad395db592da16c63e3d6fba60fd2735",
+    "validation_check_sha256": "ee8839d58015471d719280aa504211c404512f7e05bf90332e60d31a03f8bb2f",
+    "source_disposition_sha256": "f9bd88e06ca6b983f5fef7aad6ca2b307e1521db32ce489e6c373e0203206497",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Cinnamomum zeylanicum",
+    "authorship_candidate": "Breyn.",
+    "aliases_candidates": [
+      "Laurus Cinnamomum L.",
+      "Cinnamomum Cinnamomum Krst.",
+      "Cinnamomum Burm.",
+      "Cinnamomum zeylanicum vulgare Hayne",
+      "Cinnamomum zeylanicum cordifolium Hayne",
+      "Laurus Cassia Burm."
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Cinnamomum zeylanicum"
+    ],
+    "accepted_scientific_name": "Cinnamomum verum",
+    "display_name_zh_tw": "錫蘭肉桂",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0053011",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary",
+    "rationale": "TaiCOL explicitly links the book binomial as a species-level synonym to the accepted taxon.",
+    "checked_at": "2026-08-13T18:51:19+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Cinnamomum zeylanicum",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Cinnamomum+zeylanicum",
+      "retrieved_at": "2026-08-13T18:51:19+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Cinnamomum zeylanicum",
+          "matched_name_id": 113898,
+          "taxon_id": "t0053011",
+          "taicol_name_status": "not-accepted",
+          "accepted_name": "Cinnamomum verum",
+          "accepted_name_id": 21418,
+          "accepted_usage": [
+            {
+              "usage_id": 272107,
+              "reference_id": 926,
+              "reference_type": "Book Chapter",
+              "publish_year": 1996,
+              "citation": "Liao, J.-C. (1996) 27. Lauraceae. In: Flora of Taiwan, 2 ed., vol. 2. 433–499.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 321369,
+              "reference_id": 2494,
+              "reference_type": "Book",
+              "publish_year": 1825,
+              "citation": "Berchtold, F.W.v. & Presl, J.S.(. (1825) O Prirozenosti Rostlin aneb rostlinar, vol. 2.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 318126,
+              "reference_id": 8031,
+              "reference_type": "Checklist",
+              "publish_year": 2017,
+              "citation": "GISD, - (2017) Global Invasive Species Database",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 104558,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 1227,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0053011",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0053011",
+          "taxon": {
+            "taxon_id": "t0053011",
+            "taxon_status": "accepted",
+            "name_id": 21418,
+            "simple_name": "Cinnamomum verum",
+            "name_author": "J.Presl",
+            "rank": "Species",
+            "common_name_c": "錫蘭肉桂",
+            "alternative_name_c": null,
+            "synonyms": "Laurus cinnamomum, Cinnamomum zeylanicum",
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": "cultured: Liao, 1996",
+            "not_official": false,
+            "updated_at": "2026-08-05"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

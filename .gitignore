@@ -1,0 +1,50 @@
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+
+# Python and editor runtime
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+.idea/
+.vscode/
+
+# Locally installed helper binaries and model runtimes
+.tools/
+.models/
+
+# Source books remain on the external disk and are never committed
+*.pdf
+*.jp2
+*.tif
+*.tiff
+
+# Rebuildable databases and vectors
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.db
+*.npy
+*.npz
+
+# Full-book runtime staging. Compact fixtures/reports are added explicitly.
+data/candidates/preembedding-v1/boundary-evidence-v1/cache/
+data/candidates/preembedding-v1/embedding-results/
+data/candidates/preembedding-v1/fullbook-beta/
+data/candidates/preembedding-v1/structure/continuation-v2-attempts/
+
+# Local service state and logs
+*.pid
+*.lock
+*.log
+
+# The already-published demo remains an independent repository.  Link to it
+# from README instead of vendoring a second repository and deployment history.
+demo-site/

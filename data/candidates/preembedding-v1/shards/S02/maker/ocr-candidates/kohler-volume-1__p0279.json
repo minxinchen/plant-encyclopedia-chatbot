@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 279,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "0d55d1a28efaae3bdacec58b4fe0613f3b6eac4cd84927f4543d8e7f3a517077",
+  "render_dpi": 144,
+  "render_sha256": "ee418ff65a7883fc69ecdd6e732842fa136ad3f89ec2b2df1c2cb7f810ce2be4",
+  "input_sha256": "ee418ff65a7883fc69ecdd6e732842fa136ad3f89ec2b2df1c2cb7f810ce2be4",
+  "render_pixel_width": 5570,
+  "render_pixel_height": 7778,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.098,
+  "embedded_character_count": 365,
+  "ocr_character_count": 59,
+  "ocr_alpha_ratio": 0.7119,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.019255570002964517,
+      "text": "Gentianaceae.",
+      "width": 0.10965359970473187,
+      "x": 0.8275261426938407,
+      "y": 0.9489477963075298
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "13",
+      "width": 0.01622718060776135,
+      "x": 0.3833671396487901,
+      "y": 0.20494186055195973
+    },
+    {
+      "confidence": 1,
+      "height": 0.014744790300490362,
+      "text": "WM. n.d. Nat",
+      "width": 0.07310327862768617,
+      "x": 0.8356593135453873,
+      "y": 0.14960434941627532
+    },
+    {
+      "confidence": 1,
+      "height": 0.02367849766261998,
+      "text": "Erythraea Centaurium",
+      "width": 0.19279638485895295,
+      "x": 0.37114744844235276,
+      "y": 0.11606772800431286
+    },
+    {
+      "confidence": 1,
+      "height": 0.02034883650522379,
+      "text": "Pers.",
+      "width": 0.046653145237972926,
+      "x": 0.5740365100635694,
+      "y": 0.1191860471180276
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "22",
+      "width": 0.016227180607761293,
+      "x": 0.9006085191426565,
+      "y": 0.04651162815567078
+    }
+  ],
+  "text": "Gentianaceae.\n13\nWM. n.d. Nat\nErythraea Centaurium\nPers.\n22",
+  "output_sha256": "8c25ff3acaa28face63023b3b4b87a166ae2d8d60b6caa40d42e7fa726887a2b",
+  "receipt_sha256": "492e731ba5990e4ad699905cd4b72ad486fbafd0102879667b6875d30745a9e8"
+}

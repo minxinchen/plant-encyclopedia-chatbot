@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-3:p0337-p0338",
+  "owner_shard": "S07",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 106.807,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-3:p0337-p0338",
+    "book_taxon": {
+      "scientific_name_candidate": "Castilloa elastica",
+      "authorship_candidate": "Cervantes",
+      "aliases_candidates": [
+        "Arbor de Ule"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 337,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "科：桑科；亞科：無花果亞科；族：油桑族；屬：Castilloa。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          4
+        ],
+        "exact_source_quote": "                                    Castilloa                 elastica Cervantes.\n                                            Ule-Baum.           Span.: Arbor de Ule.\n            Familie:       Moraceae.        Unterfamilie:             Artocarpoideae.          Tribus:       Ölmedieaee      Gattung:\nCastilloa     Cerv."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 337,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "高大樹木，富含乳汁。莖直徑1米，皮光滑。葉橢圓形，長25厘米，基部心形，表面粗糙，背面被毛。",
+        "warnings": [],
+        "source_line_range": [
+          6,
+          15
+        ],
+        "exact_source_quote": "       Beschreibung. Ein hoher, ansehnlicher, reichlichen Milchsaft enthaltender Baum. Der\ngerade Stamm erreicht einen Durchmesser von I m und ist mit glatter, etwa 1 cm dicker\nRinde bekleidet. Die jungen Zweige sind markreich und mit gelblichen Haaren dicht be-\nkleidet.      Die Blätter        sind    lebhaft     grün,     in der Jugend          mit goldglänzenden             Haaren      bedeckt,\nsehr kurz (etwa 5 bis 10 mm) gestielt, elliptisch, 25 cm lang, 8 bis 12 cm breit, im Mittel\ndreimal so lang als breit, am Grunde deutlich herzförmig, entweder ganzrandig, oder ganz\nfein gezähnelt,         kurz     zugespitzt,      dünn     lederartig von Konsistenz,             auf der Oberseite von kurzen\nHaaren rauh und nur längs der Adern länger behaart, auf der Unterseite von längeren\nselblichen Haaren weichbehaart oder fast zottig, der Mittelnerv und die auf jeder Seite davon\nabgehenden fünfzehn bis zwanzig Hauptadern auf der Unterseite deutlich hervortretend. Die"
+      },
+      {
+        "section_type": "flowering",
+        "pdf_page": 337,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "花期在雨季末（9月至6月），3月結果。",
+        "warnings": [],
+        "source_line_range": [
+          42,
+          43
+        ],
+        "exact_source_quote": "          Blüte- und Fruchtzeit. Der Baum                           blüht gegen Ende             der Regenzeit (September bis\nJuni ) un d  tr äg t im Mä rz Fr üc ht e."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 337,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產墨西哥，分佈於西印度及南美洲，生長於潮濕密林，海拔500米。",
+        "warnings": [],
+        "source_line_range": [
+          45,
+          54
+        ],
+        "exact_source_quote": "                                         Verbreitung.         Der    Baum      ist in Mexikoj\n                                                                               is                            schh und\n                                                                                                    einheimisc               wird     auch\n                 *k        en   und\nin W een                               Er wächst also zw            is ch en      de  m    25 .    Gr ad .   nö  rd li ch er    un d   d  e m\n    S r    S i c h e r     Br ei te un d  st ei gt  bi s  50 0   m.     Er    li eb t   fe uc ht e    di ch te    Wä ld er    un  d   ei ne n\n>\n:              ;           :     n  S a     u nd   in fo  g\n                                                         lg ed es se n  fi nd et    er   si ch   in   kl ei ne n   Be st än  de5n   an   de n\nsumpfigen,   wa  ss er re ic he"
+      },
+      {
+        "section_type": "harvest",
+        "pdf_page": 338,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "割取乳汁製橡膠。用Calonyction speciosum汁液凝固，過濾壓製成塊，乾燥後可運輸。",
+        "warnings": [],
+        "source_line_range": [
+          10,
+          20
+        ],
+        "exact_source_quote": "          Produkte.        Aus   dem         Milchsaft     wird   Kautschuk        gewonnen.         Die Bäume           werden     mit\nEinschnitten versehen, aus welchen der Milchsaft in reichlicher Menge austritt.                       Zum\nKoagul ier en benu tzt man Sten gelt eile von Cal ony eti on spe cio sum Choi s. (Ip omo ea bon a nox  L.),\nder Coasso- oder Achete-Pflanze.                 Dies ist eine windende Convolvulacee, welche im tropischen\nAmerika überall verbreitet ist.                 Der im Laufe eines Tages gesammelte Milchsaft bleibt über\nNacht   steh en;  dara uf wird   eine  Abk och  ung  der   Sten gelt eile   der  gen  ann ten   Win de   hinz u  ge-\ngossen, bis der gesamte Milchsaft der Castillea koaguliert ist. Die an der Oberfläche\nschwimmenden Kautschukmassen werden dann von der Flüssigkeit abfiltriert, in kuchenförmige\nStüc ke  gekn  etet  und  durc h  Aus pre sse n  von  alle n  wäs ser ige n   Teil en  befr eit;  dara uf  wer  den\nsie   noch   einige Zeit      getrocknet         und     sind dann      versandfähig.           Die Art der Einschnitte             und\ndie Behandlung des Saftes weicht in den einzelnen Gegenden übrigens vielfach voneinander"
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 338,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "圖示：開花枝、雌雄花序、雄蕊、雌花、果實及種子切面。",
+        "warnings": [],
+        "source_line_range": [
+          49,
+          53
+        ],
+        "exact_source_quote": "         A blühender Zweig. B weiblicher Blütenstand; 1 männlicher Blütenstand; 2 Staubblatt von der\nRückenseite; 3 dasselbe von der Bauchseite; 4 weibliche Blüte; 5 dieselbe im Längsschnitt; 6 nn Frucht                                     -\nmit Perigon im Längsschnitt; 7, 8, 9 Samen, sowie dessen Längsschnitt und Querschnitt. Aus      008,\nanlehs Grösse, 1 bis 6 vergrössert. — Nach einem von Toun Doniall Smith (Pl. Guatemal. un in\nlseuintha gesammelten Eremplar; ılbis 6 nach Tre6ceul."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "7acd4248fbec7bba66f99b7b567117e9fc22e74b2d6fa1edc91772b43f630178"
+}

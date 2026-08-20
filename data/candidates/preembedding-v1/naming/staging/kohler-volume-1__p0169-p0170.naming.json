@@ -1,0 +1,183 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-1:p0169-p0170",
+  "owner_shard": "S02",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S02/maker/structure-drafts/kohler-volume-1__p0169-p0170.json",
+  "source_draft_sha256": "7743937946180f0d8f3b421f20b35d57740099aa68f6ea82e3f3dc19fbd4a5ea",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "9af56bf4a3642ea96e12775e04480b1cc27c52b1fbcd3e2b6c09f73cf004572d",
+    "validation_check_sha256": "d69c089a8681ce21a8041cb635106a409492497206a4a753e024be2764104496",
+    "source_disposition_sha256": "98218b3a807548dbaa7dcad4d8d8444539847b565d87f7fa67ae29d7c183c4ad",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Matricaria Chamomilla",
+    "authorship_candidate": "L.",
+    "aliases_candidates": [
+      "Chrysanthemum Chamomilla Bernh.",
+      "Chamomilla officinalis",
+      "Echte Kamille",
+      "Chamomile",
+      "Camomille commune ou d'Allmagne"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Matricaria Chamomilla",
+      "Matricaria chamomilla"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_zh_tw": null,
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_checked",
+    "taxon_id": null,
+    "display_name_source_scope": "unresolved",
+    "display_name_source_evidence_ids": [],
+    "display_name_is_taiwan_public": false,
+    "display_name_answer_policy": "scientific_name_only",
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping.",
+    "checked_at": "2026-08-13T15:51:23+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Matricaria Chamomilla",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Matricaria+Chamomilla",
+      "retrieved_at": "2026-08-13T15:51:20+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Matricaria",
+          "matched_name_id": 1880,
+          "taxon_id": "t0024246",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Matricaria",
+          "accepted_name_id": 1880,
+          "accepted_usage": [
+            {
+              "usage_id": 178337,
+              "reference_id": 2454,
+              "reference_type": "Book",
+              "publish_year": 2017,
+              "citation": "Ed. Comm. Red List TW Plants,  (2017) The Red List of Vascular Plants of Taiwan, 2017 = 2017 臺灣維管束植物紅皮書名錄.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 7716,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": null
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0024246",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0024246",
+          "taxon": {
+            "taxon_id": "t0024246",
+            "taxon_status": "accepted",
+            "name_id": 1880,
+            "simple_name": "Matricaria",
+            "name_author": "L.",
+            "rank": "Genus",
+            "common_name_c": "野菊屬",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": null,
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Matricaria chamomilla",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Matricaria+chamomilla",
+      "retrieved_at": "2026-08-13T15:51:20+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Chrysanthemum chamomilla",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Chrysanthemum+chamomilla",
+      "retrieved_at": "2026-08-13T15:51:20+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Chamomilla officinalis",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Chamomilla+officinalis",
+      "retrieved_at": "2026-08-13T15:51:20+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Echte kamille",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Echte+kamille",
+      "retrieved_at": "2026-08-13T15:51:20+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Camomille commune",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Camomille+commune",
+      "retrieved_at": "2026-08-13T15:51:20+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Matricaria chamomilla",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Matricaria%20chamomilla",
+      "retrieved_at": "2026-08-13T15:51:23+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears."
+  ]
+}

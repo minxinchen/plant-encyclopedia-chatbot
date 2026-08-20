@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 533,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "ce91f5dd87d2a66b4579c2a3a8d4affbabd4cd05c011c271be179c62f1283387",
+  "render_dpi": 144,
+  "render_sha256": "961a2c872e001dce11192e33c6897bf2fd2bf1c257ebea21999f5238574e1699",
+  "input_sha256": "961a2c872e001dce11192e33c6897bf2fd2bf1c257ebea21999f5238574e1699",
+  "render_pixel_width": 5630,
+  "render_pixel_height": 8342,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.041,
+  "embedded_character_count": 33,
+  "ocr_character_count": 56,
+  "ocr_alpha_ratio": 0.8214,
+  "candidate_disposition": "candidate_quality_gain",
+  "staging_disposition": "candidate_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.019498249841114812,
+      "text": "Umbelliferae.",
+      "width": 0.13996143887622847,
+      "x": 0.7934601421751722,
+      "y": 0.9284776192279182
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "8",
+      "width": 0.015053763799506181,
+      "x": 0.6580645158601035,
+      "y": 0.19186046518128574
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "9",
+      "width": 0.010752687727502819,
+      "x": 0.8795698925609797,
+      "y": 0.19622093053575806
+    },
+    {
+      "confidence": 1,
+      "height": 0.023704892113095233,
+      "text": "Archandelica",
+      "width": 0.14424396769953163,
+      "x": 0.3633618873881135,
+      "y": 0.14657778630863383
+    },
+    {
+      "confidence": 1,
+      "height": 0.020585317460317443,
+      "text": "officinalis Hoffm.",
+      "width": 0.21290322667443518,
+      "x": 0.5849462375050763,
+      "y": 0.15104166701225996
+    },
+    {
+      "confidence": 1,
+      "height": 0.034883722426399366,
+      "text": "Gueran",
+      "width": 0.11612902661617142,
+      "x": 0.7376344120037424,
+      "y": 0.010174417929242119
+    }
+  ],
+  "text": "Umbelliferae.\n8\n9\nArchandelica\nofficinalis Hoffm.\nGueran",
+  "output_sha256": "8057610e7a2acc0c73ffd3ea78842ecf1bb67a1289b168de196a7262da493f58",
+  "receipt_sha256": "501fb79621305adbaaa0ba5f6eb1a87163fcb2c73500b1cf50ab5a93988143c2"
+}

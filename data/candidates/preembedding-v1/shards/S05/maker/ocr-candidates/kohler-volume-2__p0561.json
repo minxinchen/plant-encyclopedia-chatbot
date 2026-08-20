@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 561,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "511a044d1827ee4f9ce46a4e4ceb60a752258f62eb94104b56f7e7f9e4835318",
+  "render_dpi": 144,
+  "render_sha256": "f02593ad6846a90353fc7927b926c31952c51ce35257e4a1df269e440479a496",
+  "input_sha256": "f02593ad6846a90353fc7927b926c31952c51ce35257e4a1df269e440479a496",
+  "render_pixel_width": 5702,
+  "render_pixel_height": 7922,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.007,
+  "embedded_character_count": 52,
+  "ocr_character_count": 44,
+  "ocr_alpha_ratio": 0.4773,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.019146824639940996,
+      "text": "Oleaceae.",
+      "width": 0.09908204765503847,
+      "x": 0.8201559471063705,
+      "y": 0.9257463550279026
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "A",
+      "width": 0.018181817273613787,
+      "x": 0.5191919199490518,
+      "y": 0.26744186071381026
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441861213199683,
+      "text": "88",
+      "width": 0.03636363717624025,
+      "x": 0.09494949474521322,
+      "y": 0.1889534880626509
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "12",
+      "width": 0.014141414019258003,
+      "x": 0.2868686867883508,
+      "y": 0.16715116289404297
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "13",
+      "width": 0.016161615646435923,
+      "x": 0.39797979810270795,
+      "y": 0.16860465115612366
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "14",
+      "width": 0.016161615646435923,
+      "x": 0.48282828324748905,
+      "y": 0.17151162815567078
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "10",
+      "width": 0.016161615646435923,
+      "x": 0.8282828286414285,
+      "y": 0.18023255810864303
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372621082103,
+      "text": "Olea",
+      "width": 0.04646464268311723,
+      "x": 0.3979797996432899,
+      "y": 0.11918604644745323
+    },
+    {
+      "confidence": 1,
+      "height": 0.019373375271993898,
+      "text": "europaea",
+      "width": 0.09714752554811334,
+      "x": 0.46657775253726974,
+      "y": 0.11313307961611707
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "109",
+      "width": 0.0222222231569823,
+      "x": 0.9050505047683103,
+      "y": 0.03924418618519343
+    }
+  ],
+  "text": "Oleaceae.\nA\n88\n12\n13\n14\n10\nOlea\neuropaea\n109",
+  "output_sha256": "60fea1d541e358cdf5d9f29f68e1658798f5c04a1c5be8f0a5e44a7b8ea40768",
+  "receipt_sha256": "c41195e43d43dcd60f2a356bc4e318d3a2cdf01a1c3cdf0ba57b9140b94efd4c"
+}

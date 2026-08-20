@@ -1,0 +1,59 @@
+name: deterministic-validation
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate-staging-contracts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Compile public helpers
+        run: |
+          python3 -m py_compile \
+            scripts/validate-public-repo.py \
+            scripts/build-boundary-evidence.py \
+            scripts/validate-boundary-evidence.py \
+            scripts/build-boundary-overlay-plan.py \
+            scripts/validate-boundary-overlay-plan.py \
+            scripts/build-continuation-packages-v2.py \
+            scripts/validate-continuation-packages-v2.py \
+            scripts/validate-preembedding-continuation-receipts.py \
+            scripts/validate-continuation-v2-integration.py \
+            scripts/validate-recovery-v2-integration.py \
+            scripts/validate-consolidated-v2-staging-manifest.py \
+            scripts/validate-preembedding-records.py \
+            scripts/validate-preembedding-chunks.py \
+            scripts/validate-preembedding-embedding-jobs.py \
+            scripts/test-preembedding-chunks-adversarial.py
+      - name: Validate public repository boundary
+        run: python3 scripts/validate-public-repo.py
+      - name: Validate compact boundary evidence
+        run: |
+          python3 scripts/validate-boundary-evidence.py
+          python3 scripts/test-boundary-evidence-adversarial.py
+          python3 scripts/build-boundary-overlay-plan.py --check
+          python3 scripts/validate-boundary-overlay-plan.py
+      - name: Validate taxon-safe continuation staging
+        run: |
+          python3 scripts/build-continuation-packages-v2.py --check
+          python3 scripts/validate-continuation-packages-v2.py
+          python3 scripts/validate-preembedding-continuation-receipts.py --lane continuation-v2
+          python3 scripts/validate-continuation-v2-integration.py --require-complete
+          python3 scripts/validate-recovery-v2-integration.py --require-complete
+          python3 scripts/validate-consolidated-v2-staging-manifest.py --require-complete
+      - name: Validate naming, records, chunks, and embedding plans
+        run: |
+          python3 data/candidates/preembedding-v1/tools/validate-naming-staging.py
+          python3 scripts/validate-preembedding-records.py --require-caught-up
+          python3 scripts/validate-preembedding-chunks.py --require-caught-up
+          python3 scripts/test-preembedding-chunks-adversarial.py
+          python3 scripts/validate-preembedding-embedding-jobs.py

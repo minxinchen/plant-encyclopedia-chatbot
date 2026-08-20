@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 523,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "07b28b1a9c933948517e06589f1797e09398f2c23cdc491b626c44fb86b0747b",
+  "render_dpi": 144,
+  "render_sha256": "18a05ee8d76f17e7955cac5ac4d9edf2f7aaaf7a24ecc604f56d802506bcba56",
+  "input_sha256": "18a05ee8d76f17e7955cac5ac4d9edf2f7aaaf7a24ecc604f56d802506bcba56",
+  "render_pixel_width": 5750,
+  "render_pixel_height": 8462,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.654,
+  "embedded_character_count": 326,
+  "ocr_character_count": 37,
+  "ocr_alpha_ratio": 0.8108,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.023771728788103408,
+      "text": "Gramineae",
+      "width": 0.08921527166436194,
+      "x": 0.7589278509026985,
+      "y": 0.9582655363705906
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.020449488882034572,
+      "text": "(Olyrideae)",
+      "width": 0.09494263586336682,
+      "x": 0.7580682498227074,
+      "y": 0.9420276190479334
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.024718591145106772,
+      "text": "Oryza saliva I.",
+      "width": 0.13301940695212705,
+      "x": 0.4270800400055174,
+      "y": 0.026884890494866087
+    }
+  ],
+  "text": "Gramineae\n(Olyrideae)\nOryza saliva I.",
+  "output_sha256": "d9776be330fee9ad4a2e681a7c5fbe6a8860b482fd58c133cad4772baf66d3e8",
+  "receipt_sha256": "f3bcc531bb9aa4aa51293a5fcdfe78012abfbd8a20929aba5bce9675a8f71e66"
+}

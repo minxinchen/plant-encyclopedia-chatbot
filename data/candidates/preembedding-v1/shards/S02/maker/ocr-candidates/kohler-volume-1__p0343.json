@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 343,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "1b879fae01831286baa802da72b62a85e8689bc461fcecdd509538c929b1fc15",
+  "render_dpi": 144,
+  "render_sha256": "65ee80419c9e1a748c2e71bf64e049704ab0eab25354d5a18480b8f0a4ba4c16",
+  "input_sha256": "65ee80419c9e1a748c2e71bf64e049704ab0eab25354d5a18480b8f0a4ba4c16",
+  "render_pixel_width": 5930,
+  "render_pixel_height": 8078,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.747,
+  "embedded_character_count": 24,
+  "ocr_character_count": 65,
+  "ocr_alpha_ratio": 0.5692,
+  "candidate_disposition": "candidate_quality_gain",
+  "staging_disposition": "candidate_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.018075986514015763,
+      "text": "bonlierae.",
+      "width": 0.10012298790184226,
+      "x": 0.8371711489423894,
+      "y": 0.9342719453478022
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494425,
+      "text": "15",
+      "width": 0.011881187799814619,
+      "x": 0.7980198022882115,
+      "y": 0.24418604687033418
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "B",
+      "width": 0.015841583303503104,
+      "x": 0.3445544559720108,
+      "y": 0.1497093022462399
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "13",
+      "width": 0.01584158330350305,
+      "x": 0.6019801985462683,
+      "y": 0.14534883725814174
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "14",
+      "width": 0.013861385551658834,
+      "x": 0.7227722774221904,
+      "y": 0.1424418606765443
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "16",
+      "width": 0.01584158330350305,
+      "x": 0.8653465352393375,
+      "y": 0.14098837234171724
+    },
+    {
+      "confidence": 1,
+      "height": 0.01892418710012278,
+      "text": "Abies alba Miller.",
+      "width": 0.18217820863466,
+      "x": 0.423762382652967,
+      "y": 0.11334325425468605
+    },
+    {
+      "confidence": 1,
+      "height": 0.0206696438410926,
+      "text": "WMüller n. d.Nat.",
+      "width": 0.09130761430070211,
+      "x": 0.8386821445654031,
+      "y": 0.10670607602311721
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "54.",
+      "width": 0.019801980095940697,
+      "x": 0.9049504949421288,
+      "y": 0.042151162972984046
+    }
+  ],
+  "text": "bonlierae.\n15\nB\n13\n14\n16\nAbies alba Miller.\nWMüller n. d.Nat.\n54.",
+  "output_sha256": "7c6b00dd630675abe171bd1829617f30678d109aba7356fe352d56aa09a9a2f8",
+  "receipt_sha256": "7a0bd991b1a83ba706474313be6910958fc9d1bb4fb402d5e7c821924cabadff"
+}

@@ -1,0 +1,114 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-4:p0018-p0020",
+  "owner_shard": "S08",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 146.066,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-4:p0018-p0020",
+    "book_taxon": {
+      "scientific_name_candidate": "Amanita bulbosa",
+      "authorship_candidate": "Bull.",
+      "aliases_candidates": [
+        "Agaricus bulbosus Bull.",
+        "Ag. vemalis Bolton",
+        "Ag. phalloides Fr.",
+        "Ag. virosus Secretan",
+        "Ag. Mappa Batsch",
+        "Amanita viridis Pers.",
+        "Am. citrina Pers."
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 18,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "同義名包括Agaricus bulbosus、Ag. phalloides等；隸屬於Agaricaceae科，Amanita屬。",
+        "warnings": [],
+        "source_line_range": [
+          5,
+          9
+        ],
+        "exact_source_quote": "         Syn. Agaricus bulbosus Bull. Ag. vemalis                                   Bolton.        Ag. phalloides Fr.           Ag. virosus\nSecretan.  Ag. Mappa Batsch. Amanita viridis Pers.                                     Am. citrina Pers.\n\n       Familie:                   Agaricaceae.     .     (Reihe: Autobasidiomycetes)               Tribus: Agariceae.              Gattung\nAmanita Pers."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 18,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "菌體由菌絲體發育，幼時有外膜，成熟後基部呈球狀並有菌托。菌柄中空，菌蓋色變，菌褶白色，孢子球形。",
+        "warnings": [],
+        "source_line_range": [
+          15,
+          35
+        ],
+        "exact_source_quote": "              Beschreibung: Die Entwicklung der Fruchtkorper dieses Pilzes geht ganz ebenso vor sich,\nwie bei Amanita muscaria (Tafel 7). Auch hier entstehen an einem unterirdischen fadlichen Gewebe,\ndem Mycel, kleine Anschwellungen, die sich allmahlich zu den Fruchtkorpern, zu dem was man ge-\nmeinliin als Pilz bezeichnet, entwickeln.                       Der Fruchtkorper des Knollenblatterschwammes ist ebenfalls\nin derJugend von einer gemeinsamen Haut umgeben, die mit der Streckung des Stieles unterhalb\ndes Hutes abreifit, und die am erwachsenen Pilze dessen knollig verdickten FuB\n                                                                                 als Scheide\numgibt.            Auf der Oberseite des Hutes bleibt die auBere Haut in Gestalt                              einiger weiBlicher               Haut-\nfetzen       zuruck,        die   aber spater meist ganz abgeworfen werden und verschwinden.                                 Unterhalb des\n                                                       Hiille                                                                      Diese reiBt\nbeim Reifen des Fruchtkorpers                     am Rande des Hutes             ein    und     bleibt   am   Stiele   als   weiBliche oder\n                                  Manschette (annulus) stehen.              Der Stiel        des ausgereiften Fruchtkorpers              ist   8 bis\n10        cm Jang,     er ist anfanglich          voll,    spater wird      er   an der Spitze hohl.           Nach oben zu ist er ein\nwenig verjiingt, er ist gebrechlich, weiB.                        Der Hut                                          spater wird er              mehr\nkegelformig oder aber er breitet sich flachgewolbt aus.                             Er ist schwach seidenglanzend, in feuchtem\nZustande etwas klebrig,                  oft   mit einigen Fetzen der auBeren Hiille bedeckt, der Rand ist glatt.                                   Die\nFiirbung des Hutes                ist   eine sehr veranderliche, es         werden auf Grund seiner Farbung eine Reihe von\nVanetaten unterschieden,                   die    von einzelnen Forschern              als    besondere Arten angesprochen werden\n(s. u.).      Die Farbe schwankt zwischen weiB, gelblich und grunlich, die Mitte des Hutes ist oft dunkler\ngefarbt als der Rand.                   Die Lamellen sind einfach, ungeteilt und frei, d. h. nicht am Stiel angewachsen,\nweiB.        Die Sporen sind annahernd kugelig,                    glatt,   weiB,   8—10 fi lang und 8 ft breit."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 19,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "產於歐洲及北美之闊葉林與針葉林，偶見於草地，成熟期為七月至十一月。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          13
+        ],
+        "exact_source_quote": "                                                                               Die     Fruchtkorper                 des Pikes                 finden    sich       bei    uns    in\n                  Reifezeit der Fruchtkorper:                                                                                                                                         den\n\n Monaten Juli bis November.\n\n                                                                                                                             verbreitet            und haufig        in   Laub- und\n         .\n                  Yorkommen: Der Knollenblatterschwamm                                                             ist\n\n                                                                                           zuweilen          tritt       er        auch        auf     Grasplatzen         und\n Nadelwaldern                     in    Europa und Nordamerika,                                                                                                                   unter\n\n Gebiischen                auf."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 19,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史記載為極毒蘑菇，易與蘑菇混淆致人死亡。區別在於基部球狀、菌托及白色孢子，氣味似生馬鈴薯。",
+        "warnings": [
+          "Contains historical toxicity information; not medical advice."
+        ],
+        "source_line_range": [
+          19,
+          40
+        ],
+        "exact_source_quote": "                  Wichtigkeit:                   Bemerkenswert                 ist   der     Knollenblatterschwamm                                       dadurch,         daB    er    zu\n\n unseren           giftigsten            und gefahrlichsten                   Giftpilzen       gehort          und           infolge          seiner    Ahnlichkeit mit dem\n\n Champignon schon zu vielen, meist todlich verlaufenden Vergiftungen gefiihrt hat. Er unter-\n scheidet sich jedoch leicht vom Champignon durch 'semen am Grande deutlich knolligen Stengel;\n\n diese knollige Basis ist wenigstens bei                                      einigermaBen jungen Exemplaren mit der charakteristischen\n Volva oder Scheide umgeben.        Champignon ist der Stielgrund nicht verdickt, auch fehlt\n                                                                    Beim\ndie Scheide. Ferner sind die Lamellen des Knollenblatterschwammes stets weifi und werden\nim Alter schwach gelblich. Beim Champignon sind sie dagegen in der Jugend rosa, im Alter\nfarben           sie       sich        schwarzbraun,                 eine Farbe,      die    durch die schwarzen Sporen bedingt wird.                                             Beim\nKnollenblatterschwamm sind die Sporen weiBlich.                                                          Ferner hat der Knollenblatterschwamm\neinen unangenehmen Geruch nach frischen rohen Kartoffeln (nach Anderen mehr nach Marzipan), wahrend\n\nder     Champignon angenehm                                         duftet.    Auch     der     Champignon                             ist    sonst     ziemlich         veranderlich,\nauBerlich              kommen            einzelne             seiner       Formen      einzelnen      Formen des Knollenblatterschwammes\nsehr nahe.                 Ein        Champignon mit weiBlichen Lamellen ist aber immer verdachtig und sollte besser\nnicht verwendet werden.                                                                                       Marktware oft abgeschnitten, der Geruch\nbei nichtmehr ganz frischen Pilzen oft irrefiihrend, zumal wenn                                                                    sie       mit anderen Arten zusammen\nverpackt waren, deren Geruch sie dann angenommen haben."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 20,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含Phallin、Amanitahaemolysin及Amanitatoxin等毒素，煮沸不減毒，具溶血作用，部分成分對熱敏感。",
+        "warnings": [
+          "Contains historical chemical analysis; not medical advice."
+        ],
+        "source_line_range": [
+          1,
+          34
+        ],
+        "exact_source_quote": "              A. bulbosa verschiedener Provenienz und zu verschiedenen Zeiten gewinnen, das er Phallin nannte.\n              Dupetit hatte die Mykocymase gefunden, ein Encym, das jedoch in verschiedenen Pilzen vorkommt\n              und nur sub cut an giftig wirken soil.                 Gegen die Anschauung Roberts, daB das Phallin der giftige\n              Bestandteil des Pilzes         sei,     spricht die Tatsache, daB der Pilz auch nach                        dem Abkochen noch giftig\n              ist   und daB die Vergiftungserscheinungen nicht auf                       ein Blutgift          deuten:      Seibert fand den Harn\n              stets frei   von EiweiB und Blutfarbstoff.\n                         Abel und Ford                 haben       aus    frischen   Exemplaren von A. bulbosa [und A. citrind] eine\n              haemolytisch wirkende Substanz                  isoliert,    die sich nicht    als   Toxalbumin envies, der auch nicht die\n              Rolle eines Blutgiftes zugesprochen werden kann.                         Dieses Amanitahaemolysin ist ein stickstoffhaltiges\n              Glycosid, das gegen Alkalien wenig, gegen \"Warme                         und gegen Sauren sehr empfindlich                      ist.       Sauren\n              spalten es leicht in eine Pentose,                  Ammoniak und Methylamin.\n                         Es wirkt noch haemolytisch in Verdiinnungen von                           1   :   225000, und wird durch Kupferacetat\n                                                                                                                                     i\n\n\n\n\n              nach Neutralisation mit Ammoniak ausgefallt.\n                         Schlesinger und Ford fanden einen zweiten, Amanitatoxin genannten Stoff, der die Siede-\n              hitze,   selbst in alkalischer          Losung       vertragt,   durch kochende Sauren allerdings unwirksam gemacht\n              wird.     Er ist optisch inaktiv, leicht loslich in Wasser, wenig loslich in Alkohol, unloslich in organischen\n              Losungsmitteln.       Charakteristische              Reaktionen konnten          nicht         aufgefunden      werden.        Er      reduziert\n\n              Fehlingsche Losung erst nach                   dem Kochen mit etwa 10 prozentiger Salzsaure, und                               gibt     nur mit\n              Phosphorwolframsaure eine Fallung.\n                         Nach Abel und Ford enthalt er organisch gebundenen Schwefel.\n                         Rabe fand in neuerer Zeit ebenfalls ein toxalbuminahnliches                                Haemolysin, das Warmbliiter\n              auch intern schon          in geringen         Dosen totet.      Auch nach ihm verliert es beim Erwarmen                            seine Gift-\n\n              wirkung (schon bei          65°).       Bei den       damit vergifteten       Tieren          waren pathologisch-anatomische Ver-\n              anderungen nicht nachweisbar, jedoch fand er haufig Leberverfettung.                                  Es gelang Warmbliiter durch\n              steigende Dosen zu immunisieren.                    AuBer dem Haemolysin fand er auch ein muscarinahnlich wirken-\n              des,    beim Kochen bestandiges,               in   Wasser und Alkohol          losliches        in   Ather und Chloroform unlos-\n              liches Alkaloid."
+      },
+      {
+        "section_type": "literature",
+        "pdf_page": 20,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "參考文獻包括Ferry之Amanites mortelles，及Robert、Seibert、Abel與Ford等關於毒素之研究。",
+        "warnings": [],
+        "source_line_range": [
+          55,
+          68
+        ],
+        "exact_source_quote": "                         Literatur:        a)     Beschreibung           und   Abbildungen:    Vergl. Tafel          6.     AuBerdem: Ferry, Les\n              Amanites mortelles.\n\n                         b) Bestandteile:           Robert, Lehrbuch der Intoxicationen.                       — Real en eye lop a die der                 ges.\n\n                            — Seibert, Dissert.                            — Abel und Ford, Journ.\n          1\n\n\n    SIB\n\n              Pharmazie                                           1893.                                                   of Biol.   Chem. 2, 273.\n              Schlesinger und Ford, ebenda 3, 279.                         — Rabe, Zeitsch.            f.    exp. Path,    und Therapie % 352.\n              R a dais und Sartory, Comptes rendus de Tacad. d. sciences 153, 1527, 155, 180."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "36ade504e2af780e24d1e2f86798cc4de40f163f7a98098e749a16323c6ccbfb"
+}

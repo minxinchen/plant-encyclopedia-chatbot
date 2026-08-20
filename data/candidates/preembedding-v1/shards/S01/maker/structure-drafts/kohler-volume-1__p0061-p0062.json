@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0061-p0062",
+  "owner_shard": "S01",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 119.365,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0061-p0062",
+    "book_taxon": {
+      "scientific_name_candidate": "Erythraea Centaurium",
+      "authorship_candidate": null,
+      "aliases_candidates": [
+        "Gentiana Centaurium L.",
+        "Chironia Centaurium Willd",
+        "Erythraea capitata Cham.",
+        "Erythraea Centaurium f. capitata Koch"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 61,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Erythraea Centaurium，同義名 Gentiana Centaurium L. 及 Chironia Centaurium Willd。隸屬龍膽科。",
+        "warnings": [],
+        "source_line_range": [
+          4,
+          15
+        ],
+        "exact_source_quote": "                         Syn. Gentiana Centaurium L.               Chironia Centaurium Willd\n\n\n           Tausendgiildenkraut, Erdgalle, Fieberkraut, rother Aurin                                Centaury\n                                                       Centauree    petite.\n                                                                                       \\\n                         /\n\n\n\n\n           Familie: Gentianaceae.                Gattung: Erythraea Rich."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 61,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "一或二年生植物，莖高 0.15-0.35 米。葉對生，基部葉成蓮座狀。花頂生，冠筒細長，裂片玫瑰紅色。",
+        "warnings": [],
+        "source_line_range": [
+          16,
+          34
+        ],
+        "exact_source_quote": "           Beschreibung.               Ein- und zweijahrige Pflanze mit senkrechter, kurzer, holziger, meist ein-\nfacher, etwas hin-           und hergebogener Wurzel und 4kantigem, meist einfacliem, aufreclitem, bisweilen von\nunten auf astigem, 0,15          — 0,35 m hohem Stengel. Blatter 3- oder meist Snervig, ganzrandig, vollig kahl;\nunterste Blatter eine Rosette bildend, verkehrt-eiformig, in einen kurzen Stiel verschmalert, stumpf und kurz\nbespitzt, bis         4 cm lang, bis 2 cm breit; Stengelblatter einander gegeniiber sitzend, halbstengelumfassend,       *\n\n\n\n\nlanglich -eifornxig bis lineal- lanzettlich, allmalig kleiner werdend.               Bliithen eine gipfelstandige    ,       ebene,\nanfangs gedrungene, spater lockere Trugdolde bildend;                    die   meist zahlreichen,   aus den   Winkeln der\nobersten Blatter hervorkommenden Bliithenaste verzweigen sich abermals trugdoldig-gabelig; die Spindel\nendet zuletzt in einer sitzenden, von den gestielten Seitenbltithen gabelig iiberragten Bliithe.  Krone\nmit dunner, fast farbloser, walzenrunder, etwas bauehiger, oberhalb des Fruchtknotens verengerter Rohre\nund mit Slappigem, schon rosenrothem, vor und nach der Bliitlie zusammengerolltem Saume. Lappen\neilanglich, stumpf,          am Grunde mit einem lielleren Fleck, wahrend des Bliihens abstehend.             Staubgefasse\nzu 5   am Ende           der Kronenrohre eingefiigt, mit kurzen, fadigen Filamenten und langlich-linealischen,\nam Grunde ausgerandeten, oben mit einer kurzen Spitze versehenen, auf dem Riicken, nalie dem Grunde\nangehefteten nach dem Verstauben spiralig gedrehten, 2facherigen Beuteln."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 61,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "葉片橫切面顯示雙層柵欄組織；莖木質環由厚壁管胞和纖維組成。",
+        "warnings": [],
+        "source_line_range": [
+          51,
+          52
+        ],
+        "exact_source_quote": "            Anatomisches : Der Querschnitt durch die Blattspreite zeigt (nach Fliickiger) in der oberen Halfte eine\ndoppelte Palissadenschicht   der Holzring der Stengel ist aus dickwandigen Gefassen und Fasern zusammengesetzt."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 61,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分佈於草地、林間空地及灌叢中。在歐洲分佈北至北緯 59 度。",
+        "warnings": [],
+        "source_line_range": [
+          58,
+          60
+        ],
+        "exact_source_quote": "            Verbreitung                                Wiesen, Triften, Waldblosen und        in    Gebuschen durch den\n                                                                                               Westa\nverbreitet.       In Europa geht die Pflanze bis           zum 59. Breitengrade hinauf."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 61,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "德名 Tausendgiildenkraut 源於 Centaurium，傳為僧侶抄寫時將 100 誤作 1000。亦稱 Erdgalle 或 Fieberkraut。",
+        "warnings": [],
+        "source_line_range": [
+          61,
+          73
+        ],
+        "exact_source_quote": "            Name                 Geschichtliches.         Der deutsche Name Tausendgiildenkraut                ist   aus        der\n\nlateinischen Bezeichnung              Centaurium    = centum aurum (100 Gulden, ein Kraut, welches wegen seiner\nHeilkrafte 100 Gulden werth               ist)   hervorgegangen.   Es   mtisste   darnach eigentlich Hundertgiildenkraut\nheissen; da jedoch die Monche   in fruherer Zeit der Ktirze halber anstatt Centaurium    100 fl. schrieben,\n\n\n\nso  sollen (nach Schleicher)   durch  Nachlassigkeit  beim  Abschreiben  1000  fl. daraus  geworden    und\n      Tausendgiildenkraut entstanden  sein. Die  ubrigen deutschen Bezeichnungen    beziehen  sich auf den\nsomit\n\n              /"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 62,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "古藥用植物，即 Dioscorides 之 Kevravqtov。Plinius 稱 Erdgalle，Brunschwig 稱 Dusent gulden Krut。",
+        "warnings": [],
+        "source_line_range": [
+          15,
+          21
+        ],
+        "exact_source_quote": "           Das Tausendguldenkraut ist eine uralte Arzneipflanze und unzweifelhaft das Kevravqtov (xmqov\n des Dioscorides.     Sie hat von jeher, wie auch jetzt noch, in der Volksmedizin eine grosse Rolle\n gespielt.   Plinius bezeichnet sie mit Fel terrae (Erdgalle, altdeutsch Ertgalla).       Hieronymus\n Brunschwig nennt die Pflanze in seinem Destillirbuch (1609): Dusent gulden Krut, Erdgal und Aurin;\n Valerius Cordus nannte sie Fieberkraut und Aurin. Die Pflanze wurde fruher als kleines Centaurium\n bezeichnet,         zum Unterschiede von der Composite Centaurium majas {Centaurea Centaurium L.)\n              Bliithezeit.           Juli bis September."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "fb17202c39b4473a1ce883071bf7abc897bcd934fb525e18d64f3fa012dbcf76"
+}

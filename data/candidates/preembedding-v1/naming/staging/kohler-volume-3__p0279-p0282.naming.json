@@ -1,0 +1,153 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-3:p0279-p0282",
+  "owner_shard": "S07",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S07/maker/structure-drafts/kohler-volume-3__p0279-p0282.json",
+  "source_draft_sha256": "2f93ad6ba5620095b183308e6547d3871d4e3c6911c10398a93bbf568f375239",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "f95a0b8fe3362c3e83b7676b65c571b666bbb673fedcc911c83625f2017a9160",
+    "validation_check_sha256": "f6148d4c196b404d29a6c88b76d4b09c1fb62b2620e9a8a8d23cc24d3270a295",
+    "source_disposition_sha256": "738cf17609e4f33f21290b86e4d070592eb46729b7b680e8cfce6c9aa230a55f",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Chrysanthemum Parthenium",
+    "authorship_candidate": "(Persoon) Bernhardı",
+    "aliases_candidates": [
+      "Matricaria Parthenium L.",
+      "Matricaria odorata Lamarck",
+      "Pyrethrum Parthenium Smith",
+      "Tanacetum Parthenium Schultz Bipontinus",
+      "Leucanthemum Parthenium Godron"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Chrysanthemum Parthenium",
+      "Chrysanthemum parthenium"
+    ],
+    "accepted_scientific_name": "Chrysanthemum parthenium",
+    "display_name_zh_tw": "玲瓏菊",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0073236",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary",
+    "rationale": "TaiCOL accepts the queried book binomial at species rank.",
+    "checked_at": "2026-08-13T14:49:33+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Chrysanthemum Parthenium",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Chrysanthemum+Parthenium",
+      "retrieved_at": "2026-08-13T14:49:33+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Chrysanthemum",
+          "matched_name_id": 1004,
+          "taxon_id": "t0023482",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Chrysanthemum",
+          "accepted_name_id": 1004,
+          "accepted_usage": [
+            {
+              "usage_id": 6763,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": null
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0023482",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0023482",
+          "taxon": {
+            "taxon_id": "t0023482",
+            "taxon_status": "accepted",
+            "name_id": 1004,
+            "simple_name": "Chrysanthemum",
+            "name_author": "L.",
+            "rank": "Genus",
+            "common_name_c": "茼蒿屬",
+            "alternative_name_c": "筒蒿屬",
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": null,
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Chrysanthemum parthenium",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Chrysanthemum+parthenium",
+      "retrieved_at": "2026-08-13T14:49:33+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Chrysanthemum parthenium",
+          "matched_name_id": 55135,
+          "taxon_id": "t0073236",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Chrysanthemum parthenium",
+          "accepted_name_id": 55135,
+          "accepted_usage": [
+            {
+              "usage_id": 39286,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0073236",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0073236",
+          "taxon": {
+            "taxon_id": "t0073236",
+            "taxon_status": "accepted",
+            "name_id": 55135,
+            "simple_name": "Chrysanthemum parthenium",
+            "name_author": "(L.) Pess. ex Bernh",
+            "rank": "Species",
+            "common_name_c": "玲瓏菊",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

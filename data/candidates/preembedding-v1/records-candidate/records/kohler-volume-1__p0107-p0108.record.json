@@ -1,0 +1,265 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0107-p0108",
+  "entry_id": "kohler-volume-1:p0107-p0108",
+  "owner_shard": "S01",
+  "book_taxon": {
+    "scientific_name": "Ilubus Idaeus",
+    "authorship": "L.",
+    "aliases": [
+      "Eubus Idaeus",
+      "Rubi Idaeus"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Ilubus Idaeus",
+      "Ilubus idaeus"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T20:13:52+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Ilubus+Idaeus",
+        "query_name": "Ilubus Idaeus",
+        "retrieved_at": "2026-08-13T20:13:49+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Ilubus+idaeus",
+        "query_name": "Ilubus idaeus",
+        "retrieved_at": "2026-08-13T20:13:49+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Eubus+idaeus",
+        "query_name": "Eubus idaeus",
+        "retrieved_at": "2026-08-13T20:13:49+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Rubi+idaeus",
+        "query_name": "Rubi idaeus",
+        "retrieved_at": "2026-08-13T20:13:49+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 107,
+      "evidence_type": "text",
+      "page_text_sha256": "fa61489d5e2b880e415625cec9b5a3affd74c76885b3e5192b981886c9fe77e7",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 108,
+      "evidence_type": "text",
+      "page_text_sha256": "999e50d72cbdbcb301e9febfc639ecdde484ec06300cd32516a8d535d4fbae1c",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0107-p0108:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "             Familie: Eosaceae (Potentilleae).               Gattung: Eubus L.",
+      "normalized_text": null,
+      "zh_tw_rendering": "科：蔷薇科（委陵菜族）。属：Eubus L.。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 107,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 258,
+        "char_end": 336,
+        "page_text_sha256": "fa61489d5e2b880e415625cec9b5a3affd74c76885b3e5192b981886c9fe77e7",
+        "exact_text_sha256": "cff77d46515de95d2262c6e3dae5cd6dde307ea5752c9423a7b3f96e106545a6",
+        "source_line_start": 14,
+        "source_line_end": 14,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "cff77d46515de95d2262c6e3dae5cd6dde307ea5752c9423a7b3f96e106545a6",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0107-p0108:s01:x00",
+      "section_type": "description",
+      "original_text": "             Beschreibung.        Strauch von 0,60           —\n                                                         2,00 Meter Hohe, mit horizontaler, auslauferartiger,\n    Adventivknospen bildender, stark verzweigter und befaserter, braunrother Wurzel und aufrechten, ein-\n    fachen, krautigen, stielranden, unten stachelborstigen, spater verholzenden, glatt- und braunrindigen\n    Schosslingen.   Blatter zerstreut stehend, gestielt, unpaarig gefiedert.     Blattchen 3 — 7zahlig, sitzend,\n    eiformig bis eiformig -langlich, spitz, ungleich gesagt, oberseits kahl, unterseits weissfilzig.  Blattspindel\n    schwach rinnenformig feinbehaart, unterseits meist dornig.",
+      "normalized_text": null,
+      "zh_tw_rendering": "高0.6至2米灌木，根棕红多分枝。茎直立，初有刺后木质。叶互生，奇数羽状复叶，小叶3-7枚，卵形至卵状长圆形。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 107,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 337,
+        "char_end": 1011,
+        "page_text_sha256": "fa61489d5e2b880e415625cec9b5a3affd74c76885b3e5192b981886c9fe77e7",
+        "exact_text_sha256": "6e61514fdef1fd2800698ee4245b663689aa4311bdc20a77bf158e9689fa560b",
+        "source_line_start": 15,
+        "source_line_end": 21,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "6e61514fdef1fd2800698ee4245b663689aa4311bdc20a77bf158e9689fa560b",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0107-p0108:s02:x00",
+      "section_type": "distribution",
+      "original_text": "             Verbreitung. In Waldern, Hecken und an steinigen Bergabhangen durch ganz Europa mit\n    Ausnahme der sudlichsten Gebiete und durch Mittelasien verbreitet. Kommt in Skandinavien bis zum\n    70. Breitengrade vor, geht in Asien bis Jakutsk und zum Meere von Ochotzk.      Der Himbeerstrauch\n    erreicht in Norwegen eine Meereshohe von 1200 Metern.       Er wird vielfach in Garten der Fruchte\n    wegen kultivirt.",
+      "normalized_text": null,
+      "zh_tw_rendering": "分布于全欧（除最南部）及中亚。北欧至北纬70度，亚洲至雅库茨克及鄂霍次克海。挪威海拔可达1200米。常栽培。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 107,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 5013,
+        "char_end": 5437,
+        "page_text_sha256": "fa61489d5e2b880e415625cec9b5a3affd74c76885b3e5192b981886c9fe77e7",
+        "exact_text_sha256": "af3733c05177784150800b4cf007c10b74d6f17e0ca6fe10ee28ee8d00d98b97",
+        "source_line_start": 77,
+        "source_line_end": 81,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "af3733c05177784150800b4cf007c10b74d6f17e0ca6fe10ee28ee8d00d98b97",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0107-p0108:s03:x00",
+      "section_type": "history",
+      "original_text": "             Name und Geschichtliches.          Der Name Himbeere, althochdeutsch hintperi, mittelhoch-\n    deutsch hintber, haiper, angelsachsich hindberie, bei Cordus und Gessner Hindbeeren, soil aus hind,\n    Hirschkuh (weil die Hirsche angeblich die Himbeeren gem fressen) abgeleitet sein daher auch im            i\n\n\n\n\n    Englischen hind -berry, im Norwegischen hind-baer. Eine andere Ableitung von Him in der Bedeutung\n    von Hain scheint nach dem Vorhergehenden weniger wahrscheinlich zu sein.         Rabiis stammt von\n    ruber roth, weil mehrere Glieder dieser Gattung rothe Fruchte haben. Idaeus verdankt seinen Ursprung\n    dem     wahrscheinlich in der kleinasiatischen Landschaft Troas befindlichen  Berge Ida, auf welchem\n    nach Angabe des Plinius entweder unsere Himbeere oder eine unserer Pflanze ahnliche Art haufig",
+      "normalized_text": null,
+      "zh_tw_rendering": "名源：古高地德语hintperi，源自hind（雌鹿）。Idaeus源于特洛阿斯伊达山。Plinius提及此山有类似植物。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 107,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 5438,
+        "char_end": 6275,
+        "page_text_sha256": "fa61489d5e2b880e415625cec9b5a3affd74c76885b3e5192b981886c9fe77e7",
+        "exact_text_sha256": "319912b42e37285a89f5e5fba1bf2dd7d5444142d67e8233d0be0eba3865087f",
+        "source_line_start": 82,
+        "source_line_end": 93,
+        "section_index": 3,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "319912b42e37285a89f5e5fba1bf2dd7d5444142d67e8233d0be0eba3865087f",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0107-p0108:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "        Ueber die medizinische  Verwendung   der Himbeere    in Deutscbland erhalten wir die erste Ktinde\nvon V. Cordus, der in sein en Schriften Anweisung      liber die  Znbereitung  eines aus dem   Safte  von\nMaulbeeren, Erdbeeren und Himbeeren   hergestellten Syrups,  Diamarion   (Bob Diamarori)  genannt,  giebt.\n\nDie erste Darstellung des reinen Syrupus Bubi Idaei verdanken wir Gressner.",
+      "normalized_text": null,
+      "zh_tw_rendering": "历史记载：V. Cordus首述制备桑、草莓及覆盆子糖浆（Diamarion）。Gressner首述纯覆盆子糖浆。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 108,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 626,
+        "char_end": 1021,
+        "page_text_sha256": "999e50d72cbdbcb301e9febfc639ecdde484ec06300cd32516a8d535d4fbae1c",
+        "exact_text_sha256": "8701543af46c844e5a347f683f737908032c8abba6dcea12861b8d5b50f9acfc",
+        "source_line_start": 13,
+        "source_line_end": 17,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "8701543af46c844e5a347f683f737908032c8abba6dcea12861b8d5b50f9acfc",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0107-p0108:s05:x00",
+      "section_type": "constituents",
+      "original_text": "           Bestandtheile.  Die Himbeeren enthalten ein eigenthumliches Aroma, bestehend aus der Aether-\nverbindung einer Fettsaure, ferner Zucker, Gummi, Schleim, Pektin, Farbstoff, Aepfel- und Citronen-\nsaure. Nach den Untersuchungen von Seyfarth sind die Grartenhimbeeren reicher an Zucker als die\nWaldhimbeeren (4,45 2,8 °/ ). Groessmann fand in dem Aschenriickstand 10 49°/ Kali und 14 18°/\n                           :\n                                                                                                      —                         —\nPhosphorsaure.    Auf dem tiber ausgepressten Himbeeren abdestillirten Wasser scheiden sich nach\nlangerem Stehen weisse Flocken ab, die bei freiwilligem Verdunsten ihrer atherischen Losung in kleinen\nBlattchen krystallisiren; es ist diess der Himbeerkampfer.      (Husemann, Pflanzenst. 1005.) Die\nBlatter enthalten eisengriinenden Gerbstoff.",
+      "normalized_text": null,
+      "zh_tw_rendering": "含特殊香气（脂肪酸酯）、糖、树胶、粘液、果胶、色素、苹果酸、柠檬酸。叶含遇铁变绿鞣质。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 108,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 2146,
+        "char_end": 3042,
+        "page_text_sha256": "999e50d72cbdbcb301e9febfc639ecdde484ec06300cd32516a8d535d4fbae1c",
+        "exact_text_sha256": "e872fa861e5d5ed1041c1a1ccb229b3184cced43e00fbfcae3c456ff504dfcfa",
+        "source_line_start": 35,
+        "source_line_end": 44,
+        "section_index": 5,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "e872fa861e5d5ed1041c1a1ccb229b3184cced43e00fbfcae3c456ff504dfcfa",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "2abdba35c4f6dc087ef64eb29ec02abd83f99ff3b807068144ba570fcb8a7007",
+    "maker_receipt_sha256": "2a0570cfd5675b80d5ccf88bfb8124339a7f4e2fdd19b97ba3f80933dd033f94",
+    "validation_check_sha256": "f238300d86ab77280e239bafa31b7f3a0b881ab6bf9ce2052495fa0026118df9",
+    "source_disposition_sha256": "e3857ab2ecb125bcb6150ae7ed261edfd04f0b089df3d90f2acc152d15694786",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "2a0570cfd5675b80d5ccf88bfb8124339a7f4e2fdd19b97ba3f80933dd033f94",
+      "validation_check_sha256": "f238300d86ab77280e239bafa31b7f3a0b881ab6bf9ce2052495fa0026118df9",
+      "source_disposition_sha256": "e3857ab2ecb125bcb6150ae7ed261edfd04f0b089df3d90f2acc152d15694786"
+    },
+    "naming_artifact_sha256": "bcac7167bc2db9b79163eb10ae8da2cdabf8b0eae89d9b3ed578fd19c61dab55"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "8b825ae96b815ba16bcf6b82dd293450e0570e3fde00460aa3a07eeb9a1e5efd"
+}

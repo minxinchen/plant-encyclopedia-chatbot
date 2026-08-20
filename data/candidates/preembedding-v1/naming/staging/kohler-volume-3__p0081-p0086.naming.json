@@ -1,0 +1,235 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-3:p0081-p0086",
+  "owner_shard": "S06",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S06/maker/structure-drafts/kohler-volume-3__p0081-p0086.json",
+  "source_draft_sha256": "dae71c5fbe3179e9d34b121b3e759ee2424509dc3f0fead9723e23a67900868e",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "f7467128648c1700a42b226b33e19e5a10e1905cb6be57970b036971660e9c28",
+    "validation_check_sha256": "6ff81cd66eb43437e2eb99393c80572f5018484a5e6cf8880c6e56dd113ef4ce",
+    "source_disposition_sha256": "a7c8d8e46a5787bafac17bb222c4e8527123270b11091f123c85ea6a1daa72f1",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Anthemis Cotula",
+    "authorship_candidate": null,
+    "aliases_candidates": [
+      "Anthemis cotuloides Rafinesque",
+      "A. foetida Lamarck",
+      "A. psorosperma Tenore",
+      "A. ramosa Link",
+      "Chamaemelum Cotula Allioni",
+      "Cotula ‚foetida J. Bauhin",
+      "Maruta (otula DC",
+      "M. foetida Cassini",
+      "M. vulgaris Bluff & Fingerhut"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Anthemis Cotula",
+      "Anthemis cotula"
+    ],
+    "accepted_scientific_name": "Anthemis cotula",
+    "display_name_zh_tw": "臭甘菊",
+    "alternative_names_zh_tw": [
+      "臭春黃菊"
+    ],
+    "taiwan_occurrence_status": "not_recorded_in_acri_reference_period",
+    "taxon_id": null,
+    "authority_record_id": "acri-imported-unrecorded-weed-anthemis-cotula",
+    "rationale": "Kew POWO accepts Anthemis cotula as a distinct species. Taiwan's Agricultural Chemicals Research Institute explicitly pairs Anthemis cotula with 臭甘菊, and the National Museum of Natural Science collection pairs it with 臭春黃菊. These independent authorities override a demonstrably conflicting TaiCOL synonym link to Eclipta prostrata/鱧腸.",
+    "checked_at": "2026-08-13T13:20:00+08:00",
+    "display_name_source_scope": "taiwan_government_public",
+    "display_name_source_evidence_ids": [
+      "taiwan_acri"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Anthemis Cotula",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Anthemis+Cotula",
+      "retrieved_at": "2026-08-13T13:18:50+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Anthemis",
+          "matched_name_id": 666,
+          "taxon_id": "t0023186",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Anthemis",
+          "accepted_name_id": 666,
+          "accepted_usage": [
+            {
+              "usage_id": 6399,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": null
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0023186",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0023186",
+          "taxon": {
+            "taxon_id": "t0023186",
+            "taxon_status": "accepted",
+            "name_id": 666,
+            "simple_name": "Anthemis",
+            "name_author": "L.",
+            "rank": "Genus",
+            "common_name_c": "擬母菊屬",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": null,
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Anthemis cotula",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Anthemis+cotula",
+      "retrieved_at": "2026-08-13T13:18:50+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Anthemis cotula",
+          "matched_name_id": 113731,
+          "taxon_id": "t0053472",
+          "taicol_name_status": "not-accepted",
+          "accepted_name": "Eclipta prostrata",
+          "accepted_name_id": 25196,
+          "accepted_usage": [
+            {
+              "usage_id": 178227,
+              "reference_id": 2454,
+              "reference_type": "Book",
+              "publish_year": 2017,
+              "citation": "Ed. Comm. Red List TW Plants,  (2017) The Red List of Vascular Plants of Taiwan, 2017 = 2017 臺灣維管束植物紅皮書名錄.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 328931,
+              "reference_id": 11887,
+              "reference_type": "Journal Article",
+              "publish_year": 2007,
+              "citation": "Umemoto, S. & Koyama, H. (2007) A new species of Eclipta (Compositae: Heliantheae) and its allies in eastern Asia. <i>Thai Forest Bulletin. Botany</i> 35: 108–118.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 280103,
+              "reference_id": 1040,
+              "reference_type": "Book Chapter",
+              "publish_year": 1998,
+              "citation": "Peng, C.-I., Chung, K.-F. & Li, H.-L. (1998) 144. Compositae. In: Flora of Taiwan, 2 ed., vol. 4. 807–1101.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 109201,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 1980,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0053472",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0053472",
+          "taxon": {
+            "taxon_id": "t0053472",
+            "taxon_status": "accepted",
+            "name_id": 25196,
+            "simple_name": "Eclipta prostrata",
+            "name_author": "(L.) L.",
+            "rank": "Species",
+            "common_name_c": "鱧腸",
+            "alternative_name_c": null,
+            "synonyms": "Verbesina prostrata, Anthemis abyssinica var. abyssinica, Eclipta nutans var. nutans, Eclipta punctata, Eleutheranthera prostrata var. prostrata, Cotula oederi, Eclipta prostrata var. prostrata, Ecliptica alba var. zippeliana, Eupatoriophalacron album, Cotula alba, Eclipta alba var. parviflora, Paleista brachypoda, Verbesina alba subsp. alba, Spilanthes pseudo-acmella, Eclipta procumbens var. brachypoda, Eclipta erecta var. erecta, Eclipta alba var. erecta, Anthemis bornmuelleri var. brachyota, Eclipta erecta var. zippeliana, Eclipta procumbens var. patula, Anthemis galilaea var. hierosolymitana, Ecliptica alba var. parviflora, Verbesina alba subsp. neapolitana, Eclipta oederi, Anthemis cotula subsp. lithuanica, Eclipta erecta var. brachypoda, Cotula prostrata, Eclipta prostrata var. undulata, Anthemis bornmuelleri var. galilaea, Eclipta alba var. zippeliana, Ecliptica alba var. prostrata, Ecliptica alba var. alba, Eleutheranthera prostrata, Eclipta erecta var. prostrata, Anthemis cotula, Eclipta erecta, Wilborgia oblongifolia, Wedelia psammophila, Verbesina pseudoacmella, Verbesina conyzoides, Verbesina alba, Polygyne inconspicua, Micrelium tolak, Grangea lanceolata, Galinsoga oblongifolia, Galinsoga oblonga, Ecliptica alba var. erecta, Eclipta tinctoria, Eclipta sulcata, Eclipta strumosa, Eclipta spicata, Eclipta simplex, Eclipta pumila, Eclipta prostrata fo. aureoreticulata, Eclipta procumbens, Eclipta philippinensis, Eclipta patula, Eclipta parviflora, Eclipta palustris, Eclipta nutans, Eclipta marginata, Eclipta longifolia, Eclipta linearis, Eclipta hirsuta, Eclipta heterophylla, Eclipta flexuosa, Eclipta erecta var. latifolia, Eclipta erecta var. diffusa, Eclipta dubia, Eclipta dichotoma, Eclipta dentata, Eclipta ciliata, Eclipta brachypoda, Eclipta arabica, Eclipta angustifolia, Eclipta alba var. longifolia, Eclipta alba fo. prostrata, Eclipta adpressa, Chamaemelum foetidum, Buphthalmum diffusum, Bellis ramosa, Bellis racemosa, Artemisia viridis, Anthemis viridis, Anthemis sulphurea, Anthemis galilaea var. brachyota, Anthemis cotuloides, Anthemis cotula-foetida, Anthemis cotula var. hierosolymitana, Anthemis abyssinica, Acmella lanceolata, Ecliptica alba",
+            "is_in_taiwan": true,
+            "alien_type": "native",
+            "alien_status_note": "native: Ed. Comm. Red List TW Plants, 2017",
+            "not_official": false,
+            "updated_at": "2026-07-21"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "kew_powo",
+      "authority": "Royal Botanic Gardens, Kew — Plants of the World Online",
+      "query_name": "Anthemis cotula",
+      "record_url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:177259-1",
+      "retrieved_at": "2026-08-13T13:20:00+08:00",
+      "record_status": "accepted",
+      "accepted_name": "Anthemis cotula",
+      "assertion_scope": "external_scientific_name_mapping_only",
+      "evidence_source_scope": "non_taiwan_scientific_authority"
+    },
+    {
+      "source_id": "taiwan_acri",
+      "authority": "農業部農業藥物試驗所（進口農產夾雜雜草調查）",
+      "query_name": "Anthemis cotula",
+      "record_url": "https://www.acri.gov.tw/Uploads/Item/c0b258d3-4d4f-4c95-9b28-aee5a8dfd0d5.pdf",
+      "retrieved_at": "2026-08-13T13:20:00+08:00",
+      "exact_name_pair": {
+        "scientific_name": "Anthemis cotula",
+        "chinese_name": "臭甘菊"
+      },
+      "occurrence_note": "Listed among weeds not recorded in Taiwan and detected in imported agricultural products during the report's 2002–2012 reference period.",
+      "authority_record_id": "acri-imported-unrecorded-weed-anthemis-cotula",
+      "assertion_scope": "external_taiwan_public_name_and_historic_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_government_public"
+    },
+    {
+      "source_id": "taiwan_nmns",
+      "authority": "國立自然科學博物館科博典藏",
+      "query_name": "Anthemis cotula",
+      "record_url": "https://www.nmns.edu.tw/collect/catalog/detail/?id=360781",
+      "retrieved_at": "2026-08-13T13:20:00+08:00",
+      "exact_name_pair": {
+        "scientific_name": "Anthemis cotula Linn.",
+        "chinese_name": "臭春黃菊"
+      },
+      "assertion_scope": "external_taiwan_public_name_only",
+      "evidence_source_scope": "taiwan_academic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "TaiCOL currently links Anthemis cotula to Eclipta prostrata/鱧腸, but Kew POWO accepts Anthemis cotula as a distinct species and Taiwan government/museum sources independently name it 臭甘菊／臭春黃菊; the TaiCOL link is rejected as conflicting data.",
+    "The ACRI occurrence statement is tied to its 2002–2012 report context and is not treated as a current absence claim.",
+    "Do not answer with 鱧腸 for this Köhler entry."
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-2:p0441-p0444",
+  "owner_shard": "S04",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S04/maker/structure-drafts/kohler-volume-2__p0441-p0444.json",
+  "source_draft_sha256": "fb8e7b09a493dbe2eb3de35e6e09c9cfb433e99ccec85044523a9ce0f17780fc",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "5255ddd366f7651c00403fcd550737de92b65908ebdcc5c910fadce52ff8f2bb",
+    "validation_check_sha256": "679b2aacbdff12a2ff39e4ed9248f6a97b1eed7ee1dc498bc74c4dfddcf0d5f0",
+    "source_disposition_sha256": "20c1f730014fcbc06e9dcb027fbd46fec94fa14cd9edd01773424c124aedb730",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Pterocarpus santalinus",
+    "authorship_candidate": "L. fil",
+    "aliases_candidates": [
+      "Rothes Sandel- oder Santelholz",
+      "Caliaturholz",
+      "Santal rouge",
+      "Red Sanders wood",
+      "Ruby wood",
+      "Lignum Santali",
+      "Lignum Sandali rubrum",
+      "Lignum sandalinum"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Pterocarpus santalinus"
+    ],
+    "accepted_scientific_name": "Pterocarpus santalinus",
+    "display_name_zh_tw": "紫檀",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0075525",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary",
+    "rationale": "TaiCOL accepts the queried book binomial at species rank.",
+    "checked_at": "2026-08-13T18:55:55+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Pterocarpus santalinus",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Pterocarpus+santalinus",
+      "retrieved_at": "2026-08-13T18:55:55+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Pterocarpus santalinus",
+          "matched_name_id": 59270,
+          "taxon_id": "t0075525",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Pterocarpus santalinus",
+          "accepted_name_id": 59270,
+          "accepted_usage": [
+            {
+              "usage_id": 42742,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0075525",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0075525",
+          "taxon": {
+            "taxon_id": "t0075525",
+            "taxon_status": "accepted",
+            "name_id": 59270,
+            "simple_name": "Pterocarpus santalinus",
+            "name_author": "L.f.",
+            "rank": "Species",
+            "common_name_c": "紫檀",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

@@ -1,0 +1,155 @@
+{
+  "schema_version": "2.0",
+  "package_id": "kohler-volume-1:p0209-p0222:child-02:continuation-02",
+  "parent_entry_id": "kohler-volume-1:p0209-p0222",
+  "child_entry_id": "kohler-volume-1:p0209-p0222:child-02",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation-v2:kohler-volume-1:p0209-p0222:child-02:continuation-02:v1",
+  "owner_shard": "S02",
+  "package_sha256": "3a2a7aefcb7fcb8ff8fbc54b8396f2970795fa4fa903874e89369594a04868b9",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "prompt_version": "plant-structure-line-coordinates-v2",
+  "attempt_sha256": "02249e6a216f0ba2f77b0b178f437c057b9973d606f5e2533e70dfb91ef6af51",
+  "raw_response_sha256": "611c28d485ec3812c81a388d48033c196c6f455367a452d267036d6bc217513f",
+  "elapsed_seconds": 21.332,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 221,
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+      "char_start": 6122,
+      "char_end": 6875,
+      "source_line_start": 78,
+      "source_line_end": 84,
+      "page_text_sha256": "ddf44c259fb3a3a026cd326791773cfa57b6b3db94ef7e9671441280dcf64e5c",
+      "exact_text_sha256": "3d7faf93845fdb2bd4bf7bfb4ff51d5e257cece554778447cf46eefc5e52bc87",
+      "section_index": 0,
+      "section_type": "literature"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 219,
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+      "char_start": 2883,
+      "char_end": 3654,
+      "source_line_start": 43,
+      "source_line_end": 51,
+      "page_text_sha256": "6e9ba2fda8be5169d8a13bdbb88cf073207eeba1d4fe100d3049fbc980c1b21f",
+      "exact_text_sha256": "8d7d45f3b468f9c26f0651858d650f9ed48ae93640ce96b26973e1c94467e8a2",
+      "section_index": 1,
+      "section_type": "constituents"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 221,
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+      "char_start": 3058,
+      "char_end": 3975,
+      "source_line_start": 42,
+      "source_line_end": 50,
+      "page_text_sha256": "ddf44c259fb3a3a026cd326791773cfa57b6b3db94ef7e9671441280dcf64e5c",
+      "exact_text_sha256": "8ae8003074b6dd0599abf33d54f153ca232434a6ab42b3f851467675c33eb128",
+      "section_index": 2,
+      "section_type": "historical_use"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 222,
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+      "char_start": 2613,
+      "char_end": 3274,
+      "source_line_start": 47,
+      "source_line_end": 55,
+      "page_text_sha256": "3182f25ab374b9d19405abc890242df500621e8c933ad8ecc63f9603a0657782",
+      "exact_text_sha256": "367ae07da1f53e9e089362b38a4bc4e04b438308667eee5b512a4ab71256092c",
+      "section_index": 3,
+      "section_type": "plate_description"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 221,
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+      "char_start": 1428,
+      "char_end": 1988,
+      "source_line_start": 24,
+      "source_line_end": 29,
+      "page_text_sha256": "ddf44c259fb3a3a026cd326791773cfa57b6b3db94ef7e9671441280dcf64e5c",
+      "exact_text_sha256": "9f3fb57564e5f10a4c1cd7e749c6a8e8640139cf06452800e1d6516816aa19c0",
+      "section_index": 4,
+      "section_type": "other"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-1:p0209-p0222:child-02:continuation-02",
+    "parent_entry_id": "kohler-volume-1:p0209-p0222",
+    "book_taxon": {
+      "scientific_name_candidate": "Cinchona lancifolia"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "literature",
+        "pdf_page": 221,
+        "source_line_range": [
+          78,
+          84
+        ],
+        "exact_source_quote": "           Iiitteratur.            AbMldung und Beschreibung:   Nees v. Esenb.,   Plant. med.  7\n                                                                                                C. Condaminea Humb.,\nTaf. 14; C. ovata R. et Pav., Taf. 15; C. oblongifolia Mut., Taf. 16; C. lancifolia Mut., Taf. 20; Hayne, Arznei-\ngewachse, C. Condaminea VIL, Taf. 37; C. lancifolia VIL, Taf. 38; C. rosea VII., Taf. 39; C. cordifolia VII., Taf. 40;\nC. oblongifolia VIL, Taf. 41; C. ovatifolia VIL, Taf. 42; C. excelsa VIL, Taf. 43; C. purpurea XIV., Taf. 14; C. Mutisii\nXIV., Taf. 15; Berg u. Schmidt, Offiz. Gew., C. Calisaya p. Josephiana WedcL, Taf. XIV d ; C. Uritusinga Pav.,\nTaf. XIVe C. micrantha R. et Pav, Taf. XIV^; C. Chahuarguera Pav. Taf. XV^"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 219,
+        "source_line_range": [
+          43,
+          51
+        ],
+        "exact_source_quote": "   Chinin (C 20 H24 2 2 ) im Jahre 1820 von Pelletier und Caventou entdeckt, ist die wichtigste\n       sammtlicher Chinabasen. Es ist stets begeitet von Cinchonin, in der Regel auch von Chinidin\n       und Cinchonidin und kommt in alien echten Chinarinden vor. Es lasst sich aus seiner Losung\n       in Petroleum ather, Benzol oder Chloroform in feinen Nadeln (mit 3        2\n                                                                                   OH\n                                                                                   ) krystallisirt erhalten,\n\n       lost sich in 20 Theilen Aether, reichlicher in Alkohol und Chloroform, bei 15° in 1600 Theilen\n       Wasser. Es hat einen bittern Geschmack und ist eine starke Base; seine Salze fluoresciren."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 221,
+        "source_line_range": [
+          42,
+          50
+        ],
+        "exact_source_quote": "               Anwendung.   Die Chinarinde ist als das wichtigste Arzneimittel zu betrachten welches seit\n der Entdeckung Amerikas dem Arzneischatze zugefuhrt worden ist. „Als aktive Prinzipien der China-\nrinden sind verschiedene darin enthaltene Pflanzenbasen anzusehen, unter denen das in 4 seiner Salze\n (Chininum sulfuricum, Ch. bisnlfuricum, Ch. hydrochloricum, Ch. ferro - citricum) offizinelle Chinin das\nheilkraftigste ist.\"  Chinarinde nnd Alkaloide dienen als Tonicum, Stomachicum und namentlich finden\n die Praparate, besonders Chinin, bei Wechselfieber, Sumpffieber, Neuralgien, Neurosen Anwendung. Als\n ein die Temperatur und Pulsfrequenz herabsetzendes Mittel erweist es sich wirksam bei continuirlich\nfieberhaften Affektionen, vorziiglich bei Typhus, bei hektischen und anfallsweise auftretenden Fiebern.\n Chinapraparate und namentlich Chinarinden werden auch antiseptisch verwendet. „Das Chinin ist in"
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 222,
+        "source_line_range": [
+          47,
+          55
+        ],
+        "exact_source_quote": "             Cinch. Calisaya und officinalis:     A bluhender Zweig, natiirl. Grosse; B Theil der Fruchtrispe, desgl.; 1 Bliithe,\nvergrossert;            im Langsschnitt, desgl.; 3 aufgeschnittene Kronenrohre, desgl.; 4 Staubgefasse von verschie-\n                    2 dieselbe\ndenen Seiten, desgl.; 5 Pollen, desgl.; 6 Kelch mit hervorragendem Griffel und Narbe, desgl.; 7 Papillen des Blumen-\nsaumbartes, desgl.\n\n                          AB, 1, 2, 3 wie bei C. Calisaya und officinalis; 4 Querschnitt des Fruchtknotens, vergrossert;\n             0. succirubra:\n5 Kapsel, zerschnitten, mit freigelegten Sam en, desgl.; 6 Same, natiirl. Grosse und vergrossert."
+      },
+      {
+        "section_type": "other",
+        "pdf_page": 221,
+        "source_line_range": [
+          24,
+          29
+        ],
+        "exact_source_quote": "               Was die Menge der in den Pflanzen enthaltene Alkaloide anbelangt, so ist zu bemerken, dass\n dieselbe,abgesehen von den verschiedenen Arten, bei ein und derselben Art in Folge Alters und\nStandortes und Art der Kultur grossen Schwankungen unterliegt und von ganzlichem Mangel an Chinin-\ngehalt sich bis fiber 13% steigern kann.    So erhielt z. B. Bernelot Moens aus der Rinde der\nCahsaya Ledgeriana 1,09-12,50% Alkaloide, darunter 0,8—11,6% Chinin. Die indische C. succirabra\n enthalt   6—11% Alkaloide, darunter 1—4% Chinin und 3—4% Cinchonidin."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "a7e2ed465dbb5d63a60928f9c8f52919ee2b52786441f3ab43a6f734d2662fc7"
+}

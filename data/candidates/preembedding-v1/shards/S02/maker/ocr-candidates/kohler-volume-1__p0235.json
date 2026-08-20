@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 235,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "4d1a25726d2e7895d9b7ff00f91dd277165a98ffbab37460577111c4f58f9ab4",
+  "render_dpi": 144,
+  "render_sha256": "cba3445167ca37dbd2b85bb837fc80a73ff2beedf038ff94cfa28b62624de337",
+  "engine": "Apple Vision VNRecognizeTextRequest accurate",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 202.898,
+  "embedded_character_count": 283,
+  "ocr_character_count": 54,
+  "ocr_alpha_ratio": 0.7037,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.017651272198510592,
+      "text": "Laurine ae.",
+      "width": 0.10337686471441399,
+      "x": 0.8057495850325966,
+      "y": 0.9126859918059758
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "13",
+      "width": 0.016528925875514466,
+      "x": 0.3161157021862097,
+      "y": 0.2601744187079964
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0072674415414295535,
+      "text": "E. Günther gez. u. lith.",
+      "width": 0.10537189220003418,
+      "x": 0.838842981276016,
+      "y": 0.09447674436978903
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0222512757967388,
+      "text": "Laurus nobilis",
+      "width": 0.1819259578989994,
+      "x": 0.43176429261966726,
+      "y": 0.065182501894403
+    }
+  ],
+  "text": "Laurine ae.\n13\nE. Günther gez. u. lith.\nLaurus nobilis",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-ocr-sha256=e54202ae838c94203816fd3331f4c37f7acac436188d481eab506c540c3d66d6",
+  "input_sha256": "cba3445167ca37dbd2b85bb837fc80a73ff2beedf038ff94cfa28b62624de337",
+  "output_sha256": "5b3240691f4afe8efe6b7fd7d1ad3a4fb5dce927da6cd88c97d052825c59ef31",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "receipt_sha256": "f41446b0cd4906ad8aae9de376b0bcf01c659f7adb2bfbeeed97fe01ef141330"
+}

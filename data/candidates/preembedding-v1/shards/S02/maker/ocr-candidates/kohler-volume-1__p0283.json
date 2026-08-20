@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 283,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "90a65ee29c860409829af246554b1a6ae36bdf7ee3a6631349c978a94cb2e0f5",
+  "render_dpi": 144,
+  "render_sha256": "a77554967316e2ff4e44e06d2e3ba0d67b65553917de452161da242bcc33da5d",
+  "input_sha256": "a77554967316e2ff4e44e06d2e3ba0d67b65553917de452161da242bcc33da5d",
+  "render_pixel_width": 5678,
+  "render_pixel_height": 7982,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.916,
+  "embedded_character_count": 276,
+  "ocr_character_count": 46,
+  "ocr_alpha_ratio": 0.6522,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.022478699684143066,
+      "text": "Kutaceat.",
+      "width": 0.08558448355234483,
+      "x": 0.8528937523251107,
+      "y": 0.9173382470026482
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "11",
+      "width": 0.01428571405769885,
+      "x": 0.7918367347313546,
+      "y": 0.6002906979776185
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883082859107,
+      "text": "13",
+      "width": 0.024489795147458193,
+      "x": 0.7346938778490114,
+      "y": 0.4549418608879724
+    },
+    {
+      "confidence": 1,
+      "height": 0.014787923722040075,
+      "text": "wM.n.d.Nat.",
+      "width": 0.07356778281835663,
+      "x": 0.8387263134071397,
+      "y": 0.14812929395546548
+    },
+    {
+      "confidence": 1,
+      "height": 0.01892418710012278,
+      "text": "Ruta graveolens L.",
+      "width": 0.15918366712838872,
+      "x": 0.41836735129294844,
+      "y": 0.1177325587905399
+    }
+  ],
+  "text": "Kutaceat.\n11\n13\nwM.n.d.Nat.\nRuta graveolens L.",
+  "output_sha256": "6ca3aad8c7efc00bbfbb6077eab8baf9c4fa5f6fb326c855f0806c939411a333",
+  "receipt_sha256": "00d6e192b71aa2e4529878cc32c8cd0a23fdd5b3e8dbf9633ba23e5701ab1e0f"
+}

@@ -1,0 +1,170 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-3:p0045-p0048",
+  "owner_shard": "S06",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S06/maker/structure-drafts/kohler-volume-3__p0045-p0048.json",
+  "source_draft_sha256": "7b6503da0389bb5214698c66111353cb7b606a33bbe4c6e38c6a44bf1e9c35fb",
+  "eligibility": {
+    "deterministic_status": "pass",
+    "checked_field": "deterministic_status",
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "9e8653cb9bbf91dbea1a64e6543ec29263c7f761af66b98a36bf317a48c80120",
+    "validation_check_sha256": "5a16e07e4048555478d147a390daecb4c1f6cfaa1b08c875a1cf3ba12fc84a24",
+    "source_disposition_sha256": "3f948ce2f08ccac62a37dcb64f3200a5d5906e4eab953676147550a3b4f7d1da",
+    "review_status": "machine_extracted"
+  },
+  "book_name": {
+    "scientific_name_candidate": "Palaquium Treubii",
+    "authorship_candidate": "Burck.",
+    "aliases_candidates": []
+  },
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Palaquium Treubii",
+      "Palaquium treubii",
+      "Palaquium gutta"
+    ],
+    "accepted_scientific_name": "Palaquium gutta",
+    "display_name_zh_tw": "膠木",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0075059",
+    "rationale": "Kew Plants of the World Online explicitly treats the book name Palaquium treubii as a synonym of Palaquium gutta; TaiCOL accepts Palaquium gutta and supplies the Taiwan public name 膠木.",
+    "checked_at": "2026-08-13T13:04:52+08:00",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Palaquium Treubii",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Palaquium+Treubii",
+      "retrieved_at": "2026-08-13T12:27:45+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Palaquium",
+          "matched_name_id": 2117,
+          "taxon_id": "t0024442",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Palaquium",
+          "accepted_name_id": 2117,
+          "accepted_usage": [
+            {
+              "usage_id": 182900,
+              "reference_id": 2454,
+              "reference_type": "Book",
+              "publish_year": 2017,
+              "citation": "Ed. Comm. Red List TW Plants,  (2017) The Red List of Vascular Plants of Taiwan, 2017 = 2017 臺灣維管束植物紅皮書名錄.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 278082,
+              "reference_id": 1011,
+              "reference_type": "Book Chapter",
+              "publish_year": 1998,
+              "citation": "Li, H.-L. & Yang, T.-Y.A. (1998) 114. Sapotaceae. In: Flora of Taiwan, 2 ed., vol. 4. 83–87.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 7970,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": null
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0024442",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0024442",
+          "taxon": {
+            "taxon_id": "t0024442",
+            "taxon_status": "accepted",
+            "name_id": 2117,
+            "simple_name": "Palaquium",
+            "name_author": "Blanco",
+            "rank": "Genus",
+            "common_name_c": "膠木屬",
+            "alternative_name_c": "膞木屬",
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": null,
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Palaquium treubii",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Palaquium+treubii",
+      "retrieved_at": "2026-08-13T12:27:45+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Palaquium treubii",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Palaquium%20treubii",
+      "retrieved_at": "2026-08-13T12:32:05+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "kew_powo",
+      "authority": "Royal Botanic Gardens, Kew — Plants of the World Online",
+      "query_name": "Palaquium treubii",
+      "record_url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:788437-1",
+      "retrieved_at": "2026-08-13T13:04:52+08:00",
+      "record_status": "synonym",
+      "accepted_name": "Palaquium gutta",
+      "evidence_note": "POWO states explicitly that Palaquium treubii is a synonym of Palaquium gutta.",
+      "assertion_scope": "external_scientific_name_mapping_only",
+      "evidence_source_scope": "non_taiwan_scientific_authority"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Palaquium gutta",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Palaquium+gutta",
+      "taxon_url": "https://taicol.tw/zh-hant/taxon/t0075059",
+      "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0075059",
+      "retrieved_at": "2026-08-13T13:04:52+08:00",
+      "result_total": 1,
+      "matched_name": "Palaquium gutta",
+      "taxon_id": "t0075059",
+      "taicol_name_status": "accepted",
+      "common_name_c": "膠木",
+      "is_in_taiwan": true,
+      "alien_type": "cultured",
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "The synonym bridge comes from Kew POWO; the Taiwan display name and occurrence metadata come independently from TaiCOL."
+  ]
+}

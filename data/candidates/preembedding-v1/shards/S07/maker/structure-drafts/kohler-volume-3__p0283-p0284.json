@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-3:p0283-p0284",
+  "owner_shard": "S07",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 102.552,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-3:p0283-p0284",
+    "book_taxon": {
+      "scientific_name_candidate": "Cerbera Tanghin",
+      "authorship_candidate": "Hook",
+      "aliases_candidates": [
+        "Tanghinia venenifera Poir.",
+        "Cerbera venenifera Steud.",
+        "Tanghinia veneniflua Boj."
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 283,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Cerbera Tanghin，同義名 Tanghinia venenifera。屬夾竹桃科，Cerbera 屬。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          5
+        ],
+        "exact_source_quote": "                                Cerbera               Tanghin                 Hook            fi.\n                                 Gottesgerichtsbohne.             Engl.: Ordeal         Bean.\n           Syn.: Tanghinia venenifera Poir.              Cerbera venenifera Steud.            Tanghinia veneniflua Boj.\n          Familie: Apocynaceae. Unterfamilie:                    Elumieroideae.      Tribus: ZP’lumiereae.           Subtribus:\nCerberinae. Gattung: Cerbera Mill."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 283,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "高十米以上樹木，樹幹光滑灰皮，黃木。下枝水平，上枝直立。嫩枝無毛灰綠。",
+        "warnings": [],
+        "source_line_range": [
+          6,
+          10
+        ],
+        "exact_source_quote": "           Beschreibung.       Ein zehn und mehr Meter hoher Baum, vom Habitus des Mangobaume\n                                                                                              s;\nder Stamm       mit glatter,    grauer Rinde und gelblichem Holze.                   Die unteren Äste stehen horizontal\nvom Stamme ab, die oberen mehr aufrecht. Die jungen Zweige haben\n                                                                      kahle, graugrüne Rinde."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 283,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "葉螺旋狀排列，倒卵形，革質，全緣，兩面無毛，上表面光亮，側脈平行。",
+        "warnings": [],
+        "source_line_range": [
+          11,
+          22
+        ],
+        "exact_source_quote": "Die Blätter sind an den Enden der Zweige dicht spiralig gestellt, lä\n                                                                     nglich-verkehrt-eiförmig,\nam Grunde in den 2 bis 4 cm langen Blattstiel verschmälert, 15 bis 20 cm\n                                                                              lang, 3 bis 5 cm\nbreit, im Mittel viermal so lang als breit, ganzrandig, der Rand häufig\n                                                                             etwas nach unten\nzurückgerollt, stumpf oder höchstens ein wenig zugespitzt, lederartig von\n                                                                            Konsistenz, beider-\nseits ganz kahl, die Oberseite glänzend, von dem kräftigen und an der Unters\n                                                                                  eite deutlich\nhervortretenden Mittelnerv die Seitennerven in grosser Anzahl parallel verl\n                                                                                  aufend.   Die"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 284,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "僅產於馬達加斯加。",
+        "warnings": [],
+        "source_line_range": [
+          10,
+          10
+        ],
+        "exact_source_quote": "          Vorkommen        und Verbreitung.           Die Pflanze findet sich nur in Madagaskar.                              x"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 284,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "馬達加斯加最毒植物之一。果實含劇毒，當地人用於神判（Gottesurteilen）。",
+        "warnings": [
+          "Historical toxicological content; not medical advice."
+        ],
+        "source_line_range": [
+          15,
+          18
+        ],
+        "exact_source_quote": "        Produkte. Die Pflanze ist eines der giftigsten Gewächse von Madagaskar. Die Zweige\nund Blätter enthalten einen dicken, grünlichen Milchsaft von giftiger Wirkung. Noch heftiger\naber wirkt das in der Frucht enthaltene Gift; diese wird deshalb von den Eingeborenen in\nMadagaskar       zu    Gottesurteilen    benutzt."
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 284,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "圖版描述：開花枝、花蕾、花冠管、雄蕊、雌蕊、果實橫切面及縱切面、內果皮、種子及子葉。",
+        "warnings": [],
+        "source_line_range": [
+          42,
+          47
+        ],
+        "exact_source_quote": "                                                 Tafelbeschreibung.\n          A blühender Zweig. 1 Knospe; 2 Blumenkronenröhre aufgeschnitten; 3 Staubblatt und Narbe;\n4 Staubblatt von vorn gesehen; 5 Pistill mit Griffel; 6 Frucht; 7 Querschnitt derselben; 8 Längsschnitt der-\nselben; 9 Endokarp von der dem Korkgewebe anliegenden Seite; 10 Samen; 11 Kotyledonen von aussen,\n12 dieselben von innen; einer derselben ist quergeschnitten. A ?/, natürliche Grösse; 6, 7, 8, 9, 10 nahezu\nnatürliche Grösse; 1, 2, 3, 4, 5 vergrössert. Nach Exemplaren aus Madagaskar; Kgl. Universitäts-Herbar, Berlin."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "d3e63dd45d3b58e82f68ffcc958a21c9a2fefbd5acdbde5c795db122e36140d5"
+}

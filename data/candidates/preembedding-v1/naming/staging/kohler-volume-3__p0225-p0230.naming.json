@@ -1,0 +1,119 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-3:p0225-p0230",
+  "owner_shard": "S07",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S07/maker/structure-drafts/kohler-volume-3__p0225-p0230.json",
+  "source_draft_sha256": "51dee32ad8336a86a779d894cbf73e01ae9e21166463f47476e9415291042708",
+  "eligibility": {
+    "deterministic_status": "pass",
+    "checked_field": "deterministic_status",
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "b7b86c35a4541992bb3dff4b29afebcb23528dad06ae50e7b30cd230f9732a6e",
+    "validation_check_sha256": "b06d55e27e087aa6268f3a6d2d7fa0a6a0cc0fb7075bcdebe6803c86f2a3c792",
+    "source_disposition_sha256": "c55620676a22ccfd67b649fea12b2fc9745062805e5b408c80b704b68c558f75",
+    "review_status": "machine_extracted"
+  },
+  "book_name": {
+    "scientific_name_candidate": "Gaultheria procumbens",
+    "authorship_candidate": "L.",
+    "aliases_candidates": [
+      "Gaultheria humilis Salisbury",
+      "Gautiera repens Rafinesque"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Gaultheria procumbens"
+    ],
+    "accepted_scientific_name": "Gaultheria procumbens",
+    "display_name_zh_tw": "冬青",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_asserted",
+    "taxon_id": null,
+    "authority_record_id": "bioeconomy-agbio-60-table-1-gaultheria-procumbens",
+    "rationale": "TaiCOL and Tai2 had no exact species record, so the Taiwan academic-publication fallback was used. A table in 農業生技產業季刊, compiled by the Taiwan Institute of Economic Research Biotechnology Industry Study Center, explicitly pairs Wintergreen / 冬青 / Gaultheria procumbens L. No Taiwan occurrence is inferred.",
+    "checked_at": "2026-08-13T13:04:52+08:00",
+    "display_name_source_scope": "taiwan_academic_public",
+    "display_name_source_evidence_ids": [
+      "taiwan_academic_publication"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Gaultheria procumbens",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Gaultheria+procumbens",
+      "retrieved_at": "2026-08-13T12:27:47+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Gaultheria procumbens",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Gaultheria%20procumbens",
+      "retrieved_at": "2026-08-13T12:32:09+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Gaultheria humilis",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Gaultheria+humilis",
+      "retrieved_at": "2026-08-13T12:55:41+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Gautiera repens",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Gautiera+repens",
+      "retrieved_at": "2026-08-13T12:55:41+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taiwan_academic_publication",
+      "authority": "農業生技產業季刊；台灣經濟研究院生物科技產業研究中心整理",
+      "query_name": "Gaultheria procumbens",
+      "record_url": "https://www.bioeconomy.tw/wp-content/uploads/2023/01/60.0225.pdf",
+      "retrieved_at": "2026-08-13T13:04:52+08:00",
+      "record_locator": "表一『報告選定分析之42種植物』第14項",
+      "exact_name_pair": {
+        "english_name": "Wintergreen",
+        "chinese_name": "冬青",
+        "latin_name": "Gaultheria procumbens L."
+      },
+      "authority_record_id": "bioeconomy-agbio-60-table-1-gaultheria-procumbens",
+      "assertion_scope": "external_taiwan_public_name_only",
+      "evidence_source_scope": "taiwan_academic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "TaiCOL and Tai2 do not list this exact species; 冬青 is a Taiwan academic-publication fallback, not a TaiCOL name.",
+    "冬青 is also used for unrelated Ilex taxa; retain the scientific name in answer citations and do not infer Taiwan occurrence."
+  ]
+}

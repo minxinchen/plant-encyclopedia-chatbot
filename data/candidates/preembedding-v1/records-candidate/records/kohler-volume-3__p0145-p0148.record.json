@@ -1,0 +1,258 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-3-p0145-p0148",
+  "entry_id": "kohler-volume-3:p0145-p0148",
+  "owner_shard": "S06",
+  "book_taxon": {
+    "scientific_name": "Convolvulus Scammonia",
+    "authorship": "L.",
+    "aliases": [
+      "Comvolvulus elongatus Salisb.",
+      "Scammoniawinde",
+      "Purgierwinde",
+      "Scamzıony-bindweed",
+      "Liseron purgant",
+      "Scammonee"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Convolvulus Scammonia",
+      "Convolvulus scammonia"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T16:32:06+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Convolvulus+Scammonia",
+        "query_name": "Convolvulus Scammonia",
+        "retrieved_at": "2026-08-13T16:32:02+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Convolvulus+scammonia",
+        "query_name": "Convolvulus scammonia",
+        "retrieved_at": "2026-08-13T16:32:02+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Comvolvulus+elongatus",
+        "query_name": "Comvolvulus elongatus",
+        "retrieved_at": "2026-08-13T16:32:03+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Scamz+ony-bindweed",
+        "query_name": "Scamz ony-bindweed",
+        "retrieved_at": "2026-08-13T16:32:03+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Liseron+purgant",
+        "query_name": "Liseron purgant",
+        "retrieved_at": "2026-08-13T16:32:03+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 145,
+      "evidence_type": "text",
+      "page_text_sha256": "b4fd4c7e3ad4cbcdb6a59258da61b39085952c6b242d71fdc628f1183683659f",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 146,
+      "evidence_type": "text",
+      "page_text_sha256": "d5f7e81f9a5b7a882939b1fb1533f4b6002f2b516adcfccfc47576a972f71b9e",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 147,
+      "evidence_type": "text",
+      "page_text_sha256": "faf148e3a0fb394adb1aeccdbef9476680f1c490c4a1754a841d95a6397f656f",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-3:p0145-p0148:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                            Convolvulus                 Scammonia                  L.\n    Scammoniawinde,        Purgierwinde,     Scamzıony-bindweed,         Liseron purgant, Scammonee.\n         Syn. Comvolvulus elongatus Salisb. (nicht W.).\n         Familie: Oonvolvulacene Jussieu. Unterfamilie:                  Convolvuleae   Jussieu.    Gattung:\n Convowulus L.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Convolvulus Scammonia L.，同義名 Comvolvulus elongatus Salisb.，隸屬於旋花科旋花亞科。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 145,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 366,
+        "page_text_sha256": "b4fd4c7e3ad4cbcdb6a59258da61b39085952c6b242d71fdc628f1183683659f",
+        "exact_text_sha256": "8b8545527a8962f50f370225791fd16449fce252217e3e516e3df4afad13dc50",
+        "source_line_start": 1,
+        "source_line_end": 5,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "8b8545527a8962f50f370225791fd16449fce252217e3e516e3df4afad13dc50",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0145-p0148:s01:x00",
+      "section_type": "description",
+      "original_text": "          Beschreibung.   Die schöne, an unsere Feldwinde erinnernde, aber üppigere Pflanze\n hat eine weissliche, fleischige, spindel- oder walzenförmige Pfahlwurzel, welche bis 1 m lang\n und am Kopfe 6—12 cm dick und mit wenigen dünnen Wurzelästen               und am oberen Ende\n mit mehreren Wurzelköpfen besetzt ist. Das weisse Innere der Wurzel ist reich an Milch-\n saft. Der Wurzel entsprossen mehrere einjährige, linkswindende, federkielstarke, aber 1—2 cm\n lange, oft rötlich angelaufene, geriefte Stengel.  Die Blätter sitzen in Entfernungen von 2 bis\n 3 cm, die jüngeren auch dichter; sie sind gestielt, einfach, dreieckig, spiesspfeilförmig, in\n eine lange, scharfe Spitze auslaufend; der Grund hat einen nierenförmigen Ausschnitt, die\n seitlichen Lappen gehen ebenfalls in scharfe Spitzen aus und haben jeder nach innen zu\n gerichtet einen scharfen Zahn (selten zwei). Die Seitenränder des Blattes treten etwas bogig",
+      "normalized_text": null,
+      "zh_tw_rendering": "具白色肉質紡錘形主根，富含乳汁。莖左旋，葉三角形或戟形，基部腎形缺刻，側裂片具尖齒。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 145,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 367,
+        "char_end": 1296,
+        "page_text_sha256": "b4fd4c7e3ad4cbcdb6a59258da61b39085952c6b242d71fdc628f1183683659f",
+        "exact_text_sha256": "0b057580ec2cdb179c5ef13ae3cc155b180b41777f2a195d71dd65be695e2b68",
+        "source_line_start": 6,
+        "source_line_end": 15,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "0b057580ec2cdb179c5ef13ae3cc155b180b41777f2a195d71dd65be695e2b68",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0145-p0148:s02:x00",
+      "section_type": "distribution",
+      "original_text": "          Vorkommen. Die   Hei mat der Pfl anz e sind die öst lic hen Mit tel mee rlä nde r, ins bes ond ere\n Kleinasien, Syrien, Mesopotamien; ihr Hauptdistrikt geht von Smyrna über den Taurus durch\n Anatolien und Cappadocien, nach Syrien und Kurdistan ; sie übersteigt aber auch den Kaukasus\n                                                                                                    23",
+      "normalized_text": null,
+      "zh_tw_rendering": "原產東地中海沿岸，包括小亞細亞、敘利亞、美索不達米亞，分佈至高加索及南俄。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 145,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 4708,
+        "char_end": 5104,
+        "page_text_sha256": "b4fd4c7e3ad4cbcdb6a59258da61b39085952c6b242d71fdc628f1183683659f",
+        "exact_text_sha256": "2b1dafadfa80c3f9dfa1fee7bbe6a89001efb1f2436f6b072986d2274d635918",
+        "source_line_start": 54,
+        "source_line_end": 57,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "2b1dafadfa80c3f9dfa1fee7bbe6a89001efb1f2436f6b072986d2274d635918",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0145-p0148:s03:x00",
+      "section_type": "historical_use",
+      "original_text": "            Name und Geschichte.                Scammonium kommt von oxerr&wo, graben und oxduue, die Grube,\n im Anschluss an die breite Rinne, welche man bei der Milchsaftgewinnung schon von Alters\n her um die Pflanze zu machen pflegte. Convolwulus von comvolvo, zusammenwickeln. — Der\n erhärtete Milchsaft hiess bei den Griechen auch Diagrydium; Flückiger leitet den Namen\n von ddxgv, Thräne, und ihrem Diminutivum                       daxgvdıov, „Thränchen, Tröpfchen“                 ab von der Form\n der besten Sorte. Der Milchsaft hiess auch Colophon, nach der nahe Smyrna gelegenen Stadt;\n es ist schon seit den ältesten Zeiten bekannt, und schon in jenen fernen Tagen wurde über\n die vielfachen Verfälschungen der Droge geklagt. — Im. 10. Jahrhundert wurde das Mittel\n in England eingeführt; im 16. Jahrhundert kultivierte man die Pflanze in Venezien; im\n Jahre 1856 wurde einem englischen Arzte in Smyrna ein Patent erteilt auf die Darstellung\n besonders       reinen    Scammoniums,            des sog. Patent-Scammonium.",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源於挖掘乳汁的溝槽。希臘稱 Diagrydium。10世紀傳入英國，16世紀威尼斯栽培，1856年獲專利純化。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 146,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 467,
+        "char_end": 1499,
+        "page_text_sha256": "d5f7e81f9a5b7a882939b1fb1533f4b6002f2b516adcfccfc47576a972f71b9e",
+        "exact_text_sha256": "913527ded7f68f2c4aed3b7b2874f4f754fdfb4673e41cd870c700f50c04e455",
+        "source_line_start": 7,
+        "source_line_end": 17,
+        "section_index": 3,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "913527ded7f68f2c4aed3b7b2874f4f754fdfb4673e41cd870c700f50c04e455",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0145-p0148:s04:x00",
+      "section_type": "constituents",
+      "original_text": "         Bestandteile. Das reine Scammoniumharz besteht zum grössten Teil aus einem\n Glycosid, welches zuerst Scammonin genannt wurde, dessen Ähnlichkeit mit dem in den\n sogenannten        Jalapenstengeln,       den Wurzeln          der    Ipomoea    orizabensis     Ledanois     (Convolvulaceae)\n enthaltenen Jalapin schon bald nach seiner Darstellung durch Johnston 1840 erkannt wurde.\n Spätere Arbeiten von Spirgatis 1860 bewiesen die Identität von Scammonin und Jalapin,\n welche     durch    die Versuche       von     Samelson       1883 und Kroner             1892   bestätigt wurde.      Unter-\n suchungen des Jalapins wurden von den genannten Chemikern und von Poleck 1892 ver-\n öffentlicht, aus denen im wesentlichen Folgendes hervorgeht:",
+      "normalized_text": null,
+      "zh_tw_rendering": "純樹脂主要含糖苷 Scammonin，後證實與 Jalapin 相同。1840 年 Johnston 發現，1860 年 Spirgatis 確認。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 147,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 4724,
+        "char_end": 5471,
+        "page_text_sha256": "faf148e3a0fb394adb1aeccdbef9476680f1c490c4a1754a841d95a6397f656f",
+        "exact_text_sha256": "f82cdcf01b306fe959881407e3acd8a83b642fc86022789c30fe1c3faaa412b5",
+        "source_line_start": 54,
+        "source_line_end": 61,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "f82cdcf01b306fe959881407e3acd8a83b642fc86022789c30fe1c3faaa412b5",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "2b74db7251b191a1937952b831b8b058f08ccc4641af083901d3a77f711f055e",
+    "maker_receipt_sha256": "6a4787bdf6dafe831106bb5483a20f9b2a4ce3994470400ecab2f0ddf199d3ef",
+    "validation_check_sha256": "d982d99233259da82baef81ab52077e518cf374d45e26ffc1ab09f30d16bcb29",
+    "source_disposition_sha256": "3f3d82a7649ff142d8f80644ac29ee9a561d52b02e5742a98e537142697ca1a5",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "6a4787bdf6dafe831106bb5483a20f9b2a4ce3994470400ecab2f0ddf199d3ef",
+      "validation_check_sha256": "d982d99233259da82baef81ab52077e518cf374d45e26ffc1ab09f30d16bcb29",
+      "source_disposition_sha256": "3f3d82a7649ff142d8f80644ac29ee9a561d52b02e5742a98e537142697ca1a5"
+    },
+    "naming_artifact_sha256": "bc8a8acb05389079b420f02c2d1c9984b6f29668becc3ef72fb4b163d913a9b1"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "9e7671ab2c8a05e53793f87c8e242161d6012ee06689262c6b90dc871673433f"
+}

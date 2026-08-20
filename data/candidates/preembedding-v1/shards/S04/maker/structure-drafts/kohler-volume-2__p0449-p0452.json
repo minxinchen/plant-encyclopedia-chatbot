@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0449-p0452",
+  "owner_shard": "S04",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 147.677,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0449-p0452",
+    "book_taxon": {
+      "scientific_name_candidate": "Curcuma longa L.",
+      "authorship_candidate": null,
+      "aliases_candidates": [
+        "Amomum Curcuma Jacq.",
+        "Curcuma long et rond",
+        "Curcuma rotunda",
+        "Crocus indicus",
+        "Kysreigog Ivdırög",
+        "cypira",
+        "Kizegoc"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 449,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "薑黃，學名 Curcuma longa L.，同義名 Amomum Curcuma Jacq.，屬薑科。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          6
+        ],
+        "exact_source_quote": "                                            Curcuma longa L.\n                                           Syn. Amomum      Curcuma Jacq.\n\n                      Gelbwurzel, Kurkuma — Curcuma long et rond                     — Turmeric.\n\n               Familie:   Zingiberaceae (Unterfamilie: Hedychieae Hor.); Gattung: Curcuma L."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 449,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "多年生植物，具4公分粗塊莖，節間有葉痕，根莖淡黃，內深黃，具細根。",
+        "warnings": [],
+        "source_line_range": [
+          8,
+          20
+        ],
+        "exact_source_quote": "            Beschreibung. Eine ausdauernde Pflanze mit einem 4 Ctm. dicken, knolligen Rhizom,\n  dessen rundliche bis birnfórmige Glieder durch Blattnarben quer geringelt und zwischen diesen Ringen\n  durch schwach vortretende Korkleisten schräg gestreift sind. Die walzenförmigen, gleichfalls durch\n  Blattnarben geringelten, bis über 10 Ctm. langen, 1٩‫و‬‎ Ctm. dicken, blassgelben, innen sattgelben\n  Deitenäste sind mit feinen, einfachen, faserigen oder auch an der Spitze zu stärkereichen, eiförmigen\n  Knollen angeschwollenen Wurzeln besetzt, die zum Theil rein weiss bleiben, zum Theil gelb gefärbt\n  erscheinen. A. Meyer sagt über die Wachsthumsverhältnisse der unterirdischen Organe folgendes:\n  In jeder Blattachsel der Knolle entwickelt sich eine Knospe, aus der wenig gestreckte, dicke Inter-\n  nodien hervorgehen, welche nach unten in die Erde wachsen; der Vegetationspunkt ist von kleinen,\n  weissen Scheidenblüttern umhüllt. An diesen Zweigen treten dann später wieder neue Triebe auf, die\n  sich umbiegen und nach oben wachsend Scheidenblätter und über den Boden sich erhebende Laub-\n  blätter entwickeln. Die unterirdische“   Axe der Laubknospe schwillt dann an, füllt sich mit Stärke\n  und   wird    zum   Knollen,   die man   früher als Curcuma    rotunda   unterschied   und annahm,   dass sie von"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 450,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "莖圓形，皮橙褐，含澱粉粒與草酸鈣結晶，中皮含薑黃素與精油。",
+        "warnings": [],
+        "source_line_range": [
+          17,
+          27
+        ],
+        "exact_source_quote": "          Anatomisches. Das              Rhi  zom     ist  im   Umf  ang  e    kre isr und ,    mit   dic ker ,   ora  nge bra une  r   Rin de\n versehen, welche durch eine           Ker nsc  hei de     vom     ora  nge gel ben     Hol  ze    get ren nt   ist.    Die    Aus sen  rin de\n besteht aus 5—10      Lag en    Kor kze lle n;     die   Mit tel rin de   aus   ein em     Par enc hym ,   das    aus   run dli che  n   ode r\n länglichen Zellen zus   amm  eng ese tzt      ist,   wel che     mit    ein  em   bla  ssg elb en   Kle ist erm  ehl e    ang efü llt    sind .\n Nach Meyer     ist der  Zell saft   dies es  Gewe   bes    in   der   lebe  nden   Cur  cum  a   farb los;   der   feste   Inha lt   best eht     .\n aus grossen, scheibenfórmigen Stürkekórnern und kleinen Krystallen von Calciumoxalat. Zwischen dem\n Parenchym der Mittelrinde befinden sich grössere, verkorkte Zellen, welche Curcumin und ätherisches\n Oel enthalten, und ausserdem Gefässbündel, welche in diese Schicht eingestreut sind. Die Kernscheide\n zeigt wenige Reihen, stellenweise nur eine Reihe von tangential gestreckten, flachen, inhaltslosen Holz-\n zellen, welchen sich nach innen nahe aneinander gerückte Gefässbündel anschliessen. Das Holz ist im\n Bau und Inhalt der Mittelrinde gleich, nur stehen die Gefässbündel dichter."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 450,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產南亞，現已無野生，栽培於中國南部、東部、台灣、印度、錫蘭、爪哇等地。",
+        "warnings": [],
+        "source_line_range": [
+          29,
+          31
+        ],
+        "exact_source_quote": "         Vorkommen, Curcuma longa ist in Südasien einheimisch, jedoch in wildem Zustande nicht\n mehr anzutreffen. Im südlichen und östlichen China, auf Formosa, in Ostindien, auf Ceylon, Java,\n Bourbon und in Westindien kultivirt."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 451,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含黃色精油、薑黃素、樹脂、澱粉、膠質及微量生物鹼。",
+        "warnings": [],
+        "source_line_range": [
+          32,
+          39
+        ],
+        "exact_source_quote": "            Bestandtheile. Nach Pelletier und Vogel enthalten die Wurzeln von Curcuma gelbes\n  ätherisches Oel, eigenthümliches gelbes Harz (Curcumin), gelben Extraktivstoff, Stärkemehl, Gummi.\n  J. Cooke will noch 2 Alkaloide entdeckt haben; I. Gajewsky fand ein Alkaloid in sehr geringer\n  Menge. Kachler erhielt ca. 8%, eines dunkelrothen, dickflüssigen, scharf aromatischen Oeles, welches\n  sich zwar nicht verseifte, jedoch auf Papier bleibende Fettflecke zurückliess; derselbe Autor fand auch\n  saures Kaliumoxalat. Die concentrirten wässerigen Auszüge der Wurzel haben einen bitteren Geschmack;\n  Gerbsäure     erzeugt in denselben    einen  Niederschlag .     Schwefelkohl  enstoff      entzieht    der  Wurzel     reich-\n  lich Fett."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 452,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史用途：曾作健胃、利尿及黃疸藥，現主要用於染色、香料及咖喱粉。",
+        "warnings": [
+          "Content describes historical medical use; not modern medical advice."
+        ],
+        "source_line_range": [
+          21,
+          26
+        ],
+        "exact_source_quote": "            Anwendung.                 Früher innerlich   in Pulverform       als    aromatisches    Stomachicum,     Diureticum\nund Gelbsuchtmittel; jetzt nur noch als gelb färbende Substanz für cosmetische und pharmazeutische\nPräparate. In der Chemie als Reagens auf Alkalien. In der Färberei, jedoch in beschränkter Weise,\nzum Färben von Wolle, Seide, Holz; zur Herstellung von Buntpapier; als Gewürz; zum Färben von\nGebäck,     Butter, Käse, Oel, Firnis, Salben;             in England       namentlich     als Hauptbestandtheil      des     Curry-\npowder.      (Husemann, Arzneimittell. 405.)"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "337eab638ab258c2d76d66b9076f3a0d8f440d9a00b98a239abaccc06cdeee84"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "植物圖文百科 Loop"
+  short_description: "以證據門檻驅動植物百科的抽取、名稱對照、圖像審查與停止條件"
+  default_prompt: "Use $plant-encyclopedia-loop to run one bounded iteration from durable state, obtain independent evidence, record the verdict, and stop safely."

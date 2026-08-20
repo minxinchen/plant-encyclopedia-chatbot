@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 425,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "0d127e997a1e2727e53f61f115e08ad602eabf3c0c967f99421157524427b965",
+  "render_dpi": 144,
+  "render_sha256": "6a62c805f00d7c08d6b1a94d6aeeba8cd7e4660139f0607c70beae22e7e27eca",
+  "input_sha256": "6a62c805f00d7c08d6b1a94d6aeeba8cd7e4660139f0607c70beae22e7e27eca",
+  "render_pixel_width": 5750,
+  "render_pixel_height": 8138,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.381,
+  "embedded_character_count": 242,
+  "ocr_character_count": 63,
+  "ocr_alpha_ratio": 0.6667,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.0260419902347383,
+      "text": "Borragineae",
+      "width": 0.10439139382881027,
+      "x": 0.14969749297417825,
+      "y": 0.9529475037356093
+    },
+    {
+      "confidence": 1,
+      "height": 0.021204331564524836,
+      "text": "(Anchuseae)",
+      "width": 0.09891032971833882,
+      "x": 0.15383025694421568,
+      "y": 0.9370722526114167
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372621082103,
+      "text": "13",
+      "width": 0.022587269565515378,
+      "x": 0.6940451743548193,
+      "y": 0.8037790693435287
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "8",
+      "width": 0.01642710501687561,
+      "x": 0.7186858313724657,
+      "y": 0.6642441861115184
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "12",
+      "width": 0.018480492307428723,
+      "x": 0.11498973329187086,
+      "y": 0.4186046513450772
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "10",
+      "width": 0.014373716387832358,
+      "x": 0.7679671458871927,
+      "y": 0.28924418629687243
+    },
+    {
+      "confidence": 1,
+      "height": 0.023330795386480863,
+      "text": "Macrotomia cephalotes DC.",
+      "width": 0.21971251370614037,
+      "x": 0.38398358074446565,
+      "y": 0.031976744550619385
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436846943,
+      "text": "25",
+      "width": 0.020533880936472015,
+      "x": 0.9383983570676984,
+      "y": 0.027616278953088158
+    }
+  ],
+  "text": "Borragineae\n(Anchuseae)\n13\n8\n12\n10\nMacrotomia cephalotes DC.\n25",
+  "output_sha256": "e5d450135a6296e9c54b4e58d630745e6a770bc3549d5c909237fb1a0babc535",
+  "receipt_sha256": "79bf2bdc2cb7bf728d44a350ef3a2a202221ea4006e15b3d1287bf690890c178"
+}

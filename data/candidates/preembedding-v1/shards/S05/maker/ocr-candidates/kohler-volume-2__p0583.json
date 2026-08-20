@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 583,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "d1c713dc845eba49a51824dac27c88d08dabb83640b4905facb86905caa9a9f9",
+  "render_dpi": 144,
+  "render_sha256": "548e51b45c7bde84bd5079cd013fb775acc230fd9139b11cf084b2a3374c2073",
+  "input_sha256": "548e51b45c7bde84bd5079cd013fb775acc230fd9139b11cf084b2a3374c2073",
+  "render_pixel_width": 5678,
+  "render_pixel_height": 7994,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.31,
+  "embedded_character_count": 122,
+  "ocr_character_count": 62,
+  "ocr_alpha_ratio": 0.7903,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.025372262038881765,
+      "text": ": beguminosae.",
+      "width": 0.1500820607446426,
+      "x": 0.7725902062657407,
+      "y": 0.9288113662878544
+    },
+    {
+      "confidence": 1,
+      "height": 0.025051171817476847,
+      "text": "(Papilionaceae:)",
+      "width": 0.16983226158099463,
+      "x": 0.7647771201476131,
+      "y": 0.9082592976050801
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "2",
+      "width": 0.008179958972185014,
+      "x": 0.0695296523134985,
+      "y": 0.3459302328993433
+    },
+    {
+      "confidence": 1,
+      "height": 0.024709302281576417,
+      "text": "Astragalus adscendens Boiss.",
+      "width": 0.35787320270218664,
+      "x": 0.31492843290248534,
+      "y": 0.10755813957142113
+    }
+  ],
+  "text": ": beguminosae.\n(Papilionaceae:)\n2\nAstragalus adscendens Boiss.",
+  "output_sha256": "166c4223bfac0452d3c06460098634ff1c56a3e7ddb11115a4fd18db7386beef",
+  "receipt_sha256": "436c2b4462b8db034ed7e94b8f793e8b8068ce3a6c53e8f05829269e1a7d9926"
+}

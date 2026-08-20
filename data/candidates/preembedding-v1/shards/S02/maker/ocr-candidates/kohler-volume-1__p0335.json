@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 335,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "c5a57eabb938371f5e03f36e603c8e5f6fc8fab90ac06327a50e81e364e6be4f",
+  "render_dpi": 144,
+  "render_sha256": "d0a0b223259e70533135b2da918cd8503d9c93bd737855275c062c0b3009165b",
+  "input_sha256": "d0a0b223259e70533135b2da918cd8503d9c93bd737855275c062c0b3009165b",
+  "render_pixel_width": 5726,
+  "render_pixel_height": 7946,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.668,
+  "embedded_character_count": 302,
+  "ocr_character_count": 78,
+  "ocr_alpha_ratio": 0.7179,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.022544454014490567,
+      "text": "Euphorbiaceae.",
+      "width": 0.14134626920192062,
+      "x": 0.7881978314749536,
+      "y": 0.9371289360472208
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729363,
+      "text": "8",
+      "width": 0.014112903098771223,
+      "x": 0.8447580644956413,
+      "y": 0.6453488373722089
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252612005,
+      "text": "11",
+      "width": 0.014112903098771223,
+      "x": 0.635080645365937,
+      "y": 0.183139535132415
+    },
+    {
+      "confidence": 1,
+      "height": 0.014840117049595647,
+      "text": ".W. Müller nd. Nat.",
+      "width": 0.1008903676693963,
+      "x": 0.8205225589409733,
+      "y": 0.148103197547362
+    },
+    {
+      "confidence": 1,
+      "height": 0.023353866168430937,
+      "text": "Mallotus philippinensis Müller Arg.",
+      "width": 0.3608871008393196,
+      "x": 0.2983870944140095,
+      "y": 0.11627907019015427
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "50",
+      "width": 0.01612903230040963,
+      "x": 0.8911290321159242,
+      "y": 0.026162790879960762
+    }
+  ],
+  "text": "Euphorbiaceae.\n8\n11\n.W. Müller nd. Nat.\nMallotus philippinensis Müller Arg.\n50",
+  "output_sha256": "d51203ebccce84dffc0fdff8400f527228e6417de43eff28813e9e9094367f2c",
+  "receipt_sha256": "958c25e62ac5a46e71564faaa2a900d2852371e4b33c678b06349e3e0896a9fb"
+}

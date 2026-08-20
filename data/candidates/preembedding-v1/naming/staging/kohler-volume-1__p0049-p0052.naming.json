@@ -1,0 +1,131 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-1:p0049-p0052",
+  "owner_shard": "S01",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S01/maker/structure-drafts/kohler-volume-1__p0049-p0052.json",
+  "source_draft_sha256": "178768ca26860e456e2f06d088b7fe691361603098dc76da78782bef662dcbcd",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "37d8b6ebb2f4d94bb3c2adfd7ecae98604fcdc4696ef4326263f9e1663f87d78",
+    "validation_check_sha256": "12b6ebde6bab891403d0b4eb1ab59c7ef3185bcc87d28bd64314f0c1abd915aa",
+    "source_disposition_sha256": "cb8b69f5f36d25f9b863523e24585acb02da42ec9fa851806140036e26e21ad8",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Linum usitatissimum",
+    "authorship_candidate": null,
+    "aliases_candidates": [
+      "Flachs",
+      "Lein",
+      "Flax",
+      "Cultivated Flax",
+      "Lin",
+      "Linum vulgare Bonngh.",
+      "Linum usit. var. humile Mill.",
+      "Linum crepitans Bonngh."
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Linum usitatissimum"
+    ],
+    "accepted_scientific_name": "Linum usitatissimum",
+    "display_name_zh_tw": "亞麻",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0054255",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary",
+    "rationale": "TaiCOL accepts the queried book binomial at species rank.",
+    "checked_at": "2026-08-13T15:20:27+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Linum usitatissimum",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Linum+usitatissimum",
+      "retrieved_at": "2026-08-13T15:20:27+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Linum usitatissimum",
+          "matched_name_id": 22859,
+          "taxon_id": "t0054255",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Linum usitatissimum",
+          "accepted_name_id": 22859,
+          "accepted_usage": [
+            {
+              "usage_id": 286850,
+              "reference_id": 3024,
+              "reference_type": "Journal Article",
+              "publish_year": 2022,
+              "citation": "Chang-Yang, C.-H., Su, M.-h., Chiang, P.-H. & Hsieh, C.-F. (2022) Updating the Checklist of the Naturalized Flora in Taiwan. <i>Taiwania</i> 67(1): 1–8.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 328026,
+              "reference_id": 3200,
+              "reference_type": "Journal Article",
+              "publish_year": 2017,
+              "citation": "Chao, C.-T., Chen, P.-H. & Tseng, Y.-H. (2017) Linum usitatissimum L. (Linaceae), a newly naturalized species in Taiwan = 臺灣一新馴化植物-亞麻 (亞麻科). <i>Quarterly Journal of Forest Research = 林業研究季刊</i> 39(2): 107–111.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 116647,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 3140,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0054255",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0054255",
+          "taxon": {
+            "taxon_id": "t0054255",
+            "taxon_status": "accepted",
+            "name_id": 22859,
+            "simple_name": "Linum usitatissimum",
+            "name_author": "L.",
+            "rank": "Species",
+            "common_name_c": "亞麻",
+            "alternative_name_c": null,
+            "synonyms": "Linum usitatissimum var. humile, Linum humile, Linum usitatissimum var. usitatissimum, Linum crepitans, Linum indehiscens",
+            "is_in_taiwan": true,
+            "alien_type": "naturalized",
+            "alien_status_note": "naturalized: Chang-Yang et al., 2022 (Origin: Mediterranean region)|naturalized: Chao et al., 2017|naturalized: 由日本北海道引入; 沒有入侵性",
+            "not_official": false,
+            "updated_at": "2026-06-11"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

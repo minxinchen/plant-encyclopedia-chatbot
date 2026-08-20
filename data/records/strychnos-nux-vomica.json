@@ -1,0 +1,104 @@
+{
+  "record_id": "kohler-v2-strychnos-nux-vomica",
+  "book_taxon": {
+    "scientific_name": "Strychnos Nux vomica",
+    "authorship": "L.",
+    "aliases": [],
+    "book_common_names": [
+      "Gemeiner Krähenaugenbaum",
+      "Brechnussbaum",
+      "Vomiquier",
+      "Braaknoot"
+    ]
+  },
+  "display_name": "馬錢",
+  "materia_medica_names": [
+    {
+      "name": "馬錢子",
+      "name_type": "taiwan_materia_medica",
+      "plant_part": "乾燥成熟種子",
+      "authority": "國家中醫藥研究所《馬錢子研究資料》",
+      "url": "https://qatcm.nricm.edu.tw/images/uploads/2024/10/93f60f6ab055549.pdf",
+      "checked_at": "2026-08-11T20:34:00+08:00"
+    }
+  ],
+  "name_resolution": {
+    "status": "taiwan_public_name",
+    "query_name": "Strychnos nux-vomica",
+    "accepted_scientific_name": "Strychnos nux-vomica L.",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-11T20:34:00+08:00",
+    "sources": [
+      {
+        "authority": "國家中醫藥研究所《馬錢子研究資料》",
+        "url": "https://qatcm.nricm.edu.tw/images/uploads/2024/10/93f60f6ab055549.pdf",
+        "source_id": null,
+        "result": "臺灣官方研究資料將植物 Strychnos nux-vomica L. 稱為馬錢、藥材稱馬錢子，並記載現今臺灣有栽培。"
+      },
+      {
+        "authority": "衛生福利部",
+        "url": "https://www.mohw.gov.tw/fp-16-18326-1.html",
+        "source_id": null,
+        "result": "衛福部安全資料將馬錢子說明為植物馬錢的乾燥成熟種子，並明確標示有毒、不可自行使用。"
+      }
+    ]
+  },
+  "book_evidence": [
+    {"source_id": "kohler-volume-2", "pdf_page": 141, "printed_page": null, "evidence_type": "text", "ocr_quality": "usable"},
+    {"source_id": "kohler-volume-2", "pdf_page": 142, "printed_page": null, "evidence_type": "text", "ocr_quality": "usable"},
+    {"source_id": "kohler-volume-2", "pdf_page": 143, "printed_page": null, "evidence_type": "text", "ocr_quality": "usable"},
+    {"source_id": "kohler-volume-2", "pdf_page": 144, "printed_page": null, "evidence_type": "caption", "ocr_quality": "usable"}
+  ],
+  "sections": [
+    {
+      "section_type": "taxonomy",
+      "original_text": "Strychnos Nux vomica L.\n            Gemeiner       Krähenaugenbaum,            Brechnussbaum         —      Vomiquier —         Braaknoot.\n\n            Familie:       Loganiaceae.      Gattung: Strychnos L.\n            ",
+      "normalized_text": "Strychnos Nux vomica L. Familie: Loganiaceae. Gattung: Strychnos L.",
+      "zh_tw_rendering": "本書以 Strychnos Nux vomica L. 收錄，列於馬錢科 Strychnos 屬；臺灣公開植物名採「馬錢」。",
+      "evidence_indexes": [0]
+    },
+    {
+      "section_type": "distribution",
+      "original_text": "Vorkommen.                  In Ostindien,        Hinterindien,    Nordaustralien,      hauptsächlich    in   den   Küsten-\n gebieten vorkommend; vorzüglich auf der Coromandel- und Malabarküste; auch auf Ceylon. Der Krähen-\n augenbaum verbreitet sich in das Innere von Birma und erhebt sich dort bis zu 600 Meter Meereshöhe.\n             ",
+      "normalized_text": "Vorkommen in Ostindien, Hinterindien und Nordaustralien, hauptsächlich in Küstengebieten; auch auf Ceylon und bis ins Innere von Birma.",
+      "zh_tw_rendering": "本書記載其分布於東印度、中南半島與澳洲北部，主要在沿海地區，也見於錫蘭與緬甸內陸；臺灣栽培資訊來自外部命名資料，不是本書的分布敘述。",
+      "evidence_indexes": [1]
+    },
+    {
+      "section_type": "other",
+      "original_text": "Geschmack und sind se\n                                                                     hr giftig. Aufbewahrung erfolgt\nin geraspeltem oder gepulvertem Zustande. Die Pulverung ist in Folg\n                                                                     ",
+      "normalized_text": "Die Brechnüsse haben einen starken, anhaltend bitteren Geschmack und sind sehr giftig.",
+      "zh_tw_rendering": "本書在種子敘述中也明確記載其有毒；OCR 將 sehr 拆行，正規化只修復斷行，不增加新事實。",
+      "evidence_indexes": [1]
+    },
+    {
+      "section_type": "constituents",
+      "original_text": "Das Strychnin ist eine der stärksten organi-\nschen Basen, welche die stärksten Säuren vollständig neutralisirt und viele Metalloxyde aus ihren Salz-\nlösungen fällt. Es bildet meist gut krystallisirbare Salze von stark bitterem Geschmack, darunter das\nmedizinisch wichtige salpetersaure Strychnin (C,, H,,N,0,, NHO,). Es ist sehr giftig.             |\n         ",
+      "normalized_text": "Das Strychnin ... Es ist sehr giftig.",
+      "zh_tw_rendering": "本書在士的寧（Strychnin）段落明確寫道「非常有毒」。這是書中毒性記載，不構成使用建議。",
+      "evidence_indexes": [2]
+    },
+    {
+      "section_type": "historical_use",
+      "original_text": "Anwendung.            In Substanz,    Extrakt,     Tinktur,    namentlich       zur    Darstelluug      der    Alkaloide.\nDie Krähenaugen finden Anwendung                 bei Magenleiden verschiedener Art (Magenkrampf,                       chronischem\nMagenkatarrh,     Verdauungsschwäche),           bei Ruhr, Durchfall, Cholera, verschiedenen                  Nervenleiden,     Neu-\nralgie, Lähmungen.",
+      "normalized_text": null,
+      "zh_tw_rendering": "本書記載若干歷史用途，但馬錢／馬錢子具有高度毒性；本段只作歷史文獻摘要，禁止轉成現代治療、劑量或自行使用建議。",
+      "evidence_indexes": [2]
+    },
+    {
+      "section_type": "plate_description",
+      "original_text": "Tafelbeschreibung:\n           A blühender Zweig, natürl. Grösse; 1 Blumenkrone mit den Staubgefässen, aufgeschnitten und ausgebreitet,\nvergrössert; 2 Staubgefässe von der Vorder- und Rückseite, desgl 3 Pollen, desgl; 4 Stempel mit Kelch, desgl.;\n9 Fruchtknoten im Längs- und Querschnitt, desgl; 6 Frucht im Querschnitt, natürl. Grösse; 7 Same, desgl.; 8 der-\nselbe im Querschnitt, desgl.; 9 derselbe im Langsschnitt, parallel mit den Seitenflächen, desgl. Nach einer Original-\nzeichnung des Herrn Prof. Schmidt in Berlin.\n",
+      "normalized_text": null,
+      "zh_tw_rendering": "圖版文字說明包含開花枝、花冠、雄蕊、花粉、雌蕊、子房、果實與種子的切面；本輪只核准圖版說明文字，尚未核准圖像推理。",
+      "evidence_indexes": [3]
+    }
+  ],
+  "review_status": "sample_reviewed",
+  "warnings": [
+    "馬錢是臺灣公開植物名；馬錢子是其乾燥成熟種子的藥材名，兩者不可混作同一名稱欄位。",
+    "臺灣有栽培的 occurrence 資訊來自國家中醫藥研究所，不代表本書聲稱臺灣原生或分布。",
+    "書中用途僅屬歷史文獻；馬錢與士的寧高度有毒，聊天系統不得提供現代醫療、劑量或自行使用建議。",
+    "第 142 頁另述 Strychnos Ignatii，不得把其內容併入本物種。",
+    "本輪只核准 PDF 141–144 頁文字；植物圖版本身尚未接受圖像推理審查。"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "run_id": "production2-piper-selection-decision-2026-08-12",
+  "decided_at": "2026-08-12T16:30:00+08:00",
+  "selector_report_before_selection": "reports/production-candidate-selection-2026-08-12.json",
+  "selected": {
+    "source_id": "kohler-volume-2",
+    "taxon": "Piper nigrum L.",
+    "pdf_pages": [293, 294, 295, 296],
+    "next_entry_pdf_page": 297,
+    "next_entry_taxon": "Coriandrum sativum L.",
+    "raw_ocr_rank_before_promotion": 2,
+    "raw_ocr_score": 122.8555
+  },
+  "decision": "selected_after_secondary_gates",
+  "secondary_gates": {
+    "maximum_adjacent_pages": true,
+    "next_taxon_boundary_visible": true,
+    "taiwan_public_name_directly_verified": true,
+    "taiwan_occurrence_separated": true,
+    "pdf_page_images_reviewed": true,
+    "related_piper_ranges_excluded": true,
+    "source_range_contract_passed": true
+  },
+  "taiwan_display_name": "胡椒",
+  "taiwan_occurrence": {
+    "tai2_status": "Non-Taiwanese",
+    "moa_status": "limited cultivation recorded in Liugui, Kaohsiung",
+    "interpretation": "recorded cultivation, not Taiwan-native occurrence"
+  },
+  "not_claimed": [
+    "OCR rank alone did not authorize promotion.",
+    "Related Piper taxa mentioned inside the historical entry were not promoted as Piper nigrum facts.",
+    "Taiwan cultivation is not native occurrence.",
+    "Plate captions were reviewed as text; image reasoning remains disabled."
+  ]
+}

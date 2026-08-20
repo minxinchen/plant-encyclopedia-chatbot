@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-4",
+  "volume": 4,
+  "pdf_page": 71,
+  "owner_shard": "S08",
+  "source_pdf": "/Volumes/NO NAME/第四集 mobot31753003431696.pdf",
+  "source_text_sha256": "40d180d4f96980188a48cec75fddee5e570ab513f82d901b4dee3c7523b62611",
+  "render_dpi": 144,
+  "render_sha256": "94499c15a94becb7e303ec4e83900541c669d5147b53071dea99b617399e0758",
+  "input_sha256": "94499c15a94becb7e303ec4e83900541c669d5147b53071dea99b617399e0758",
+  "render_pixel_width": 5768,
+  "render_pixel_height": 8274,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 5.344,
+  "embedded_character_count": 232,
+  "ocr_character_count": 70,
+  "ocr_alpha_ratio": 0.7857,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.0162192043803987,
+      "text": "Tatel 2",
+      "width": 0.06677984072168386,
+      "x": 0.037443412765298965,
+      "y": 0.9664543516106218
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441861213199683,
+      "text": "Algae",
+      "width": 0.05208333152456279,
+      "x": 0.8520833344981353,
+      "y": 0.9593023252654932
+    },
+    {
+      "confidence": 1,
+      "height": 0.01889534791310621,
+      "text": "Florideae",
+      "width": 0.08541666630491251,
+      "x": 0.8354166661704605,
+      "y": 0.9389534889916058
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372621082103,
+      "text": "(Rhodophyllidaceae)",
+      "width": 0.16041665870807587,
+      "x": 0.7937500053161008,
+      "y": 0.9215116277035094
+    },
+    {
+      "confidence": 1,
+      "height": 0.018941490423111773,
+      "text": "Eucheuma spinosum (L.) Ag.",
+      "width": 0.22083333478034983,
+      "x": 0.3687500011167695,
+      "y": 0.02470930279974526
+    }
+  ],
+  "text": "Tatel 2\nAlgae\nFlorideae\n(Rhodophyllidaceae)\nEucheuma spinosum (L.) Ag.",
+  "output_sha256": "3e2d3b888b576d8a83dfeb7d7f16bf4b18923f64b9fd0e3128a1f385f47a388e",
+  "receipt_sha256": "a35e90ea9cef6ebb560c13bdeb4d97a45f61a2f753b50e72361ad7c9cbc50a2e"
+}

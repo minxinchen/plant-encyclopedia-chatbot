@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "timestamp": "2026-08-11T11:25:16+08:00",
+  "run_id": "podophyllum-portable-embedding-correction-2026-08-11",
+  "batch_id": "volume-1-podophyllum-peltatum-pages-191-192",
+  "hypothesis": "The existing bounded sample can be corrected to the documented gemini-embedding-2 question-answering prompt contract and made portable without losing source traceability, refusal behavior or the zero-cost boundary.",
+  "maker": {
+    "tools": [
+      "Context7 MCP official Gemini API and n8n documentation indexes",
+      "Google Gemini API Free Tier gemini-embedding-2",
+      "provider-neutral JSONL chunk export",
+      "local SQLite checkpoint store"
+    ],
+    "artifacts": [
+      "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/config/embedding-profile.json",
+      "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/chunks/podophyllum-peltatum.jsonl",
+      "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/reports/embedding-podophyllum-peltatum-2026-08-11.json",
+      "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/exports/google-gem/approved-evidence-pack.md"
+    ],
+    "external_model_calls": 4,
+    "recovery_external_model_calls": 0,
+    "incremental_usd": 0,
+    "paid_fallback_used": false
+  },
+  "checker": {
+    "tools": [
+      "validate-embedding-batch.py source hash, portable chunk, prompt contract, vector-space, dimension, norm, retrieval and refusal gates",
+      "n8n imported workflow inspection"
+    ],
+    "result": "passed"
+  },
+  "results": {
+    "embedding_profile": "google-gemini-embedding-2-768-qa-v1",
+    "vector_space_id": "gemini-embedding-2__768__qa-prefix-v1",
+    "api_task_type_field_used": false,
+    "portable_chunks": 2,
+    "answerable_query": {
+      "question": "哪一種植物的根莖及其樹脂在書中被記載用於習慣性便秘？",
+      "top_pdf_page": 192,
+      "top_cosine_similarity": 0.709438,
+      "verdict": "passed"
+    },
+    "unanswerable_query": {
+      "question": "天秤座相關的植物是什麼？",
+      "nearest_pdf_page": 191,
+      "top_cosine_similarity": 0.555775,
+      "supporting_relation_terms": [],
+      "verdict": "passed_refusal_gate"
+    },
+    "checkpoint_recovery": {
+      "initial_calls_completed_before_report_error": 4,
+      "calls_used_to_rebuild_report": 0,
+      "verdict": "passed"
+    },
+    "google_gem": {
+      "classic_gem_drive_pack": "ready",
+      "opal_http_adapter": "contract_ready_account_capability_not_yet_verified"
+    },
+    "chunking": {
+      "current_sample": "page_baseline",
+      "next_bounded_comparison": [
+        "section-aware-512-100",
+        "section-aware-1024-200"
+      ],
+      "full_book_profile_promoted": false
+    }
+  },
+  "verdict": "promote",
+  "promotion_scope": "Only the corrected portable profile and the same two Podophyllum page vectors are approved. Full-volume embedding and direct Opal external HTTP support are not inferred.",
+  "n8n": {
+    "workflow_id": "PEHybridIdx001",
+    "workflow_name": "Plant Encyclopedia - Hybrid Index Batch",
+    "active": false,
+    "portable_path_environment": true
+  }
+}

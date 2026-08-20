@@ -1,0 +1,168 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-2:p0179-p0182",
+  "owner_shard": "S03",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S03/maker/structure-drafts/kohler-volume-2__p0179-p0182.json",
+  "source_draft_sha256": "abd0d3137bf841edc4677a2c9b4dc11fb09e9058d528f0e284f07ad95525dcba",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "6dea3edf6bc6f16a09b6577ac86d1becdfd75fb0596470583856e58031ce2848",
+    "validation_check_sha256": "43fad1893d0a654e8fd5955e190a7c08573040b6d6ec50d4580149cb8dfe26f3",
+    "source_disposition_sha256": "6fea021ef0103bdd5fb58fffc4bec44f6e3ca3f48a5419094c58f92f958dca85",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Acacia Catechu",
+    "authorship_candidate": "Willd.",
+    "aliases_candidates": [
+      "Mimosa Catechu L. fil",
+      "Mimosa Sundra Roxb.",
+      "Acacia Suma Kurz",
+      "Mimosa Suma Roxb."
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Acacia Catechu",
+      "Acacia catechu"
+    ],
+    "accepted_scientific_name": "Acacia catechu",
+    "display_name_zh_tw": "兒茶",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0060767",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary",
+    "rationale": "TaiCOL accepts the queried book binomial at species rank.",
+    "checked_at": "2026-08-13T18:41:33+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Acacia Catechu",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Acacia+Catechu",
+      "retrieved_at": "2026-08-13T18:41:33+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Acacia",
+          "matched_name_id": 531,
+          "taxon_id": "t0023075",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Acacia",
+          "accepted_name_id": 531,
+          "accepted_usage": [
+            {
+              "usage_id": 179489,
+              "reference_id": 2454,
+              "reference_type": "Book",
+              "publish_year": 2017,
+              "citation": "Ed. Comm. Red List TW Plants,  (2017) The Red List of Vascular Plants of Taiwan, 2017 = 2017 臺灣維管束植物紅皮書名錄.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 275849,
+              "reference_id": 549,
+              "reference_type": "Book Chapter",
+              "publish_year": 1993,
+              "citation": "Huang, T.-C. & Ohashi, H. (1993) 57. Leguminosae. In: Flora of Taiwan, 2 ed., vol. 3. 160–396.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 6254,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": null
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0023075",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0023075",
+          "taxon": {
+            "taxon_id": "t0023075",
+            "taxon_status": "accepted",
+            "name_id": 531,
+            "simple_name": "Acacia",
+            "name_author": "Mill.",
+            "rank": "Genus",
+            "common_name_c": "相思樹屬",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": null,
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Acacia catechu",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Acacia+catechu",
+      "retrieved_at": "2026-08-13T18:41:33+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Acacia catechu",
+          "matched_name_id": 53702,
+          "taxon_id": "t0060767",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Acacia catechu",
+          "accepted_name_id": 53702,
+          "accepted_usage": [
+            {
+              "usage_id": 38123,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0060767",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0060767",
+          "taxon": {
+            "taxon_id": "t0060767",
+            "taxon_status": "accepted",
+            "name_id": 53702,
+            "simple_name": "Acacia catechu",
+            "name_author": "(L.f.) Willd.",
+            "rank": "Species",
+            "common_name_c": "兒茶",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2026-03-25"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

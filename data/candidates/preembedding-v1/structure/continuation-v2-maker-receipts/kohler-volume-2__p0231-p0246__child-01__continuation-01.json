@@ -1,0 +1,155 @@
+{
+  "schema_version": "2.0",
+  "package_id": "kohler-volume-2:p0231-p0246:child-01:continuation-01",
+  "parent_entry_id": "kohler-volume-2:p0231-p0246",
+  "child_entry_id": "kohler-volume-2:p0231-p0246:child-01",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation-v2:kohler-volume-2:p0231-p0246:child-01:continuation-01:v1",
+  "owner_shard": "S03",
+  "package_sha256": "a7cc8e688cd7a630f6b7da5170802beffbd2254feafee41444b7cedc67a84f63",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "prompt_version": "plant-structure-line-coordinates-v2",
+  "attempt_sha256": "1d7a4d72a526d1ea283ef5d0cc7a76b3a623d930217086ac59847ab13ca13c16",
+  "raw_response_sha256": "b8836eaa81281d38f8ef562b7f85272c85533cc52b797b904f0e81b9775da244",
+  "elapsed_seconds": 13.704,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 231,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 0,
+      "char_end": 368,
+      "source_line_start": 1,
+      "source_line_end": 10,
+      "page_text_sha256": "cc70955b8663592dcc59ddd9f07c583870f0d6198224b7dd367fa86e0082e1f5",
+      "exact_text_sha256": "8164a1697651e1ce7b61094cc9cdb46e9c56dea6ac09c8e8b346eb68e246b01d",
+      "section_index": 0,
+      "section_type": "taxonomy"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 231,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 285,
+      "char_end": 3469,
+      "source_line_start": 10,
+      "source_line_end": 41,
+      "page_text_sha256": "cc70955b8663592dcc59ddd9f07c583870f0d6198224b7dd367fa86e0082e1f5",
+      "exact_text_sha256": "15b7da4161ef4c7358b010a0f02831470b06f4613d359353845912b93d7c47e9",
+      "section_index": 1,
+      "section_type": "description"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 232,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 30,
+      "char_end": 162,
+      "source_line_start": 4,
+      "source_line_end": 5,
+      "page_text_sha256": "571a7ce7158cfce57ddb47c7ae42176933bd5af67ddecc8e0ae3f97b8d8ccdcd",
+      "exact_text_sha256": "aea67fc5c50ae4ac55f983fc1cd4ec2333a2b35c0e39d52484399a2b7561d4a5",
+      "section_index": 2,
+      "section_type": "distribution"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 233,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 1840,
+      "char_end": 3766,
+      "source_line_start": 25,
+      "source_line_end": 47,
+      "page_text_sha256": "1519b5f2a84293d02048f2c2b37aab8960859e73453f65a59d11e50db2c36f06",
+      "exact_text_sha256": "8d8d917d0cdb6da9bad9e17402add03ee66f320e47c104ce0fc8523d1105eb6a",
+      "section_index": 3,
+      "section_type": "constituents"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 234,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 64,
+      "char_end": 472,
+      "source_line_start": 3,
+      "source_line_end": 6,
+      "page_text_sha256": "c5ac1600fef3091f9ad996f2c7791f8529c01f7cc684a59d25ca20f1b84452fa",
+      "exact_text_sha256": "e661bb00e0f6c35a7572ab22d72032513570716a71302480feb2b6d76cad7ecc",
+      "section_index": 4,
+      "section_type": "plate_description"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-2:p0231-p0246:child-01:continuation-01",
+    "parent_entry_id": "kohler-volume-2:p0231-p0246",
+    "book_taxon": {
+      "scientific_name_candidate": "Callitris quadrivalvis"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 231,
+        "source_line_range": [
+          1,
+          10
+        ],
+        "exact_source_quote": "                               Callitris quadrivalvis Ventenat.\n\n                       Syn.:     Thuya articulata Vahl.        Frenela Fontanesii Mirb.\n\n\n                                       Sandarakbaum — Sandaraque.\n\n           Familie:    Oupressineae; Gattung: Callitris Vent.\n\n          Beschreibung. Niedriger, bis 6 Meter (nach Flückiger bis 12 Meter) hoher,"
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 231,
+        "source_line_range": [
+          10,
+          41
+        ],
+        "exact_source_quote": "          Beschreibung. Niedriger, bis 6 Meter (nach Flückiger bis 12 Meter) hoher,\n                                                                                       sehr. harz-\n reicher Baum mit pyramidenförmiger, sparrig-ästiger Krone, brauner Rinde und fast\n                                                                                   zimmtbraunem\n Holze.   Aeste zerstreut, rund, gabelartig oder fiederig verästelt; Aestchen         von    den Blättern   dicht be-\n deckt, flach, gegliedert, im trocknen Zustande leicht zerbrechlich.      Blätter kreuzweis, gegenständig,\n schuppenförmig, den Zweigen dicht angedrückt, mit freier Spitze, am Grunde verlänge\n                                                                                            rt, am ganzen\n Glied herablaufend, am Rande schwach wimperig, an den Zweigkanten mit sehr hervortr\n                                                                                            etendem Rücken\n und an der Spitze des Blattes mit einer blasig vorstehenden, länglich-runden, gelblichen Oeld\n                                                                                                   rüse, an\n den flachen Zweigseiten flach, gegen die Spitze verbreitert und mit einer kleinen rundlichen Oeld\n                                                                                                   rüse ver-\nsehen.    Blätter   der älteren Zweige     blaugrün,   nadelförmig,   fast stachelspitzig,   im oberen Theile ab-\nstehend, auf dem convexen Rücken mit einer lineal rundlichen, sehr lang gestreckten Oeldrü\n                                                                                               se oder\nmit mehreren länglich-runden, übereinander stehenden Oeldrüsen bedeckt. Blüthen einháusig. Männ-\nliche Blüthen an kurzen Zweigen, endständig, oblong-cylindrisch, 4—4'/, Mm. lang, mit kreuzwei\n                                                                                                      s\ngestellten, locker dachziegeligen, häutigen, fast kreisrunden Staubblüttern, die mit dickem, horizontal\nabstehendem Stiele und 4 bis 5 fast kugeligen Pollensücken versehen sind. Weibliche Blüthen-\nzapfen endstündig, an kurzen Zweigen, aufrecht, durch Brakteen gestützt, mit 4 fast quirlständigen,\nfleischigen,   stumpfen,   oberseits   schwach   hóckerigen Fruchtblüttern,    von   denen   2 derselben    und zwar\ndie beiden inneren und oberen eine geringere Breite besitzen und am Grunde eine Samenknospe tragen\noder steril sind, die beiden äusseren und breiteren hingegen je 2一8 Samenknospen entwickeln. Samen-\nknospen oval, mit griffelartig aufgesetztem Keimmund, beiderseits geflügelt. Zapfen 12 bis 14 Mm. im\nDurchmesser, rundlich-vierseitig, fast kugelig, aus 4 holzig-lederartigen, klappig sich berührenden Frucht-\nschuppen zusammengesetzt; die beiden äusseren und breiteren Fruchtschuppen fast herzfórmig, stumpf\ngespitzt, mit einer Furche am unteren Theile des Rückens, die beiden inneren und schmüleren oblong,\nmit einem kurzen, spitzen Höcker. Fruchtzapfen bei der Reife klappig aufspringend. Der längliche\nSame beiderseits breit geflügelt mit ovalen Oeldrüsen. Embryo mit 4 Keimblättern."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 232,
+        "source_line_range": [
+          4,
+          5
+        ],
+        "exact_source_quote": "         Vorkommen. In Algerien, auf dem Atlas und den übrigen nordwestafrikanischen Gebirgen;\nbis zu den Oasen von Ghat und Djanet."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 233,
+        "source_line_range": [
+          25,
+          47
+        ],
+        "exact_source_quote": "         Bestandtheile. Nach Unverdorben besteht Sandarak aus einem\n                                                                               Gemenge von 3 Harzen,\nwelche nach Johnston saurer Natur sind; ausserdem ist wenig äthe\n                                                                        risches Oel vorhanden.      Das\nGammaharz (Giese's Sandaracim), welches aus der weingeistigen Lósung\n                                                                        durch Kali gefállt wird, bildet,\naus dieser Kalilósung durch Salzsüure abgeschieden, ein weisses, schwer\n                                                                        schmelzbares Pulver. Alpha-\nund Betaharz lassen sich durch 609/, Weingeist trennen, indem das erstere ra\n                                                                             scher gelöst wird; Alpha-\nharz löst sich in Terpenthinöl, Betaharz nicht. Die bis jetzt noch wenig un\n                                                                              tersuchten Bestandtheile\ndes Sandaraks gehören nach Hlasiwetz zu den Terpenharzen von der\n                                                                            Formel (Cı, H,, 0)? + 30\n= (Czo Hs, 0,) OH,.\n            Das Sandarakharz erweicht bei 100% und schmilzt unter Aufblähung bei 135°,\n                                                                                       löst sich in\nheissem,    absolutem    Alkohol,   Aether, Amylalkohol,     Aceton, wenig in Chloroform,          Petroleumäther   und\nätherischen Oelen, nicht in Benzol; das spez. Gewicht beträgt nach Flückiger\n                                                                              1,066, nach Hager\n1,078—1,088. Ein in ihm enthaltener Bitterstoff kann mit Wasser ausgezog\n                                                                          en und durch Gerbsäure\ngefällt werden. (Husemann, Pflanzenstoffe 334.)"
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 234,
+        "source_line_range": [
+          3,
+          6
+        ],
+        "exact_source_quote": "          A Zweig in natürl Grösse; 1 männliche Blüthe, vergrössert; 2, 3 Staubblütter von verschiedenen Seiten,\ndesgl; 4 weibliche Blüthe, desgl.; 5 Fruchtblatt mit 3 Samenknospen, desgl.; 6 Fruchtzapfen, geschlossen, desgl.;\n7 derselbe geöffnet, desgl; 8, 9 vollständig geöffneter Zapfen von oben und von der Seite, desgl; 10 Same, desgl.\nNach einer Originalzeichnung des Herrn Professor Schmidt in Berlin."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "bb3105ef4a7b7d534ae5cb79f72ec4dc2b46c0f7cfabee1c771e1ff2c6f5a36b"
+}

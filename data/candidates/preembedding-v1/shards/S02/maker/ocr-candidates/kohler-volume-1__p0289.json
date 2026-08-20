@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 289,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "04a4911c063ca0b0d608bd462c00a020fd4cdcea7a48909e74aa506cbad1f7c8",
+  "render_dpi": 144,
+  "render_sha256": "88eebaad797a1e5998b5e43b58b1534017a80401b07b1f6493c388e031ad92b7",
+  "input_sha256": "88eebaad797a1e5998b5e43b58b1534017a80401b07b1f6493c388e031ad92b7",
+  "render_pixel_width": 5834,
+  "render_pixel_height": 7994,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 6.049,
+  "embedded_character_count": 43,
+  "ocr_character_count": 46,
+  "ocr_alpha_ratio": 0.6522,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01908747733585414,
+      "text": "Violaceae.",
+      "width": 0.07960832118988037,
+      "x": 0.848863832248195,
+      "y": 0.9330434705927164
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883082859107,
+      "text": "8",
+      "width": 0.017892643161442012,
+      "x": 0.8528827043238516,
+      "y": 0.35901162808066345
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "10",
+      "width": 0.01988071591957752,
+      "x": 0.8071570577128422,
+      "y": 0.260174418743333
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "2",
+      "width": 0.01391650023667712,
+      "x": 0.33598409573156207,
+      "y": 0.193313953791572
+    },
+    {
+      "confidence": 1,
+      "height": 0.014632936507936511,
+      "text": "WM.n. i.Nat",
+      "width": 0.0755467207535454,
+      "x": 0.8667992037186546,
+      "y": 0.14236111130046492
+    },
+    {
+      "confidence": 1,
+      "height": 0.022510470852019404,
+      "text": "Viola tricolor I",
+      "width": 0.17709987059883447,
+      "x": 0.44127113669160656,
+      "y": 0.11301802059474031
+    }
+  ],
+  "text": "Violaceae.\n8\n10\n2\nWM.n. i.Nat\nViola tricolor I",
+  "output_sha256": "36c6f8f933d8f9cfa96d07e9a247725767e96e22bb85d3e1a5e7f44c3ff8f12e",
+  "receipt_sha256": "bc59298f4fb24364ff261640a490ab192586e536a8dfdbbeace680711fb17b69"
+}

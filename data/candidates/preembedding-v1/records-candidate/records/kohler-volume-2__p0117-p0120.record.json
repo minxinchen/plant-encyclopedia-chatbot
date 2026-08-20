@@ -1,0 +1,305 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0117-p0120",
+  "entry_id": "kohler-volume-2:p0117-p0120",
+  "owner_shard": "S03",
+  "book_taxon": {
+    "scientific_name": "Veratrum album",
+    "authorship": null,
+    "aliases": [
+      "Weisse Niesswurzel",
+      "weisser Germer",
+      "Hellebore blanc",
+      "White Hellebore",
+      "Veratrum viride",
+      "Veratrum lobelianum"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Veratrum album"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T15:40:01+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Veratrum+album",
+        "query_name": "Veratrum album",
+        "retrieved_at": "2026-08-13T15:39:57+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Weisse+niesswurzel",
+        "query_name": "Weisse niesswurzel",
+        "retrieved_at": "2026-08-13T15:39:57+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=weisser+germer",
+        "query_name": "weisser germer",
+        "retrieved_at": "2026-08-13T15:39:57+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Hellebore+blanc",
+        "query_name": "Hellebore blanc",
+        "retrieved_at": "2026-08-13T15:39:57+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=White+hellebore",
+        "query_name": "White hellebore",
+        "retrieved_at": "2026-08-13T15:39:57+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Veratrum+viride",
+        "query_name": "Veratrum viride",
+        "retrieved_at": "2026-08-13T15:39:57+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Veratrum+lobelianum",
+        "query_name": "Veratrum lobelianum",
+        "retrieved_at": "2026-08-13T15:39:57+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 117,
+      "evidence_type": "text",
+      "page_text_sha256": "22610b8f906f17e2892f073da6f1de6656da5b847ae36bd3b8590213b6c21c61",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 118,
+      "evidence_type": "text",
+      "page_text_sha256": "ae5a0de1c6fc73675af899bc1d8b2ac9863099108d406e7c47d87799a3392480",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 119,
+      "evidence_type": "text",
+      "page_text_sha256": "8913dcbf959d37c812d772445f5090fb61ba2ce38e9a7a0912129ff90cc3120b",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 120,
+      "evidence_type": "text",
+      "page_text_sha256": "b5a8e88d21896e1c4323bac1d2941ccde10a7a6f96d9a2f694153e258c424b6b",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0117-p0120:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                                 Veratrum                 album L.\n         Weisse       Niesswurzel,            weisser Germer         —     Hellebore blanc —          White Hellebore.\n\n               Familie: Liliaceae ( Colchicaceae ). Gattung: Veratrum L.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Veratrum album L.，百合科。俗名白藜蘆、白胡蘆巴。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 117,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 275,
+        "page_text_sha256": "22610b8f906f17e2892f073da6f1de6656da5b847ae36bd3b8590213b6c21c61",
+        "exact_text_sha256": "96be7aae91f4c3a7c052e1d11da0edf67d8dd5f7564b068a4afd82a0af638604",
+        "source_line_start": 1,
+        "source_line_end": 4,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "96be7aae91f4c3a7c052e1d11da0edf67d8dd5f7564b068a4afd82a0af638604",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0117-p0120:s01:x00",
+      "section_type": "description",
+      "original_text": "               Beschreibung.            Das ausdauernde,        5—8 Ctm. lange, 2 Ctm. dicke, gewöhnlich         einfache, auch\n   zwei- oder mehrköpfige,             cylindrische, bis umgekehrt kegelfórmige, am Grunde abgestutzte,\n                                                                                                        fleischige,\n   aussen     schwürzliche,     innen weisse,      mit Resten      der abgestorbenen     Blattscheiden     besetzte Rhizom    mit\n   rings aus dem Knollstocke entspringenden, über 20 Ctm. langen, 2—3 Mm. di\n                                                                                cken, fleischigen Wurzeln",
+      "normalized_text": null,
+      "zh_tw_rendering": "多年生，塊莖長 5-8 公分，外黑內白，具肉質根。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 117,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 276,
+        "char_end": 936,
+        "page_text_sha256": "22610b8f906f17e2892f073da6f1de6656da5b847ae36bd3b8590213b6c21c61",
+        "exact_text_sha256": "3c49322723e5a206a5cb031536b5292898b4b86dad975cc432c3ac7084d56bef",
+        "source_line_start": 5,
+        "source_line_end": 10,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "3c49322723e5a206a5cb031536b5292898b4b86dad975cc432c3ac7084d56bef",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0117-p0120:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "          Anatomisches. Der kreisrunde Querschnitt des Wurzelstockes zeigt eine durch eine dunkele\nKernscheide vom Holz getrennte Rinde von !/, des Durchmessers.            Die Aussenrinde besteht aus\nmehreren, an den Wurzeln unterbrochenen Reihen kleiner, braunschwarz gefärbter Korkzellen; die\nMittelrinde aus einem durch wenige Gefässe unterbrochenen Parenchym, dessen Zellen mit durch wenig\nOel zusammengehaltenen oder verkleisterten Stärkekörnern angefüllt sind. In dieses Gewebe sind Krystall-\nzellen eingestreut, welche Bündel nadelfórmiger Prismen von Calciumoxalat einschliessen. Die in ihrem\nVerlaufe vielfach gezackte Kernscheide besteht aus einer, auch einigen Reihen nur nach innen ver-\ndiekter und an den Verdickungsstellen mit Porenkanälen versehener, im Querschnitt tangential ge-\nstreckter Steinzellen von geringer Länge. Das Holz zeigt ein der Mittelrinde ähnliches Parenchym\nund zahlreiche, sehr stark (oft horizontal) gekrümmte Gefässbündel, welche aus verschlungenen, spalten-\nförmig getüpfelten Gefässen und von letzteren umgebenen, kurzen Siebröhren zusammengesetzt sind.",
+      "normalized_text": null,
+      "zh_tw_rendering": "橫切面顯示皮層含澱粉與草酸鈣晶體，木質部具彎曲導管。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 118,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 1591,
+        "char_end": 2685,
+        "page_text_sha256": "ae5a0de1c6fc73675af899bc1d8b2ac9863099108d406e7c47d87799a3392480",
+        "exact_text_sha256": "1a2a5a379fbd92813e938511a60ec5587aa94e541399b528c7d9a6d96d379820",
+        "source_line_start": 18,
+        "source_line_end": 28,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "1a2a5a379fbd92813e938511a60ec5587aa94e541399b528c7d9a6d96d379820",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0117-p0120:s03:x00",
+      "section_type": "distribution",
+      "original_text": "            Vorkommen.               Auf Wiesen und an Bachufern durch Europa und Nordasien bis Japan.                                          Von\nden spanischen Gebirgen bis zum Nordkap;                        in Griechenland,        Schwarzwald         und Vogesen, Dänemark                und\nEngland fehlend.             Im Süden mehr Gebirgspflanze und bis 2700 Meter emporsteigend, im Norden in\nden Niederungen;           im östlichen Finnmarken               bis 250 Meter Meereshóhe.",
+      "normalized_text": null,
+      "zh_tw_rendering": "分佈於歐洲至北亞及日本，生長於草地與溪邊，海拔可達 2700 公尺。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 118,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3469,
+        "char_end": 3961,
+        "page_text_sha256": "ae5a0de1c6fc73675af899bc1d8b2ac9863099108d406e7c47d87799a3392480",
+        "exact_text_sha256": "27d30c1e385380bd722400389868782cc78dacdb08f2a7cd9d8c037a913c4e37",
+        "source_line_start": 36,
+        "source_line_end": 39,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "27d30c1e385380bd722400389868782cc78dacdb08f2a7cd9d8c037a913c4e37",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0117-p0120:s04:x00",
+      "section_type": "constituents",
+      "original_text": "            Bestandtheile.    Die weisse Nieswurz enthält nach den Untersuchungen von Pelletier und\n   Caventou eine eigenthümliche Pflanzenbase (Veratrin), eine flüchtige Säure, Fett, Stärkemehl, Harz etc.\n  Weppen fand einen stickstofffreien Bitterstoff (Veratramarin) und eine eigenthümliche Säure (Jerva-\n  säure), Simon das Alkaloid (Jervin), Luff und pr die Alkaloide Rubijervin, Veratralbin und\n  Pseudojervin.\n           Von Maisch und Dragendorf und namentlich Tobien ist der Nachweiss geführt worden,\n  dass Veratr. album kein Veratrin enthält. Letzteres ist demnach hier nicht zu berücksichtigen, sondern\n  soll unter Sabadilla abgehandelt werden.",
+      "normalized_text": null,
+      "zh_tw_rendering": "含藜蘆鹼、耶爾鹼等生物鹼，不含藜蘆鹼，另含苦味素與樹脂。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 119,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 1336,
+        "char_end": 1994,
+        "page_text_sha256": "8913dcbf959d37c812d772445f5090fb61ba2ce38e9a7a0912129ff90cc3120b",
+        "exact_text_sha256": "83a8571ba0599f86c5753058337430bf57d4a6b995f004a48d717880de1e9ddb",
+        "source_line_start": 18,
+        "source_line_end": 25,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "83a8571ba0599f86c5753058337430bf57d4a6b995f004a48d717880de1e9ddb",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0117-p0120:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "          Anwendung. In Pulverform, Pillenform und im Aufguss, auch äusserlich zu Waschungen.\nInnerlich findet es gegenwärtig wenig Anwendung; äusserlich dient es als Bestandtheil einiger Nies-\npulver und wird in Salbenform als ein wirksames Mittel gegen Krätze gerühmt. Die Thierarzneikunde\nbedient sich dieses Mittels gegen Rude und bei alten Schweinen als Brechmittel     Die weisse Nies-\nwurz ist durch das ähnlich wirkende, aus Sabadilla gewonnene Veratrin ziemlich aus der Medizin ver-\ndrängt worden. In grösserer Menge innerlich genommen erregt Nieswurz heftige Aufregung, Schweiss,\nSpeichelfluss, Erbrechen, Durchfall, Tod. Gegenmittel bei Vergiftungen sind Gerbstoff, schleimige\nMittel, Kaffee mit Opium.",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史上用作催嚏劑與疥癬藥，內服過量可致嘔吐、腹瀉甚至死亡。",
+      "evidence_indexes": [
+        3
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 120,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 616,
+        "char_end": 1329,
+        "page_text_sha256": "b5a8e88d21896e1c4323bac1d2941ccde10a7a6f96d9a2f694153e258c424b6b",
+        "exact_text_sha256": "a1cd8cd7070c30c97dd1f1afc075b91a0e5bc980a54a544c3dff1ced120c33f0",
+        "source_line_start": 8,
+        "source_line_end": 15,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "a1cd8cd7070c30c97dd1f1afc075b91a0e5bc980a54a544c3dff1ced120c33f0",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "6ae524f3ad3c6baf08ece3dd93e6c0ffc1b09d1aba8afe20423c9e4251d64b11",
+    "maker_receipt_sha256": "9e0e0771816b4af507ab5e52944f33153b0751e90461a4a26b14e86d433018cc",
+    "validation_check_sha256": "8ffb6c1a58bb7411e0903eefbb7bd5ebb81fa78e1afd1bc73a09af67d02614eb",
+    "source_disposition_sha256": "4a77fb862590ceab67628230690c3bfe101eb3dd963829c7a44994fb0a64a832",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "9e0e0771816b4af507ab5e52944f33153b0751e90461a4a26b14e86d433018cc",
+      "validation_check_sha256": "8ffb6c1a58bb7411e0903eefbb7bd5ebb81fa78e1afd1bc73a09af67d02614eb",
+      "source_disposition_sha256": "4a77fb862590ceab67628230690c3bfe101eb3dd963829c7a44994fb0a64a832"
+    },
+    "naming_artifact_sha256": "8155fd736a3fae82a0ca0c466f9a1e76d27e2e48901a2b25d37dcf6b40479399"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "a152ac92f7e8ec4b4981db59a1941e89427a1dc39ad4867c0fc93a8c9fbdd1db"
+}

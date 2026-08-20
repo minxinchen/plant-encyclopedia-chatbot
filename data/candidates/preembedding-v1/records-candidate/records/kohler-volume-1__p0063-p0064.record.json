@@ -1,0 +1,281 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0063-p0064",
+  "entry_id": "kohler-volume-1:p0063-p0064",
+  "owner_shard": "S01",
+  "book_taxon": {
+    "scientific_name": "Datura Stramonium",
+    "authorship": null,
+    "aliases": [
+      "Datura Pseudo stramonium Sieb.",
+      "Stramonium vulgatum Gaertn",
+      "Stramonium spinosum Lam.",
+      "Datura Tatida L.",
+      "D. Stramonium f. chalybaea Koch"
+    ]
+  },
+  "display_name": "番曼陀羅",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Datura Stramonium",
+      "Datura stramonium"
+    ],
+    "accepted_scientific_name": "Datura stramonium",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T16:37:11+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Datura+Stramonium",
+        "query_name": "Datura Stramonium",
+        "retrieved_at": "2026-08-13T16:37:11+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0023638",
+        "query_name": "Datura Stramonium",
+        "retrieved_at": "2026-08-13T16:37:11+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0023638",
+        "query_name": "Datura Stramonium",
+        "retrieved_at": "2026-08-13T16:37:11+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Datura+stramonium",
+        "query_name": "Datura stramonium",
+        "retrieved_at": "2026-08-13T16:37:11+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0053301",
+        "query_name": "Datura stramonium",
+        "retrieved_at": "2026-08-13T16:37:11+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0053301",
+        "query_name": "Datura stramonium",
+        "retrieved_at": "2026-08-13T16:37:11+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL accepts the queried book binomial at species rank."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 63,
+      "evidence_type": "text",
+      "page_text_sha256": "1fce9cb7f02feec964f7ba8e246c6467cac82b9784c1470743aec03578271233",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 64,
+      "evidence_type": "text",
+      "page_text_sha256": "067c054d40586833916207331ffdadc45b007be01dbfa60df1ef3025e1cb6712",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0063-p0064:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                    Datura Stramonium L.\nSy     Datura                 V   Datura Pseudo stramonium          Sieb.     Stramonium vulgatum Gaertn\n                    Stramonium spinosum Lam.                                 foetidum Scop.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Datura Stramonium L.，異名包括 Datura Pseudo stramonium 及 Stramonium vulgatum。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 63,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 0,
+        "char_end": 253,
+        "page_text_sha256": "1fce9cb7f02feec964f7ba8e246c6467cac82b9784c1470743aec03578271233",
+        "exact_text_sha256": "935b02818a339a7f66ea24e57478ccda79f161dcad7bc1dd167a1aae9d9958be",
+        "source_line_start": 1,
+        "source_line_end": 3,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "935b02818a339a7f66ea24e57478ccda79f161dcad7bc1dd167a1aae9d9958be",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0063-p0064:s01:x00",
+      "section_type": "description",
+      "original_text": "         Beschreibung.        Die einjahrige, senkrecht in den Boden gehende, mit Wnrzelfasern besetzte\nWurzel treibt einen 0.2 1 — m     hohen, aufrechten, wiederholt gabelastigen, krautartigen, hohlen, nur auf\nder Innenseite der Aeste feinhaarigen Stengel von unten fast stielrunder, oben stumpf 3kantiger Form.\nBlatter einzeln oder an den Aesten gepaart, langgestielt, bis 20 cm lang, 15 cm breit, eiformig, spitz,\nungleicli-buclitig gezahnt, die grosseren Zahne oder Lappen mit kleinen Zahnen besetzt, oberseits\ndunkel-, unterseits hellgriin, die jungern fein behaart, die altern nnr an den Nerven mit Harchen besetzt;\nSeitennerven miter einem Winkel, von 35        —40° von der Mittelrippe abgehend. Blattstiel fast stielrund,",
+      "normalized_text": null,
+      "zh_tw_rendering": "一年生直立草本，莖中空多分枝。葉卵形，邊緣不規則鋸齒狀，深綠至淺綠，幼葉被毛。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 63,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 563,
+        "char_end": 1294,
+        "page_text_sha256": "1fce9cb7f02feec964f7ba8e246c6467cac82b9784c1470743aec03578271233",
+        "exact_text_sha256": "5534ed35880c9d8de7ca4fd5c9a988c8383a39d4f8c60e7c371b1109915975a4",
+        "source_line_start": 14,
+        "source_line_end": 20,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "5534ed35880c9d8de7ca4fd5c9a988c8383a39d4f8c60e7c371b1109915975a4",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0063-p0064:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "         Anatomisches :   Der Querschnitt des Blattes zeigt (nacli Fliickiger) eine schmale Mittelschicht,       die zahl-\nreiche, gut ausgebildete Krystalle in sich schliessende Oxalsauredrusen enthalt. Die starker entwiekelte obere Schicht\nbesteht aus Palissadenzellen, die unteren aus Schwammparenchym.        Die Epidermiszellen zeigen namentlich auf der\nBlattunterflache wellenformige Umrisse und sind von zahlreichen Spaltoffnungen unterbrochen; audi entwickeln sich\naus der Epidermis einzelne mehrzellige  ,  von einer kurzen Stielzelle getragene Driisenhaare und 3zellige driisenlose\nHaare. Die Epidermis der Samenschale ist aus einer Reihe gelber, radial gestellter Zellen zusammengesetzt deren   ,",
+      "normalized_text": null,
+      "zh_tw_rendering": "葉橫切面含草酸鹽結晶；表皮細胞波狀，具氣孔及腺毛。種皮細胞壁增厚，呈齒狀互鎖。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 63,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 3608,
+        "char_end": 4315,
+        "page_text_sha256": "1fce9cb7f02feec964f7ba8e246c6467cac82b9784c1470743aec03578271233",
+        "exact_text_sha256": "045e7a3e1574b2002ebb983f16c7fda1f2d1d2383c147b62c0f046685fcc4a84",
+        "source_line_start": 44,
+        "source_line_end": 49,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "045e7a3e1574b2002ebb983f16c7fda1f2d1d2383c147b62c0f046685fcc4a84",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0063-p0064:s03:x00",
+      "section_type": "distribution",
+      "original_text": "          Verbreitung.  Wahrscheinlich einheimisch in den Landern des Schwarzen und Caspischen\nMeeres. Gegenwartig an Wegen, auf Schutthaufen und Feldern uber Europa, Asien und Amerika von\nden Tropenlandern bis zum nordlichen Polarkreise verbreitet. In Skandinavien bis zum 70. Breitengrade.",
+      "normalized_text": null,
+      "zh_tw_rendering": "原產黑海與裏海地區，現廣布歐亞美，從熱帶至北極圈，斯堪的納維亞北至70度緯線。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 63,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 5418,
+        "char_end": 5709,
+        "page_text_sha256": "1fce9cb7f02feec964f7ba8e246c6467cac82b9784c1470743aec03578271233",
+        "exact_text_sha256": "e54113030214767dc5438622189265428a1ca976cfb6b824a062809ac5c09808",
+        "source_line_start": 66,
+        "source_line_end": 68,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "e54113030214767dc5438622189265428a1ca976cfb6b824a062809ac5c09808",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0063-p0064:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "          Anwendung.           Blatterund Samen gehoren zu den heftigsten narkotischen Giften.            Ihre\nWirkung ist ahnlich der der Belladonna; jedoch sind die Wirkungen auf das Auge noch starker als\ndiess bei der Belladonna der Fall ist.        Die Stramoniummedikamente welche in der Regel als Absud\n                                                                                        ,\n\n\noder in Tinktur, auch in Form von Cigarren verordnet werden, wirken vorzugsweise auf die Ganglien-\nnerven, auf den Vagus und das Ruekenmark und werden daher bei verschiedenen Nervenleiden in\nAnwendung gebracht. Die Dampfform wendet man mit Vortheil an bei Neurosen der Luftwege, bei\nnervosem Asthma und Keuchhusten. (Husemann, Arzneimittell. 1094.)",
+      "normalized_text": null,
+      "zh_tw_rendering": "葉與種為劇烈麻醉毒藥，作用似曼陀羅但對眼更強。歷史上用於神經病、氣喘及百日咳。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 64,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4579,
+        "char_end": 5328,
+        "page_text_sha256": "067c054d40586833916207331ffdadc45b007be01dbfa60df1ef3025e1cb6712",
+        "exact_text_sha256": "a9e285a826db032e45ff115e16ef57ac8e3e9e7bfa5a65b8e53767a198c57fa1",
+        "source_line_start": 60,
+        "source_line_end": 69,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "a9e285a826db032e45ff115e16ef57ac8e3e9e7bfa5a65b8e53767a198c57fa1",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0063-p0064:s05:x00",
+      "section_type": "constituents",
+      "original_text": "          Bestandtheile. Die Blatter und Samen enthalten das von Br an des bei der Untersuchung\ndes Samens angedeutete, von Geiger und Hesse im Jahre 1833 entdeckte, sehr giftige Alkaloid:\nDaturin (C 17 H 2 3 3 ).  Nach den Untersuchungen von Giinther enthalten von diesem Alkaloid: die\nWurzeln^ 0,008 °/     die Stengel 0,009 °/\n                        ,                   die Blatter 0,038 °/\n                                                 ,                die Samen 0,127%.",
+      "normalized_text": null,
+      "zh_tw_rendering": "含劇毒生物鹼 Daturin（1833年發現）。種含0.127%，葉0.038%，莖0.009%，根0.008%。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 64,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 2825,
+        "char_end": 3303,
+        "page_text_sha256": "067c054d40586833916207331ffdadc45b007be01dbfa60df1ef3025e1cb6712",
+        "exact_text_sha256": "16928703ff497894fa5f723188be0beade9d3e9f276e5569d0d5bd235900e51b",
+        "source_line_start": 37,
+        "source_line_end": 42,
+        "section_index": 5,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "16928703ff497894fa5f723188be0beade9d3e9f276e5569d0d5bd235900e51b",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "8ecfefd9188fa4b667b9d1fd27201245c2d23749da22338eb1525d019ba06a9f",
+    "maker_receipt_sha256": "1d318cc5cf9fdbf4a49a383cc3c9a75f8bc5730dc14d0a4b248e1d20cad3efa7",
+    "validation_check_sha256": "d0058564f35bcdcb8ac1b85d227a3c73146de452c34f2531d74530c63c4c8391",
+    "source_disposition_sha256": "8f932d4cc52fbcb08bbdf00b90210466940da27548850d0911d06742fa5aaf07",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "1d318cc5cf9fdbf4a49a383cc3c9a75f8bc5730dc14d0a4b248e1d20cad3efa7",
+      "validation_check_sha256": "d0058564f35bcdcb8ac1b85d227a3c73146de452c34f2531d74530c63c4c8391",
+      "source_disposition_sha256": "8f932d4cc52fbcb08bbdf00b90210466940da27548850d0911d06742fa5aaf07"
+    },
+    "naming_artifact_sha256": "16a1e5f1cb9479d059821b08a13341e25e46849baea2f186a8df5de1b408ca25"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "6d339b336668a78308f7ce880c62442e3c9e24247913dccc021829083dec50c1"
+}

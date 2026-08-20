@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 557,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "cc4b544d955a5b539c1776297677562cad32cd0d044a977c86a31db3d3e0a30c",
+  "render_dpi": 144,
+  "render_sha256": "d561d0788d51fbf3c46f877986d9563d4639c09ad94f2d527b1d9018ca707b04",
+  "input_sha256": "d561d0788d51fbf3c46f877986d9563d4639c09ad94f2d527b1d9018ca707b04",
+  "render_pixel_width": 5762,
+  "render_pixel_height": 7790,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.389,
+  "embedded_character_count": 32,
+  "ocr_character_count": 33,
+  "ocr_alpha_ratio": 0.8788,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.025044140361604295,
+      "text": "Loganiaceae.",
+      "width": 0.1395970120036627,
+      "x": 0.783836070740433,
+      "y": 0.9126232783496065
+    },
+    {
+      "confidence": 1,
+      "height": 0.02239237512860981,
+      "text": "Strychnos Nux",
+      "width": 0.16909620155830812,
+      "x": 0.3319548454892039,
+      "y": 0.09563520760044597
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372621082214,
+      "text": "vomica",
+      "width": 0.08840864604947396,
+      "x": 0.5206286839742806,
+      "y": 0.09883720909280191
+    }
+  ],
+  "text": "Loganiaceae.\nStrychnos Nux\nvomica",
+  "output_sha256": "591ff2dcdf06bb052722acb1af38f2f4b438d47abb1f99ed6b6ceaa93b16260f",
+  "receipt_sha256": "62c0816ccb9b5713e77ac6f487980e6b840e1eb1ebd715ab31c727f758e6fc39"
+}

@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0205-p0208",
+  "owner_shard": "S02",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 151.439,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0205-p0208",
+    "book_taxon": {
+      "scientific_name_candidate": "Cinnamomum zeylanicum",
+      "authorship_candidate": "Breyn.",
+      "aliases_candidates": [
+        "Laurus Cinnamomum L.",
+        "Cinnamomum Cinnamomum Krst.",
+        "Cinnamomum Burm.",
+        "Cinnamomum zeylanicum vulgare Hayne",
+        "Cinnamomum zeylanicum cordifolium Hayne",
+        "Laurus Cassia Burm."
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 205,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "錫蘭肉桂樹，屬樟科，學名 Cinnamomum zeylanicum，同義名包括 Laurus Cinnamomum。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          6
+        ],
+        "exact_source_quote": "                                    Cinnamomum zeylanicum Breyn.\n                      Syn. Laurus Cinnamomum L.                        Cinnamomum Cinnamomum Krst.\n\n             Ceylonischer Zimmtbaum                       Canellier, Cannelle de Ceylan                               Cinnamom.\n\n              Familie: Laureae.            (rattling:     Cinnamomum Burm."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 205,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "高約10至20米常綠樹，葉對生，革質，揉碎有丁香氣味，花小，白綠色，果實似漿果。",
+        "warnings": [],
+        "source_line_range": [
+          12,
+          22
+        ],
+        "exact_source_quote": "              Beschreibung.         Gegen 10 (nach Karsten bis 20) Meter holier, mit immergrunen Blattern\nbesetzter Baum          —   in der Kulturform strauchartig             —\n                                                           mit eylindrischen alteren und stumpf vierkantigen\njiingeren Aesten, die mit einer aromatischen braunen oder grauen, jung grauen, kahlen Rinde bedeckt\nsind.        Blatter paarweise einander gegeniiberstehend, wagerecht absteliend oder etwas abwarts geneigt,\nim Anfange scharlachroth, dann oberseits glanzend griin, unterseits graugriin, derb-lederig, 12 Ctm.\nlang, 5 Ctm. breit (nach Fliickiger bis 23:8 Ctm.), in Form und Grosse sehr veranderlich, im All-\ngemeinen von eiformigem Umrisse, stumpf oder kurz gespitzt, ganzrandig, handformig 3 5(7)nervig,                             —\nmit zwischenliegendem          ,   die   Hauptnerven reclitwinklig verbindendem Adernetze.                        Die Seitennerven aus\nder Basis oder oberlialb derselben entspringend.                       Die Blatter haben einen sussen Geschmack und ent-\nwickeln beim Zerreiben einen gewiirznelkenartigen Geruch.                          Die zwitterigen, weissgriinlichen, angenelim"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 206,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "橫切面顯示內皮層含石細胞環，皮層含厚壁細胞、纖維及含草酸鈣結晶的膠囊。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          12
+        ],
+        "exact_source_quote": "             Anatomisches Der mikroskopische Querschnitt der bei der Handelswaare fast nur noch\n                                        :\n\n\nvorhandenen Innenrinde zeigt zu oberst 1— 3 Lagen diinn- und braunwandiger tangential gestreckter,                          ,\n\n\n\ndurch das Schalen meistentheils zerrissener Parenchymzellen der Mittelrinde und hierunter 6                                                  — 8 Lagen\nunregelmassig geformter Steinzellen                         mit tangentialer Streckung nnd getupfelten Wanden.                                In diesem\nununterbrochenen von dem nach innen folgenden braunen Parenchym sich scharf abhebenden, fest\n                          ,"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 206,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產錫蘭，現多國栽培，但最佳品質產於錫蘭西南海岸，土壤含98%二氧化矽。",
+        "warnings": [],
+        "source_line_range": [
+          26,
+          32
+        ],
+        "exact_source_quote": "              Verbreitung.                  Auf Ceylon heimisch,         bis in die hochsten        Bergwalder aufsteigend.                     Wird in\nden meisten Tropenlandern                      kultivirt,     erreicht jedoch   seine vorziiglichste Giite nur                         auf Ceylon.   Der\nbeste Ceylonzimmt              wird         auf der     siidwestlichen Kiiste Ceylons         gewonnen und zwar nach Fliickiger\nauf dem 20         — 50 Kilom. breiten, 160 Kilom. langen Kiistenstriche, welcher sich von Negumbo, etwas\nnordlich von         Colombo           bis zur Siidspitze          der Insel, sanft bis etwa 450 Meter ansteigend, hinzieht, auf\neinem schneeweissen Boden, der zu 98°/                             aus Kieselerde besteht.        Ueppiger Boden ist nachtheilig.\n"
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 206,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "古希臘羅馬已知，13世紀貿易記錄確立，荷蘭人1765年開始人工栽培，英國1796年接管。",
+        "warnings": [],
+        "source_line_range": [
+          33,
+          46
+        ],
+        "exact_source_quote": "              Name und Geschichtlich.es.                            Der Ceylonzimmt        soil   den Griechen und Romern schon be-\nkannt gewesen            sein,    obschon der im              6.   Jahrhundert unserer Zeitrechnung Ceylon bereisende Kosmos\nIndikopleustes des Zimmtes keine Erwahnung thut. Sichere Nachrichten uber das Vorhandensein des\nZimmtes auf Ceylon erhalten wir erst durch Al-Hadj-Abu-Othman, dem Gesandten eines Herrschers\nvon Ceylon, der dem agyptischen Sultan im Jahre 1283 unter anderen Handelsartikeln auch Zimmt\nund zwar Ceylonischen Zimmt anbietet, was durch einen im Jahre 1310 von dem Monch Johannes\nvon Montecorvino verfassten Brief bestatigt wird, der darin sagt, dass aus der nahe bei Malabar\ngelegenen Insel viel Rinde eines dem Lorbeer ahnlichen Baumes ausgefiihrt werde. Der venetianische\nKaufmann Nicolo Conti giebt 1444 eine kurze Beschreibung des ceylonischen Zimmtbaumes. Reisende\ndes 13. Jahrhunderts berichten auch von dem Zimmte des siidindischen Festlandes (Malabarkuste),\nwelcher jedoch weniger Werth hatte, als der ceylonische Zimmt. Aus allem geht hervor, dass der\nceylonische Zimmthandel in jener Zeit hochst unbedeutend gewesen sein muss und dass, trotz der\ngeringen Giite, der in grosseren Mengen auftretende chinesische Zimmt auch schon damals den\nbesseren ceylonischen Zimmt verdrangte.  Zur damaligen Zeit wurde, wie der hollandische Reisende"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 207,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含3.77%揮發油（肉桂醛為主），樹脂，單寧，澱粉及黏液，油呈金黃色，具甜而辛辣味。",
+        "warnings": [],
+        "source_line_range": [
+          44,
+          56
+        ],
+        "exact_source_quote": "         Bestandtheile.              Der Ceylonzimmt enthalt nach Trojanowsky 3,77 °/                                        atherisches Oel (nach\nFluckiger ca. l°/ ), 1,44% in Aether losliches Harz, 7,4% in Aether unlosliches Harz, 2,06% Gerb-\nsaure, 2,82% Starkemehl, 3,7% Schleim, 4,96 °/ Asche.    Das meistentheils auf Ceylon selbst aus den\nRindenabfallen destillirte Ceylon zimmtol, welches mit Ausnahme des feinen Geruchs und Geschmacks\nbezuglich der Zusammensetzung mit dem Cassiaol iibereinstimmt ist goldgelb, nach langerem Auf-     ,\n\n\n\nbewahren rothlichgelb     ,    dickflussig,         Gew. von 1,035 und einen Siedepunkt von 220°,\n                                              besitzt       ein spez.\nhat einen siissen, brennend aromatischen Geschmack und feinen Zimmtgeruch. Es besteht neben einer\ngeringen Menge eines Kohlenwasserstoifes aus Zimmtaldehyd (Cynnamylwasserstoff) C\n                                                                                                                             6"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "2f81eaa15f746738f4059cf761a9eb64376d3c63e7dfffdbf06c4d9dcbfaef54"
+}

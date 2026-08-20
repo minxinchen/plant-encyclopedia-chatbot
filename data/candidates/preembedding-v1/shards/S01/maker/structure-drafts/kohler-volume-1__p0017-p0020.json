@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0017-p0020",
+  "owner_shard": "S01",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 172.227,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0017-p0020",
+    "book_taxon": {
+      "scientific_name_candidate": "Citrus Limonum",
+      "authorship_candidate": "Risso",
+      "aliases_candidates": [
+        "Citrus medica var.",
+        "Citrus acida Roxb.",
+        "Citrone",
+        "Limone",
+        "Lemon",
+        "Citronnier"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 17,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分類：芸香科，柑橘屬。學名 Citrus Limonum Risso，別名 Citrus medica var. 及 Citrus acida Roxb.。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          18
+        ],
+        "exact_source_quote": "                                         Citrus      Limonum Risso.\n\n                                  Citrus medica var.       (i.   L.   Citrus acida Roxb.\n\n\n\n                                    Citrone,    Limone           Lemon      Citronnier.\n                                                                                                                     »\n\n\n\n\n         Familie:     '\n\n\n\n\n                          Rataceae (Unterfamilie     :   Aurantieae);    Gattung:   Citrus L."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 17,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "3-5米高常綠樹，枝條多刺，葉卵形。花紅白，果橢圓，黃皮多油胞，果肉酸，種子無胚乳。",
+        "warnings": [],
+        "source_line_range": [
+          21,
+          47
+        ],
+        "exact_source_quote": "         Beschreibung. Ein 3— 5 Meter hoher, immergriiner Baum mit astig ausgebreiteten Wurzeln\nund vielastiger Krone, bewehrten oder unbewehrten jiingeren, gewohnlich dunkelpurpurnen Zweigen (in\nwildem Zastande dornigen Aesten) und hartem Holze. Blatter zerstreut stehend, mit fliigellosem oder\nscbmal berandetem Blattstiel, oval oder eiformig-langlich, zugespitzt, kerbig gesagt, durchscheinend\npunktirt.  Bluthen anssen rothlich, gestielt, einzeln in den Blattwinkeln oder an der Spitze der Zweige\n            ,\n\n\ngehauft, wohlriechend.  Kelch napfformig, 5zahnig, driisig, bleibend. Kronblatter 5, etwas fleiscbig,\nvertieft, langlich,  stumpf, driisig, aussen rothlich, innen weiss. Staubgefasse zu 20—40 (meist 35),\nsaromt den Kronblattern unter der Scheibe eingefiigt, darch Verwacbsen der unteren Theile der Faden\nin mebrere flacbe, ungleich zablige, weisse Bandel vereinigt.         Staubbeutel langlich, 2facherig, gelb,\nam   Grande  pfeilformigT  an  der Ruckenbasis  angeheftet, oben  kurz  und stumpf   gespitzt.  Pollen kngelig,\n    5furcbig, 4 —  5nabelig.     Stempel oberstandig, anf einer driisigen, strahlig gestreiften Scbeibe befind-\nlich, mit eilanglichem, 10— 12facherigem Fruchtknoten.         Eiehen gegenlaufig, 2reihig der Mittelsaule\nangeheftet, hangend.     Griffel walzig, nach oben verdickt; Narbe kopfformig.        Frucht oblong oder oval,\n5   7 Ctm. lang, auf dem Scheitef und oft auch am unteren Theile zitzenformig gebackelt, hellgelb,\ndriisig, 10— 12facherig, mit diinner, aussen gelb er, glanzender, unebener, innen schwammiger und\nweisser Schale.    Die Unebenheiten entsprechen den unter der Oberflache liegenden kleinen Oelraumen.\nDie urn die markige Mittelsaule gestellten, von einer dunnen Haut ausgekleideten, unter sich trenn-\nbaren Facher sind ein- oder wenigsamig, mit saftigem, zelligem, sehr sanrem Fruchtfleische angefullt.\nSame umgekebrt eiformig oder langlich, eiweisslos; Samenschale blassgelb, pergamentartig gestreift;          ,\n\n\n\ninnere Samenhaut     hellbraunlich,  mit grossem,  kirschbraunem  Knospengrund     (chalaza).  Embryo   gerade;\nWiirzelch                                        Samenlappen planconvex."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 17,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產喜馬拉雅山南麓，中世紀起在地中海沿岸（西西里、西班牙等）栽培。",
+        "warnings": [],
+        "source_line_range": [
+          57,
+          61
+        ],
+        "exact_source_quote": "        Vorkommen.      Stammt  aus den  Bergwaldern  von Kumaon und  Sikkim   im  siidlichen Himalaya,\nwoselbst die als Stammform betrachtete  Citrus medica Risso noch wild auftritt.   Seit  dem   Mittelalter\n\nwird die Pflanze in den Mittelmeerlandern (Sicilien, Calabrien,            an der Riviera, in Siidfrankreich, Spanien\nund Portugal) kultivirt."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 18,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "古希臘經亞歷山大東征知悉，稱「medische Apfel」。中世紀由阿拉伯人傳入歐洲，15世紀引入亞速爾群島。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          15
+        ],
+        "exact_source_quote": "          Name und Geschichtliches.           Die Citrusarten sind den alten Griechen erst durch die\n Kriegszuge Alexanders des Grossen bekannt geworden, bei welcher Gelegenheit die schonen, goldgelben\n Fruchte in Persien und Medien zuerst gesehen warden. Man nannte sie medische Apfel.              Schon\n Theophrast (uni 390 v; Chr.) beschrieb die Fruchte als ungeniessbar, schon duftend, giftwidrig und\n das Ungeziefer abhaltend.    In Folge der letzteren Eigenschaften hielt man den medischen Apfel fiir\n die Frucht des gleiche Eigenschaften besitzenden Cedernbaurnes (Kedros) und diesem Umstande soil\n der Name Citrus (Mains citrus), woraus spater Citrone entstand, entsprungen sei.    Das Wort\n leitet man ab aus der arabischen Bezeichnung limun und dieses wiederum aus dem indischen Worte\nlimn.    Zu den Zeiten des Plinius konnte man den Citronenbaum in Italien noch nicht im Freien\nziehen.   Um 150 n. Chr. findet man ihn (jedoch mit ungeniessbaren Fruchten) um Neapel und in\nSardinien schon im Freien wachsend und erst zu Anfang des 3. Jahrhunderts haben sich die Friichte\nso weit veredelt, dass sie als geniessbar bezeichnet werden.   Dioskorides (um 50 n. Chr.) ruhmt die\n giftwidrigen Eigenschaften der Citrone und Caelius Aurelianus (romischer Schriftsteller unbekannter\nZeit) empfielt in seinem Werke „Acutarum et chronicarum passionum\" die Anwendung der Fruchte\nnnd des Saftes bei Gicht und hitzigem Fieber."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 19,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "果皮含揮發油；果肉含苦味素（Limonin, Hesperidin）；汁液含檸檬酸、蘋果酸及少量糖。",
+        "warnings": [],
+        "source_line_range": [
+          31,
+          43
+        ],
+        "exact_source_quote": "         Bestandtheile. Die aussere gelbe Fruchtschale enthalt atherisches Oel; die darunter befind-\nliV^A wpi««p. SobwammsrhiVht nnd die Kerne Bitterstoff {Limonin und Hesperidin); der Saft Citronen-\nsaure, welche   nur in  einer sehr  genngen Menge   gebunden,  sonst frei auftritt. Im  Saft sind nach\n                           %  Wasser, 1.77%  Citronensaure nebst bitterem  Extrakte und 0.72°/\n und    Apfelsaure.                                                                                                                      >/<\n\n\n\n betragen, wahrend der Saft von alten                             Citronensaure\n                                                           Citronen              nur\n                                                                             an StelleEssigsaure\n                                                                                         der     (nach\n              ,,_      j"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 20,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史用途：精油作香水；檸檬酸製冷飲；汁液歷史上用於預防壞血病及治療風濕，但對白喉療效存疑。",
+        "warnings": [
+          "Content describes historical medical applications; not modern medical advice."
+        ],
+        "source_line_range": [
+          1,
+          22
+        ],
+        "exact_source_quote": "         Das Citronenol zeigt ein gleiches Verhalten wie das Terpenthinol. Es erzeugt anf der ausseren\n Hant starkes Erythem mit Brennen und Schmerz. „Das Citronenol ist ein sehr beliebtes Parfiim fur\n Haarole und Pomaden, bildet einen Bestandtheil offizineller aromatischer Praparate (Acetum aromatieum,\n Mixtura oleoso-balsamica) und dient innerlich, mit Zucker verrieben, als wohlschmeckender Zusatz zu\n pulverformigen Mischungen und Limonaden. Werlitz empfahl es als Irritans gegen chronische Augen-\n entziindung, Pannus, Pterygium und Maculae corneae.\"\n           Die Citronensdure (Acidum citricum, Acidum Citri) findet wegen ihres Wohlgeschmacks haufige\n Verwendung zur Herstellung kiihlender Getranke und Mischungen. Sie wird im Magen und Darm\n leicht resorbirt und im Blute zu Kohlensaure und Wasser verbrannt.          „Auf die Haut wirkt concen-\n trirte Citronensaurelosung weder atzend noch reizend.     Erst sehr hohe Dosen scheinen toxische Wirkung\n zu besitzen, doch ubertrifft sie die Weinsaure an Giftigkeit. Auf die Herzaktion wirkt sie wie Wein-\n saure verlangsamend und schwachend.\"     Sie „dient als kiihlendes Mittel zu 0.5—1.0 pro dosi in Pulvern,\n Pastillen oder versiisster Losung; auch kann sie zu Brausepulver und Saturationen wie Weinsaure\n benutzt werden. Aeusserlich ist Citronensaurelosung zu schmerzlindernden Umschlagen bei Krebs-\n geschwiiren empfohlen.    u\n\n        Der Citronensaft ist als durststillendes und kiihlendes Mittel sehr beliebt; einen ganz beson-\nderen Ruf besitzt er sowohl prophylaktisch als heilend beim Skorbut, weshalb namentlich die Schiffe\nmit diesem Mittel versehen sein mfissen. Auch bei akutem Rheumatismus und namentlich\nHydrops wird er mit anscheinencl giinstigem Erfolge verwendet, ebenso gegen Erbrechen, wohingegen\nseine Verwendung gegen Hospitalbrand und Diphtheritis von zweifelhaftem Erfolge sein soil.      Huse-\nmann, Arzneimittell. 415, 873 (Citronensaure)."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "12628c630080fd8233f3ae94088044f9217a7895ac1ebe961d6bf00cf68c2ad4"
+}

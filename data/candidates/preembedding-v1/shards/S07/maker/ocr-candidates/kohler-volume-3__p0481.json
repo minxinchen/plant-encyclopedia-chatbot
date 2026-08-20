@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 481,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "02f56f151b35d645ebf604ac1bb842ce8490bb4409db2053a35afd58ef5b472e",
+  "render_dpi": 144,
+  "render_sha256": "4707d79b40a45a62dff1ba719e4aa547561fd69ae240cbbbf83074f0f96be5db",
+  "input_sha256": "4707d79b40a45a62dff1ba719e4aa547561fd69ae240cbbbf83074f0f96be5db",
+  "render_pixel_width": 5462,
+  "render_pixel_height": 8294,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.26,
+  "embedded_character_count": 99,
+  "ocr_character_count": 46,
+  "ocr_alpha_ratio": 0.7609,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01916458493187312,
+      "text": "Rubiaceae",
+      "width": 0.09063655209828572,
+      "x": 0.028633159281629034,
+      "y": 0.9562607308420961
+    },
+    {
+      "confidence": 1,
+      "height": 0.019888807856847324,
+      "text": "(Stellatae)",
+      "width": 0.08219552901853996,
+      "x": 0.03506117657031627,
+      "y": 0.9340962937982408
+    },
+    {
+      "confidence": 1,
+      "height": 0.031976745242164206,
+      "text": "CO",
+      "width": 0.07284768230943794,
+      "x": 0.8013245031860395,
+      "y": 0.3066860458382201
+    },
+    {
+      "confidence": 1,
+      "height": 0.021837764316135044,
+      "text": "Rubia tinctorum L.",
+      "width": 0.17037450261862885,
+      "x": 0.4435103214987205,
+      "y": 0.0443136760629852
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729363,
+      "text": "53",
+      "width": 0.024282558854803904,
+      "x": 0.9271523190494191,
+      "y": 0.013081395472984148
+    }
+  ],
+  "text": "Rubiaceae\n(Stellatae)\nCO\nRubia tinctorum L.\n53",
+  "output_sha256": "29e8136f2cbfc930cb4e624c89b4cd3794087db036b941b8abb466ed09817f45",
+  "receipt_sha256": "77256d3f7631f59ffbe61d2b23fe4b20449379b57116155031885ff12af41b58"
+}

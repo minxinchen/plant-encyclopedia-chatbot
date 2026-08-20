@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 387,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "33bec52f4cc7774f973183224d9f49f59098838d7c68590a7501023b5ea8a6fb",
+  "render_dpi": 144,
+  "render_sha256": "7a75e4164df4f0474a28c42629e2e33de321d01a8f0f8a701caddc41c68d7dc2",
+  "input_sha256": "7a75e4164df4f0474a28c42629e2e33de321d01a8f0f8a701caddc41c68d7dc2",
+  "render_pixel_width": 5834,
+  "render_pixel_height": 7910,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.029,
+  "embedded_character_count": 167,
+  "ocr_character_count": 51,
+  "ocr_alpha_ratio": 0.7059,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01761107217697866,
+      "text": "Rutaceae.",
+      "width": 0.09257817220270992,
+      "x": 0.8405219386774285,
+      "y": 0.9272409754688593
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252612005,
+      "text": "8",
+      "width": 0.011811023601847492,
+      "x": 0.785433071073092,
+      "y": 0.2136627909463683
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "10",
+      "width": 0.017716535402771183,
+      "x": 0.6259842521608191,
+      "y": 0.1555232560626476
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "WM",
+      "width": 0.02559055156489709,
+      "x": 0.8917322834859241,
+      "y": 0.13226744187702222
+    },
+    {
+      "confidence": 1,
+      "height": 0.02183116428435794,
+      "text": "Pilocarpus pinnatifolius Lem.",
+      "width": 0.30118109799906484,
+      "x": 0.3602362264187747,
+      "y": 0.11482558158286993
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "75.",
+      "width": 0.02165354284249299,
+      "x": 0.9212598430226511,
+      "y": 0.0218023256474027
+    }
+  ],
+  "text": "Rutaceae.\n8\n10\nWM\nPilocarpus pinnatifolius Lem.\n75.",
+  "output_sha256": "0322623943407923e807ecbef4a59c75e29ad03e0df1fd02e940fcc1d32e8c42",
+  "receipt_sha256": "b2e7f4ba97583f7fc6210c5bf311178249e3b2a288d35b898ca9a29676874381"
+}

@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-3:p0259-p0262",
+  "owner_shard": "S07",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 128.791,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-3:p0259-p0262",
+    "book_taxon": {
+      "scientific_name_candidate": "Anacardium occidentale",
+      "authorship_candidate": "L.",
+      "aliases_candidates": [
+        "Anacardium subcordatum Presl.",
+        "Cachunuss- oder Elefantenlaus-Baum",
+        "Caju",
+        "pomme d’acajou",
+        "cashew-nut",
+        "noz de caju",
+        "mbibo",
+        "kaju"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 259,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Anacardium occidentale L.，同義名 Anacardium subcordatum。屬無患子科，無患子族。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          7
+        ],
+        "exact_source_quote": "                                Anacardium                             occidentale L.\nCachunuss-          oder    Elefantenlaus-Baum.                    Franz.:       Caju        oder     pomme         d’acajou.        Engl.:\n                  cashew-nut.      Port.: noz de caju.                  Künah.:         mbibo.         Hindost.: kaju.\n\n           Syn.      Anacardium         subcordatum       Presl.\n\n           Familie: Anacardiaceae.               Tribus: Mangifereaee                 Gattung: Anacardium.                L."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 259,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "高6至10公尺樹木，枝條光滑無毛。葉互生，無托葉，倒卵形，長12至14公分，革質，具平行側脈。",
+        "warnings": [],
+        "source_line_range": [
+          9,
+          20
+        ],
+        "exact_source_quote": "           Beschreibung.         Ein 6 bis 10 m               hoher Baum,             im Habitus        an den Walnussbaum                er-\ninnernd,    mit aufrechtem Stamm                 und    ganz      kahlen     und glatten Zweigen,               welche     nach    oben   zu\ndicht beblättert sind.          Die Blätter stehen abwechselnd, besitzen keine Nebenblätter und sind\n1 bis 1,5 cm        lang    gestielt.      Die Blattspreite            hat     verkehrt-eiförmige            Gestalt     und ist im all-\ngemeinen      eineinhalb-     bis zweimal,             seltener    bis zweieinhalbmal               so lang als breit; die mittlere\nLänge      beträgt 12 bis 14 cm             und     die Breite 6 bis 8 cm, ausnahmsweise erreicht die Länge\n‚auch    18 cm.      An    der Basis      sind      die Blätter        meist     in    den    Blattstiel     verschmälert,         weniger\nhäufig    spitz oder gar stumpf;            oben       sind    sie ganz      abgestumpft,           rundlich,     zuweilen     sogar aus-\ngerandet;     der Rand       zeigt keinerlei Einschnitte,               ist nur zuweilen             etwas     wellig;    die Blattfläche\nist beiderseits      ganz    kahl, von      dick lederartiger derber Konsistenz,                       mit starker Mittelrippe und\nmit zehn bis vierzehn fast parallel verlaufenden Seitennerven versehen,                                      welche sämtlich an der\nUnterseite deutlich heryortreten.                   Die Blüten sind zu trugdoldigen,                       endständigen Rispen an-"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 260,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產熱帶中南美洲，從墨西哥至巴西。亞洲熱帶地區有栽培，非洲沿岸從塞內加姆至莫三比克亦有分佈。",
+        "warnings": [],
+        "source_line_range": [
+          12,
+          19
+        ],
+        "exact_source_quote": "           Vorkommen              und Verbreitung.              Die Pflanze            ist im ganzen           tropischen Zentral-                und\nSüdamerika          einheimisch,          von     Mexiko        an        durch     Mittelamerika       und     Westindien     bis       zu       den\n\nbrasilianischen Provinzen Sad Paulo und Rio de Janeiro.                                         Ausserdem wird der Baum in den\nasiatischen Tropenländern                     kultiviert      und     ist häufig verwildert.                 In Afrika    scheint er noch\nnicht sehr weit ins Innere vorgedrungen zu sein, an der Küste ist er von Senegambien bis\nAngola      und    von    Tanga         bis Mossambik           verbreitet,         namentlich        auch    viel auf Sansibar.\n"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 261,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "果殼空腔含樹脂，主要成分為Cardol與Anacardsäure。Anacardsäure為白色結晶，不溶於水，溶於酒精。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          14
+        ],
+        "exact_source_quote": "          Bestandteile.\n                      Der in den. Höhlungen der Steinschale der Frucht befindliche. Balsam\nenthält besonders zwei wichtigere Stoffe, das Cardol und die Anacardsäure.\n        Die Anacardsäure C?°H°?O3 bildet eine weisse krystallinische, bei 20° schmelzende\nMasse von schwach aromatischem Geruch, die auf Papier Fettflecke hervorbringt. In Wasser\nist sie unlöslich, löslich dagegen in Alkohol und Äther; ihre Lösungen reagieren sauer. Man\nerhält sie, indem man das Perikarp mit Äther auszieht, den Auszug verdampft und aus dem\nRückstande nach Lösen desselben in Alkohol die Anacardsäure durch frisch gefälltes Blei-\nhydrat solange ausfällt, bis die Lösung nicht mehr sauer reagiert. Aus dem anacardsauren\nBlei wird zunächst durch Schwefelammonium die Anacardsäure in Freiheit gesetzt, durch\nvorsichtige Fällung         von Farbstoffen              und Öl befreit, nochmals\n                                                               durch Bleiacetat gefällt und\ndurch eine alkoholische Lösung von Schwefelsäure vom Blei befreit. Aus der Alkohollösung\nfällt man schliesslich die Säure durch Wasser."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 261,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史用途：果實曾作起泡劑佩戴；Cardol用於治療疣與防腐；種子烤食或製油，但需小心刺激性成分。",
+        "warnings": [],
+        "source_line_range": [
+          31,
+          42
+        ],
+        "exact_source_quote": "           Anwendung.            Die Anacardiennüsse           dienen        als blasenziehendes         Mittel und werden              zu\ndiesem Zwecke        an         einem Bande       als Amulet auf der blossen Bfust getragen. Der Dampf\nder Früchte       beim Rösten             soll Entzündungen und Schwellungen hervorrufen. Auf die Haut\ngeklebt, hinterlässt die Fruchtschale ein schwarzes Mal, und dient deshalb in einigen Gegenden\nals Schönheitsmittel. Das Cardol wird gegen Warzen, Leichdorne, Geschwüre etc. verwendet,\nferner    als Tinte zum         Zeichnen       der Wäsche,       sowie       zum Bestreichen          der Pfosten     und        anderen\nHolzwerkes        als wirksames            Abwehrmittel        gegen     Ameisen        und Termiten.         Die Samenkerne\ndagegen werden im gerösteten Zustande gern gegessen und sind von angenehmen Geschmack;\nsie sollen, mit Kakaobohnen verrieben, eine gute Ohokolade geben. Sie enthalten etwa 40°],\neines hellgelben Öles, des Akarchu-Öles; dasselbe dient als vortreffliches Speiseöl; nur ist\nbei Bereitung desselben wegen des scharfen Cardols Vorsicht nötig.\n"
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 262,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "圖版描述：A開花植株。1放大之花；2雌蕊與雄蕊；3縱切面；4帶果柄之果實；5果實縱切；6果實橫切。",
+        "warnings": [],
+        "source_line_range": [
+          20,
+          24
+        ],
+        "exact_source_quote": "                                         Tafelbeschreibung:\n         A Blühende Pflanze. 1 Blüte vergrössert; 2 Stempel und Staubgefässe; 3 Dasselbe im Längsschnitt;\n4 Frucht mit dem vergrösserten und reifen Fruchtstiel; 5 Frucht im Längsschnitt; 6 Frucht im Querschnitt.\nNach einem Exemplare aus dem Kulturgarten zu Tijkeumeuh bei Buitenzorg auf Java. (V. Schiffner, Trop.\nKultur- und Heilpflanzen No. 24.) Herbar Vogtherr."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "2322d884405e22a2b9377132c51b7e41ffa3dffd48cd6474378b9630bb160337"
+}

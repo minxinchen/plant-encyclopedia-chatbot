@@ -1,0 +1,242 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-3-p0255-p0258",
+  "entry_id": "kohler-volume-3:p0255-p0258",
+  "owner_shard": "S07",
+  "book_taxon": {
+    "scientific_name": "Rhus succedanea",
+    "authorship": "De Candolle",
+    "aliases": [
+      "Japanischer Wachsbaum",
+      "Talgbaum",
+      "Haze",
+      "Haji",
+      "Hagi",
+      "Fasi-no-ki"
+    ]
+  },
+  "display_name": "木蠟樹",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Rhus succedanea"
+    ],
+    "accepted_scientific_name": "Rhus succedanea",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T14:09:17+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Rhus+succedanea",
+        "query_name": "Rhus succedanea",
+        "retrieved_at": "2026-08-13T14:09:17+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0075652",
+        "query_name": "Rhus succedanea",
+        "retrieved_at": "2026-08-13T14:09:17+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0075652",
+        "query_name": "Rhus succedanea",
+        "retrieved_at": "2026-08-13T14:09:17+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL accepts the queried book binomial at species rank."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 255,
+      "evidence_type": "text",
+      "page_text_sha256": "9cf73bced4015562ed6390978ca2451b4a4552ef19f65c4831cbf92f5cd76933",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 256,
+      "evidence_type": "text",
+      "page_text_sha256": "6b44f77af457845051378d563deacaa0466071dd549221da1fd9b96aa260162d",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 257,
+      "evidence_type": "text",
+      "page_text_sha256": "175ff1d958606a84207d47cbb5f23af24b94a92af5d9d6cae239440c11585dd7",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-3:p0255-p0258:s00:x00",
+      "section_type": "description",
+      "original_text": "           Beschreibung.       Der Baum          wird    in Japan           bis 9 m hoch,          doch   sind 3 bis 6 m die\ngewöhnliche      Höhe.     Der    Stamm      besitzt    eine 'graubraune             Rinde   und    ein gelbes     hartes     Holz,\nwelches einen hellen, an der Luft sich schwärzenden Saft enthält. Der Baum trägt eine\nnicht sehr reichlich verzweigte Krone; die Zweige sind nur teilweise mit Blättern besetzt;\nletztere häufen sich vielmehr am Ende der Zweige. Die Blätter sind von schön grüner\nFarbe und röten sich vor dem Abfallen im Herbste. Sie sind paarig gefiedert; ihre Gesamt-\nlänge beträgt 15 bis 20 cm; ihr Blattstiel ist kahl und rund, nicht rinnig; er trägt ausser\ndem Endblättchen fünf bis sieben Paar gegenständiger, kahler, ziemlich harter, ganzrandiger\nFiederblättchen. Diese sind eilanzettlich, am Grunde etwas ungleich, und mit vorgezogener\nSpitze versehen.         Ihre Länge beträgt 5 bis 7 cm, ihre Breite 2 bis 2,5 cm, das unterste Paar\nist meist das kleinste; es ist gegen 8 cm vom Zweige entfernt, von dunkelgrüner Farbe,\noberseits glänzend, unterseits matt, aber kaum heller. — Jedes Blättchen lässt dreizehn bis\nachtzehn oder mehr Seitenrippen erkennen, welche unter Winkeln von 60 bis 70° aus der\nMittelrippe hervortreten.   In frühester Jugend sind die Blätter in braunen Filz eingehüllt.",
+      "normalized_text": null,
+      "zh_tw_rendering": "樹高3至9公尺，莖皮灰褐，木材黃色。葉互生，長15至20公分，羽狀複葉，小葉5至7對，橢圓狀披針形。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 255,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 366,
+        "char_end": 1705,
+        "page_text_sha256": "9cf73bced4015562ed6390978ca2451b4a4552ef19f65c4831cbf92f5cd76933",
+        "exact_text_sha256": "99a09c565b4aada3e2fc73851cf12e75b96278d3b1e77c3e75f5d04bfbf52dea",
+        "source_line_start": 5,
+        "source_line_end": 18,
+        "section_index": 0,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "99a09c565b4aada3e2fc73851cf12e75b96278d3b1e77c3e75f5d04bfbf52dea",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0255-p0258:s01:x00",
+      "section_type": "distribution",
+      "original_text": "    |     Vorkommen und Ver         bre itu ng.      Nac h    Bra  ndi s      soll  die   Pfla nze   in  Jap an   heim  isch\nsein und     sich von     hier bis Vorderindien,            Nepal    und     des Pendschab         verbreitet     haben.      Rein\nund Robertson halten die Lutsch u-I nse ln für die Hei mat des Bau mes , wäh ren d sie glau ben,\n                                                                                                                        50",
+      "normalized_text": null,
+      "zh_tw_rendering": "據Brandis原產日本，分布至前印度、尼泊爾及旁遮普；Rein與Robertson認為原產琉球群島。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 255,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 4167,
+        "char_end": 4642,
+        "page_text_sha256": "9cf73bced4015562ed6390978ca2451b4a4552ef19f65c4831cbf92f5cd76933",
+        "exact_text_sha256": "e0fbcdc72542f0bcb3a72679cf53786e6a817702f49b7859011a358321fbf2d4",
+        "source_line_start": 42,
+        "source_line_end": 45,
+        "section_index": 1,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "e0fbcdc72542f0bcb3a72679cf53786e6a817702f49b7859011a358321fbf2d4",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0255-p0258:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "           Anatomisches. Die Früchte von Rhus succedanea DC. si\n                                                                nd von A. Meyer genauer unter-\nsucht.     Auf eine dünne, spröde, glatte, glänzende Epidermis fo\n                                                                   lgt die wichtige Mittelschicht\nder Frucht,     welche      unter    der Lupe          zwei    Reihen       dunkler    Längsstreifen,         und     dazwischen    ein\nmürbes lockeres Gewebe zeigt. Unter dem Mikroskop\nsaftgänge, welche von einer mehrreihigen Sc           er we is en si ch di e er st er en als Milch-\n                                            hicht von Sklerenchymzellen umgeben werde\nSie enthalten bei der Reife eine braune ei                                                       n\n                                           ngetrocknete Masse.                                   Zwischen den beiden Reihen",
+      "normalized_text": null,
+      "zh_tw_rendering": "果實解剖：外果皮薄而脆，中果皮含乳汁管及儲脂組織，內果皮為堅硬黃色殼，種子無胚乳。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 256,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 3966,
+        "char_end": 4883,
+        "page_text_sha256": "6b44f77af457845051378d563deacaa0466071dd549221da1fd9b96aa260162d",
+        "exact_text_sha256": "904b23cc1be211a8391e9a71a929568fe02202a892b8dd2341921e51733d928e",
+        "source_line_start": 46,
+        "source_line_end": 55,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "904b23cc1be211a8391e9a71a929568fe02202a892b8dd2341921e51733d928e",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0255-p0258:s03:x00",
+      "section_type": "historical_use",
+      "original_text": "         Offizinell und Handelsware ist das aus den Samen gepresste Fett: Japantalg, Japan-\n'wachs, Cera Japoniea, Japan-wax, Cire de Japon, jap. £o. Die in Büscheln stehenden Beeren\nvon der Grösse einer kleinen Erbse enthalten das Fett in der Mittelschicht, zwischen dem\nKern und der äusseren Schale.                Die Darstellung des Japantalgs geschieht nun im allgemeinen\nin der Weise, dass die Früchte im Mörser zerquetscht, gewerfelt, (d. h. durch Werfen die\nschwereren Steine von dem leichteren Mesocarp getrennt) dann über Wasserdämpfen auf\nMatten gedämpft, darauf in Hanfsäcke gethan und wieder gedämpft und in sehr primitiven\nHolzpressen gepresst werden. Das Rohprodukt von bräunlicher oder gräulicher Farbe wird meist\nunter Zusatz von »e-no-abura oder Ye Goma (d. i. Öl von Perilla ocymoides, zur Verflüssigung)\ngepresst, in Kuchen geformt, mit einer Axt Hobel in kleine Schnitzel zerschnitten und durch\nwiederholtes Kochen mit Holzaschenlösung und später mit reinem Wasser gebleicht.        Das\nPflanzenwachs   von zwei bis drei Jahre alten Beeren ist härter und teurer als das von\nfrischen    Beeren. — Nach           dem       Aussehen     unterscheidet          man     ungebleichtes            Wachs     zweiter\nund    erster   Güte, sowie     gebleichtes         Wachs   dritter, zweiter        und    erster     Qualität.",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：種子壓榨得日本蠟（Japantalg），經蒸煮、壓榨及漂白製成蠟塊，用於製造蠟燭。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 257,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 398,
+        "char_end": 1738,
+        "page_text_sha256": "175ff1d958606a84207d47cbb5f23af24b94a92af5d9d6cae239440c11585dd7",
+        "exact_text_sha256": "15b7550349249bc793cb7c60336291f4b75f46c3ac0075c684f41ec21f4279fb",
+        "source_line_start": 6,
+        "source_line_end": 19,
+        "section_index": 3,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "15b7550349249bc793cb7c60336291f4b75f46c3ac0075c684f41ec21f4279fb",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0255-p0258:s04:x00",
+      "section_type": "constituents",
+      "original_text": "           Eigenschaften und Zusammensetzung. Der Japantalg                                  bildet Kuchen von 12 cm\nDurchmesser und 2,5 cm Dicke oder im rohen Zustande runde Kuchen von ca. 12 em Durch-\nmesser, die durch Erstarren der geschmolzenen Masse in Thonschalen erhalten werden. Im\n‘'Grossohandel     finden     sich auch Blöcke          von 65 kg Gewicht.                Auf dem Bruche              ist er weiss\noder   gelblichgrün     bis    braun,        oben   bereift und    oft mit einer glänzenden                Krystallschicht        be-\nsetzt. Der Geruch ist unangenehm talgartig. Bei längerem Liegen an der Luft färbt er sich\n allmählich gelbbraun. Schmelzpunkt 52 bis 53°, spezifisches Gewicht des gebleichten Wachses\n etwas schwerer als Wasser, das des frisch umgeschmolzenen sowie des bei Zimmertemperatur\n‚gemessenen Talgs etwas geringer als Wasser. In Alkohol von 97°/, ist er leicht löslich,\nbeim    Erkalten    krystallisiert      er     grösstenteils     wieder     aus.     Das    Auskrystallisierte          hat     einen\nSchmelzpunkt von 54°, während 3°/, in Lösung bleiben, mit einem Schmelzpunkt von 34 bis\n35°.   Nach Buri besteht der Japantalg aus den’Glyceriden der Palmitinsäure, einer ölartigen\nSäure, und einer Säure, deren Schmelzpunkt höher liegt, als der der Stearinsäure. — Sehr\ncharakteristisch ist der hohe Glyceringehalt des Japantalgs, der nach Allen 11,6 bis 14,7%,\nbeträgt und der den Forscher vermuten liess, dass Diglyceride in dem Talg enthalten seien.\nDieselben konnten indessen nicht nachgewiesen werden.     Aus diesen Eigenschaften resultieren\n für den Japantalg als Säurezahl 20, als Esterzahl 200, als Verseifungszahl 214 bis 222, als\n.Jodzahl 4,2.",
+      "normalized_text": null,
+      "zh_tw_rendering": "成分：含甘油酯、棕櫚酸及高熔點酸，甘油含量11.6至14.7%，酸值20，酯值200，皂化值214至222。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 257,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 3426,
+        "char_end": 5131,
+        "page_text_sha256": "175ff1d958606a84207d47cbb5f23af24b94a92af5d9d6cae239440c11585dd7",
+        "exact_text_sha256": "bc000040e783e011bf71a9a246687003675e760193f1301e42370ad1d6da4f79",
+        "source_line_start": 38,
+        "source_line_end": 55,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "bc000040e783e011bf71a9a246687003675e760193f1301e42370ad1d6da4f79",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "e7d3e414b27487a31d08a8d0ac791a8d1d3f2b2d430115c9f976335a7c1f23f2",
+    "maker_receipt_sha256": "cf7b65c08a878adc23f1af57e8fe8e482ba92748250ba1184e2dad9307c33db1",
+    "validation_check_sha256": "d4d89f1022a32d176e38347106ec4fabf9954bb7f9dc591e97eec4a5524f6269",
+    "source_disposition_sha256": "559b8c9be4dde09994f5d3bcf6f56fb8c8922d6c8cd9b322736c79729abc0229",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "cf7b65c08a878adc23f1af57e8fe8e482ba92748250ba1184e2dad9307c33db1",
+      "validation_check_sha256": "d4d89f1022a32d176e38347106ec4fabf9954bb7f9dc591e97eec4a5524f6269",
+      "source_disposition_sha256": "559b8c9be4dde09994f5d3bcf6f56fb8c8922d6c8cd9b322736c79729abc0229"
+    },
+    "naming_artifact_sha256": "97c9bbb69fb402a79124e9e67c819ba104f26a3ec139aa4fbda6deb09ff57780"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "08cad44e2c2a9dd5f18bed07127cfe216ee1a9222190da7e1483330e17e1324c"
+}

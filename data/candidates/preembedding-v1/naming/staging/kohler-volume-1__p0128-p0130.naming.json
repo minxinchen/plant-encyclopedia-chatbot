@@ -1,0 +1,180 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-1:p0128-p0130",
+  "owner_shard": "S02",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S02/maker/structure-drafts/kohler-volume-1__p0128-p0130.json",
+  "source_draft_sha256": "050a0eef16ccddbde2712d174fba190af6688f87c069827fb4fa2d7f989ad423",
+  "eligibility": {
+    "deterministic_status": "pass",
+    "checked_field": "deterministic_status",
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "31c8d9361672274e7d1a6b6428264792fae28f5bdb2bb76466dc0288b7e6a9e2",
+    "validation_check_sha256": "f280d1d5913d34f787ce7dff6b3c2a14af3a1ae8a71b46ce1aa161cb334a70e8",
+    "source_disposition_sha256": "575cec077c537d91b546f44d078b4959b0cd98647204ab7d46e8bccd9d20b3e4",
+    "review_status": "machine_extracted"
+  },
+  "book_name": {
+    "scientific_name_candidate": "Artemisia Cina",
+    "authorship_candidate": "Berg",
+    "aliases_candidates": [
+      "Semen contra",
+      "Barbotine",
+      "Semencine",
+      "Santonica",
+      "Wormseed",
+      "Flores Cinae",
+      "Semen Santonici",
+      "Semen sanctum"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Artemisia Cina",
+      "Artemisia cina"
+    ],
+    "accepted_scientific_name": "Artemisia cina",
+    "display_name_zh_tw": "沿海艾",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0061049",
+    "rationale": "TaiCOL accepts the queried book binomial at species rank.",
+    "checked_at": "2026-08-13T12:27:09+08:00",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Artemisia Cina",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Artemisia+Cina",
+      "retrieved_at": "2026-08-13T12:27:09+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Artemisia",
+          "matched_name_id": 712,
+          "taxon_id": "t0023229",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Artemisia",
+          "accepted_name_id": 712,
+          "accepted_usage": [
+            {
+              "usage_id": 178106,
+              "reference_id": 2454,
+              "reference_type": "Book",
+              "publish_year": 2017,
+              "citation": "Ed. Comm. Red List TW Plants,  (2017) The Red List of Vascular Plants of Taiwan, 2017 = 2017 臺灣維管束植物紅皮書名錄.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 321248,
+              "reference_id": 3321,
+              "reference_type": "Book",
+              "publish_year": 2011,
+              "citation": "Lu, F.-Y. (2011) Flora of Kinmen = 金門植物誌, vol. 2.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 279897,
+              "reference_id": 1040,
+              "reference_type": "Book Chapter",
+              "publish_year": 1998,
+              "citation": "Peng, C.-I., Chung, K.-F. & Li, H.-L. (1998) 144. Compositae. In: Flora of Taiwan, 2 ed., vol. 4. 807–1101.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 6449,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": null
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0023229",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0023229",
+          "taxon": {
+            "taxon_id": "t0023229",
+            "taxon_status": "accepted",
+            "name_id": 712,
+            "simple_name": "Artemisia",
+            "name_author": "L.",
+            "rank": "Genus",
+            "common_name_c": "蒿屬",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": null,
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-12-24"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Artemisia cina",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Artemisia+cina",
+      "retrieved_at": "2026-08-13T12:27:09+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Artemisia cina",
+          "matched_name_id": 54218,
+          "taxon_id": "t0061049",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Artemisia cina",
+          "accepted_name_id": 54218,
+          "accepted_usage": [
+            {
+              "usage_id": 38518,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0061049",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0061049",
+          "taxon": {
+            "taxon_id": "t0061049",
+            "taxon_status": "accepted",
+            "name_id": 54218,
+            "simple_name": "Artemisia cina",
+            "name_author": "O.Berg",
+            "rank": "Species",
+            "common_name_c": "沿海艾",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-12-24"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

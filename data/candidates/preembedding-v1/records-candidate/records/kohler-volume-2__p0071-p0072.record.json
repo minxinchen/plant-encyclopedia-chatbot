@@ -1,0 +1,254 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0071-p0072",
+  "entry_id": "kohler-volume-2:p0071-p0072",
+  "owner_shard": "S03",
+  "book_taxon": {
+    "scientific_name": "Menyanthes trifoliata",
+    "authorship": null,
+    "aliases": [
+      "Fieberklee",
+      "Bitterklee",
+      "Biberklee",
+      "Sumpf klee",
+      "Zottenblume",
+      "Menyanthe ou tréfle d'eau",
+      "Buckbean",
+      "Drieblad",
+      "Trifolium palustre",
+      "Trifolium fibrinum",
+      "Trifolium castoris"
+    ]
+  },
+  "display_name": "睡菜",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Menyanthes trifoliata"
+    ],
+    "accepted_scientific_name": "Menyanthes trifoliata",
+    "display_name_source_scope": "taiwan_academic_public",
+    "taiwan_occurrence_status": "not_recorded",
+    "checked_at": "2026-08-13T13:01:54+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Menyanthes+trifoliata",
+        "query_name": "Menyanthes trifoliata",
+        "retrieved_at": "2026-08-13T12:52:56+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Sumpf+klee",
+        "query_name": "Sumpf klee",
+        "retrieved_at": "2026-08-13T12:55:39+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Trifolium+palustre",
+        "query_name": "Trifolium palustre",
+        "retrieved_at": "2026-08-13T12:55:39+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Trifolium+fibrinum",
+        "query_name": "Trifolium fibrinum",
+        "retrieved_at": "2026-08-13T12:55:39+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Trifolium+castoris",
+        "query_name": "Trifolium castoris",
+        "retrieved_at": "2026-08-13T12:55:39+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL and Tai2 have no exact record, but Taiwan's National Museum of Natural Science explicitly names 睡菜 (Menyanthes trifoliata) and explains that the current view is that the species does not occur in Taiwan."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 71,
+      "evidence_type": "text",
+      "page_text_sha256": "72983dfb9fe8f4c822e8984b0fbab9956a5924553209f40d8381442d82803352",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 72,
+      "evidence_type": "text",
+      "page_text_sha256": "3710e44c9221b309789757813b74248c86edf3d97d82d74796dfc8d0913e7067",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0071-p0072:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "            Familie:      Gentianaceae.      Gattung:       Menyanthes Tourn.",
+      "normalized_text": null,
+      "zh_tw_rendering": "科：龍膽科。屬：Menyanthes Tourn.。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 71,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 241,
+        "char_end": 318,
+        "page_text_sha256": "72983dfb9fe8f4c822e8984b0fbab9956a5924553209f40d8381442d82803352",
+        "exact_text_sha256": "a17d690214dea12a9a3ff65e86d9d22e094647f7dbdb54cbb498c7e6b86659e7",
+        "source_line_start": 5,
+        "source_line_end": 5,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "a17d690214dea12a9a3ff65e86d9d22e094647f7dbdb54cbb498c7e6b86659e7",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0071-p0072:s01:x00",
+      "section_type": "description",
+      "original_text": "         Beschreibung.   Ausdauernde Pflanze mit kriechendem, fast fingerdickem, walzenrundem\n schwammigem, mit Resten alter Blattscheiden besetztem Wurzelstock, der auf der Unterseite mit ver-\n einzelten Nebenwurzeln besetzt ist und nach vorn aufsteigend den sehr kurzen, beblätterten Stengel,\n nebst den blattlosen, bis 30 Ctm. langen Blüthenschaft entwickelt. Blätter abwechselnd, ziemlich auf-\n recht, mit bis 10 Ctm. langem, stielrundem, am Grunde scheidigem, von Luftröhren durchzogenem Stiele,\n gedreiet; Blättchen sehr kurz gestielt, etwas lederig, oval- oder verkehrt-eiförmig, bis 8 Ctm. lang, bis\n. 9 Ctm. breit, stumpf, ganzrandig oder undeutlich            gekerbt, die breite Spitze mit einem stumpfen, weissen\n  Höckerchen, kahl, bläulich-grün, in der Jugend              eingerollt, fiedernervig, Nerven bogenläufig,  Die am\n Ende des Blüthenschaftes zu einer Blüthentraube vereinigten Blüthen gestielt, zwitterig, 5zählig, einzeln\n in den Achseln        kleiner Deckblätter,      Blüthentraube       mit Gipfelblüthe;    Blüthenstiele   in der Mitte mit",
+      "normalized_text": null,
+      "zh_tw_rendering": "多年生植物，具匍匐根莖。葉互生，三出複葉，葉片橢圓形。花序頂生，花冠漏斗狀，紅白色。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 71,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 319,
+        "char_end": 1389,
+        "page_text_sha256": "72983dfb9fe8f4c822e8984b0fbab9956a5924553209f40d8381442d82803352",
+        "exact_text_sha256": "a03c27e6b4bb15fd7e755b2df1e90773979a49224b35ccd9844acad3b6f5f11d",
+        "source_line_start": 6,
+        "source_line_end": 15,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "a03c27e6b4bb15fd7e755b2df1e90773979a49224b35ccd9844acad3b6f5f11d",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0071-p0072:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "           Anatomisches. Der Querschnitt der Blattspreite zeigt nach Flückiger auf der oberen\n Blattfläche vieleckige Epidermiszellen mit darunter liegender schmaler Schicht von Palissadenzellen.\n Die Epidermiszellen der unteren Blattseite sind buchtig. Das aus sehr lockerem Gewebe zusammen-\n gesetzte Parenchym ist im Blattstiel und dessen Flügeln von weiten Lufträumen durchsetzt, die nur\n durch einreihige Zellenstränge von einander getrennt werden.",
+      "normalized_text": null,
+      "zh_tw_rendering": "葉片橫切面顯示上表皮多角形，下表皮波狀。葉柄含寬大氣腔，由單層細胞分隔。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 71,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2966,
+        "char_end": 3419,
+        "page_text_sha256": "72983dfb9fe8f4c822e8984b0fbab9956a5924553209f40d8381442d82803352",
+        "exact_text_sha256": "1aa34ccb8881776df2d91a933c32a9b573590ea39c4acc2e562e21c3a815f880",
+        "source_line_start": 31,
+        "source_line_end": 35,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "1aa34ccb8881776df2d91a933c32a9b573590ea39c4acc2e562e21c3a815f880",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0071-p0072:s03:x00",
+      "section_type": "distribution",
+      "original_text": "          Vorkommen.     In Sümpfen, Morästen, Wiesengräben, auf Torfwiesen, an See- und Teich-\n rändern, überhaupt an nassen Orten der Niederungen und Gebirge durch Europa, Mittelasien, Nord-\n amerika; nach Karsten auch in Südamerika in der Nähe des Aequators.     Sie ist nach Flückiger\n eine Pflanze     des kälteren Theiles       der nördlichen    Halbinsel,     „welche von    den arktischen    Gebieten   der\n  alten Welt und Amerikas bis zum Himalaya, in den Mittelmeerländern, vom kanadischen Seegebiete\n  an bis Pensylvanien verbreitet ist, besonders in hochnordischen Gegenden massenhaft auftritt, wie z. B.\n  auf Island.“",
+      "normalized_text": null,
+      "zh_tw_rendering": "產於沼澤、泥炭地及水邊。分佈於歐洲、中亞、北美及南美赤道附近，喜寒冷地區。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 71,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3420,
+        "char_end": 4052,
+        "page_text_sha256": "72983dfb9fe8f4c822e8984b0fbab9956a5924553209f40d8381442d82803352",
+        "exact_text_sha256": "1a7c873b658fd01c72fa0ed440dd6081e2cded58e6796df3e2453e36c54d2209",
+        "source_line_start": 36,
+        "source_line_end": 42,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "1a7c873b658fd01c72fa0ed440dd6081e2cded58e6796df3e2453e36c54d2209",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0071-p0072:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "         Anwendung. Im Aufguss und Abend als Zusatz zu bitteren Spezies. Der frisch gepresste\nSaft zu Frühjahrskuren.  Der Bitterklee gehört zu den milden, bitteren, magenstärkenden Arzneien.\nHusemann bezeichnet ihn als ein bitteres Amarum, dem man bei Wechselfieber nicht allzuviel\nWirkung zutrauen darf.  Ausserdem wird Bitterklee in den Bierbrauereien als Zusatz zum Biere ver-\nwendet, dem er ein angenehmes Bitter verleihen soll.            (Husemann, Arzneimittel. 647.)",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：煎劑或浸劑用於苦味藥；鮮汁用於春季療法。曾用於啤酒釀造以增加苦味。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 72,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 1410,
+        "char_end": 1885,
+        "page_text_sha256": "3710e44c9221b309789757813b74248c86edf3d97d82d74796dfc8d0913e7067",
+        "exact_text_sha256": "3120d963f170a360d1500b1b54e27552d2075f92b30be09fdc124d720eb44154",
+        "source_line_start": 16,
+        "source_line_end": 20,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "3120d963f170a360d1500b1b54e27552d2075f92b30be09fdc124d720eb44154",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Taiwan museum evidence explicitly reports that the species is not currently regarded as occurring in Taiwan; the Taiwan public name is retained as naming metadata only.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "2228633fc57f223c3627a9edce582a31da382ce04b48dbd7e177b76eb7ede371",
+    "maker_receipt_sha256": "a32627e82d55f6582a173472f43d2e4e47018389d59b9d196dda75f34deb2182",
+    "validation_check_sha256": "06fa724b7949a8565669edaa15179a8fd06647c6b967d87a8a68d0b4afb45080",
+    "source_disposition_sha256": "f21ff88c2e474f06362d9124a6e7df829ade80303ee92cc504e9a5aac3cb5900",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "a32627e82d55f6582a173472f43d2e4e47018389d59b9d196dda75f34deb2182",
+      "validation_check_sha256": "06fa724b7949a8565669edaa15179a8fd06647c6b967d87a8a68d0b4afb45080",
+      "source_disposition_sha256": "f21ff88c2e474f06362d9124a6e7df829ade80303ee92cc504e9a5aac3cb5900"
+    },
+    "naming_artifact_sha256": "91a1dd8e947deeddb22862d8cae5296f8621bc96e1fde89ffc9f9a51e7f2a71b"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "efc7f23aa7b3aff1ded824e8e0c29940ffd9a998004e08643dfbe1b623b2a708"
+}

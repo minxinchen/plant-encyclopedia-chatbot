@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-4",
+  "volume": 4,
+  "pdf_page": 78,
+  "owner_shard": "S08",
+  "source_pdf": "/Volumes/NO NAME/第四集 mobot31753003431696.pdf",
+  "source_text_sha256": "4985734f99f366855ec7e3e4ddb181e662cfd1d882f438c3a5678a2535b59aae",
+  "render_dpi": 144,
+  "render_sha256": "2164cfb794293a5a633446c4a644d717329023ee38f46cc1cf0941a867a473c7",
+  "input_sha256": "2164cfb794293a5a633446c4a644d717329023ee38f46cc1cf0941a867a473c7",
+  "render_pixel_width": 5768,
+  "render_pixel_height": 8274,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 5.354,
+  "embedded_character_count": 276,
+  "ocr_character_count": 87,
+  "ocr_alpha_ratio": 0.6897,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01909722222222232,
+      "text": "Tafel 10",
+      "width": 0.07083333369508746,
+      "x": 0.052083333499678496,
+      "y": 0.975198412327815
+    },
+    {
+      "confidence": 1,
+      "height": 0.019254920974610346,
+      "text": "Basidiomycetes",
+      "width": 0.12719232768117106,
+      "x": 0.8436955032230101,
+      "y": 0.9620295160690494
+    },
+    {
+      "confidence": 1,
+      "height": 0.017547673649258133,
+      "text": "(Agaricaceae)",
+      "width": 0.10671024675220042,
+      "x": 0.8622698758667087,
+      "y": 0.9439877910192856
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "3",
+      "width": 0.00833333301679845,
+      "x": 0.4104166667207675,
+      "y": 0.5581395352249248
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "5",
+      "width": 0.010416666440570377,
+      "x": 0.4500000002172148,
+      "y": 0.23401162804765974
+    },
+    {
+      "confidence": 1,
+      "height": 0.021848467607346822,
+      "text": "1-4 Russula emetica Fr. 5-7 Russala resca FT.",
+      "width": 0.4166666521965017,
+      "x": 0.2916666775684158,
+      "y": 0.021802326041445608
+    }
+  ],
+  "text": "Tafel 10\nBasidiomycetes\n(Agaricaceae)\n3\n5\n1-4 Russula emetica Fr. 5-7 Russala resca FT.",
+  "output_sha256": "5a1d708163808a43de05b9a764bb1d923b30abdfb7cf45cdbab9f9fcb69326f8",
+  "receipt_sha256": "c2f22c3a4f4b21c0e1adc7fd1cf5e3ac8b74c465b193efa569d2e54a96fda3bc"
+}

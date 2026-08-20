@@ -1,0 +1,21 @@
+{
+  "schema_version": "2.0",
+  "checked_at": "2026-08-20T22:56:26+08:00",
+  "packages": 9,
+  "package_checks_passed": 9,
+  "package_checks_needs_review": 0,
+  "package_checks_awaiting_receipt": 0,
+  "recovery_candidates": 9,
+  "complete": true,
+  "global_errors": [],
+  "safety": {
+    "canonical_writes": false,
+    "chunk_writes": false,
+    "index_writes": false,
+    "embedding_calls": false,
+    "external_api_calls": false,
+    "taiwan_name_resolution": false,
+    "layout_or_plate_approval": false
+  },
+  "summary_sha256": "da7b32603363fe68d525d5c5c9b4f7eeb36c6a4fda54532042a39d5261b06867"
+}

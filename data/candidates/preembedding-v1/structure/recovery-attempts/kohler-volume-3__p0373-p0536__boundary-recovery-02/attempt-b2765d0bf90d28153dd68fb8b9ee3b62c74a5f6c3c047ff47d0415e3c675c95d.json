@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "package_id": "kohler-volume-3:p0373-p0536:boundary-recovery-02",
+  "package_sha256": "7db48a42d410d834530f7c8d7c847ebda579a5de012910f5c9f4c11a59ffb2d6",
+  "model": "deterministic-local-repair-no-model-call",
+  "prompt_version": "plant-structure-continuation-line-anchors-v1",
+  "source_receipt_sha256": "e9b93f816d46e35378a8bd11e4259c058bcaf9a482e29b3ec7f545c469c8e7fa",
+  "source_attempt_sha256": "4352550976f62f68b78c9bf90ee36f30d4fa307bdb27026b1e233b659764ceaa",
+  "repair_strategy": "drop-unmaterialized-sections-v1",
+  "dropped_section_indexes": [
+    3
+  ],
+  "source_errors": [
+    "section_3:invalid_source_line_range:p375:L51-L9"
+  ],
+  "raw_response": "{\"package_id\":\"kohler-volume-3:p0373-p0536:boundary-recovery-02\",\"retained_source_line_coordinates\":[{\"pdf_page\":375,\"section_type\":\"taxonomy\",\"source_line_range\":[1,7]},{\"pdf_page\":375,\"section_type\":\"description\",\"source_line_range\":[8,33]},{\"pdf_page\":375,\"section_type\":\"distribution\",\"source_line_range\":[34,38]},{\"pdf_page\":376,\"section_type\":\"historical_use\",\"source_line_range\":[10,32]}]}",
+  "parse_or_validation_errors": [],
+  "raw_response_sha256": "de82b929934584e55e123206fdd71cfad364e400b36e7ef64a2717090fcf6d00",
+  "attempt_sha256": "b2765d0bf90d28153dd68fb8b9ee3b62c74a5f6c3c047ff47d0415e3c675c95d"
+}

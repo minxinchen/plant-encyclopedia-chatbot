@@ -1,0 +1,267 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0163-p0164",
+  "entry_id": "kohler-volume-1:p0163-p0164",
+  "owner_shard": "S02",
+  "book_taxon": {
+    "scientific_name": "Orchis militaris",
+    "authorship": "L.",
+    "aliases": [
+      "0. Rivini Gouan",
+      "0. cinerea Silt.",
+      "0. galeata Poir",
+      "Kukuksblume",
+      "Helmknabenkraut"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Orchis militaris"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T15:07:11+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Orchis+militaris",
+        "query_name": "Orchis militaris",
+        "retrieved_at": "2026-08-13T15:07:08+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Rivini+gouan",
+        "query_name": "Rivini gouan",
+        "retrieved_at": "2026-08-13T15:07:08+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=cinerea+silt",
+        "query_name": "cinerea silt",
+        "retrieved_at": "2026-08-13T15:07:08+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=galeata+poir",
+        "query_name": "galeata poir",
+        "retrieved_at": "2026-08-13T15:07:08+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 163,
+      "evidence_type": "text",
+      "page_text_sha256": "034edab0babacbdaabf493e43b174b5c8de9705421dad00a1a3a290576ab9a7e",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 164,
+      "evidence_type": "text",
+      "page_text_sha256": "d90044fa04fe75027fb8de2255948308d9ec6b557048c2d1c7f2435226bcc590",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0163-p0164:s00:x00",
+      "section_type": "description",
+      "original_text": "            Beschreibung.     Orchis militaris L. Perennirende krautartige Pflanze mit einfachen, hori-\n                                                                        ,\n\n\n\nzontal laufenden Wurzeln und zwei ungleichgrossen, langlichen, verkehrt-eiformigen, ungetlieilten,\nblasslederbraunen Knollen, von denen die grossere, schwammige den diesjahrigen Stengel treibt, wahrend\ndie kleinere, feste, aus dem Winkel der unteren Blattscheide entspringende an der Spitze die nachst-\njahrige Stengelknospe tragt.     Der krautartige, einfache, aufreclite, stielrunde, kahle, bis V3 Meter hohe\nStengel am Grunde mit einigen kurzen, weisslichen Blattscheiden iiber denselben mit grosseren, breit-\nlanzettformigen, gekielten, aufrecht abstehenden, 8 Ctm. langen, 4 Ctm. breiten, oberseits lebhaft grtinen,\nunterseits blassgrtinen Blattern besetzt; die obersten Blatter urn den Stengel gerollt.      Bltithenahre auf",
+      "normalized_text": null,
+      "zh_tw_rendering": "多年生草本，具兩顆不等大塊莖，莖高至0.33米，葉披針形，花淡紫紅色。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 163,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 653,
+        "char_end": 1565,
+        "page_text_sha256": "034edab0babacbdaabf493e43b174b5c8de9705421dad00a1a3a290576ab9a7e",
+        "exact_text_sha256": "b6422790268c9ddd6cb913d6a3a960825f5a47e300dfc1ffe31e42649950fb24",
+        "source_line_start": 14,
+        "source_line_end": 25,
+        "section_index": 0,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "b6422790268c9ddd6cb913d6a3a960825f5a47e300dfc1ffe31e42649950fb24",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0163-p0164:s01:x00",
+      "section_type": "anatomy",
+      "original_text": "            Anatoinisches : Bald nach dem Verbliihen zeigfc sich die junge eiformige Knolle von der halben Grosse\nder Mutterknolle, mit letzterer durch einen niedergebogenen, innen hohlen, kurzen Stiel verbunden, auf dem Scheitel\ndie Knospe tragend, aus welcher sich im folgenden Friihjahie der Stengel entwickelt.       Zur Bliithezeit entleert sich\ndas Gewebe des stengeltragenden Knollens, wahrend die junge Knolle mit Schleim und Starkemehl angefiillt ist. Die\nOberflache der jungen Knolle besteht aus weiten, diinn- und braunwandigen. inhaltsleeren Zellen, denen ungleichlange,\ngekriimmte und geglieclerte Wurzelhaare entspringen. Die sehr dunne Rinde wird von wenigen Zellenreihen gebildet,\nderen Inhalt hauptsachlich aus Krystallbundelchen von Calciumoxalat besteht. Zwischen diesen Zellen sind grossere\nS chl eimzellen ein geb ettet. Der fleischige innere Theil ist aus einem starkehaltigen Parenchym zusammengesetzt,\nwelches durch sehr zahlreiche grosse regelmassige polyeclrische Schleimzellen, vereinzelte Krystallzellen und zerstreute\nGefassbiindel unterbrochen wird.     Die Schleimzellen sind in der Regel nur durch eine Reihe der kleinen starke-\nfuhrenden Parenchymzellen von einander getrennt, stossen jedoch auch unmittelbar aneinander.           Die Gefassbiindel\nbesteben aus einem sehr diinnwancligen Parenchym, welches spiral- unci netzformige Gefasse einschliesst. Der Schleim\nist kein Produkt der Zellwand, sondern erscheint als ein neben dem Zellkern befindlicher Tropin, welcher durch\nAnwachsung den Zellkern und das Plasma vollstandig verdrangt.",
+      "normalized_text": null,
+      "zh_tw_rendering": "新塊莖含黏液與澱粉，表皮細胞含草酸鈣結晶，內含多面體黏液細胞。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 163,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 5187,
+        "char_end": 6758,
+        "page_text_sha256": "034edab0babacbdaabf493e43b174b5c8de9705421dad00a1a3a290576ab9a7e",
+        "exact_text_sha256": "eb526d7ab9ed6fb4a50268fc7c5fa8d9a9ddce2d17258c282a50421ca25ce96e",
+        "source_line_start": 87,
+        "source_line_end": 100,
+        "section_index": 1,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "eb526d7ab9ed6fb4a50268fc7c5fa8d9a9ddce2d17258c282a50421ca25ce96e",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0163-p0164:s02:x00",
+      "section_type": "distribution",
+      "original_text": "               Verbreitung                                 Wiesen und in besrasten Waldern",
+      "normalized_text": null,
+      "zh_tw_rendering": "分佈於草地及有草的森林中。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 164,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 97,
+        "char_end": 187,
+        "page_text_sha256": "d90044fa04fe75027fb8de2255948308d9ec6b557048c2d1c7f2435226bcc590",
+        "exact_text_sha256": "254a0c57ca555cb1471b5c85a0bd80aee5e1450390882919b8a14361d0feff0e",
+        "source_line_start": 6,
+        "source_line_end": 6,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "254a0c57ca555cb1471b5c85a0bd80aee5e1450390882919b8a14361d0feff0e",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0163-p0164:s03:x00",
+      "section_type": "flowering",
+      "original_text": "               Bluthezeit.             Mai bis Juni; Platanthera hifolia bis Juli.",
+      "normalized_text": null,
+      "zh_tw_rendering": "花期為五月至六月。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 164,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 188,
+        "char_end": 270,
+        "page_text_sha256": "d90044fa04fe75027fb8de2255948308d9ec6b557048c2d1c7f2435226bcc590",
+        "exact_text_sha256": "179e637702e72d55b0f63fcdc245aa55a76f3aabc7f7dff4ed1cd47759a185cc",
+        "source_line_start": 7,
+        "source_line_end": 7,
+        "section_index": 3,
+        "section_type": "flowering"
+      },
+      "exact_text_sha256": "179e637702e72d55b0f63fcdc245aa55a76f3aabc7f7dff4ed1cd47759a185cc",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0163-p0164:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "          Die Orchideenknolle, Salep, ist ein schon friih gebrauchtes Arzneimittel. Nach Plinius schrieb\nman im Oriente den Knollen wegen ihrer Aehnlichkeit mit den Hoden eine besondere Wirkung auf\ndie Gesclilechtsorgane zu.     Theophrast und Dioscorides, welche schon die Verschiedenheiten der\nbeiden Knollen kannten, empfahlen die letzteren als Nahrungsmittel.        Bei den arabischen Aerzten des\nMittelalters    welclie persische und andere orientalische Salepknollen in Europa einfuhrten, treten die\n                   ,\n\n\n\nKnollen unter dem Namen Chasjata ssalab, Hoden des Fuchses auf, woraus der Name Salep entstanden\nist.  Piero de Crescenzi zu Bologna beschreibt die Salepknollen als Testicttlus vulpis, Testiculas\ncams, Radix Satyriones.         Das Nordlinger Register von 1480 enthalt Radix Satyrii, ebenso die\nHamburger Taxe von 1587. Die ersten Abbildungen lieferten die Botaniker des 16. Jahrhunderts.",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史記載塊莖稱Salep，因形似睾丸，古時用於補益生殖系統，亦作食物。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 164,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 964,
+        "char_end": 1883,
+        "page_text_sha256": "d90044fa04fe75027fb8de2255948308d9ec6b557048c2d1c7f2435226bcc590",
+        "exact_text_sha256": "5323939b4b13b63682ef16448d067f2a4b4de5da0399e5b0405f341e7cb6f1cd",
+        "source_line_start": 19,
+        "source_line_end": 31,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "5323939b4b13b63682ef16448d067f2a4b4de5da0399e5b0405f341e7cb6f1cd",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0163-p0164:s05:x00",
+      "section_type": "constituents",
+      "original_text": "               Bestandtheile.               Nach Dragendorf           enthalt\n                                                        der Salep 48,7 °/ Dextrin, Arabin und halb-\nloslichen Pflanzenschleim, 27°   Starkemehl, 5°/ Proteinsubstanz,                 °\n                                                                       Zucker, 2,4 /0 Cellulose, 2,1               5%\nMineralstoffe nebst kleinen Mengen Ammoniak, Salpetersaure Weinsteinsaure Harz, Fett, Oxalsaure.",
+      "normalized_text": null,
+      "zh_tw_rendering": "含48.7%糊精、阿拉伯膠及半溶性黏液，27%澱粉，5%蛋白質及礦物質。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 164,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4033,
+        "char_end": 4509,
+        "page_text_sha256": "d90044fa04fe75027fb8de2255948308d9ec6b557048c2d1c7f2435226bcc590",
+        "exact_text_sha256": "2fc4eadfd9f004de1f1c81e6c22bf57fe5e94866fda0c47b0f859bcc1492dec6",
+        "source_line_start": 59,
+        "source_line_end": 63,
+        "section_index": 5,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "2fc4eadfd9f004de1f1c81e6c22bf57fe5e94866fda0c47b0f859bcc1492dec6",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "682cb11c3a8b1b7c6890dcc742313733cd2fd97fd97e9aad6e0935b5acf1f672",
+    "maker_receipt_sha256": "57be3b7a4b888a4b52aa42a0b844b20776a3b89b610fe87ab921de41c36d39fc",
+    "validation_check_sha256": "e4119673fbb70f5d1bd55b89044369dcec02cbc8e9167b5ad087a97c835118fc",
+    "source_disposition_sha256": "41ab48797ec39d84a261e44cf42075b84da18bc1ebd1067ac7979bb69c22101d",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "57be3b7a4b888a4b52aa42a0b844b20776a3b89b610fe87ab921de41c36d39fc",
+      "validation_check_sha256": "e4119673fbb70f5d1bd55b89044369dcec02cbc8e9167b5ad087a97c835118fc",
+      "source_disposition_sha256": "41ab48797ec39d84a261e44cf42075b84da18bc1ebd1067ac7979bb69c22101d"
+    },
+    "naming_artifact_sha256": "af1a1e35449a27039beefd52eba33437ab90d08487ee2c9011f874148b4ce864"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "3dd3dcb94473ec472e50bc9ef93e40df2b7f3bc304a680c7bad2dabefd1ed5aa"
+}

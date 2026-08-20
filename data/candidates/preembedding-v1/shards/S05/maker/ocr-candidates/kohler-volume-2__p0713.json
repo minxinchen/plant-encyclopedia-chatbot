@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 713,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "cd59e22468d935eb8520344840c3c5e25e76e74a99db71d5fad3807f63e33b30",
+  "render_dpi": 144,
+  "render_sha256": "5ead27bec5cc9bdbaecb9696c2ef0b27dd7213978d2ec843734e730e72742c49",
+  "input_sha256": "5ead27bec5cc9bdbaecb9696c2ef0b27dd7213978d2ec843734e730e72742c49",
+  "render_pixel_width": 5558,
+  "render_pixel_height": 7934,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.339,
+  "embedded_character_count": 37,
+  "ocr_character_count": 44,
+  "ocr_alpha_ratio": 0.6136,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.03091673623947866,
+      "text": "Euphorbiaceae.",
+      "width": 0.13647030062989318,
+      "x": 0.8070709480991045,
+      "y": 0.9131360379528297
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494425,
+      "text": "12",
+      "width": 0.016597510227816192,
+      "x": 0.25933609993450135,
+      "y": 0.13808139573176825
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372621082214,
+      "text": "10'",
+      "width": 0.02489626399186684,
+      "x": 0.7178423245739145,
+      "y": 0.1409883716957574
+    },
+    {
+      "confidence": 1,
+      "height": 0.020354604910290397,
+      "text": "Croton Tiglium .L.",
+      "width": 0.22614106369288522,
+      "x": 0.4107883915767938,
+      "y": 0.07266865058069372
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "182",
+      "width": 0.029045642223749613,
+      "x": 0.9004149385146811,
+      "y": 0.034883721054379424
+    }
+  ],
+  "text": "Euphorbiaceae.\n12\n10'\nCroton Tiglium .L.\n182",
+  "output_sha256": "23fa09211d6e736611c7a0b4635f8678e0e4eb69e9b5a00d1e96bdc26b0f7601",
+  "receipt_sha256": "0f0d5dc44c37e457af5ae57c6d09acf36280c02cf966e4539a03e924f17bd169"
+}

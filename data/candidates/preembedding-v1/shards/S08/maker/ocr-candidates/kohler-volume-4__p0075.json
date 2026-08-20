@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-4",
+  "volume": 4,
+  "pdf_page": 75,
+  "owner_shard": "S08",
+  "source_pdf": "/Volumes/NO NAME/第四集 mobot31753003431696.pdf",
+  "source_text_sha256": "95ceb83564ac45d962581c68d7f62b2dbdbf8810626be33764b75b5edd15ba32",
+  "render_dpi": 144,
+  "render_sha256": "b64c0a77a342f3456ec27b9c04ff8d20010794617f043de58cbf92c062b5281f",
+  "input_sha256": "b64c0a77a342f3456ec27b9c04ff8d20010794617f043de58cbf92c062b5281f",
+  "render_pixel_width": 5768,
+  "render_pixel_height": 8274,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 8.384,
+  "embedded_character_count": 429,
+  "ocr_character_count": 106,
+  "ocr_alpha_ratio": 0.717,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.017609126984126977,
+      "text": "Tafel 1",
+      "width": 0.0625,
+      "x": 0.03750000052083332,
+      "y": 0.9635416663346286
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018897828601655564,
+      "text": "Basidiomycetes",
+      "width": 0.13163203840404958,
+      "x": 0.8248089821096453,
+      "y": 0.9542138764404945
+    },
+    {
+      "confidence": 1,
+      "height": 0.017659183532472644,
+      "text": "(Agaricaceae)",
+      "width": 0.10840489481116089,
+      "x": 0.8437142179072248,
+      "y": 0.9373913383909303
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252612005,
+      "text": "3",
+      "width": 0.010416666440570377,
+      "x": 0.7125000000088815,
+      "y": 0.6497093026033451
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "B",
+      "width": 0.010416666440570377,
+      "x": 0.8354166668838816,
+      "y": 0.31686046546045055
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010174418252611894,
+      "text": "10",
+      "width": 0.010416667797148338,
+      "x": 0.3624999993566342,
+      "y": 0.08139534914040913
+    },
+    {
+      "confidence": 1,
+      "height": 0.02758024703888662,
+      "text": "A Amanita muscaria (L.) Pers. B Amanita cacsarea (Scop.) Pers.",
+      "width": 0.525800637127156,
+      "x": 0.2432084785420148,
+      "y": 0.009797274782547105
+    }
+  ],
+  "text": "Tafel 1\nBasidiomycetes\n(Agaricaceae)\n3\nB\n10\nA Amanita muscaria (L.) Pers. B Amanita cacsarea (Scop.) Pers.",
+  "output_sha256": "879f7a0f73b12d3e13518ffbecaa8839728646c545262de23d4bc349e5570668",
+  "receipt_sha256": "57871b13b6148a5c141ef18754c2be2cb5f7469cea699c42100f919ca42849c6"
+}

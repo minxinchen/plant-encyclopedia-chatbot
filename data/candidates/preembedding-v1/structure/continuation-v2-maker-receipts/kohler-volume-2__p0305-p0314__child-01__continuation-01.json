@@ -1,0 +1,155 @@
+{
+  "schema_version": "2.0",
+  "package_id": "kohler-volume-2:p0305-p0314:child-01:continuation-01",
+  "parent_entry_id": "kohler-volume-2:p0305-p0314",
+  "child_entry_id": "kohler-volume-2:p0305-p0314:child-01",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation-v2:kohler-volume-2:p0305-p0314:child-01:continuation-01:v1",
+  "owner_shard": "S04",
+  "package_sha256": "47da8e2048811412eeef70a42c9a427d2954d99dc6a84c14d2b235b4d31f1b64",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "prompt_version": "plant-structure-line-coordinates-v2",
+  "attempt_sha256": "01afa204aa2d00ec44cb25eb2e2951e57644d17e2335309ea50a1700dddb9ae8",
+  "raw_response_sha256": "2035fcddd3424fd4f6567a7dabbcaaddc7f7b756a83e08a41acb22ca97739858",
+  "elapsed_seconds": 24.513,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 305,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 0,
+      "char_end": 468,
+      "source_line_start": 1,
+      "source_line_end": 6,
+      "page_text_sha256": "d724442f87c948adc32522a858bbced8dbdd43796a61c77c7892baacc06e2b91",
+      "exact_text_sha256": "f77a5e125d0c69b4a2d373cecf1c33425d79a479ec0aea26c5f00590bb4c4e22",
+      "section_index": 0,
+      "section_type": "taxonomy"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 305,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 469,
+      "char_end": 3026,
+      "source_line_start": 7,
+      "source_line_end": 30,
+      "page_text_sha256": "d724442f87c948adc32522a858bbced8dbdd43796a61c77c7892baacc06e2b91",
+      "exact_text_sha256": "1710f4941eb6027cc0bf648d5f44f1790c304eb917a3625b5d87a423821261d3",
+      "section_index": 1,
+      "section_type": "description"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 306,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 1350,
+      "char_end": 2691,
+      "source_line_start": 16,
+      "source_line_end": 29,
+      "page_text_sha256": "c08ab97aee0b227b9705e75f65ca4900070ed9c337c80e2a52e8d4ea313072d2",
+      "exact_text_sha256": "f44888445f47bf6e9c42d1c04e6adebe95368ac9a95b17227f0f6a2f56361544",
+      "section_index": 2,
+      "section_type": "distribution"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 306,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 2692,
+      "char_end": 4569,
+      "source_line_start": 30,
+      "source_line_end": 49,
+      "page_text_sha256": "c08ab97aee0b227b9705e75f65ca4900070ed9c337c80e2a52e8d4ea313072d2",
+      "exact_text_sha256": "bfa47b9d2274e9c831b41467ddaa88c234584cc07df9151a8d4816a259b7f9e1",
+      "section_index": 3,
+      "section_type": "history"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 307,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 6490,
+      "char_end": 8385,
+      "source_line_start": 67,
+      "source_line_end": 87,
+      "page_text_sha256": "137af31c61463be7eed06bb96c8b3219cac3c98210077a854b167a007ce39aac",
+      "exact_text_sha256": "66db9b056a6d08fb6ba7bbbceb725b723eebdc5901428e0893b853df01525278",
+      "section_index": 4,
+      "section_type": "constituents"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-2:p0305-p0314:child-01:continuation-01",
+    "parent_entry_id": "kohler-volume-2:p0305-p0314",
+    "book_taxon": {
+      "scientific_name_candidate": "Ferula Seorodosma"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 305,
+        "source_line_range": [
+          1,
+          6
+        ],
+        "exact_source_quote": "                             Ferula Seorodosma Benth. and Hook.\n                          Syn. Ferula Asa foetida L.               Scorodosma foetidum Bunge.\n\n                        Asant,      Stinkasant,     Teufelsdreck        —    Persian      Assafoetida.\n     (Hingisch     oder Anguzeh        der Perser,       Sassyk Karai der Kirgisen,             Kawar      der Bucharei.)\n               Familie: Umbelliferae (Unterfamilie: Peucedaneae), Gattung: Ferula L."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 305,
+        "source_line_range": [
+          7,
+          30
+        ],
+        "exact_source_quote": "               Beschreibung. Ueber 2 Meter hohe, gesellschaftlich vorkommende Pflanze\n                                                                                      mit mehrjähriger,\n     sehr grosser, rübenförmiger, fleischiger, bis schenkeldicker, an der unteren Hälf\n                                                                                       te mit einzelnen, sparrigen,\n     theilweise fast horizontalen Aesten ausgestatteter, aussen graulich-b\n                                                                           rauner, oft zart violett erscheinender,\n     innen graulich-weisser Wurzel, welche von den Gefüssbündeln und Blattstielscheiden der\n     Blätter stark beschopft ist. Während einer Reihe von Jahren treibt die Wurzel nur                ab  ge st  or  be ne n\n     bis nach frühestens 5 Jahren, gegen Ende März, der Stengel ersche\n                                                                                                      Wu rz  el bl át  te r,\n                                                                           int, Mitte April bereits die Frucht-\n     reife eintritt und im Mai die ganze Pflanze mitsammt der Wurzel abstirbt. Der\n                                                                                            Stengel bleibt, nach\n     Art der Umbelliferen, noch einige Zeit in vertrocknetem Zustande stehen und um ih\n     sich ein kleiner Wald neuer Pflanzen. Wurzelblätter einjährig, aufrecht, gegen           n he ru  m     en tw ic  ke lt\n                                                                                            !/, Meter lang, blau-\n     grün, kurz grau-flaumig, 3 bis 4 fach 8 záhlig; Blattstiele erster Ordnung (Hauptblattstiel\n     Grunde scheidenartig; Blattstiele zweiter Ordnung dünner, der mittelste länger (doppe        )    ha lb  ru nd ,    am\n     der Hauptstiel); Blattstiele dritter Ordnung 3                                                 lt    so    la ng     al s\n                                                    theilig, mit 1 bis 2 fach 3 theiligen oder unpaarig fieder-\n     theiligen, 3 bis 4jochigen Blattabschnitten. Zipfel (Blättchen letzter Ordnung) lüngli\n    stumpf, die obern mit dem unteren Rande herablaufend, in Folge dessen schief, die unte           ch -l an  ze tt li ch ,\n    Basis verschmälert, gleichhälftig, von ungleicher Länge und Breite. Stengel 1![, bi             re n     ge ge  n    di e\n    darüber hoch, unten bis 10 Ctm. dick, steif aufrecht, cylindrisch, gestreift, gewöhnlich      s     2   Me te  r    un d"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 306,
+        "source_line_range": [
+          16,
+          29
+        ],
+        "exact_source_quote": "          Vorkommen. Nur auf kieselsandigem Boden mit wasserdichtem, salzreichem Untergrunde\nin den Steppen Persiens und den benachbarten Gebieten zwischen dem persischen Meerbusen und dem\nAralsee einheimisch; in Folge des geselligen Vorkommens fórmliche Wäldchen bildend. „Im südlichen\nTheile Persiens erreicht Scorodosma nicht ganz das nördliche Gestade des persischen Busens, sondern\nhält sich hier mehr an Hochregionen von ungefähr 1000 Meter über Meer, während die centralpersischen\nund aralo-caspischen Hauptstandorte mehr im Norden sich sehr bedeutend senken und z. B. am Nordost-\n ufer des Caspimeeres tiefer liegen als der Meeresspiegel. Zwischen Caspi- und Aralsee, in der Hochsteppe\nUst-ürt, fehlt Scorodosma, findet sich aber, von der persischen Südwestgrenze Luristan und Faristan\n an, durch ganz Persien, das untere und mittlere Gebiet der Ssyr-Darja bis Chodschend und von hier\n südwarts über Samarkand hinaus noch an den Abdachungen des Pamir (westlich von Belut-Tag) In\n Chorassan (bei Turschiz), Herat und Chiwa scheint die Pflanze am massenhaftesten vorhanden zu sein.\nWo der Kieselboden in die vegetationsarme Lehmwüste übergeht, fehlt Scorodosma und ist durch\n andere verwandte Umbelliferen vorzüglich Ferula persica Willd. (F. Asa foetida Hope) ersetzt. Den\n Ssyr Darja überschreitet das Scorodosma nicht.“ (Flückiger.)"
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 306,
+        "source_line_range": [
+          30,
+          49
+        ],
+        "exact_source_quote": "          Name      und    Geschichtliches.         Der Name     Asant    stammt     von   asa,   «on,   Ekel,   wegen   des\nwiderlichen Geruchs und Geschmacks; nach anderen soll das Wort von der salernitaner Schule gebildet\nund sein Ursprung unklar sein. Ferula von ferire schlagen, geisseln; man bediente sich in früheren\nZeiten der getrockneten Stengel zum Schlagen, Züchtigen. Scorodosma aus oxogoóov Knoblauch und\nooun Geruch; Narthex von vagdns Stab, wegen des stabartigen Stengels. Foetida übelriechend, stinkend;\nalliacea lauchartig.                                 ۱\n         Es wird vermuthet, dass das Silphion der Griechen (umdınog xet overexnos oros orkov des\nDioskorides)       laser der Rómer, unser       Stinkasant    gewesen    ist; nach   Haussknecht         soll jedoch dieses\nProdukt der alten Welt von einer den Gebirgen Luristans angehörenden Umbellifere, Endjedan (ara-\nbisch Hiltit el tagil), abstammen. Ein schon bei Hippokrates und Theophrast vorkommendes\nSilphion (oıkpıov xvoevaixov) soll nach Viviani, Sprengel und Fraas von einem Doldengewächs\nThapsia Silphiwm herrühren.\n         Die mittelalterlichen Reisenden und Geographen Persiens und Arabiens kannten Asa foetida\nund seine Herkunft. Ali Istachri aus Istachr (in 10. Jahrh.) giebt die Wüste zwischen Seistan\nund Makran als denjenigen Ort an, wo Asa foetida gesammelt werde. Nach einem Berichte Edrisi's\n(im 12..Jahrh.) wurde in der Gegend von Kaleh Bust „Hiltit“ in grosser Menge gesammelt. Der ara-\nbische Schriftsteller Ibn Baitar (zu Anfang des 12. Jahrh.) nennt Asa foetida ein geschätztes und\nviel gebrauchtes Mittel. Auch die salernitaner Schule beschäftigt sich mit der Droge. Aden erhebt\num 1270 von Asa foetida einen Durchgangszoll; 1305 tritt Asa foetida im Zolltarif von Pisa auf.\n         Offizinell ist der aus der Wurzel gewonnene, an der Luft erhärtete Milchsaft: Asa foetida"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 307,
+        "source_line_range": [
+          67,
+          87
+        ],
+        "exact_source_quote": "         Bestandtheile. Asant enthält nach den Untersuchungen von Pelletier, Brandes, Troms-\ndorf,   Neumann und anderen: 3.1 bis 4.60, ätherisches Oel, 24 bis 65%, Harz, 12 bis 50%, Gummi,\n6.4 bis 11.66%, Bassorin, 4.6 bis 26.9%, Holzfaser, 0.3 bis 0.49/, sauren apfelsauren Kalk etc., 1.4%,\nExtrak\n     tivstoff mit salziger Materie, 9.7%, schwefelsauren und kohlensauren Kalk, 0.49/,\n                                                                                       Eisenoxyd und\nThonerde.   Flückiger erhielt aus der Kandaharsorte 10.89/, Harz, 47.99/, Gummi, aus gewöhn\n                                                                                               licher\nWaare 71.4°/, Harz. -            :                                          ;\n         Das ätherische Oel besteht nach Hlasiwetz aus zwei schwefelhaltigen Kohlenwasserstoffen mit\nder wahrscheinlichen Zusammensetzung (C¿H,,)28 und C,H,,S. Es ist hellgelb, dünnflüssig, von\nsehr widrigem und stark durchdringendem Geruch, schmeckt erst mild, dann kratzend, ist ohne Reaktion\nauf Lakmus, siedet bei 135 bis 140? und giebt unter fortwührender Erhóhung des Siedepunktes\nSchwefelwasserstoff ab; bei ca. 300? erhält man in grösserer Menge einen Antheil von schön dunkel-\nblauer Farbe.  Es löst sich in ca. 2000 Theilen Wasser, leicht in Weingeist und Aether, besitzt ein\nspez. Gew. von 0.9515 und ist rechtsdrehend.   An der Luft ändert das Oel seinen Geruch und zeigt\nsaure Reaktion. Ueber Natronkalk rektificirt, verliert das Oel den Schwefel und riecht dann lavendel-\nartig. Nach den Flückiger’schen Versuchen liefern die bei der Rektifikation des Oels zuerst über-\ngehenden Antheile bei sehr vorsichtiger Oxydation mit kalter Salpetersüure eine geringe Menge einer\nkrystallisirbaren,   sehr zerfliesslichen Sulfonsäure,        während     durch energische      Oxydation    riechende    Fett-\nsäuren gebildet werden."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "b4c88302c7a27b6a31cad2902057e63491d5f1780b2b74372d7f00f16be2032a"
+}

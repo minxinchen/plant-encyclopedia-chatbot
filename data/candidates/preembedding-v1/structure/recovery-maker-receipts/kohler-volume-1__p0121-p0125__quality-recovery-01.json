@@ -1,0 +1,155 @@
+{
+  "schema_version": "1.0",
+  "package_id": "kohler-volume-1:p0121-p0125:quality-recovery-01",
+  "parent_entry_id": "kohler-volume-1:p0121-p0125",
+  "child_entry_id": null,
+  "recovered_entry_id": "kohler-volume-1:p0121-p0125",
+  "work_id": "structure-recovery:kohler-volume-1:p0121-p0125:quality-recovery-01:v1",
+  "owner_shard": "S02",
+  "package_sha256": "54b5d02693b3bdb587ce57896b64cc379091d1aa6c1f3c3bb96882fe071945f3",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "prompt_version": "plant-structure-continuation-line-anchors-v1",
+  "attempt_sha256": "2ad0da2d986809697404adbc2df856537a9b652af5d523bba8c854629acc3ae7",
+  "raw_response_sha256": "58f741a88d330366ae72a2a3eeab372b332cf6119d679f57a78872f5c9c01a3e",
+  "elapsed_seconds": 20.912,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 121,
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+      "char_start": 292,
+      "char_end": 3628,
+      "source_line_start": 12,
+      "source_line_end": 52,
+      "page_text_sha256": "f7e9265fbd02efec786cdf033740a63d3e938fbb88de93ff58f3f8beaf52ca48",
+      "exact_text_sha256": "e240762107c1988e7e5187cf6479a2c19765fb1562715a4be56570ea4bb03d4e",
+      "section_index": 0,
+      "section_type": "description"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 121,
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+      "char_start": 4608,
+      "char_end": 6057,
+      "source_line_start": 65,
+      "source_line_end": 86,
+      "page_text_sha256": "f7e9265fbd02efec786cdf033740a63d3e938fbb88de93ff58f3f8beaf52ca48",
+      "exact_text_sha256": "cfbd1c79346341f601828598ce847dabe03da26d698a351061050a7a911495dc",
+      "section_index": 1,
+      "section_type": "anatomy"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 121,
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+      "char_start": 6065,
+      "char_end": 6370,
+      "source_line_start": 92,
+      "source_line_end": 94,
+      "page_text_sha256": "f7e9265fbd02efec786cdf033740a63d3e938fbb88de93ff58f3f8beaf52ca48",
+      "exact_text_sha256": "03866c56689345582789abe71ecb7b1a670a483deb1a4f12847c20bfa7b85b55",
+      "section_index": 2,
+      "section_type": "distribution"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 122,
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+      "char_start": 268,
+      "char_end": 1852,
+      "source_line_start": 5,
+      "source_line_end": 22,
+      "page_text_sha256": "c02aac0e7d6133477633997676554dc5f5965cde90663232ed0fef507e6ff9d3",
+      "exact_text_sha256": "ee51b1979030a9cdc1cef4484ada7b83f8878e3cdd22e6f5c5e3b49866b35142",
+      "section_index": 3,
+      "section_type": "historical_use"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 122,
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+      "char_start": 5010,
+      "char_end": 8097,
+      "source_line_start": 72,
+      "source_line_end": 108,
+      "page_text_sha256": "c02aac0e7d6133477633997676554dc5f5965cde90663232ed0fef507e6ff9d3",
+      "exact_text_sha256": "b9bb9c90c5957dfa5a08b4a9885ad58fed74309e95fcb9b715bda4e7008bdbd8",
+      "section_index": 4,
+      "section_type": "constituents"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-1:p0121-p0125:quality-recovery-01",
+    "parent_entry_id": "kohler-volume-1:p0121-p0125",
+    "book_taxon": {
+      "scientific_name_candidate": "Valeriana officinalis"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "description",
+        "pdf_page": 121,
+        "source_line_range": [
+          12,
+          52
+        ],
+        "exact_source_quote": "          Beschreibung.         Das 2   — 3 Ctm. lange, bis\n                                                          Ctm. dicke, aufrechte, dnrcli die dicht stehenden\n                                                                 1\nNarben abgestorbener Blatter undeutlich geringelte, im Innern meist etwas hohle Rhizom treibt rings-\n                                                                     —\nherum zahlreiche, diinne, stielrunde, 10 — 30 Ctm. lange, 2 4 und mehr Mm. dicke, hellbraunlich-gelbe,\nlangsrunzelige oder glatte, horizontal bis senkrecht im Boden liegende, mit mehr oder weniger zahl-\nreichen Wurzelasten besetzte Nebenwurzeln. Ausserdem entwickeln sich meistens aus den Achseln der\nabgestorbenen Blatter bis zu 30 Ctm. lange, dicht unter der Erdoberflache horizontal verlaufende Aus-\nlaufer, welche an ihren wurzelschlagenden Enden Laubblattersprossen treiben; auch bilden sich am\noberen Theile des Rhizoms sitzende Knospen, die sich, nebst den Laubblattersprossen nach dem Ab-\nsterben des Rhizoms als neue Pflanzenindividuen weiter entwickeln.          Stengel meist einzeln, einfach\noder astig, 0,30   —1,50 Meter hoch, stielrund, kantig gefurcht, hohl, kahl oder unterwarts behaart. Die\nkrautigen Blatter sammtlich unpaarig gefiedert, die grundstandigen sehr lang gestielt, 4               —\n                                                                                               lljochig, die\nstengelstandigen gegenstandig, ktirzer gestielt, nach oben zuletzt sitzend. Fiedern eiformig bis lanzett-\nlich, eingeschnitten gezahnt, nach oben fast lineal und ganzrandig, kahl, die untersten entferntstehend,\n die obersten mit dem unpaarigen zusammenfliessend.        Der rinnenformige Blattstiel am Grunde zottig.\n Bluthenstand doldenrispig, end- oder achselstandig, gestielt, mehr oder weniger dicht- und vielbluthig;\n Aeste wiederholt gabelspaltig. Die zwitterigen, hellrothlichen, ziemlich kleinen Bliithen von 2 gegen-\n standigen, lanzettformigen Deckblattchen unterstiitzt.    Kelch zur Bliithezeit sehr klein, meist schwach\n gezahnt, nach innen gerollt, nach dem Verbliihen sich allmahlig aufrollend, auswachsend und zuletzt\n eine lOstrahlige, gewimperte Federkrone (Pappus) bildend.        Krone trichterformig, ungleich 51appig,\n von fleischrother, bisweilen weisser Farbe, mit am Grunde nach unten bauchiger Rohre.             Von den   .\n\n\n\n\n langlich-eirunden Lappen sind die 3 unteren kiirzer als die beiden oberen.           Der langliche, unter-\n standige, aus dem Unterkelche gebildete lfacherige, leiige, griine Fruchtknoten ist von den zum Griffel\n und der 3spaltigen Narbe auswachsenden 3 Fruchtblattern bedeckt.            Die 3, der Kronenrohre auf-\n gewachsenen Staubgefasse besitzen diinne, iiber kronenlange Faden und fast 2knopfige, gelbe, auf dem\n Rucken angeheftete Staubbeutel, deren Facher der Lange nach: aufspringen. Pollen oval, 3furchig,\n unter Wasser rund, 3nabelig.       Die eilangliche, zusammengedriickte auf der einen Seite 3-, auf der\n                                                                                   ,\n\n\n\n andern lrippige, lsamige Achane mit lOstrahligem, federigem Pappus. Der eiweisslose Same hangend,\n das Fach vollstandig ausfiillend.    Embryo gerade, mit 2 planconvexen, langlich - o valen Samenlappen\n und nach oben gerichtetem Wurzelchen."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 121,
+        "source_line_range": [
+          65,
+          86
+        ],
+        "exact_source_quote": "           Anatomisches : Der hornartige, glanzende Querschnitt der Hauptwurzel zeigt eine schmale Rinde, die durch\n eine braune Cambialzone von dem, ein breites, sehr oft schwindendes Mark einschliessenden Holze getrennt ist. In\n den Nebenwurzeln ist die Rinde bedeutend starker als der von dunklem Cambium umsehlossene, von einer sehr engen\n Markrohre durchzogene Holzkorper.       Bast und Cambium bilden eine schmale Zone nicht scharf von einander ge-\n trennten Gewebes. Die braune Korksehicht besteht aus Zellen von mehr kubischer Form, das innere Rindengewebe aus\n rundlichen, in der Richtung der Achse etwas gestreckten, dickwandigen, spiralig gestreiften, nach beiden Seiten an Grosse\n abnehmenden Zellen. Das Cambium wird durch ein zartwandiges, in der Mitte farbloses, sonst braun gefarbtes\n Gewebe gebildet. Die Hauptgewebemasse des Rhizoms wie der Wurzeln besteht aus einem Parenchym, welches mit\n zahlreichen Starkekornern, Tropf'en atherischen Oeles oder rothlich braunen Harzklumpen und besonders in den starke-\n armen Gewebtheilen mit gerbstoffhaltigen braunen Kornern angefullt ist. Die schwachen, zu einem weitlaufigen\n                                              ,\n\n\n\n\n Kreise angeordneten helleren, unregelmassigen Gefassbundel zeigen Spiral- und nach aussen Tiipfelgefasse; letztere\n                       ,\n\n\n\n sind in den Wurzeln von ziemlicher Lange, im Wurzelstocke ktirzer und von wenig verdicktem Holzprosenchym\n umgeben."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 121,
+        "source_line_range": [
+          92,
+          94
+        ],
+        "exact_source_quote": "           Verbreitung.         Auf feuchten Wiesen, an Graben, Bachen, Waldrandern sowohl in den Niede-\nrungen als in den Bergregionen dnrch fast ganz Europa (mit Ansschluss der sudlichsten Gebiete) ver-\nbreitet, von Spanien bis zum Nordcap und Island, in der Krim, Kleinasien, Kaukasus, Siidsibirien, im"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 122,
+        "source_line_range": [
+          5,
+          22
+        ],
+        "exact_source_quote": "         Name und Geschichtliches.          Der Name Baldrian, althochdeutsch baldrian, denmarka,\nmittelhochdeutsch valdran, waldrion, tenemarg, bei Brunschwig, Bock nnd Fuchs Balderian,\nBaldrian, Baldrion, Denmarck, niederdeutsch Bolderian, Butterjahn, balderj an, bei Hildegard Bene-\nmarcha, bei Tabernaemontanus grosses Donnmarck ist nicht aus dem lateinischen Valeriana (etwa\nvon valere gesunden) hervorgegangen, sondern vielmehr das neulateinische Valeriana als die latinisirte\nForm des deutschen Wortes Baldrian zu betrachten. Die Herkunft des deutschen Wortes ist unsicher,\ndenn die namentlich auf die deutsche Bezeichnung Balder -Bracken            =\n                                                                    Balder-Busch gestutzte Ableitung\nvom nordischen Gotte Balder wird von Jac. Grimm verworfen. Ebenso ist die Ableitnng der Worte\ndenmarka, Denmarck, Denemarcha nnbekannt.\n        Der Name Qov oder Phu bei Dioscorides nnd Plinins bezog sich anf sudeuropaische\nValerianaceen und wurde erst spater auch auf V. officinalis ubertragen.    So aussert im Jahre 1000\nIsaac Judaeus: Fu, id est Valeriana etc., ebenso Constantinus Africanus (gestorben 1106).\nPlinius, dem unser Baldrian bekannt war, nennt ihn Nardus gallica.        Die salernitaner Schule ge-\nbrauchte neben der Bezeichnung Valeriana noch die Worte Amantilla und Phu. Sal a din aus Ascoli\n(um 1450) bezeichnet als die giinstigste Zeit zur Einsammlung der ^radices fu, id est Valerianae\" den\nMonat August. Matthaeus Silvaticus (zu Anfang des 14. Jahrhunderts) und Hildegard thun des\nBaldrian Erwahnung."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 122,
+        "source_line_range": [
+          72,
+          108
+        ],
+        "exact_source_quote": "         Bestandtheile.       Die Baldrianwurzel enthalt nach Tromsdorf 0,4                          —\n                                                                                   0,8(1,2)% atherisches\nOel, eigenthumliche Saure (Baldriansaure), eisengrunende Grerbsaure, Weichharz, einen eigenthumlichen\nExtraktivstoff (Baldrianstoff), einen gelbfarbenden Extraktivstoff, Grummi, Starkemehl, apfelsaure\n                                                                                                      und\nandere Salze.\n         Das blassgelbe bis gelbbraune, im friscben Zustande bisweilen griinliche, dtinnflussige, mit der\nZeit dunkelbraune und dickflussig werdend Baldrianol (Valerian ol) riecht stark nach den\n                                                                                                 Wurzeln,\nschmeckt gewurzhaft brennend, reagirt stark sauer, besitzt ein spez. Gew. von 0,90—0,96, siedet\n                                                                                                       bei\n200° und lost sich in gleichem Gewichte Alkohol von 0,85 spez. Gewichte. Es besteht nach\n                                                                                               Gerhardt\naus einem Gemenge von einem Camphen mit Valerol und Valeriansaure.          Das Valerol, mit der Formel\nCpH 10 O bildet nach Gerhardt farblose, durchsichtige, neutral reagirende, schwach nach Heu riechende\nSaulen, die an der Luft schnell verharzen und unter Entwickelung von Kohlensaure\n                                                                                         Valeriansaure\nerzeugen.   Nach Pierlot ist das Valerol ein Gemenge von Valeriankampfer Harz und Wasser;        ,\n                                                                                                       das\nBaldrianol besteht nach letzterem aus 25 Theilen des Camphens Valeren, 5 Theilen\n                                                                                            Valeriansaure\n18 Theilen Valeriankampfer, 47 Theilen Harz und 5 Theilen Wasser.         Das Valeren ist ein farbloses'\nbei 160° siedendes, terpenthinartig riechendes Oel, welches nach Rochleder\n                                                                                  durch Salpetersaure in\ngewohnlichen Kampfer umgewandelt wird. Der aus weissen Krvstallen bestehende\n                                                                                     Baldriankampfer\n                                                                                     •\n\n\n\n\nbesitzt nach Pierlot die Formel C 12         H\n                                         20 0.   Nach Bruylants besteht das Baldrianol 1 aus einem\nbei 167° siedenden Kohlenwasserstoff Ci       16 Hwelcher mit Salzsaure eine krystallisirende\n                                                     ,\n                                                                                                              Verbindun g\n                                                                                                     Wurzel"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "d2d5975e7e5ffba5c5b1a204ec2975b88ba7f493365020d2229e7f673410362c"
+}

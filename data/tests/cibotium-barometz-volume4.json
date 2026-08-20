@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0",
+  "run_id": "volume4-cibotium-barometz-profile-check-2026-08-12",
+  "batch_id": "kohler-v4-p30-p32-cibotium-barometz",
+  "source_id": "kohler-volume-4",
+  "source_filename": "第四集 mobot31753003431696.pdf",
+  "volume": 4,
+  "record_id": "cibotium-barometz",
+  "scientific_name": "Cibotium barometz (L.) J.Sm.",
+  "display_name": "金狗毛蕨",
+  "pdf_pages": [30, 31, 32],
+  "source_ranges": [
+    {
+      "pdf_page": 30,
+      "start_marker": "Cibotium Barometz",
+      "reason": "Remove only the page-number/header prefix; the taxonomy and description page is already approved in the plant record."
+    },
+    {
+      "pdf_page": 31,
+      "start_marker": "ein machtiger Waldfarn",
+      "end_marker": "Der Name Cibotum",
+      "reason": "Keep only the image-adjudicated distribution passage; exclude the scrambled historical and medicinal-use continuation."
+    },
+    {
+      "pdf_page": 32,
+      "start_marker": "Anatomie:",
+      "end_marker": "Eine zweite Sorte",
+      "reason": "Keep only the approved opening anatomy passage about Cibotium barometz and Penawar Djambi; exclude later species and unreviewed material."
+    }
+  ],
+  "promotion_scope": "Cibotium barometz PDF pages 30-32 approved text ranges only; no plate page, next-taxon or full-volume expansion",
+  "token_unit_contract": "Provider-neutral regex units: Unicode word sequences or individual non-whitespace punctuation. These are deterministic portable chunk units, not a claim about Gemini's private tokenizer.",
+  "profiles": [
+    {"profile_id": "page-baseline", "target_token_units": null, "overlap_token_units": null},
+    {"profile_id": "section-aware-512-100-v1", "target_token_units": 512, "overlap_token_units": 100}
+  ],
+  "queries": [
+    {
+      "query_id": "cibotium-penawar-zh-tw",
+      "question": "書中如何描述金狗毛蕨提供的 Penawar Djambi 毛狀材料？",
+      "expected_status": "answerable",
+      "required_book_terms": ["Penawar Djambi"],
+      "expected_pdf_pages": [32]
+    },
+    {
+      "query_id": "cibotium-penawar-en",
+      "question": "What does the book say about the hairs supplied as Penawar Djambi by Cibotium barometz?",
+      "expected_status": "answerable",
+      "required_book_terms": ["Penawar Djambi"],
+      "expected_pdf_pages": [32]
+    },
+    {
+      "query_id": "cibotium-distribution-zh-tw",
+      "question": "書中把金狗毛蕨的分布範圍寫到哪些地區？",
+      "expected_status": "answerable",
+      "required_book_terms": ["malayische Region"],
+      "expected_pdf_pages": [31]
+    },
+    {
+      "query_id": "cibotium-chromosome-refusal-zh-tw",
+      "question": "這三頁記載金狗毛蕨的染色體數是多少？",
+      "expected_status": "unanswerable",
+      "required_book_terms": ["Chromosom", "chromosome number"],
+      "expected_pdf_pages": []
+    },
+    {
+      "query_id": "cibotium-wrong-name-refusal-zh-tw",
+      "question": "這三頁是否把 Penawar Djambi 的主要來源寫成 Cibotium taiwanense？",
+      "expected_status": "unanswerable",
+      "required_book_terms": ["Cibotium taiwanense"],
+      "expected_pdf_pages": []
+    }
+  ]
+}

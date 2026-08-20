@@ -1,0 +1,285 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0125-p0126",
+  "entry_id": "kohler-volume-2:p0125-p0126",
+  "owner_shard": "S03",
+  "book_taxon": {
+    "scientific_name": "Uncaria Gambir",
+    "authorship": "Roxb.",
+    "aliases": [
+      "Nauclea Gambir Hunter"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Uncaria Gambir",
+      "Uncaria gambir"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T16:08:51+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Uncaria+Gambir",
+        "query_name": "Uncaria Gambir",
+        "retrieved_at": "2026-08-13T16:08:45+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0002753",
+        "query_name": "Uncaria Gambir",
+        "retrieved_at": "2026-08-13T16:08:45+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0002753",
+        "query_name": "Uncaria Gambir",
+        "retrieved_at": "2026-08-13T16:08:45+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Uncaria+gambir",
+        "query_name": "Uncaria gambir",
+        "retrieved_at": "2026-08-13T16:08:45+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0069740",
+        "query_name": "Uncaria gambir",
+        "retrieved_at": "2026-08-13T16:08:45+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0069740",
+        "query_name": "Uncaria gambir",
+        "retrieved_at": "2026-08-13T16:08:45+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Nauclea+gambir",
+        "query_name": "Nauclea gambir",
+        "retrieved_at": "2026-08-13T16:08:46+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 125,
+      "evidence_type": "text",
+      "page_text_sha256": "8dae75998d3d1163734f32c674508b246c2d875ad9ff7bcc0bd4aefd73d7fd9c",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 126,
+      "evidence_type": "text",
+      "page_text_sha256": "0393ffb2895714ced3ba0c9c3bbc4815782722ee2092acd063c4156eb0971f9f",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0125-p0126:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                          Uncaria Gambir Roxb.\n                                           Syn. Nauclea Gambir Hunter.\n            Familie: Rubiaceae. Gattung: Uncaria Schreb.",
+      "normalized_text": null,
+      "zh_tw_rendering": "茜草科鉤藤屬，學名 Uncaria Gambir Roxb.，異名 Nauclea Gambir Hunter。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 125,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 190,
+        "page_text_sha256": "8dae75998d3d1163734f32c674508b246c2d875ad9ff7bcc0bd4aefd73d7fd9c",
+        "exact_text_sha256": "26f90d23818b2a9d48fe80b8a1d3441595ebbb2e15f179bb285ba49a281d1bd5",
+        "source_line_start": 1,
+        "source_line_end": 3,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "26f90d23818b2a9d48fe80b8a1d3441595ebbb2e15f179bb285ba49a281d1bd5",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0125-p0126:s01:x00",
+      "section_type": "description",
+      "original_text": "            Beschreibung. Hochkletternder, vielästiger Strauch mit rissiger,\n                                                                             brauner Rinde und gegen-\n  _tiberstehenden,    stielrunden,    kahlen   Zweigen.   Die gestielten Blätter gegenständig,     derb,   eilanzettlich,\n   9 Ctm. lang, 5 Ctm. breit, kurz und stumpf zugespitzt, ganzrandig, nur\n                                                                              auf der unteren Seite in den\n   untersten Winkeln der kaum vortretenden Nerven mit wenigen Härchen,\n                                                                                  sonst kahl. Nebenblätter\n   zwischen den Blattstielen, in gekreuzter Stellung zu den Hauptblättern, eiförmig\n                                                                                         , stumpf, kahl, ab-\n   fallend. Blüthenstände aus den Blattachseln hervorbrechend, gestielte, paar",
+      "normalized_text": null,
+      "zh_tw_rendering": "高攀援多枝灌木，皮褐色龜裂，枝對生無毛。葉對生革質，長橢圓狀披針形，長9公分，寬5公分。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 125,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 191,
+        "char_end": 1122,
+        "page_text_sha256": "8dae75998d3d1163734f32c674508b246c2d875ad9ff7bcc0bd4aefd73d7fd9c",
+        "exact_text_sha256": "c2d1910698ae85df3bc76b26ae6445a72bce3199b5835779cb4f0c90c6354271",
+        "source_line_start": 4,
+        "source_line_end": 13,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "c2d1910698ae85df3bc76b26ae6445a72bce3199b5835779cb4f0c90c6354271",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0125-p0126:s02:x00",
+      "section_type": "distribution",
+      "original_text": "          Vorkommen.      Auf den ostindischen Inseln, so namentlich in der Umgebung der Strasse\n  von Malacca und hier vorzüglich auf den vielen kleinen hollündischen Inseln zwischen Singapore und\n  Sumatra in umfangreicher Weise angebaut; auch auf Ceylon.",
+      "normalized_text": null,
+      "zh_tw_rendering": "產於東印度群島，特別是麻六甲海峽周邊及新加坡與蘇門答臘間荷蘭小島，錫蘭亦有栽培。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 125,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 5150,
+        "char_end": 5407,
+        "page_text_sha256": "8dae75998d3d1163734f32c674508b246c2d875ad9ff7bcc0bd4aefd73d7fd9c",
+        "exact_text_sha256": "fb96fd2dbc5d71d6f20e417be089aff989f773382bc7551c1a641fa2f1f47c1e",
+        "source_line_start": 58,
+        "source_line_end": 60,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "fb96fd2dbc5d71d6f20e417be089aff989f773382bc7551c1a641fa2f1f47c1e",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0125-p0126:s03:x00",
+      "section_type": "history",
+      "original_text": "           Name      und   Geschichtliches.          Gambir   ist ein ostindisches Wort;   Catechw stammt von dem\n  indischen Kate, Name für den Catechu liefernden Baum und chu Saft. Uncaria von uncus Haken,\n  wegen der hakenartig zurückgekrümmten, unfruchtbaren Blüthenstiele. Nauclea zusammengezogen aus\n` naucella oder naucula (navicella, navicula) kleines Schiff, bezogen auf die schiffehenartige Schale der\n  Steinfrucht (naucum), welche hier sehr klein ist.                                                       |\n            Das _Avxıov des Dioscorides, in dem man früher Catechu zu erkennen glaubte, ist der Saft\n  von Rhamnus infectoria gewesen.      Trotzdem Gambir wohl schon in alten Zeiten von den Völkern\n Süd- und Ostasiens, namentlich Chinas, zum Betelkauen benutzt worden ist, so ist seine Kenntniss in\n Europa doch nicht vor das 16. Jahrhundert zu verlegen.  Zu jener Zeit brachten die Portugiesen die\n Droge nach Europa; die Abstammung war jedoch unbekannt, denn noch Rumphius (1626—1693),",
+      "normalized_text": null,
+      "zh_tw_rendering": "Gambir 為東印度詞，Catechu 源自印度語。歐洲16世紀前未知，葡萄牙人引入，Rumphius 曾誤認。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 125,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 5440,
+        "char_end": 6448,
+        "page_text_sha256": "8dae75998d3d1163734f32c674508b246c2d875ad9ff7bcc0bd4aefd73d7fd9c",
+        "exact_text_sha256": "748ab020b79d9c958fa61b2313030e9bb53795273702bfba9e5740bf2485ddfa",
+        "source_line_start": 63,
+        "source_line_end": 72,
+        "section_index": 3,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "748ab020b79d9c958fa61b2313030e9bb53795273702bfba9e5740bf2485ddfa",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0125-p0126:s04:x00",
+      "section_type": "harvest",
+      "original_text": "         Die Gewinnung ist nach Flückiger folgende: die Blätter und jungen Triebe der etwa\n13 Monate alten Pflanzen werden im Jahre 3—4 mal gebrochen und in runden, flachen, gusseisernen,\n1 Meterim Durchmesser haltenden Pfannen ausgekocht. Auf letztere ist ein Rindencylinder mit Lehm\naufgekittet, welcher           auch äusserlich mit Lehm                  bestrichen ist.          Siedet das Wasser,             so wird der Cylinder\nmit Blättern gefüllt, die eine Stunde lang gekocht werden, worauf ein Auspressen der Blätter auf\nRinde erfolgt und zwar derart, dass die ausgepressten Massen in den Cylinder zurückfliessen. Die Blätter\nwerden zum zweiten Male gekocht und nach einiger Zeit erfolgt die zweite Auspressung.         Der Inhalt\nder Pfanne wird dann bis zur Syrupsdicke eingedampft, in Eimer geschöpft, dann abgekühlt und in\nnoch flüssigem Zustande in flache Holzküsten ausgegossen. Nach Erstarrung wird die Masse in würfel-\nfórmige, 9 Otm. grosse Stücke geschnitten, welche man im Schatten trocknet. Diese Würfel sind leicht",
+      "normalized_text": null,
+      "zh_tw_rendering": "採13個月植株葉與嫩枝，於鑄鐵鍋煮沸，壓汁回流，濃縮成漿，冷卻後切成9公分立方體陰乾。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 126,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 1943,
+        "char_end": 2981,
+        "page_text_sha256": "0393ffb2895714ced3ba0c9c3bbc4815782722ee2092acd063c4156eb0971f9f",
+        "exact_text_sha256": "e1f849ee50dcbc0710b3c6115efe197eb50b52f5881641b3a0edba5b546f7731",
+        "source_line_start": 17,
+        "source_line_end": 26,
+        "section_index": 4,
+        "section_type": "harvest"
+      },
+      "exact_text_sha256": "e1f849ee50dcbc0710b3c6115efe197eb50b52f5881641b3a0edba5b546f7731",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0125-p0126:s05:x00",
+      "section_type": "constituents",
+      "original_text": "          Bestandtheile.    Gambir enthält die gleichen Bestandtheile wie der Akazien-Catechu und\nbesteht, etwa 14—15°/, Unreinlichkeiten abgerechnet, fast ganz aus Catechin (siehe Akazien-Catechu).\nGautier hält das Gambir-Catechin, im Gegensatz zu der bisherigen Anschauung, nicht für überein-\nstimmend mit dem Akazien-Catechin.       Nach seinen Beobachtungen ist es ein Gemenge von drei\nkrystallisirbaren Stoffen: 1. Cio Hj, 0,, + 20H, im wasserfreien Zustande bei 205? schmelzend,\n2. Oe ‫وو‬8‎ 0,g ‫لح‬‎,‫و‬08 bei 177° schmelzend, 3. C,, ‫يو‬‎ 0,g ‫لح‬‎ OH,, bei 163° schmelzend.                                                        Flückiger\nstellt das Vorhandensein von Quercetin als zweifelhaft hin.",
+      "normalized_text": null,
+      "zh_tw_rendering": "成分同金雞納單寧，主要為單寧酸。Gautier 認為含三種結晶物質，熔點分別為205、177及163度。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 126,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3991,
+        "char_end": 4699,
+        "page_text_sha256": "0393ffb2895714ced3ba0c9c3bbc4815782722ee2092acd063c4156eb0971f9f",
+        "exact_text_sha256": "7fe1c3e6439aa253783cd420aae9e7801d40df0e2eef97588ea0645b725aef7b",
+        "source_line_start": 38,
+        "source_line_end": 44,
+        "section_index": 5,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "7fe1c3e6439aa253783cd420aae9e7801d40df0e2eef97588ea0645b725aef7b",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "434780acc2a092aca9fb04581cb1478f9da062ee52104d3e3a2558a4e25ae9c4",
+    "maker_receipt_sha256": "9f8e26500dbdb1a880a1758ff0dbdc46d01079f67f2790ecb2ff121815ac067a",
+    "validation_check_sha256": "d4f0b2d85cbcea9d5df0ddfc23b21735845fcbb12767f4d6b55b86d05ddce15e",
+    "source_disposition_sha256": "f8830cd474762580f0230036ceb3253211cfb7400d03a4c71e6d26e76f115d31",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "9f8e26500dbdb1a880a1758ff0dbdc46d01079f67f2790ecb2ff121815ac067a",
+      "validation_check_sha256": "d4f0b2d85cbcea9d5df0ddfc23b21735845fcbb12767f4d6b55b86d05ddce15e",
+      "source_disposition_sha256": "f8830cd474762580f0230036ceb3253211cfb7400d03a4c71e6d26e76f115d31"
+    },
+    "naming_artifact_sha256": "14399d675fe6b4f2d595df58b08ab33669a6650eec983046ce61dd56cfc0e3f9"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "560b902383be7b0d8c86311b19919c1860dbff05c5226badcc04c3c9351035a8"
+}

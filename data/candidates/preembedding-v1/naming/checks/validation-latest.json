@@ -1,0 +1,24 @@
+{
+  "valid": true,
+  "eligibility_authority": "integration/embedding-ready-candidate-manifest.json",
+  "eligible_embedding_ready_candidates": 274,
+  "artifacts": 274,
+  "coverage": 1.0,
+  "missing_entries": [],
+  "ineligible_entries": [],
+  "terminal_status_counts": {
+    "accepted": 97,
+    "alias": 32,
+    "unresolved": 145
+  },
+  "display_name_source_scope_counts": {
+    "non_taiwan_traditional_fallback": 2,
+    "taiwan_academic_public": 4,
+    "taiwan_government_public": 13,
+    "taiwan_public_fallback": 2,
+    "taiwan_taxonomic_public": 108,
+    "unresolved": 145
+  },
+  "record_chunk_projection": "naming/checks/record-chunk-projection.json",
+  "failures": []
+}

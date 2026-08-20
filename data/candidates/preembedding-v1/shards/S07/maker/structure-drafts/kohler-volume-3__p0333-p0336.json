@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-3:p0333-p0336",
+  "owner_shard": "S07",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 131.394,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-3:p0333-p0336",
+    "book_taxon": {
+      "scientific_name_candidate": "Castanea vesca",
+      "authorship_candidate": "Gaertner",
+      "aliases_candidates": [
+        "Castanea vulgaris Lam.",
+        "Castanea sativa Mill.",
+        "Castanea Castanea Karsten",
+        "Fagus Castanea UL."
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 333,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Castanea vesca Gaertner。別名：Castanea vulgaris、Castanea sativa。科：Cupuliferae (Fagaceae)。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          9
+        ],
+        "exact_source_quote": "                                        Castanea vesca Gaertner.\nEchte Kastanie,              essbare     Kastanie,            Edelkastaniee        Engl.: Chestnut.           Franz.: Chätaignier,\n                          Castanier, Marronier                 d’Europe.       Holl.: tamme           Kastanje.\n\n           Syn.: (astanea vulgaris Lam.                       Castanea sativa Mill.         Castanea Castanea Karsten.                  Fagus\nCastanea    UL.\n\n           Familie: Cupuliferae (Fagaceae Engl.)                         Unterfamilie:         Castaneae.       Gattung:             Castanea\nTournef."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 333,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "樹高10至30公尺，樹冠圓形。葉互生，披針形，長20至30公分，深綠色，具尖銳鋸齒。",
+        "warnings": [],
+        "source_line_range": [
+          11,
+          23
+        ],
+        "exact_source_quote": "           Beschreibung.             Die Kastanie ist ein schöner Baum von 10 bis 30 m Höhe, mit stolzer,\nweitschattender          kugliger Krone.               Der Stamm          ist aufrecht, gerade, cylindrisch, oft von be-\nträchtlicher        Dicke;     er besitzt       eine graubraune,            glatte Rinde.         Die Zweige         sind meist         etwas\nkantig, mit vielen Lenticellen bedeckt und reich an Narben früher abgefallener Blätter.                                                     Die\nBlätter sind mit 1 bis 5 cm langen Blattstielen versehen, wechselständig, einfach, ungeteilt,\nlanzettlich,       am    Grunde        abgerundet         oder     etwas     herzförmig,       am     entgegengesetzten              Ende    in\n\neine    scharfe     Spitze    auslaufend,         am     Rande      mit mehrere         Millimeter     langen,       spitzen,        plötzlich\n\nhervortretenden          Zähnen        besetzt.        Die Blattfläche        wird    20 bis 30 cm          lang, 5 bis 7 cm            breit,\n\nist dunkelgrün, unterseits heller, kahl und etwas glänzend auf beiden Seiten.                                          Der Hauptnerv\ndurchzieht oberseits eingesenkt, unterseits stark hervortretend, das ganze Blatt; aus ihm ent-"
+      },
+      {
+        "section_type": "flowering",
+        "pdf_page": 334,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "花期為五月至六月；果實成熟期在十月。",
+        "warnings": [],
+        "source_line_range": [
+          51,
+          51
+        ],
+        "exact_source_quote": "              Blütezeit.          Mai, Juni; die Fruchtreife fällt in den Oktober."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 334,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產於溫暖北溫帶，分佈於南歐、亞洲、非洲及北美。德國萊茵區作行道樹，北法栽培。",
+        "warnings": [],
+        "source_line_range": [
+          53,
+          58
+        ],
+        "exact_source_quote": "              Vorkommen.\n                       Der Baum ist in der wärmeren nördlich gemässigten Zone einheimisch;\ner findet sich im südlichen Europa ebenso wie im gemässigten Asien, Afrika und Nordamerika.\nIn Deutschland               wird     er namentlich\n                                     in den Rheingegenden als Chausseebaum gezogen;                                                                im\nnördlichen Frankreich wird er seiner Früchte wegen angebaut und gepflegt. Ä"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 335,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史用途：葉於1862年入藥，治百日咳及緩解痙攣；果實作咖啡替代品及食物；木材作建材。",
+        "warnings": [
+          "Content describes historical medical use; not modern medical advice."
+        ],
+        "source_line_range": [
+          41,
+          47
+        ],
+        "exact_source_quote": "               Anwendung.              Die Rinde      des Baumes         dient als Gerbmittel;       das Holz findet als Bau-\nholz    Verwendung.              Die Blätter         wurden     1862     von   Close    in die Medizin     eingeführt,       nachdem\nsie bereits früher               als Hausmittel Verwendung                 fanden.      Sie gelten als Mittel gegen Keuch-\nhusten,         mildern       die Krämpfe         und    beseitigen      sie in einigen     Tagen.   Man     wendet      die Blätter\nin Gestalt           eines Fluidextrakts             an, zwei- bis dreistündlich 0,5 bis 2 g.               Die Früchte dienen\nals Kaffeesurrogat und Nahrungsmittel.                              Das Extrakt des Holzes dient seines Gerbstoffgehaltes\nwegen          zum    Schwarzfärben            und   zum    Beschweren         der Seide."
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 336,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "圖版描述：A開花枝條。1雄花；2雌花簇；3雌花；4縱切；5殼斗；6果實；7未熟果側視；8未熟果縱切；9澱粉粒。",
+        "warnings": [],
+        "source_line_range": [
+          17,
+          22
+        ],
+        "exact_source_quote": "                                                     Tafelbeschreibung.\n        A Blühender Zweig.         1 Männliche Blüte; 2 Knä uel wei bli che r Blü ten ; 3 wei bli che Blü te; 4 die sel be im\n                                6 Frucht;    7 dieselbe   im unreifen     Zustande    von   der   Seite   gesehen;   8 dieselbe   unreif\nLängsschnitt;      5 Kupula;\nim medianen Längsschnitt; 9 Stärkekörner         .     A  */,  nat ürl ich e Grö sse ;   5,  6,  7, 8 nat ürl ich e Grö sse ; 1, 2, 3, 4,\n9 ver grö sse rt. Nac h leb end en Exe mpl are n   aus   Ede  nko ben     in der  Rhe  inp fal z."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "5b6657614072ac7fba8169ee05d9cbd298a5a8d603ef1a85f0a4c84cda3bf781"
+}

@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 1,
+  "owner_shard": "S01",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "a5b096588c64e5a04b913db6dc0a375656b9730a339af6ea363694d6acf5699e",
+  "render_dpi": 144,
+  "render_sha256": "12535896ab0c5a1d3eb4dff223f7d1e9ccaa9dddcee9846c2644a0331d4fb39f",
+  "engine": "Apple Vision VNRecognizeTextRequest accurate",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 228.506,
+  "embedded_character_count": 634,
+  "ocr_character_count": 100,
+  "ocr_alpha_ratio": 0.81,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "review_status": "machine_extracted",
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.036337209126306,
+      "text": "Ady",
+      "width": 0.09039548189023283,
+      "x": 0.8794726925765407,
+      "y": 0.9622093022319052
+    },
+    {
+      "confidence": 1,
+      "height": 0.02768786559029235,
+      "text": "KÖHLER'S",
+      "width": 0.21512781484400134,
+      "x": 0.36509786462254157,
+      "y": 0.5938046725931287
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "INTERNATIONALE",
+      "width": 0.08474576304471326,
+      "x": 0.09039547864713496,
+      "y": 0.5174418605519596
+    },
+    {
+      "confidence": 1,
+      "height": 0.007353711222845449,
+      "text": "ERSTE",
+      "width": 0.03957461942576995,
+      "x": 0.11486429038154586,
+      "y": 0.5275731443144649
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "PHARMACEUTISCHE",
+      "width": 0.09227871495937905,
+      "x": 0.08851224442709012,
+      "y": 0.5072674420744887
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494425,
+      "text": "AUSSTELLUNG",
+      "width": 0.07156308737500755,
+      "x": 0.09981167545876116,
+      "y": 0.4956395350728535
+    },
+    {
+      "confidence": 1,
+      "height": 0.007440476190476164,
+      "text": "WIEN 1883.",
+      "width": 0.05461393574796895,
+      "x": 0.10734463196907894,
+      "y": 0.48536706341388847
+    },
+    {
+      "confidence": 1,
+      "height": 0.0465116273789179,
+      "text": "Medizinal-Pflanzen.",
+      "width": 0.5235404820976111,
+      "x": 0.21845575092388753,
+      "y": 0.48401162808016307
+    },
+    {
+      "confidence": 1,
+      "height": 0.02277105384402811,
+      "text": "BAND I.",
+      "width": 0.16969723498959338,
+      "x": 0.3953773697925637,
+      "y": 0.3294574962570932
+    }
+  ],
+  "text": "Ady\nKÖHLER'S\nINTERNATIONALE\nERSTE\nPHARMACEUTISCHE\nAUSSTELLUNG\nWIEN 1883.\nMedizinal-Pflanzen.\nBAND I.",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-ocr-sha256=e54202ae838c94203816fd3331f4c37f7acac436188d481eab506c540c3d66d6",
+  "input_sha256": "12535896ab0c5a1d3eb4dff223f7d1e9ccaa9dddcee9846c2644a0331d4fb39f",
+  "output_sha256": "9dc5ed5bbb6602e1cda302ffd58c3bc150569cfdcae1d9143cd166ff4bc89580",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "receipt_sha256": "35cec3af22993aada186844605ad5278d8f308eaf6ed1970a26c297b18680c14"
+}

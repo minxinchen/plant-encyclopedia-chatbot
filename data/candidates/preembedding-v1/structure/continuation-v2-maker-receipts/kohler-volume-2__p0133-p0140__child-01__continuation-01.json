@@ -1,0 +1,155 @@
+{
+  "schema_version": "2.0",
+  "package_id": "kohler-volume-2:p0133-p0140:child-01:continuation-01",
+  "parent_entry_id": "kohler-volume-2:p0133-p0140",
+  "child_entry_id": "kohler-volume-2:p0133-p0140:child-01",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation-v2:kohler-volume-2:p0133-p0140:child-01:continuation-01:v1",
+  "owner_shard": "S03",
+  "package_sha256": "1bad19ec9045d28fbb12ed118a436fd0276101745b732d6c6e45854b786b2570",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "prompt_version": "plant-structure-line-coordinates-v2",
+  "attempt_sha256": "92f62e9ba883d3618bb6749da78d412daddebe450d1d17060dd447fdfd9707ca",
+  "raw_response_sha256": "b24fb5c4cd6968d94eb7bcbcd8c74e3318d1c3c58c9dbfa0233ff6039241820c",
+  "elapsed_seconds": 24.524,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 133,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 197,
+      "char_end": 2861,
+      "source_line_start": 6,
+      "source_line_end": 30,
+      "page_text_sha256": "21143ad26ea4c170efdf9c62e8645243145e854db118ddfefde9ce5c2896b466",
+      "exact_text_sha256": "b5e9b242d447e2ab0d575cddcc00977ebbded22d5271c767f23f6a1627f03931",
+      "section_index": 0,
+      "section_type": "description"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 134,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 0,
+      "char_end": 924,
+      "source_line_start": 1,
+      "source_line_end": 7,
+      "page_text_sha256": "52b148707b51c797f7454000cb07a4009bdff3830fdcb1cd20492b7246b52a1d",
+      "exact_text_sha256": "f6ecde1e6b12febac95b9d369bcf2f76c7fbbf6ed39c0bcdf6ea85b7c5b53657",
+      "section_index": 1,
+      "section_type": "anatomy"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 134,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 1350,
+      "char_end": 5302,
+      "source_line_start": 15,
+      "source_line_end": 51,
+      "page_text_sha256": "52b148707b51c797f7454000cb07a4009bdff3830fdcb1cd20492b7246b52a1d",
+      "exact_text_sha256": "b152fa38f4aee5b238790a699b2d3817484b7cf1e0c845ef97d0a3baa87c245a",
+      "section_index": 2,
+      "section_type": "history"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 137,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 4275,
+      "char_end": 5194,
+      "source_line_start": 46,
+      "source_line_end": 53,
+      "page_text_sha256": "8021c3096b0ca1912531b625ab5cab2c5fe5b6d04165962c58b0569168ac9e52",
+      "exact_text_sha256": "30a8b7e3718d46c5dc394f41e4906b1d43acc582779f0a407a76d0064759dcc0",
+      "section_index": 3,
+      "section_type": "constituents"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 138,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 5019,
+      "char_end": 6029,
+      "source_line_start": 44,
+      "source_line_end": 51,
+      "page_text_sha256": "9063d0ddd063e407c0c98794fa1933a5ad2fb16df1c3ddbd4e391fce42373c98",
+      "exact_text_sha256": "39da2db3353c08ec47b772ede2c548ebca6ccf227bf93e2409efff52feee83ac",
+      "section_index": 4,
+      "section_type": "historical_use"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-2:p0133-p0140:child-01:continuation-01",
+    "parent_entry_id": "kohler-volume-2:p0133-p0140",
+    "book_taxon": {
+      "scientific_name_candidate": "Coffea arabica"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "description",
+        "pdf_page": 133,
+        "source_line_range": [
+          6,
+          30
+        ],
+        "exact_source_quote": "            Beschreibung.     Immergrüner Strauch (seltener Baum) von 6—8 Meter Höhe, mit aus-\n  gebreiteten, später überhängenden Aesten, welche mit kurzgestielten, gegenüberstehenden Blättern\n  besetzt sind. Letztere bis 14 Ctm. lang, bis 6 Ctm. breit, lederartig, länglich oder eiförmig-länglich,\n  zugespitzt,    kahl,   geripptaderig,    oberseits    glänzend    dunkelgrün,     unterseits   blasser,   mit zwischen    den\n  Blattstielen befindlichen, gegenüberstehenden, breit-eirunden, ei-deltaförmigen, plötzlich pfriemlich zu-\n  gespitzten, abfallenden Nebenblüttern.     Blüthen kurz gestielt, zu 3—7 büschelförmig gehäuft, blatt-\n  achselstándig. Kelch sehr klein, fünfzähnig. Blumenkrone ca. 18 Mm. lang, prüsentirtellerfórmig, mit\n ungefähr 1 Ctm. langer, gerader, walziger Röhre und fünflappigem Saume, weiss; Saumlapp\n                                                                                                  en läng-\n. lich, kurz zugespitzt. Staubgefässe zu 5, aus der Kronröhre hervorragend, mit pfriemenfórmig\n                                                                                                  en, dem\n  Schlunde eingefügten Fäden und linienfórmigen, zweifücherigen, langen, dem Staubfaden horizontal auf-\n  liegenden, am einen Ende spitzen, am anderen ausgerandeten Staubbeuteln. Stempel unterständig, mit\n rundlichem,      zweifächerigem   Fruchtknoten,        fadenförmigem    Griffel    und   pfriemlichen,     erst aufrecht ab-\n stehenden,     später zurückgerollten Narben.           Steinfrucht länglich-rund,        erst grün, dann roth, zuletzt\n violett, 9-—14     Mm. lang, 6-—8        Mm.    breit, von   dem   Kelchrande     und der scheibenförmigen       Griffelbasis\n gekrönt, getrocknet auf beiden, den Steinkanten entsprechenden Seiten mit je einer Längsfurche, ab-\n fallend. ` Steine pergamentartig, citronengelb. Same oval, mit beiden Rändern gegen die Bauchfläche\n stark eingerollt, der eine schmälere           Rand   den anderen,   breiteren schräg deckend, in Folge dessen auf\n der flachen Seite mit einer gewunden-spaltenfö migen, tief in das Innere eindringenden Längsfurche\n versehen.      Samenschale   dünn, zart, häutig, leicht ablösbar, bei der käuflichen              Waare    nur noch in der\n Spalte vorhanden. Das hornartige Eiweiss von der Gestalt des Samens, grünlich-grau, bläuli            -ch\n                                                                                                         grau,\n gelblich oder bráunlich. Embryo klein, excentrisch im Grunde des Eiweiss, mit abwärts gerichtetem\n Würzelchen und blattartigen, eiförmigen, elliptischen oder herzförmigen Samenlappen."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 134,
+        "source_line_range": [
+          1,
+          7
+        ],
+        "exact_source_quote": "          Anatomisches. Die Samenhaut des arabis                     ch en   Ka ff ee s   ist    aus    me hr er en     Re  ih en     se hr    fla ch\ntafelfórmiger, dünnwandiger Zellen zusammen        ge se  tz  t,    we lc he    vo n    ein er    Re ih e   in   die   Lä  ng  e    ge st re ck te r,\ngetüpfelter, citronengelber Steinzellen bedeckt sin            d.     Da s    Ei we is s   be  st eh t    im   Al  lg em ei  ne  n     au s. po  ly -\nedrischen Zellen mit im Querschnitte knotig verdic                kt en    Wä nd en  .       Im    Qu  er sc hn it t    ze ig t    da s   Ei we  is s\nin der Mitte eine hellere linienförmige,      de n  Kr  üm   mu  ng en      des   Sa  me ns     fo lg  en de    Zo ne ,    de re n    ta ng en ti al\ngestreckte Zellen zum Thei l in Au fl ös un g   be gr if fe n   sin d   un d   an    die sen    Ste lle n   nur   no ch    dü  nn e,    ge fa lt et e\nWandreste erkennen lässt."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 134,
+        "source_line_range": [
+          15,
+          51
+        ],
+        "exact_source_quote": "        Name und Geschichtliches.        Die Namen Coffea und Kaffee stammen nicht, wie man\nfrüher annahm, von dem arabischen Kahwah oder Cahuah, welches sowohl das Kaffeegetränk als auch                                                         .\nden Wein bezeichnet, sondern von der zum südabessinischen Hochland gehörenden Landschaft Kaffa,\nwoselbst der Kaffee auch heute noch sehr häufig wild wächst.\n         In seiner Heimath Kaffa und den angrenzenden afrikanischen Landschaften mag der Kaffee\n wohl schon in den frühesten Zeiten in Gebrauch                        und von       dort vorerst nach Persien, woselbst                  er schon\num das Jahr 875 auftritt, gelangt sein. In dem Reiche der Osmanen tritt der Kaffee viel später auf;\nnach einer alten türkischen Sage soll das Kaffeegetränk von Scheikh Omar um das Jahr 1258 er-\nfunden worden sein. Mit einiger Sicherheit kann man annehmen, dass die Kenntniss des Kaffees noch\nweiter in die Neuzeit herein versetzt werden muss und zwar war es der Mufti Gemal Eddin von\n- Aden, der um        1500    auf einer Reise nach Persien den Kaffee kennen                           lernte und nach Jemen            einführte,\nvorerst nur unter den Derwischen zur besseren Abhaltung der Gebetstunden. Schon um 1511 gehörte\nin Mekka der Kaffeetrank zu den allgemeinen Genüssen und um diese Zeit erless der Stadthalter\nChair Beg das erste Verbot des Kaffeetrinkens, zu welchem Zwecke ein besonderer Gerichtshof unter\nVorsitz der arabischen Aerzte Gebrüder Hakimani eingesetzt wurde, die den Kaffee für verwerflich\nerklärten und den Kaffeetrinkern, welche gegen die Satzungen des Koran handelten, prophezeiten, dass\nihre Gesichter am Tage des Gerichtes schwärzer erscheinen würden als der Topf, woraus der Kaffee\ngetrunken. Die Kaffeehäuser wurden geschlossen, der Verkauf verboten, die Niederlagen zerstört und\njede Uebertretung mit Bastonnade und verkehrtem Eselsritt bestraft. Aber schon von dem nach-\nfolgenden Statthalter, der selbst dem Kaffeegenusse huldigte, wurde das Verbot wieder aufgehoben und\n1534 von Sultan Soliman in Constantinopel die ersten Kaffeehäuser (Schulen der Erkenntniss) errichtet,\ndie jedoch unter Sultan Murad 11. schon wieder geschlossen wurden. Die Parteinahme für und gegen\nden Kaffee spiegelt sich in vielen Lob- und Schmähgedichten ab, welche die arabische Litteratur jener\nZeit aufweist. Durch den Augsburger Arzt Leonhardt Rauwulf, welcher 1573 den Kaffee in Aleppo\n kennen     lernte,     kamen      die   ersten Nachrichten           über     denselben        nach dem Abendlande             und    1592     ver-\nOffentlichte Prosper Alpin aus Padua, auf Grund seiner Beobachtungen an einem in Kairo befind-\n lichen Kaffeebaume, die erste Abbildung nebst botanischer Beschreibung. 1615 giebt Pietro della Valle\n eine ausführliche Charakteristik des neuen Getrünkes (Kahne oder Kahwe), welches er als kühlend im\n Sommer und erwürmend im Winter bezeichnet; 1624 wurden durch die Venezianer gróssere Mengen\n von Kaffee nach Europa gebracht.                   Im Jahre 1632 befanden              sich in Kairo        schon über 1000           öffentliche\n Kaffeehäuser und 1645 war das Kaffeetrinken in Süditalien allgemein verbreitet. Der Grieche Pasqua\n errichtete 1652 das erste Kaffeehaus in London.  1658 hess Thouvenet zum ersten Male nach dem\n Essen Kaffee         herumreichen.         1671     erhielt Marseille,         1672    Paris    das    erste Kaffeehaus,         ihnen     folgten\n nach 1688 Wien, 1686 Nürnberg und Regensburg, 1687 Hamburg, 1712 Stuttgart, 1721 Berlin. In\n Preussen wurde der Kaffeehandel durch Friedrich den Grossen monopolisirt und der Kaffe so ver-\n theuert,     dass das gemeine Volk diesem                 Genusse      entsagen musste,          damit nicht zu viel Geld nach                 dem\n Ausland gehe.         Um 1670 kostete das Pfund Kaffe in Frankreich 140 Fres.                                 1674 baten, merkwürdiger-"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 137,
+        "source_line_range": [
+          46,
+          53
+        ],
+        "exact_source_quote": "           Bestandtheile.          Der Kaffee ist vielfach untersucht worden und enthält nach Payen u. A. in\n100 Theilen:       34,0 Cellulose, 12,0 Wasser,          12 öliges Fett, 15,5 Zucker,        Dextrin,    10 Proteinsubstanz,\n 3—5 eigenthümliche eisengrünende Gerbsäure (Kaffeegerbsäure, Chlorogensäure), 0,86 eigenthümliches\nflüchtiges Alkaloid (Coffein), 9,0 festes äherisches Oel, Spur eines aromatischen, flüssigen ätherischen\nOeles, Chinasäure,       6,7 Aschenbestandtheile (Kali, Kalk, Magnesia, Phosphorsäure,                 Schwefelsäure, Kiesel-\nsäure, Chlor.      Herapath erhielt aus westindischem Kaffee 3,8%, Asche in folgender Zusammensetzung:\n42,022    Kieselsäure,    18,273 Phosphorsäure,         15,238 Kali, 11,515 Gips, 6,264 Natron,          3,838 kohlensauren\nKalk,     1,616   phosphorsauren      Kalk,     0,606    Chlornatrium,     0,224   Schwefelsäure.       Der   geraspelte    un-"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 138,
+        "source_line_range": [
+          44,
+          51
+        ],
+        "exact_source_quote": "             Anwendung.                 Das Coffein, welches             in Pulverform,          Pillen und Pastillen gereicht wird, findet\nseine hauptsächlichste Verwendung in der Hemicranie, wo es sehr günstige Erfolge aufzuweisen hat\nund beispielsweise lange bestehende Migräne oft ziemlich rasch beseitigt. Es erzeugt in grösseren Dosen\nerhöhte      Herzthätigkeit,           Congestionen,          Schlaflosigkeit,         Zittern,      Convulsionen.           Gegen Hydrops             hat es\ndurch     die Empfehlung            von Botkin           und Koschlakoff               vielfach mit günstigem Erfolge Anwendung                              ge-\nfanden, namentlich gegen Wassersucht in Folge von Herzkrankheiten.    Coffeinsalze werden gegen\nNervenleiden und Kopfschmerz angewendet. Das Coffein wurde früher für nährend und als der allein\nwirksame         Stoff      des   Kaffees      gehalten.           „Beides     ist unrichtig,          da    wiederholt        Versuche         an    Thieren"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "38315c78a4acf9046a309585cf7bb79a745346dfacfbbeea9bf87298bf3ca5cd"
+}

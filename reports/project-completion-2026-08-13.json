@@ -1,0 +1,99 @@
+{
+  "schema_version": "1.0",
+  "calculated_at": "2026-08-13T14:04:57+08:00",
+  "scope_note": "The bounded text MVP and whole-book content coverage are separate metrics. Test pass rate is not full-book accuracy.",
+  "source_foundation": {
+    "indexed_pages": 1774,
+    "total_pages": 1774,
+    "indexed_percent": 100.0,
+    "usable_or_clean_text_pages": 1175,
+    "usable_or_clean_text_percent": 66.23,
+    "quality_counts": {
+      "empty": 201,
+      "fragmented": 22,
+      "low_text": 376,
+      "usable": 1175
+    }
+  },
+  "approved_content_coverage": {
+    "approved_records": 8,
+    "remaining_ocr_clean_candidates": 231,
+    "operational_candidate_taxa_total": 239,
+    "operational_taxon_coverage_percent": 3.35,
+    "approved_indexed_parent_pages": 25,
+    "book_page_coverage_percent": 1.41,
+    "denominator_warning": "The operational candidate denominator is the current OCR-clean selector inventory plus approved records; it is not a verified count of every taxon printed in the four volumes."
+  },
+  "bounded_text_mvp": {
+    "gates_passed": 8,
+    "gates_total": 8,
+    "completion_percent": 100.0,
+    "gates": {
+      "all_pdf_pages_indexed": true,
+      "approved_source_exact_records_exist": true,
+      "approved_main_index_integrity": true,
+      "approved_query_vectors_exist": true,
+      "chat_acceptance_passed": true,
+      "google_gem_pack_ready": true,
+      "n8n_replay_ready_and_inactive": true,
+      "taiwan_name_layer_present": true
+    },
+    "approved_child_chunks": 54,
+    "approved_query_vectors": 39,
+    "chat_acceptance_passed": 56,
+    "chat_acceptance_total": 56
+  },
+  "portability_and_delivery": {
+    "completion_percent": 100.0,
+    "gates": {
+      "local_chat_api_validated": true,
+      "google_gem_pack_exported": true,
+      "n8n_workflow_imported_and_inactive": true,
+      "public_or_google_live_connection": true
+    }
+  },
+  "image_reasoning": {
+    "production_enabled": false,
+    "completion_percent": 0.0
+  },
+  "roadmap_weighted_indicator": {
+    "completion_percent": 41.8,
+    "weights": {
+      "source_foundation": 0.25,
+      "approved_content_coverage": 0.45,
+      "bounded_chat_quality": 0.15,
+      "portability_and_delivery": 0.05,
+      "image_reasoning": 0.1
+    },
+    "component_percent": {
+      "source_foundation": 83.12,
+      "approved_content_coverage": 2.38,
+      "bounded_chat_quality": 100.0,
+      "portability_and_delivery": 100.0,
+      "image_reasoning": 0.0
+    },
+    "warning": "This is a planning indicator defined by the listed weights, not an objective measure of book accuracy or content coverage."
+  },
+  "next_candidate": {
+    "source_id": "kohler-volume-2",
+    "volume": 2,
+    "start_pdf_page": 197,
+    "book_taxon_candidate": "Levistieum offieinale",
+    "heading_excerpt": "Levistieum offieinale Koch. | Syn. Levisticum paludapifolium Aschers. Angelica Levisticum Baillon. | Ingusticum Levisticum L. | Liebstockel — Liveche.",
+    "end_pdf_page": 198,
+    "pdf_pages": [
+      197,
+      198
+    ],
+    "page_count": 2,
+    "next_entry_pdf_page": 199,
+    "next_entry_taxon_candidate": "Guajacum offiemale",
+    "mean_alpha_ratio": 0.7489,
+    "mean_short_line_ratio": 0.00895,
+    "mean_character_count": 5612,
+    "closing_section_marker": true,
+    "score": 122.4678,
+    "status": "candidate_requires_name_and_visual_review"
+  },
+  "incremental_usd_this_completion_check": 0
+}

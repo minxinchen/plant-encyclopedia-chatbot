@@ -1,0 +1,290 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0457-p0458",
+  "entry_id": "kohler-volume-2:p0457-p0458",
+  "owner_shard": "S04",
+  "book_taxon": {
+    "scientific_name": "Hydrastis canadensis",
+    "authorship": "L.",
+    "aliases": [
+      "Warneria Canadensis Miller",
+      "Kanadische Gilbwurzel",
+      "Gelbes Blutkraut",
+      "Yellow root",
+      "Yellow Pucoon",
+      "Yellow-seal",
+      "Actaea palmata"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Hydrastis canadensis"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T19:46:55+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Hydrastis+canadensis",
+        "query_name": "Hydrastis canadensis",
+        "retrieved_at": "2026-08-13T19:46:51+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Warneria+canadensis",
+        "query_name": "Warneria canadensis",
+        "retrieved_at": "2026-08-13T19:46:52+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Kanadische+gilbwurzel",
+        "query_name": "Kanadische gilbwurzel",
+        "retrieved_at": "2026-08-13T19:46:52+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Gelbes+blutkraut",
+        "query_name": "Gelbes blutkraut",
+        "retrieved_at": "2026-08-13T19:46:52+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Yellow+root",
+        "query_name": "Yellow root",
+        "retrieved_at": "2026-08-13T19:46:52+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Yellow+pucoon",
+        "query_name": "Yellow pucoon",
+        "retrieved_at": "2026-08-13T19:46:52+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Actaea+palmata",
+        "query_name": "Actaea palmata",
+        "retrieved_at": "2026-08-13T19:46:52+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 457,
+      "evidence_type": "text",
+      "page_text_sha256": "da7a7a427882767d0ed459ce163b0e658123f84c22a1dcd4b0662154c1903903",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 458,
+      "evidence_type": "text",
+      "page_text_sha256": "1f1d792ec247a072ce38e0e293f5ea3838b4b0fe4ba0b8145990c2be44540cf7",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0457-p0458:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                Hydrastis         canadensis             L.\n                                 Syn. Warneria      Canadensis Miller.\n\nKanadische Gilbwurzel,       Gelbes Blutkraut      —    Yellow root, Yellow Pucoon, Yellow-seal.\n\n         Familie: Ranunculaceae (Unterfamilie: Helleboreae); Gattung: Hydrastis L.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Hydrastis canadensis L.，同義名 Warneria Canadensis。屬毛茛科。俗名加拿大黃耆、黃血草。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 457,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 328,
+        "page_text_sha256": "da7a7a427882767d0ed459ce163b0e658123f84c22a1dcd4b0662154c1903903",
+        "exact_text_sha256": "fc22af95e4b23cd1491b1c7bbc0e74fd5ac4549a2f9a103a347e72aa30783f75",
+        "source_line_start": 1,
+        "source_line_end": 6,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "fc22af95e4b23cd1491b1c7bbc0e74fd5ac4549a2f9a103a347e72aa30783f75",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0457-p0458:s01:x00",
+      "section_type": "description",
+      "original_text": "         Beschreibung. Eine kleine ausdauernde Pflanze mit einem unregelmässigen, knorrigen und\nknotigen, hellgelben Wurzelstocke, welcher schlanke Wurzeln austreibt und mit den Stengelnarben\nund Stengelresten der vorhergehenden Jahre bedeckt ist. Stengel bis 30 Ctm. hoch, aufrecht, cylin-\ndrisch, mit abstehender oder abwärts gerichteter Behaarung und am Grunde von kleinen braunen\nSchuppen umschlossen.       Blätter 2, das untere langgestielt, das obere auf der Spitze des Stengels |\nsitzend, im Umfange rundlich, handförmig gelappt, mit 5 bis 7 tief eingeschnittenen, unregelmässig\ngezühnten Lappen, stark geadert, haarig, dunkelgrün. Eine Zeichnung von A. Gray besitzt noch ein\nsehr lang gestieltes, die Blüthe weit überragendes Wurzelblatt, welches an Grösse die stengelständigen\nweit übertrifft. Blüthen einzeln, endständig, klein, auf aufrechtem, ca. 5 Ctm. langem Blüthenstiel.\nKelchblätter 3, einander gleich, blumenblattartig, breit eifórmig, blass-grünlich- weiss, concav, etwas\nflaumig, bald abfallend.    Kronblätter nicht vorhanden.    Staubgefässe zahlreich, ungefähr so lang als\ndie Kelchblätter, unterständig. Filamente flach, in der Mitte an Breite zunehmend, nach der Anthere\nhin wieder schmäler werdend; Antheren klein, der Spitze der Filamente aufgewachsen.           Carpelle 12\noder mehr, flaschenförmig, sitzend. Fruchtknoten behaart, auch glatt, mit 2 in der Mitte der Bauch-\nwand befestigten Eichen, allmühlich in den kurzen Griffel übergehend.        Narbe platt und zweilippig.\nDie Frucht einer Brombeere ähnlich, einen aus kleinen, fleischigen, länglichen, hochrothen Beeren\nzusammengesetzten Kopf bildend; die Beeren von dem bleibenden Griffel gekrönt, Samen 2 (durch\nVerkümmerung    auch nur   1) in jeder Beere, hart, schwarz, glünzend,    breit-eifórmig,   mit einem   langen,\nlinealen Nabel und krustenfórmiger Samenschale.        Embryo klein, im Grunde des fleischigen Eiweiss. `\n",
+      "normalized_text": null,
+      "zh_tw_rendering": "多年生小植物，具不規則塊莖。莖高至30公分。葉二枚，掌狀深裂。花單生頂生。果似覆盆子，由紅莓組成。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 457,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 329,
+        "char_end": 2247,
+        "page_text_sha256": "da7a7a427882767d0ed459ce163b0e658123f84c22a1dcd4b0662154c1903903",
+        "exact_text_sha256": "a593bab1501eaf13a11ab54560880f95e0931b9ebaf44c9ac39819aceb748787",
+        "source_line_start": 7,
+        "source_line_end": 26,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "a593bab1501eaf13a11ab54560880f95e0931b9ebaf44c9ac39819aceb748787",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0457-p0458:s02:x00",
+      "section_type": "distribution",
+      "original_text": "         Vorkommen.       In Canada     und Pensylvanien;    in den Bergen von Georgia und Carolina,\nnamentlich in den Alleghannys.",
+      "normalized_text": null,
+      "zh_tw_rendering": "產於加拿大及賓夕法尼亞；喬治亞與卡羅來納的山區，特別是阿勒格尼山脈。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 457,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2318,
+        "char_end": 2449,
+        "page_text_sha256": "da7a7a427882767d0ed459ce163b0e658123f84c22a1dcd4b0662154c1903903",
+        "exact_text_sha256": "8623012ef40ea130f35375ce8f768464b25d2da3bfc594b5c618d2e8a42f0da7",
+        "source_line_start": 29,
+        "source_line_end": 30,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "8623012ef40ea130f35375ce8f768464b25d2da3bfc594b5c618d2e8a42f0da7",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0457-p0458:s03:x00",
+      "section_type": "history",
+      "original_text": "          Name und Geschichtliches. Hydrastis soll von 2000 Wasser und dea erfüllen, anfüllen\nabgeleitet sein; was damit gesagt werden soll, ist unklar. Ebenso unklar ist die Ableitung von 060,\nWasser, und aorn, Stadtbewohnerin, gedeutet als Wasserbiirgerin.      Nach einer anderen Auffassung\nsoll die Pflanze zu Ehren einer Amerikanerin so benannt worden sein.\n          Hydrastis canadensis ist 1759 von P. Miller in England eingeführt und von ihm 1760 unter\ndem Namen Warneria (zu Ehren des Richard Warner in Woodford) abgebildet worden. Sie gerieth\njedoch bald in Vergessenheit und wurde spiter von einem Herrn Smith wieder in Erinnerung gebracht.\nPoiret bezeichnete sie mit Hydrastis und Lamarck bildete sie ab unter der Bezeichnung Actaea `\npalmata.",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱由來不明。1759年Miller引入英國，1760年以Warneria發表。後被Poiret定名為Hydrastis。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 457,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2451,
+        "char_end": 3207,
+        "page_text_sha256": "da7a7a427882767d0ed459ce163b0e658123f84c22a1dcd4b0662154c1903903",
+        "exact_text_sha256": "4b838e3bc563948f4dd130181ca24097b1676ea664f69110f8cc6f5d47d41d48",
+        "source_line_start": 32,
+        "source_line_end": 40,
+        "section_index": 3,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "4b838e3bc563948f4dd130181ca24097b1676ea664f69110f8cc6f5d47d41d48",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0457-p0458:s04:x00",
+      "section_type": "constituents",
+      "original_text": "          Bestandtheile.        A. B. Durand      erhielt   1851    aus    der   Wurzel:   ätherisches   Oel,   Eiweiss,\nStärkemehl, Zucker, Gummi, Fett, Harz, einen gelben krystallinischen Farbstoff, welcher von Mahla\nals Berberin erkannt worden ist und ein weisses Alkaloid (Hydrastin). A. H. Hale und Lerchen\nfanden noch ein drittes Alkaloid (Xanthopuccin).  Lerchen erhielt 10%, Asche und eine Säure, die\nmit Ferrichlorid einen grünen Niederschlag giebt, sich aber indifferent verhält gegen Chinaalkaloide\nund Leimlósung, demnach nicht als Gerbsäure zu betrachten ist.\n         Hydrastin (UH. NO, nach Mahla, Cs5H,; NO, nach Kraut) 1854 von Durand beobachtet,\n1862 von Perrins näher untersucht, bildet nach Mahla weisse, glänzende, beim \"Trocknen durch-\nsichtig werdende, vierseitige Prismen des rhombischen Systems, die bei 135? schmelzen, alkalisch reagiren.\nund keinen Geschmack haben, in Lösungen aber bitter schmecken. Sie sind kaum löslich in Wasser,\nleicht in Weingeist, Aether, Chloroform und Benzol. Die einfachen Salze sind im grossen Ganzen nicht\nkrystallisirbar, leicht löslich, sehr bitter schmeckend.  In höheren Temperaturen zersetzt sich das\nHydrastin unter Entwickelung eines Carbolgeruches.       Kochende Kalilauge äussert keine Wirkung;\nconcentrirte   Schwefelsäure   löst mit gelber Farbe, welche       beim Erwärmen        roth, durch   chlorsaures   Kali\nbraun wird; concentrirte Salpetersäure löst rotb. Lösungen der Hydrastinsalze werden durch Platin-\nchlorid gelbroth, durch Goldchlorid rothgelb, durch Jodkalium, gelbes Blutlaugensalz, Ammoniak und\nAlkalien weiss, durch chlorsaures Kali gelb, durch Jod-Jodkalium braun gefällt. Nach Perrins\nerhält man aus der getrockneten Wurzel 1!/,9/, Hydrastin.\n         Xanthopuccin, nach Abscheidung von Hydrastin aus der Mutterlauge durch Ammoniak gefällt\nund   aus Alkohol   umkrystallisirt,    bildet in heissem   Alkohol       lösliche,   in Aether und Chloroform      un-\nlösliche, orangegelbe Krystalle.       (Husemann, Pflanzenstoffe 607).",
+      "normalized_text": null,
+      "zh_tw_rendering": "含揮發油、蛋白質、澱粉、糖、樹脂、黃色素（小檗鹼）、白色生物鹼（黃連鹼）及Xanthopuccin。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 458,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 2018,
+        "page_text_sha256": "1f1d792ec247a072ce38e0e293f5ea3838b4b0fe4ba0b8145990c2be44540cf7",
+        "exact_text_sha256": "7a55113fe2140aebbcae9bc2c02bd6dc5d5c8da0909dd418972013e7cda54ce4",
+        "source_line_start": 1,
+        "source_line_end": 21,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "7a55113fe2140aebbcae9bc2c02bd6dc5d5c8da0909dd418972013e7cda54ce4",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0457-p0458:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "         Anwendung.            Die Wurzel    in Nordamerika        gegen Wechselfieber       und von jeher als ein\ntonisches, antiperiodisches und antiphlogistisches Mittel geschätzt, wird im Aufguss, als Tinktur und als\nExtrakt bei Magen-, Leber-, Nierenleiden, bei Typhus, Intermittens, Schwäche, Krebs, Pocken, überhaupt\nHautleiden jeder Art innerlich und äusserlich verwendet.       Husemann sagt auf Seite 608 seiner\nPflanzenstoffe: „Das Hydrastin soll ein tonisches Antiperiodicum sein, das wie Chinin in grossen Dosen\nleicht Ohrensausen veranlasse und den Puls herabsetze, dagegen nie Störungen im Magen und Darme,\nnur angenehmes Wärmegefühl im Epigastrum bedinge, und das man innerlich zu 0.12, aber auch bis\n0.6 in Amerika gegen typhöse Fieber mit colliquativen Schweissen und Neigung zu Diarrhoen oder\nSepsis, gegen Intermittens, Sonnenstich und chronische Dyspepsie, sowie in Salbe (1.2 auf 8.0 Fett) oder\nLösung (1:50) bei Ulcerationen der Scheide, des Mutterhalses, Hämorrhoiden, Hautkrankheiten, Aphthen,\nStomacace, Ptyalismus und Ophthalmien erfolgreich gegeben haben will.“ Husemann warnt vor\nVerwechselung mit dem gleichfalls Hydrastin genannten, rein bitteren Harze, welches abführend wirken\nsoll und als Amarum purum oder bei habitueller Obstipation alter Leute Verwendung findet.",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：北美用於間歇熱。作強心、抗週期及消炎藥。用於胃肝腎病、傷寒、癌症及皮膚病。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 458,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2020,
+        "char_end": 3319,
+        "page_text_sha256": "1f1d792ec247a072ce38e0e293f5ea3838b4b0fe4ba0b8145990c2be44540cf7",
+        "exact_text_sha256": "38b6ee92a163a44bb313068c13a50cabc134ac67948860902f4b7ec111908740",
+        "source_line_start": 23,
+        "source_line_end": 35,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "38b6ee92a163a44bb313068c13a50cabc134ac67948860902f4b7ec111908740",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "1d9bbbdbc9eb3d8b2ffaed725d4de576adcabc74e6bb4f971f32e21a670aff47",
+    "maker_receipt_sha256": "c77e10d1d252cf781221dd221d601531a2f4f2b92422828ec09118be0f355966",
+    "validation_check_sha256": "517768705ce1d07c0b6517baf2e670969eda56b30de285d44800d7e79eda7a11",
+    "source_disposition_sha256": "ff7fb75f667633f2cdbbb51c044e7c0ba47620ac79191471a14d8d3c0604f111",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "c77e10d1d252cf781221dd221d601531a2f4f2b92422828ec09118be0f355966",
+      "validation_check_sha256": "517768705ce1d07c0b6517baf2e670969eda56b30de285d44800d7e79eda7a11",
+      "source_disposition_sha256": "ff7fb75f667633f2cdbbb51c044e7c0ba47620ac79191471a14d8d3c0604f111"
+    },
+    "naming_artifact_sha256": "3b2409b059083c22fff0690faea4149e75e01ea25241b19a1ea537d71a5d2c7f"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "33aefbdd9e0309aa00bd8c2a4fbcea72deff3cc2bb4c12921b7f1b33f4407474"
+}

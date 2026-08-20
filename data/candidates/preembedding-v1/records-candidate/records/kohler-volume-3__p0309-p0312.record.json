@@ -1,0 +1,271 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-3-p0309-p0312",
+  "entry_id": "kohler-volume-3:p0309-p0312",
+  "owner_shard": "S07",
+  "book_taxon": {
+    "scientific_name": "Acocanthera abyssinica",
+    "authorship": "(Hochst.) K. Sch.",
+    "aliases": [
+      "Strychnos abyssinica Hochst.",
+      "Carissa abyssinica R. Br.",
+      "Carissa mepte Hochst.",
+      "Carissa Schimperi DO.",
+      "Acocanthera Schimperi Benth. & Hook.",
+      "Acocanthera venenata G. Don."
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Acocanthera abyssinica"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T16:49:34+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Acocanthera+abyssinica",
+        "query_name": "Acocanthera abyssinica",
+        "retrieved_at": "2026-08-13T16:49:30+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Strychnos+abyssinica",
+        "query_name": "Strychnos abyssinica",
+        "retrieved_at": "2026-08-13T16:49:30+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Carissa+abyssinica",
+        "query_name": "Carissa abyssinica",
+        "retrieved_at": "2026-08-13T16:49:30+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Carissa+mepte",
+        "query_name": "Carissa mepte",
+        "retrieved_at": "2026-08-13T16:49:30+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Carissa+schimperi",
+        "query_name": "Carissa schimperi",
+        "retrieved_at": "2026-08-13T16:49:30+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Acocanthera+schimperi",
+        "query_name": "Acocanthera schimperi",
+        "retrieved_at": "2026-08-13T16:49:30+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Acocanthera+venenata",
+        "query_name": "Acocanthera venenata",
+        "retrieved_at": "2026-08-13T16:49:30+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 309,
+      "evidence_type": "text",
+      "page_text_sha256": "55dfee0a85bb37898f55a7b924001a635cdfdf832ed893f65685bd4dee27243a",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 310,
+      "evidence_type": "text",
+      "page_text_sha256": "7cfd4bb16c3cff7d680e92f479a517519d223b99bc7f4638c631216374cea862",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 311,
+      "evidence_type": "text",
+      "page_text_sha256": "e5bd6e0bb7908632e2832f7f83d16830a35ef34a84970b029a4790cc876d3cac",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-3:p0309-p0312:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                    Acocanthera                           abyssinica (Hochst.) K. Sch.\n                          Abyss.: Mptah,             mupta,       mepte, maktah,             moyo      oder morjo.:\n\n         Syn. Strychnos abyssinica Hochst. Carissa abyssinica R. Br. Carissa mepte Hochst.                                               Carissa\nSchimperi DO. Acocanthera Schimperi Benth. & Hook. Acocanthera venenata G. Don.\n\n             Familie: Apocynaceae.               Unterfamilie: Plumieroideue.                    Tribus: Ardwineae.              Subtribus:\nMelodininae          Gattung: Acocanthera.",
+      "normalized_text": null,
+      "zh_tw_rendering": "茜草科，阿波辛族。異名包括 Strychnos abyssinica 及 Carissa abyssinica 等。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 309,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 612,
+        "page_text_sha256": "55dfee0a85bb37898f55a7b924001a635cdfdf832ed893f65685bd4dee27243a",
+        "exact_text_sha256": "b9a50a82f69bb85ad4c48117813cd6a856640f18253ba0703df4be135778b974",
+        "source_line_start": 1,
+        "source_line_end": 8,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "b9a50a82f69bb85ad4c48117813cd6a856640f18253ba0703df4be135778b974",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0309-p0312:s01:x00",
+      "section_type": "description",
+      "original_text": "             Beschreibung.            Ein Strauch         oder    kleiner Baum           mit kahlen Zweigen.               Die Blätter       sind\ngegenständig,          sehr kurz        (d—D     mm       lang) gestielt,       elliptisch     oder länglich-elliptisch,             im Mittel\nzwei- bis dreimal so lang als breit, 5—7 cm lang, 2—4 cm breit, am Grunde in den Blatt-\nstiel verschmälert,             ganzrandig          und     der Rand        zuweilen        etwas     nach     unten      umgerollt,        spitz\noder auch          mit einer kurzen,             fast stechenden Stachelspitze                   versehen,        von     Konsistenz         dick\nlederartig,        auf beiden Seiten gänzlich kahl, oberseits                            meist glänzend.            Die wohlriechenden\nBlüten      stehen in dichten,            corymbösen,         dichasialen,        achselständigen          Rispen,      welche      mehrmals\nkürzer sind als die Blätter, aus deren Achseln sie entspringen.                                         Der Kelch ist tief fünfteilig\nmit fast freien,          ziemlich      lang zugespitzten,           sich wenig dachziegelig deckenden Zipfeln,                          welche\nkaum länger als 1 mm                   sind.     Die Blumenkrone               ist weiss, präsentiertellerförmig,                   mit eylin-\ndrischer, etwa 11—13 mm langer Röhre;                               diese ist an der Insertionsstelle der Staubblätter\nein wenig        erweitert       und besitzt       an ihrem Schlunde keine Schuppen;                         die fünf Kronenzipfel sind\n\nverhältnismässig            kurz,      nämlich        nur    2 mm       lang,     länglich-eiförmig,            etwas      zugespitzt.        Die\n\nStaubgefässe sind in der Röhre nahe am Schlunde befestigt; sie besitzen sehr kurze Filamente,\nlängliche       Antheren,        welche intrors           mit Längsspalten          sich öffnen, mit spitzem Konnektiv.                      Der\n\nFruchtknoten  ist zweifäc herig   mit  je zwei  sehr   kleinen,    in  der  Mitte  befestig ten,    hängend  en,\nanatropen  Samenk nospen    in  jedem   Fache;   der    Griffel  ist   fadenför mig,   mit   fast   kugelig  em,\nkurz zweilappigem, behaartem       Narbenk opfe.     Die    Frucht    ist eine  Beere   von   kugelige   r   oder\nauch etwas ellipsoidischer   Form    und  ungefäh r   2  cm   Durchme   sser;    gewöhnl ich    ist  sie  infolge\nvon Abortus einfächerig und      einsamig  .   Der  ellipsoi dische  Same   besitzt    reichlic h Nährgew ebe.\nDie breit-eiförmigen Keim bl ät te r  sin d  et wa so  la ng  wi e da s Wü rz el ch en .",
+      "normalized_text": null,
+      "zh_tw_rendering": "灌木或小樹，葉對生，革質，全緣或具刺尖。花白色，呈盤狀，果為球形漿果，種子富含胚乳。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 309,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 614,
+        "char_end": 3276,
+        "page_text_sha256": "55dfee0a85bb37898f55a7b924001a635cdfdf832ed893f65685bd4dee27243a",
+        "exact_text_sha256": "c04fb35b5932485065b3b8e1517f5a6b59ea155b872fe811f6b9a7a2edf49560",
+        "source_line_start": 10,
+        "source_line_end": 33,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "c04fb35b5932485065b3b8e1517f5a6b59ea155b872fe811f6b9a7a2edf49560",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0309-p0312:s02:x00",
+      "section_type": "distribution",
+      "original_text": "          Vorkommen und Verbreitung.                            Der Verbre       it un gs  be zi rk     de r   Pf la nz e    er st re ck t    sic h\n                                                                        ys si ni en    an    bis   na ch    de m   nö rd  li ch en    Tei  l  vo n\n über einen grossen Teil von Ostafrika von Ab\n                                                                        zi em li ch    hä uf ig   zu   sei  n;   sie  ist   dor t    be so nd er s\n‘Deutsch-Ostafrika. In Abyssinien scheint sie\n                        wi ed  er ho lt   ge  sa mm  el t   wo rd  en     an    sc ha tt ig en    Or te n   in  ein er    Me er  es hö  he    vo n\nvon Schi     mp er\n         50 0    m.     Fe rn  er    ist  sie   vo n   Hö  hn el     au f   de r   Re is e   de s   Gr af en    Te le ki      im    en gl is ch en\n 1800 -2\n                          et e    vo n   Le ik ip ia   be ob ac ht et ,   un d    au ch    vo n    Ho ls  t  me hr fa  ch     au s  Us  am  ba ra\n Ostafrika    im    Ge bi\n                                                                                                                                    64",
+      "normalized_text": null,
+      "zh_tw_rendering": "分布於東非大部，從阿比西尼亞至北德屬東非。常見於海拔 500 米陰處，亦見於烏桑巴拉。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 309,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 3278,
+        "char_end": 4440,
+        "page_text_sha256": "55dfee0a85bb37898f55a7b924001a635cdfdf832ed893f65685bd4dee27243a",
+        "exact_text_sha256": "cec5ec449f88f6496440059717adc44288c1585723a84585f2d47b8aa621d03c",
+        "source_line_start": 35,
+        "source_line_end": 46,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "cec5ec449f88f6496440059717adc44288c1585723a84585f2d47b8aa621d03c",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0309-p0312:s03:x00",
+      "section_type": "anatomy",
+      "original_text": "           Anatomisches.              Die Anatomie mehrerer der genannten Arten hat G. Volckens unter-\nsucht     (ebenfalls      von        Lewin         mitgeteilt    in Englers         Bot. Jahrb.       XVII.   Beibl.    No. 41 p. 46).\nAnatomische Unterschiede,                      welche es gestatteten,           die einzelnen Arten nach dem Bau ihres\nHolzes     auseinander          zu halten,          ergaben     sich nicht.      Es besteht in allen Fällen in seiner Haupt-\nmasse aus Libriform,                 dem unregelmässig verteilte Gefässe mit begleitendem Holzparenchym\nund einreihige Markstrahlen beigegeben sind.                             Elemente, die etwa als spezifische Secretions-\norgane anzusehen wären, fehlen durchaus.\n           Die primäre Rinde von\na. A. venenata      enthält          in    einer     bestimmten,       mantelartig       den Holzkörper          umgebenden          Zone\n   1. grosse, ziemlich derbwandige Schläuche, die mit einem weisslichen Inhalte erfüllt sind;\n   2. zahlreiche, meist isolierte, bis zum Verschwinden des Lumens verdickte Bastzellen,\n      deren Wandung auffällig geschichtet ist und deren Querschnitt den der umgebenden Rinden-\n   parenchymzellen              um        ein Mehrfaches        übertrifft.\nI 2; abyssinica lässt in der analogen Zone 1. die differenzierten Schläuche vermissen.                                               Harz\n   findet sich auch,            aber in Elementen,               die sich, auf dem        Querschnitt         wenigstens,        in nichts\n   von den Rindenparenchymzellen unterscheiden; 2. die Bastzellen sind hier nicht grösser\n   im Umfang, als die Parenchymzellen, vielfältig ebenfalls durchaus isoliert, daneben\n                                                                                       zu\n   kleinen       Gruppen        von       zwei     bis vier vereinigt.        Schichtung       an ihnen       wenig    auffällig.",
+      "normalized_text": null,
+      "zh_tw_rendering": "木材主要由木質纖維組成。A. abyssinica 皮層無特化粘液囊，與 A. venenata 不同。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 310,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 2638,
+        "char_end": 4583,
+        "page_text_sha256": "7cfd4bb16c3cff7d680e92f479a517519d223b99bc7f4638c631216374cea862",
+        "exact_text_sha256": "143ec1bedfae8d5e6fac70fd724ddf0137383b8920beccc28805a5f8d83be648",
+        "source_line_start": 29,
+        "source_line_end": 47,
+        "section_index": 3,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "143ec1bedfae8d5e6fac70fd724ddf0137383b8920beccc28805a5f8d83be648",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0309-p0312:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "              Offizinelle Teile.           Aus dem Holz            und der Rinde\n                                                             der genannten Arten bereiten die\n Eingeborenen Pfeilgifte, die man seit etwa fünfzig Jahren kennt. A. abyssinica ist in Abyssinien\n wegen seiner giftigen Eigenschaften seit langer Zeit bekannt. A. Ouabaio wird in Somaliland\n Wabei oder Wabajo, in Oyaden Ghedulajo genannt; die Somali bereiten aus ihren Wurzeln das\n Pfeilgift.     A. venenata       soll zu dem          Pfeilgift    der Buschmänner            benutzt     werden     und     wird     von\n den Holländern als Giftboom bezeichnet.\n        Der wirksame Stoff in ihnen ist ein amorphes Glykosid, das Ouabain 0?’ H+ 01? 7M?0;\n es ist dem Strophantin            nahe      verwandt        und in dem        Holz    und    der Rinde      der Acocanthera-Arten\n etwa       zu 0,3°/, enthalten.           Mit konzentrierter Schwefelsäure. wird                       es rot, dann     braun,        mit\n verdünnter Schwefelsäure hellrot, dann chocoladenbraun, endlich grün.                                       Die Rinde sämtlicher\n Arten schmeckt bitter, und die anfangs goldgelbe Abkochung des Holzes wird bei Luftzutritt\n nach längstens 48 Stunden schön grün.\n              Zur Darstellung        des Ouabalns wird                das Holz        der Acocanthera       mit Wasser        gekocht,\n die Abkochung            mit Bleizucker          gefällt und         das Filtrat durch Schwefelwasserstoff vom Blei\n befreit.      Das   Filtrat wird      dann       im Vacuum          zu Syrupskonsistenz          verdampft,     mit Alkohol          aus-\n\n gezogen, und das Ouaeain durch Krystallisation gewonnen,                                    und durch Umkrystallisieren ge-\nreinigt.       Es bildet farblose            glänzende           rechteckige Tafeln,         welche      bei 200° schmelzen,             in\n Wasser und Weingeist löslich, in Alkohol,                           Äther und Chloroform unlöslich ist.                    Mit Säuren\n behandelt, zersetzt es sich unter Bildung von reduzierendem Zucker.\n          Das Ouabain lähmt, in das-Blut gebracht, das Herz; selbst grosse Tiere unterliegen\n seiner Wirkung           ausserordentlich             schnell.     Es entsteht zuerst Beschleunigung                  der Atmung,\n Vermehrung und schliessliche Irregularität der Herzarbeit bis zum Stillstande, Zuckuugen,\n tetanische Streekungen und schliesslich schon nach sehr kurzer Zeit der Tod. In den Ver-\n dauungswegen           dagegen      ist    es    unschädlich,        wirkt    eher im Gegenteil           verdauungsbefördernd.\n\n Die Hoffnu  ngen,    die  man   auf  das    Ouaba in  als  teilwe iser   Ersatz     der  Digital is und als lokale s\n Anästh eti kum  set zte , sch ein en  sic h  jed och bis her  nic ht   erf üll t zu  hab en.",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：原住民製箭毒。含 Ouabain 糖苷，歷史記載其可致心臟麻痹死亡，曾擬作強心藥但未成功。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 311,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 1064,
+        "char_end": 3931,
+        "page_text_sha256": "e5bd6e0bb7908632e2832f7f83d16830a35ef34a84970b029a4790cc876d3cac",
+        "exact_text_sha256": "26f7c60ff353c7d8ce31c2b112a0a4d4b4cb756c9c82c3424e0f087fc10727aa",
+        "source_line_start": 12,
+        "source_line_end": 40,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "26f7c60ff353c7d8ce31c2b112a0a4d4b4cb756c9c82c3424e0f087fc10727aa",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "c577afe3376dbadcd73533ba723f2a94c2a798d8e1511b6e001bf9129386554c",
+    "maker_receipt_sha256": "7c78548f30ce53f92b0dfea293533f988b3428aab889d5e460dd90543fee2364",
+    "validation_check_sha256": "4443c7c4ba3b00ec7b238606bb38970a22451326b2e33b70f1300d72925be2c4",
+    "source_disposition_sha256": "9612da7023c060c2f60cc29016b4771bea9b3acdc417a9410e2a9149accea409",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "7c78548f30ce53f92b0dfea293533f988b3428aab889d5e460dd90543fee2364",
+      "validation_check_sha256": "4443c7c4ba3b00ec7b238606bb38970a22451326b2e33b70f1300d72925be2c4",
+      "source_disposition_sha256": "9612da7023c060c2f60cc29016b4771bea9b3acdc417a9410e2a9149accea409"
+    },
+    "naming_artifact_sha256": "dc2b8f0f653014cfa434cbe450f985b00b442816ba8f627f3bbe4c4a3a7568f2"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "3f508f46fea0ea41d9d270cfe4bb58c2a88fe6228b237637720d7cfe4aca8ab7"
+}

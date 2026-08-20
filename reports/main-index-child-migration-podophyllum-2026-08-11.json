@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0",
+  "run_id": "main-index-child-migration-podophyllum-peltatum-2026-08-13",
+  "updated_at": "2026-08-13T07:32:00+08:00",
+  "execution_count": 7,
+  "schema_migrated_this_run": false,
+  "schema_migrated_ever": true,
+  "selected_profile": "section-aware-512-100-v1",
+  "vector_space_id": "gemini-embedding-2__768__qa-prefix-v1",
+  "main_rows_before": 56,
+  "main_rows_after": 56,
+  "approved_child_rows": 54,
+  "distinct_parent_pages": 25,
+  "approved_query_rows": 3,
+  "contract_digest": "6632dec41bc19bc746103be20ae7b038e2f7f1e719c169e8b11d8a375968bf49",
+  "source_experiment_report": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/reports/chunking-ab-podophyllum-2026-08-11.json",
+  "canonical_chunks_jsonl": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/chunks/podophyllum-peltatum-section-aware-512-100-v1.jsonl",
+  "main_database": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/index/plant-embeddings.sqlite",
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "paid_fallback_used": false
+}

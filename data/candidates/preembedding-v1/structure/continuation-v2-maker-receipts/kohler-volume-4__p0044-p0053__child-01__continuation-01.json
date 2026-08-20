@@ -1,0 +1,155 @@
+{
+  "schema_version": "2.0",
+  "package_id": "kohler-volume-4:p0044-p0053:child-01:continuation-01",
+  "parent_entry_id": "kohler-volume-4:p0044-p0053",
+  "child_entry_id": "kohler-volume-4:p0044-p0053:child-01",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation-v2:kohler-volume-4:p0044-p0053:child-01:continuation-01:v1",
+  "owner_shard": "S08",
+  "package_sha256": "84f8499ce8a69c133bd1c06d076963970ecdd7e01a53de25470df06d274bfc56",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "prompt_version": "plant-structure-line-coordinates-v2",
+  "attempt_sha256": "0ab92fb86454048817e6781f728f31968ee6349fef7778fc015856b35f46dab9",
+  "raw_response_sha256": "954ed9d625ab8c4700843bc9ecb9461c35a39b2179c60b284a467b22e150657b",
+  "elapsed_seconds": 19.628,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 44,
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+      "char_start": 0,
+      "char_end": 685,
+      "source_line_start": 1,
+      "source_line_end": 14,
+      "page_text_sha256": "c4ddab665bbb3829c5bc81d54c9a0e92ce3b77732180bb6eb53209a62e9659ad",
+      "exact_text_sha256": "388f59e0c9c28f12f8a3bfdc21ca22046d5a0f626be4f4f0ee7d2f8c671b86c0",
+      "section_index": 0,
+      "section_type": "taxonomy"
+    },
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 44,
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+      "char_start": 687,
+      "char_end": 3671,
+      "source_line_start": 16,
+      "source_line_end": 48,
+      "page_text_sha256": "c4ddab665bbb3829c5bc81d54c9a0e92ce3b77732180bb6eb53209a62e9659ad",
+      "exact_text_sha256": "ffda681a571651a57740e7af24d6bff30feee74e9adfb95bbfcf4bcf0eb07a4a",
+      "section_index": 1,
+      "section_type": "description"
+    },
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 45,
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+      "char_start": 0,
+      "char_end": 1530,
+      "source_line_start": 1,
+      "source_line_end": 32,
+      "page_text_sha256": "c34ab88a90346685a07b108ddb1c2f2503f906946e2da0fd419360914c7596ba",
+      "exact_text_sha256": "65b68dbabd739895bc8bdb79432c31a4e14be06f09a226caf5848bad78225240",
+      "section_index": 2,
+      "section_type": "distribution"
+    },
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 46,
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+      "char_start": 0,
+      "char_end": 3606,
+      "source_line_start": 1,
+      "source_line_end": 54,
+      "page_text_sha256": "aa455f64e06a6a6e659fff5f64ce15694da6db3662504cfc761772f63622c781",
+      "exact_text_sha256": "d7db6c79d9260bc9c101cc0ada579930b209294fff4ae5ab97fa7adc1194b641",
+      "section_index": 3,
+      "section_type": "constituents"
+    },
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 47,
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+      "char_start": 4401,
+      "char_end": 5497,
+      "source_line_start": 67,
+      "source_line_end": 81,
+      "page_text_sha256": "1acd721e687190f873cc989d6dcee54a9fca27bed429d10e8f5d4ba6b3cc1b96",
+      "exact_text_sha256": "f06cbdcd92f82da3132c4b55cd04e3375f3710248caf33b0a1bdbc7657030d57",
+      "section_index": 4,
+      "section_type": "literature"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-4:p0044-p0053:child-01:continuation-01",
+    "parent_entry_id": "kohler-volume-4:p0044-p0053",
+    "book_taxon": {
+      "scientific_name_candidate": "Agrostemma Githago"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 44,
+        "source_line_range": [
+          1,
+          14
+        ],
+        "exact_source_quote": "                                Agrostemma Githago L.\n                                                                                *\n\n\n\n\nKornrade, Rade.           Franz.:       Nielle des     champs, couronne des                     bles,         gasse.         Engl.: Corn-cockle,\ncorn rose, corn campion.             Ital.: Oittajone,       mazettone, campanelle, erba nocca, gettone, mazzincollo.\n\n            Syn.: Qithago segetum Link, Lychnis Githago Scop., Lychnis segetum Lam.\n\n\n            Familie:          Caryophyllaceae.       Reihe:       Centrospermae.                Unterfam.:                  Silenoideae.         Tribus:\nLychnideae.         Gattung: Agrostemma L."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 44,
+        "source_line_range": [
+          16,
+          48
+        ],
+        "exact_source_quote": "         Beschreibung: Die Kornrade ist ein einjahriges Kraut von 30 cm bis 1 m Hohe. Die\nspindelformige, etwa federkieldicke Wurzel dringt senkrecht, ohne sich zu verzweigen, in den\n                                                                                              Boden,\nist also eine Pfahlwurzel.  Der Stengel ist aufrecht, oberwarts verzweigt er sich gabelig; er ist mit\naufrecht anliegenden, weifilichen Haaren besetzt.   Die Blatter stehen gegenstandig. Sie sind lineal,\nspitz,   0,3 bis 1 cm breit.\n                          Auf beiden Seiten sind sie mit anliegenden, nach der Blattspitze zu ge-\nrichteten Haaren bedeckt.  Der Mittelnerv ist kraftig, die ihm parallelen Seitennerven sind kaum\nsichtbar. Die langgestielten Bltiten stehen in sehr armblutigen Dichasien (vergl. hierzu Tafel 37:\nSaponaria officinalis); meist ist aufier der Endbliite nur eine der beiden Seitenbliiten entwickelt,\n                                                                                                     ganz\nschwache Exemplare sind iiberhaupt nur einblutig. Der Kelch ist rohrig-glockig, oben ist er ver-\nengt und endet in funf laubartige, lange,                    lineale,       spitze Zipfel       ;   er       ist        lederig,   rauh behaart und\n10-rippig.       Er   mifit    etwa 3   bis 5   cm.     Die funf Kronblatter sind triibpurpurn                                 (Fig. 1), sehr seiten\nkommen weiBbliitige Formen vor. Sie sind ktirzer als die Kelchzipfel. Im unteren, in der Kelch-\nrohre verborgenen Teile, dem Nagel, sind sie schmal-lineal  im unteren Teile des Nagels springen\n                                                                                    ;\n\n\n\nnach innen je zwei Flugelleisten vor. Der obere Teil des Blumenblattes, die Platte, ist\n                                                                                          verkehrt-\neiformig, an der Spitze abgestutzt oder seicht ausgeschweift. Die zehn Staubblatter stehen in zwei\nKreisen,     sie    kommen       ungleichzeitig zur Anthese,            zur Ausstreuung des Pollens.                               Zuerst staubt der\naufiere Kreis, d. h. die vor          den Kelchblattern stehenden Staubblatter, dann der innere, die vor den\nBlumenblattern stehenden.             Der Fruchtknoten ist walzlich; er tragt funf, sehr seiten nur vier Griffel,\nderen Narben ringsum fein behaart sind. Die harte einfacherige Kapsel (Fig.\n                                                                            2, 3) ist langer als die\nKelchrohre und springt an der Spitze mit funf oder seiten mit nur vier Klappen auf. Sie enthalt\nzahlreiche, schwarze, nierenformige, gegen den Nabel keilig verschmalerte Samen\n                                                                                (Fig. 4). Im Samen\nbefindet sich ein starkehaltiges Nahrgewebe, das den gekrummten Keimling ringsum\n                                                                                     einschliefit."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 45,
+        "source_line_range": [
+          1,
+          32
+        ],
+        "exact_source_quote": "        Vorkommen\n        Vorkommen:   tv\n                     Die\nalien Landern, wo Getreide\n                          ofl\n                         PAanze  a\n\n                             gebaut\n                                   i«t\n                                   ist,\n                                       gemem\n                                       ^emein\n                                     wird.\n                                             ^\n                                            Jn\n                                               als\n\n                                                den Aipe\n                                                                     Unkraut unter\n                                                                                   5\n                                                                                       der Saat\n                                                                                             ^     ^auf Getreidefeldern\n                                                                                                        n\n                                                                                                                             fo\n\n                                                                                                                        uoi ln\n                                                                                                                                 ).\n\n\n\n\nWild ist die Kornrade nicht bekannt."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 46,
+        "source_line_range": [
+          1,
+          54
+        ],
+        "exact_source_quote": "        Bestandteile Die Untersuchungen iiber die Bestandteile der Kornrade reichen bis in die\n                              :\n\n\n\nMitte des vorigen Jahrhunderts zuriick. 1848 veroffentlichte Schulze Angaben iiber eine Agro-\nstemmin genannte Base, die besonders in den Samenschalen vorkommen sollte. Durch Kruskal,\nMedicus & Kober u. a. wurde jedoch gezeigt, daB diese Base ein Gemisch aus Saponin und\nCholln war.     1850 beschrieb S char ling das von ihm gewonnene Githagin als einen in \"Wasser\nund  verdiinntem  Alkohol loslichen, in wasseriger Losung  stark  schaumenden,  amorphen  giftigen Stoff.\n\nEr  hatte somit  das in Agrostemma    vorkommende   Sapotoxin  in  Handen.   Eingehende  Arbeiten   iiber\n\ndie  chemische   Natur  dieses  Sapotoxins  verdanken  wir  Brandl.     Er  stellte aus mit  Hilfe   von\n70°/oigem Alkohol   aus  entfetteten Samen   gewonnenen,   dickflussigen Extrakten  durch Fallung mit\nabsolutem  Alkohol  ein Rohsapotoxin   dar, welches er reinigte,  indem  er aus der wasserigen Losung\nmit Bleiacetat zunachst Verunreinigungen, dann mit Bleisubacetat das Sapotoxin fallte, diese Fallung\nzersetzte                               Beim Erkalten fiel das Sapotoxin aus. Ferner war aus\n             und mit heiBem Alkohol auszog.\nRohsapotoxin eine zweite saponinartige Substanz, die Agrostemmasaure      ziu erhalten.  Nach          ,\n\n\n\nHanausek sind die Saponine im Keimling, nicht im Endosperm oder in der Schale enthalten.\n            In der Wurzel der Pflanze sollen sie ebenfalls vorhanden sein.\n            Das reine Sapotoxin ist von stumpfgelber Farbe, in Wasser                             loslich,   gibt   mit Bleiacetat\nkeine,   mit Barytwasser eine gelbliche Fallung,                mit konzentrierter Schwefelsaure                eine   erst gelbe,\n\nspater purpurne, mit Salpetersaure eine gelbrote, mit Ammoniak eine gelbe Farbung. Ammoniakalische\nSilberlosung wird beim Kochen, Fehlingsche Losung jedoch nicht reduziert.           Das Sapotoxin ist\nschwach rechts drehend. Eine Formel stellte Brandl fiir das Sapotoxin nicht auf, das Molekular-\ngewicht fand er zu etwa 1810.                                                          +H\n                                                                      2 0, woraus sich das Molekular\n\ngewicht 408  berechnen wiirde.  Bei  der Hydrolyse  mit verdiinnter    Schwefelsaure  liefert  das   Sapo-\ntoxin nach Brandl  neben  mehreren  Zuckerarten ein Sapogenin,   fiir  welches  die Formel    C 35 H 54 O 10\n\nwahrscheinlich       ist.    Es bildet feine, weiBe Nadelchen von saurem Charakter.\n        Die Agrostemmasaure unterscheidet sich vom Sapotoxin dadurch, daB sie mit Bleiacetat\neine weifiliche Fallung gibt. Ihr Molekulargewicht fand Brandl im Mittel zu 2585. Eeagentien\ngegeniiber verhalt sie            sich   dem Sapotoxin    ahnlich.     Sie       besitzt   ebenfalls   glykosidischen Charakter\n\nund lieB sich in ein saures Sapogenin und ein Zuckergemisch spalten, welches Glukose, Galaktose\nund wahrscheinlich auch Arabinose enthielt. Mit Hilfe der Kalischmelze gelang der weitere Abbau\nder Saure sowie des Sapogenins zu einer in Nadeln kristallisierenden Saure der Formel C 30 H 46 O 4                              ,\n\n\n\ndie auch im Kot der mit Sapotoxin gefiitterten Hunde nachgewiesen werden konnte.\n         Ferner wurden in den Radensamen gefunden fettes Ol, Lecithin, zwei Farbstoffe, welche\nmit den Farbstoffen des Mutterkorns grofie Ahnlichkeit haben, 16,13% Protein, 57,00% sticks toff-\nfreies Extrakt, 6,33% Eohfaser und 2,4 bis 3,3% Asche, welche relativ viel Kalk und Phosphor-\n\nsaure enthalt."
+      },
+      {
+        "section_type": "literature",
+        "pdf_page": 47,
+        "source_line_range": [
+          67,
+          81
+        ],
+        "exact_source_quote": "               Literatur.        Beschreibungen und Abbildungen:                      Thome, Flora II, 64, Tafel 206.                      He gi,\nFlora        III,   274, Tafel 98, Fig. 3.\n\n\n               Bestandteile und Wirkung:                 Schulze, Archiv d. Pharm. 1848, 163.                         — Scharling,         Annal.\n\nd. Chemie 74, 351.             —\n                     Kruskal, Dissert. Dorpat, 1890.   Medicus & Kober                —\nd. Nahrungs- u. GenuBm. 1902, 5, 1077.                             —\n                                           Brandl, Arch. f. exper. Patholog. u. Pharmakol. 54.\n245; 59, 245; 59, 299.               —\n                        Hanausek, Chemikerztg. 16, 1643.                                           — Robert, Landw.               Vers. Stat. 71,\n257 Rostock.    Kling, Landw. Vers. Stat. 78, 189 Speyer.                                       —H        Landw. Jahrbiicher 32.\n899.                Hagemann, Landw. Jahrbiicher 32,                          929.         Mo Her, Real -Ency clop. d. ges. Pharm.\n2.   Aufl.     I.   Bd. 335."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "f87979070690194438fa87e2c2b157887a4a71cb39e7e299734e7cc6b329f662"
+}

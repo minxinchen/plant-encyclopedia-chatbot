@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 439,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "6c351d50a95114ee69b9ffbd46257995ba90befc1979a0ae0ee4e1a3275aeb50",
+  "render_dpi": 144,
+  "render_sha256": "437e952167f4a2f82dba41a4780a438d19e52edf4ffea53fa8cddfc3b4a353ae",
+  "input_sha256": "437e952167f4a2f82dba41a4780a438d19e52edf4ffea53fa8cddfc3b4a353ae",
+  "render_pixel_width": 5150,
+  "render_pixel_height": 8258,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.422,
+  "embedded_character_count": 82,
+  "ocr_character_count": 54,
+  "ocr_alpha_ratio": 0.8519,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.021922132325550847,
+      "text": "Compositae",
+      "width": 0.10703949556820724,
+      "x": 0.8185732754324296,
+      "y": 0.9606959103997683
+    },
+    {
+      "confidence": 1,
+      "height": 0.017836027675204758,
+      "text": "(Anthemideae)",
+      "width": 0.13733699780389885,
+      "x": 0.8022617353147535,
+      "y": 0.9402098929258832
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174419198717422,
+      "text": "co",
+      "width": 0.013953489415785891,
+      "x": 0.8860465109897814,
+      "y": 0.3473837207603796
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "B",
+      "width": 0.018604651543597528,
+      "x": 0.4418604648328524,
+      "y": 0.2601744187869376
+    },
+    {
+      "confidence": 1,
+      "height": 0.020441121525234585,
+      "text": "Chrysanthemum inodorum L",
+      "width": 0.2511627973547421,
+      "x": 0.36976743713658244,
+      "y": 0.06686046541986868
+    }
+  ],
+  "text": "Compositae\n(Anthemideae)\nco\nB\nChrysanthemum inodorum L",
+  "output_sha256": "ca224c4ace8c5da0ef9fa38002549d57e2870906347ac58ac5866469d1d8b345",
+  "receipt_sha256": "c6945d16a9916c68dd1a730eabeaeef6d24866890803b3f06cf839a411251a62"
+}

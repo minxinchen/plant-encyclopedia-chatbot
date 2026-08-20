@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 355,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "4c7b7ed6ca3c59f9163effc66cc0f06d8fa150285abb3075dc3fa2fc80765774",
+  "render_dpi": 144,
+  "render_sha256": "8de1757331717229b7b80788f768fd356320038548567ebb977b1cfa2fa1fee6",
+  "input_sha256": "8de1757331717229b7b80788f768fd356320038548567ebb977b1cfa2fa1fee6",
+  "render_pixel_width": 5714,
+  "render_pixel_height": 8090,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.83,
+  "embedded_character_count": 108,
+  "ocr_character_count": 52,
+  "ocr_alpha_ratio": 0.7115,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.018487262347387956,
+      "text": "Malvaceae.",
+      "width": 0.10003481018409299,
+      "x": 0.820429699973606,
+      "y": 0.9314664895543077
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "12",
+      "width": 0.018518517526348033,
+      "x": 0.8518518525331222,
+      "y": 0.6351744188533452
+    },
+    {
+      "confidence": 1,
+      "height": 0.017609126984126977,
+      "text": "W.Müller n.d.Nat",
+      "width": 0.09876542680718925,
+      "x": 0.8251028842507263,
+      "y": 0.16269841305205301
+    },
+    {
+      "confidence": 1,
+      "height": 0.017447627726055348,
+      "text": "Malva silvestris l",
+      "width": 0.18930040852407393,
+      "x": 0.3847736628675926,
+      "y": 0.13516865069897388
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "59",
+      "width": 0.0164609049143416,
+      "x": 0.9053497945739873,
+      "y": 0.04069767454690443
+    }
+  ],
+  "text": "Malvaceae.\n12\nW.Müller n.d.Nat\nMalva silvestris l\n59",
+  "output_sha256": "909ffc3a011ad97df9eb0200998b7b725b6bfddcc2959793ef211cd6fc0d39f3",
+  "receipt_sha256": "b8e230c7fe2a9436b26a2489fb748fbc4f9065072f07ba9e20daa8d3294ad023"
+}

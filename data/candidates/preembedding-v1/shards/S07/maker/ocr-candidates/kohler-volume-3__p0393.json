@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 393,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "0b75d4936d728ea44b201cdc3ba6ffe108878dc8478e7cff9062a0ee8b6a33a9",
+  "render_dpi": 144,
+  "render_sha256": "0bcf3c04b2bfe47dd3a85c2ca736b598f84a5e8c18b97e9d310884c3540b1f14",
+  "input_sha256": "0bcf3c04b2bfe47dd3a85c2ca736b598f84a5e8c18b97e9d310884c3540b1f14",
+  "render_pixel_width": 5162,
+  "render_pixel_height": 8102,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.035,
+  "embedded_character_count": 102,
+  "ocr_character_count": 50,
+  "ocr_alpha_ratio": 0.74,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.022286293998597162,
+      "text": "Compositae",
+      "width": 0.10730219147084752,
+      "x": 0.8472600650187326,
+      "y": 0.9532463881068729
+    },
+    {
+      "confidence": 1,
+      "height": 0.01840747159624856,
+      "text": "(Anthemideae)",
+      "width": 0.13242457052149204,
+      "x": 0.8335599256770234,
+      "y": 0.9326567295261627
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "13",
+      "width": 0.02050113900626216,
+      "x": 0.6150341687428826,
+      "y": 0.15697674443474052
+    },
+    {
+      "confidence": 1,
+      "height": 0.01889534791310632,
+      "text": "12",
+      "width": 0.03189066133610474,
+      "x": 0.8177676536523727,
+      "y": 0.1453488377561406
+    },
+    {
+      "confidence": 1,
+      "height": 0.02037767569224036,
+      "text": "Anthemis nobilis I.",
+      "width": 0.2050113900626216,
+      "x": 0.384965832628956,
+      "y": 0.05084325418827851
+    }
+  ],
+  "text": "Compositae\n(Anthemideae)\n13\n12\nAnthemis nobilis I.",
+  "output_sha256": "8320adffe47a62cc8e4d1f45776ecb685263a990616b90424aa722494b0a7f1d",
+  "receipt_sha256": "e10dc424de4aa635d5efb8de0acb772398b5d7b805a9b8d28cf667568a415027"
+}

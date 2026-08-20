@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-4:p0038-p0043",
+  "owner_shard": "S08",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 256.38,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-4:p0038-p0043",
+    "book_taxon": {
+      "scientific_name_candidate": "Betula verrucosa Ehrh.",
+      "authorship_candidate": "Ehrh.",
+      "aliases_candidates": [
+        "B. pendula Roth",
+        "B. alba L. ex parte",
+        "B. lobulata Kanitz",
+        "B. rhombifolia Tausch",
+        "B. maior Gilib."
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 38,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Betula verrucosa Ehrh.，同義名包括 B. pendula Roth 及 B. alba L. 部分。",
+        "warnings": [],
+        "source_line_range": [
+          12,
+          15
+        ],
+        "exact_source_quote": "                    Syn.: B. pendula Roth.                    B. alba L.       ex parte.         B. lobulata Kanitz.           B. rhombifolia Tausch.\n        B. maior Gilib.\n\n                    Familie: Betalaceae.                  (lleihe: Fagales)                 Tribus: Betuleae.         G-attung: Betula L."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 38,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "高樹或灌木，幼枝下垂，密生樹脂腺體。葉菱狀，邊緣雙重鋸齒，長 4-7 公分。",
+        "warnings": [],
+        "source_line_range": [
+          21,
+          33
+        ],
+        "exact_source_quote": "                    Beschreibung':               Die Hangebirke ist\n                                                                  Meter hoher Baum, kommt aber auch\n                                                                                   ein bis 30\n        strauchartig vor.  Die Rinde der jiingeren Aste ist schneeweiB, sie schalt sich im Alter in meist\n1       horizontalen Streifen ab, der Stamm ist dann von einer sehr harten schwarzen Borke umgeben, die\n        bis in die Krone heraufreicht.  Die jungen Zweige sind meistens herabhangend. Sie sind ziemlich\n        dicht mit warzig vortretenden Harzdriisen bedeckt, die mit dem Altern der Zweige abfallen, sonst\n        kahl; nur die Wasserschosse sind manchmal knrz zottig behaart.   Die Blatter stehen spiralig. Sie\n        sind rautenformig, der Blattgrund                      ist   breitkeilformig, die Spitze meist ziemlich lang ausgezogen.                              Am\n    8   Rande sind sie doppelt scharf gesagt.                              mehr oder weniger klebrig, doch verkahlen sie bald.\n                                                                       Sie sind\n        Die Oberseite        ist    freudig griin,        die Unterseite heller. Sie werden 4                  —\n                                                                                               7 cm lang und 2,5—4 cm breit,"
+      },
+      {
+        "section_type": "flowering",
+        "pdf_page": 39,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "花期四月，嚴寒處延至五月；果實於七月成熟。",
+        "warnings": [],
+        "source_line_range": [
+          51,
+          54
+        ],
+        "exact_source_quote": "                                                       Die Birke     bltiht   im April, an rauheren Standorten wohl\n             Bliitezeit unci Fruchtreife :                                                                                                      auch\n\nerst   im Mai.           Sie reift ihre Friichte im Juli."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 39,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分佈於歐洲山區、亞洲溫帶至日本及蒙古。喜乾燥地、荒原及針闊葉林。",
+        "warnings": [],
+        "source_line_range": [
+          57,
+          65
+        ],
+        "exact_source_quote": "                   kommen                                                                                                                        siid\n\n\nlichen   Europa          allerdings nur in den Gebirgen.             Ferner ist   sic   bekannt    aus^       dem jemaBigten Asi\nostlich bis       nach Japan,         siidlich in   der Mongolei                                                                           Sie    be-\n\n\nvorzugt trockene Stellen, Heideland, Diinen, steihige                     Abhange und findet sich sowohl in Laub- wie\nin    Nadelwald."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 39,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史用途：五月節裝飾，驅邪避雷，防蟲。民間用於美容及治療，Hildegarde 曾記載。",
+        "warnings": [
+          "Historical medical content described as historical, not advice."
+        ],
+        "source_line_range": [
+          79,
+          94
+        ],
+        "exact_source_quote": "poln. brzoza,            slowak. brez.     — Die Birke spielt im Volksleben eine wichtige Eolle.                                 Als        Maien\n\nschmiicken zu Pfingsten ihre jungen Zweige die Stuben und Hauser,                               in katholischen Gegenden er-\n                                                                     Der geweihte Zweig wird\n                                                                          Wertschatzung.                                                            i\n\n\n\n\nden Stallen aufgesteckt und soil das Vieh vor Krankheit bewahren und vom Gebaude den Blitzschlag\nablenken.  In Garten und auf Ackern bewahren diese Zweige vor schadlichen Insekten und vor\nMifiwachs.                                                                                  Heilmittel\ngebraucht,         die    Dorfmadchen waschen          sich damit das Gesicht urn         schonen Teint zu bekommen und\ndie    Haare,       damit diese iippig und lang werden. Von dem Worte Birke und den entsprechenden\nWorten in          anderen Landern leiten viele Orte, Gehofte und Gemeindedistrikte ihren Namen ab. Als\nHeilmittel erwahnt            sie    die kl. Hilde^ard unter        dmn Namon „Birka\"."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 40,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "藥用成分：白樺焦油（Birkenteer）或白樺油，收錄於奧地利、荷蘭、瑞士及日本藥典。",
+        "warnings": [],
+        "source_line_range": [
+          71,
+          75
+        ],
+        "exact_source_quote": "        Pharmazeutisch wichtig ist vor allem der Birkenteer oder das Birkenol (auch Teerol, Lit-\ntauer Balsam, Daggot, Doggert, Degut, schwarzer Degen, huille russe, olio di betula, Dziegiec ge-\nnannt)                                                                  Rusci\ncoviticum)          ,    das in die        Pharmaropoen von Osterreich, Holland,                       der       Schiveiz,   Japan und\n                                                                                                                              33"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "300ecea84e2cea02e6f4307c954f07ead8d200043dc25998f949b7b2158ab0c2"
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0",
+  "run_id": "main-index-child-migration-piper-nigrum-2026-08-13",
+  "updated_at": "2026-08-13T07:32:01+08:00",
+  "execution_count": 3,
+  "schema_migrated_this_run": false,
+  "schema_migrated_ever": false,
+  "selected_profile": "section-aware-512-100-v1",
+  "vector_space_id": "gemini-embedding-2__768__qa-prefix-v1",
+  "main_rows_before": 56,
+  "main_rows_after": 56,
+  "approved_child_rows": 54,
+  "distinct_parent_pages": 25,
+  "approved_query_rows": 6,
+  "contract_digest": "274f4f81f59ebc79f72c7aee8546e0babb3b6e48a17bed00eb215476e7c51068",
+  "source_experiment_report": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/reports/production2-piper-nigrum-profile-check-2026-08-12.json",
+  "canonical_chunks_jsonl": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/chunks/piper-nigrum-section-aware-512-100-v1.jsonl",
+  "main_database": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/index/plant-embeddings.sqlite",
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "paid_fallback_used": false
+}

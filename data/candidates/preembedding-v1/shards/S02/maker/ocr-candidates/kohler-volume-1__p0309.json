@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 309,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "1954c168c1ecc0bdc8b2adafd77b496d2edefefaaa78bae139079e7db40c37fa",
+  "render_dpi": 144,
+  "render_sha256": "e05b18c30ae9108aaa4cb00881ad30cf6f3840bdad5bf97325ad376349f09ac4",
+  "input_sha256": "e05b18c30ae9108aaa4cb00881ad30cf6f3840bdad5bf97325ad376349f09ac4",
+  "render_pixel_width": 5738,
+  "render_pixel_height": 7814,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.112,
+  "embedded_character_count": 220,
+  "ocr_character_count": 61,
+  "ocr_alpha_ratio": 0.7049,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.022613215068030046,
+      "text": "Papaveraceae.",
+      "width": 0.132654667866544,
+      "x": 0.8081785940095716,
+      "y": 0.9312806014901882
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "7",
+      "width": 0.011857706980476723,
+      "x": 0.8893280634069949,
+      "y": 0.8619186050462063
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494425,
+      "text": "A",
+      "width": 0.009881422698376996,
+      "x": 0.45652173916958627,
+      "y": 0.21075581434853186
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494425,
+      "text": "5",
+      "width": 0.011857706980476668,
+      "x": 0.09288537556114508,
+      "y": 0.15988372111936522
+    },
+    {
+      "confidence": 1,
+      "height": 0.01172019186474027,
+      "text": "WMüller n.d. Nat",
+      "width": 0.06916996082045757,
+      "x": 0.849802372060127,
+      "y": 0.13808139547298415
+    },
+    {
+      "confidence": 1,
+      "height": 0.023038971991766077,
+      "text": "Papaver",
+      "width": 0.07966933678646976,
+      "x": 0.38506651663303,
+      "y": 0.10548632818737425
+    },
+    {
+      "confidence": 1,
+      "height": 0.022079336264776872,
+      "text": "somniferum b.",
+      "width": 0.16047077063045972,
+      "x": 0.4622547352611624,
+      "y": 0.10669289038587393
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "37",
+      "width": 0.01778656047071503,
+      "x": 0.9150197631440891,
+      "y": 0.029069767572467264
+    }
+  ],
+  "text": "Papaveraceae.\n7\nA\n5\nWMüller n.d. Nat\nPapaver\nsomniferum b.\n37",
+  "output_sha256": "2105ad17c72de13a3cf26ba6f9df2c88e52d3ccece192ebea6ed977ba550e254",
+  "receipt_sha256": "63ddcee298cabeb74bb2ae91e882dbbde38cc6990cb997b48a300f3f30fae553"
+}

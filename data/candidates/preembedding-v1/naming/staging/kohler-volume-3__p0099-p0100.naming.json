@@ -1,0 +1,136 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-3:p0099-p0100",
+  "owner_shard": "S06",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S06/maker/structure-drafts/kohler-volume-3__p0099-p0100.json",
+  "source_draft_sha256": "fda756ad86a259e9d06a52ae04ebbd1564004cc1d4d6bed89a28f9310513cdcb",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "da1fd68ef6019e038a0e3a57abb357c2dd62f688ad2dc3242fb20ef8b58ad1c9",
+    "validation_check_sha256": "736ec1c2c8a10a46eca82da6e0a001c334c7bd74ecbf86a4016837fd4e770056",
+    "source_disposition_sha256": "3d3d123ad777e5395eab85c0873183480471b93ec800504c50c629a73f4cd70e",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Urceola elastica",
+    "authorship_candidate": "Roxburgh",
+    "aliases_candidates": [
+      "Ohavannetia elastica DO",
+      "Tabernaemontana elastica Sprengel",
+      "Djentawan",
+      "Malayische Krugblume",
+      "Borneo-Kautschukliane"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Urceola elastica"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_zh_tw": null,
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_checked",
+    "taxon_id": null,
+    "rationale": "TaiCOL and Tai2 returned no exact Taiwan species record or public Chinese name. Kew POWO independently confirms Urceola elastica Roxb. as an accepted species, but no Taiwan government or academic source was found pairing this species with a Traditional Chinese public name. Taiwan public names 乳藤 and 酸藤 apply to other Urceola species and are not transferred. The result remains unresolved rather than inventing or borrowing a Chinese name.",
+    "checked_at": "2026-08-13T13:51:11+08:00",
+    "display_name_source_scope": "unresolved",
+    "display_name_source_evidence_ids": [],
+    "display_name_is_taiwan_public": false,
+    "display_name_answer_policy": "scientific_name_only"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Urceola elastica",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Urceola+elastica",
+      "retrieved_at": "2026-08-13T13:49:29+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Ohavannetia elastica",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Ohavannetia+elastica",
+      "retrieved_at": "2026-08-13T13:49:30+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Tabernaemontana elastica",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Tabernaemontana+elastica",
+      "retrieved_at": "2026-08-13T13:49:30+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Malayische krugblume",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Malayische+krugblume",
+      "retrieved_at": "2026-08-13T13:49:30+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Urceola elastica",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Urceola%20elastica",
+      "retrieved_at": "2026-08-13T13:49:32+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "kew_powo",
+      "authority": "Royal Botanic Gardens, Kew — Plants of the World Online",
+      "query_name": "Urceola elastica",
+      "record_url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:82586-1",
+      "retrieved_at": "2026-08-13T13:51:11+08:00",
+      "evidence_excerpt": "Urceola elastica Roxb. — This species is accepted",
+      "assertion_scope": "external_scientific_name_metadata_only",
+      "evidence_source_scope": "non_taiwan_scientific_authority"
+    },
+    {
+      "source_id": "tai2_related_taxon",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Urceola micrantha",
+      "record_url": "https://tai2.ntu.edu.tw/species/514%20009%20002%200",
+      "retrieved_at": "2026-08-13T13:51:11+08:00",
+      "evidence_excerpt": "乳藤 is the Taiwan public name for Urceola micrantha, a different species",
+      "assertion_scope": "external_name_disambiguation_only",
+      "evidence_source_scope": "taiwan_academic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Preserve Urceola elastica when needed; do not borrow 乳藤 or 酸藤 from other Urceola species.",
+    "The external taxonomy evidence is metadata only and does not supply Köhler plant facts."
+  ]
+}

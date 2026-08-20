@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "record_slug": "atropa-belladonna",
+  "record_id": "kohler-v1-atropa-belladonna",
+  "source_id": "kohler-volume-1",
+  "pdf_pages": [35, 36],
+  "book_taxon": {
+    "scientific_name": "Atropa Belladonna",
+    "authorship": "L.",
+    "aliases": ["Belladonna trichotoma", "Belladonna baccifera"],
+    "book_common_names": ["Tollkirsche", "Dwale", "Deadly Nightshade", "Belladonna", "Belladone"]
+  },
+  "display_name": "顛茄",
+  "name_resolution": {
+    "status": "taiwan_public_name",
+    "query_name": "Atropa belladonna",
+    "accepted_scientific_name": "Atropa belladonna L.",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-12T14:30:00+08:00",
+    "sources": [
+      {
+        "authority": "衛生福利部《中醫藥年報》",
+        "url": "https://www.mohw.gov.tw/dl-28101-5c4de27b-4f51-4e9b-a7c1-8c77d92250b3.html",
+        "source_id": null,
+        "result": "臺灣衛福部公開資料將 Atropa belladonna L. and its preparations 對應為「顛茄」；本來源不用來推論臺灣分布。"
+      }
+    ]
+  },
+  "book_evidence": [
+    {"source_id": "kohler-volume-1", "pdf_page": 35, "printed_page": "10", "evidence_type": "text", "ocr_quality": "usable"},
+    {"source_id": "kohler-volume-1", "pdf_page": 36, "printed_page": null, "evidence_type": "text", "ocr_quality": "usable"},
+    {"source_id": "kohler-volume-1", "pdf_page": 36, "printed_page": null, "evidence_type": "caption", "ocr_quality": "usable"}
+  ],
+  "sections": [
+    {
+      "section_type": "taxonomy",
+      "pdf_page": 35,
+      "start_marker": "Atropa Belladonna L.",
+      "end_marker": "Beschreibung.",
+      "normalized_text": "Atropa Belladonna L. Familie: Solaneae. Gattung: Atropa L.",
+      "zh_tw_rendering": "本書以 Atropa Belladonna L. 收錄，列於 Solaneae 科、Atropa 屬；臺灣官方公開名稱採「顛茄」。",
+      "evidence_indexes": [0]
+    },
+    {
+      "section_type": "description",
+      "pdf_page": 35,
+      "start_marker": "Beschreibung.",
+      "end_marker": "Anatomisches",
+      "normalized_text": "Mehrjährige krautige Pflanze bis 2 m Höhe; gestielte Blätter bis 20 cm lang und 10 cm breit; einzeln stehende nickende Blüten und glänzend schwarze, fast kugelige Beeren.",
+      "zh_tw_rendering": "本書描述顛茄為多年生草本，高可達 2 公尺；葉有柄，最長約 20 公分、寬約 10 公分，花單生且下垂，果實近球形、有光澤且黑色。",
+      "evidence_indexes": [0]
+    },
+    {
+      "section_type": "anatomy",
+      "pdf_page": 35,
+      "start_marker": "Anatomisches",
+      "end_marker": "Verbreitung.",
+      "normalized_text": "Wurzel mit Kork, Rindenparenchym und Weichbast; Blatt mit wellenrandiger Epidermis, Drüsenhaaren und calciumoxalatreichen Zellen.",
+      "zh_tw_rendering": "本書的解剖段落描述根的木栓層、皮層薄壁組織與韌皮部；葉具邊緣波狀的表皮、腺毛，並有富含草酸鈣的細胞。",
+      "evidence_indexes": [0]
+    },
+    {
+      "section_type": "distribution",
+      "pdf_page": 35,
+      "start_marker": "Verbreitung.",
+      "end_marker": "Name und Geschichtliches.",
+      "normalized_text": "Zerstreut in schattigen Bergwäldern Mittel- und Südeuropas sowie West- und Mittelasiens; in Deutschland bis 1300 m.",
+      "zh_tw_rendering": "本書記載其零星分布於中歐與南歐的陰涼山地森林，以及西亞和中亞；在德國可至海拔約 1300 公尺。這不是臺灣 occurrence 資料。",
+      "evidence_indexes": [0]
+    },
+    {
+      "section_type": "constituents",
+      "pdf_page": 36,
+      "start_marker": "Bestandtheile.",
+      "end_marker": "Anwendung.",
+      "normalized_text": "Wurzel, Blätter und Samen enthalten Atropin; außerdem nennt der Text Belladonnin, Hyoscyamin, Asparagin und Atrosin.",
+      "zh_tw_rendering": "本書記載根、葉與種子含有 Atropin（顛茄鹼），並另提到 Belladonnin、Hyoscyamin、Asparagin 與 Atrosin。這是歷史書中成分記載，不構成使用建議。",
+      "evidence_indexes": [1]
+    },
+    {
+      "section_type": "historical_use",
+      "pdf_page": 36,
+      "start_marker": "Anwendung.",
+      "end_marker": "Iiitteratur.",
+      "normalized_text": null,
+      "zh_tw_rendering": "本書列舉了顛茄製劑與 Atropin 的歷史用途。此段只作歷史文獻記錄；顛茄具高度風險，禁止轉成現代治療、劑量或自行使用建議。",
+      "evidence_indexes": [1]
+    },
+    {
+      "section_type": "plate_description",
+      "pdf_page": 36,
+      "start_marker": "Tafelbesehreibung",
+      "end_marker": null,
+      "normalized_text": null,
+      "zh_tw_rendering": "圖版文字說明列出開花與結果枝、花冠、子房、雄蕊、花粉、成熟果實與種子等結構；本批只核准說明文字，不宣稱已完成圖像推理。",
+      "evidence_indexes": [2]
+    }
+  ],
+  "review_status": "sample_reviewed",
+  "warnings": [
+    "衛福部來源只用來決定臺灣顯示名「顛茄」，本批未以臺灣物種名錄確認 occurrence。",
+    "書中用途與製劑只屬歷史文獻；聊天系統不得提供現代醫療、劑量或自行使用建議。",
+    "PDF 35-36 經頁面影像複核為單欄連續條目；PDF 37 已開始 Hyoscyamus niger，未併入本記錄。",
+    "圖版說明文字已核准，但植物圖像本身尚未進行 multimodal grounding。"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 511,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "8a9380d955cbe940e1c421e8925888eb7541fc8818b6bba69854254cc4b88aa8",
+  "render_dpi": 144,
+  "render_sha256": "d5cf756c3d0893932eaef76b6dbd88c041274b6bdbe6e6819387ea7f5cd7f33d",
+  "input_sha256": "d5cf756c3d0893932eaef76b6dbd88c041274b6bdbe6e6819387ea7f5cd7f33d",
+  "render_pixel_width": 5774,
+  "render_pixel_height": 8390,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.522,
+  "embedded_character_count": 90,
+  "ocr_character_count": 56,
+  "ocr_alpha_ratio": 0.7857,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01889534791310632,
+      "text": "Ranunculaceae",
+      "width": 0.13291138530808155,
+      "x": 0.7594936727731745,
+      "y": 0.9680232562578364
+    },
+    {
+      "confidence": 1,
+      "height": 0.020627154244316936,
+      "text": "(Helleboreae)",
+      "width": 0.10770542683450224,
+      "x": 0.7720966526786928,
+      "y": 0.9475352602880646
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "5",
+      "width": 0.016877637472894766,
+      "x": 0.042194092550472455,
+      "y": 0.4970930233208207
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "10",
+      "width": 0.01898734095460744,
+      "x": 0.07594936733915199,
+      "y": 0.10901162790030972
+    },
+    {
+      "confidence": 1,
+      "height": 0.01909722222222221,
+      "text": "Aconitum ferox Wallich.",
+      "width": 0.2067510511414805,
+      "x": 0.37552743008326805,
+      "y": 0.017361110810544367
+    }
+  ],
+  "text": "Ranunculaceae\n(Helleboreae)\n5\n10\nAconitum ferox Wallich.",
+  "output_sha256": "4ae552ac4af7be61a750067fb4d3a58a534181c48ec04111d912048bfce7a7c1",
+  "receipt_sha256": "b60c5ac39916c43eaa0e40bf645aeb6ee60f7ed6dee5ffcf4d68e7db19671929"
+}

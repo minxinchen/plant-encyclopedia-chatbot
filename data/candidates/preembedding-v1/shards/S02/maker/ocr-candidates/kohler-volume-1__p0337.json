@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 337,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "df216af0dda9d9cab853860ac31f3c43964ad012b62dd36738053e7f16121fb8",
+  "render_dpi": 144,
+  "render_sha256": "448b63bc164519154f16e55f64512f2e09ca0f19062985b3e3c37b4d248376bd",
+  "input_sha256": "448b63bc164519154f16e55f64512f2e09ca0f19062985b3e3c37b4d248376bd",
+  "render_pixel_width": 5810,
+  "render_pixel_height": 8066,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.146,
+  "embedded_character_count": 66,
+  "ocr_character_count": 51,
+  "ocr_alpha_ratio": 0.5098,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.02076702836960076,
+      "text": "Ampelideae.",
+      "width": 0.11304739749792847,
+      "x": 0.8104117840347594,
+      "y": 0.9271164860227205
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "10",
+      "width": 0.014112903395303356,
+      "x": 0.32258064499253647,
+      "y": 0.29360465142359715
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "9",
+      "width": 0.010080644907044967,
+      "x": 0.1854838710192598,
+      "y": 0.26453488402413006
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "11",
+      "width": 0.014112903395303356,
+      "x": 0.13306451612828918,
+      "y": 0.2020348839342878
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "13",
+      "width": 0.020161289814089933,
+      "x": 0.5685483875190303,
+      "y": 0.18750000013868173
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883082859107,
+      "text": "12",
+      "width": 0.022177417744618177,
+      "x": 0.26411290380914254,
+      "y": 0.1715116281678727
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "14-",
+      "width": 0.020161289814089933,
+      "x": 0.4536290322602938,
+      "y": 0.16569767437560035
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185932098874,
+      "text": "WM.",
+      "width": 0.02620967623287651,
+      "x": 0.8931451617827554,
+      "y": 0.158430233254788
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019100564812856935,
+      "text": "Vitis vinifera I.",
+      "width": 0.16133651523222275,
+      "x": 0.39715432101287956,
+      "y": 0.12489739246962595
+    }
+  ],
+  "text": "Ampelideae.\n10\n9\n11\n13\n12\n14-\nWM.\nVitis vinifera I.",
+  "output_sha256": "66bf775d8599cd90c72e2cf0064d1414acc449396d583acb7d91e62e1ac2345d",
+  "receipt_sha256": "76810f67d896900369990038c61f0e9c5b07ae9dfca2d9b1b6b69246a649beef"
+}

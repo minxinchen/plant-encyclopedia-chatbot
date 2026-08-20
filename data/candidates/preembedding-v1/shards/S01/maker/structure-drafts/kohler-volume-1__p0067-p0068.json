@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0067-p0068",
+  "owner_shard": "S01",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 141.628,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0067-p0068",
+    "book_taxon": {
+      "scientific_name_candidate": "Colchicum autumnale L.",
+      "authorship_candidate": null,
+      "aliases_candidates": [
+        "Herbstzeitlose",
+        "Wiesensafran",
+        "Meadow Saffron",
+        "Wild Saffron",
+        "Colchique",
+        "Colchicum vernum Schrk.",
+        "C. vernale Hoffm.",
+        "C. praecox Spenn.",
+        "Colchicum pannonicum Grieseb. et Schenk"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "description",
+        "pdf_page": 67,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "多年生植物，具地下球莖。球莖二年生，卵心形，覆以乾膜質鱗片。",
+        "warnings": [],
+        "source_line_range": [
+          5,
+          11
+        ],
+        "exact_source_quote": "         Beschreibung. Perennirende Pflanze mit tief in                der Erde befindlichem, zwiebelknolligem\nWurzelstocke.      Zwiebel zweijahrig, dicht, ei-herzformig,         mit einer oder mehreren, trockenhautigen,\nkastanienbraunen nach oben in eine zerfetzte Sclieide auslaufenden Schalen bedeckt, auf dem Rticken\n                      ,\n\n\n"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 67,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "種皮橫切面顯細胞層，內含澱粉粒；球莖由薄壁組織及維管束組成。",
+        "warnings": [],
+        "source_line_range": [
+          64,
+          69
+        ],
+        "exact_source_quote": "          Anatomisches : Die Samenschale zeigt auf dem Quersclmitte 1 2 Schichten weite Zellen und nach innen\nzu mehrere Schichten kleinere, diinnwandige, tangential gestreckte, flache Zellen, deren innerste Lage mit dem horn-\nartigen, graulichen, strahlichen, aus weitgetupfelten Parenchymzellen bestehenden Endosperm verwachsen ist. Die\nZellen des letzteren besitzen ein korniges Plasma und enthalten grosse Oeltropfen.    Die Zellen der Samenschale ent-\nhalten, mit Ausnahme der inneren kleinen, Starkemehlkorner.   Die Knolle besteht aus einem diinnwandigen, von vielen\nzarten Fibrovasalstrangen clurchzogenen Parenchym."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 67,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分佈於西、中、南歐濕潤草地及北非，瓦利斯阿爾卑斯山海拔2200米處亦有。",
+        "warnings": [],
+        "source_line_range": [
+          70,
+          71
+        ],
+        "exact_source_quote": "         Verbreitung.         Auf feuchten Wiesen durch das ganze westliche, mittlere und siidliche Europa,\nauch im nordlichen Afrika.        In den Walliser Alpen' noch in 2200          m Meereserhebung vorkommend."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 67,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "德名Zeitlose指花果季節錯亂；中世紀視為毒藥，當時多用東方種類Hermodactyli。",
+        "warnings": [],
+        "source_line_range": [
+          72,
+          78
+        ],
+        "exact_source_quote": "         Name undGeschichtlich.es.         Der deutsche Name Zeitlose, althochdeutsch zitlosa, bezieht\nsich auf die Verwechselung der Zeiten beziiglich der Bliithe (im Herbst) und der Frucht (im Friihjahr);\ner wird jedoch  auch aus dem italienischen  citella osa, stolze Jungfrau, abgeleitet. Colchicum stammt\nvon Kolchis in Kleinasien, wo die von Dioscorides beschriebene, mit unserem Colchic. autumnale\nwahrscheinlich   gleichbedeutende    Pflanze  haufig  vorkam.   Nach    Fraas    soil jedoch  das  Kolywov     der\nAlten  Colchicum   variegatum   L. gewesen   sein.  In  Europa war   unsere Herbstzeitlose   zur Zeit  des Mittel-\nalters als Giftpflanze bekannt, wurde aber medizinisch wenig oder gar nicht verwendet, da man zu medi-"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 68,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "球莖含秋水仙鹼、澱粉、糖、樹脂；種子含量最高，花與葉亦含秋水仙鹼。",
+        "warnings": [],
+        "source_line_range": [
+          49,
+          56
+        ],
+        "exact_source_quote": "         Bestandtheile. Die Colchicumzwiebel enthalt neben 20°/ Starkemelil, Zucker, Harz, Fett etc.\neinen von Pelletier und Caventou entdeckten, von ihnen fur Veratrin gehaltenen, bitterscharfen\nKorper, der von Geiger und Hesse als eigenthumlicli erkannt und von letzteren als Colchicin be-\nzeichnet worden ist. Die Bliithen enthalten nach Geiger und Hesse ebenfalls Colclticin, nach Reithner\nausserdem noch eisengriinende (in den Stanbbeuteln eisenblauende) Gerbsaure, Zucker, Fett, Harz,\nWaclis, Gummi.     Im Samen fanden Geiger, Hesse und Andere den grossten Colchicingehalt. Nach\nBleys Untersuchimgen ist im Samen ausser Colchicin nocli Zucker, Albumin, Fett, Harz etc. enthalten.\nAuch die Blatter enthalten Colchicin."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 68,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史上種子及其製劑用於治療痛風與風濕，秋水仙鹼為劇毒強瀉劑，大劑量致死。",
+        "warnings": [],
+        "source_line_range": [
+          81,
+          88
+        ],
+        "exact_source_quote": "           Anwendung.          Zu arzneilichen Zwecken wird jetzt im AUgemeinen nur noch der Samen und\nseine Praparate verwendet;      nur Frankreich und einige andere Lander benutzen noch die Zwiebel und\ndie daraus bereiteten Praparate.       Der wirksame Bestandtheil ist das Colchicin. Letzteres ist ein heftiges\nDrastikum, welches in grosseren Gaben Gastroenteritis erzeugt und den Tod herbeiftlhrt, eine Wirkung,\ndie ebenso auch durch ausserliche Anwendung und zwar durch Wunden und Einreibungen hervor-\ngebracht werden kann. Durch die, jedoch von neuen Forschern nicht bestatigte Wirkung auf vermehrte\nHarnsaureabscheidung hat die Herbstzeitlose ihren Ruf als Spezifikum gegen Gicht, Rheumatismus,\nGries- und Blasensteinbildung bis in die Neuzeit bewahrt.            (Husemann, Arzneimittell. 842.)"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "cde462517d0f9a9f91a4fa7e817b6c5583c5ba08cefe6f09889566a24493a3fc"
+}

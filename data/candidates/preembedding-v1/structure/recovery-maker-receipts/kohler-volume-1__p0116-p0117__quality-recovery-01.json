@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "package_id": "kohler-volume-1:p0116-p0117:quality-recovery-01",
+  "parent_entry_id": "kohler-volume-1:p0116-p0117",
+  "child_entry_id": null,
+  "recovered_entry_id": "kohler-volume-1:p0116-p0117",
+  "work_id": "structure-recovery:kohler-volume-1:p0116-p0117:quality-recovery-01:v1",
+  "owner_shard": "S01",
+  "package_sha256": "796c2e493f4b5d596da15e9dc3d813c52d8ec525ef83a5543b81bddee43e5950",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "prompt_version": "plant-structure-continuation-line-anchors-v1",
+  "attempt_sha256": "8b00a22e62f9e967a3146b36e091f90b5de4cfd3269f65aec75be1bb6f3c0eaf",
+  "raw_response_sha256": "3c13144993ed9a43914ad8ad6232f00bf440273750e3de6742556db50b5926d1",
+  "elapsed_seconds": 8.761,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 116,
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+      "char_start": 0,
+      "char_end": 290,
+      "source_line_start": 1,
+      "source_line_end": 6,
+      "page_text_sha256": "786b20d73392538debfa017181439764f084f7fb202196d0b1765027d641d235",
+      "exact_text_sha256": "4c81f17d947b57b8fd99df8d1129f3c5d471c6226af45d1a69d23521216e55a3",
+      "section_index": 0,
+      "section_type": "taxonomy"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 116,
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+      "char_start": 291,
+      "char_end": 4656,
+      "source_line_start": 7,
+      "source_line_end": 48,
+      "page_text_sha256": "786b20d73392538debfa017181439764f084f7fb202196d0b1765027d641d235",
+      "exact_text_sha256": "65ac1bda0d4e05a569afb4d0674a032b9035d236a6e5ae1b873098cdbbca313a",
+      "section_index": 1,
+      "section_type": "description"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 116,
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+      "char_start": 5004,
+      "char_end": 6456,
+      "source_line_start": 54,
+      "source_line_end": 69,
+      "page_text_sha256": "786b20d73392538debfa017181439764f084f7fb202196d0b1765027d641d235",
+      "exact_text_sha256": "6beaae7e86091a852332ba7254dbfd89cd89a9b6d363fb56b286cfb70d285e40",
+      "section_index": 2,
+      "section_type": "anatomy"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-1:p0116-p0117:quality-recovery-01",
+    "parent_entry_id": "kohler-volume-1:p0116-p0117",
+    "book_taxon": {
+      "scientific_name_candidate": "Sambucus nigra"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 116,
+        "source_line_range": [
+          1,
+          6
+        ],
+        "exact_source_quote": "                                                Sambucus nigra L.\n\n      Holunder, schwarzer Hollunder, Holder, Flieder                                          Elder,            Bore Tree                   Sureau.\n\n\n            Familie:     Caprifoliaceae.         Gattung: Sambucus Tourn."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 116,
+        "source_line_range": [
+          7,
+          48
+        ],
+        "exact_source_quote": "            Beschreibung.         3         9% Meter hoher, sehr astiger Strauch oder Baum mit astiger, aus-\ngebreiteter Wurzel,       rissigen    i\n                                           aussen   aschgrauen              alteren Aesten      und Stammen und graubraunlichen,\nreichlich    mit Korkwarzchen besetzten Zweigen.                            Die jungsten Zweige znerst griin, spater griingrau.\nAeste und Zweige mit weissem Marke                    erfullt.            Blatter gegenstandig, gestielt, meist unpaarig-2jochig-\ngefiedert, nebenblattlos oder             mit pfriemlichen, sehr hinfalligen Nebenblattern versehen, kahl oder unter-\nseits fein    behaart; Blattchen gestielt, eiformig oder langlich-eiformig, lang zugespitzt, ungleich scharf\ngesagt, etwas runzelig, oberseits dunkelgriin, glanzend, unterseits hellgriin, netzaderig, das endstandige\nlanggestielt,     am Grunde keilformig, die seitlichen kurzgestielt, am Grunde schief, die untersten kleiner.\nBlattspindel rinnenformig, gleich den Stielchen                          am Grunde cjuerfaltig. Doldenrispen gestielt, endstandig,\n10   — 14 Ctm.     breit, flach, zerstreut behaart, reichbllithig, aufrecht,                        nach der Bliithezeit hangend; Aeste\nerster   Ordnung zn 5       (4 Aeste        urn einen Mittelast gestellt),                 Aestchen 5           — 2, Endastchen gewohnlich\n3bliithig, mit einer mittleren sitzenden, friiher aufbliihenden                           und 2          seitlichen gestielten Bltithen.              Die\nzwitterigen Bltithen mit 1       — 3 kleinen, abfallenden Deckblattchen.                                    Kelch halboberstandig,             5zahnig,\nselten 4zahnig, mehrkantig, abstehend,                gegen die Fruchtreife angedriickt.                           Kelchzahne sturnpf-3eckig.\nKrone radformig, 5        — 4theilig, gelblichweiss                 ,    mit abstehenden,      mit den Kelchzahnen abwechselnden,\neiformigen, stumpfen Lappen               und sehr kurzer, ziemlich weiter Rohre,                           abfallend, stark riechend.          Frucht-\nknoten halbunterstandig,         3-       oder 2facherig, jedes Fach eineiig.\n                                                                Der aus dem Unterkelch gebildete,\nspater zur Frucht auswachsende Theil entwickelt aus seinem Rande den Kelch, die Krone, die Staub-\ngefasse und die 3 oder 2 Fruchtblatter  die mit einander verwachsend den oberen freien Theil des\n                                                      ,\n\n\n\nFruchtknotens und die 3knopfige,                 selten        2theilige, gelbe,          mit Papillen besetzte Narbe bilden.                         Der\nmittelstandige Samentrager mit 3 oder 2 hangenden Eichen.                                   Staubgefasse 5 oder 4 mit der Kronen-\nrohre verwachsen und mit den Lappen abwechselnd,                                    ausgebr eitet   ,       mit pfriemlichen Staubfaden und\novalen,     an beiden Enden ausgerandeten                 ,    uber clem Grunde des Rlickens angehefteten                               ,   2facherigen,\ngelben Beuteln.        Facher der Lange nach mit einem Spalte sich offnend.                                      Die kleinen gelben, stumpf-\neiformigen Pollen 3furchig, 3porig.                 Steinfriichtchen eiformig, bis fast kugelig, bis 6                                Mm. lang, meist\nschwarzviolett, glanzend, mit purpurrothem                      ,       sehr saftigem Fleische, von              dem Griffel und den kleinen\nanliegenden Kelchzahnen gekront,                mit 3         — 2 eiformigen, etwas zusammengedriickten                           ,    nach oben zu-\ngespitzten,     auf   dem Rticken gewolbten,                  auf der Bauchseite fast flachen, aussen griinlich-braunlichen,\nquerrunzeligen,       harten,   einsamigen Steinkernen.                      Die olreichen Samen hangend                 ,       von der Form des\nSteinkernes, mit diinner, weisslicher Samenhaut.                           Embryo gerade, in der Mitte des fleischigen Eiweisses,\nmit    walzenformigem Wiirzelchen               und       ovallanglichen        ,    blattartigen           Samenlappen.     '    Variirt     mehrfach\nund zwar:                                                                                               .\n\n\n\n"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 116,
+        "source_line_range": [
+          54,
+          69
+        ],
+        "exact_source_quote": "            Anatomisches:Die Borkenschuppen des Stammes und der alteren Aeste bestehen aus abgestorbenem, von\nPeridermschichten durchschnittenem Rindenparenchym. Die Rinde der jiingeren Aeste ist mit einer starken Korkla«-e\nbedeckt.    Die Mittelrinde besteht aus chloropliyllfiihrenclen Parenchymzellen                         die Innenrinde enthalt Bastbiindel.\n                                                                                                ;\n                                                                                                               Das\naus deutlichen Jahrringen bestehende Holz ist von Markstrahlen durchschnitten   die aus dickwandigem Prosenchym\n                                                                                                            ;\n\n\nzusammengesetzten Gefassbiinclel zeigen zwischen den Bundeln Tiipfelgefasse. Das Mark besteht aus einem\n                                                                                                         sclilaffen\nParenchym, welches nach dem ausseren Umfange hin Milchgefasse mit braunrothem Inhalte aufweist.\n                                                                                                  Die Kronblatter\nsind aus einem derbwandigen, polyedrischen Parenchym zusammengesetzt, welches von ziemlich\n                                                                                            starken Gefassbiindeln\ndurchzogen ist."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "feca62536716b178c513316c22b94688d06a02bc62906cc99586a6d0bc4d9d74"
+}

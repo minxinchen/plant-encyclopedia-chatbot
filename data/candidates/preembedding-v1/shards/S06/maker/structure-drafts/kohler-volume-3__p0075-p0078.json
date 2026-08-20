@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-3:p0075-p0078",
+  "owner_shard": "S06",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 119.249,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-3:p0075-p0078",
+    "book_taxon": {
+      "scientific_name_candidate": "Anthemis nobilis L.",
+      "authorship_candidate": null,
+      "aliases_candidates": [
+        "Chamomilla nobilis Godron",
+        "Chamaemelum nobile Allioni"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 75,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "菊科，管狀花亞科，菊苣族，菊屬。",
+        "warnings": [],
+        "source_line_range": [
+          6,
+          9
+        ],
+        "exact_source_quote": "             Syn.        Chamomilla nobilis Godron.               Chamaemelum nobile Allioni.\n\n            Familie: Compositae Adans. Abteilung: TubulifloraeDC. Unterabteilung: Corymbiferae\n Vaill.    Gruppe: SenecionoideLess ae . Unterfamilie: Anthemideae Cass. Gattung: Anthemis L."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 75,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "多年生，具水平根莖，莖高15-30公分，葉二回羽狀深裂，頭狀花徑2-3公分。",
+        "warnings": [],
+        "source_line_range": [
+          11,
+          25
+        ],
+        "exact_source_quote": "             Beschreibung.              Die Pflanze ist ausdauernd.               Zahlreiche senkrechte Nebenwurzeln ent-\n springen     aus        einem       nahezu       horizontalen    verzweigten,          walzenförmigen,           sehr    tief liegenden\n vielköpfigen Rhizom,                welches      nach oben zahlreiche, 15—30 cm hohe, stielrunde gerillte Stengel\n treibt, von denen einige sich an der Erde hinstrecken, oft Wurzeln treiben und einen Rasen\n bilden, während               andere      mehr    oder    weniger    senkrecht     in die Höhe         streben.     Während      erstere\nkeine Blüten treiben, verzweigen                          sich die aufrechten        in zentrifugaler Richtung              und       bilden\n einen    Corymbus,            dessen      Enden    je 1 Köpfchen       tragen.         Die Blätter       sind     wechselständig, ab-\n stehend, sitzend einfach, im ganzen Umfang länglich-lanzettlich bis spatelförmig; die Blattfläche\n ist indessen           doppelt      fiederschnittig,       die Abschnitte        stehen    an    der Mittelrippe          entfernt     von\n einander beinahe gegenständig und sind wiederum in schmale, borstliche, ganzrandige, an der\n Spitze 2—Steilige Zipfel mit aufgesetztem                        Stachelspitzchen         geteilt.      Das     ganze   Blatt hat      eine\n Länge von 2—3 cm, während die Zipfelchen 2—3 mm lang sind. Stengel und Blätter sind\n in der Jugend dicht flaumhaarig, im Alter wird die Pflanze kahler; auch nimmt ihre Behaarung\n auf feuchterem Standpunkt ab, so dass sie bald rein grün, bald mehr oder. weniger graugrün\n erscheint. Der Blütenstiel ist behaart, nach oben etwas verdickt und blattlos. Das Köpfchen"
+      },
+      {
+        "section_type": "flowering",
+        "pdf_page": 76,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "花期為七月至八月。",
+        "warnings": [],
+        "source_line_range": [
+          21,
+          21
+        ],
+        "exact_source_quote": "             Blütezeit.      Juli bis August."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 76,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "野生於葡萄牙、西班牙、法國；德國南部歸化；英國、北美及德國萊比錫附近栽培。",
+        "warnings": [],
+        "source_line_range": [
+          23,
+          27
+        ],
+        "exact_source_quote": "             Vorkommen.            In Portugal,         Spanien,    Frankreich          wild;         in Süddeutschland             verwildert,\n\nin England, Nordamerika und in Deutschland                               in der Nähe Leipzigs (Borna, Kieritzsch)                              an-\ngebaut.       Die Pflanze wächst auf Sandboden,                         am Rande stehender Gewässer,                        aber auch auf\nsehr trocknen Stellen, wo sie dann sehr behaart erscheint.                                       Durch Kultur gehen die Röhren-"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 76,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歐洲多國藥用，德國作民間藥，稱羅馬洋甘菊。",
+        "warnings": [],
+        "source_line_range": [
+          56,
+          57
+        ],
+        "exact_source_quote": "          Offieinell sind in vielen                 europäischen        Staaten      die gefüllten Blüten                  der PflaIrnze; ’ in\nDeutschland       dienen      sie als Volksheilmittel              als Flores      Chamomillae           romanae.      Man sammelt             bei"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 77,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含0.7-1%揮發油，含異丁酸酯、當歸酸酯及洋甘菊醇，呈藍綠色。",
+        "warnings": [],
+        "source_line_range": [
+          32,
+          36
+        ],
+        "exact_source_quote": "          Bestandteile.          Das      ätherische              Öl (0,7—1°/,)        enthält nach            Schmidt        die Be ‚ Amyl-\n\nund Hexylester der Isobuttersäure, Angelikasäure und der Methylerotonsäure, neben Anthemol\n01H1°O0, einer bei 213,5 —214,5° siedenden Flüssigkeit.  Es ist von blaugrüner Farbe, hat\nein ‚Bez Gew. v. 0,860 bis 20° (0,905—915                                      bei 15%, Schimmel & Co.).                     Ella Amermann"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "c41b35c5d2679744d6c20ccbeb01ad4c7eea89e381ee4a3c758fa3fb7a5d4122"
+}

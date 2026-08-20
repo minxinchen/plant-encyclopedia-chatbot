@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 369,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "64ecdfdcba3e852437af87be36a573895b57069e1f4fd8391c855c51f3c412a1",
+  "render_dpi": 144,
+  "render_sha256": "94b98c4f10cf4371bebb895416923e490a5b53984b9fd3c9c32dac328dc00ad9",
+  "input_sha256": "94b98c4f10cf4371bebb895416923e490a5b53984b9fd3c9c32dac328dc00ad9",
+  "render_pixel_width": 5546,
+  "render_pixel_height": 8030,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.483,
+  "embedded_character_count": 63,
+  "ocr_character_count": 57,
+  "ocr_alpha_ratio": 0.5965,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01777540312872994,
+      "text": "Labiatae",
+      "width": 0.07788691140727344,
+      "x": 0.867569149893964,
+      "y": 0.9082634612654753
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252612005,
+      "text": "10",
+      "width": 0.014705882514028046,
+      "x": 0.5630252098984482,
+      "y": 0.7470930235335778
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "15",
+      "width": 0.014705882514028046,
+      "x": 0.8991596640301007,
+      "y": 0.31250000038293113
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "16",
+      "width": 0.01680672228635849,
+      "x": 0.7668067227853921,
+      "y": 0.22093023272104606
+    },
+    {
+      "confidence": 1,
+      "height": 0.016385417135935,
+      "text": "W.M. n.d.Nat.",
+      "width": 0.07999701681363014,
+      "x": 0.850757793538556,
+      "y": 0.12334798930917701
+    },
+    {
+      "confidence": 1,
+      "height": 0.017609126984126977,
+      "text": "Melissa officinalis L.",
+      "width": 0.22268906789808413,
+      "x": 0.3844537881623024,
+      "y": 0.10168650817186786
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "65",
+      "width": 0.012605041372459436,
+      "x": 0.9222689080252549,
+      "y": 0.02325581395993437
+    }
+  ],
+  "text": "Labiatae\n10\n15\n16\nW.M. n.d.Nat.\nMelissa officinalis L.\n65",
+  "output_sha256": "bed94a331244dee78592b2dfd69ac9b443bb84039e4db26055fc1a14cd2001ce",
+  "receipt_sha256": "6b262bc61b758cea2b10bea1cfc255248d233ccddd6c409bfcf3fcd184e00eb1"
+}

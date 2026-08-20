@@ -1,0 +1,459 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-08-13T07:32:12+08:00",
+  "selection_contract": {
+    "maximum_adjacent_pages": 6,
+    "source_quality": [
+      "clean",
+      "usable"
+    ],
+    "requires_next_entry_boundary": true,
+    "excludes_approved_pages": true,
+    "still_requires": [
+      "Taiwan name resolution",
+      "PDF image review",
+      "source-range validation"
+    ]
+  },
+  "candidate_count": 231,
+  "candidates": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "start_pdf_page": 197,
+      "book_taxon_candidate": "Levistieum offieinale",
+      "heading_excerpt": "Levistieum offieinale Koch. | Syn. Levisticum paludapifolium Aschers. Angelica Levisticum Baillon. | Ingusticum Levisticum L. | Liebstockel — Liveche.",
+      "end_pdf_page": 198,
+      "pdf_pages": [
+        197,
+        198
+      ],
+      "page_count": 2,
+      "next_entry_pdf_page": 199,
+      "next_entry_taxon_candidate": "Guajacum offiemale",
+      "mean_alpha_ratio": 0.7489,
+      "mean_short_line_ratio": 0.00895,
+      "mean_character_count": 5612,
+      "closing_section_marker": true,
+      "score": 122.4678,
+      "status": "candidate_requires_name_and_visual_review"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "start_pdf_page": 457,
+      "book_taxon_candidate": "Hydrastis canadensis",
+      "heading_excerpt": "Hydrastis canadensis L. | Syn. Warneria Canadensis Miller. | Kanadische Gilbwurzel, Gelbes Blutkraut — Yellow root, Yellow Pucoon, Yellow-seal.",
+      "end_pdf_page": 458,
+      "pdf_pages": [
+        457,
+        458
+      ],
+      "page_count": 2,
+      "next_entry_pdf_page": 459,
+      "next_entry_taxon_candidate": "Cureuma Zedoaria",
+      "mean_alpha_ratio": 0.74735,
+      "mean_short_line_ratio": 0.01085,
+      "mean_character_count": 4216,
+      "closing_section_marker": true,
+      "score": 121.8188,
+      "status": "candidate_requires_name_and_visual_review"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "start_pdf_page": 385,
+      "book_taxon_candidate": "Crocus sativus",
+      "heading_excerpt": "Crocus sativus L. | Safran, Saffran — Safran — Saffron.",
+      "end_pdf_page": 388,
+      "pdf_pages": [
+        385,
+        386,
+        387,
+        388
+      ],
+      "page_count": 4,
+      "next_entry_pdf_page": 389,
+      "next_entry_taxon_candidate": "Claviceps purpurea",
+      "mean_alpha_ratio": 0.714675,
+      "mean_short_line_ratio": 0.0115,
+      "mean_character_count": 6115,
+      "closing_section_marker": true,
+      "score": 121.7763,
+      "status": "candidate_requires_name_and_visual_review"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "start_pdf_page": 209,
+      "book_taxon_candidate": "Imperatoria Ostruthium",
+      "heading_excerpt": "Imperatoria Ostruthium L. | Syn. Peucedanum Ostruthium Koch. | Meisterwurz 一 Imperatoire.",
+      "end_pdf_page": 210,
+      "pdf_pages": [
+        209,
+        210
+      ],
+      "page_count": 2,
+      "next_entry_pdf_page": 211,
+      "next_entry_taxon_candidate": "Rosa centifolia",
+      "mean_alpha_ratio": 0.71425,
+      "mean_short_line_ratio": 0.00835,
+      "mean_character_count": 5892,
+      "closing_section_marker": true,
+      "score": 121.765,
+      "status": "candidate_requires_name_and_visual_review"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "start_pdf_page": 317,
+      "book_taxon_candidate": "Ipomoea Purga",
+      "heading_excerpt": "Ipomoea Purga Hayne. | Syn. Ipomoea Schiedeana Schlecht. Convolvulus Purga Wender. Exogonium Purga Benth. | Jalape, Jalapenrinde. 一 Jalap tubéreux ou officinal. — Jalap.",
+      "end_pdf_page": 320,
+      "pdf_pages": [
+        317,
+        318,
+        319,
+        320
+      ],
+      "page_count": 4,
+      "next_entry_pdf_page": 321,
+      "next_entry_taxon_candidate": "Quassia amara",
+      "mean_alpha_ratio": 0.70945,
+      "mean_short_line_ratio": 0.011425,
+      "mean_character_count": 6344,
+      "closing_section_marker": true,
+      "score": 121.7443,
+      "status": "candidate_requires_name_and_visual_review"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "start_pdf_page": 61,
+      "book_taxon_candidate": "Oenanthe Phellandrium",
+      "heading_excerpt": "Oenanthe Phellandrium Lam. | Syn. Oenanthe aquatica Lam. Phellandrium aquaticum L. | Wasserfenchel, Rosskümmel — Water Dropwort — Phellandrie aquatique.",
+      "end_pdf_page": 62,
+      "pdf_pages": [
+        61,
+        62
+      ],
+      "page_count": 2,
+      "next_entry_pdf_page": 63,
+      "next_entry_taxon_candidate": "Triticum repens",
+      "mean_alpha_ratio": 0.722,
+      "mean_short_line_ratio": 0.0091,
+      "mean_character_count": 5420,
+      "closing_section_marker": true,
+      "score": 121.741,
+      "status": "candidate_requires_name_and_visual_review"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "start_pdf_page": 435,
+      "book_taxon_candidate": "Pimenta officinalis",
+      "heading_excerpt": "Pimenta officinalis Lindl. (Berg). | Syn. Myrtus Pimenta L. Eugenia Pimenta D. C. Pimenta vulgaris Wight et Arn. | Nelkenpfeffer, Neugewürz, Piment, Jamaikapfeffer — Poivre de la Jamaique — | Pimento, Allspice, Jama- Pepper | ic a.",
+      "end_pdf_page": 436,
+      "pdf_pages": [
+        435,
+        436
+      ],
+      "page_count": 2,
+      "next_entry_pdf_page": 437,
+      "next_entry_taxon_candidate": "Boswellia Carterii",
+      "mean_alpha_ratio": 0.70645,
+      "mean_short_line_ratio": 0.00795,
+      "mean_character_count": 6119,
+      "closing_section_marker": true,
+      "score": 121.6798,
+      "status": "candidate_requires_name_and_visual_review"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "start_pdf_page": 83,
+      "book_taxon_candidate": "Pimpinella Anisum",
+      "heading_excerpt": "Pimpinella Anisum L. | Syn. Anisum vulgare Gaertn. Sison Anisum Spr. | Anis — Anis vert — Anise.",
+      "end_pdf_page": 84,
+      "pdf_pages": [
+        83,
+        84
+      ],
+      "page_count": 2,
+      "next_entry_pdf_page": 85,
+      "next_entry_taxon_candidate": "Amygdalus eommunis",
+      "mean_alpha_ratio": 0.6992,
+      "mean_short_line_ratio": 0.0,
+      "mean_character_count": 5319,
+      "closing_section_marker": true,
+      "score": 121.4084,
+      "status": "candidate_requires_name_and_visual_review"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "start_pdf_page": 71,
+      "book_taxon_candidate": "Menyanthes trifoliata",
+      "heading_excerpt": "Menyanthes trifoliata L. | Fieberklee, Bitterklee, Biberklee, Sumpf klee, Zottenblume — Menyanthe ou tréfle d'eau — | Buckbean, Drieblad.",
+      "end_pdf_page": 72,
+      "pdf_pages": [
+        71,
+        72
+      ],
+      "page_count": 2,
+      "next_entry_pdf_page": 73,
+      "next_entry_taxon_candidate": "Inula Helenium",
+      "mean_alpha_ratio": 0.71075,
+      "mean_short_line_ratio": 0.0,
+      "mean_character_count": 4609,
+      "closing_section_marker": true,
+      "score": 121.4016,
+      "status": "candidate_requires_name_and_visual_review"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "start_pdf_page": 465,
+      "book_taxon_candidate": "Toluifera Pereirae",
+      "heading_excerpt": "Toluifera Pereirae Baillon. | Syn. Myrospermum von Sonsonate Pereir. Myrospermum Pereirae Royle. | Myroxylon Pereirae Klotzsch. Tolwfera Balsamum var. Baill. | Perubalsamba | — um | Baume de Perou noir, Baume de San Salvador, Baume de Sansonate—",
+      "end_pdf_page": 468,
+      "pdf_pages": [
+        465,
+        466,
+        467,
+        468
+      ],
+      "page_count": 4,
+      "next_entry_pdf_page": 469,
+      "next_entry_taxon_candidate": "Toluifera Balsamum",
+      "mean_alpha_ratio": 0.698025,
+      "mean_short_line_ratio": 0.0082,
+      "mean_character_count": 5849,
+      "closing_section_marker": true,
+      "score": 121.3627,
+      "status": "candidate_requires_name_and_visual_review"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "start_pdf_page": 285,
+      "book_taxon_candidate": "Pimpinella Saxifraga",
+      "heading_excerpt": "Pimpinella Saxifraga L. | Bibernelle, Bockspetersilie, Pfefferwurzel, Steinpeterlein, Steinpimpinelle, - | weisse deutsche Theriakwurzel 一 Boucage.",
+      "end_pdf_page": 288,
+      "pdf_pages": [
+        285,
+        286,
+        287,
+        288
+      ],
+      "page_count": 4,
+      "next_entry_pdf_page": 289,
+      "next_entry_taxon_candidate": "Prunus Laurocerasus",
+      "mean_alpha_ratio": 0.728025,
+      "mean_short_line_ratio": 0.01105,
+      "mean_character_count": 4191,
+      "closing_section_marker": true,
+      "score": 121.3395,
+      "status": "candidate_requires_name_and_visual_review"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "start_pdf_page": 325,
+      "book_taxon_candidate": "Quercus Suber",
+      "heading_excerpt": "Quercus Suber L. | Korkeiche.",
+      "end_pdf_page": 328,
+      "pdf_pages": [
+        325,
+        326,
+        327,
+        328
+      ],
+      "page_count": 4,
+      "next_entry_pdf_page": 329,
+      "next_entry_taxon_candidate": "Ferula galbaniflua",
+      "mean_alpha_ratio": 0.72445,
+      "mean_short_line_ratio": 0.0111,
+      "mean_character_count": 3908,
+      "closing_section_marker": true,
+      "score": 121.1393,
+      "status": "candidate_requires_name_and_visual_review"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "start_pdf_page": 273,
+      "book_taxon_candidate": "Polyporus fomentarius",
+      "heading_excerpt": "Polyporus fomentarius Fries. | Syn. Boletus fomentarius L. | Feuerschwamm, Zunderschwamm — Agaric de Chéne (fomentarius, igniarius), | Polypore du Méléze (officinalis). | Ordnung: Hymenomycetes;",
+      "end_pdf_page": 276,
+      "pdf_pages": [
+        273,
+        274,
+        275,
+        276
+      ],
+      "page_count": 4,
+      "next_entry_pdf_page": 277,
+      "next_entry_taxon_candidate": "Jatrorhiza palmata",
+      "mean_alpha_ratio": 0.7225,
+      "mean_short_line_ratio": 0.01605,
+      "mean_character_count": 4365,
+      "closing_section_marker": true,
+      "score": 121.1367,
+      "status": "candidate_requires_name_and_visual_review"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "start_pdf_page": 85,
+      "book_taxon_candidate": "Amygdalus eommunis",
+      "heading_excerpt": "Amygdalus eommunis L. | Syn. Prunus amygdalus Baill. (Stokes). | Mandelbaum 一 Almandier — Almond-tree.",
+      "end_pdf_page": 88,
+      "pdf_pages": [
+        85,
+        86,
+        87,
+        88
+      ],
+      "page_count": 4,
+      "next_entry_pdf_page": 89,
+      "next_entry_taxon_candidate": "Quercus lusitanica",
+      "mean_alpha_ratio": 0.691,
+      "mean_short_line_ratio": 0.0078,
+      "mean_character_count": 5355,
+      "closing_section_marker": true,
+      "score": 121.0076,
+      "status": "candidate_requires_name_and_visual_review"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "start_pdf_page": 405,
+      "book_taxon_candidate": "Anamirta paniculata",
+      "heading_excerpt": "Anamirta paniculata Colebrooke. | Syn. A. Cocculus Wight et Arnott. Menispermum Cocculus L. (Wall.) | Cocculus suberosus D. C. | Kokkelskörner, Kokkelsame, Fischkörner, Tollkórner — Coque du Levant — Cockles.",
+      "end_pdf_page": 408,
+      "pdf_pages": [
+        405,
+        406,
+        407,
+        408
+      ],
+      "page_count": 4,
+      "next_entry_pdf_page": 409,
+      "next_entry_taxon_candidate": "Saccharum officinarum",
+      "mean_alpha_ratio": 0.693475,
+      "mean_short_line_ratio": 0.00595,
+      "mean_character_count": 4705,
+      "closing_section_marker": true,
+      "score": 120.8588,
+      "status": "candidate_requires_name_and_visual_review"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "start_pdf_page": 63,
+      "book_taxon_candidate": "Triticum repens",
+      "heading_excerpt": "Triticum repens L. | Syn. Agropyrum repens P. Beauvais. | Quecke — Chiendent officinal, Petit Chiendent — Couch-grass, Triticum. -",
+      "end_pdf_page": 64,
+      "pdf_pages": [
+        63,
+        64
+      ],
+      "page_count": 2,
+      "next_entry_pdf_page": 65,
+      "next_entry_taxon_candidate": "Triticum vulgare",
+      "mean_alpha_ratio": 0.67215,
+      "mean_short_line_ratio": 0.00835,
+      "mean_character_count": 5901,
+      "closing_section_marker": true,
+      "score": 120.7582,
+      "status": "candidate_requires_name_and_visual_review"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "start_pdf_page": 357,
+      "book_taxon_candidate": "Euphorbia resinifera",
+      "heading_excerpt": "Euphorbia resinifera Berg. | Syn. Tithymalus resiniferus Krst. | Euphorbium — Euphorbe.",
+      "end_pdf_page": 360,
+      "pdf_pages": [
+        357,
+        358,
+        359,
+        360
+      ],
+      "page_count": 4,
+      "next_entry_pdf_page": 361,
+      "next_entry_taxon_candidate": "Rieinus communis",
+      "mean_alpha_ratio": 0.727725,
+      "mean_short_line_ratio": 0.01435,
+      "mean_character_count": 2978,
+      "closing_section_marker": true,
+      "score": 120.7546,
+      "status": "candidate_requires_name_and_visual_review"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "start_pdf_page": 337,
+      "book_taxon_candidate": "Trigonella Foenum",
+      "heading_excerpt": "۹ | Trigonella Foenum graecum (faenum graecum) L. | Hornklee, Bockshornklee, Siebengezeit — Fenugrec — Fenugreek.",
+      "end_pdf_page": 338,
+      "pdf_pages": [
+        337,
+        338
+      ],
+      "page_count": 2,
+      "next_entry_pdf_page": 339,
+      "next_entry_taxon_candidate": "Cassia aeutifolia",
+      "mean_alpha_ratio": 0.6824,
+      "mean_short_line_ratio": 0.0182,
+      "mean_character_count": 5828,
+      "closing_section_marker": true,
+      "score": 120.6992,
+      "status": "candidate_requires_name_and_visual_review"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "start_pdf_page": 43,
+      "book_taxon_candidate": "Palaquium Gutta",
+      "heading_excerpt": "Palaquium Gutta Burck. | Syn. Zsonandra Gutta Hook.; Dichopsis Gutta Benth. u. Hook.",
+      "end_pdf_page": 44,
+      "pdf_pages": [
+        43,
+        44
+      ],
+      "page_count": 2,
+      "next_entry_pdf_page": 45,
+      "next_entry_taxon_candidate": "Palaquium Treubii",
+      "mean_alpha_ratio": 0.67655,
+      "mean_short_line_ratio": 0.00925,
+      "mean_character_count": 5498,
+      "closing_section_marker": true,
+      "score": 120.6772,
+      "status": "candidate_requires_name_and_visual_review"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "start_pdf_page": 491,
+      "book_taxon_candidate": "Quillaja Saponaria",
+      "heading_excerpt": "Quillaja Saponaria Molina (nieht Molini). | Syn. Quillaja Smegmadermos D. C. | Seifenbaum, Seifenrindenbaum — Panama — Quillaia.",
+      "end_pdf_page": 492,
+      "pdf_pages": [
+        491,
+        492
+      ],
+      "page_count": 2,
+      "next_entry_pdf_page": 493,
+      "next_entry_taxon_candidate": "Abrus preeatorius",
+      "mean_alpha_ratio": 0.70565,
+      "mean_short_line_ratio": 0.01165,
+      "mean_character_count": 3816,
+      "closing_section_marker": true,
+      "score": 120.6356,
+      "status": "candidate_requires_name_and_visual_review"
+    }
+  ]
+}

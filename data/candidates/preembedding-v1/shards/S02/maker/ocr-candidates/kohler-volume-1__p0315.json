@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 315,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "455a05cd29804a487c85461467020b2f95124dadbf303e46200b60d329be2a49",
+  "render_dpi": 144,
+  "render_sha256": "64df9df2538c4bb0b83db5a59daa0fc1f7dea6a26e92e4f4699380933ecbd847",
+  "input_sha256": "64df9df2538c4bb0b83db5a59daa0fc1f7dea6a26e92e4f4699380933ecbd847",
+  "render_pixel_width": 5882,
+  "render_pixel_height": 7958,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 8.124,
+  "embedded_character_count": 139,
+  "ocr_character_count": 53,
+  "ocr_alpha_ratio": 0.6792,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "12",
+      "width": 0.013752454719287432,
+      "x": 0.8664047158951043,
+      "y": 0.7645348839531224
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "3",
+      "width": 0.01571709165637125,
+      "x": 0.7465618864573416,
+      "y": 0.3633720928702392
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.07122092776828348,
+      "text": "valo",
+      "width": 0.094302552498427,
+      "x": 0.6247544210844941,
+      "y": 0.31976744334696294
+    },
+    {
+      "confidence": 1,
+      "height": 0.02616279087369411,
+      "text": "Symphytum officinale I",
+      "width": 0.23772101690305159,
+      "x": 0.39685658197087115,
+      "y": 0.10755813966489713
+    },
+    {
+      "confidence": 1,
+      "height": 0.013403622877030119,
+      "text": "WMüllern. d. Nat.",
+      "width": 0.06887343233863774,
+      "x": 0.8368795905289663,
+      "y": 0.11321097912733447
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "40",
+      "width": 0.01964636553053889,
+      "x": 0.897838899945929,
+      "y": 0.042151163039391704
+    }
+  ],
+  "text": "12\n3\nvalo\nSymphytum officinale I\nWMüllern. d. Nat.\n40",
+  "output_sha256": "eb0f4b6c4f04bae79eb962ea44292173b8b5a3a0ecc32e89e7a85aeaf1a106e5",
+  "receipt_sha256": "f9a1c62a557edc59f978eee5674925014dca05d9bb2c67fa23640fc4f962907d"
+}

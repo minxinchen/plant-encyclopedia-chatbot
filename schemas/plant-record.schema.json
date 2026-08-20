@@ -1,0 +1,119 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.ai-workstation/schemas/plant-record.schema.json",
+  "title": "Plant encyclopedia grounded record",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "record_id",
+    "book_taxon",
+    "display_name",
+    "name_resolution",
+    "book_evidence",
+    "sections",
+    "review_status"
+  ],
+  "properties": {
+    "record_id": {"type": "string", "minLength": 1},
+    "book_taxon": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["scientific_name", "aliases"],
+      "properties": {
+        "scientific_name": {"type": "string", "minLength": 1},
+        "authorship": {"type": ["string", "null"]},
+        "aliases": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+        "book_common_names": {"type": "array", "items": {"type": "string"}, "uniqueItems": true}
+      }
+    },
+    "display_name": {"type": ["string", "null"]},
+    "materia_medica_names": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["name", "name_type", "plant_part", "authority", "url", "checked_at"],
+        "properties": {
+          "name": {"type": "string", "minLength": 1},
+          "name_type": {"enum": ["taiwan_materia_medica", "historical_book_drug", "other"]},
+          "plant_part": {"type": ["string", "null"]},
+          "authority": {"type": "string", "minLength": 1},
+          "url": {"type": "string", "format": "uri"},
+          "checked_at": {"type": "string", "format": "date-time"}
+        }
+      }
+    },
+    "name_resolution": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["status", "query_name", "checked_at", "sources"],
+      "properties": {
+        "status": {
+          "enum": [
+            "taiwan_catalogue_preferred",
+            "taiwan_public_name",
+            "taiwan_alias",
+            "non_taiwan_authoritative",
+            "human_reviewed_translation",
+            "unresolved"
+          ]
+        },
+        "query_name": {"type": "string", "minLength": 1},
+        "accepted_scientific_name": {"type": ["string", "null"]},
+        "taiwan_occurrence_status": {
+          "enum": ["recorded", "non_taiwanese", "unclear", "not_checked"]
+        },
+        "checked_at": {"type": "string", "format": "date-time"},
+        "sources": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["authority", "url", "result"],
+            "properties": {
+              "authority": {"type": "string", "minLength": 1},
+              "url": {"type": "string", "format": "uri"},
+              "source_id": {"type": ["string", "null"]},
+              "result": {"type": "string", "minLength": 1}
+            }
+          }
+        }
+      }
+    },
+    "book_evidence": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["source_id", "pdf_page", "evidence_type"],
+        "properties": {
+          "source_id": {"type": "string", "minLength": 1},
+          "pdf_page": {"type": "integer", "minimum": 1},
+          "printed_page": {"type": ["string", "null"]},
+          "evidence_type": {"enum": ["text", "plate", "index", "caption"]},
+          "ocr_quality": {"enum": ["clean", "usable", "poor", "none"]}
+        }
+      }
+    },
+    "sections": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["section_type", "original_text", "evidence_indexes"],
+        "properties": {
+          "section_type": {
+            "enum": ["taxonomy", "description", "anatomy", "distribution", "history", "flowering", "harvest", "constituents", "historical_use", "literature", "plate_description", "other"]
+          },
+          "original_text": {"type": "string"},
+          "normalized_text": {"type": ["string", "null"]},
+          "zh_tw_rendering": {"type": ["string", "null"]},
+          "evidence_indexes": {"type": "array", "items": {"type": "integer", "minimum": 0}}
+        }
+      }
+    },
+    "review_status": {"enum": ["machine_extracted", "name_checked", "sample_reviewed", "human_verified"]},
+    "warnings": {"type": "array", "items": {"type": "string"}, "uniqueItems": true}
+  }
+}

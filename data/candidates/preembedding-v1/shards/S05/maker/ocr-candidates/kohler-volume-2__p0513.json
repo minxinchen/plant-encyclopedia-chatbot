@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 513,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "5cadb8c3d0ff8b457f6eabe743108e315caf1ca0d5b8bfda415b19d8028d1fd5",
+  "render_dpi": 144,
+  "render_sha256": "dddaf1f67c542bca8f5c2923af2ff82d3d398b6ff431eec687cf1172e49a0f09",
+  "engine": "Apple Vision VNRecognizeTextRequest accurate",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 10.029,
+  "embedded_character_count": 119,
+  "ocr_character_count": 75,
+  "ocr_alpha_ratio": 0.6,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.020412282338218124,
+      "text": "Gramineae. (Hordeae.)",
+      "width": 0.23284823370318042,
+      "x": 0.71517671329394,
+      "y": 0.9243551591338706
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "12",
+      "width": 0.018711018393225642,
+      "x": 0.7588357591817656,
+      "y": 0.8008720932719499
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "13",
+      "width": 0.012474012713060256,
+      "x": 0.7796257794023056,
+      "y": 0.5668604653363589
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "10",
+      "width": 0.018711018393225642,
+      "x": 0.8274428274977738,
+      "y": 0.33430232563082896
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436846943,
+      "text": "A",
+      "width": 0.014553014606448755,
+      "x": 0.5613305612414742,
+      "y": 0.2325581396216928
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "14",
+      "width": 0.014553014606448755,
+      "x": 0.8773388772082102,
+      "y": 0.19767441881607917
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014678675977010558,
+      "text": "WMiller n.d.Nat",
+      "width": 0.11022572618849735,
+      "x": 0.8274235208192762,
+      "y": 0.16126531324875737
+    },
+    {
+      "confidence": 1,
+      "height": 0.025116816399589403,
+      "text": "Triticum vulgare L.",
+      "width": 0.2350142242215204,
+      "x": 0.38457188713670676,
+      "y": 0.12479624327677585
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "87.",
+      "width": 0.02079002028661414,
+      "x": 0.9272349272787305,
+      "y": 0.029069767561373028
+    }
+  ],
+  "text": "Gramineae. (Hordeae.)\n12\n13\n10\nA\n14\nWMiller n.d.Nat\nTriticum vulgare L.\n87.",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-ocr-sha256=e54202ae838c94203816fd3331f4c37f7acac436188d481eab506c540c3d66d6",
+  "input_sha256": "dddaf1f67c542bca8f5c2923af2ff82d3d398b6ff431eec687cf1172e49a0f09",
+  "output_sha256": "25281e6426eef737ca8beee8a5c74dce510c696b3e692416b61f07e798f4c752",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "receipt_sha256": "191e8f149d4d7d9c3f8cbe5c29d493befa7cf19bcee14b30b307244a69fccc69"
+}

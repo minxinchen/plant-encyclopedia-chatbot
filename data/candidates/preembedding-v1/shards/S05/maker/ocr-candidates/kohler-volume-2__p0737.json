@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 737,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "805e9c8499665be0dcc7a8ee45da9f44550ef141b5aaf67f421e7c6b29fad19c",
+  "render_dpi": 144,
+  "render_sha256": "6ccb83a4776a64790f11a49b9733aeb98720b37d7ef7a9509faba183d472d0e4",
+  "input_sha256": "6ccb83a4776a64790f11a49b9733aeb98720b37d7ef7a9509faba183d472d0e4",
+  "render_pixel_width": 5414,
+  "render_pixel_height": 7778,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 6.211,
+  "embedded_character_count": 41,
+  "ocr_character_count": 93,
+  "ocr_alpha_ratio": 0.6559,
+  "candidate_disposition": "candidate_quality_gain",
+  "staging_disposition": "candidate_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.3,
+      "height": 0.02050512934487958,
+      "text": "Аросупеае",
+      "width": 0.11696613887775997,
+      "x": 0.8037298730657799,
+      "y": 0.9490497611109361
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02034883650522379,
+      "text": "Asclepiadeae.)",
+      "width": 0.20250521494112805,
+      "x": 0.7515657621118995,
+      "y": 0.9287790701485509
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "1L",
+      "width": 0.012526095083296468,
+      "x": 0.15866388363441303,
+      "y": 0.3866279071174272
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "12",
+      "width": 0.018789143304199923,
+      "x": 0.18789144106188752,
+      "y": 0.3880813955975312
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "10",
+      "width": 0.018789143304199896,
+      "x": 0.9039665972623051,
+      "y": 0.21075581393228637
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494425,
+      "text": "B",
+      "width": 0.012526095083296496,
+      "x": 0.682672234225923,
+      "y": 0.1875000004313807
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494425,
+      "text": "13",
+      "width": 0.016701460563898762,
+      "x": 0.6158663889247312,
+      "y": 0.08866279105638075
+    },
+    {
+      "confidence": 1,
+      "height": 0.01325774949694436,
+      "text": "E. Günther gez u. lith.",
+      "width": 0.1116638944359587,
+      "x": 0.8346425019884137,
+      "y": 0.05789769601785599
+    },
+    {
+      "confidence": 1,
+      "height": 0.026289682539682557,
+      "text": "Strophanthus hispidus D.C.",
+      "width": 0.30062629286719866,
+      "x": 0.35281837542742067,
+      "y": 0.04067460352788077
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "194",
+      "width": 0.03549060386809866,
+      "x": 0.9102296454824433,
+      "y": 0.015988372212535795
+    }
+  ],
+  "text": "Аросупеае\nAsclepiadeae.)\n1L\n12\n10\nB\n13\nE. Günther gez u. lith.\nStrophanthus hispidus D.C.\n194",
+  "output_sha256": "2b04b1cbff869a2ae001505b91220c76453763f132e487605725edd3b9d4e7b4",
+  "receipt_sha256": "808edb3b56d7bcbf66114d66aa69877619c7f6a8a18157f0296592a5f30c72c7"
+}

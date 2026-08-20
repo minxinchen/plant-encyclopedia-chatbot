@@ -1,0 +1,254 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-4-p0002-p0017-child-02",
+  "entry_id": "kohler-volume-4:p0002-p0017:child-02",
+  "owner_shard": null,
+  "book_taxon": {
+    "scientific_name": "Boletus Satanas",
+    "authorship": null,
+    "aliases": []
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Boletus Satanas",
+      "Boletus satanas"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-20T23:03:49+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Boletus+Satanas",
+        "query_name": "Boletus Satanas",
+        "retrieved_at": "2026-08-20T23:03:03+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0007153",
+        "query_name": "Boletus Satanas",
+        "retrieved_at": "2026-08-20T23:03:03+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0007153",
+        "query_name": "Boletus Satanas",
+        "retrieved_at": "2026-08-20T23:03:03+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Boletus+satanas",
+        "query_name": "Boletus satanas",
+        "retrieved_at": "2026-08-20T23:03:03+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 6,
+      "evidence_type": "text",
+      "page_text_sha256": "5271d56334889f3a033d541e6fb12cf490f21a0a5072955a971c0eec886ef7fb",
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e"
+    },
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 7,
+      "evidence_type": "text",
+      "page_text_sha256": "ed3bcbff17d245db7fd95c516d58e5ce9be86b467360ed0ae5710231e50f9f56",
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e"
+    },
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 8,
+      "evidence_type": "text",
+      "page_text_sha256": "aa325119749bf9e832248753f6809cbbbb89d013989c3696f5917278e4a4bfa0",
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-4:p0002-p0017:child-02:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "           Familie     :    Polyporaceae.                   (R e i h e   :    Autobasidiomycetes)                         Tr b u s\n                                                                                                                                i       :   Boleteae.          G a 11 un g     :",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 6,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 451,
+        "char_end": 758,
+        "source_line_start": 12,
+        "source_line_end": 13,
+        "page_text_sha256": "5271d56334889f3a033d541e6fb12cf490f21a0a5072955a971c0eec886ef7fb",
+        "exact_text_sha256": "0418b4ab98a0095535d67649de475b65050ce60d1ed80edcb2545f1fb8aabbee",
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "0418b4ab98a0095535d67649de475b65050ce60d1ed80edcb2545f1fb8aabbee",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-4:p0002-p0017:child-02:s01:x00",
+      "section_type": "description",
+      "original_text": "           Beschreibung*:                   Aus       einem     fadlichen,           im Waldhumus                    vegetierenden Gewebe,                    dem Myzel,\nentwickeln     sich,       wie       es      fiir    Amanita muscaria                     (Tafel 7) beschrieben wird, die Fruchtkorper des\n\nPilzes.    Diese gliedern sich in den Stiel imd                                dem diesem zentral aufsitzenden Hute.                                    Der         Stiel   ist\n\nam Grande dickbauchig und verjiingt sich allmahlich nach                                                 der     Spitze zu, sodaB er im ganzen eine\n\netwa bauchig-eiformige Gestalt besitzt.                             An       seinem Grande befindet                         sich,       wie bei alien Arten der\nGattung,      keine    Hiille,             auch       unterhalb         des Hutes          ist      kein sogenannter Ring vorhanden.                                Er mifit\n5   — 8 cm. Am Grande                      ist   er blut- oder          purpurrot,                 nach oben         zu heller, mehr oder minder gelb.\nIm unteren Teile ist er netzig-grubig, nach oben zu zeigt er eine feine rote Netzzeichnung.                                                                         Der Hut",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 6,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 782,
+        "char_end": 2072,
+        "source_line_start": 21,
+        "source_line_end": 31,
+        "page_text_sha256": "5271d56334889f3a033d541e6fb12cf490f21a0a5072955a971c0eec886ef7fb",
+        "exact_text_sha256": "8fc26ad6aa181b1bc75190b7617951473939ec04cec487b9f8b071fd66a16979",
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "8fc26ad6aa181b1bc75190b7617951473939ec04cec487b9f8b071fd66a16979",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-4:p0002-p0017:child-02:s02:x00",
+      "section_type": "distribution",
+      "original_text": "           Vorkommen Der Satanspilz findet sich in Waldern, aber auch unter einzelnen Baumen.\n                                 :\n\n\n\nEr ist nicht gerade haufig, besonders soil er sich auf Muschelkalk gerne                                                              finden.      Er   ist    verbreitet\nin    Nord- und Mitteleuropa und wurde auch                                   an     einigen          Orten      der Vereinigten Staaten von Nord-\namerika gefunden, so bei Ticonderoga (New York) und in Nord-Carolina.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 6,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 3923,
+        "char_end": 4441,
+        "source_line_start": 56,
+        "source_line_end": 63,
+        "page_text_sha256": "5271d56334889f3a033d541e6fb12cf490f21a0a5072955a971c0eec886ef7fb",
+        "exact_text_sha256": "6b53cf4c41bdd7e6e33819ac3d661ca2a9ad37653e68221c17b4b7f7e6e8152b",
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "6b53cf4c41bdd7e6e33819ac3d661ca2a9ad37653e68221c17b4b7f7e6e8152b",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-4:p0002-p0017:child-02:s03:x00",
+      "section_type": "historical_use",
+      "original_text": "             Lenz    verspiirte       schon heftige Beschwerden im Nervensystem und Verdauungskanal                                    beim\nZerkauen kleiner          Pilzstiicke,    die   jedoch     nicht    hinuntergeschluckt warden.                  Spater trat Mattigkeit\nund Erbrechen auf.           Schon die Ausdiinstung des               Pilzes       soil    sehr   anangenehm wirken.             Jedenfalls\nruft   im allgemeinen der GenuB des Pilzes                  schwere        Storungen        des Magendarmkanals             hervor.     Die\nSymptome,        die je   nach der genossenen Menge            friiher      oder      spater      eintreten,     sind Schwindelgefiihl,\nheftige      Leibschmerzen mit qualendem Angstgefiihl und eiskaltem SchweiB,                             fast unstillbares Erbrechen\n\nmit oft blutigem Durchfall.              Der Leib ist dabei so stark aufgetrieben, daB jede Beruhrung schmerzhaft\nist.   Der Puis ist klein, eine Ohnmacht folgt auf die andere.                             Der Tod tritt im tiefsten Kollaps ein.\nNach anderen Autoren soil der                Pilz   zwar    giftig,   jedoch        nicht    iibermaBig        gefahrlich    sein.     Nach\nMo Her ist er mehrfach ohne Schaden genossen worden und vereinzelt vorgekommene Vergiftungen\nsind meist giinstig verlaufen.                      M         nimmt         die    G-iftigkeit     des Pilzes      beim     Kochen oder\nTrocknen ab.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 7,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 1356,
+        "char_end": 2806,
+        "source_line_start": 19,
+        "source_line_end": 31,
+        "page_text_sha256": "ed3bcbff17d245db7fd95c516d58e5ce9be86b467360ed0ae5710231e50f9f56",
+        "exact_text_sha256": "15bb1dd7570fc67f1cdecb2df18cee58d2e7a95a17a22e8d9ad01a161a80aef3",
+        "section_index": 3,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "15bb1dd7570fc67f1cdecb2df18cee58d2e7a95a17a22e8d9ad01a161a80aef3",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-4:p0002-p0017:child-02:s04:x00",
+      "section_type": "constituents",
+      "original_text": "                Bestandteile des Satanspilzes                        :    Wahrscheinlich                  ist    die    Giftwirkung des Satanspilzes auf\norganische Basen zuriickzutuhren.                         Der Pilz enthalt Cholin und nach Utz, zwar in geringer Menge,\neine zweite, Boletin genannte Base, die                               dem Cholin nahezustehen scheint.                                Sie bildet         nahezu weiBe\nKristalle, ist leicht loslich in                  Alkohol und verdiinnten                           Sauren,        fast    unloslich         in   Wasser, und gibt\nmit Platinchlorid und mit NeBlerschem                                    Eeagens         starke          kristallinische          Niederschlage,             wahrend sie\nmit      Tannin        und Jodjodkalium                 keine,       mit        Goldchlorid              und      Kaliumquecksilberjodid                     nur     geringe\nTriibungen gibt.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 8,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 52,
+        "char_end": 1012,
+        "source_line_start": 6,
+        "source_line_end": 12,
+        "page_text_sha256": "aa325119749bf9e832248753f6809cbbbb89d013989c3696f5917278e4a4bfa0",
+        "exact_text_sha256": "5ea41c1c965378305cc72aaedc340e8fe8b7bd3f39981aee56d00a60f1fff087",
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "5ea41c1c965378305cc72aaedc340e8fe8b7bd3f39981aee56d00a60f1fff087",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "2ff9df1a79d93f1bba61e8259ef4c484fc5defefde11d2033df6626db07556b6",
+    "maker_receipt_sha256": null,
+    "validation_check_sha256": null,
+    "source_disposition_sha256": "168ffabebc2f9627da168a4fcb84ccea25c3d883d6df5f2447f1321a20ee365f",
+    "candidate_source_chain": {
+      "source_disposition_sha256": "168ffabebc2f9627da168a4fcb84ccea25c3d883d6df5f2447f1321a20ee365f",
+      "boundary_overlay_plan_sha256": "c7c0253e52f0583570699f98cc9c8fa3dda15857551bc2b94d6430ed0afd008a",
+      "boundary_segment_sha256": "7a63c138f7aaa6585798cbd3a20cfe2a32f6bbc5f1473ede7cc7320f583234d0",
+      "source_parent_entry_id": "kohler-volume-4:p0002-p0017",
+      "continuation_v2_receipts": [
+        {
+          "package_id": "kohler-volume-4:p0002-p0017:child-02:continuation-01",
+          "package_sha256": "d33e80575cb99241886b2b76fd9c2646125c2c025b58705d841cd07e07be0911",
+          "receipt_sha256": "9de2c8b09169153fa4d628da9786d1b83e96b322784326d27f358b25a33e4426",
+          "attempt_sha256": "59242464071a6c085bf395b6978724a476334bb552616b7a05fa92d4ac400bee",
+          "validation_check_sha256": "64f313205f58a48bbe1f199490854c1cc9c5c347b3f26a91bc8e45c78fb93c51"
+        }
+      ]
+    },
+    "naming_artifact_sha256": "d055f4a0d92e77b644975363f76f02ae0dff5896e7c23a83923b9c231eefdf7f"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "485765bd0cc4706bc5296c7ed62327136263250c02a8fb700e1293ea17eeaab3"
+}

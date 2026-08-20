@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 5,
+  "owner_shard": "S03",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "af32595a5155e20b37c8e21d0f32df9805f59b8f08c85c3fb7738b6def93b989",
+  "render_dpi": 144,
+  "render_sha256": "5d858473d8fe58a8453c4c00fdae9f3ab1caed30aa48a8c0ded853b0ab8f98d0",
+  "engine": "Apple Vision VNRecognizeTextRequest accurate",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 37.888,
+  "embedded_character_count": 150,
+  "ocr_character_count": 104,
+  "ocr_alpha_ratio": 0.8269,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.030563629808880055,
+      "text": "Sr. Königl. Hoheit",
+      "width": 0.39065817513209816,
+      "x": 0.2993630592492375,
+      "y": 0.7586805558095
+    },
+    {
+      "confidence": 1,
+      "height": 0.030557862349918974,
+      "text": "dem durchlauchtigsten Herrn",
+      "width": 0.6284500808605089,
+      "x": 0.18046709870633434,
+      "y": 0.6584302330014116
+    },
+    {
+      "confidence": 1,
+      "height": 0.041716269084385416,
+      "text": "HERZOG KARL IN BAYERN",
+      "width": 0.8841463263391237,
+      "x": 0.048780486525560246,
+      "y": 0.5458333331666667
+    },
+    {
+      "confidence": 1,
+      "height": 0.02959564186277841,
+      "text": "DR. MED.",
+      "width": 0.20398130818271498,
+      "x": 0.3948246312578265,
+      "y": 0.4953765978776137
+    },
+    {
+      "confidence": 1,
+      "height": 0.018912652182200618,
+      "text": "ehrfurchtsvollst gewidmet.",
+      "width": 0.4798301397802522,
+      "x": 0.25690022153237907,
+      "y": 0.40550595202144557
+    }
+  ],
+  "text": "Sr. Königl. Hoheit\ndem durchlauchtigsten Herrn\nHERZOG KARL IN BAYERN\nDR. MED.\nehrfurchtsvollst gewidmet.",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-ocr-sha256=e54202ae838c94203816fd3331f4c37f7acac436188d481eab506c540c3d66d6",
+  "input_sha256": "5d858473d8fe58a8453c4c00fdae9f3ab1caed30aa48a8c0ded853b0ab8f98d0",
+  "output_sha256": "91a458e880e6e2fe8cf40e9f0391273a119ad43c724a6203a1b67c6b7f8958d9",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "receipt_sha256": "c7eb2950877702f7e0875ba9c3057d07db03a561776c314be35b870013b7b4f5"
+}

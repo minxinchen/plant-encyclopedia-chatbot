@@ -1,0 +1,165 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-1:p0009-p0012",
+  "owner_shard": "S01",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S01/maker/structure-drafts/kohler-volume-1__p0009-p0012.json",
+  "source_draft_sha256": "b95f230a933f41a03c50be8b5b78c413dd65f13d0123b92e0fa603648afb579c",
+  "eligibility": {
+    "deterministic_status": "pass",
+    "checked_field": "deterministic_status",
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "11036c304816d89bbaf61987b535f7aa96d428abc7311e86419f1521152110f9",
+    "validation_check_sha256": "2fdc7ef31cc2d1054bd8b272d70034ed40d436c388047041a28290b4ee49a7c4",
+    "source_disposition_sha256": "a264163dc376b1b54abc96a1204e42585ba559bc9ca49f08f1392df457d061c7",
+    "review_status": "machine_extracted"
+  },
+  "book_name": {
+    "scientific_name_candidate": "Laurus nobilis L.",
+    "authorship_candidate": null,
+    "aliases_candidates": [
+      "L. vulgaris Bauh."
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Laurus nobilis L.",
+      "Laurus nobilis"
+    ],
+    "accepted_scientific_name": "Laurus nobilis",
+    "display_name_zh_tw": "月桂",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0054184",
+    "rationale": "TaiCOL accepts the queried book binomial at species rank.",
+    "checked_at": "2026-08-13T12:27:08+08:00",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Laurus nobilis L.",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Laurus+nobilis+L.",
+      "retrieved_at": "2026-08-13T12:27:08+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Laurus nobilis",
+          "matched_name_id": 22768,
+          "taxon_id": "t0054184",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Laurus nobilis",
+          "accepted_name_id": 22768,
+          "accepted_usage": [
+            {
+              "usage_id": 272123,
+              "reference_id": 926,
+              "reference_type": "Book Chapter",
+              "publish_year": 1996,
+              "citation": "Liao, J.-C. (1996) 27. Lauraceae. In: Flora of Taiwan, 2 ed., vol. 2. 433–499.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 2994,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0054184",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0054184",
+          "taxon": {
+            "taxon_id": "t0054184",
+            "taxon_status": "accepted",
+            "name_id": 22768,
+            "simple_name": "Laurus nobilis",
+            "name_author": "L.",
+            "rank": "Species",
+            "common_name_c": "月桂",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": "cultured: Liao, 1996",
+            "not_official": false,
+            "updated_at": "2025-12-24"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Laurus nobilis",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Laurus+nobilis",
+      "retrieved_at": "2026-08-13T12:27:08+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Laurus nobilis",
+          "matched_name_id": 22768,
+          "taxon_id": "t0054184",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Laurus nobilis",
+          "accepted_name_id": 22768,
+          "accepted_usage": [
+            {
+              "usage_id": 272123,
+              "reference_id": 926,
+              "reference_type": "Book Chapter",
+              "publish_year": 1996,
+              "citation": "Liao, J.-C. (1996) 27. Lauraceae. In: Flora of Taiwan, 2 ed., vol. 2. 433–499.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 2994,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0054184",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0054184",
+          "taxon": {
+            "taxon_id": "t0054184",
+            "taxon_status": "accepted",
+            "name_id": 22768,
+            "simple_name": "Laurus nobilis",
+            "name_author": "L.",
+            "rank": "Species",
+            "common_name_c": "月桂",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": "cultured: Liao, 1996",
+            "not_official": false,
+            "updated_at": "2025-12-24"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

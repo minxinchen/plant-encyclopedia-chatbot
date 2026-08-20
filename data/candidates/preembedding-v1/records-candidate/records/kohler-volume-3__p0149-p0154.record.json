@@ -1,0 +1,274 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-3-p0149-p0154",
+  "entry_id": "kohler-volume-3:p0149-p0154",
+  "owner_shard": "S06",
+  "book_taxon": {
+    "scientific_name": "Chrysanthemum cinerariaefolium",
+    "authorship": "(Bocconi) Bentham & Hooker",
+    "aliases": [
+      "Chrysanthemum Turreanum Visiani",
+      "Ohr. Willemotii Duchartre",
+      "Pyrethrum cinerariaefolium Treviranus",
+      "Zanacetum cinerariaefolium C. H. Schultz Bipont"
+    ]
+  },
+  "display_name": "除蟲菊",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Chrysanthemum cinerariaefolium"
+    ],
+    "accepted_scientific_name": "Chrysanthemum cinerariaefolium",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T16:46:57+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Chrysanthemum+cinerariaefolium",
+        "query_name": "Chrysanthemum cinerariaefolium",
+        "retrieved_at": "2026-08-13T16:46:57+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0073232",
+        "query_name": "Chrysanthemum cinerariaefolium",
+        "retrieved_at": "2026-08-13T16:46:57+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0073232",
+        "query_name": "Chrysanthemum cinerariaefolium",
+        "retrieved_at": "2026-08-13T16:46:57+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL accepts the queried book binomial at species rank."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 149,
+      "evidence_type": "text",
+      "page_text_sha256": "0b48831eb92274c3480a8e63cbc625b7ed1d8b99539a6108aaff25ca29ab33bc",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 150,
+      "evidence_type": "text",
+      "page_text_sha256": "376fd2f1c31fb27791bfb2c1faa49a9b50b32fdc8682a0b0eb2c45040853d8ce",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 151,
+      "evidence_type": "text",
+      "page_text_sha256": "30e23f61b86d4ea117b8dc0b93e8bdd3a30fe6635b7ed216896350764e9cb52f",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 153,
+      "evidence_type": "text",
+      "page_text_sha256": "37aedfc4fcc6fe29bf57fff8c294844edfef825b7ff4da7d9831d288536f9689",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-3:p0149-p0154:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "           Chrysanthemum cinerariaefolium                                                    (Bocconi)\n                       Bentham & Hooker.\n                  Aschenkrautblättrige             Wucherblume,          Dalmatinisches      Flohkraut.\n        Syn. Chrysanthemum Turreanum Visiani. Ohr. Willemotii Duchartre.                          Pyrethrum cinerariae-\nfolium Treviranus.  Zanacetum cinerariaefolium C. H. Schultz Bipont.\n        Familie: Composite. Unterabteilung: Tubuliflorae Section: Senecionoideae Unter-\nfamilie: Anthemideae.   Gattung: Ohrysanthemum L. Rotte: Pyrethrum Bentham & Hooker.",
+      "normalized_text": null,
+      "zh_tw_rendering": "菊科，管狀花亞科，菊亞科，菊屬，除蟲菊組。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 149,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 609,
+        "page_text_sha256": "0b48831eb92274c3480a8e63cbc625b7ed1d8b99539a6108aaff25ca29ab33bc",
+        "exact_text_sha256": "3535d50992b0cf1c6895c5454e594db843bda7f285fb6edf45cd3a21965a57d7",
+        "source_line_start": 1,
+        "source_line_end": 7,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "3535d50992b0cf1c6895c5454e594db843bda7f285fb6edf45cd3a21965a57d7",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0149-p0154:s01:x00",
+      "section_type": "description",
+      "original_text": "           Beschreibung.          Aus dem ausdauernden Wurzelstock entspringen zahlreiche blühende,\n30—40 cm hohe, schmutzig grüne, grauhaarige, 5—6-kantige, streifige, ziemlich blattarme Stengel\nund    einzelne    nicht     blühende Triebe.         Die     5—6      Stengelblätter     sind wechselständig,           unten\nlänger,    oben kürzer       gestielt,   einfach    oder    doppelt    fiederschnittig,   unterseits     dicht grauseiden-\nhaarig, oberseits mehr oder weniger kahl mit leuchtend gelben kleinen mehrzelligen, gestielten\nDrüsen bedeckt. — Die Stengelblätter sind am Grunde des Stengels etwa 8—10 cm lang\nund 1,5 em breit, weiter oben zwar nicht an Breite, wohl aber an Länge bis zu 3 cm ab-\nnehmend. Jedes von ihnen hat 4-6 wechselständige Fiedern erster Ordnung und eine drei-\nlappige Spitze; die Fiedern bestehen wiederum aus einem 2—-teiligen, nach rückwärts ge-\nrichteten Lappen mit 2—3 Zipfeln dicht an der Blattspindel, 2—3 grobzähnigen Fiederlappen\nund einem wenigstens dreizipfeligen Endlappen. Alle Zipfel sind linealisch, unter 50° spreizend\nund endigen mit stumpfen Spitzchen.                  Der Blattstiel der Stengelblätter wird höchstens 3—5 cm\nlang; an nicht blühenden Trieben aber erheblich länger;                            der    Blattstiel ist bis 5 cm lang,\ndie Blattfläche 5 cm lang und 2 cm breit. Letztere besitzt                        6—8     meist gegenständige Fieder-\nlappen und einen dreizipfeligen Endlappen. Auch hier sind alle Zipfel linealisch, unter Winkeln\nvon 50° spreizend und stumpf   mit kurzem Spitzche n endigend . Der  Stengel   läuft in einen mit\neinfach fiedersc hnittige m Stützbla tt und 2—3 zerstreu ten, schmalli nealen oder pfriemli chen Blätt-\nchen    besetzte n, 25—30    em   langen   einköpfi  gen  dicht   angedrü ckt  weissha  arigen   Blütenst iel  aus;",
+      "normalized_text": null,
+      "zh_tw_rendering": "多年生，莖高30-40公分，灰綠色，多毛，葉互生，羽狀分裂，花序頂生。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 149,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 610,
+        "char_end": 2442,
+        "page_text_sha256": "0b48831eb92274c3480a8e63cbc625b7ed1d8b99539a6108aaff25ca29ab33bc",
+        "exact_text_sha256": "4413dc72f8d44c29e9f3c3150f4be9651cfcc83978ef213181b63809a19d08ea",
+        "source_line_start": 8,
+        "source_line_end": 25,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "4413dc72f8d44c29e9f3c3150f4be9651cfcc83978ef213181b63809a19d08ea",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0149-p0154:s02:x00",
+      "section_type": "distribution",
+      "original_text": "         Vorkommen. Die Heimat der Pflanze sind die holz- und wasserarmen, von Schluchten\nund Abgründen durchbrochenen Hochebenen von Montenegro und der Krivoscije, einer kleinen\nfelsigen Landschaft an der Südspitze der Dinarischen Alpenkette, im südlichsten Dalmatien\ngelegen; sie findet sich indessen auch gemein von Montenegro bis Südkroatien und von der\nHerzegowina bis zur dalmatischen Küste und wird im südlichen Dalmatien, von Spalato bis\nRagusa, sowie auf den Inseln kultiviert. — Andere Kulturen finden sich in Europa kaum\nnoch.   Man hatte früher Versuche    damit in Blankenburg bei Berlin auf den Rieselfedern\ngemacht, hat sie indessen, da die Blüten mit den Montenegriner Blüten nicht konkurrieren\nkonnten, wieder eingestellt.   Laut amerikanischen Berichten soll indessen der Anbau der\nPflanze in Kalifornien grössere Ausdehnungen gewinnen und sich im Jahre 1894\n                                                                               bereits auf\ndie Landschaften Merced, Los Angelos und einen Bergdistrikt von Santa\n                                                                          Cruz erstrecken.\nAuch in der Kapkolonie hat man mit der Kultur begonnen.",
+      "normalized_text": null,
+      "zh_tw_rendering": "原產黑山及達爾馬提亞，現於歐洲及加州等地栽培。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 150,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 3760,
+        "char_end": 4944,
+        "page_text_sha256": "376fd2f1c31fb27791bfb2c1faa49a9b50b32fdc8682a0b0eb2c45040853d8ce",
+        "exact_text_sha256": "a503db39fd2f0c7c7480da2e9754d4af161deca1615eba89337b0ebebf9192bc",
+        "source_line_start": 40,
+        "source_line_end": 53,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "a503db39fd2f0c7c7480da2e9754d4af161deca1615eba89337b0ebebf9192bc",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0149-p0154:s03:x00",
+      "section_type": "historical_use",
+      "original_text": "        Pharmaceutisch wichtig sind die noch nicht voll entwickelten (geschlossenen) Blüten-\nköpfe der Pflanze als Flores Chrysanthemi dalmatici und das Pulver derselben als dalmatisches\nInsektenpulver. Die Droge bildet: entweder die noch vollständig geschlossenen, flachen, fas\n                                                                                             t\nkuchenförmigen, 6 mm breiten, 3—4 mm hohen Knospen, welche stumpf, kegelförmi\n                                                                                        g und\n6—85 mm      hoch    werden,       wenn      die Strahlenblüten sich eben zu zeigen beginnen                            (geschlossene\nBlüten) oder die halbgeschlossenen Körbchen der Pflanze, bei. denen die\n                                                                             Randblüten\nzwar schon wenigstens zur halben Länge hervorgetreten sind, deren Zungen\n                                                                          aber noch der\nLänge nach zusammengerollt und nach rechts um die Axe\n                                                              des Körbchens zusammen-\ngedreht sind. Ihre Hüllkelche besitzen einen Durchmesser von 8-9\n                                                                   mm und eine Höhe\nvon   6 mm,       während        das ganze         Körbchen      12 mm         hoch     ist.    Sogenannte           geöffnete          Blüten",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：未開花蕾作達爾馬提亞除蟲菊粉，用於殺蟲。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 150,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 4945,
+        "char_end": 6377,
+        "page_text_sha256": "376fd2f1c31fb27791bfb2c1faa49a9b50b32fdc8682a0b0eb2c45040853d8ce",
+        "exact_text_sha256": "e66cf938381742ecb598bac6266b2c265839b8a22ffe9c3b5cc4414ea2cc8258",
+        "source_line_start": 54,
+        "source_line_end": 69,
+        "section_index": 3,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "e66cf938381742ecb598bac6266b2c265839b8a22ffe9c3b5cc4414ea2cc8258",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0149-p0154:s04:x00",
+      "section_type": "anatomy",
+      "original_text": "        Anatomisches.   Den Bau der dalmatischen Insektenpulverblüten haben Tschirch und\nOesterle 1895 (l. c.) ausführlich beschrieben und reich illustriert. Ich verweise auf diese\nausgezeichnete Arbeit, dieich hier nur in den Hauptmomenten skizziere.   Ebenso haben schon\nvorher Kirkby 1888, Unger 1888, Schrenk                           1889 und Hanausek                1888 anatomische Unter-\nsuchungen der Droge vorgenommen. —:Der 11—12riefige Blütenstiel trägt an den Riefen\nstarke Collenchymbeläge, in den Rillen dagegen nur Assimilationsg webe und auf der Ober-\nhaut der Rillen zahlreiche \"Tförmige Haare, welche einen 1—2 zelligen farblosen Stiel und\neinen langen spitz zulaufenden Querbalken besitzen, der indessen kein Sekret enthält. Da-\ngegen enthalten die in den Rillen liegenden Gefässbündel Sekretschläuche, die denen ders\nBlüten   (s. u.) entsprechen          und    mit gelbem       oder bräunlichem Sekret erfüllt Sue                     Die Hüll-",
+      "normalized_text": null,
+      "zh_tw_rendering": "解剖特徵：莖具T形毛，苞片含油腺，花冠管含乳汁管。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 151,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 4892,
+        "char_end": 5857,
+        "page_text_sha256": "30e23f61b86d4ea117b8dc0b93e8bdd3a30fe6635b7ed216896350764e9cb52f",
+        "exact_text_sha256": "49fd37a6f45abbf51993da2ee9c74c5eedffb565ddc5fcbb6f15f96ca62019e6",
+        "source_line_start": 54,
+        "source_line_end": 63,
+        "section_index": 4,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "49fd37a6f45abbf51993da2ee9c74c5eedffb565ddc5fcbb6f15f96ca62019e6",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0149-p0154:s05:x00",
+      "section_type": "constituents",
+      "original_text": "               Bestandteile.        Nach     Untersuchungen               von    Beringer          enthalten     die     dalmatischen\nInsektenblüten 2,49°/, Petroleumätherlösliches, 5,85°/, durch Äther, 6,57 %/, durch Alkohol\nAusziehbares, 6,7°/, Wasserlösliches, 6,50°%, Asche. — Unger fand 6,93—6,944 °/, harte,\nmanganhaltige            Asche.      Durch     seine      im Jahre    1890 vorgenommenen               Untersuchungen            isolierte\nThoms ätherisches Öl nebst einer flüchtigen Säure, einen wachsartigen Körper von\n56,5° Schmelzpunkt, eine balsamartige, Kaliumpermanganat reduzierende Säure, Chlorophyll,\nHarzsäure, Gerbsäure, einen alkaloidischen und einen glycosidischen Körper und Zucker.\nEr hielt das saure            ätherische Ol         für    den    wirksamen         Bestandteil.     Schlagdenhauffen                    und\nReeb bezeichnen dasselbe als Pyrethrotoxinsäure und haben gezeigt, dass diese Säure, subeutan\nappliciert, auch für grosse Tiere ein Giftist. Das Alkaloid Chrysantbemin wurde von ihnen\nin Form des Goldchloriddoppelsalzes in gelben Flocken und als Chlorhydrat isoliert. Letzteres\nist in Wasser, Alkohol und Äther leicht löslich; die wässrige Lösung giebt keine Nieder-\nschläge mit Pikrinsäure, Platinchlorid, Gerbsäure, Phosphorwolframsäure, Quecksilberchlorid ;\ndoch wird sie von Kaliumwismutjodid gelb, durch Kaliumquecksilberjodid weisslich gelb, durch\nNatriumplatinchlorid braun gefällt. Das Goldsalz entspricht der Formel C1H%#0O>N?01?.2AuCl®.",
+      "normalized_text": null,
+      "zh_tw_rendering": "成分：含菊毒素酸、菊素、揮發油、樹脂酸及糖苷等。",
+      "evidence_indexes": [
+        3
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 153,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 3894,
+        "char_end": 5392,
+        "page_text_sha256": "37aedfc4fcc6fe29bf57fff8c294844edfef825b7ff4da7d9831d288536f9689",
+        "exact_text_sha256": "fe2044b113e0543760f6039be1974a3e52a5e6a6fcf9a2fc69d19a8a00dcd823",
+        "source_line_start": 42,
+        "source_line_end": 56,
+        "section_index": 5,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "fe2044b113e0543760f6039be1974a3e52a5e6a6fcf9a2fc69d19a8a00dcd823",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "ca153b8604b0199347d0b6bf40c45470a3f990e53b9b9d87dd264b6016694563",
+    "maker_receipt_sha256": "a37155e9e1bbbb096b6e17aaddbc2a22bdb79acfc5d0ccc688cfd250f5a15a45",
+    "validation_check_sha256": "a3a312b525712dad3e3ba930ce7d389015bb54b6a55b3a88a22c7d02e34e04ef",
+    "source_disposition_sha256": "8722b457e40b9886a50a3530be46300b3282fb566e47acf2c8b148d413d488b4",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "a37155e9e1bbbb096b6e17aaddbc2a22bdb79acfc5d0ccc688cfd250f5a15a45",
+      "validation_check_sha256": "a3a312b525712dad3e3ba930ce7d389015bb54b6a55b3a88a22c7d02e34e04ef",
+      "source_disposition_sha256": "8722b457e40b9886a50a3530be46300b3282fb566e47acf2c8b148d413d488b4"
+    },
+    "naming_artifact_sha256": "3cdd03b820157dab6f650b8c39a64caa2f4eab6fe1cf518f728463411499fc9d"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "329c6e9c7d1ba91ba646091d7624faf702598274b14d3cc5301fdfa25c6c7935"
+}

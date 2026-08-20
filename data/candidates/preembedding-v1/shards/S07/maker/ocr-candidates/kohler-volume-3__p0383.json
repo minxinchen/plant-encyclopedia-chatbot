@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 383,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "ec20876f713a1fc413b46fd3727235268c43912b47f98eaf296678dd62ac255e",
+  "render_dpi": 144,
+  "render_sha256": "d5b1fcbee6cabd20a5052ca527277d9b16a6d723a851aa4c61ae8a595f2301df",
+  "input_sha256": "d5b1fcbee6cabd20a5052ca527277d9b16a6d723a851aa4c61ae8a595f2301df",
+  "engine": "Apple Vision VNRecognizeTextRequest accurate",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-ocr-sha256=e54202ae838c94203816fd3331f4c37f7acac436188d481eab506c540c3d66d6",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 17.539,
+  "embedded_character_count": 294,
+  "ocr_character_count": 39,
+  "ocr_alpha_ratio": 0.7949,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.021088157381330186,
+      "text": "Sapotaceae",
+      "width": 0.09286279842206294,
+      "x": 0.04008771459495983,
+      "y": 0.956025688961755
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010174418252611894,
+      "text": "6",
+      "width": 0.010060362144024504,
+      "x": 0.3118712274541447,
+      "y": 0.12936046516511857
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02183116428435794,
+      "text": "Payena Leerii. Benth Hook.",
+      "width": 0.21730382335964343,
+      "x": 0.4104627782598161,
+      "y": 0.05232558160103862
+    }
+  ],
+  "text": "Sapotaceae\n6\nPayena Leerii. Benth Hook.",
+  "output_sha256": "bf4520ca2e32efcc7eeab688ae2e37352c994a39d4dfffa9ff6d07dfaf61e797",
+  "receipt_sha256": "f2908018c39bdc2b5fbce2db5e8e6543cb97165a9fe0752ade39487961d64662"
+}

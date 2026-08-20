@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0269-p0270",
+  "owner_shard": "S03",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 110.949,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0269-p0270",
+    "book_taxon": {
+      "scientific_name_candidate": "Arctostaphylos Uva ursi Spr.",
+      "authorship_candidate": null,
+      "aliases_candidates": [
+        "A. officinalis Wimm. et Grab.",
+        "A. procumbens E. Meyer.",
+        "Arbutus Uva ursi L."
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "description",
+        "pdf_page": 269,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "矮小常綠灌木，匍匐莖長至1米，叢生。老莖無毛，覆深棕色軟木，後脫落。",
+        "warnings": [],
+        "source_line_range": [
+          8,
+          15
+        ],
+        "exact_source_quote": "          Beschreibung.        Kleiner,      ausdauernder   Strauch mit niederliegenden,         zu   mehreren     aus     einer\n Wurzel entspringenden, wurzelnden, reichverzweigten, !/; bis 1 Meter langen, fórmli\n Stämmchen un\n                                                                                     ch e Ra se n bi ld en de n\n               d Aesten.   Aeste flach ausgebreitet, die blüthenentwickelnden aufsteigend.   Stamm und\n alte Aeste kahl, mit einem dunkelbraunen Korke bedeckt, der sp\n                                                                   äter schuppen- oder ringförmig abge-\nstossen und durch eine hellbraungelbe oder braunrothe, glatte Rinde ersetzt wird."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 269,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "葉橫切面顯示厚實組織，上層細胞呈柵狀排列，下層為海綿組織。表皮細胞壁厚。",
+        "warnings": [],
+        "source_line_range": [
+          49,
+          53
+        ],
+        "exact_source_quote": "         Anatomisches.          Der    Blattquerschnitt     zeigt   nach      Flückiger   ein    derbes     Gewebe,      dessen\nZellen in der oberen Hälfte dicht palissadenartig dreireihig senkrecht übereinander stehen und nach\n unten allmählich in ein Schwammparenchym übergehen. Die namentlich auf der Unterseite mit zahl-\nreichen Spaltöffnungen ausgestattete Epidermis besteht aus dickwandigen, vieleckigen Zellen. Die starken\nGefässbündel enthalten Oxalatdrüsen."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 269,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分佈於北半球針葉林與荒原。中南部僅見於山區，北歐可達低地，南挪威海拔1500米。",
+        "warnings": [],
+        "source_line_range": [
+          55,
+          58
+        ],
+        "exact_source_quote": "         Vorkommen.       In Nadelwäldern und auf Haiden über den grössten Theil der nördlichen\nHalbkugel verbreitet. Im mittleren und südlichen Gebiete nur in den Gebirgen auftretend; im Norden\nbis in die Niederungen herabgehend. In Stidnorwegen bis zu einer Höhe von 1500 Metern vor-\nkommend."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 269,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "北歐自古使用。13世紀威爾斯藥典記載。19世紀初由de Haan與Murray引入德國藥典。",
+        "warnings": [],
+        "source_line_range": [
+          64,
+          72
+        ],
+        "exact_source_quote": "         In den nordischen Lündern ist die Bürentraube und ihre arzneili               :\n                                                                               che Verwendung jedenfalls\nSchon lange bekannt gewesen.       Zwar spricht schon Galenus (181—201 n. Chr.) von einer wa ursi;\nhierunter ist jedoch nicht unsere Pflanze, sondern Vaccinium Arctostaphylos L. zu verstehen. Mit Sicher-\nheit tritt die Bärentraube zuerst in Meddygon Myddvai, einem alten Arzneibuch von Wales aus dem\n13. Jahrh. auf. In Deutschland war Tragus der erste, welcher eine Beschreibung der Pflanze liefe\n                                                                                                       rte.\nZu Anfang dieses Jahrhunderts wird die Bärentraube von spanischen, italienischen und franzósischen Aerzten\nbenutzt und auf Empfehlung von de Haan in Wien und Murray in den Arzneischatz eingeführt."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 270,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含熊果酸、單寧、樹脂、葉綠素、熊果苷、Ericolin、脂肪、蠟、糖及微量精油。",
+        "warnings": [],
+        "source_line_range": [
+          16,
+          21
+        ],
+        "exact_source_quote": "         Bestandtheile. Die getroc          kne ten   Bär ent rau ben blä tte r   ent hal ten  nac  h  Mei ssn  er:    1,29 /,  Gal  lus -\nsäure, 36,4%, Gerbsüure,     4,4\" /,   Har z,   6,5 5%,   Chl oro phy ll,   3,5  1%,   Ext rak tiv sto ff  mit   äpf els aur  em    Kal  k\nund Chlornatrium ,  0,87 9),  Ext rak tab sat z   mit  cit ron ens aur em   Kal k,   15, 7%,   Gum  mi,   17, 6  ۵    Ext rak tiv sto ff.\nKawalier best reit et das Vor han den sei n von Ger bst off und setz t an des sen Stel le die Gal lus sáu re;                      letzterer\nfan d \"au sse rde m ein en   kry sta lli nis che n  Bitt erst off:  Arb uti n,   eine  and ere   Sub sta nz,   Eri col in,   Fet t,   Wac hs,\nZucker, Harz und Spu       r  von   äth  eri sch em   Oele .   Tro msd  orf    fan d  noc h ein en  eig ent  hüm lic hen   Kör per  :  Urs on."
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 270,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "圖示開花植株、果枝、花放大、縱切、去花冠、雄蕊、花粉、雌蕊、子房橫切及果實。",
+        "warnings": [],
+        "source_line_range": [
+          67,
+          70
+        ],
+        "exact_source_quote": "           A blühende Pflanze, nat. Grösse; B Fruchtzweig, desgl; 1 Blüthe, vergrössert; 2 dieselbe im Längsschnitt,\ndesgl; 3 dieselbe ohne Krone, desgl; 4 Staubgefässe, desgl; 5 Pollen, desgl; 6 Stempel, desgl; 7 Fruchtknoten im\nQuerschnitt, desgl; 8 Frucht, desgl; 9 dieselbe im Querschnitt, desgl; 10 u. IL Steinkern, von verschiedenen Seiten,\ndesgl; 12 derselbe im Längsschnitt, desgl. Nach einer Originalzeichnung des Herm Prof. Schmidt in Berlin."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "1329d34766127a908bc1586419c562c47f6a6e20f5a8a39eae1b742c5d06c3e3"
+}

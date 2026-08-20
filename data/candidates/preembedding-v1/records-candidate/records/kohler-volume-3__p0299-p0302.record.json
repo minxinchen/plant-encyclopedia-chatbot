@@ -1,0 +1,271 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-3-p0299-p0302",
+  "entry_id": "kohler-volume-3:p0299-p0302",
+  "owner_shard": "S07",
+  "book_taxon": {
+    "scientific_name": "Calendula officinalis",
+    "authorship": null,
+    "aliases": [
+      "Ringelblume",
+      "Totenblume",
+      "Dotterblume",
+      "Studentenblume",
+      "Warzenkraut",
+      "Tous les mois",
+      "Soubi",
+      "Marigold",
+      "Goudsbloom"
+    ]
+  },
+  "display_name": "金盞花",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Calendula officinalis"
+    ],
+    "accepted_scientific_name": "Calendula officinalis",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T16:02:06+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Calendula+officinalis",
+        "query_name": "Calendula officinalis",
+        "retrieved_at": "2026-08-13T16:02:06+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0040554",
+        "query_name": "Calendula officinalis",
+        "retrieved_at": "2026-08-13T16:02:06+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0040554",
+        "query_name": "Calendula officinalis",
+        "retrieved_at": "2026-08-13T16:02:06+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL accepts the queried book binomial at species rank."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 299,
+      "evidence_type": "text",
+      "page_text_sha256": "44966f6f1c5a5a78b6194145fa8ecb2b254680067e84dd547e6e5044a95acb7a",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 300,
+      "evidence_type": "text",
+      "page_text_sha256": "dd98cc23add95c7bc47c37d6f53355090713184809695e93f7a6d5619a26b4fe",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 301,
+      "evidence_type": "text",
+      "page_text_sha256": "4b88bb2e1a4223cde1f500294dc6de75c7f668cbc3ab6e88bad8b2de0d2d1f25",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-3:p0299-p0302:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "            Familie: Compositae Adans.                           Sekt.: Cynareae Juss.               Trib.: Calenduloideae Less.                 Unter-\nfamilie: Calenduleae Less.                     Gattung:                Calendula L.",
+      "normalized_text": null,
+      "zh_tw_rendering": "菊科，Cynareae族，Calenduloideae亞科，Calenduleae族，Calendula屬。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 299,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 390,
+        "char_end": 625,
+        "page_text_sha256": "44966f6f1c5a5a78b6194145fa8ecb2b254680067e84dd547e6e5044a95acb7a",
+        "exact_text_sha256": "03abb5d1cdfd588e2aa33807b43ff520d9128e12a40ac8a5d6224fde80cad276",
+        "source_line_start": 5,
+        "source_line_end": 6,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "03abb5d1cdfd588e2aa33807b43ff520d9128e12a40ac8a5d6224fde80cad276",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0299-p0302:s01:x00",
+      "section_type": "description",
+      "original_text": "            Besehreibung.               Die einjährige, selten zweijährige, bis 50 cm hohe Pflanze besitzt eine\ngelblichweisse             Pfahlwurzel             mit     wenigen           Seitenzweigen          und     Nebenwurzeln.               Der     krautige\nStengel verästelt             sich     bald        über         dem    Boden;         er ist fast stielrund,          wenig       kantig und         meist\netwas filzig behaart.               Vom Grunde an ist er mit wechselständigen,                                nicht sehr entferntstehenden,\netwa     10 bis 15 cm           langen,        5 bis 4 cm               breiten,       sitzenden,     spatelförmigen,             zugespitzten,       ent-\nfernt kleinzähnigen,                filzig behaarten Blättern besetzt.                        Aus    den Achseln           derselben       entspringen\ndie Seitenäste, welche, wie der Stengel, filzig behaart und mit allmählich kleiner werdenden\nBlättern         besetzt    sind.      Letztere           gehen        dann       allmählich    in die Blättchen des Hüllkelches über.",
+      "normalized_text": null,
+      "zh_tw_rendering": "一年生，高至50公分，具黃白色主根。莖多分枝，被毛。葉互生，無柄，匙形，長10-15公分，邊緣具小齒。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 299,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 627,
+        "char_end": 1720,
+        "page_text_sha256": "44966f6f1c5a5a78b6194145fa8ecb2b254680067e84dd547e6e5044a95acb7a",
+        "exact_text_sha256": "6942f26d5de6278edb61d567ab4785273918b24d4d37f522ba3685ecd8953331",
+        "source_line_start": 8,
+        "source_line_end": 15,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "6942f26d5de6278edb61d567ab4785273918b24d4d37f522ba3685ecd8953331",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0299-p0302:s02:x00",
+      "section_type": "flowering",
+      "original_text": "            Blütezeit.         Juni bis August.",
+      "normalized_text": null,
+      "zh_tw_rendering": "花期為六月至八月。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 300,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 2409,
+        "char_end": 2456,
+        "page_text_sha256": "dd98cc23add95c7bc47c37d6f53355090713184809695e93f7a6d5619a26b4fe",
+        "exact_text_sha256": "0266ec97e963659f4657d8d35fba6918a60ea2658b7e2fbb370085c00e3c8acf",
+        "source_line_start": 30,
+        "source_line_end": 30,
+        "section_index": 2,
+        "section_type": "flowering"
+      },
+      "exact_text_sha256": "0266ec97e963659f4657d8d35fba6918a60ea2658b7e2fbb370085c00e3c8acf",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0299-p0302:s03:x00",
+      "section_type": "distribution",
+      "original_text": "       Vorkommen und Kultur. Die Pflanze wächst in den Mittelmeerländern, den Kanarischen\nInseln und im Orient wild: in Deutschland ist sie eine überaus häufige Zierde der Bauern-\ngärten,       und     findet     sich     deshalb     verwildert        und     bisweilen       als    Gartenflüchtling          vor.      In",
+      "normalized_text": null,
+      "zh_tw_rendering": "野生於地中海、加那利群島及東方；德國農園常見，亦作逸生植物。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 300,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 2458,
+        "char_end": 2779,
+        "page_text_sha256": "dd98cc23add95c7bc47c37d6f53355090713184809695e93f7a6d5619a26b4fe",
+        "exact_text_sha256": "d95f40bc74f6f2b8fdb4558ce0387f07364f4b5b1a9951ae53626d8109a9a6ce",
+        "source_line_start": 32,
+        "source_line_end": 34,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "d95f40bc74f6f2b8fdb4558ce0387f07364f4b5b1a9951ae53626d8109a9a6ce",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0299-p0302:s04:x00",
+      "section_type": "constituents",
+      "original_text": "           Bestandteile.         Die Ringelblumen enthalten etwas ätherisches Öl, Bitterstoff, Calendulin,\nApfelsäure       und    ihre Salze, Asche.           Das Calendulin,              dessen     chemische Natur           noch    wenig   be-\nkannt     ist, erhält man        aus    dem    Extrakt      der Blätter        und      Blüten    der Pflanze        durch     Behandeln\ndesselben        mit Wasser       und    Äther;      es    bildet       eine gelbliche       durchsichtige      zerreibliche        Masse\nohne Geruch,           Geschmack         und Reaktion,",
+      "normalized_text": null,
+      "zh_tw_rendering": "含揮發油、苦味質、金盞花素、蘋果酸及其鹽類、灰分。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 301,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 2271,
+        "char_end": 2846,
+        "page_text_sha256": "4b88bb2e1a4223cde1f500294dc6de75c7f668cbc3ab6e88bad8b2de0d2d1f25",
+        "exact_text_sha256": "3c8384699d0cf396b8a415b8bdd15fa74ad3bdc698b2818af6c72b5608d0a051",
+        "source_line_start": 30,
+        "source_line_end": 34,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "3c8384699d0cf396b8a415b8bdd15fa74ad3bdc698b2818af6c72b5608d0a051",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0299-p0302:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "           Anwendung.          Man benutzte          früher das im frischen Zustande stark und eigentümlich\nriechende,       scharf und      bitter schmeckende Kraut als schweisstreibendes oder eröffnendes\n                                                                                                  Mittel\nbei Gelbsucht, Amenorrhöe ‚, Leber- und Milzanschwellung, sowie gegen Krebs.",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史上曾用作發汗或瀉下劑，治療黃疸、閉經、肝脾腫大及癌症。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 301,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 3448,
+        "char_end": 3835,
+        "page_text_sha256": "4b88bb2e1a4223cde1f500294dc6de75c7f668cbc3ab6e88bad8b2de0d2d1f25",
+        "exact_text_sha256": "5f002838b2a92a0a4c5224813f8a0124cb90deedfb0161b7dce529c0aef6730e",
+        "source_line_start": 44,
+        "source_line_end": 47,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "5f002838b2a92a0a4c5224813f8a0124cb90deedfb0161b7dce529c0aef6730e",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "7e40f5aef5d084a3b78c48bd22d448656f102879d6007d0e83802e23453565dd",
+    "maker_receipt_sha256": "71a1d9f0b962ec28364afd9c74ea7de7e33c2c255e27b66543bd6940d6ea5965",
+    "validation_check_sha256": "b136e18f80fa73f842548fd9700b74a29481f706a95dcb10fea2c842af316acd",
+    "source_disposition_sha256": "35a6eeda15e25fb3ae410c17fb1e55e72021a5c7419bb751156ea7c6255a7c19",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "71a1d9f0b962ec28364afd9c74ea7de7e33c2c255e27b66543bd6940d6ea5965",
+      "validation_check_sha256": "b136e18f80fa73f842548fd9700b74a29481f706a95dcb10fea2c842af316acd",
+      "source_disposition_sha256": "35a6eeda15e25fb3ae410c17fb1e55e72021a5c7419bb751156ea7c6255a7c19"
+    },
+    "naming_artifact_sha256": "5cb4b29f350f0e5780dc1e083130c0dc1fd9712d6917d156a4bd85a2fdfbd91f"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "852a2fc3e6ca886aa386a97db269e5996637c7a40ec9f44dc10c4a0797d16368"
+}

@@ -1,0 +1,155 @@
+{
+  "schema_version": "2.0",
+  "package_id": "kohler-volume-3:p0067-p0074:child-01:continuation-02",
+  "parent_entry_id": "kohler-volume-3:p0067-p0074",
+  "child_entry_id": "kohler-volume-3:p0067-p0074:child-01",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation-v2:kohler-volume-3:p0067-p0074:child-01:continuation-02:v1",
+  "owner_shard": "S06",
+  "package_sha256": "558f9c9b9549692eee8fbf37486468716ff76e2a303cbc2f79f965f696d91883",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "prompt_version": "plant-structure-line-coordinates-v2",
+  "attempt_sha256": "0343fed88541bbebc59de8cfc145e743edee860f240c6fa1127858b1b9058420",
+  "raw_response_sha256": "887bf5a79758eacb2edcbd450ac4f5bf6819813db5861483d2c9e79af5e55dea",
+  "elapsed_seconds": 12.102,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 73,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 1146,
+      "char_end": 2050,
+      "source_line_start": 15,
+      "source_line_end": 24,
+      "page_text_sha256": "6ac19ac533ae40283743c0f8679ba1bc8dc5ab99a0035a85f63d038b052fde53",
+      "exact_text_sha256": "4ec710cdf2382df3133be6f2acc1e77012c4f4ae33f64b50a315f626fef72d22",
+      "section_index": 0,
+      "section_type": "historical_use"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 73,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 2051,
+      "char_end": 4376,
+      "source_line_start": 25,
+      "source_line_end": 49,
+      "page_text_sha256": "6ac19ac533ae40283743c0f8679ba1bc8dc5ab99a0035a85f63d038b052fde53",
+      "exact_text_sha256": "2529d4e094a2cea5a4bbf03f92c5f73ecc9402cf5630e960dcda54d70a0b75e3",
+      "section_index": 1,
+      "section_type": "history"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 73,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 4378,
+      "char_end": 5605,
+      "source_line_start": 51,
+      "source_line_end": 63,
+      "page_text_sha256": "6ac19ac533ae40283743c0f8679ba1bc8dc5ab99a0035a85f63d038b052fde53",
+      "exact_text_sha256": "df24ea2d0569bcd04266f3d489fad18700468922cc2ff3041c4543e843209398",
+      "section_index": 2,
+      "section_type": "constituents"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 74,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 218,
+      "char_end": 1049,
+      "source_line_start": 5,
+      "source_line_end": 12,
+      "page_text_sha256": "bfbd6e0e61dbb5541441a83f4bb8ce6e5b6b70e69836bbf205210e936864f308",
+      "exact_text_sha256": "9ff1f5936ed3828fd01cf859273305a21f6543d05e22e2b96384115c5103b817",
+      "section_index": 3,
+      "section_type": "literature"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 74,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 1050,
+      "char_end": 1321,
+      "source_line_start": 13,
+      "source_line_end": 15,
+      "page_text_sha256": "bfbd6e0e61dbb5541441a83f4bb8ce6e5b6b70e69836bbf205210e936864f308",
+      "exact_text_sha256": "c958f51a123dcb57b70ecb43b7b43267f6892e17fb9fc9e6779f35f5ad09711f",
+      "section_index": 4,
+      "section_type": "other"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-3:p0067-p0074:child-01:continuation-02",
+    "parent_entry_id": "kohler-volume-3:p0067-p0074",
+    "book_taxon": {
+      "scientific_name_candidate": "Hevea brasiliensis"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "historical_use",
+        "pdf_page": 73,
+        "source_line_range": [
+          15,
+          24
+        ],
+        "exact_source_quote": "        Pharmazeutisch wichtig ist der Kautschuk als Deckmittel für offene                           Wunden    oder\nzur Verhinderung der Verdunstung oder des Austrocknens.   Zu diesem Zwecke                           stellt man die\nCollemplastra, Kautschukpflaster, dar, welche bei hoher Klebkraft eine ziemlich grosse Quantität\nmedikamentösen        Stoffes    aufnehmen     können   und    die bedeckten      Teile vollkommen     schützen.    —\nAuch das Senfpapier kann als ein solches Collemplastrum angesehen werden, da es das\nentölte Senfpulver durch ein Kautschukhäutchen festhält. — Kautschukschläuche werden aus\nvulkanisiertem Kautschuk erhalten, indem man Platten davon um Röhren legt und an der\nBerührungsstelle mit heissen Messern schneidet, wodurch die Schnittflächen dann zusammen-\nkleben;    oder man     presst    erweichten    Kautschuk      durch   Röhrenformen      in kaltes   Wasser.\n"
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 73,
+        "source_line_range": [
+          25,
+          49
+        ],
+        "exact_source_quote": "          Gesehiehte und Statistik.          Die erste Erwähnung erfährt der Kautschuk durch Antonio\nHerera (1549—1625),             welcher von Bällen berichtet, mit denen die Eingeborenen von Hayti\nspielten; 1615 erzählt           Juan de Torquemada von ähnlichen Spielbällen der Mexikaner, her-\ngestellt aus der Milch des Ulequahuitl-Ul& (Castilloa elastica Cerv.) und von den wasserdichten\nKleidern und Schuhen, welche aus diesen Säften hergestellt würden.    1751 veröffentlichte\nFresneau die Beschreibung des Cachuchu der Südamerikaner (Castilloa), nachdem schon 1736\nCh. de la Condamine diejenige von Siphonia elastica (Hevea guianensis) nebst den Eigenschaften\ndes Kautschuks gegeben und Muster von Syphoniakautschuk der Pariser Akademie über-\nsandt hatte.   1768 formte Grossart   die ersten Kautschukröhren und seit 1771 benutzte\nMagellaen den Kautschuk zum Radieren von Bleistiftzeichnungen, 1879 gelangte der Kautschuk\nnach Deutschland.   1775 beschrieb Aublet die Darstellung des Hevea-Kautschuks bei den\n Garipons und Mainas in französisch Guyana.      Bis 1820 benutzte man Kautschuk zur Dar-\nstellung von Röhren, Stopfen, elastischen Verbänden, wasserdichtem Firniss für Leder. .1820\nstellte Thomas Hankock elastische Gewebe und Makintosh wasserdichte Zeuge dar.           1839\nerfand Goodyear das Vulkanisieren des Kautschuks und 1852 wurde das Ebonit erfunden.\nSeit 1881 hat man mit der Kultur der Kautschukpflanzen.begonnen, zu welcher sich besonders\ndie Stammpflanze des Ceara-Kautschuk,     Manihot Glaziovii Müll. Arg., ausgezeichnet eignet,\nebenso die des indischen Kautschuk,   Urostigma elasticum Mig., und manche Kautschuklianen;\nwogegen      die Kultur    von     Hevea-    und Castilloa-Arten ihrer hohen Ansprüche an Boden und\nKlima     wegen   immer     noch     viele   Schwierigkeiten      bietet.   Der   vielseitigen   Anwendung,        die\nder Kautschuk findet, entspricht die beträchtliche Produktion. 1890 wurden auf den Markt\ngebracht: 165000 Doppelzentner (a 100 Ko.) Parä-K., 15 000 Ztr. Castilloa-K., 3000 Ztr. Cearä-K.,\n600 Ztr. Mangabeira-K., 5000 Ztr. indischer K., 3000 Ztr. Borneo-K., 3000 Ztr. Madagascar-K.\nund 60,000 Ztr. afrikanischer K., Quantitäten, die in fortwährendem Steigen begriffen sind.\n(Zeitschr. f. angew. Chemie 1891). Indien exportierte 1893/94 allein 9616 Owt."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 73,
+        "source_line_range": [
+          51,
+          63
+        ],
+        "exact_source_quote": "         Bestandteile. Die Zusammensetzung der Hevea-Milch untersuchte Faraday; er fand -\n56,37°/, Wasser, Säuren und dgl, 31,70°/, Kautschuk, 2,90°/, Wasserlösliches, 1,90°/, Albumin,\n7,13°/, färbenden Bitterstoff, Proteide und Wachs.  Der Rohkautschuk besteht hauptsächlich\naus Reinkautschuk C° H°?, welches durch Auflösen von Rohkautschuk in Chloroform und\nFüllen durch Alkohol erhalten werden kann. Er bildet eine weisse, in der Wärme elastische\nMasse, welche in der Kälte spröde ist und bei 50° erweicht; er schmilzt bei 120° zu einer\nklebrigen nicht wieder fest werdenden Masse. Angezündet brennt er mit leuchtender stark\nrussender Flamme; bei der trocknen Destillation geht er in mehrere Kohlenwasserstoffe,\nWasser, 00? und CO über. Unter den Kohlenwasserstoffen findet sich Isopren © Hs, Schmizp.\n38°, Kautschin (Dipenten) C' H!% Sdp. 180°, Heven (C? H®)n Sdp. 315°.. Isopren kann durch\nanhaltende    Behandlung        mit Salzsäure   in einen      Stoff verwandelt    werden,    welcher    nach   dem\nAuskochen mit Wasser die Elastizität und                die wesentlichsten Eigenschaften         des Kautschuks\n                                                                                                       8a"
+      },
+      {
+        "section_type": "literature",
+        "pdf_page": 74,
+        "source_line_range": [
+          5,
+          12
+        ],
+        "exact_source_quote": "          Litteratur. Droge Payen,            tec hn.  Che mie    187 2.   I   168 .   Ha ge r,   Pha rm.   Pra xis    1.\n(1876) 779. II. 226.      Hof er,  Kau tsc  huk    und Gut tap erc ha    188 0.     Wie sne r,  Roh sto ffe 154 —15 9.\nWieg  an d,    Pha rma c.  IV.  Auf l. 384 .    F.  v. Hö hn el ,    Gew  inn  ung     und   Sor ten   von  K.    188 7.\nFerguson, All about India rubber and Gutta-Percha. Colombo, Ceylon 1887. Hanausek, T.F. in\nRealencyklopädie       der   Pharmacie      1888. IV. 647.     und    in     Erdmann -König     Warenkunde        1895.\n345. Flückiger, Grundriss der Pharm. 1894. 151. Tschirch, Indische Nutz- und Heilpfl.\n195. Schmidt, Handbuch d. Pharm. Chemie IH. Aufl. TI Bd. — Caoutchouc: Pharm. Gall.\n(1884) 45. — Cahuchu: Hisp. (1884) 28. Blastica seu India Rubber: U. St. Ph. (1894) 106."
+      },
+      {
+        "section_type": "other",
+        "pdf_page": 74,
+        "source_line_range": [
+          13,
+          15
+        ],
+        "exact_source_quote": "           Präparate   und Fabrikat.      Payen    1. c. Hager       1. c.    Dieterich’s   Manuale    Pharmaceut.,\nCollemplastra. (VI) 106—113. — Charta                  Sinapis: Hisp. 488.         U. St. Pharm.       1894. 86.     —\nKautschuklösung Dieterich 1. c. 489."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "5673e467a436192a46eac6659c0a3c707108a8c046a25d5301a9be36ed821087"
+}

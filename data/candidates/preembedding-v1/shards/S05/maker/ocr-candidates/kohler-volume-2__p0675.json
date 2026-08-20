@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 675,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "62dbbb372c340ae8e845d996b53eabf4a66e6f6dda3f998e816b183bee74dfc9",
+  "render_dpi": 144,
+  "render_sha256": "f96e9d6d58086c0f7700e16671c96085b412a93095b1374f2716ef3924f8da53",
+  "input_sha256": "f96e9d6d58086c0f7700e16671c96085b412a93095b1374f2716ef3924f8da53",
+  "render_pixel_width": 5378,
+  "render_pixel_height": 7994,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.379,
+  "embedded_character_count": 82,
+  "ocr_character_count": 30,
+  "ocr_alpha_ratio": 0.8,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01785479840778159,
+      "text": "Jridaceae.",
+      "width": 0.13186879393451778,
+      "x": 0.8401131208785472,
+      "y": 0.9111307402998202
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "A",
+      "width": 0.015118790797301718,
+      "x": 0.4881209500477134,
+      "y": 0.3386627907152322
+    },
+    {
+      "confidence": 1,
+      "height": 0.021923449304368736,
+      "text": "Crocus sativus l.",
+      "width": 0.2138228841625599,
+      "x": 0.38876890135284536,
+      "y": 0.07703488391935254
+    }
+  ],
+  "text": "Jridaceae.\nA\nCrocus sativus l.",
+  "output_sha256": "fa92130acd7a00f46f3d0bcadcff0d52ef9b0ca441c1790e658d750f4d9909f4",
+  "receipt_sha256": "3057d285ff3449e9aac61550d92c4e02002af3f3697be7bcd5b585cc66eed2e1"
+}

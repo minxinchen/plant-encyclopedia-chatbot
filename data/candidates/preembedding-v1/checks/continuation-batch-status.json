@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "lane": "continuation",
+  "started_at": "2026-08-20T19:32:21+08:00",
+  "status": "partial",
+  "dependency": {
+    "primary_batch_status": "complete",
+    "primary_batch_started_at": "2026-08-13T11:34:05+08:00",
+    "required_status": "complete"
+  },
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "endpoint": "http://127.0.0.1:18080/v1/chat/completions",
+  "package_count": 41,
+  "valid_receipts_before_run": 9,
+  "processed_this_run": 1,
+  "pass_this_run": 0,
+  "needs_review_this_run": 1,
+  "remaining": 32,
+  "current_package_id": null,
+  "errors": [],
+  "safety": {
+    "external_model_calls": 0,
+    "incremental_usd": 0,
+    "canonical_writes": false,
+    "embedding_calls": false,
+    "taiwan_name_resolution": false,
+    "layout_or_plate_approval": false
+  },
+  "updated_at": "2026-08-20T19:33:30+08:00",
+  "status_sha256": "20a499230d52e311b741b920a80fcce4b2c9ea473229e72e4904d56b1c0f69da"
+}

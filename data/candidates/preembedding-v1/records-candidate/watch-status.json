@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "started_at": "2026-08-13T12:55:04+08:00",
+  "status": "caught_up",
+  "refresh_count": 3251,
+  "last_fingerprint": "10097a6fcda071d59db5bd79911681467aeda147d21311c8e47961f913a81552",
+  "last_build": {
+    "exit_code": 0,
+    "output": "{\"manifest\": \"data/candidates/preembedding-v1/records-candidate/manifest.json\", \"source_candidate_count\": 227, \"record_count\": 227, \"missing_naming_entry_ids\": []}"
+  },
+  "last_validation": {
+    "exit_code": 0,
+    "output": "{\"status\": \"PASS\", \"source_candidates\": 227, \"records\": 227, \"sections\": 1306, \"missing_naming\": 0, \"errors\": []}"
+  },
+  "errors": [],
+  "updated_at": "2026-08-19T21:40:42+08:00"
+}

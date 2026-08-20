@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0395-p0400",
+  "owner_shard": "S04",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 173.379,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0395-p0400",
+    "book_taxon": {
+      "scientific_name_candidate": "Krameria triandra",
+      "authorship_candidate": "Ruiz et Pavon",
+      "aliases_candidates": [
+        "Echte Ratanhia",
+        "Ratanha",
+        "Peru-Payta-rothe Ratanhia",
+        "Rhatany"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 395,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名Krameria triandra，別名Echte Ratanhia。隸屬Caesalpiniaceae科，Krameria屬。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          7
+        ],
+        "exact_source_quote": "                             Krameria triandra Ruiz et Pavon.\n\n            Echte Ratanhia         (Ratanha),        Peru-Payta-rothe        Ratanhia      —     Ratanhia    —\n                                                    Rhatany, Krameria.\n\n            Familie:    Caesalpiniaceae       (Polygonaceae nach Bentham und Hooker;                Gattung:     Krameria\nLoefling."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 395,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "小型灌木，木質多分枝根。莖高20-30公分，下枝黑無毛，上枝具絲狀毛。葉厚，長11毫米，倒卵狀長圓形，灰絲毛。",
+        "warnings": [],
+        "source_line_range": [
+          8,
+          13
+        ],
+        "exact_source_quote": "            Beschreibung.         Ein kleiner Strauch mit holziger, sehr ästiger, wenig faseriger Wurzel und\naufrechtem,     20—30       Ctm. hohem    Stämmchen,     dessen ausgebreitete   untere Aeste schwarz, kahl, nieder-\nlegend und bis 1 Meter lang sind, wührend die oberen kürzeren eine abstehend ausgebreitete Form,\nseidenartige Behaarung und grünlichgraue Fürbung besitzen. Die zerstreut stehenden oder fast gegen-\nständigen Blätter sind dick, bis 11 Mm.         lang, 3—4 Mm.        breit, sitzend, länglich oder verkehrt      eifórmig-\nlänglich, zugespitzt, stachelspitzig, ganzrandig, grau seidenhaarig. Blüthen an der Spitze des Stammes"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 395,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "橫切面顯示極薄皮層，主根皮厚達4毫米，表面鱗片狀，深紅褐色。木質部細孔狀，肉桂色，具細小木射線。",
+        "warnings": [],
+        "source_line_range": [
+          34,
+          37
+        ],
+        "exact_source_quote": "       Anatomisches. Der Querschnitt zeigt eine sehr dünne Rinde (die der Hauptwurzel ist bis\n4 Mm. dick, auf der Oberfläche schuppig, und sehr holperig, dunkel rothbraun, öfters in der Axe\ngedreht;    die der Aeste ist 1 Mm.       dick und bedeutend       heller) und ein fein poróses, zimmtbraunes,         mit\nsehr   feinen   Markstrahlen      ausgestattetes,    markioses   Holz.   Die Aussenrinde       wird von   einem Kork ge-"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 396,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "產於巴西與秘魯安第斯山脈的沙質貧瘠山坡，海拔1000至3000公尺。",
+        "warnings": [],
+        "source_line_range": [
+          26,
+          27
+        ],
+        "exact_source_quote": "         Vorkommen,        Auf sandigen und unfruchtbaren Abhängen der brasilianischen und peruani-\n schen Cordilleren, in Regionen von 1000—3000 Meter Meereshúhe."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 397,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含Ratanhiagerbsäure、Ratanhiaroth、膠質、蠟、糖、澱粉及草酸鈣。未檢出Kramersäure及Gallussäure。",
+        "warnings": [],
+        "source_line_range": [
+          32,
+          35
+        ],
+        "exact_source_quote": "           Bestandtheile,           Wittstein fand eigenthümliche, eisengrünende Gerbsäure (Ratanhiagerbsiure)\n  Ratanhiaroth,    gummige      und    extraktive   Materie, Wachs,    Zucker,    Stürkemehl,   oxalsauren       Kalk.    Die\n  Peschier'sche Ratanhiasäure (Kramersäure), ebenso die Gallussäure, wurden von Wittstein nicht\n  aufgefunden, dagegen in dem amerikanischen Extrakte, nicht in der Wurzel, Tyrosin, mit der"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 398,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史上用作強效收斂劑，內服治慢性腹瀉與出血，外用治口腔與牙齒問題。不適用於吐酒石中毒。",
+        "warnings": [],
+        "source_line_range": [
+          9,
+          12
+        ],
+        "exact_source_quote": "          Anwendung. In Substanz, als Absud, Extrakt, Tinktur als ein kräftiges Adstringens, inner-\nlich bei chronischen Durchfällen, atonischen Blutungen, Schleimflüssen der Respirations- und Urogenital-\norgane; äusserlich zu Mund- und Zahnmitteln, zu Einspritzungen und Klystiren.             „Die Ratanhiawurzel passt\nin allen Fällen, wo Tannin innerlich oder äusserlich indieirt ist, nur nicht bei Brechweinsteinvergiftung,"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "bb9500ffd2d669ada314ae564ceb961689c6604c54965402bbe22916f28e6150"
+}

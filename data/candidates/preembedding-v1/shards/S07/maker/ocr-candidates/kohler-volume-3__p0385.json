@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 385,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "b9ee0b0550fdbe953b76fb0183c1b512836702d5e69c80d57ae55bb3d1c1783b",
+  "render_dpi": 144,
+  "render_sha256": "b08a59b62096cc40284c95634ac5f9c7810c1daf28f357440c7b2ca84d694f26",
+  "input_sha256": "b08a59b62096cc40284c95634ac5f9c7810c1daf28f357440c7b2ca84d694f26",
+  "engine": "Apple Vision VNRecognizeTextRequest accurate",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-ocr-sha256=e54202ae838c94203816fd3331f4c37f7acac436188d481eab506c540c3d66d6",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 30.228,
+  "embedded_character_count": 55,
+  "ocr_character_count": 35,
+  "ocr_alpha_ratio": 0.8,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.021866518353658937,
+      "text": "Rhamnaceae.",
+      "width": 0.10841849815888216,
+      "x": 0.031960458166735095,
+      "y": 0.9588686906885231
+    },
+    {
+      "confidence": 1,
+      "height": 0.020354604910290508,
+      "text": "Rhamnus Purshiana DC.",
+      "width": 0.19747898553007392,
+      "x": 0.42857143325036917,
+      "y": 0.07266865052739901
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "5",
+      "width": 0.006302521134790129,
+      "x": 0.9159663863863865,
+      "y": 0.02180232592698872
+    }
+  ],
+  "text": "Rhamnaceae.\nRhamnus Purshiana DC.\n5",
+  "output_sha256": "7c5849ec773f84b2b666dbd035de56c912ffee31346cc51ba8f6010575d5bfab",
+  "receipt_sha256": "eb93766bf0ad1089dd3c02aa89071309a9217b23a8ae3d0f2f7540e9b4958035"
+}

@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 393,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "e4478ed7a5f982758d43d4d2c104d56eeffb24a738e62ed59c2a682e6a42b6ca",
+  "render_dpi": 144,
+  "render_sha256": "278ce554d705832902368503f2995f13cba5c25a8b6e319b66cc22c8def4b806",
+  "input_sha256": "278ce554d705832902368503f2995f13cba5c25a8b6e319b66cc22c8def4b806",
+  "render_pixel_width": 5762,
+  "render_pixel_height": 8030,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 5.964,
+  "embedded_character_count": 245,
+  "ocr_character_count": 54,
+  "ocr_alpha_ratio": 0.6852,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.019315982621813554,
+      "text": "Laurineae.",
+      "width": 0.12024419292879662,
+      "x": 0.8215732651765196,
+      "y": 0.9226642446860015
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "A",
+      "width": 0.018218623743274764,
+      "x": 0.5141700402943545,
+      "y": 0.29796511636587886
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "10",
+      "width": 0.01214574828342313,
+      "x": 0.21659919055464472,
+      "y": 0.1787790699996341
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436846943,
+      "text": "8",
+      "width": 0.014170039663993661,
+      "x": 0.4534412960333878,
+      "y": 0.1787790695599195
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "WM.",
+      "width": 0.0364372474865495,
+      "x": 0.0951417005077374,
+      "y": 0.16424418619972836
+    },
+    {
+      "confidence": 1,
+      "height": 0.02470930228157653,
+      "text": "Ginnamomum zeylanicum Breyn.",
+      "width": 0.3603238921043539,
+      "x": 0.3198380578951914,
+      "y": 0.117732557852671
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "78.",
+      "width": 0.018218623743274764,
+      "x": 0.9068825908322379,
+      "y": 0.02325581395720344
+    }
+  ],
+  "text": "Laurineae.\nA\n10\n8\nWM.\nGinnamomum zeylanicum Breyn.\n78.",
+  "output_sha256": "6fe5f1fc97e4acd094008124ceb1549304f46c6ae5bc6f82eb7b1bc62dd08dbb",
+  "receipt_sha256": "68b6d1bda8b9fd3145b1c30bd6c22e0d5b6b8c5f46b32668a38093f1ed92594a"
+}

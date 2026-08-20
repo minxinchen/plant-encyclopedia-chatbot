@@ -1,0 +1,155 @@
+{
+  "schema_version": "2.0",
+  "package_id": "kohler-volume-3:p0191-p0204:child-01:continuation-01",
+  "parent_entry_id": "kohler-volume-3:p0191-p0204",
+  "child_entry_id": "kohler-volume-3:p0191-p0204:child-01",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation-v2:kohler-volume-3:p0191-p0204:child-01:continuation-01:v1",
+  "owner_shard": "S06",
+  "package_sha256": "4e9c03a29df86274b11937e535c352fda9dea4dacbe5a2d2d96cf62492e45e03",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "prompt_version": "plant-structure-line-coordinates-v2",
+  "attempt_sha256": "6cabf8419ed63c91db3c83714da86ee81fc7ef22e27ee534612178db67967d0a",
+  "raw_response_sha256": "1cc3dc4807b25ad677441b0069008afdfee9d1ca1f466cce4c94120cc02a0f83",
+  "elapsed_seconds": 24.281,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 191,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 439,
+      "char_end": 637,
+      "source_line_start": 6,
+      "source_line_end": 7,
+      "page_text_sha256": "eb9221a059815df0af33ab65ff3f0eb7c1dc171d7af9acdd24696b5614fe2825",
+      "exact_text_sha256": "b5a54d0d0ff95dd11bc83f08392239d4318c0efb9d5848279c1e453311a80f01",
+      "section_index": 0,
+      "section_type": "taxonomy"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 191,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 639,
+      "char_end": 1586,
+      "source_line_start": 9,
+      "source_line_end": 16,
+      "page_text_sha256": "eb9221a059815df0af33ab65ff3f0eb7c1dc171d7af9acdd24696b5614fe2825",
+      "exact_text_sha256": "d466281a814bef6b9e30f01998b01d76fd112c81cf210344ea73db4512909686",
+      "section_index": 1,
+      "section_type": "description"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 191,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 3921,
+      "char_end": 4608,
+      "source_line_start": 36,
+      "source_line_end": 40,
+      "page_text_sha256": "eb9221a059815df0af33ab65ff3f0eb7c1dc171d7af9acdd24696b5614fe2825",
+      "exact_text_sha256": "e9fe619c42d632e71789263d378a7713360c482e755624f214bd859a112f07b1",
+      "section_index": 2,
+      "section_type": "flowering"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 192,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 3715,
+      "char_end": 4262,
+      "source_line_start": 36,
+      "source_line_end": 40,
+      "page_text_sha256": "44232793b0275b83785f63360e05d32e56dddba3087bc9361b2497abb3f553f8",
+      "exact_text_sha256": "b864ebb000332cbafaaa1320a92e84943cf2a5eac636a4efacc917fab470d681",
+      "section_index": 3,
+      "section_type": "distribution"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 192,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 4836,
+      "char_end": 5096,
+      "source_line_start": 48,
+      "source_line_end": 50,
+      "page_text_sha256": "44232793b0275b83785f63360e05d32e56dddba3087bc9361b2497abb3f553f8",
+      "exact_text_sha256": "4ab66e8135b90871055c8a56721c153a40f531da667d5830bef821b6d3a38d19",
+      "section_index": 4,
+      "section_type": "history"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-3:p0191-p0204:child-01:continuation-01",
+    "parent_entry_id": "kohler-volume-3:p0191-p0204",
+    "book_taxon": {
+      "scientific_name_candidate": "Eucalyptus globulus"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 191,
+        "source_line_range": [
+          6,
+          7
+        ],
+        "exact_source_quote": "         Familie: Myriaceae Jussieu. Abteilung: Zeptospermeae Jussieu.                                            Unterfamilie:                 Zuca-\nIypteae Jussieu. Gattung: Eucalyptus L’Heritier."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 191,
+        "source_line_range": [
+          9,
+          16
+        ],
+        "exact_source_quote": "       Besehreibung. Der Fieberbaum gehört zu den höchsten Bäumen der Erde; seine\nHöhe übersteigt 70 m; er wächst überaus schnell; in seiner Heimat 4—6 m in-jedem Jahre.\nSein Holz         ist weiss,        sehr hart und         fault     wenig;      die Rinde       ist etwas         fasrig und           fällt   leicht\nab, wobei die glatte Innenrinde zum Vorschein kommt.                                         Die älteren Zweige                  sind gelbgrau,\nmehr     oder weniger              stielrund;     die jüngeren           gelbgrün,     scharf        vierkantig,         oft     etwas      gedreht.\nDie     Blätter      sind    einfach,       ungeteilt,      ganzrandig,         lederig,      beiderseits        dicht     drüsig        punktiert;\ndiejenigen der jungen Triebe oberseits graugrün, unterseits fast weiss, beiderseits, wie über-\nhaupt die jungen, nicht blühenden Triebe und Schösslinge, dicht mit weissem Reif überzogen."
+      },
+      {
+        "section_type": "flowering",
+        "pdf_page": 191,
+        "source_line_range": [
+          36,
+          40
+        ],
+        "exact_source_quote": "vor     dem    Aufblühen            verschwinden.          —      Die    Blüten      stehen     einzeln       in den           Blattachseln       auf\netwa 8 mm langen dicken, vierkantigen, beinahe geflügelten Blütenstielen.                                                 Der letztere ist in\nder Medianebene               des Stützblattes           etwa 4 mm,          senkrecht zu derselben              8 mm      breit, die Kanten\nholzig und scharf hervortretend.                         Die Blütenknospe ist kreiselförmig vierkantig, dick, holzig\n                                                                                                                                       40"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 192,
+        "source_line_range": [
+          36,
+          40
+        ],
+        "exact_source_quote": "            Vorkommen.              Der Baum             hat seine Heimat               im südlichsten Australien                  und auf Tas-\nmanien          (Van Diemensland).                In    Viktoria     wächst        er    von     der     Apollo-Bay          südwestlich      von\nMelbourne bis zum Kap Wilson, und in kleineren Beständen bis Buffalo (F. v. Müller). Auf\nTasmanien erscheint er etwa 300 km nördlich von Hobarttown und geht bis zum äussersten\nSüden. — Durch sein schnelles Wachstum eignet er sich vorzüglich zur Austrocknung"
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 192,
+        "source_line_range": [
+          48,
+          50
+        ],
+        "exact_source_quote": "        Geschichte. Der Baum wurde 1792 zuerst von Labillardiere beschrieben; dieser\nForscher machte zuerst auf das schnelle Wachstum desselben aufmerksam.   1822 wurde er\nnach Europa gebracht; man erkannte hier den grossen Nutzen, den der Baum bringen konnte."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "cdb0922c28aaae6825d6f4237c6c5cec9877eca3548b94c10991b1f9e1e235d0"
+}

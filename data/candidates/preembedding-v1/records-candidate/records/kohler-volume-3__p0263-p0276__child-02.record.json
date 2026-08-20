@@ -1,0 +1,240 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-3-p0263-p0276-child-02",
+  "entry_id": "kohler-volume-3:p0263-p0276:child-02",
+  "owner_shard": null,
+  "book_taxon": {
+    "scientific_name": "Rubia tinctorum",
+    "authorship": null,
+    "aliases": []
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Rubia tinctorum"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-20T23:03:42+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Rubia+tinctorum",
+        "query_name": "Rubia tinctorum",
+        "retrieved_at": "2026-08-20T23:03:00+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 267,
+      "evidence_type": "text",
+      "page_text_sha256": "1bc49e128963512f6166ab8cc09d374ba44db0d4c8703049790d59dcf8958aa3",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 269,
+      "evidence_type": "text",
+      "page_text_sha256": "b2f291efae37740c0159563dae5906e1072ee6047b17be5dc15732e256c40bff",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 270,
+      "evidence_type": "text",
+      "page_text_sha256": "432d8e0402bc0c8479febd2a216c8d952f7cb678e8bddf38160b25dc83cb9212",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 271,
+      "evidence_type": "text",
+      "page_text_sha256": "698d1442e302090b81344d1a4fa6a9a9d2544f49a7af5ced7788c047424482cd",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-3:p0263-p0276:child-02:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "            Familie.          Aubiaceae.           Unterfamilie:             Galieae (Stellatae).    Gattung:         Rubia L.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 267,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 342,
+        "char_end": 468,
+        "source_line_start": 4,
+        "source_line_end": 4,
+        "page_text_sha256": "1bc49e128963512f6166ab8cc09d374ba44db0d4c8703049790d59dcf8958aa3",
+        "exact_text_sha256": "72a28cdf986c91084db644a49cb8182d7077b01792b2bd1b2f3f3b1f0600f9dd",
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "72a28cdf986c91084db644a49cb8182d7077b01792b2bd1b2f3f3b1f0600f9dd",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0263-p0276:child-02:s01:x00",
+      "section_type": "description",
+      "original_text": "          Beschreibung. Die Färberröte ist ein ausdauerndes Kraut. Sie besitzt einen bis\n‚Kleinfingerdicken, bis 1 m langen horizontalen, an der Spitze aufsteigenden Wurzelstock, von\n gelbbrauner          Farbe,           der    allseitig     mit    langen     Ausläufern    und Nebenwurzeln              besetzt       ist.   An\n den Knoten           der    letzteren           sitzen     gegenständig        die Stengelknospen,         aus    welchen         die 60 bis\n 100 em langen, undeutlich vierkantigen Stengel sich entwickeln.                                        Die letzteren sind einjährig,\n‘schlaff und niederliegend,                     wenn       sie    keinen     geeigneten    Halt finden;      wenn     sie sich aber             an\n‚andere Pflanzenteile anlehnen können,                              an welche       sie sich, dem Kleber (Galium Aparine L.)\n‚ähnlich,    mit ihren            an    den Kanten          sitzenden       rückwärts     gerichteten    Stachelhaaren         festhängen,\n  so wachsen sie mehr oder weniger senkrecht in die Höhe und erreichen unter günstigen\n  Bedingungen eine Länge von 1?/, bis 2 m. — An den unteren Knoten des Stengels befinden",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 267,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 469,
+        "char_end": 1660,
+        "source_line_start": 5,
+        "source_line_end": 14,
+        "page_text_sha256": "1bc49e128963512f6166ab8cc09d374ba44db0d4c8703049790d59dcf8958aa3",
+        "exact_text_sha256": "1c7fb36d87687b6c5731253565e7e7d6e0f5d99b1f60aae18e4ac2d209c5defd",
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "1c7fb36d87687b6c5731253565e7e7d6e0f5d99b1f60aae18e4ac2d209c5defd",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0263-p0276:child-02:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "        Anatomie. Besonderes Interesse in anatomischer Beziehung bietet nur die Wurzel.\nIhre Oberfläche wird von einem grauen, aus abgeplatteten tangential gestreckten Zellen\nbestehendem Korke gebildet, auf welchen ein braunrotes Rindenparenchym folgt. Dessen Zellen\nsind   ebenfalls      abgeplattet,     aber mehr            polyedrisch,         und    nehmen       an    Grösse     ab, je mehr        sie\nsich dem Phlo&m nähern. Die Phloömbündel werden durch nur einreihige Markstrahlen\nundeutlich gesondert und zeigen in ihrem Innern enge fasrige Siebröhren mit undeutlichen\nSiebflächen. Das Holz besteht aus ziemlich weiten Tracheen, die in dem reichlichen Holz-\nparenchym       eingebettet      liegen;       nur     gegen       das Mark       hin erkennt        man    grössere    Gruppen         von\nLibriformfasern.           Ein Mark         fehlt natürlich          den     Hauptwurzeln.           Die Nebenwurzeln            sind    im\nwesentlichen         ebenso     gebaut,      nur     sind    sie     lebhafter     gefärbt,     haben       relativ    breitere    Mark-\nstrahlen    und      ein rot gefärbtes,            oft scharfeckig         polygonales      Mark.     —     Die Wurzel von         Rubia",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 269,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 836,
+        "char_end": 2057,
+        "source_line_start": 13,
+        "source_line_end": 23,
+        "page_text_sha256": "b2f291efae37740c0159563dae5906e1072ee6047b17be5dc15732e256c40bff",
+        "exact_text_sha256": "f3e44fc49ad8a1d29ca1df7d344706f7a156a40f0ef0c1d542d1427743c4992e",
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "f3e44fc49ad8a1d29ca1df7d344706f7a156a40f0ef0c1d542d1427743c4992e",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0263-p0276:child-02:s03:x00",
+      "section_type": "constituents",
+      "original_text": "            Bestandteile.             Die Krappwurzel                 enthält     neben anderen               gewöhnlichen        Bestandteilen\n\ndes Pflanzenkörpers im frischen Zustande die Ruberythrinsäure, welche durch ein eigen-\ntümliches Ferment, Erythroein, in Zucker und Alizarin, C!H°0°(OH)? gespalten wird.\nDiese Zersetzung findet in einer Abkochung der Wurzel oder nach längerer Zeit auch in\n der trocknen Droge                selbst    statt.         Ausser     dieser Säure findet sich noch ein weniger beständiges\nGlycosid vor, welches zunächst in Purpurinearbonsäure (Pseudopurpurin) und später in CO?\nund Purpurin CH? 0°(OH)? zerfällt. — Der bekannteste und wichtigste dieser Bestand-\nteile     ist    das    Alizarin,          CH°O0?°(OH)’}L3H?O,                    Orthodioeyanthrachinon,              rotgelbe      Nadeln,    die\nim Wasser          kaum,        in Alkohol         und Äther leicht löslich                sind.    Sie schmelzen           bei 282°    und    sind\n bei     etwas     höherer        Temperatur           sublimirbar.          Alkalien          lösen     es    mit    purpurvioletter        Farbe;\n Caleium-        und    Baryumsalze           fällen        aus   diesen     Lösungen          einen     blauen,      Zinnchlorür      und    Alaun\n einen     schön       roten     Niederschlag.          BEAEN, euerdings          erhält man           das Alizarin        künstlich   durch    Er-\n hitzen     von        anthrachi",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 270,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 2379,
+        "char_end": 3850,
+        "source_line_start": 36,
+        "source_line_end": 49,
+        "page_text_sha256": "432d8e0402bc0c8479febd2a216c8d952f7cb678e8bddf38160b25dc83cb9212",
+        "exact_text_sha256": "d58f81d2e912796e9708026b85ab2bb7dfef2a32ad385025436f8531d251bfc4",
+        "section_index": 3,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "d58f81d2e912796e9708026b85ab2bb7dfef2a32ad385025436f8531d251bfc4",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0263-p0276:child-02:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "              Geschichte.             Die Wurzel galt schon                              bei den alten Römern als Heilmittel;                                ihre An-\nwendung           zum      Färben       ist schon        von Plinius                     beschrieben           worden.          Die Türkischrot-Färberei\n‘stammt       aus     Indien         und     wurde      um         1747       aus        der Levante           in Südfrankreich               und         gegen     Ende\n‚des     18. Jahrhunderts               in England                eingeführt.              Hier       stieg    infolgedessen            die        Einfuhr        bis    zu\n 1 Mill. £.          Im Jahre 1827 fanden Collins und Robiquet das Alizarin durch Erhitzung der\n Färberröte;            Schenk          stellte     es durch           Fällen            des Alkaliauszuges                der Wurzel              dar.      Seit 1870\n wird das Alizarin aus dem Anthracen                                        erhalten          und seit dieser Zeit hat der Verbrauch der\n.Färberröte         beständig          abgenommen.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        3
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 271,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 942,
+        "char_end": 2052,
+        "source_line_start": 10,
+        "source_line_end": 17,
+        "page_text_sha256": "698d1442e302090b81344d1a4fa6a9a9d2544f49a7af5ced7788c047424482cd",
+        "exact_text_sha256": "2a564c209c1bd2d0781a1d44dca4791410d1bcfd6db0552c8c1eaa0b5921a939",
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "2a564c209c1bd2d0781a1d44dca4791410d1bcfd6db0552c8c1eaa0b5921a939",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "e9c6ca5eb932f56695721c763eb27fd92a616ef2a1cbe14cce7ed836e2b2b0de",
+    "maker_receipt_sha256": null,
+    "validation_check_sha256": null,
+    "source_disposition_sha256": "5bb0a6f9e4ac6d13376f7ecc2effe5d4a44ac44a17a1568c862015a66f65ffb2",
+    "candidate_source_chain": {
+      "source_disposition_sha256": "5bb0a6f9e4ac6d13376f7ecc2effe5d4a44ac44a17a1568c862015a66f65ffb2",
+      "boundary_overlay_plan_sha256": "c7c0253e52f0583570699f98cc9c8fa3dda15857551bc2b94d6430ed0afd008a",
+      "boundary_segment_sha256": "490c92d26f6ea14a0083c109adc259a2e49175230d4429e252ad95118a68264d",
+      "source_parent_entry_id": "kohler-volume-3:p0263-p0276",
+      "continuation_v2_receipts": [
+        {
+          "package_id": "kohler-volume-3:p0263-p0276:child-02:continuation-01",
+          "package_sha256": "f584e7bfcceb49a4b1f67f9d81ad13067f8d6e3f38eb88bb690be7b90e442869",
+          "receipt_sha256": "8a28a03c6189aa4e0319dc8c360830d0824346d3b301f708dad92cc585a32c0c",
+          "attempt_sha256": "55eceebf0d929a01ad830db379b24a237b2072985a4e40ead91e6c1c11ac00db",
+          "validation_check_sha256": "45da39d8431df3c21679201cb3463121722a25c1700bfc6e027c069202310f3d"
+        }
+      ]
+    },
+    "naming_artifact_sha256": "2892dd2e7fb60475b504fa22333c6e6da36bb87bbcc8c5e63fbe5b1aaed35986"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "a9cd0cec4659a268d001ca5a90e1048d40c03f5810eff0be0178fb241939ae9b"
+}

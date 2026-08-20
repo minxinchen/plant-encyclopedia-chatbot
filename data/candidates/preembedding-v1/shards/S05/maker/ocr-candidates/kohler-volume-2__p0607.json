@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 607,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "0295f4963b7cb6787f2c3bcbbabe8f2b63df69b95571bb86ccab89e5f6e84c9a",
+  "render_dpi": 144,
+  "render_sha256": "e688ed2818fbf402cb7c1fa660b27f1c3b2f87bddae981a4b06a85d7bd1023d5",
+  "input_sha256": "e688ed2818fbf402cb7c1fa660b27f1c3b2f87bddae981a4b06a85d7bd1023d5",
+  "render_pixel_width": 5786,
+  "render_pixel_height": 7886,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.9,
+  "embedded_character_count": 24,
+  "ocr_character_count": 41,
+  "ocr_alpha_ratio": 0.6829,
+  "candidate_disposition": "candidate_quality_gain",
+  "staging_disposition": "candidate_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.024709302281576417,
+      "text": "Leguminosae.",
+      "width": 0.13663365568479546,
+      "x": 0.8415841605486913,
+      "y": 0.920058139611392
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611783,
+      "text": "11",
+      "width": 0.013861386013482413,
+      "x": 0.8910891088909485,
+      "y": 0.5174418607259228
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "8",
+      "width": 0.009900990009630184,
+      "x": 0.8752475247229077,
+      "y": 0.16424418644155514
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252612005,
+      "text": "10",
+      "width": 0.013861386013482357,
+      "x": 0.30099009893385287,
+      "y": 0.14825581405683363
+    },
+    {
+      "confidence": 1,
+      "height": 0.01889534791310632,
+      "text": "Tamarindus",
+      "width": 0.1168316782447758,
+      "x": 0.40396039709048337,
+      "y": 0.09447674488428981
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185932098874,
+      "text": "indica l.",
+      "width": 0.11485148153247027,
+      "x": 0.5346534683030717,
+      "y": 0.09447674472904055
+    }
+  ],
+  "text": "Leguminosae.\n11\n8\n10\nTamarindus\nindica l.",
+  "output_sha256": "a37f09568c455ab725873cedfa09fd6d6d1488057647a08494b6741200782eca",
+  "receipt_sha256": "b397c406ca035cf7cf3082bd05333b312130a18da14071303855953c5a226ec1"
+}

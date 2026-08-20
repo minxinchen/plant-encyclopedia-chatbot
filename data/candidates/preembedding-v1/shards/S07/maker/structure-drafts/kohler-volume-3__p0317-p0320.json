@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-3:p0317-p0320",
+  "owner_shard": "S07",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 156.348,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-3:p0317-p0320",
+    "book_taxon": {
+      "scientific_name_candidate": "Nigella sativa L.",
+      "authorship_candidate": null,
+      "aliases_candidates": [
+        "Echter Schwarzkümmel",
+        "schwarzer oder römischer Koriander",
+        "Nardensamen",
+        "Nigelle",
+        "Semen Nigellae sativae",
+        "Semen Melanthii",
+        "Semen Oumini nigri"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 317,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Nigella sativa L.，屬毛茛科，黑葶苈屬。俗名真黑孜然、羅馬芫荽。",
+        "warnings": [],
+        "source_line_range": [
+          3,
+          8
+        ],
+        "exact_source_quote": "                                                 1) Nigella sativa         L.\n        Echter      Schwarzkümmel, schwarzer oder römischer Koriander, Nardensamen.\n                          Franz.: Nigelle Engl.: Nigella. Holl.: Nigelle.\n\n         Familie: Ranunculaceae               Unterfamilie: Helleboreae.           Gattung: Nigella Tourn.            Sekt.:\nNigellaria DC."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 317,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "一年生草本，具黃褐色主根。莖直立，高30-50公分，被毛。葉長3-7公分，羽狀深裂。",
+        "warnings": [],
+        "source_line_range": [
+          10,
+          15
+        ],
+        "exact_source_quote": "        Beschreibung. Die einjährige krautige Pflanze hat eine gelbbraune, dünne, spindel-\nförmige, einfache Pfahlwurzel mit wenigen verzweigten Nebenwurzeln. Der Stengel ist auf-\nrecht, wenig ästig, 30 bis 50 cm hoch, rundlich-eckig, mit kurzen Flaum- und Drüsenhaaren\nbedeckt. — Die Blätter sind 3 bis 7 cm lang, im ganzen Umfange eirund; die unteren sind\ngestielt,      die oberen        sitzend, alle wiederholt fiederspaltig mit dreispaltigen Endlappen;                      die\nZipfel sind schmallineal            oder    lineallanzettlich,     spitz und    ebenfalls   flaumhaarig.      Die Blüten"
+      },
+      {
+        "section_type": "flowering",
+        "pdf_page": 318,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "花期為六月至七月。",
+        "warnings": [],
+        "source_line_range": [
+          11,
+          11
+        ],
+        "exact_source_quote": "            Blütezeit.      Juni, Juli."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 318,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產南歐及西亞，野生於南德，亦因種子而栽培。",
+        "warnings": [],
+        "source_line_range": [
+          12,
+          14
+        ],
+        "exact_source_quote": "           Vorkommen.             Die Pflanze      findet sich in Süddeutschland,                      überhaupt        im südlichen\n Europa und        dem     westlichen Asien        wild, und      wird    in manchen           Gegenden        des     Samens   wegen\n kultiviert."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 319,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "種子含脂肪油、揮發油及苦味素。脂肪油約11%，揮發油具胡荽氣味。",
+        "warnings": [],
+        "source_line_range": [
+          19,
+          26
+        ],
+        "exact_source_quote": "          Bestandteile. Die Samen von Nigella sativa L. enthalten fettes und ätherisches Öl und\n “einen Bitterstoff. -Das fette Öl beträgt nach früheren Berichten bis 25 %; Haenseltand 11%,\n eines dunkelgrünen, im auffallenden Lichte blau fluorescierenden, schwachsauren, nach Erd-\n  beeren riechenden Öles von 0,924 spezifischem Gewicht. — Das ätherische Öl las von\n Schimmel & Co. in Mengen von 0,46°/, erhalten. Es besitzt ein spez. Gewicht von: 0,875\n und eine Rechtsdrehung von + 1° 26° und riecht deutlich nach Petersilie. Es siedet zwischen\n  170 bis 230°. Den Bitterstoff isolierte Reinsch und nannte ihn Nigellin; Greenish konnte\n \"ihn    in   kultiviertem      Samen       nicht     wiederfinden,      sondern    erhielt daraus        einen    Bitterstoff mit"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 320,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "古希臘時期用作藥用，具驅風、利尿及驅蟲作用。埃及與東方用作麵包香料。",
+        "warnings": [
+          "Content describes historical medical usage; not modern medical advice."
+        ],
+        "source_line_range": [
+          11,
+          17
+        ],
+        "exact_source_quote": "       Anwendung.    Die  Sam en   der  Nig ell a  sati va L. wur  den   unt er    dem   Nam  en   Mei dvs uov -\nschon zu Zeiten  des Hip pok rat es    und   Dio  sco rid  es  als  Arz nei mit tel  geb rau cht ;  man     be-\nnutzte sie als gelinde reizendes, Blähungen vertreibendes, eröffnendes, auflösendes und\ndiuretisches     Mittel, besonders         bei Lungenaffektionen               und Darmkatarrh,              sowie    gegen     Würmer\nund Gelbsucht. In Ägypten und im Orient benutzt man sie als Würze des Brotes und anderer\nGebäcke. Nach Berichten Baillons finden sie ihres pikanten Geschmackes wegen in Frank--\nreich Verwendung als Pfeffersurrogat unter dem Namen JPoivrette und Toutes espices."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "44a60b5313a5ec9c4bd53f9d816356efda8a974e90da35864056f86ca4cab2b0"
+}

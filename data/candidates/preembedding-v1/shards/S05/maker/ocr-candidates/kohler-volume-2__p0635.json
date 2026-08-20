@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 635,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "cd5a3216ab56f36636e9f0bb3a204ee6c085abb34a736f76319d4abe1dadc66f",
+  "render_dpi": 144,
+  "render_sha256": "d1d2e4482e0ec6878edba2d2646f1e34564adb582a24dc1b4d8903b73d0c4d0a",
+  "input_sha256": "d1d2e4482e0ec6878edba2d2646f1e34564adb582a24dc1b4d8903b73d0c4d0a",
+  "render_pixel_width": 5510,
+  "render_pixel_height": 7946,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.107,
+  "embedded_character_count": 51,
+  "ocr_character_count": 44,
+  "ocr_alpha_ratio": 0.6818,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.020055354587615537,
+      "text": "Umbelliterae.",
+      "width": 0.14495995866723665,
+      "x": 0.8111678212174851,
+      "y": 0.9136641831313222
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "14",
+      "width": 0.012578616326458958,
+      "x": 0.8616352202434792,
+      "y": 0.26744186053379104
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "10",
+      "width": 0.01886792380751799,
+      "x": 0.06918239021014737,
+      "y": 0.143895348902216
+    },
+    {
+      "confidence": 1,
+      "height": 0.02332502792751978,
+      "text": "Coriandrum sativum I",
+      "width": 0.2264150856902159,
+      "x": 0.39622641798647834,
+      "y": 0.10465116272891395
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "145",
+      "width": 0.020964360544098337,
+      "x": 0.9538784065553442,
+      "y": 0.0174418604584492
+    }
+  ],
+  "text": "Umbelliterae.\n14\n10\nCoriandrum sativum I\n145",
+  "output_sha256": "7937a1df59dcbc6c8d3c6dd437d437f6f2724f341bb8569b82b7c0f8779d6ad7",
+  "receipt_sha256": "4a434fe1e88ae5721a465a04e5839364250f782018eec8a86d5a781ac31f1de0"
+}

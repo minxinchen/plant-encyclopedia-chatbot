@@ -1,0 +1,28 @@
+{
+  "schema_version": "2.0",
+  "pipeline_id": "preembedding-continuation-v2-integration",
+  "checked_at": "2026-08-20T22:51:58+08:00",
+  "boundary_overlay_plan_sha256": "c7c0253e52f0583570699f98cc9c8fa3dda15857551bc2b94d6430ed0afd008a",
+  "package_manifest_sha256": "6ae2ba9ae5e2004f480b95dbf63dfd6c7e9dcaa565384d29f0e1a665e7cb9550",
+  "global_errors": [],
+  "parents": 18,
+  "child_segments": 34,
+  "packages": 46,
+  "receipts_found": 46,
+  "package_checks_passed": 46,
+  "package_checks_needs_review": 0,
+  "package_checks_awaiting_receipt": 0,
+  "child_dispositions": 34,
+  "embedding_ready_child_candidates": 34,
+  "complete": true,
+  "safety": {
+    "canonical_writes": false,
+    "chunk_writes": false,
+    "index_writes": false,
+    "embedding_calls": false,
+    "external_api_calls": false,
+    "taiwan_name_resolution": false,
+    "layout_or_plate_approval": false
+  },
+  "summary_sha256": "9bd5018531b71b84170d63409d4bf52dd2116d8a09b4c2537246f81057a5b666"
+}

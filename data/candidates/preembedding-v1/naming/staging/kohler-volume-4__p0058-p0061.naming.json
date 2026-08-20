@@ -1,0 +1,196 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-4:p0058-p0061",
+  "owner_shard": "S08",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S08/maker/structure-drafts/kohler-volume-4__p0058-p0061.json",
+  "source_draft_sha256": "63ece23c1709f585207934127bc3a248088b4122625839c21131ad7a489d95b8",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "d904447f7dbcb0ba1594095cbcd09eab9f509ccd0b61978bbc626ede9790fe28",
+    "validation_check_sha256": "621eadc761b74a934efae5af0730f20f6345ca4ba1b317ae59c36250bf7a284b",
+    "source_disposition_sha256": "b0768e4d59d8762b277b586ac1defdad34e6dbb0a5f9fe58c808a2663bf91713",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Helleborus viridis",
+    "authorship_candidate": null,
+    "aliases_candidates": [
+      "Grime Nieswurz",
+      "grime Christwurz",
+      "Barenwurz",
+      "BarenfuB",
+      "Ellebore vert",
+      "herbe a la brosse",
+      "herbe a setons",
+      "pommeliere",
+      "Bear's foot",
+      "Erba nocca",
+      "cavolo di lupo",
+      "Heleboraster viridis Moench"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Helleborus viridis"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_zh_tw": null,
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_checked",
+    "taxon_id": null,
+    "rationale": "TaiCOL returned no exact species record. Tai2 has an exact non-Taiwanese species record for Helleborus viridis L. and identifies the genus as 鐵筷子屬, but its species-level Chinese-name fields are blank. Kew POWO independently confirms Helleborus viridis L. as accepted and gives only the English vernacular green hellebore. Because Taiwan's exact public record supplies no Chinese species name, the result remains unresolved instead of manufacturing 綠鐵筷子 or another translation.",
+    "checked_at": "2026-08-13T13:41:37+08:00",
+    "display_name_source_scope": "unresolved",
+    "display_name_source_evidence_ids": [],
+    "display_name_is_taiwan_public": false,
+    "display_name_answer_policy": "scientific_name_only"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Helleborus viridis",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Helleborus+viridis",
+      "retrieved_at": "2026-08-13T13:39:45+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Grime nieswurz",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Grime+nieswurz",
+      "retrieved_at": "2026-08-13T13:39:46+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "grime christwurz",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=grime+christwurz",
+      "retrieved_at": "2026-08-13T13:39:46+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Ellebore vert",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Ellebore+vert",
+      "retrieved_at": "2026-08-13T13:39:46+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Erba nocca",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Erba+nocca",
+      "retrieved_at": "2026-08-13T13:39:46+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Heleboraster viridis",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Heleboraster+viridis",
+      "retrieved_at": "2026-08-13T13:39:46+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Helleborus viridis",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Helleborus%20viridis",
+      "retrieved_at": "2026-08-13T13:39:50+08:00",
+      "exact_result_count": 1,
+      "exact_results": [
+        {
+          "name": "<em>Helleborus</em> <em>viridis</em> L.",
+          "ebooksearch": "Helleborus viridis",
+          "simnametitle": "<em>Helleborus</em> <em>viridis</em>",
+          "type": "M",
+          "code": "999 990 186 2",
+          "apgfamily": "Ranunculaceae",
+          "chapgfamily": "毛茛科",
+          "family": "Ranunculaceae",
+          "chfamily": "毛茛科",
+          "genus": "Helleborus",
+          "chgenus": "鐵筷子屬",
+          "fern": "no",
+          "chname": "",
+          "comname": "",
+          "comtype": "",
+          "endetype": "Non-Taiwanese",
+          "result_type": "species"
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "species_url": "https://tai2.ntu.edu.tw/species/999%20990%20186%202",
+      "accepted_species_record": {
+        "name": "<em>Helleborus</em> <em>viridis</em> L.",
+        "ebooksearch": "Helleborus viridis",
+        "simnametitle": "<em>Helleborus</em> <em>viridis</em>",
+        "type": "M",
+        "code": "999 990 186 2",
+        "apgfamily": "Ranunculaceae",
+        "chapgfamily": "毛茛科",
+        "family": "Ranunculaceae",
+        "chfamily": "毛茛科",
+        "genus": "Helleborus",
+        "chgenus": "鐵筷子屬",
+        "fern": "no",
+        "chname": "",
+        "comname": "",
+        "comtype": "",
+        "endetype": "Non-Taiwanese"
+      },
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "kew_powo",
+      "authority": "Royal Botanic Gardens, Kew — Plants of the World Online",
+      "query_name": "Helleborus viridis",
+      "record_url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:711386-1/general-information",
+      "retrieved_at": "2026-08-13T13:41:37+08:00",
+      "evidence_excerpt": "Helleborus viridis L. — This species is accepted; common name green hellebore",
+      "assertion_scope": "external_scientific_name_metadata_only",
+      "evidence_source_scope": "non_taiwan_scientific_authority"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "No Taiwan public display name was assigned; Tai2's exact species record leaves the Chinese species-name field blank.",
+    "Preserve Helleborus viridis or green hellebore when needed; do not present 綠鐵筷子, 綠嚏根草, or another literal translation as a Taiwan public plant name without a source.",
+    "The external taxonomy evidence is metadata only and does not supply Köhler plant facts."
+  ]
+}

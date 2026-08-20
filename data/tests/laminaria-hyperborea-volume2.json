@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0",
+  "run_id": "production4-laminaria-hyperborea-profile-check-2026-08-13",
+  "batch_id": "kohler-v2-p315-p316-laminaria-hyperborea",
+  "source_id": "kohler-volume-2",
+  "source_filename": "第二集 mobot31753002839121.pdf",
+  "volume": 2,
+  "record_id": "laminaria-hyperborea",
+  "scientific_name": "Laminaria hyperborea (Gunnerus) Foslie",
+  "display_name": "極北海帶",
+  "pdf_pages": [315, 316],
+  "source_ranges": [
+    {
+      "pdf_page": 315,
+      "start_marker": "Laminaria Cloustoni Edmonston.",
+      "reason": "Keep the complete first page of the Laminaria Cloustoni entry."
+    },
+    {
+      "pdf_page": 316,
+      "end_marker": null,
+      "reason": "Keep the continuation, distribution, historical iodine passage and plate-caption text; image reasoning remains excluded."
+    }
+  ],
+  "promotion_scope": "Laminaria Cloustoni PDF pages 315-316 reviewed text ranges only; PDF 317 Ipomoea Purga and plate-image reasoning are excluded",
+  "token_unit_contract": "Provider-neutral regex units: Unicode word sequences or individual non-whitespace punctuation. These are deterministic portable chunk units, not a claim about Gemini's private tokenizer.",
+  "profiles": [
+    {"profile_id": "page-baseline", "target_token_units": null, "overlap_token_units": null},
+    {"profile_id": "section-aware-512-100-v1", "target_token_units": 512, "overlap_token_units": 100}
+  ],
+  "queries": [
+    {
+      "query_id": "laminaria-iodine-zh-tw",
+      "question": "本書如何記載極北海帶與碘的關係？",
+      "expected_status": "answerable",
+      "required_book_terms": ["Jod aus dem Meerwasser"],
+      "expected_pdf_pages": [316]
+    },
+    {
+      "query_id": "laminaria-iodine-en",
+      "question": "What does the book record about iodine and Laminaria cloustonii?",
+      "expected_status": "answerable",
+      "required_book_terms": ["Jod aus dem Meerwasser"],
+      "expected_pdf_pages": [316]
+    },
+    {
+      "query_id": "laminaria-distribution-zh-tw",
+      "question": "本書如何記載極北海帶的分布與水深？",
+      "expected_status": "answerable",
+      "required_book_terms": ["Grossbritannien", "grösseren Seetiefen"],
+      "expected_pdf_pages": [316]
+    },
+    {
+      "query_id": "laminaria-comparison-zh-tw",
+      "question": "本書如何區分極北海帶與 L. flexicaulis 的柄？",
+      "expected_status": "answerable",
+      "required_book_terms": ["Stiel sich daher leicht biegen lässt"],
+      "expected_pdf_pages": [315]
+    },
+    {
+      "query_id": "laminaria-wrong-name-refusal-zh-tw",
+      "question": "這兩頁是否把極北海帶寫成日本海帶 Saccharina japonica？",
+      "expected_status": "wrong_name",
+      "required_book_terms": ["Saccharina japonica"],
+      "expected_pdf_pages": []
+    },
+    {
+      "query_id": "laminaria-chromosome-refusal-zh-tw",
+      "question": "這兩頁記載極北海帶的染色體數是多少？",
+      "expected_status": "unanswerable",
+      "required_book_terms": ["Chromosom", "chromosome number"],
+      "expected_pdf_pages": []
+    }
+  ]
+}

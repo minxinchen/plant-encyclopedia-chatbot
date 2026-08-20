@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0053-p0054",
+  "owner_shard": "S01",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 141.822,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0053-p0054",
+    "book_taxon": {
+      "scientific_name_candidate": "Mcotiana Tabacum",
+      "authorship_candidate": "L.",
+      "aliases_candidates": [
+        "Tabak",
+        "Tobacco",
+        "Cultivated Tobacco",
+        "Virginian Tobacco",
+        "Nicotiane",
+        "Tabac",
+        "Nicotiana (N. latissima Mill., N. Lehm.)"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "description",
+        "pdf_page": 53,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "一年生草本，根黃白多須，莖直立近圓，高至1.5米。葉長60公分，披針形，兩側漸狹，基部抱莖。",
+        "warnings": [],
+        "source_line_range": [
+          4,
+          12
+        ],
+        "exact_source_quote": "           Beschreibung.       Einjahrige, krautartige Pflanze mit senkrecht in den Boden gehender, astiger,\ngelblichweisser,   mit   vielen Wurzelfasern besetzter Wurzel und einem einfachen oder wenig astigen,\naufrechten, fast stielrunden, driisig-kurzhaarigen,       im frisclien Zustande etwas klebrigen,         bis 1   1\n\n                                                                                                                     /2\n                                                                                                                          m hoben\nStengel.  Blatter bis 60 cm lang und 15 cm breit, lanzettformig oder eilanzettformig, beiderseits ver-\nschmalert, lang zugespitzt, sitzend, schwach wellenformig drusig-kurzhaarig, die unteren lialbstengel-\n                                                                      ,"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 53,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "葉表皮細胞近等徑，下表皮細胞較大波狀。具兩種腺毛，一種單細胞柄，一種多細胞柄含黏液。橫切面示柵狀組織及含草酸鈣結晶與澱粉粒的海綿組織。",
+        "warnings": [],
+        "source_line_range": [
+          57,
+          68
+        ],
+        "exact_source_quote": "             Anatoinisehes: Die Blatter besitzen auf der Oberseite eine Epidermis, welcbe aus nabezu isodiametrischen\nZellen zusammengesetzt ist, wahrend die Epidermis der Unterseite grossere Zellen von mehr wellenformigem Umnsse\nzeigt, die durch Spaltoffnungen unterbrocben sind.      Beide Flachen sind, vorziiglich bei jiingeren BKittem, mit zweierlei\nDriisenhaaren bedeckt, von denen die eine Sorte auf einem einzelligen Stiele sitzt, wahrend der Stiel der anderen\nHaarsattunff\n      >-,\"'\"\"\"\"& sich bedeutend streckt und zuletzt aus 3—6  sehr erweiterten, dunnwandigen,    luftfuhrenden Zellen besteht,\nvon denen die ilusserste einen klebrigen, bald austrocknenden, braunen, wahrscheinlich aus einem Gemenge von Fett,\nHarz und atherischem Oele zusammengesetzten Inhalte besitzt. Diese Drosenhaare sind sprode, fallen leicht ab und\nwerden bei alten Blattern nicht wieder ersetzt; daher iiltere Blatter fast kahl erscheinen. DerBlattquerschnitt zeigt\nder Hauptsache nach ein ausseres Palissadengewebe und ein inneres lockeres Gewebe, welches           m   einzelnen Zellen un-\ndeutlich krystallinisches Calciumoxalat fiihrt. wahrenddem der grosste Theil dieser Zellen mit zahlreichen und ansehn-\nlichen Starkekornern (nach Schlosing bis zu 20%) angefiillt ist.         (Fluckiger)."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 53,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產中、南美洲。現於全球溫帶及亞熱帶地區廣泛栽培，以獲取煙草。香氣僅在特定條件下形成。",
+        "warnings": [],
+        "source_line_range": [
+          70,
+          73
+        ],
+        "exact_source_quote": "         Verbreitung. In Central- und Sudamerika einbeimisch. Gegenwartig zum Zwecke der\nGewinnung des Rauch- und Scbnupftabaks in den gemassigten und subtropiscben Klimaten aller Erd-\ntheile baufig kultivirt. Das dem Rauchtabak unentbebrliche Aroma  entwickelt sich jedocb nur in\n                                           Weise"
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 53,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源自古巴原住民稱呼的捲菸筒。屬名紀念法國駐里斯本大使Jean Nicot。歷史記載其可能源自亞洲，後傳入美洲，1492年西班牙人於古巴發現。",
+        "warnings": [],
+        "source_line_range": [
+          74,
+          82
+        ],
+        "exact_source_quote": "           Name und Geschichtliches.          Der Name Tabac (Talacum) soil nicht, wie Monardes\nangiebt, von der zu den Kleinen Antillen geborenden Insel Tabago abstammen, sondern von Tabako,\nwomit die   Eingeborenen   von  Cuba,  zur  Zeit der Landung    der Spanier,   einen aus trocknen Tabaks-\nblattern gebildeten Cylinder bezeichneten, den sie zum Zwecke der Verscheuchung der Insekten (Moskitos)\nan der einen Seite  anbrannten.   Auch  nannten,  uach  einem  Berichte des  Franciscus  Hernandez,    die\n\nMexikaner die ca. % m langen Rohren, woraus sie ihren Tabak (Yetl oder Pycielt) rauchten, Tabakos.\nNicotiana ist  abgeleitet von dem  Namen   des franzosischen Gresandten in Lissabon, JeanNicot,   welcher\n sich   um die Verbreitung der Tabakspflanze verdient machte."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 54,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史上曾廣泛用於醫療，如治療絞痛、嵌頓疝氣及驚厥，現僅用於灌腸。亦曾用於驅除寄生蟲。主要用途為製成菸草、鼻煙及嚼菸。",
+        "warnings": [
+          "Content describes historical medical use; not modern medical advice."
+        ],
+        "source_line_range": [
+          75,
+          83
+        ],
+        "exact_source_quote": "         Anwendung.           Die Wirkung der Tabaksblatter ist im Wesentlichen gleichbedeutend mit der\ndes Nikotins. Der Tabak wurde fruiter in der Medizin haufiger angewendet als jetzt und zwar in Form\nvon Pillen und im Aufguss als krampfstillendes Mittel bei Kolik, eingeklemmten Briichen, Darm-\nverschlingungen, krampf hafter Hamverhaltung, Starrkrampf, gegen nervoses Herzklopfen und als schleim-\nabsonderndes Reizmittel etc. Gegenwartig wird er wenig benutzt und kommt der Hauptsache nach nur\nnoch als Aufguss in Klystirform bei Ileus und eingeklemmten Briichen in Anwendung. Priiher wurde\nauch der Aufguss gegen Kratze, iiberhaupt gegen Parasiten bei Menschen und Thieren verwendet. Die\nHauptverwendung finclet der Tabak, wie allgemein bekannt, zur Herstellung von Rauch-, Schnupf- und\nKautabak. (Husemann, Arzneimittell. 1125.)"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 54,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "主要成分為尼古丁，1828年分離。含揮發油、樹脂、膠質、澱粉、蠟、蛋白質、氨、蘋果酸、硝酸及草酸。根含尼古丁，種子則少。",
+        "warnings": [],
+        "source_line_range": [
+          40,
+          45
+        ],
+        "exact_source_quote": "         Bestandtheile. Als wirksamer Bestandtheil des Tabaks ist das zuerst von Vauquelin be-\nobachtete, im Jahre 1828 von Posselt und Reimann rein dargestellte, wahrscheinlich in dem Tabak\nan Aepfel- und Citronensaure gebundene, von letzteren aber leicht zu scheidende Nikotin zu betrachten.\nNach der Posselt - Reimann sch en Analyse der frischen Tabaksblatter enthalten 1000 Theile: 0.6 Nikotin,\n0.1 kampferartiges, fliichtiges Oel (Tabakskampfer, Nicotianin), ferner Harz, Kleber, Grummi, Starke-\nmehl, Wachs, Eiweiss, Ammoniak, Apfelsaure (nach Barral Nikotinsaure), Salpetersaure Goupil will     ;"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "42c8a9d74d030dd912b519074edaf477244836a5c6f77a154125ddae9ecf31c8"
+}

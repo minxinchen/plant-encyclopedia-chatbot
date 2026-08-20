@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-1:p0153-p0154",
+  "owner_shard": "S02",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S02/maker/structure-drafts/kohler-volume-1__p0153-p0154.json",
+  "source_draft_sha256": "bf752f803e5f947be488260b886eabf330463cdfda9518fd706a2d8cef4cc6d4",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "d18c0674e18b1de3d267ec34b40bd295119453c4d76e714e8693215e2b163716",
+    "validation_check_sha256": "4b557b141125df1ad475e27ce06f4b61b8348674e30a64756505c0fb322edc4b",
+    "source_disposition_sha256": "56823d2dec085f9d58441ce517140bd4f0f296b8f3ce99acd0b54dc4354f1498",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Populus nigra",
+    "authorship_candidate": "L.",
+    "aliases_candidates": [
+      "Populus italica Moench.",
+      "P. pymmidalis Roz.",
+      "P. dilatata Ait.",
+      "P. fastigiata Moench."
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Populus nigra"
+    ],
+    "accepted_scientific_name": "Populus nigra",
+    "display_name_zh_tw": "白楊",
+    "alternative_names_zh_tw": [
+      "黑楊",
+      "白楊木"
+    ],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0075455",
+    "rationale": "TaiCOL accepts the queried book binomial at species rank.",
+    "checked_at": "2026-08-13T13:58:40+08:00",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Populus nigra",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Populus+nigra",
+      "retrieved_at": "2026-08-13T13:58:40+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Populus nigra",
+          "matched_name_id": 59123,
+          "taxon_id": "t0075455",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Populus nigra",
+          "accepted_name_id": 59123,
+          "accepted_usage": [
+            {
+              "usage_id": 42632,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0075455",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0075455",
+          "taxon": {
+            "taxon_id": "t0075455",
+            "taxon_status": "accepted",
+            "name_id": 59123,
+            "simple_name": "Populus nigra",
+            "name_author": "L.",
+            "rank": "Species",
+            "common_name_c": "白楊",
+            "alternative_name_c": "黑楊,白楊木",
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

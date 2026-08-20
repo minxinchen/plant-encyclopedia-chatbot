@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0223-p0224",
+  "owner_shard": "S02",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 124.7,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0223-p0224",
+    "book_taxon": {
+      "scientific_name_candidate": "Chondrus crispus",
+      "authorship_candidate": "Lyngb.",
+      "aliases_candidates": [
+        "Fucus crispus L.",
+        "Sphaerococcus crispus Agardh",
+        "Gigartina mamillosa J. Agardh",
+        "Sphaerococcus mamillosus Ag.",
+        "Mastocarpus mamillosus Ktz."
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 223,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Chondrus crispus，同義名包括 Fucus crispus 及 Gigartina mamillosa。隸屬 Gigartineae 科，Chondrus 屬。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          12
+        ],
+        "exact_source_quote": "                                 Chondrus crispus Lyngb.\n                      Syn. Fucus crispus L.       Sphaerococcus crispus          Agardh\n\n\n                           Gigartina mamillosa J. Agardh.\n               Syn. Sphaerococcus mamillosus Ag.          Mastocarpus mamillosus Ktz.\n\n      Carrageen,    Karragaheen,     Perlmoos,     Irlandisches Moos,            Irlandischer Perltang\n                Knorpeltang         Carrageen ou Mousse perl                     Irish   Moss\n\n         Familie: Gigartineae (Classe: Carposporeae, Ordnung: Florideae).                 Gattung: Chondrus\nKtz., Gigartina Ag."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 223,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "從扁平固著器生出，高 4-30 公分。葉片分叉，鮮時紫紅至紫褐，乾時皮質黃。組織含膠質髓部及細胞壁。",
+        "warnings": [],
+        "source_line_range": [
+          14,
+          27
+        ],
+        "exact_source_quote": "         Beschreibung.      Chondrus crispus Lyngb.: Aus                                dem Gestein\n                                                                einer flachen, rindenformigen,\nfest anhangenden Haftscheibe entspringen, in der Regel zu mehreren, die 4—15, auch bis 30 cm hohen,\nausdauernden Pflanzen, mit kurzem,        meist cylindrischem\n                                                            ,   auch verbreitertem Stiele und laubartigen,\nwiederholt gabeltheiligen, in Form und Zahl selir veranderlichen bald sclimalen, linealen, bald blatt-\n                                                                         ,\n\n\nartig verbreiterten Aesten.   Die Farbe des flachen oder am Rande wellig krausen, am Ende der Ab-\nschnitte abgerundeten  ,\n                         gestntzten, seicht ausgerandeten oder gespaltenen Thallus ist im frischen Zu-\nstande purpurroth^ bis purpurbraun nnd seine BeschafFenheit gallertartig, im trocknen Zustande leder-\ngelb nnd knorpelig.     Er besteht aus einer dunnen, von einem cuticulaahnlichen Hautchen bedeckten"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 223,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分佈於大西洋沿岸（北角至直布羅陀）、北美東岸及鄂霍次克海之岩石海岸。",
+        "warnings": [],
+        "source_line_range": [
+          65,
+          66
+        ],
+        "exact_source_quote": "         Verbreitung.     Beide Meeresalgen an felsigen und steinigen Kusten des Atlandischen Oceans\nvom   Nordkap bis Gibraltar und an den Ostkiisten Nordamerikas auch im Meere von Ochotsk."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 223,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源自愛爾蘭語，指生長於岩石上的苔蘚。1699 年 Morison 繪圖，1831 年 Todhunter 推薦藥用。",
+        "warnings": [],
+        "source_line_range": [
+          73,
+          84
+        ],
+        "exact_source_quote": "         Name und Geschichtliches.          Carrageen ist aus dem irlandischen Carrageen, Corrigeen,\nCarraigeen, womit die Irlander auf Felsen wachsendes Moos, speziell unsere Tange bezeichnen {yioqvta\nSchleim, ytyvo^iat entstehen, also schleimbildend), hervorgegangen.    Chondrus von %6vdqog Knorpel,\nwegen der knorpeligen BeschafFenheit der getrockneten Alge.      Gigartina ist abgeleitet von ylyaqvov\nWeinbeerenkern, wegen der kernartigen Form der Fruchtlager.        Mit Fucus (cpvYoog, cpvxloi>) bezeich-\nneten die Alten alle vom Meere ausgeworfenen Seepflanzen.     Crispus kraus; mamillosus von mamilla\n(mammilla), Brustwarze.   Sphaerococcus aus Gycuqa (Kugel) und komoq (Beere, Korn), wegen der Form\ndes Fruchtlagers.\n         Carrageen ist ein in Irland wohl schon langst gebrauchtes Genuss- und Heilmittel. Chondrus\ncrispus ist (nach Fluckiger) im Jahre 1699 von Morison abgebildet und im Jahre 1831 von Tod-\nhunter in Dublin arzneilich empfohlen worden. Carrageen als Arzneimittel verdankt seine Verbreitung\nin Deutschland den Empfehlungen von Grafe und Jobst."
+      },
+      {
+        "section_type": "harvest",
+        "pdf_page": 224,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歐洲產於北岸，美國產於普利茅斯。低潮時手工採集，退潮時用鐵耙。常混有其他藻類。",
+        "warnings": [],
+        "source_line_range": [
+          8,
+          18
+        ],
+        "exact_source_quote": "         Das europaische Carrageen wird an den Nord- und  Nordwestkusten   Hands   gesammelt   raid\n\n                                                            besonders  die  Kusten  der  Grafschaft\nliber Liverpool in den Handel gebracht.  In Amerika sind es\nPlymouth (Massaclmsetts) die nach Fliickigers Angabe jahrlich ca.\n                                      ,\n                                                                   1\n                                                                      Million  Pfund  liefern.  Die\n                                                                                                [2\nEinsamlung erfolgt bei niederstem Wasserstande, nach Springfluthen,  mit der Hand,  bei  gewohnhcher\nEbbe mit eisernen Rechen. Dem Carrageen, welches zum grosseren Theil      aus  Chondrns   cnspus,  zum"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 224,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史用途：煮水或製膠，用於慢性呼吸道、消化及泌尿道卡他，及兒童萎縮症。亦作食品、髮膠及啤酒澄清劑。",
+        "warnings": [
+          "Content describes historical medical use; not modern medical advice."
+        ],
+        "source_line_range": [
+          52,
+          61
+        ],
+        "exact_source_quote": "            Anwendung.    In wasserigen Abkochungen und in Form der offizinellen Gallerte als nah-\nrendes und zugleich reizlinderndes Mittel „bei chronischen Katarrhen der Respirations-, Digestions- und\nHarnorgane, sowie bei Atrophie im kindlichen Lebensalter.      Im Ganzen diirfen ihm bei dem zweifel-\nhaften Stickstoffgehalte wohl kaum bessere Wirkungen zugeschrieben werden als dem Amylum und\nkann es mit Vortheil wohl nur da gebraucht werden, wo Storungen der Darmfunktionen, namentlich\nDiarrhoe, im kindlichen Lebensalter zu Anamie und Atrophie fuhrt, deren Ursachen es beseitigen kann. u\nDas             Moos wird von den armen Ktistenbewohnern Irlands als Nahrungsmittel verwendet,\n        irlandische\ndient ausserdem in der Cosmetik zum Befestigen der Haare (Bandoline), auch zum Klaren des Bieres\nund anderer Flussigkeiten. (Husemann, Arzneimittell. 335.)"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "a6d617e4f7f43b0600fa0760c59706261f462bef08c0a2953205234e0f69bf37"
+}

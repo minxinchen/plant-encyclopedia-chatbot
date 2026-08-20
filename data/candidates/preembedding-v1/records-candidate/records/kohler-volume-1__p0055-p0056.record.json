@@ -1,0 +1,270 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0055-p0056",
+  "entry_id": "kohler-volume-1:p0055-p0056",
+  "owner_shard": "S01",
+  "book_taxon": {
+    "scientific_name": "Althaea rosea",
+    "authorship": null,
+    "aliases": [
+      "Alcea rosea L.",
+      "Malva rosacea",
+      "Rose di Francia",
+      "Malva romana",
+      "Malva ultra marina",
+      "Ernrose",
+      "Malva rosea fruticosa"
+    ]
+  },
+  "display_name": "蜀葵",
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Althaea rosea",
+      "Alcea rosea"
+    ],
+    "accepted_scientific_name": "Alcea rosea",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T15:49:18+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Althaea+rosea",
+        "query_name": "Althaea rosea",
+        "retrieved_at": "2026-08-13T15:49:17+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0052552",
+        "query_name": "Althaea rosea",
+        "retrieved_at": "2026-08-13T15:49:17+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0052552",
+        "query_name": "Althaea rosea",
+        "retrieved_at": "2026-08-13T15:49:17+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Alcea+rosea",
+        "query_name": "Alcea rosea",
+        "retrieved_at": "2026-08-13T15:49:18+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "A scientific alias explicitly printed in the Köhler entry exactly matches a TaiCOL species with a Taiwan public name."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 55,
+      "evidence_type": "text",
+      "page_text_sha256": "e332a77fceb7c048baa0ba1797f87c4d50804ab804c6b94e54961093481a85e7",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 56,
+      "evidence_type": "text",
+      "page_text_sha256": "07d8a260f2f5aca109d5335b76447d78547f928f56f604e87e5c27143f8eb46c",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0055-p0056:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                                   Althaea rosea Cav.\n                                                                                                 *\n\n\n\n\n                                                       Syn. Alcea rosea L.\n                                                                                                                                                       V\n\n\n\n\nStockmalve, Stockrose, Winterrose, Pappelrose, Schwarze Malve                                                              — Garden mallow\n                                                   Passe rose, Rose tremiere.\n\n             Familie: Malvaceae.              Gattung: Althaea L.                                                                              r",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Althaea rosea，同義名 Alcea rosea。俗名 Stockmalve、Stockrose。隸屬錦葵科。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 55,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 0,
+        "char_end": 767,
+        "page_text_sha256": "e332a77fceb7c048baa0ba1797f87c4d50804ab804c6b94e54961093481a85e7",
+        "exact_text_sha256": "a89cd9ec39e7995503ab282188fe3abbcf8d36b3b5fb6848513621fe7ee320f1",
+        "source_line_start": 1,
+        "source_line_end": 16,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "a89cd9ec39e7995503ab282188fe3abbcf8d36b3b5fb6848513621fe7ee320f1",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0055-p0056:s01:x00",
+      "section_type": "description",
+      "original_text": "             Beschreibung.           Zwei- oder mehrjahrige Pflanze mit senkrecht in den Boden gehender astiger,\n                                                             sr   Wurzel und aufrechtem 1— 2 /i m hohem, rundem, einfachem\n                                                                                                              1\n\n\n\n\noder wenig verasteltem,             zerstreut kurzhaarigem               ,       unten dicht beblattertem Stengel.                    Blatter gestielt,\n\nrundlich - herzformig ,          gekerbt,    rnnzelig,            beiderseits          steif haarig - filzig ,     die    untersten    sehr   gedrangt,\n\n5— 71appig, die oberen Slappig, allnialig kleiner werdend, endlich in die Deckblatter ubergehend.",
+      "normalized_text": null,
+      "zh_tw_rendering": "多年生植物，直立莖高1-2米。葉圓心形，邊緣波狀，兩面被硬毛，下部葉密集，上部葉漸小。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 55,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 772,
+        "char_end": 1527,
+        "page_text_sha256": "e332a77fceb7c048baa0ba1797f87c4d50804ab804c6b94e54961093481a85e7",
+        "exact_text_sha256": "a2ecd50770ea752b5f76e82cae33075a055b7d0994c51bc0e63a56d40dd3560c",
+        "source_line_start": 21,
+        "source_line_end": 32,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "a2ecd50770ea752b5f76e82cae33075a055b7d0994c51bc0e63a56d40dd3560c",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0055-p0056:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "Blattstiele rand,       steif haarig - zottig ,     nacb oben          kiirzer         werdend.         Nebenblatter beiderseits an der Basis\n\nder Blattstiele,       ziemlich breit,        in   mehrere schmale Zipfel gespalten; Bliithen 5— 7*/s cm im Durch-\nmesser,  7\n             einzeln   oder 2     — 3 in der Blattachsel, die oberen sehr knrz                                   gestielt,     bis fast sitzend,    durch\n\nVerkummern         der Tragblatter eine endstandige Traube bildend, weiss, gelb, purpnrn bis fast schwarz.\n\nKronblatter 5 oder mehrere, sehr gross, geschweift oder ausgefressen gekerbt, breit herzformig oder\n\nrundlich dreieckig, sehr stumpf, etwas wellig, genagelt, von zarten Gefassbtindeln durchzogen.                                                     Kelch",
+      "normalized_text": null,
+      "zh_tw_rendering": "花徑5-7.5公分，單生或簇生，色白、黃、紫至近黑。花瓣5枚或多，大，邊緣波狀或深裂。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 55,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 1528,
+        "char_end": 2313,
+        "page_text_sha256": "e332a77fceb7c048baa0ba1797f87c4d50804ab804c6b94e54961093481a85e7",
+        "exact_text_sha256": "9337b0ebb5d78005b15edb2912772ea39fb62a27a715e775df330918e128f315",
+        "source_line_start": 33,
+        "source_line_end": 43,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "9337b0ebb5d78005b15edb2912772ea39fb62a27a715e775df330918e128f315",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0055-p0056:s03:x00",
+      "section_type": "distribution",
+      "original_text": "             Verbreitung,            Im     Orient wild wachsend.                       Im   grossten Theile Europas, bis Norwegen, in\n                                                                                   *\n\n\n\n\nzahlreichen Varietaten der Blumen wegen                             haufig kultivirt.                Die Stockrose wird bei Niirnberg und in\n\nWiirtembers: als Handelspflanze gezogen.",
+      "normalized_text": null,
+      "zh_tw_rendering": "原產東方，歐洲廣泛栽培至挪威。德國紐倫堡及符騰堡地區作為經濟作物種植。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 55,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4126,
+        "char_end": 4532,
+        "page_text_sha256": "e332a77fceb7c048baa0ba1797f87c4d50804ab804c6b94e54961093481a85e7",
+        "exact_text_sha256": "eba8b096d7d9c2cb2fe15e77d952f48aad9f679cda5d23117004516ae339411f",
+        "source_line_start": 76,
+        "source_line_end": 84,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "eba8b096d7d9c2cb2fe15e77d952f48aad9f679cda5d23117004516ae339411f",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0055-p0056:s04:x00",
+      "section_type": "history",
+      "original_text": "ist   abgeleitet    von ahtm        (ahaeiv helfen, heilen,                  ahwo starken), womit Dioscorides die in Griechen-\n                                      Malop\n             Ob   den Alten die Stockrose bekannt gewesen ist,                                lasst sich      mit Bestimmtheit nicht ermitteln.\n\n                           Dioscorides beschriebene, von den Griechen zu Arzneizwecken kultivirte\nNach Sprengel soil die von\n                                  annahm,             sondern die jetzt noch in Griechenland haufig\nGartenmalve nicht, wie man fruher         unsere Art,\n\n             Malva silvestris g wesen sein.                       Der Neapolitaner Giovanni Battista Porta (1537—1615)",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源自希臘語，意為幫助或治癒。古希臘是否已知此種尚無定論，Dioscorides所描述者可能為Malva silvestris。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 55,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4853,
+        "char_end": 5567,
+        "page_text_sha256": "e332a77fceb7c048baa0ba1797f87c4d50804ab804c6b94e54961093481a85e7",
+        "exact_text_sha256": "ff3a181d88ad330d3cf6ebfdd7f8a7e7cc97390822c41bc35e5c7e48bd64abc9",
+        "source_line_start": 92,
+        "source_line_end": 101,
+        "section_index": 4,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "ff3a181d88ad330d3cf6ebfdd7f8a7e7cc97390822c41bc35e5c7e48bd64abc9",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0055-p0056:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "                Anwendung.            Die Stockrosenbliithen werden zur Herstellung schleimiger Dekokte und in\ndieser     Form besonders zu Grurgelwassern verwendet.                                Sie   sind,            namentlich wegen des          Gehaltes   an\nzusammenziehend wirkendem Gerbstoff, zur Anwendung bei Angina sehr geeignet.                                                       Die Pharmakopoea\ngerm. ed. altera hat           sie nicht   wieder aufgenommen.                   (Husemann, ArzneimittelL 333.)",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：花用於製備黏液煎劑及漱口水。因含收斂性單寧，曾用於治療咽喉痛。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 56,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 2292,
+        "char_end": 2815,
+        "page_text_sha256": "07d8a260f2f5aca109d5335b76447d78547f928f56f604e87e5c27143f8eb46c",
+        "exact_text_sha256": "978796b1d1554c408e7ad62343017c2e668b1580f1706744671180cbb80a3fbf",
+        "source_line_start": 39,
+        "source_line_end": 42,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "978796b1d1554c408e7ad62343017c2e668b1580f1706744671180cbb80a3fbf",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "The Taiwan accepted name is linked through a scientific alias printed in Köhler; Köhler facts remain attached to the book taxon.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "3892884a850b30d12efc26d2f1ad04445f460ee375ec9ae84f605ee28861854a",
+    "maker_receipt_sha256": "b77028a42c005a04620f4ca18b265e599e6714d717e5b7fc1ff6f16c0ef017d0",
+    "validation_check_sha256": "d5def45a728f2095ac354c6ad4efe052a11b04f47e59cdbeef85e764fd289549",
+    "source_disposition_sha256": "ea190b1e8ebdf1fbeb8054efcf8d863082a6c0d5ba19fba6506f3302c16754d9",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "b77028a42c005a04620f4ca18b265e599e6714d717e5b7fc1ff6f16c0ef017d0",
+      "validation_check_sha256": "d5def45a728f2095ac354c6ad4efe052a11b04f47e59cdbeef85e764fd289549",
+      "source_disposition_sha256": "ea190b1e8ebdf1fbeb8054efcf8d863082a6c0d5ba19fba6506f3302c16754d9"
+    },
+    "naming_artifact_sha256": "c710a49e2b653f5be917cafd8414d12f795c706997c05107d9e187e89ac3a064"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "b31f9a79b98364dc6067974f80cb55d55af2520e72654a6045efda2647f1079c"
+}

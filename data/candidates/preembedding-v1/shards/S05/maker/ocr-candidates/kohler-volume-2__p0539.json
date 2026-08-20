@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 539,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "render_dpi": 144,
+  "render_sha256": "31b1e4d0636feb55115de049658aeafee8c4563aff7e954cdf7373be65c44c2e",
+  "input_sha256": "31b1e4d0636feb55115de049658aeafee8c4563aff7e954cdf7373be65c44c2e",
+  "render_pixel_width": 5438,
+  "render_pixel_height": 8174,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.025,
+  "embedded_character_count": 0,
+  "ocr_character_count": 39,
+  "ocr_alpha_ratio": 0.6923,
+  "candidate_disposition": "candidate_quality_gain",
+  "staging_disposition": "candidate_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.02414843203529471,
+      "text": "Polygalaceae.",
+      "width": 0.15096125364481383,
+      "x": 0.7946067075974952,
+      "y": 0.8978095052141168
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010174418252612005,
+      "text": "7",
+      "width": 0.010917030636007241,
+      "x": 0.8951965064341797,
+      "y": 0.42877907007064164
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "12",
+      "width": 0.017467248448678308,
+      "x": 0.8842794763215124,
+      "y": 0.28197674427727926
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "13",
+      "width": 0.01746724844867842,
+      "x": 0.8034934501861412,
+      "y": 0.26162790712996076
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0260494095938546,
+      "text": "Polygala Senega L",
+      "width": 0.23393683038835295,
+      "x": 0.37102285312675537,
+      "y": 0.11415552788139505
+    }
+  ],
+  "text": "Polygalaceae.\n7\n12\n13\nPolygala Senega L",
+  "output_sha256": "cf2930341d4fbf8b752e40ce0832bc468ebe4e349d9e80526e0525f524c57c1b",
+  "receipt_sha256": "076e57df3e5d5d756db0b14669f4b329257ac32bbb9438d3e92409498da07a8d"
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 491,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "0639f2d065f7f8b75433d1f70dbe56bffca51ba15c5d8b07cd280c96498e5045",
+  "render_dpi": 144,
+  "render_sha256": "72d1a467af1a7204067d736faabca769e4692d9f8eb877d0d15453fe1a32c12f",
+  "input_sha256": "72d1a467af1a7204067d736faabca769e4692d9f8eb877d0d15453fe1a32c12f",
+  "render_pixel_width": 5726,
+  "render_pixel_height": 8222,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.16,
+  "embedded_character_count": 587,
+  "ocr_character_count": 31,
+  "ocr_alpha_ratio": 0.871,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.017601743577018714,
+      "text": "Pedaliaceae",
+      "width": 0.10026593765302261,
+      "x": 0.8642720423278138,
+      "y": 0.9519549422053648
+    },
+    {
+      "confidence": 1,
+      "height": 0.020585317460317443,
+      "text": "Sesamum indicum DC.",
+      "width": 0.1941544839799234,
+      "x": 0.41544885235241835,
+      "y": 0.015873015493507947
+    }
+  ],
+  "text": "Pedaliaceae\nSesamum indicum DC.",
+  "output_sha256": "995ae6dcc8d87d682f5b3ba2cd0d8ca6109366ff7a5dfc668ef01f128b8a47c0",
+  "receipt_sha256": "e01734688ae036d79e19fef921b7a302f397e50ce0d938b8169af3a4ca48fb5e"
+}

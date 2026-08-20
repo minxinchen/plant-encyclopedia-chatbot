@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0191-p0196",
+  "owner_shard": "S03",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 165.82,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0191-p0196",
+    "book_taxon": {
+      "scientific_name_candidate": "Astragalus adscendens",
+      "authorship_candidate": "Boiss. et Hausskn.",
+      "aliases_candidates": []
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 191,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "隕落科，Astragaleae亞科，Astragalus屬，Tragacantha亞屬。",
+        "warnings": [],
+        "source_line_range": [
+          9,
+          10
+        ],
+        "exact_source_quote": "       Familie: Leguminosae (Papilionaceae);         Unterfamilie: Astragaleae; Gattung: Astragalus L.;\nUntergattung: Tragacantha."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 192,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "1-1.5米高灌木，傘狀上升枝，三角狀基部絨毛托葉，4-6對葉，葉片狹長帶刺尖。",
+        "warnings": [],
+        "source_line_range": [
+          3,
+          10
+        ],
+        "exact_source_quote": "    1. Astragalus       adscendens Boiss. et Hausskn.     1—11/, Meter hoher Strauch mit schirmartig auf-\n           steigenden, vielen und kurzverzweigten Aesten, dreieckigen, am Grunde filzigen Nebenblättern,\n           4—6jochigen Blüttern mit gefalteten, schmal-oblong-linealen, stachelspitzigen, angedrückt steif-\n           haarigen Fiederblättchen. Blüthen zu mehreren aus den Blattachseln.        Brakteen sehr klein,\n           ei-kappenförmig, spitzlich, steifhaarig. Kelch am Grunde kurzfilzig, mit lanzettlichen, an der\n           Spitze nicht kablen Zähnen, welche ungefähr die halbe Länge der Röhre besitzen. ‘Die lánglich-\n           spatelfórmige, am. Grunde verschmälerte Fahne etwa doppelt so lang als der Kelch. In den süd-\n           westlichen Gebirgsgegenden Persiens einheimisch, bis zu 3000 Meter Meereshöhe emporsteigend."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 192,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產於伊朗西南部山區，海拔可達3000米。",
+        "warnings": [],
+        "source_line_range": [
+          9,
+          10
+        ],
+        "exact_source_quote": "           spatelfórmige, am. Grunde verschmälerte Fahne etwa doppelt so lang als der Kelch. In den süd-\n           westlichen Gebirgsgegenden Persiens einheimisch, bis zu 3000 Meter Meereshöhe emporsteigend."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 193,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "阿拉伯膠源自髓部與髓射線，細胞壁轉化為黏液，吸水膨脹後從裂縫擠出。",
+        "warnings": [],
+        "source_line_range": [
+          40,
+          49
+        ],
+        "exact_source_quote": "          Anatomisches: Der Ursprung des Traganth ist nach den Untersuchungen von; Mohl,\n Kützing und Wigand in dem Marke und den Markstrahlen zu suchen; seine Bildung beruht nicht\n auf einer Ausscheidung von Gummi in besonderen Zellen, sondern auf einer Umbildung des Gewebes\ngenannter Organe. Die im Anfange dünnwandigen Parenchyınzellen in der Mitte des Markes und in\nden inneren Schichten der Markstrahlen verdicken sich nach und nach durch Bildung vieler dünner\nSchichten, so dass ein sehr enges, mit kleinen Stärkekörnern erfülltes Lumen übrig bleibt. Diese\nverdickten Wandungen werden allmählich aus Cellulose in Schleim übergeführt, und schliesslich durch\nVerschmelzung eine strukturlose, die Zellreste einhüllende Masse gebildet, die ein starkes Quellungs-\nvermögen besitzt und durch die Feuchtigkeit der atmosphärischen Luft so im Volumen zunimmt, dass\nein Herauspressen aus Rissen, natürlichen und küns tlichen Spalten und zwar in Form von gewundenen,"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 194,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史記載：西元前提及於克麗特與北伊朗；中世紀用於製藥與絲綢整理。",
+        "warnings": [],
+        "source_line_range": [
+          19,
+          26
+        ],
+        "exact_source_quote": "         Theophrast erwähnt den Traganthstrauch unter dem Namen Toayaxavga und bezeichnet\nKreta, den Peloponnes und Nordpersien als sein Vaterland.       Plinius nannte ihn Spina alta.\nDioscorides, Celsus und Plinius beschäftigten sich mit dem ausfliessenden Schleim, welchen\nGalen, der das Gewächs zu den Gemtisepflanzen zählte, ‫سموم‬‎ nannte. Bei den Arabern begegnen\nwir der Droge im 10. Jahrhundert; ebenso beschäftigte sich die Schule von Salern mit ihr, die\nnamentlich 2 Pulvermischungen, Diatragacanthum frigidum und calidum, aus ihr bereitete. In\nDeutschland finden wir die Droge im 12. Jahrhundert, zu welcher Zeit sie unter dem Namen\nDraganti als Bestandtheil einer Augensalbe genannt wird. Der Florentiner Pegolotti (um 1340)"
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 196,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "圖版描述：Astragalus adscendens開花枝條、葉、花、雄蕊、花粉及雌蕊結構。",
+        "warnings": [],
+        "source_line_range": [
+          30,
+          33
+        ],
+        "exact_source_quote": "           A blühender Zweig des Astragalus adscendens Boiss. natürl. Grösse; 1 Blatt, desgl; 2 Blüthe, vergrössert;\n9 Staubgefásse mit Griffel, desgl.; 4 einzelnes Staubgefäss, desgl.; 5 Pollen, desgl. 6 Fahne, desgl.; 7 Flügel, desgl.;\n8 Sehiffehen, desgl.; 9 Stempel, desgl; 10 Fruchtknoten im Längsschnitt, desgl        Nach einer Originalzeichnung des\nHerrn Prof. Schmidt in Berlin."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "5abd2764a1b287fd03bab22883877e154ca6127b16876d26821541e5646050a5"
+}

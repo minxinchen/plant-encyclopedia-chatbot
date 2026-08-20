@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0",
+  "run_id": "production4-laminaria-hyperborea-2026-08-13",
+  "started_at": "2026-08-13T07:23:55+08:00",
+  "finished_at": "2026-08-13T07:34:00+08:00",
+  "status": "approved",
+  "cost": {"incremental_usd": 0, "paid_fallback_used": false},
+  "input": {"pages_file": "data/fulltext/kohler-pages.sqlite#kohler-volume-2:p315-p316-reviewed-ranges", "name_file": "data/sample-name-resolution.json#Laminaria-hyperborea", "page_count": 2, "taxon_count": 1},
+  "stages": [
+    {"name": "candidate_selection_and_visual_boundary", "attempt": 1, "status": "passed", "tool": "durable OCR selector plus PDF skill Poppler render and Codex page review", "checks": ["Laminaria Cloustoni spans PDF pages 315-316, within the six-page limit.", "PDF page 317 visibly begins Ipomoea Purga.", "Plate caption text is retained separately while image reasoning remains disabled."], "retry_target": null},
+    {"name": "name_and_source_exact_record", "attempt": 1, "status": "passed", "tool": "Taiwan Ministry of Agriculture naming metadata, WoRMS taxonomy and deterministic source-range validator", "checks": ["Taiwan display name is 極北海帶.", "Laminaria cloustonii is mapped to the modern accepted name Laminaria hyperborea.", "Eight record sections occur exactly inside cited PDF pages 315-316.", "Taiwan naming is not treated as Taiwan occurrence."], "retry_target": null},
+    {"name": "embedding_and_retrieval", "attempt": 1, "status": "passed", "tool": "one gemini-embedding-2 Free Tier batch plus deterministic German-term hybrid checker", "checks": ["One external call embedded two page baselines, five 512/100 children and six query vectors.", "Pure semantic answer recall@1 was 0.5 and is retained as a failure observation.", "Hybrid retrieval puts iodine and distribution on PDF 316 and the stipe comparison on PDF 315.", "Saccharina japonica wrong-name and chromosome questions refuse."], "retry_target": null},
+    {"name": "portable_integration_and_regression", "attempt": 1, "status": "passed", "tool": "SQLite migration, deterministic chat API, Gem exporter, completion calculator and inactive n8n replay harness", "checks": ["Main index contains 54 approved child chunks across 25 parent pages and 39 approved queries.", "The deterministic chat API passes 56 cases across eight approved fact records.", "The Classic Gem pack exports eight records and 54 canonical child chunks.", "PEHybridIdx001 includes the Laminaria fixture and remains inactive; n8n and Qwen remain stopped."], "retry_target": null}
+  ],
+  "review_summary": {"passed": 4, "needs_review": 0, "failed": 0, "warnings": ["No volume is fully processed.", "The roadmap-weighted 40.6% is a planning indicator, not content coverage or full-book accuracy.", "Approved page coverage is 1.41% and operational candidate-taxon coverage is 3.35%.", "Historical medicinal content is not modern medical advice.", "Image reasoning remains disabled."]}
+}

@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 509,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "dde5a52731dacfe4707939e5878bbd5a391eee311e5e4fd2ee8d28ef26f98a67",
+  "render_dpi": 144,
+  "render_sha256": "c6a475f65ddea268c7e036c2fac228064834b9fcb3c956e40f18c6ec84b69f09",
+  "input_sha256": "c6a475f65ddea268c7e036c2fac228064834b9fcb3c956e40f18c6ec84b69f09",
+  "render_pixel_width": 5330,
+  "render_pixel_height": 8354,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.107,
+  "embedded_character_count": 101,
+  "ocr_character_count": 57,
+  "ocr_alpha_ratio": 0.8246,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01944159326099215,
+      "text": "Ranunculaceae",
+      "width": 0.13230790394831965,
+      "x": 0.02724012630077184,
+      "y": 0.957575715039415
+    },
+    {
+      "confidence": 1,
+      "height": 0.019043258258274687,
+      "text": "(Helleboreae)",
+      "width": 0.10029611543029499,
+      "x": 0.043246019596240665,
+      "y": 0.9359725571061255
+    },
+    {
+      "confidence": 1,
+      "height": 0.02331349206349209,
+      "text": "Delphinium Staphysagria I.",
+      "width": 0.24601365915538742,
+      "x": 0.4123006889188895,
+      "y": 0.05084325373569576
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "67",
+      "width": 0.02050113826294886,
+      "x": 0.9453302966771816,
+      "y": 0.0159883722171702
+    }
+  ],
+  "text": "Ranunculaceae\n(Helleboreae)\nDelphinium Staphysagria I.\n67",
+  "output_sha256": "dddde7dfefe20cdfe197b67716ea1c1490e1da3516c8579e00a0b90c93ed70d2",
+  "receipt_sha256": "8662e12b64a6373837f356f6ee1472a1d06124031e05e8b4eb5eaa5a7c8b578b"
+}

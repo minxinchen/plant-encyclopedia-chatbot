@@ -1,0 +1,281 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0109-p0112",
+  "entry_id": "kohler-volume-2:p0109-p0112",
+  "owner_shard": "S03",
+  "book_taxon": {
+    "scientific_name": "Sassafras offieinale",
+    "authorship": "Nees v. Esenb.",
+    "aliases": [
+      "Laurus Sassafras L.",
+      "Persea Sassafras Spr.",
+      "Sassafras album Nees",
+      "Sassafras Sassafras Karsten"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Sassafras offieinale"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T15:09:45+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Sassafras+offieinale",
+        "query_name": "Sassafras offieinale",
+        "retrieved_at": "2026-08-13T15:09:42+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Laurus+sassafras",
+        "query_name": "Laurus sassafras",
+        "retrieved_at": "2026-08-13T15:09:43+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Persea+sassafras",
+        "query_name": "Persea sassafras",
+        "retrieved_at": "2026-08-13T15:09:43+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Sassafras+album",
+        "query_name": "Sassafras album",
+        "retrieved_at": "2026-08-13T15:09:43+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Sassafras+sassafras",
+        "query_name": "Sassafras sassafras",
+        "retrieved_at": "2026-08-13T15:09:43+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 109,
+      "evidence_type": "text",
+      "page_text_sha256": "75a89acdbf2c96a0cd809039bb104aee9572d9c0a00b2bd3c0eef17038a1d8d0",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 110,
+      "evidence_type": "text",
+      "page_text_sha256": "320463f0f0e87fa770fe32a31a6ae4e81d027acb2fdc30a9bb240be631415943",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 111,
+      "evidence_type": "text",
+      "page_text_sha256": "aed5b6cc4f69715843ff1c27ca6facf3bc13f4c76bc69f299f19fd0781ac1e0b",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0109-p0112:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                           Sassafras offieinale Nees v. ‫یمن‬‎\n            Syn. Laurus        Sassafras L. Persea Sassafras Spr. Sassafras album Nees.\n                                        Sassafras Sassafras Karsten.\n\n            Familie: Lauraceae.      Gattung: Sassafras Bauh.",
+      "normalized_text": null,
+      "zh_tw_rendering": "屬 Lauraceae，種 Sassafras，異名包括 Laurus Sassafras 及 Persea Sassafras。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 109,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 282,
+        "page_text_sha256": "75a89acdbf2c96a0cd809039bb104aee9572d9c0a00b2bd3c0eef17038a1d8d0",
+        "exact_text_sha256": "d6e0a2081881e9cabd3ba733fd3086946988c5e7b1ac56aeb867bb4a4273ed44",
+        "source_line_start": 1,
+        "source_line_end": 5,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "d6e0a2081881e9cabd3ba733fd3086946988c5e7b1ac56aeb867bb4a4273ed44",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0109-p0112:s01:x00",
+      "section_type": "description",
+      "original_text": "          Beschreibung.        Diócischer, in den nórdlichen Staaten Nordamerikas strauchartiger, bis\n10 Meter hoher, in dem wärmeren Nordamerika bis 30 Meter hoher, stattlicher Baum mit über 15 Ctm.\ndicker, ästig-knorriger, hin- und hergebogener, schwammig-borkiger Wurzel und cylindrischen, zähen,\ngelblich-grünen, in der Jugend graufilzig berindeten Zweigen. Knospe entweder nur blättertragend\nund dann kleiner und seitenstándig oder blatt- und blüthentragend und dann endstindig oder der\nSpitze genähert, mit gewölbten, trockenen, kastanienbraunen Schuppen bedeckt. Die mit 1—4 Ctm. langen\nStielen versehenen Blätter dünn, weich, alljährlich abfallend, wechselständig, oft gegenstündig, anfangs `\nbeiderseits behaart, weich-krautartig, später nur auf der Unterfläche grau seidenhaarig, zuletzt kahl und\npapierartig, entweder auf beiden Seiten gleichfarbig, dunkelgrün oder unterseits blasser, fiedernervig,\nbis 14 Ctm. lang, bis 8 Ctm. breit, aus zugespitzter oder keilförmiger Basis oval und zugespitzt oder\nstumpf. Frühjahrsblütter einfach, die späteren stumpf buchtig 2—3lappig, selten alle einfach. Die",
+      "normalized_text": null,
+      "zh_tw_rendering": "北美灌木或喬木，高10-30米，葉互生，春葉單葉，夏葉2-3裂，花單性，果實藍黑色。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 109,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 283,
+        "char_end": 1393,
+        "page_text_sha256": "75a89acdbf2c96a0cd809039bb104aee9572d9c0a00b2bd3c0eef17038a1d8d0",
+        "exact_text_sha256": "60652a72b0315fa9f6596d98eac9056c2bfd90bf79afdedec476d67423533e49",
+        "source_line_start": 6,
+        "source_line_end": 16,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "60652a72b0315fa9f6596d98eac9056c2bfd90bf79afdedec476d67423533e49",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0109-p0112:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "          Anatomisches. Der Querschnitt der Wurzel zeigt eine geschichtete, radial gestreifte Rinde\nund ein, namentlich an der Grenze der Jahrringe, poröses Holz, welches von zahlreichen schmalen\nMarkstrahlen durchschnitten ist. Die Wurzelrinde besteht aus einer aussen schwammigen Borke, deren\nparenchymatische Zellen mit dunkelrothem Farbstoff und vereinzelt mit gelbem ätherischen Oele an-\ngefüllt sind. Nach innen folgt ein braunwandiges Gewebe mit zahlreichen grossen Oelzellen und ver- :\n\n\n                                                                                                                    100",
+      "normalized_text": null,
+      "zh_tw_rendering": "根橫切面顯示層狀皮層及多孔木質部，含紅色色素及精油細胞，木質部具明顯年輪。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 109,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3291,
+        "char_end": 3906,
+        "page_text_sha256": "75a89acdbf2c96a0cd809039bb104aee9572d9c0a00b2bd3c0eef17038a1d8d0",
+        "exact_text_sha256": "eb93bb0659c630d59430a513289a8d5fb688239a39e57d0f4c52135e1f4c8724",
+        "source_line_start": 36,
+        "source_line_end": 43,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "eb93bb0659c630d59430a513289a8d5fb688239a39e57d0f4c52135e1f4c8724",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0109-p0112:s03:x00",
+      "section_type": "distribution",
+      "original_text": "            Vorkommen.           Nordamerika;        von    Missouri und Florida bis Canada.",
+      "normalized_text": null,
+      "zh_tw_rendering": "產於北美，分佈範圍從密蘇里州及佛羅里達州至加拿大。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 110,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 1712,
+        "char_end": 1804,
+        "page_text_sha256": "320463f0f0e87fa770fe32a31a6ae4e81d027acb2fdc30a9bb240be631415943",
+        "exact_text_sha256": "74bbb2e2f35fe10a5fd2ab6727033bcb0aef4edaf2c795e9bfead6229a9a23d1",
+        "source_line_start": 20,
+        "source_line_end": 20,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "74bbb2e2f35fe10a5fd2ab6727033bcb0aef4edaf2c795e9bfead6229a9a23d1",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0109-p0112:s04:x00",
+      "section_type": "history",
+      "original_text": "            Name    und      Geschichtliches.              Der Name      Sassafras      stammt    aus dem spanischen salsafras\n(salsifragia, saxifraga), weil man dem Baume irrthümlicherweise gleich dem Steinbrech die Wirkung\nzuschrieb, den Blasenstein zu zerkleinern und zu beseitigen. Laurus vom keltischen blawr oder lawer\ngrün, wegen der immergrünen Blätter; siehe ausserdem Lorbeer. Persea (egoea, 2۵089 7080010» der\nGriechen), ein dem Perseus geweihter Baum. —                                             l\n          Bei der auf Veranlassung Colignys von den Capitainen Ribaut und Laudonnière 1562\nbis 1564 in Florida versuchten Colonisation wurden die Franzosen mit dem damals von den Ein-\ngeborenen als Heilmittel gegen das Fieber benutzten und Pavame benannten Sassafras bekannt, der bald\ndarauf in Europa zur Einführung gelangte. Gegen Ende des 16. Jahrhunderts wird Sassafras- oder\nFenchelholz: Lignum Floridum, Xylomarathrum in verschiedenen Apothekertaxen Deutschlands auf-\ngeführt und 1597 schon in England kultivirt.     Sala aus Vicenza (1610—1639 in Deutschland) war\nder erste, der das im Wasser sinkende Oel der Sassafras beobachtete.                        John Maud      erhielt 1738 Safrol-\nkrystalle von ziemlichem Umfange; letztere wurden erst 1844 von Saint Evre näher untersucht und\nihre Zusammensetzung festgestellt.",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源自西班牙語，誤傳可治膀胱結石；1562年法國殖民者於佛羅里達發現其藥用價值。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 110,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 1843,
+        "char_end": 3184,
+        "page_text_sha256": "320463f0f0e87fa770fe32a31a6ae4e81d027acb2fdc30a9bb240be631415943",
+        "exact_text_sha256": "9a9893edcd856ee3dbd213ed9d7bf87630720f09a32fca778176d0212e235390",
+        "source_line_start": 23,
+        "source_line_end": 36,
+        "section_index": 4,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "9a9893edcd856ee3dbd213ed9d7bf87630720f09a32fca778176d0212e235390",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0109-p0112:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "          Anwendung.            Das   Sassafrasholz     wird     im   Aufguss    als   ein   schweiss-   und   harntreibendes,\n überhaupt blutreinigendes Mittel gegen Syphilis, Hautausschläge, Scropheln, Rheumatismus, Gicht etc.\n angewendet. Der wirksame Bestandtheil ist das ätherische Oel (Oleum Sassafras aetherum). Letzteres\n dient in der Pharmacie zur Geschmacksverbesserung, äusserlich gegen Biss und Stich von Schlangen\n und Insekten. Shelby rühmt es als Antidot bei Bilsenkraut, Stechapfel- und Tabakvergiftungen; es\n wird als mildes Antiseptikum und Desinficiens betrachtet.    In Amerika wird das Oel zum aromati-\n siren der Speisen, des Tabaks und der Seife und als Zusatz zu erfrischenden Getränken sehr häufig\n angewendet. (Husemann, Arzneimittell. 832.)",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史上用作發汗利尿劑，治療梅毒、皮膚病及風濕；精油用於驅蛇蟲及解毒。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 111,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3911,
+        "char_end": 4678,
+        "page_text_sha256": "aed5b6cc4f69715843ff1c27ca6facf3bc13f4c76bc69f299f19fd0781ac1e0b",
+        "exact_text_sha256": "f9e52ae2564d214ecc0ae01c454f3518758741694e5b2f1061e3a66c2731d748",
+        "source_line_start": 45,
+        "source_line_end": 52,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "f9e52ae2564d214ecc0ae01c454f3518758741694e5b2f1061e3a66c2731d748",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "b3d87da67efadb19c86c328be16cf0f3345f3908befb393eaed94c3331916c0c",
+    "maker_receipt_sha256": "208be35da91e36382e69bf7ac55c414eb481ce182a04c5edb57086b93bcb3b25",
+    "validation_check_sha256": "5a6f730a0c86332042f2e96ccce356e649b476dad4cd8820924a0c63e0ddf17b",
+    "source_disposition_sha256": "fef701c6a7002f14a3659c9a400884fb66ce249646bb132ecfed8febf18a7009",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "208be35da91e36382e69bf7ac55c414eb481ce182a04c5edb57086b93bcb3b25",
+      "validation_check_sha256": "5a6f730a0c86332042f2e96ccce356e649b476dad4cd8820924a0c63e0ddf17b",
+      "source_disposition_sha256": "fef701c6a7002f14a3659c9a400884fb66ce249646bb132ecfed8febf18a7009"
+    },
+    "naming_artifact_sha256": "d983c542a747a677955f6204850ebc579872be2f2f1410b9070df1c4e60979b7"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "85d261f78c22ad6d0c59f9bec0ca81b16237a350e04c9110a7c53ff09d4547e2"
+}

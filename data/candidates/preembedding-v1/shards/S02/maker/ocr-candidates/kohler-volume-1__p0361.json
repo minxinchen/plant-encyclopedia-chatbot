@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 361,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "95affed0f5fbb4a12c1872b42085915605507eea3ae4ad5f928dc8d5d47018c8",
+  "render_dpi": 144,
+  "render_sha256": "116b7ef816a8be328a4f30e907e173b3b5b22eb9cdd1828a9e3d530594a81486",
+  "input_sha256": "116b7ef816a8be328a4f30e907e173b3b5b22eb9cdd1828a9e3d530594a81486",
+  "render_pixel_width": 5510,
+  "render_pixel_height": 8186,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 5.478,
+  "embedded_character_count": 217,
+  "ocr_character_count": 60,
+  "ocr_alpha_ratio": 0.7167,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01889534791310621,
+      "text": "Orchidea.",
+      "width": 0.10799135279813588,
+      "x": 0.8228941737629191,
+      "y": 0.8997093027331271
+    },
+    {
+      "confidence": 1,
+      "height": 0.016420072979397293,
+      "text": "WMiller n. d. Nat.",
+      "width": 0.09950349677021919,
+      "x": 0.8228184453526843,
+      "y": 0.16112135899518987
+    },
+    {
+      "confidence": 1,
+      "height": 0.017609126984126977,
+      "text": "Platanthera bifolia Rchb.",
+      "width": 0.2742980417295159,
+      "x": 0.3477321913814623,
+      "y": 0.12053571454267642
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "61.",
+      "width": 0.015118790797301829,
+      "x": 0.9092872569951576,
+      "y": 0.036337209416782645
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "a",
+      "width": 0.01727861644770179,
+      "x": 0.9287257022873083,
+      "y": 0.03343023279572188
+    }
+  ],
+  "text": "Orchidea.\nWMiller n. d. Nat.\nPlatanthera bifolia Rchb.\n61.\na",
+  "output_sha256": "15cf372417cb76260757a835f6aec0c45415853bb2137ed267c7eeab6391ce3d",
+  "receipt_sha256": "079830f7ade86c1d5d81cfcc6882122b45f552429256603b3d5043c09dee5b6f"
+}

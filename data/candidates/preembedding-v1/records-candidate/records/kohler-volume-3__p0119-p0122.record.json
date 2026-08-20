@@ -1,0 +1,314 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-3-p0119-p0122",
+  "entry_id": "kohler-volume-3:p0119-p0122",
+  "owner_shard": "S06",
+  "book_taxon": {
+    "scientific_name": "Aethusa Cynapium",
+    "authorship": "L.",
+    "aliases": [
+      "Hundspetersilie",
+      "Katzenpetersilie",
+      "kleiner oder Garten-Schierling",
+      "Gleisse",
+      "Fool's Parsley",
+      "Petite Ciguë",
+      "Faux Persil",
+      "Ciguë des jardins",
+      "Ache des chiens",
+      "Honds-pieterselie",
+      "Cicuta minor",
+      "Cicuta menor",
+      "Coriandrum Cynapium"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Aethusa Cynapium",
+      "Aethusa cynapium"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T15:01:58+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Aethusa+Cynapium",
+        "query_name": "Aethusa Cynapium",
+        "retrieved_at": "2026-08-13T15:01:53+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0009507",
+        "query_name": "Aethusa Cynapium",
+        "retrieved_at": "2026-08-13T15:01:53+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0009507",
+        "query_name": "Aethusa Cynapium",
+        "retrieved_at": "2026-08-13T15:01:53+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Aethusa+cynapium",
+        "query_name": "Aethusa cynapium",
+        "retrieved_at": "2026-08-13T15:01:53+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=kleiner+oder",
+        "query_name": "kleiner oder",
+        "retrieved_at": "2026-08-13T15:01:54+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Petite+cigu",
+        "query_name": "Petite cigu",
+        "retrieved_at": "2026-08-13T15:01:54+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Faux+persil",
+        "query_name": "Faux persil",
+        "retrieved_at": "2026-08-13T15:01:54+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Cigu+des",
+        "query_name": "Cigu des",
+        "retrieved_at": "2026-08-13T15:01:54+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Ache+des",
+        "query_name": "Ache des",
+        "retrieved_at": "2026-08-13T15:01:54+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Cicuta+minor",
+        "query_name": "Cicuta minor",
+        "retrieved_at": "2026-08-13T15:01:54+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Cicuta+menor",
+        "query_name": "Cicuta menor",
+        "retrieved_at": "2026-08-13T15:01:54+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Coriandrum+cynapium",
+        "query_name": "Coriandrum cynapium",
+        "retrieved_at": "2026-08-13T15:01:54+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 119,
+      "evidence_type": "text",
+      "page_text_sha256": "88cdcd8c8aba53569e7b4a752f0ebd722f9bbb1b7ffb6ef1b9e4f2c71e211231",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 120,
+      "evidence_type": "text",
+      "page_text_sha256": "5b04ea349bd78f35c5a125ca58edf083f6ca7eff4050a879bf3181db94ebc8ed",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 121,
+      "evidence_type": "text",
+      "page_text_sha256": "db8691597c870fdb55ad74933306f0eb2699ccf71e8b2b8d581b1daf7cc71e44",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-3:p0119-p0122:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "          Familie: Umbelliferae Jussieu.                        Unterfamilie:                   Orthospermae Jussieu.                Section:          Sese-\n lineae Koch. Gattung: Aethusa L.",
+      "normalized_text": null,
+      "zh_tw_rendering": "隕形科，Orthospermae亞科，Seselineae族，Aethusa屬。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 119,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 586,
+        "char_end": 776,
+        "page_text_sha256": "88cdcd8c8aba53569e7b4a752f0ebd722f9bbb1b7ffb6ef1b9e4f2c71e211231",
+        "exact_text_sha256": "4f9d4cbe17614bf8687148010b5ac9e4e541fe516fed983be29f629c20bc45e9",
+        "source_line_start": 7,
+        "source_line_end": 8,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "4f9d4cbe17614bf8687148010b5ac9e4e541fe516fed983be29f629c20bc45e9",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0119-p0122:s01:x00",
+      "section_type": "description",
+      "original_text": "               Beschreibung.           Ein     ein- bis zweijähriges Kraut                        mit senkrechter, einfacher, spindel-\n förmiger,       wenig       ästiger, gelblich         weisser     Wurzel.           Der Stengel wird, je nach                       Zeit und Stand-\n ort, 10—120           cm     hoch,     ist aufrecht,         innen       hohl,       knotig,       stielrund,          fein     bereift     und   rillig,\n kahl,     am     Grunde           bisweilen    mit     schwarzroten               oder     schwarzvioletten                  Flecken      besetzt.       In\n verschiedener              Höhe      vom      Boden     an     teilt     er       sich    in    sehr      steife,       cymoes-sparrige               Äste,\n welche        sich    von     neuem         ebenso     verzweigen.                Die     Blätter       stehen          abwechselnd,           ziemlich",
+      "normalized_text": null,
+      "zh_tw_rendering": "一至二年生草本，直立中空莖，葉互生，三回羽狀分裂，呈近等邊三角形。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 119,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 778,
+        "char_end": 1683,
+        "page_text_sha256": "88cdcd8c8aba53569e7b4a752f0ebd722f9bbb1b7ffb6ef1b9e4f2c71e211231",
+        "exact_text_sha256": "a281af09272555f774ffdbd417aac4b2a6111b7bec4cd8ac1c1c1b7253c532b8",
+        "source_line_start": 10,
+        "source_line_end": 15,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "a281af09272555f774ffdbd417aac4b2a6111b7bec4cd8ac1c1c1b7253c532b8",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0119-p0122:s02:x00",
+      "section_type": "distribution",
+      "original_text": "                      Vorkommen.                 Auf Garten- und Ackerland jeder Art, in der Umgebung von Dörfern\n                                                                                                                                                                                         ?\n\n\n                                                                                                                                                     Asien     verbreitet\n                                                           D\n\n\n                                                                                   ganz     Europa            und         das nördliche\n        =",
+      "normalized_text": null,
+      "zh_tw_rendering": "分布於全歐洲及北亞，生長於園地、耕地、村莊周邊及廢墟堆。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 120,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 4409,
+        "char_end": 5090,
+        "page_text_sha256": "5b04ea349bd78f35c5a125ca58edf083f6ca7eff4050a879bf3181db94ebc8ed",
+        "exact_text_sha256": "f68e8bfae10fe9a0e8ea034394ccf6fc0453450a48de61e0f92ff189cf930551",
+        "source_line_start": 43,
+        "source_line_end": 52,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "f68e8bfae10fe9a0e8ea034394ccf6fc0453450a48de61e0f92ff189cf930551",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0119-p0122:s03:x00",
+      "section_type": "historical_use",
+      "original_text": "                      Pharmaeeutisch                wichtig          ist die Pflanze             wegen             ihrer Ähnlichkeit                 sowohl      mit           Conium\nmaculatum                L., als auch             mit Petroselinum               sativum     Hofim.           —      Sie gilt, besonders                     im frischen           Zu-\n stande, für eine                    heftige        Giftpflanze,           die     zwar      nicht        entfernt           die Wirkung               von     Conium           macu-\n latum oder gar von Cieuta virosa L. hat, die aber nach dem Genusse,                                                                            wenn auch nicht den\n Tod,            so     doch       heftige Kopf-               und     Magenschmerzen,                   Schwindel,                Erbrechen,           Bewüsstlosigkeit .\n                                             e                                                            i\n Anschwellen des Leibes                                 zur Folge haben                   kann.         Eine          Verwechselung                   dieser Pflanze               mit\n Conium               würde        deshalb          letztere          Droge       entwerten;             eine        Verwechselung                    dieser     Pflanze           mit\n der Petersilie                könnte            aber     sehr nachteilige               Folgen         nach         sich ziehen.",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史上視為劇毒植物，誤食可致劇烈頭痛、腹痛、嘔吐及昏迷，易與毒芹或歐芹混淆。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 120,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 6152,
+        "char_end": 7637,
+        "page_text_sha256": "5b04ea349bd78f35c5a125ca58edf083f6ca7eff4050a879bf3181db94ebc8ed",
+        "exact_text_sha256": "2d3406ec2a65967758724814c1389c6a0337668320cf1f9fa2346d39bd429f73",
+        "source_line_start": 69,
+        "source_line_end": 77,
+        "section_index": 3,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "2d3406ec2a65967758724814c1389c6a0337668320cf1f9fa2346d39bd429f73",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0119-p0122:s04:x00",
+      "section_type": "anatomy",
+      "original_text": "        Anatomie.    Die  Blät ter    von   Aeth usa   Cyn api um   L. hat   Han s Vir  cho w    unte rsuc ht,\nCharakteristisch ist hier zun äch  st   die  mit  Papi llen  bese tzte Spit ze der Blat tzäh ne,  in  wel che\nder Mittelnerv              und      die Seitennerven                pinselförmig    auslaufen.           Diese    Papillen         fehlen    sowohl\n\nden Blättern              von     Conium,       ‘wie    auch     denen      von     etroselinum.          Bei     Conium      ist    überdies          die\n",
+      "normalized_text": null,
+      "zh_tw_rendering": "葉尖具乳突，中脈與側脈筆刷狀延伸，此特徵區別於毒芹與歐芹。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 121,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 2149,
+        "char_end": 2675,
+        "page_text_sha256": "db8691597c870fdb55ad74933306f0eb2699ccf71e8b2b8d581b1daf7cc71e44",
+        "exact_text_sha256": "17e3da52c487d7502a20688667a3c2ab6bcadda184898c07988c316db87eaebb",
+        "source_line_start": 27,
+        "source_line_end": 32,
+        "section_index": 4,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "17e3da52c487d7502a20688667a3c2ab6bcadda184898c07988c316db87eaebb",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "505498a2eee74450a8814b5d1f24e2497bfa4a2a8eaecdcc3df4c53a83cf79b9",
+    "maker_receipt_sha256": "97170ea7ae13f855c16dd746e59f0632f7eac3fa2a22adedfe8d17ca0fa3175f",
+    "validation_check_sha256": "36069a3b99ca74c16d2b519c0ad77f3a4559cf15bd129c11dbaa3f9adcd84f11",
+    "source_disposition_sha256": "029deda8b6d552ea72ee62c1b20d695a0463303404c5a6b5b3fa6f9961077fca",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "97170ea7ae13f855c16dd746e59f0632f7eac3fa2a22adedfe8d17ca0fa3175f",
+      "validation_check_sha256": "36069a3b99ca74c16d2b519c0ad77f3a4559cf15bd129c11dbaa3f9adcd84f11",
+      "source_disposition_sha256": "029deda8b6d552ea72ee62c1b20d695a0463303404c5a6b5b3fa6f9961077fca"
+    },
+    "naming_artifact_sha256": "9921033b220fada9444f3be31c02202dd7b57cc6228b2c1fe8fe64c6bbeb8cd7"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "6c7e72392eaafa3536fb59c081d799e3d9da80998457a50ea0736b3d18b7e704"
+}

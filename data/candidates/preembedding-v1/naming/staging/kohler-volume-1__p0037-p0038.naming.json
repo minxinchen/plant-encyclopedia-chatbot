@@ -1,0 +1,153 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-1:p0037-p0038",
+  "owner_shard": "S01",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S01/maker/structure-drafts/kohler-volume-1__p0037-p0038.json",
+  "source_draft_sha256": "259ae501cadc3b1a83fe93f6e66df400a421ea416f924ddb9e016af054e3770c",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "a2d00fc9c1aa2de0a9c1de07dde1160b321a7b67bf25c6e18737a1bd0d178e5d",
+    "validation_check_sha256": "5e9fd352635331f9faf24bf661f4afce78a23deb909b6d53e333294607d2dfac",
+    "source_disposition_sha256": "e300c587cb7e1fe646f430ab9b48c0bf8e7b32f23e18a59275b51d84efed724a",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Hyoscyamus niger",
+    "authorship_candidate": null,
+    "aliases_candidates": [
+      "Schwarzes Bilsenkraut",
+      "Huhnertod",
+      "Zigeunerkraut",
+      "Teufelsauge",
+      "Jusquiame noire",
+      "Hyoscyamus niger var. agrestris",
+      "Hyoscyamus niger var. pallidus"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Hyoscyamus niger"
+    ],
+    "accepted_scientific_name": "Hyoscyamus niger",
+    "display_name_zh_tw": "莨菪",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_asserted",
+    "taxon_id": null,
+    "authority_record_id": "ntu-seed-hyoscyamus-niger",
+    "rationale": "TaiCOL and Tai2 had no exact species record. Kew POWO accepts Hyoscyamus niger L., and National Taiwan University's public seed-science plant-name index explicitly pairs 莨菪 with Hyoscyamus niger. Taiwan public Chinese-medicine material separately treats 天仙子 as a medicinal material sourced mainly from this plant, so 天仙子 is not promoted as the plant display name. No Taiwan occurrence is asserted.",
+    "checked_at": "2026-08-13T14:08:00+08:00",
+    "display_name_source_scope": "taiwan_academic_public",
+    "display_name_source_evidence_ids": [
+      "ntu_seed"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Hyoscyamus niger",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Hyoscyamus+niger",
+      "retrieved_at": "2026-08-13T13:56:37+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Schwarzes bilsenkraut",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Schwarzes+bilsenkraut",
+      "retrieved_at": "2026-08-13T13:56:38+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Jusquiame noire",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Jusquiame+noire",
+      "retrieved_at": "2026-08-13T13:56:38+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Hyoscyamus niger",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Hyoscyamus+niger",
+      "retrieved_at": "2026-08-13T13:56:38+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Hyoscyamus niger",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Hyoscyamus%20niger",
+      "retrieved_at": "2026-08-13T13:56:40+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "kew_powo",
+      "authority": "Royal Botanic Gardens, Kew — Plants of the World Online",
+      "query_name": "Hyoscyamus niger",
+      "record_url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:815932-1",
+      "retrieved_at": "2026-08-13T14:08:00+08:00",
+      "evidence_excerpt": "Hyoscyamus niger L. is an accepted species.",
+      "assertion_scope": "external_scientific_name_metadata_only",
+      "evidence_source_scope": "non_taiwan_scientific_authority"
+    },
+    {
+      "source_id": "ntu_seed",
+      "authority": "國立臺灣大學農藝學系種子研究室《種子學》公開植物名索引",
+      "query_name": "Hyoscyamus niger",
+      "record_url": "https://seed.agron.ntu.edu.tw/vtseed/plantname-1.htm",
+      "retrieved_at": "2026-08-13T14:08:00+08:00",
+      "display_name": "莨菪",
+      "evidence_excerpt": "Hyoscyamus niger 莨菪",
+      "authority_record_id": "ntu-seed-hyoscyamus-niger",
+      "assertion_scope": "external_taiwan_public_name_only",
+      "evidence_source_scope": "taiwan_academic_public"
+    },
+    {
+      "source_id": "nricm",
+      "authority": "衛生福利部國家中醫藥研究所中藥材數位典藏",
+      "query_name": "Hyoscyamus niger",
+      "record_url": "https://www.nricm.edu.tw/htcm/catalog/tcm_herbal_details71f1.html?id=1757",
+      "retrieved_at": "2026-08-13T14:08:00+08:00",
+      "evidence_excerpt": "天仙子的來源主要是茄科植物莨菪 Hyoscyamus niger L.",
+      "assertion_scope": "external_taiwan_drug_material_disambiguation_only",
+      "evidence_source_scope": "taiwan_government_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "莨菪 is the Taiwan academic-public plant display name; 天仙子 is a medicinal-material name and is not projected as an alternative plant name.",
+    "Taiwan public sources do not establish occurrence; do not infer that this species is recorded in Taiwan.",
+    "External taxonomy, seed, cosmetic-regulation, and medicinal-material facts are not imported into the Köhler book-fact layer."
+  ]
+}

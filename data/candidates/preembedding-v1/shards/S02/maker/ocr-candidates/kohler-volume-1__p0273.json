@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 273,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "165ee3b264d813eeeeb33ca54412a30f83db9c857450a0322d4e9ea0dbc2c602",
+  "render_dpi": 144,
+  "render_sha256": "97cde40797f32583761339b346aca6f305f187b4d61676b9177239ec1788624f",
+  "input_sha256": "97cde40797f32583761339b346aca6f305f187b4d61676b9177239ec1788624f",
+  "render_pixel_width": 5654,
+  "render_pixel_height": 8354,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 5.899,
+  "embedded_character_count": 72,
+  "ocr_character_count": 59,
+  "ocr_alpha_ratio": 0.6441,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.022578021836659246,
+      "text": "Malvaceae.",
+      "width": 0.10169474283854166,
+      "x": 0.08667403351416048,
+      "y": 0.9077765391840618
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494425,
+      "text": "13",
+      "width": 0.01716738131456752,
+      "x": 0.8798283264564501,
+      "y": 0.3023255817903924
+    },
+    {
+      "confidence": 1,
+      "height": 0.04796511407882453,
+      "text": "C",
+      "width": 0.06652360294328064,
+      "x": 0.8347639499037012,
+      "y": 0.19767441983030232
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "12.",
+      "width": 0.02575107336917648,
+      "x": 0.8519313305257121,
+      "y": 0.1758720931474027
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494425,
+      "text": "A",
+      "width": 0.012875536684588185,
+      "x": 0.517167381711354,
+      "y": 0.14680232579475283
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372621082103,
+      "text": "W.Müller n.d. Nat.",
+      "width": 0.09227467631245712,
+      "x": 0.8648068671442007,
+      "y": 0.12499999989585431
+    },
+    {
+      "confidence": 1,
+      "height": 0.02074240124414839,
+      "text": "Althaca rosea Cav.",
+      "width": 0.16963004646720464,
+      "x": 0.43771716681596123,
+      "y": 0.1102683345132025
+    }
+  ],
+  "text": "Malvaceae.\n13\nC\n12.\nA\nW.Müller n.d. Nat.\nAlthaca rosea Cav.",
+  "output_sha256": "f84fdfd04c14e678d2338507e49b30fc64b57fd8c43e9b6a925b70370970bffb",
+  "receipt_sha256": "8dc483974f8eb894de9ac0c6d2bd675a10a239c787b8531fc630b28105b5f6e7"
+}

@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 287,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "53d6e47c8d404064748e6ffe045f9a268a987c393625a73a67c6aaf349c5183e",
+  "render_dpi": 144,
+  "render_sha256": "9c22d1e62101390e7fed3a7a3568bd27fc6fc7b816801fda59133dfc5258c011",
+  "input_sha256": "9c22d1e62101390e7fed3a7a3568bd27fc6fc7b816801fda59133dfc5258c011",
+  "render_pixel_width": 5750,
+  "render_pixel_height": 8030,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.009,
+  "embedded_character_count": 141,
+  "ocr_character_count": 58,
+  "ocr_alpha_ratio": 0.7069,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.022240578182159965,
+      "text": "Thymelaeaceae.",
+      "width": 0.12388148003998234,
+      "x": 0.7970856279107575,
+      "y": 0.9271064550557476
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494425,
+      "text": "B",
+      "width": 0.010141987549631248,
+      "x": 0.5963488844199105,
+      "y": 0.2892441864197528
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252612005,
+      "text": "5",
+      "width": 0.016227180607761293,
+      "x": 0.5152129816366197,
+      "y": 0.16279069793522494
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "10",
+      "width": 0.016227180607761404,
+      "x": 0.6896551725764439,
+      "y": 0.1569767444529092
+    },
+    {
+      "confidence": 1,
+      "height": 0.016907525441003157,
+      "text": "WMüller n. d. Nat.",
+      "width": 0.11181173562343105,
+      "x": 0.8173192847016117,
+      "y": 0.13762181847814292
+    },
+    {
+      "confidence": 1,
+      "height": 0.029098209880647263,
+      "text": "Daphne Mezereum L",
+      "width": 0.2046951547553995,
+      "x": 0.3925715072756672,
+      "y": 0.08878603285590125
+    }
+  ],
+  "text": "Thymelaeaceae.\nB\n5\n10\nWMüller n. d. Nat.\nDaphne Mezereum L",
+  "output_sha256": "bb4a7deb160b983f5c3be74a7595b01ab1beb042037cf69fc6b7caa51cb26224",
+  "receipt_sha256": "ba4d11384591584430fc7afed26f3816a66d8e92401225574b695140f075e8f5"
+}

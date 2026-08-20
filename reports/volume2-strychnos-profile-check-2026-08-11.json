@@ -1,0 +1,1538 @@
+{
+  "schema_version": "1.0",
+  "run_id": "volume2-strychnos-profile-check-2026-08-11",
+  "batch_id": "kohler-v2-p141-p144-strychnos-nux-vomica",
+  "embedded_at": "2026-08-11T20:41:51+08:00",
+  "source_id": "kohler-volume-2",
+  "record_id": "strychnos-nux-vomica",
+  "pdf_pages": [
+    141,
+    142,
+    143,
+    144
+  ],
+  "model": "gemini-embedding-2",
+  "dimensions": 768,
+  "vector_space_id": "gemini-embedding-2__768__qa-prefix-v1",
+  "token_unit_contract": "Provider-neutral regex units: Unicode word sequences or individual non-whitespace punctuation. These are deterministic portable chunk units, not a claim about Gemini's private tokenizer.",
+  "external_model_calls": 2,
+  "external_model_calls_this_run": 1,
+  "batch_embed_items": 15,
+  "batch_usage_metadata": {
+    "promptTokenCount": 11570,
+    "promptTokenDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 11570
+      }
+    ]
+  },
+  "incremental_usd": 0,
+  "paid_fallback_used": false,
+  "source_range_notes": [
+    {
+      "pdf_page": 142,
+      "source_char_start": 1042,
+      "source_char_end": 7343,
+      "excluded_prefix_reason": "The page prefix belongs to Strychnos Ignatii, not Strychnos nux-vomica."
+    }
+  ],
+  "attempt_history": [
+    {
+      "attempt": 1,
+      "verdict": "hold_for_evidence",
+      "pure_semantic_verdict": "hold_for_evidence",
+      "external_model_calls": 1,
+      "finding": "Whole-page PDF 142 included a Strychnos Ignatii prefix and contaminated Strychnos nux-vomica retrieval; source boundary was corrected before retry.",
+      "profile_results": {
+        "page-baseline": {
+          "chunk_count": 4,
+          "page_chunk_counts": {
+            "141": 1,
+            "142": 1,
+            "143": 1,
+            "144": 1
+          },
+          "mean_mrr": 0.416666,
+          "answer_recall_at_1": 0.0,
+          "answer_recall_at_3": 1.0,
+          "mean_evidence_margin": -0.014083,
+          "refusal_precision": 1.0,
+          "citation_completeness": 1.0,
+          "query_metrics": [
+            {
+              "query_id": "strychnos-toxicity-zh-tw",
+              "expected_status": "answerable",
+              "answer_gate": "supporting_book_terms_found",
+              "relevant_chunk_count": 1,
+              "first_relevant_rank": 2,
+              "mrr": 0.5,
+              "recall_at_1": false,
+              "recall_at_3": true,
+              "evidence_margin": -0.00903,
+              "top_results": [
+                {
+                  "rank": 1,
+                  "chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:page",
+                  "pdf_page": 142,
+                  "cosine_similarity": 0.739522,
+                  "has_required_book_term": false
+                },
+                {
+                  "rank": 2,
+                  "chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:page",
+                  "pdf_page": 143,
+                  "cosine_similarity": 0.730492,
+                  "has_required_book_term": true
+                },
+                {
+                  "rank": 3,
+                  "chunk_id": "kohler-volume-2:p144:strychnos-nux-vomica:page",
+                  "pdf_page": 144,
+                  "cosine_similarity": 0.708599,
+                  "has_required_book_term": false
+                },
+                {
+                  "rank": 4,
+                  "chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:page",
+                  "pdf_page": 141,
+                  "cosine_similarity": 0.701468,
+                  "has_required_book_term": false
+                }
+              ]
+            },
+            {
+              "query_id": "strychnos-toxicity-en",
+              "expected_status": "answerable",
+              "answer_gate": "supporting_book_terms_found",
+              "relevant_chunk_count": 1,
+              "first_relevant_rank": 3,
+              "mrr": 0.333333,
+              "recall_at_1": false,
+              "recall_at_3": true,
+              "evidence_margin": -0.019136,
+              "top_results": [
+                {
+                  "rank": 1,
+                  "chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:page",
+                  "pdf_page": 142,
+                  "cosine_similarity": 0.779987,
+                  "has_required_book_term": false
+                },
+                {
+                  "rank": 2,
+                  "chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:page",
+                  "pdf_page": 141,
+                  "cosine_similarity": 0.76422,
+                  "has_required_book_term": false
+                },
+                {
+                  "rank": 3,
+                  "chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:page",
+                  "pdf_page": 143,
+                  "cosine_similarity": 0.760851,
+                  "has_required_book_term": true
+                },
+                {
+                  "rank": 4,
+                  "chunk_id": "kohler-volume-2:p144:strychnos-nux-vomica:page",
+                  "pdf_page": 144,
+                  "cosine_similarity": 0.745658,
+                  "has_required_book_term": false
+                }
+              ]
+            },
+            {
+              "query_id": "strychnos-chromosome-refusal-zh-tw",
+              "expected_status": "unanswerable",
+              "answer_gate": "no_supporting_book_relation",
+              "refusal_correct": true,
+              "relevant_chunk_count": 0,
+              "top_results": [
+                {
+                  "rank": 1,
+                  "chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:page",
+                  "pdf_page": 142,
+                  "cosine_similarity": 0.741687,
+                  "has_required_book_term": false
+                },
+                {
+                  "rank": 2,
+                  "chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:page",
+                  "pdf_page": 141,
+                  "cosine_similarity": 0.737274,
+                  "has_required_book_term": false
+                },
+                {
+                  "rank": 3,
+                  "chunk_id": "kohler-volume-2:p144:strychnos-nux-vomica:page",
+                  "pdf_page": 144,
+                  "cosine_similarity": 0.729011,
+                  "has_required_book_term": false
+                },
+                {
+                  "rank": 4,
+                  "chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:page",
+                  "pdf_page": 143,
+                  "cosine_similarity": 0.719868,
+                  "has_required_book_term": false
+                }
+              ]
+            }
+          ]
+        },
+        "section-aware-512-100-v1": {
+          "chunk_count": 8,
+          "page_chunk_counts": {
+            "141": 2,
+            "142": 2,
+            "143": 2,
+            "144": 2
+          },
+          "mean_mrr": 0.35,
+          "answer_recall_at_1": 0.0,
+          "answer_recall_at_3": 0.5,
+          "mean_evidence_margin": -0.00769,
+          "refusal_precision": 1.0,
+          "citation_completeness": 1.0,
+          "query_metrics": [
+            {
+              "query_id": "strychnos-toxicity-zh-tw",
+              "expected_status": "answerable",
+              "answer_gate": "supporting_book_terms_found",
+              "relevant_chunk_count": 1,
+              "first_relevant_rank": 2,
+              "mrr": 0.5,
+              "recall_at_1": false,
+              "recall_at_3": true,
+              "evidence_margin": -0.002053,
+              "top_results": [
+                {
+                  "rank": 1,
+                  "chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:section-aware-512-100-v1:c01",
+                  "pdf_page": 143,
+                  "cosine_similarity": 0.730301,
+                  "has_required_book_term": false
+                },
+                {
+                  "rank": 2,
+                  "chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+                  "pdf_page": 143,
+                  "cosine_similarity": 0.728248,
+                  "has_required_book_term": true
+                },
+                {
+                  "rank": 3,
+                  "chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:section-aware-512-100-v1:c01",
+                  "pdf_page": 142,
+                  "cosine_similarity": 0.724443,
+                  "has_required_book_term": false
+                },
+                {
+                  "rank": 4,
+                  "chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+                  "pdf_page": 142,
+                  "cosine_similarity": 0.722935,
+                  "has_required_book_term": false
+                },
+                {
+                  "rank": 5,
+                  "chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+                  "pdf_page": 141,
+                  "cosine_similarity": 0.714376,
+                  "has_required_book_term": false
+                }
+              ]
+            },
+            {
+              "query_id": "strychnos-toxicity-en",
+              "expected_status": "answerable",
+              "answer_gate": "supporting_book_terms_found",
+              "relevant_chunk_count": 1,
+              "first_relevant_rank": 5,
+              "mrr": 0.2,
+              "recall_at_1": false,
+              "recall_at_3": false,
+              "evidence_margin": -0.013327,
+              "top_results": [
+                {
+                  "rank": 1,
+                  "chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+                  "pdf_page": 142,
+                  "cosine_similarity": 0.774001,
+                  "has_required_book_term": false
+                },
+                {
+                  "rank": 2,
+                  "chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+                  "pdf_page": 141,
+                  "cosine_similarity": 0.773466,
+                  "has_required_book_term": false
+                },
+                {
+                  "rank": 3,
+                  "chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:section-aware-512-100-v1:c01",
+                  "pdf_page": 142,
+                  "cosine_similarity": 0.772467,
+                  "has_required_book_term": false
+                },
+                {
+                  "rank": 4,
+                  "chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:section-aware-512-100-v1:c01",
+                  "pdf_page": 143,
+                  "cosine_similarity": 0.76713,
+                  "has_required_book_term": false
+                },
+                {
+                  "rank": 5,
+                  "chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+                  "pdf_page": 143,
+                  "cosine_similarity": 0.760674,
+                  "has_required_book_term": true
+                }
+              ]
+            },
+            {
+              "query_id": "strychnos-chromosome-refusal-zh-tw",
+              "expected_status": "unanswerable",
+              "answer_gate": "no_supporting_book_relation",
+              "refusal_correct": true,
+              "relevant_chunk_count": 0,
+              "top_results": [
+                {
+                  "rank": 1,
+                  "chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+                  "pdf_page": 141,
+                  "cosine_similarity": 0.739304,
+                  "has_required_book_term": false
+                },
+                {
+                  "rank": 2,
+                  "chunk_id": "kohler-volume-2:p144:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+                  "pdf_page": 144,
+                  "cosine_similarity": 0.735538,
+                  "has_required_book_term": false
+                },
+                {
+                  "rank": 3,
+                  "chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+                  "pdf_page": 142,
+                  "cosine_similarity": 0.731291,
+                  "has_required_book_term": false
+                },
+                {
+                  "rank": 4,
+                  "chunk_id": "kohler-volume-2:p144:strychnos-nux-vomica:section-aware-512-100-v1:c01",
+                  "pdf_page": 144,
+                  "cosine_similarity": 0.726156,
+                  "has_required_book_term": false
+                },
+                {
+                  "rank": 5,
+                  "chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:section-aware-512-100-v1:c01",
+                  "pdf_page": 142,
+                  "cosine_similarity": 0.721725,
+                  "has_required_book_term": false
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "hybrid_parent_results": {
+        "page-baseline": {
+          "fusion_contract": "cosine + 0.08 * deterministic lexical coverage, then max score per parent page",
+          "query_results": [
+            {
+              "query_id": "strychnos-toxicity-zh-tw",
+              "expected_status": "answerable",
+              "expanded_lexical_terms": [
+                "strychnin",
+                "giftig"
+              ],
+              "answer_gate": "hold_for_evidence",
+              "correct": false,
+              "top_parent_results": [
+                {
+                  "chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:page",
+                  "parent_chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:page",
+                  "pdf_page": 142,
+                  "semantic_score": 0.739522,
+                  "lexical_coverage": 1.0,
+                  "hybrid_score": 0.819522,
+                  "has_required_book_term": false,
+                  "matched_child_chunk_ids": [
+                    "kohler-volume-2:p142:strychnos-nux-vomica:page"
+                  ],
+                  "supporting_child_chunk_ids": [],
+                  "rank": 1
+                },
+                {
+                  "chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:page",
+                  "parent_chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:page",
+                  "pdf_page": 143,
+                  "semantic_score": 0.730492,
+                  "lexical_coverage": 1.0,
+                  "hybrid_score": 0.810492,
+                  "has_required_book_term": true,
+                  "matched_child_chunk_ids": [
+                    "kohler-volume-2:p143:strychnos-nux-vomica:page"
+                  ],
+                  "supporting_child_chunk_ids": [
+                    "kohler-volume-2:p143:strychnos-nux-vomica:page"
+                  ],
+                  "rank": 2
+                },
+                {
+                  "chunk_id": "kohler-volume-2:p144:strychnos-nux-vomica:page",
+                  "parent_chunk_id": "kohler-volume-2:p144:strychnos-nux-vomica:page",
+                  "pdf_page": 144,
+                  "semantic_score": 0.708599,
+                  "lexical_coverage": 0.5,
+                  "hybrid_score": 0.748599,
+                  "has_required_book_term": false,
+                  "matched_child_chunk_ids": [
+                    "kohler-volume-2:p144:strychnos-nux-vomica:page"
+                  ],
+                  "supporting_child_chunk_ids": [],
+                  "rank": 3
+                },
+                {
+                  "chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:page",
+                  "parent_chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:page",
+                  "pdf_page": 141,
+                  "semantic_score": 0.701468,
+                  "lexical_coverage": 0.0,
+                  "hybrid_score": 0.701468,
+                  "has_required_book_term": false,
+                  "matched_child_chunk_ids": [
+                    "kohler-volume-2:p141:strychnos-nux-vomica:page"
+                  ],
+                  "supporting_child_chunk_ids": [],
+                  "rank": 4
+                }
+              ]
+            },
+            {
+              "query_id": "strychnos-toxicity-en",
+              "expected_status": "answerable",
+              "expanded_lexical_terms": [
+                "strychnin",
+                "giftig"
+              ],
+              "answer_gate": "hold_for_evidence",
+              "correct": false,
+              "top_parent_results": [
+                {
+                  "chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:page",
+                  "parent_chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:page",
+                  "pdf_page": 142,
+                  "semantic_score": 0.779987,
+                  "lexical_coverage": 1.0,
+                  "hybrid_score": 0.859987,
+                  "has_required_book_term": false,
+                  "matched_child_chunk_ids": [
+                    "kohler-volume-2:p142:strychnos-nux-vomica:page"
+                  ],
+                  "supporting_child_chunk_ids": [],
+                  "rank": 1
+                },
+                {
+                  "chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:page",
+                  "parent_chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:page",
+                  "pdf_page": 143,
+                  "semantic_score": 0.760851,
+                  "lexical_coverage": 1.0,
+                  "hybrid_score": 0.840851,
+                  "has_required_book_term": true,
+                  "matched_child_chunk_ids": [
+                    "kohler-volume-2:p143:strychnos-nux-vomica:page"
+                  ],
+                  "supporting_child_chunk_ids": [
+                    "kohler-volume-2:p143:strychnos-nux-vomica:page"
+                  ],
+                  "rank": 2
+                },
+                {
+                  "chunk_id": "kohler-volume-2:p144:strychnos-nux-vomica:page",
+                  "parent_chunk_id": "kohler-volume-2:p144:strychnos-nux-vomica:page",
+                  "pdf_page": 144,
+                  "semantic_score": 0.745658,
+                  "lexical_coverage": 0.5,
+                  "hybrid_score": 0.785658,
+                  "has_required_book_term": false,
+                  "matched_child_chunk_ids": [
+                    "kohler-volume-2:p144:strychnos-nux-vomica:page"
+                  ],
+                  "supporting_child_chunk_ids": [],
+                  "rank": 3
+                },
+                {
+                  "chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:page",
+                  "parent_chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:page",
+                  "pdf_page": 141,
+                  "semantic_score": 0.76422,
+                  "lexical_coverage": 0.0,
+                  "hybrid_score": 0.76422,
+                  "has_required_book_term": false,
+                  "matched_child_chunk_ids": [
+                    "kohler-volume-2:p141:strychnos-nux-vomica:page"
+                  ],
+                  "supporting_child_chunk_ids": [],
+                  "rank": 4
+                }
+              ]
+            },
+            {
+              "query_id": "strychnos-chromosome-refusal-zh-tw",
+              "expected_status": "unanswerable",
+              "expanded_lexical_terms": [
+                "chromosom"
+              ],
+              "answer_gate": "refuse_no_book_relation",
+              "correct": true,
+              "top_parent_results": [
+                {
+                  "chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:page",
+                  "parent_chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:page",
+                  "pdf_page": 142,
+                  "semantic_score": 0.741687,
+                  "lexical_coverage": 0.0,
+                  "hybrid_score": 0.741687,
+                  "has_required_book_term": false,
+                  "matched_child_chunk_ids": [
+                    "kohler-volume-2:p142:strychnos-nux-vomica:page"
+                  ],
+                  "supporting_child_chunk_ids": [],
+                  "rank": 1
+                },
+                {
+                  "chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:page",
+                  "parent_chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:page",
+                  "pdf_page": 141,
+                  "semantic_score": 0.737274,
+                  "lexical_coverage": 0.0,
+                  "hybrid_score": 0.737274,
+                  "has_required_book_term": false,
+                  "matched_child_chunk_ids": [
+                    "kohler-volume-2:p141:strychnos-nux-vomica:page"
+                  ],
+                  "supporting_child_chunk_ids": [],
+                  "rank": 2
+                },
+                {
+                  "chunk_id": "kohler-volume-2:p144:strychnos-nux-vomica:page",
+                  "parent_chunk_id": "kohler-volume-2:p144:strychnos-nux-vomica:page",
+                  "pdf_page": 144,
+                  "semantic_score": 0.729011,
+                  "lexical_coverage": 0.0,
+                  "hybrid_score": 0.729011,
+                  "has_required_book_term": false,
+                  "matched_child_chunk_ids": [
+                    "kohler-volume-2:p144:strychnos-nux-vomica:page"
+                  ],
+                  "supporting_child_chunk_ids": [],
+                  "rank": 3
+                },
+                {
+                  "chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:page",
+                  "parent_chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:page",
+                  "pdf_page": 143,
+                  "semantic_score": 0.719868,
+                  "lexical_coverage": 0.0,
+                  "hybrid_score": 0.719868,
+                  "has_required_book_term": false,
+                  "matched_child_chunk_ids": [
+                    "kohler-volume-2:p143:strychnos-nux-vomica:page"
+                  ],
+                  "supporting_child_chunk_ids": [],
+                  "rank": 4
+                }
+              ]
+            }
+          ],
+          "all_gates_pass": false
+        },
+        "section-aware-512-100-v1": {
+          "fusion_contract": "cosine + 0.08 * deterministic lexical coverage, then max score per parent page",
+          "query_results": [
+            {
+              "query_id": "strychnos-toxicity-zh-tw",
+              "expected_status": "answerable",
+              "expanded_lexical_terms": [
+                "strychnin",
+                "giftig"
+              ],
+              "answer_gate": "answerable_with_page_evidence",
+              "correct": true,
+              "top_parent_results": [
+                {
+                  "chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:section-aware-512-100-v1:c01",
+                  "parent_chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:page",
+                  "pdf_page": 143,
+                  "semantic_score": 0.730301,
+                  "lexical_coverage": 1.0,
+                  "hybrid_score": 0.810301,
+                  "has_required_book_term": true,
+                  "matched_child_chunk_ids": [
+                    "kohler-volume-2:p143:strychnos-nux-vomica:section-aware-512-100-v1:c01",
+                    "kohler-volume-2:p143:strychnos-nux-vomica:section-aware-512-100-v1:c00"
+                  ],
+                  "supporting_child_chunk_ids": [
+                    "kohler-volume-2:p143:strychnos-nux-vomica:section-aware-512-100-v1:c00"
+                  ],
+                  "rank": 1
+                },
+                {
+                  "chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:section-aware-512-100-v1:c01",
+                  "parent_chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:page",
+                  "pdf_page": 142,
+                  "semantic_score": 0.724443,
+                  "lexical_coverage": 1.0,
+                  "hybrid_score": 0.804443,
+                  "has_required_book_term": false,
+                  "matched_child_chunk_ids": [
+                    "kohler-volume-2:p142:strychnos-nux-vomica:section-aware-512-100-v1:c01",
+                    "kohler-volume-2:p142:strychnos-nux-vomica:section-aware-512-100-v1:c00"
+                  ],
+                  "supporting_child_chunk_ids": [],
+                  "rank": 2
+                },
+                {
+                  "chunk_id": "kohler-volume-2:p144:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+                  "parent_chunk_id": "kohler-volume-2:p144:strychnos-nux-vomica:page",
+                  "pdf_page": 144,
+                  "semantic_score": 0.71365,
+                  "lexical_coverage": 0.5,
+                  "hybrid_score": 0.75365,
+                  "has_required_book_term": false,
+                  "matched_child_chunk_ids": [
+                    "kohler-volume-2:p144:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+                    "kohler-volume-2:p144:strychnos-nux-vomica:section-aware-512-100-v1:c01"
+                  ],
+                  "supporting_child_chunk_ids": [],
+                  "rank": 3
+                },
+                {
+                  "chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+                  "parent_chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:page",
+                  "pdf_page": 141,
+                  "semantic_score": 0.714376,
+                  "lexical_coverage": 0.0,
+                  "hybrid_score": 0.714376,
+                  "has_required_book_term": false,
+                  "matched_child_chunk_ids": [
+                    "kohler-volume-2:p141:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+                    "kohler-volume-2:p141:strychnos-nux-vomica:section-aware-512-100-v1:c01"
+                  ],
+                  "supporting_child_chunk_ids": [],
+                  "rank": 4
+                }
+              ]
+            },
+            {
+              "query_id": "strychnos-toxicity-en",
+              "expected_status": "answerable",
+              "expanded_lexical_terms": [
+                "strychnin",
+                "giftig"
+              ],
+              "answer_gate": "hold_for_evidence",
+              "correct": false,
+              "top_parent_results": [
+                {
+                  "chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+                  "parent_chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:page",
+                  "pdf_page": 142,
+                  "semantic_score": 0.774001,
+                  "lexical_coverage": 1.0,
+                  "hybrid_score": 0.854001,
+                  "has_required_book_term": false,
+                  "matched_child_chunk_ids": [
+                    "kohler-volume-2:p142:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+                    "kohler-volume-2:p142:strychnos-nux-vomica:section-aware-512-100-v1:c01"
+                  ],
+                  "supporting_child_chunk_ids": [],
+                  "rank": 1
+                },
+                {
+                  "chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:section-aware-512-100-v1:c01",
+                  "parent_chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:page",
+                  "pdf_page": 143,
+                  "semantic_score": 0.76713,
+                  "lexical_coverage": 1.0,
+                  "hybrid_score": 0.84713,
+                  "has_required_book_term": true,
+                  "matched_child_chunk_ids": [
+                    "kohler-volume-2:p143:strychnos-nux-vomica:section-aware-512-100-v1:c01",
+                    "kohler-volume-2:p143:strychnos-nux-vomica:section-aware-512-100-v1:c00"
+                  ],
+                  "supporting_child_chunk_ids": [
+                    "kohler-volume-2:p143:strychnos-nux-vomica:section-aware-512-100-v1:c00"
+                  ],
+                  "rank": 2
+                },
+                {
+                  "chunk_id": "kohler-volume-2:p144:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+                  "parent_chunk_id": "kohler-volume-2:p144:strychnos-nux-vomica:page",
+                  "pdf_page": 144,
+                  "semantic_score": 0.75586,
+                  "lexical_coverage": 0.5,
+                  "hybrid_score": 0.79586,
+                  "has_required_book_term": false,
+                  "matched_child_chunk_ids": [
+                    "kohler-volume-2:p144:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+                    "kohler-volume-2:p144:strychnos-nux-vomica:section-aware-512-100-v1:c01"
+                  ],
+                  "supporting_child_chunk_ids": [],
+                  "rank": 3
+                },
+                {
+                  "chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+                  "parent_chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:page",
+                  "pdf_page": 141,
+                  "semantic_score": 0.773466,
+                  "lexical_coverage": 0.0,
+                  "hybrid_score": 0.773466,
+                  "has_required_book_term": false,
+                  "matched_child_chunk_ids": [
+                    "kohler-volume-2:p141:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+                    "kohler-volume-2:p141:strychnos-nux-vomica:section-aware-512-100-v1:c01"
+                  ],
+                  "supporting_child_chunk_ids": [],
+                  "rank": 4
+                }
+              ]
+            },
+            {
+              "query_id": "strychnos-chromosome-refusal-zh-tw",
+              "expected_status": "unanswerable",
+              "expanded_lexical_terms": [
+                "chromosom"
+              ],
+              "answer_gate": "refuse_no_book_relation",
+              "correct": true,
+              "top_parent_results": [
+                {
+                  "chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+                  "parent_chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:page",
+                  "pdf_page": 141,
+                  "semantic_score": 0.739304,
+                  "lexical_coverage": 0.0,
+                  "hybrid_score": 0.739304,
+                  "has_required_book_term": false,
+                  "matched_child_chunk_ids": [
+                    "kohler-volume-2:p141:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+                    "kohler-volume-2:p141:strychnos-nux-vomica:section-aware-512-100-v1:c01"
+                  ],
+                  "supporting_child_chunk_ids": [],
+                  "rank": 1
+                },
+                {
+                  "chunk_id": "kohler-volume-2:p144:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+                  "parent_chunk_id": "kohler-volume-2:p144:strychnos-nux-vomica:page",
+                  "pdf_page": 144,
+                  "semantic_score": 0.735538,
+                  "lexical_coverage": 0.0,
+                  "hybrid_score": 0.735538,
+                  "has_required_book_term": false,
+                  "matched_child_chunk_ids": [
+                    "kohler-volume-2:p144:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+                    "kohler-volume-2:p144:strychnos-nux-vomica:section-aware-512-100-v1:c01"
+                  ],
+                  "supporting_child_chunk_ids": [],
+                  "rank": 2
+                },
+                {
+                  "chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+                  "parent_chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:page",
+                  "pdf_page": 142,
+                  "semantic_score": 0.731291,
+                  "lexical_coverage": 0.0,
+                  "hybrid_score": 0.731291,
+                  "has_required_book_term": false,
+                  "matched_child_chunk_ids": [
+                    "kohler-volume-2:p142:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+                    "kohler-volume-2:p142:strychnos-nux-vomica:section-aware-512-100-v1:c01"
+                  ],
+                  "supporting_child_chunk_ids": [],
+                  "rank": 3
+                },
+                {
+                  "chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+                  "parent_chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:page",
+                  "pdf_page": 143,
+                  "semantic_score": 0.720538,
+                  "lexical_coverage": 0.0,
+                  "hybrid_score": 0.720538,
+                  "has_required_book_term": false,
+                  "matched_child_chunk_ids": [
+                    "kohler-volume-2:p143:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+                    "kohler-volume-2:p143:strychnos-nux-vomica:section-aware-512-100-v1:c01"
+                  ],
+                  "supporting_child_chunk_ids": [],
+                  "rank": 4
+                }
+              ]
+            }
+          ],
+          "all_gates_pass": false
+        }
+      }
+    }
+  ],
+  "profile_results": {
+    "page-baseline": {
+      "chunk_count": 4,
+      "page_chunk_counts": {
+        "141": 1,
+        "142": 1,
+        "143": 1,
+        "144": 1
+      },
+      "mean_mrr": 0.666667,
+      "answer_recall_at_1": 0.5,
+      "answer_recall_at_3": 1.0,
+      "mean_evidence_margin": 0.002121,
+      "refusal_precision": 1.0,
+      "citation_completeness": 1.0,
+      "query_metrics": [
+        {
+          "query_id": "strychnos-toxicity-zh-tw",
+          "expected_status": "answerable",
+          "answer_gate": "supporting_book_terms_found",
+          "relevant_chunk_count": 1,
+          "first_relevant_rank": 1,
+          "mrr": 1.0,
+          "recall_at_1": true,
+          "recall_at_3": true,
+          "evidence_margin": 0.014205,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:page",
+              "pdf_page": 143,
+              "cosine_similarity": 0.730492,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:page",
+              "pdf_page": 142,
+              "cosine_similarity": 0.716287,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-2:p144:strychnos-nux-vomica:page",
+              "pdf_page": 144,
+              "cosine_similarity": 0.708599,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:page",
+              "pdf_page": 141,
+              "cosine_similarity": 0.701468,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "strychnos-toxicity-en",
+          "expected_status": "answerable",
+          "answer_gate": "supporting_book_terms_found",
+          "relevant_chunk_count": 1,
+          "first_relevant_rank": 3,
+          "mrr": 0.333333,
+          "recall_at_1": false,
+          "recall_at_3": true,
+          "evidence_margin": -0.009963,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:page",
+              "pdf_page": 142,
+              "cosine_similarity": 0.770814,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:page",
+              "pdf_page": 141,
+              "cosine_similarity": 0.76422,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:page",
+              "pdf_page": 143,
+              "cosine_similarity": 0.760851,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-2:p144:strychnos-nux-vomica:page",
+              "pdf_page": 144,
+              "cosine_similarity": 0.745658,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "strychnos-chromosome-refusal-zh-tw",
+          "expected_status": "unanswerable",
+          "answer_gate": "no_supporting_book_relation",
+          "refusal_correct": true,
+          "relevant_chunk_count": 0,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:page",
+              "pdf_page": 141,
+              "cosine_similarity": 0.737274,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-2:p144:strychnos-nux-vomica:page",
+              "pdf_page": 144,
+              "cosine_similarity": 0.729011,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:page",
+              "pdf_page": 142,
+              "cosine_similarity": 0.726506,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:page",
+              "pdf_page": 143,
+              "cosine_similarity": 0.719868,
+              "has_required_book_term": false
+            }
+          ]
+        }
+      ]
+    },
+    "section-aware-512-100-v1": {
+      "chunk_count": 8,
+      "page_chunk_counts": {
+        "141": 2,
+        "142": 2,
+        "143": 2,
+        "144": 2
+      },
+      "mean_mrr": 0.266667,
+      "answer_recall_at_1": 0.0,
+      "answer_recall_at_3": 0.5,
+      "mean_evidence_margin": -0.007798,
+      "refusal_precision": 1.0,
+      "citation_completeness": 1.0,
+      "query_metrics": [
+        {
+          "query_id": "strychnos-toxicity-zh-tw",
+          "expected_status": "answerable",
+          "answer_gate": "supporting_book_terms_found",
+          "relevant_chunk_count": 1,
+          "first_relevant_rank": 3,
+          "mrr": 0.333333,
+          "recall_at_1": false,
+          "recall_at_3": true,
+          "evidence_margin": -0.002053,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:section-aware-512-100-v1:c01",
+              "pdf_page": 143,
+              "cosine_similarity": 0.730301,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:section-aware-512-100-v1:c01",
+              "pdf_page": 142,
+              "cosine_similarity": 0.729383,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+              "pdf_page": 143,
+              "cosine_similarity": 0.728248,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+              "pdf_page": 141,
+              "cosine_similarity": 0.714376,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 5,
+              "chunk_id": "kohler-volume-2:p144:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+              "pdf_page": 144,
+              "cosine_similarity": 0.71365,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "strychnos-toxicity-en",
+          "expected_status": "answerable",
+          "answer_gate": "supporting_book_terms_found",
+          "relevant_chunk_count": 1,
+          "first_relevant_rank": 5,
+          "mrr": 0.2,
+          "recall_at_1": false,
+          "recall_at_3": false,
+          "evidence_margin": -0.013543,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:section-aware-512-100-v1:c01",
+              "pdf_page": 142,
+              "cosine_similarity": 0.774217,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+              "pdf_page": 141,
+              "cosine_similarity": 0.773466,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+              "pdf_page": 142,
+              "cosine_similarity": 0.767218,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:section-aware-512-100-v1:c01",
+              "pdf_page": 143,
+              "cosine_similarity": 0.76713,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 5,
+              "chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+              "pdf_page": 143,
+              "cosine_similarity": 0.760674,
+              "has_required_book_term": true
+            }
+          ]
+        },
+        {
+          "query_id": "strychnos-chromosome-refusal-zh-tw",
+          "expected_status": "unanswerable",
+          "answer_gate": "no_supporting_book_relation",
+          "refusal_correct": true,
+          "relevant_chunk_count": 0,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+              "pdf_page": 141,
+              "cosine_similarity": 0.739304,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-2:p144:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+              "pdf_page": 144,
+              "cosine_similarity": 0.735538,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-2:p144:strychnos-nux-vomica:section-aware-512-100-v1:c01",
+              "pdf_page": 144,
+              "cosine_similarity": 0.726156,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:section-aware-512-100-v1:c01",
+              "pdf_page": 142,
+              "cosine_similarity": 0.724898,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 5,
+              "chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+              "pdf_page": 142,
+              "cosine_similarity": 0.724782,
+              "has_required_book_term": false
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "selected_profile": "section-aware-512-100-v1",
+  "selected_profile_review_status": "approved_bounded_hybrid_batch",
+  "verdict": "promote",
+  "promotion_scope": "Strychnos nux-vomica PDF pages 141-144 only; no next-taxon or full-volume expansion",
+  "pure_semantic_verdict": "hold_for_evidence",
+  "pure_semantic_selected_profile": null,
+  "hybrid_parent_results": {
+    "page-baseline": {
+      "fusion_contract": "cosine + 0.08 * deterministic lexical coverage, then max score per parent page",
+      "query_results": [
+        {
+          "query_id": "strychnos-toxicity-zh-tw",
+          "expected_status": "answerable",
+          "expanded_lexical_terms": [
+            "strychnin",
+            "giftig"
+          ],
+          "answer_gate": "answerable_with_page_evidence",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:page",
+              "parent_chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:page",
+              "pdf_page": 143,
+              "semantic_score": 0.730492,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.810492,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p143:strychnos-nux-vomica:page"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-2:p143:strychnos-nux-vomica:page"
+              ],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:page",
+              "parent_chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:page",
+              "pdf_page": 142,
+              "semantic_score": 0.716287,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.796287,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p142:strychnos-nux-vomica:page"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-2:p142:strychnos-nux-vomica:page"
+              ],
+              "rank": 2
+            },
+            {
+              "chunk_id": "kohler-volume-2:p144:strychnos-nux-vomica:page",
+              "parent_chunk_id": "kohler-volume-2:p144:strychnos-nux-vomica:page",
+              "pdf_page": 144,
+              "semantic_score": 0.708599,
+              "lexical_coverage": 0.5,
+              "hybrid_score": 0.748599,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p144:strychnos-nux-vomica:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 3
+            },
+            {
+              "chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:page",
+              "parent_chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:page",
+              "pdf_page": 141,
+              "semantic_score": 0.701468,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.701468,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p141:strychnos-nux-vomica:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 4
+            }
+          ]
+        },
+        {
+          "query_id": "strychnos-toxicity-en",
+          "expected_status": "answerable",
+          "expanded_lexical_terms": [
+            "strychnin",
+            "giftig"
+          ],
+          "answer_gate": "answerable_with_page_evidence",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:page",
+              "parent_chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:page",
+              "pdf_page": 142,
+              "semantic_score": 0.770814,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.850814,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p142:strychnos-nux-vomica:page"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-2:p142:strychnos-nux-vomica:page"
+              ],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:page",
+              "parent_chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:page",
+              "pdf_page": 143,
+              "semantic_score": 0.760851,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.840851,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p143:strychnos-nux-vomica:page"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-2:p143:strychnos-nux-vomica:page"
+              ],
+              "rank": 2
+            },
+            {
+              "chunk_id": "kohler-volume-2:p144:strychnos-nux-vomica:page",
+              "parent_chunk_id": "kohler-volume-2:p144:strychnos-nux-vomica:page",
+              "pdf_page": 144,
+              "semantic_score": 0.745658,
+              "lexical_coverage": 0.5,
+              "hybrid_score": 0.785658,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p144:strychnos-nux-vomica:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 3
+            },
+            {
+              "chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:page",
+              "parent_chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:page",
+              "pdf_page": 141,
+              "semantic_score": 0.76422,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.76422,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p141:strychnos-nux-vomica:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 4
+            }
+          ]
+        },
+        {
+          "query_id": "strychnos-chromosome-refusal-zh-tw",
+          "expected_status": "unanswerable",
+          "expanded_lexical_terms": [
+            "chromosom"
+          ],
+          "answer_gate": "refuse_no_book_relation",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:page",
+              "parent_chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:page",
+              "pdf_page": 141,
+              "semantic_score": 0.737274,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.737274,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p141:strychnos-nux-vomica:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-2:p144:strychnos-nux-vomica:page",
+              "parent_chunk_id": "kohler-volume-2:p144:strychnos-nux-vomica:page",
+              "pdf_page": 144,
+              "semantic_score": 0.729011,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.729011,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p144:strychnos-nux-vomica:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            },
+            {
+              "chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:page",
+              "parent_chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:page",
+              "pdf_page": 142,
+              "semantic_score": 0.726506,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.726506,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p142:strychnos-nux-vomica:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 3
+            },
+            {
+              "chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:page",
+              "parent_chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:page",
+              "pdf_page": 143,
+              "semantic_score": 0.719868,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.719868,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p143:strychnos-nux-vomica:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 4
+            }
+          ]
+        }
+      ],
+      "all_gates_pass": true
+    },
+    "section-aware-512-100-v1": {
+      "fusion_contract": "cosine + 0.08 * deterministic lexical coverage, then max score per parent page",
+      "query_results": [
+        {
+          "query_id": "strychnos-toxicity-zh-tw",
+          "expected_status": "answerable",
+          "expanded_lexical_terms": [
+            "strychnin",
+            "giftig"
+          ],
+          "answer_gate": "answerable_with_page_evidence",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:section-aware-512-100-v1:c01",
+              "parent_chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:page",
+              "pdf_page": 143,
+              "semantic_score": 0.730301,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.810301,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p143:strychnos-nux-vomica:section-aware-512-100-v1:c01",
+                "kohler-volume-2:p143:strychnos-nux-vomica:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-2:p143:strychnos-nux-vomica:section-aware-512-100-v1:c01",
+                "kohler-volume-2:p143:strychnos-nux-vomica:section-aware-512-100-v1:c00"
+              ],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:section-aware-512-100-v1:c01",
+              "parent_chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:page",
+              "pdf_page": 142,
+              "semantic_score": 0.729383,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.809383,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p142:strychnos-nux-vomica:section-aware-512-100-v1:c01",
+                "kohler-volume-2:p142:strychnos-nux-vomica:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-2:p142:strychnos-nux-vomica:section-aware-512-100-v1:c01",
+                "kohler-volume-2:p142:strychnos-nux-vomica:section-aware-512-100-v1:c00"
+              ],
+              "rank": 2
+            },
+            {
+              "chunk_id": "kohler-volume-2:p144:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p144:strychnos-nux-vomica:page",
+              "pdf_page": 144,
+              "semantic_score": 0.71365,
+              "lexical_coverage": 0.5,
+              "hybrid_score": 0.75365,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p144:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+                "kohler-volume-2:p144:strychnos-nux-vomica:section-aware-512-100-v1:c01"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 3
+            },
+            {
+              "chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:page",
+              "pdf_page": 141,
+              "semantic_score": 0.714376,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.714376,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p141:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+                "kohler-volume-2:p141:strychnos-nux-vomica:section-aware-512-100-v1:c01"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 4
+            }
+          ]
+        },
+        {
+          "query_id": "strychnos-toxicity-en",
+          "expected_status": "answerable",
+          "expanded_lexical_terms": [
+            "strychnin",
+            "giftig"
+          ],
+          "answer_gate": "answerable_with_page_evidence",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:section-aware-512-100-v1:c01",
+              "parent_chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:page",
+              "pdf_page": 142,
+              "semantic_score": 0.774217,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.854217,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p142:strychnos-nux-vomica:section-aware-512-100-v1:c01",
+                "kohler-volume-2:p142:strychnos-nux-vomica:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-2:p142:strychnos-nux-vomica:section-aware-512-100-v1:c01",
+                "kohler-volume-2:p142:strychnos-nux-vomica:section-aware-512-100-v1:c00"
+              ],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:section-aware-512-100-v1:c01",
+              "parent_chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:page",
+              "pdf_page": 143,
+              "semantic_score": 0.76713,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.84713,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p143:strychnos-nux-vomica:section-aware-512-100-v1:c01",
+                "kohler-volume-2:p143:strychnos-nux-vomica:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-2:p143:strychnos-nux-vomica:section-aware-512-100-v1:c01",
+                "kohler-volume-2:p143:strychnos-nux-vomica:section-aware-512-100-v1:c00"
+              ],
+              "rank": 2
+            },
+            {
+              "chunk_id": "kohler-volume-2:p144:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p144:strychnos-nux-vomica:page",
+              "pdf_page": 144,
+              "semantic_score": 0.75586,
+              "lexical_coverage": 0.5,
+              "hybrid_score": 0.79586,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p144:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+                "kohler-volume-2:p144:strychnos-nux-vomica:section-aware-512-100-v1:c01"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 3
+            },
+            {
+              "chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:page",
+              "pdf_page": 141,
+              "semantic_score": 0.773466,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.773466,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p141:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+                "kohler-volume-2:p141:strychnos-nux-vomica:section-aware-512-100-v1:c01"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 4
+            }
+          ]
+        },
+        {
+          "query_id": "strychnos-chromosome-refusal-zh-tw",
+          "expected_status": "unanswerable",
+          "expanded_lexical_terms": [
+            "chromosom"
+          ],
+          "answer_gate": "refuse_no_book_relation",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p141:strychnos-nux-vomica:page",
+              "pdf_page": 141,
+              "semantic_score": 0.739304,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.739304,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p141:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+                "kohler-volume-2:p141:strychnos-nux-vomica:section-aware-512-100-v1:c01"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-2:p144:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p144:strychnos-nux-vomica:page",
+              "pdf_page": 144,
+              "semantic_score": 0.735538,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.735538,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p144:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+                "kohler-volume-2:p144:strychnos-nux-vomica:section-aware-512-100-v1:c01"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            },
+            {
+              "chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:section-aware-512-100-v1:c01",
+              "parent_chunk_id": "kohler-volume-2:p142:strychnos-nux-vomica:page",
+              "pdf_page": 142,
+              "semantic_score": 0.724898,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.724898,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p142:strychnos-nux-vomica:section-aware-512-100-v1:c01",
+                "kohler-volume-2:p142:strychnos-nux-vomica:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 3
+            },
+            {
+              "chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-2:p143:strychnos-nux-vomica:page",
+              "pdf_page": 143,
+              "semantic_score": 0.720538,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.720538,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-2:p143:strychnos-nux-vomica:section-aware-512-100-v1:c00",
+                "kohler-volume-2:p143:strychnos-nux-vomica:section-aware-512-100-v1:c01"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 4
+            }
+          ]
+        }
+      ],
+      "all_gates_pass": true
+    }
+  },
+  "selection_basis": "deterministic bilingual toxicology query expansion + lexical/semantic fusion + parent-page collapse + exact book-term gate"
+}

@@ -1,0 +1,180 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-3:p0241-p0244",
+  "owner_shard": "S07",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S07/maker/structure-drafts/kohler-volume-3__p0241-p0244.json",
+  "source_draft_sha256": "ed68a2cbc70729c35d39a22ea79ea764cf2d4ffece80feb1ddc27d2bda54eefd",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "2f63ff12ba8c7db6b4c085237ae4ac7ab4cfe93c680b72be8bbb8fe28ddaf845",
+    "validation_check_sha256": "56d4d8be691f802737d55ecc341d1f624bac1ccafaea4eb9f9fff90a861ed3c9",
+    "source_disposition_sha256": "938abc7a855f3fcf78b61cf43a6a67d40bc6fa0fefd70eef6f126e9f14e8e8a4",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Gelsemium sempervirens",
+    "authorship_candidate": "Ait.",
+    "aliases_candidates": [
+      "Gelsemium nitidum Mich.",
+      "Gelsemium lucidum Poir.",
+      "Bignonia sempervirens L.",
+      "Lisianthus sempervirens Mill.",
+      "Anonymos sempervirens Walt."
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Gelsemium sempervirens"
+    ],
+    "accepted_scientific_name": "Gelsemium sempervirens",
+    "display_name_zh_tw": "卡羅來納茉莉",
+    "alternative_names_zh_tw": [
+      "卡羅萊那茉莉",
+      "常綠鉤吻",
+      "北美鉤吻",
+      "金鉤吻",
+      "加羅林素馨",
+      "法國香水"
+    ],
+    "taiwan_occurrence_status": "not_asserted",
+    "taxon_id": null,
+    "authority_record_id": "nchu-horticulture-37-1-gelsemium-sempervirens",
+    "rationale": "TaiCOL and Tai2 returned no exact species record. Kew POWO confirms Gelsemium sempervirens as the accepted scientific name. A Taiwan academic horticulture publication explicitly pairs the exact scientific name with 卡羅來納茉莉; the Taiwan Landscape Plant Guide independently pairs the same species with the spelling 卡羅萊那茉莉 and supplies public Taiwan aliases. No Taiwan occurrence is asserted.",
+    "checked_at": "2026-08-13T13:23:29+08:00",
+    "display_name_source_scope": "taiwan_academic_public",
+    "display_name_source_evidence_ids": [
+      "nchu_horticulture"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Gelsemium sempervirens",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Gelsemium+sempervirens",
+      "retrieved_at": "2026-08-13T13:21:22+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Gelsemium nitidum",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Gelsemium+nitidum",
+      "retrieved_at": "2026-08-13T13:21:22+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Gelsemium lucidum",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Gelsemium+lucidum",
+      "retrieved_at": "2026-08-13T13:21:22+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Bignonia sempervirens",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Bignonia+sempervirens",
+      "retrieved_at": "2026-08-13T13:21:22+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Lisianthus sempervirens",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Lisianthus+sempervirens",
+      "retrieved_at": "2026-08-13T13:21:22+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Anonymos sempervirens",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Anonymos+sempervirens",
+      "retrieved_at": "2026-08-13T13:21:22+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Gelsemium sempervirens",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Gelsemium%20sempervirens",
+      "retrieved_at": "2026-08-13T13:21:29+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "kew_powo",
+      "authority": "Royal Botanic Gardens, Kew — Plants of the World Online",
+      "query_name": "Gelsemium sempervirens",
+      "record_url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60448812-2/general-information",
+      "retrieved_at": "2026-08-13T13:23:29+08:00",
+      "evidence_excerpt": "Gelsemium sempervirens (L.) J.St.-Hil. — This species is accepted",
+      "assertion_scope": "external_scientific_name_metadata_only",
+      "evidence_source_scope": "non_taiwan_scientific_authority"
+    },
+    {
+      "source_id": "nchu_horticulture",
+      "authority": "國立中興大學園藝學系《興大園藝》",
+      "query_name": "Gelsemium sempervirens",
+      "source_url": "https://hort.nchu.edu.tw/var/file/1/1001/img/30/318611719.pdf",
+      "retrieved_at": "2026-08-13T13:23:29+08:00",
+      "evidence_excerpt": "卡羅來納茉莉(Gelsemium sempervirens)",
+      "assertion_scope": "external_naming_metadata_only",
+      "evidence_source_scope": "taiwan_academic_public"
+    },
+    {
+      "source_id": "taiwan_landscape_plant_guide",
+      "authority": "台灣景觀植物介紹",
+      "query_name": "Gelsemium sempervirens",
+      "record_url": "https://tlpg.hsiliu.org.tw/plant/view/449",
+      "retrieved_at": "2026-08-13T13:23:29+08:00",
+      "evidence_excerpt": "卡羅萊那茉莉；學名：Gelsemium sempervirens；別名：常綠鉤吻、北美鉤吻、金鉤吻、加羅林素馨、法國香水",
+      "assertion_scope": "external_naming_metadata_only",
+      "evidence_source_scope": "other_external_support"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "The external sources are used only for scientific-name and Taiwan public-name metadata; horticultural, toxicity, and other plant facts are not imported into the Köhler book-fact layer.",
+    "The common name contains 茉莉 but this taxon is not a Jasminum species; answers should preserve the scientific name for disambiguation.",
+    "No Taiwan occurrence claim was established."
+  ]
+}

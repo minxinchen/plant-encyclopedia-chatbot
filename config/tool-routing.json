@@ -1,0 +1,135 @@
+{
+  "schema_version": "1.0",
+  "author": "Nio (Master)",
+  "date": "2026-08-03",
+  "cost_policy": {
+    "maximum_incremental_cost": 0,
+    "deny_paid_api_fallback": true,
+    "allowed_free_services": [
+      "self-hosted and local software",
+      "SaaS Free Tier or no-cost personal-account features",
+      "Google Gemini API Free Tier",
+      "Google Gemini Gems and Gems from Google Labs when available at no cost",
+      "Google Drive, Docs, Sheets and NotebookLM no-cost features"
+    ],
+    "forbidden_required_dependencies": [
+      "paid n8n Cloud",
+      "Vertex AI or Google Cloud resources that require billing activation",
+      "paid vector database plans",
+      "any workflow whose essential path stops when a trial expires"
+    ],
+    "secret_storage": {
+      "source_of_truth": "/Users/user/AI_WORKSTATION/secrets/plant-encyclopedia.env.local",
+      "environment_variable": "GEMINI_API_KEY",
+      "n8n_policy": "Load or sync at runtime without storing the key in tracked workflow JSON."
+    },
+    "google_free_tier_data_notice": "Public-domain book samples only; do not send private annotations to Free Tier APIs."
+  },
+  "gemini_authentication": {
+    "preferred": "Google AI Studio authorization key dedicated to this project",
+    "current": "Dedicated Gemini authorization key supplied by Nio, stored in the project-specific Git-ignored env file, and verified against the Models and gemini-embedding-2 embedContent endpoints on 2026-08-11.",
+    "migration_gate": "Load GEMINI_API_KEY from the project-specific env for local and n8n runs. Do not use Vertex AI billing or OAuth unless requirements change."
+  },
+  "canonical_data": {
+    "location": "local_lab",
+    "rule": "Book text, page images, citations, name decisions, provider-neutral JSONL chunks and approval state remain local and versioned. Embedding indexes are disposable derivatives."
+  },
+  "routes": [
+    {
+      "stage": "api_and_sdk_documentation",
+      "primary": "Context7 MCP",
+      "secondary": "official vendor documentation on the web",
+      "reason": "Resolve current SDK and API contracts before implementation; use official product help for UI-only capabilities such as Gemini Gems and Opal."
+    },
+    {
+      "stage": "extract",
+      "primary": "Poppler pdftotext/pdftoppm",
+      "fallback": "local OCR only when embedded text is unusable",
+      "reason": "Deterministic, local and page-traceable."
+    },
+    {
+      "stage": "ocr_candidate_overlay",
+      "primary": "Chandra OCR 2 on local PyTorch MPS after the Qwen structure batch releases unified memory",
+      "current_fallback": "Apple Vision accurate de-DE and en-US remains active until Chandra passes the Köhler p509 golden gate",
+      "qualification_rule": "Require Oenanthe Phellandrium, non-empty layout chunks and deterministic character-quality gain on volume 2 PDF page 509 before queue takeover.",
+      "license_gate": "Modified OpenRAIL-M weights are allowed only within the upstream personal/research or qualifying-startup scope; not unrestricted commercial deployment.",
+      "reason": "Chandra OCR 2 is the user-selected OCR family and is strong on German, old scans and multi-column layout, but it remains maker-only and cannot overwrite canonical text."
+    },
+    {
+      "stage": "structure_and_cleanup",
+      "primary": "Qwen 3.5 27B 4-bit MLX local with deterministic line-anchor extraction",
+      "fallback_maker": "Qwen 3.5 9B 6-bit MLX for low-risk speed runs; Qwen 3.5 35B-A3B 6-bit retained only as rollback",
+      "reviewer": "Deterministic validator and Gemini page-image adjudication for layout-damaged OCR",
+      "reason": "The 27B qualification passed source-exact line-anchor extraction and Taiwan-name refusal. No local model may self-approve layout-sensitive OCR or image claims."
+    },
+    {
+      "stage": "taiwan_name_resolution",
+      "primary": "TaiCOL",
+      "secondary": "Tai2",
+      "registry": "data/name-source-registry.json",
+      "fallback": "Other Taiwan government or academic source, then authoritative Traditional Chinese or human-reviewed Traditional translation; Simplified Chinese is last",
+      "reason": "Names are metadata only and may not add facts absent from the book."
+    },
+    {
+      "stage": "lexical_index",
+      "primary": "exact scientific-name aliases plus local BM25",
+      "reason": "Protects exact taxa, historical spellings and chemical terms."
+    },
+    {
+      "stage": "multimodal_index",
+      "primary": "Gemini API Free Tier gemini-embedding-2",
+      "fallback": "text-only local lexical index; mark image_semantic_search unavailable",
+      "storage": "rebuildable local SQLite vector store keyed by vector_space_id",
+      "prompt_contract": "Documents use title: ... | text: ...; QA queries use task: question answering | query: ...; do not send taskType to gemini-embedding-2.",
+      "reason": "Maps German text, Chinese queries and plates into one retrieval space without making that model space canonical."
+    },
+    {
+      "stage": "answer_draft",
+      "primary": "Policy-first local API deterministic extraction from approved evidence",
+      "secondary": "Qwen local only after an answerable API response; Gemini Flash Free Tier only for approved multimodal evidence",
+      "policy": "config/chat-policy.json",
+      "api": "scripts/plant-chat-api.py",
+      "openapi": "schemas/chat-api.openapi.json",
+      "rule": "Run scope, language, Taiwan-name and medical-advice gates before any generation. A generator may rewrite only returned answer_sentences and must preserve citations; it may not add plant facts."
+    },
+    {
+      "stage": "independent_review",
+      "primary": "deterministic validator",
+      "reviewers": [
+        "Qwen local evidence review",
+        "Gemini multimodal review",
+        "Google Gemini Notebook or NotebookLM source-grounded cross-check",
+        "GPT/Codex sampled adjudication in the current subscribed app, never paid API"
+      ]
+    },
+    {
+      "stage": "orchestration",
+      "primary": "n8n 2.12.3 self-hosted",
+      "portability": "Workflow JSON uses PLANT_ENCYCLOPEDIA_LAB and PLANT_ENCYCLOPEDIA_SECRETS_ENV instead of embedded machine paths.",
+      "reason": "Batching, checkpoints, retries, scheduling and run history."
+    },
+    {
+      "stage": "google_gem_delivery",
+      "primary": "Classic Gemini Gem linked to an approved evidence pack in Google Drive",
+      "experimental": "Gems from Google Labs powered by Opal, connected through the same retrieval JSON contract only after the account exposes a suitable external HTTP step",
+      "fallback": "local chat client against the same retrieval contract",
+      "reason": "Drive knowledge files are the currently documented stable bridge; no unverified direct Classic Gem webhook capability is assumed."
+    },
+    {
+      "stage": "portable_chat_api",
+      "primary": "Python standard-library HTTP server on 127.0.0.1:18765",
+      "n8n_adapter": "n8n/plant-encyclopedia-chat-api-adapter.workflow.json",
+      "contract": "schemas/chat-api.openapi.json",
+      "public_exposure": "forbidden until authentication, HTTPS and Nio approval are separately recorded",
+      "reason": "The local contract is free, dependency-light and portable; n8n, a future UI and an externally reachable Opal adapter can share the same response schema."
+    }
+  ],
+  "promotion_gates": [
+    "Every factual answer sentence cites a source_id and PDF page.",
+    "Displayed Chinese name has a recorded authority and status.",
+    "Book facts and external name metadata remain separated.",
+    "Plate claims cite a plate page and pass multimodal review.",
+    "Unanswerable regression questions return 本書未記載 only after the relevant source scope is fully processed; otherwise return 尚未處理 or 現有已核准證據未找到.",
+    "No paid fallback was used."
+  ]
+}

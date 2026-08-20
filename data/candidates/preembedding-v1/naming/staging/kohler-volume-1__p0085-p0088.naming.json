@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-1:p0085-p0088",
+  "owner_shard": "S01",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S01/maker/structure-drafts/kohler-volume-1__p0085-p0088.json",
+  "source_draft_sha256": "483e64ab6797c1f7ae759009e3328238c2f3e36663d1b081e8c0a13c08cd7b18",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "a2b0fdaf20da9c1ebd4c8eb50ad0c4ee133456a5cc6860455dac9b522bf61ed8",
+    "validation_check_sha256": "ece24228cde303e79358fe9408af1ac73d500f5bfd501411abfc64246931c60f",
+    "source_disposition_sha256": "cb1ccca3c454516e62c127c1eb2c4b59a2ac23ae248396ef6e3bf1710f5affb6",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Cydonia vulgaris",
+    "authorship_candidate": null,
+    "aliases_candidates": [
+      "Pirns Cydonia L.",
+      "Cydonia Cydonia Karst.",
+      "Cydonia europaea Savi.",
+      "Sorbus Cydonia Crantz."
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Cydonia vulgaris"
+    ],
+    "accepted_scientific_name": "Cydonia oblonga",
+    "display_name_zh_tw": "榅桲",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0053224",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary",
+    "rationale": "TaiCOL explicitly links the book binomial as a species-level synonym to the accepted taxon.",
+    "checked_at": "2026-08-13T19:01:34+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Cydonia vulgaris",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Cydonia+vulgaris",
+      "retrieved_at": "2026-08-13T19:01:34+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Cydonia vulgaris",
+          "matched_name_id": 125147,
+          "taxon_id": "t0053224",
+          "taicol_name_status": "not-accepted",
+          "accepted_name": "Cydonia oblonga",
+          "accepted_name_id": 21659,
+          "accepted_usage": [
+            {
+              "usage_id": 106252,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 1524,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0053224",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0053224",
+          "taxon": {
+            "taxon_id": "t0053224",
+            "taxon_status": "accepted",
+            "name_id": 21659,
+            "simple_name": "Cydonia oblonga",
+            "name_author": "Mill.",
+            "rank": "Species",
+            "common_name_c": "榅桲",
+            "alternative_name_c": null,
+            "synonyms": "Cydonia communis,Cydonia cydonia,Cydonia europaea,Cydonia maliformis,Cydonia sumboshia,Cydonia vulgaris,Pyrus cydonia,Sorbus cydonia",
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": "cultured: 原生於亞洲溫帶之乾旱地區; 沒有入侵性",
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

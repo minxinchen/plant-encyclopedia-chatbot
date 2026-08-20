@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-4:p0021-p0023",
+  "owner_shard": "S08",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 111.566,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-4:p0021-p0023",
+    "book_taxon": {
+      "scientific_name_candidate": "Psalliota campestris",
+      "authorship_candidate": "(L.) Fr.",
+      "aliases_candidates": [
+        "Feldegerling",
+        "Champignon",
+        "Angerling",
+        "Weidling",
+        "Herrenpilz",
+        "Truschling",
+        "Brachpilz",
+        "Gugenucke",
+        "Agaricus campestris L.",
+        "Ag. edulis Bull."
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 21,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Psalliota campestris，同義名 Agaricus campestris。屬 Agaricaceae 科，Agariceae 族。",
+        "warnings": [],
+        "source_line_range": [
+          6,
+          15
+        ],
+        "exact_source_quote": "                                       Psalliota campestris (L.) Fr.\n Feldegerling,                     Champignon, Angerling, Weidling, Herrenpilz,                                        Truschling,             Brachpilz,\n                                                                                                                                                                       Gugenucke.\n                                      Franz.: Champignon.                     Engl.: Champignon, field agaric, mushroom.\n\n\n                    Syn. Agaricus campestris L.                              Ag. edulis Bull.\n\n\n                    Familie: Agaricaceae.                           Tribus: Agariceae.               Gattung: Psalliota Fr"
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 21,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "柄長 6-8 公分，白色，中部有膜質環。蓋半球形後平展，直徑 5-15 公分，肉白色，傷處變紅。",
+        "warnings": [],
+        "source_line_range": [
+          17,
+          28
+        ],
+        "exact_source_quote": "                   Beschreibung: Der Stiel des Fruchtkorpers des Champignon wird                                                                 6—8 oder noch mehr\n cm lang, 1                     — 2 cm dick; er        ist     voll, weifi,        nach unten ist er ein wenig, jedoch nicht knollig, verdickt\n In seiner Mitte befindet sich der dicke hautige, weiBe Ring, der in der Jugend als Membran\n                                                                                            zwischen\n Hutrand und                       Stiel     gespannt        ist,    spater zerreifit        und am           Stiele    als      Ring        sich zeigt.              Der Hut ist\n anfangs halbkugelig oder auch fast kugelig,                                            spater ausgebreitet           und flach gewolbt,                       sein    Rand ist in\nder ersten Jugend scharf eingebogen.                                        Er miBt 5—15 und mehr cm im Durchmesser.                                                  Der Hut ist\ndickfleischig,                    das Fleisch      ist   weiB, weich,               bei Verletzungen             wird es           rotlich.          Die Oberflache des\nHutes             ist           weiBlich oder braunlich seidenhaarig,                        flockig oder kleinschuppig,                        trocken und              laBt   sich\nleicht abziehen.                           Die Lamellen stehen              dicht.       Nach dem Stiel zu sind sie abgerundet und nicht mit\ndiesem verwachsen.                            Jung sind sie rosenrot, im Alter werden                                 sie    schwarzbraun.                     Die Sporen       sind\nelliptisch,                     8—9   fi   lang und    6—6,5 fi breit; ihre Farbe ist schwarzbraun."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 21,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分佈廣泛，常見於草地、公園及溫帶地區，亦見於北美國、阿根廷、非洲及大洋洲。",
+        "warnings": [],
+        "source_line_range": [
+          73,
+          89
+        ],
+        "exact_source_quote": "                  V k0mmen:                        \"**»» h\niihnlichen              r\n                        Standorten. Verbreitet\n                                               ^.°\n                                                                    ist   er in\n                                                                                  ist   8eh r haufig\n                                                                                  F„™ \"*' qk-    7.  •\n                                                                                                             Mf Grasplatzen\n                                                                                                                    \" \"\"ra\n                                                                                                                        t, \"> \" oluB11 We\n                                                                                                                              Wei      »es\"nu„u\n                                                                                                                                       ,\n                                                                                                                                                 ,\n\n                                                                                                                                                          >\n                                                                                                                                                                                ^\nafrika   und Oeeanieu."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 22,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史記載：為最受歡迎的食用菇之一，是重要的貿易商品，常製成罐頭。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          3
+        ],
+        "exact_source_quote": "            Wiehtigkeit: Der Champignon ist einer der beliebtesten Speisepilze und bildet einen nicht\nunbedeutenden Handelsartikel, namentlich                     als   Konserve.                 Er    ist    der .einzige unserer einheimischen\nPilze, der sich leicht kultivieren laBt,           was denn auch yielfach geschieht.                            Namentlich sind die Kulturen                    *"
+      },
+      {
+        "section_type": "harvest",
+        "pdf_page": 22,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史栽培法：使用去除稻草的馬糞堆積發酵三週，形成肉質狀糞堆後鋪設於地窖或花園。",
+        "warnings": [],
+        "source_line_range": [
+          18,
+          21
+        ],
+        "exact_source_quote": "gut gediingte Gartenbeete.              Pferdedung, aus            dem alles Stroh entfernt wurde, wird zu einem hohen\nHaufen      aufgeschiittet    und wahrend des Aufsetzens mehrfach                                  festgetreten.       Wahrend         drei      Wochen\nlaBt    man diesen Haufen liegen,           arbeitet ihn aber                    wahrend dieser Zeit etwa dreimal um.                           Der Mist\nmuB zuletzt eine speckige Masse bilden, die beim Ausdrucken mit der Hand kein Wasser absondert."
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 23,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "圖版說明：F 為 Psalliota campestris，包含菌褶橫切面、孢子及幼菇縱切面。",
+        "warnings": [],
+        "source_line_range": [
+          37,
+          40
+        ],
+        "exact_source_quote": "                                                  Tafelbeschreibung:\n          A— E.   Amanita bulbosa Bull., verschiedene Formen.     1.   Querschnitt durch eine Lamelle.   2. Sporen.   F. Psalliota\n\ncampestris (L.) Fr.           xhni                         4.   Langsschnitt durch einen jungen Hut."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "f4e988dca961a7e59208e38d5e9405a0356514f2cd73dd2bc9f29919b1261da1"
+}

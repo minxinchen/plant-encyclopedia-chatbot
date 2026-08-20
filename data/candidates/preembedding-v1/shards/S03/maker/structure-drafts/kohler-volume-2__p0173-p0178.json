@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0173-p0178",
+  "owner_shard": "S03",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 183.725,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0173-p0178",
+    "book_taxon": {
+      "scientific_name_candidate": "Fraxinus Ornus",
+      "authorship_candidate": "L.",
+      "aliases_candidates": [
+        "Fraxinus florifera Scop.",
+        "Ornus europaea Pers.",
+        "Fraxinus rotundifolia Lam.",
+        "Ornus rotundifolia Link"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 173,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Fraxinus Ornus L.，同義名 Fraxinus florifera 及 Ornus europaea。德語名 Manna- oder Blumenesche。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          6
+        ],
+        "exact_source_quote": "                                           Fraxinus Ornus L.\n                        Syn. Fraxinus             florifera Scop.,    Ornus europaea Pers.\n\n                                           Manna-          oder Blumenesche.\n\n          Familie:     Oleaceae;      Gattung: Fraxinus Tourn."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 173,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "高 6-10 米樹木，灰皮有皮孔。葉對生，3-4 回羽狀複葉。花腋生或頂生，芳香。果為線形翅果，含單種子。",
+        "warnings": [],
+        "source_line_range": [
+          7,
+          28
+        ],
+        "exact_source_quote": "          Beschreibung.           Baum   oder Strauch von        6 —10 Meter Hóhe, mit grauer, von kleinen Lenti-\n zellen bedeckter Rinde, runden Aesten, knotig-verdickten, kurzhaarigen jüngeren Zweigen und grau\n bestäubten, seidenhaarig-filzigen Laub-Knospen. Blätter gegenständig, nebenblattlos, 3—4jochi      -gun-\n paarig gefiedert; Blättchen kurz- (das endständige länger) gestielt, eiförmig bis länglich-lanzettlich,\n 4—10 Ctm. lang, 2*/,— 4 Ctm. breit, am Grunde abgerundet oder kaum keilförmig, oben zugespitzt,\n kerbig gesägt, oberseits kahl und lebhaft grün, unterseits an der Mittelrippe mehr oder weniger be-\n haart, blasser. Die Blattform ist in den Kulturen wenig beständig. Blüthen mit dem Laube hervor-\n brechend, in achsel- und endständigen, vielblüthigen, pyramidalen, zuletzt nickenden Rispen, polygam,\n wohlriechend. Kelch .unterständig, gelblich--grün, klein, 4spaltig, bleibend. Blumenkrone 4blitterig,\n die Kronblätter am Grunde paarweise verwachsen, gelblich, lineal- lanzettlich, 8—10 Mm. lang, ab-\n fallend. Staubgefässe 2, wenig kürzer als die Kronblütter, der Basis der letzteren eingefügt, mit\n pfriemlichen Staubfäden und oval-länglichen, an beiden Enden ausgerandeten, auf dem Rücken über\n der Basis angehefteten,    2fücherigen,    am     Rande     der Länge nach   aufspringenden   Beuteln.   Pollen   oval,\n  dreifurchig, dreiporig, unter Wasser rundlich dreieckig. Der oberständige Stempel mit eifórmigem,\n  seitlich zusammengedrücktem, 2facherigem Fruchtknoten, dessen Scheidewand senkrecht zur Breitseite\n  steht; jedes Fach 2eiig. Eichen am oberen Theile der Scheidewand befestigt und herabhängend.\n  Griffel etwas zusammengedrückt; Narbe dick, 2lappig, Lappen parallel zur Scheidewand des Frucht-\n  knotens stehend. Flügelfrüchte linealisch, bis lineal-lanzettlich, bis 35 Mm. lang, mit stumpfem\n  Flügel, einsamig. Der rothbraune, hängende Same länglich, etwas zusammengedrückt, das Frucht-\n. gehäuse ganz ausfüllend, mit einfacher, dünner Samenhant. Embryo in der Mitte des hornartigen\n Eiweiss, gerade, mit nach oben gekehrtem,          stielrundem Würzelchen     und blattartigen, länglichen, stumpfen\n Samenlappen."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 173,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產北東地中海區，南歐山區至 800 米（西西里至 1100 米）。分佈於義大利、巴爾幹、克羅埃西亞、匈牙利等地。",
+        "warnings": [],
+        "source_line_range": [
+          35,
+          38
+        ],
+        "exact_source_quote": "          Vorkommen.       Im nördlichen und östlichen Mittelmeergebiet einheimisch. In den Berg-\nwäldern Südeuropas bis 800 Meter Meereshöhe (in Sieilien bis 1100 Meter); in Italien, auf der Balkan-\nhalbinsel, in Croatien, Ungarn, Südtirol, Steiermark, Krain, Istrien; ferner in Kleinasien und Turkestan.\nAuf Fraxinus excelsior gepfropft in Mitteleuropa als Zierbaum."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 174,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源於古日耳曼語。甘露自古被視為天賜，歷史上曾誤認來源。16 世紀始行樹皮切口採集法，取代東方甘露。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          34
+        ],
+        "exact_source_quote": "           Name       und     Geschichtliches.             Der Name         Esche, (althochd.         ask, asch, mittelhochd.            Eesch,\n Ehsse, Eeisch, Eschelterpoum, bei Hildegard Asca (für Ornus), altnordisch ask-r, angelsáchsisch dsc)\n ist ein uralter Name, der im altnordischen und angelsüchsischen nicht nur den Baum, sondern auch\n den aus seinem Holze bereiteten Speer und das Schiff bedeutet. Grasmann sagt: „Möglich ist, dass\n Speer die ursprüngliche Bedeutung gewesen sei; dann würde die Wurzel in as werfen, schleudern ent-\n halten sein, von der z. B. im Altindischen as-tar der Schleuderer, as-tsa-m die Wurfwaffe. asana-m\n das Werfen, asaná Wurfgeschoss abstammen.* Die Ableitung von Asche, wegen der grauen Farbe\n (alsdann Aesche geschrieben) ist unwahrscheinlich. Fraxinus von gpoalıg Trennung, Umzäunung, weil\n angeblich die Esche gute Pfähle zu Palissaden und zur Umzäunung liefert, auch weil sie sich leicht\n spalten lässt. Ornus soll von ögewog, auf Bergen (ogoc) wachsend, abgeleitet sein. Manna vom -\n hebräischen     83 man,     arabisch mann,      Geschenk,         Gabe    des Himmels.\n          Manna, welche aus verschiedenen orientalischen Pflanzen austritt, ist schon im höchsten Alter-\n thum bekannt gewesen und sowohl als Arznei- als auch als Genussmittel verwendet worden. Da man\n nicht wusste, woher das die Pflanzentheile überziehende Produkt kam, so fasste man es, gleichsam\n vom Himmel gefallen, als eine Gabe des Himmels auf. In früheren Zeiten kannte man nur die frei-\n willig ausschwitzende, oder durch Insekten hervorgerufene Manna; so namentlich die biblische Manna\n von Tamarix gallica, eine in den hypokratischen Schriften erwähnte Cedern-Manna, eine Eichen-\n Manna,   von    der Ovid     und Vergil        berichten,     und eine von          den Arabern           arzneilich    benutzte       Manna,\nvon Hedysarum Alhagi L. abstammend. Die schon im 12. Jahrhundert im Abendlande auftretende\nManna ist wahrscheinlich nicht die Eschenmanna, denn letztere scheint zuerst in Calabrien gesammelt\nworden zu sein und die früheste Erwähnung der kalabrischen Manna stammt nach Flückiger aus\ndem Jahre 1450 und zwar von Saladin, dem Arzte eines Fürsten von Tarent, der sie als das frei-\nwillig austretende Produkt aus den Blättern, Zweigen und Stämmen der Mannaesche beschreibt. Die\nArt und Weise der medizinischen Verordnung der Manna von Seiten des griechischen Arztes Actua-\nrius, welcher Ende des 13. Jahrhunderts am Hofe zu Constantinopel lebte, lässt zwar vermuthen,\ndass dies Eschenmanna gewesen sei, jedoch etwas Bestimmtes lässt sich hierüber nicht angeben. Die\nGewinnung der Manna durch Einschnitte in die Rinde der Mannaesche ist erst seit dem 16. Jahr-\nhundert gebräuchlich und erst von dieser Zeit ab wird, nach der Vermuthung Flückigers, die orien-\ntalische Manna, die bis dahin als ein kostbares Arzneimittel galt, in Europa verdrängt worden sein.\nObgleich man die Natur der Manna schon lange kannte und namentlich 2 Franziskanermönche, Angelus\nPalea und Bartholomaeus ab urbe veteri schon im 16, Jahrhundert ihre Wahrnehmung bekannt\ngegeben    hatten,    dass    Manna    nichts     weiter     als    der    ausfliessende      Saft    der Esche sei,        so hielt doch\nKlaproth        noch im Jahre 1802 eine Vorlesung über Himmelsmamna.\n"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 176,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含甘露醇、糖、植物黏液及未知瀉下成分。優質品含甘露醇達 82%，劣質品僅 25%。含微量檸檬酸及苦味質。",
+        "warnings": [],
+        "source_line_range": [
+          35,
+          48
+        ],
+        "exact_source_quote": "        Bestandtheile.          Die Eschenmanna        enthält Mannit, Zucker, Pflanzenschleim              und nach Witt-\nstein eine ihrer Natur nach unbekannte Substanz, welcher die abführende Wirkung zugeschrieben\nwird. Die beste Manna enthält bis 820, Mannit, die geringeren Sorten gegen 50°|,, die schlechtesten\nnur noch 25\",. Rebling fand in Manna canellata 82°, Mannit, 29| Zucker; in Manna Geracy\n57°, Mannit,      8°, Zucker;    in Manna    communis       50%, Mannit, 18%,          Zucker, 309,       Wasser;     in Manna\nCapacy 37,5%, Mannit, 30°, Zucker. Nach Buchholz enthält Manna canellata 60%, Mannit, 5,50,\nSchleimzucker, 0,8%, gummiartigen Extraktivstoff, 1,5%, etwas süss schmeckendes Gummi, 0,2%, faserigen,\nkleberartigen Stoff, 32%, Wasser. Nach Flückiger ist ausserdem noch wenig Citronensäure und in\nden dunkleren Mannasorten ein durch Aether ausziehbarer kratzender Bitterstoff vorhanden. Die con-\ncentrirte wässerige Lösung der unreinen, weniger alten Mannasorten zeigt nach Ausscheidung des\nMannit schwache Fluorescenz, welche von einer geringen Menge Fraxin (C,,H,,0,, Flückiger) herrührt.\n          Der neben dem Mannit auftretende Zucker, welcher schon in der Kälte Kupferoxydul aus\nalkalischem Kupfertartrat ausscheidet, ist nach Backhausen gewöhnlicher Rechtstraubenzucker, nach\nBuignet unkrystallisirbarer Invertzucker."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 177,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史用途：作為溫和瀉藥，常用於兒童或體弱者。常與番瀉葉煎劑混合使用，利用其甜味改善口感。",
+        "warnings": [],
+        "source_line_range": [
+          45,
+          52
+        ],
+        "exact_source_quote": "          Anwendung.       In Wasser oder Milch oder Sennesblätteraufguss als ein sehr mildes Ab-\nführmittel, namentlich bei Kindern benutzt.\n          Als das aktive Prinzip der Manna ist der Mannit zu betrachten, denn je reicher Mannit in\nder Droge anftritt, um so grösser ist die Wirkung, die in den schlechten, mannitarmen Sorten, nament-\nlich auch wegen des Vorhandenseins von Dextrin sehr beschränkt wird. Husemann sagt: „Bei\n\n\n                                                                                                                                                115"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "2db6a2e3d855bc3f9fc79896638423b2cf6b8106e257b51088caed923513e57a"
+}

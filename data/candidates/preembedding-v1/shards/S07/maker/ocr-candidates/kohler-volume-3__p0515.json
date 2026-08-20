@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 515,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "8b59be039031652d107689a08ba5fd5aab7654af60dd2542f17cfb518223a1ce",
+  "render_dpi": 144,
+  "render_sha256": "cceba459a753bfff7d8462d0bfd365debe729f2f5af243e68940efd2bd550b9d",
+  "input_sha256": "cceba459a753bfff7d8462d0bfd365debe729f2f5af243e68940efd2bd550b9d",
+  "render_pixel_width": 5942,
+  "render_pixel_height": 8486,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.07,
+  "embedded_character_count": 77,
+  "ocr_character_count": 48,
+  "ocr_alpha_ratio": 0.75,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.02180232509734137,
+      "text": "Cupuliferae",
+      "width": 0.09543568554410853,
+      "x": 0.7717842315847923,
+      "y": 0.95494186048912
+    },
+    {
+      "confidence": 1,
+      "height": 0.022881689525785953,
+      "text": "(Fageae)",
+      "width": 0.0712061603751466,
+      "x": 0.7797496162509521,
+      "y": 0.9325998531397045
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436846943,
+      "text": "3",
+      "width": 0.020746887574452533,
+      "x": 0.4813278012335206,
+      "y": 0.7863372093600649
+    },
+    {
+      "confidence": 1,
+      "height": 0.017641073181515643,
+      "text": "Castanea vesea",
+      "width": 0.12453794614451469,
+      "x": 0.4003866294765082,
+      "y": 0.02315620763824
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185932098863,
+      "text": "Gaertn.",
+      "width": 0.07053941505151162,
+      "x": 0.5207468891028749,
+      "y": 0.02325581445287772
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "70",
+      "width": 0.018672198817007324,
+      "x": 0.8921161825157703,
+      "y": 0.017441860550292843
+    }
+  ],
+  "text": "Cupuliferae\n(Fageae)\n3\nCastanea vesea\nGaertn.\n70",
+  "output_sha256": "5033ed1230afcccea29800fec21f3621bafc157493b310c8892fcc2697bb3462",
+  "receipt_sha256": "fc5376ca4c179c5fb3bab96e40d521464ffcbe0227371b80ec57a0ba0f0fb826"
+}

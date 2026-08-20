@@ -1,0 +1,155 @@
+{
+  "schema_version": "2.0",
+  "package_id": "kohler-volume-2:p0377-p0384:child-01:continuation-01",
+  "parent_entry_id": "kohler-volume-2:p0377-p0384",
+  "child_entry_id": "kohler-volume-2:p0377-p0384:child-01",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation-v2:kohler-volume-2:p0377-p0384:child-01:continuation-01:v1",
+  "owner_shard": "S04",
+  "package_sha256": "08efcaafae4168f50f5afb52f4518faf0e386de233e54224a6a08b9cef315ef3",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit",
+  "prompt_version": "plant-structure-line-coordinates-v2",
+  "attempt_sha256": "3d6fb6cce6217797c7c1acacf5dd37744a6a4a6d307a07d3026b3c7eef64c2cd",
+  "raw_response_sha256": "0afb1dfd84209226484b56fdfa76b6fcee39714bfc5cd6e8d936abe8fd36bfb1",
+  "elapsed_seconds": 26.408,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 377,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 0,
+      "char_end": 220,
+      "source_line_start": 1,
+      "source_line_end": 3,
+      "page_text_sha256": "24956306a4306274269c08150f0cc65aabdf268e23015a131cc3256c515cbf57",
+      "exact_text_sha256": "0a51fa5629bebc14ef962b9719b0abd641f88c144759631238c44b3b70c837a9",
+      "section_index": 0,
+      "section_type": "taxonomy"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 377,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 1943,
+      "char_end": 4049,
+      "source_line_start": 21,
+      "source_line_end": 41,
+      "page_text_sha256": "24956306a4306274269c08150f0cc65aabdf268e23015a131cc3256c515cbf57",
+      "exact_text_sha256": "9fa959ea954bd4b71b34febcec0bc26b73bb684ddef1cbded5086b6f373fdde9",
+      "section_index": 1,
+      "section_type": "description"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 378,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 3229,
+      "char_end": 4934,
+      "source_line_start": 34,
+      "source_line_end": 50,
+      "page_text_sha256": "9c21ce8a01e33f4ba3d0528b3cbab475df287ecef245c55d8dbacbf2db226578",
+      "exact_text_sha256": "ba31c34ce2aeb85e510a3f998528a2de6eb38ebd75eaebb4d93db5c4d154d0d2",
+      "section_index": 2,
+      "section_type": "anatomy"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 379,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 3604,
+      "char_end": 4878,
+      "source_line_start": 38,
+      "source_line_end": 50,
+      "page_text_sha256": "fb9a57da3f339cc6adbccd37e9e8fc8396116877257c49736adbb02aaf1f0fe2",
+      "exact_text_sha256": "501bf95845a4aafac61cae86c83a9684fb4fd7498b431e49215e18519dfe316c",
+      "section_index": 3,
+      "section_type": "distribution"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 380,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 0,
+      "char_end": 1554,
+      "source_line_start": 1,
+      "source_line_end": 15,
+      "page_text_sha256": "4fbbdc196e0fe6ebed78a6ab39c35593ef26b0fdc337698cb848aa295486b05a",
+      "exact_text_sha256": "bfaa487f23c26f73e85675c2cb5445519b33b5b7c0354eb41d89960a7cb07dbd",
+      "section_index": 4,
+      "section_type": "history"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-2:p0377-p0384:child-01:continuation-01",
+    "parent_entry_id": "kohler-volume-2:p0377-p0384",
+    "book_taxon": {
+      "scientific_name_candidate": "Rheum officinale"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 377,
+        "source_line_range": [
+          1,
+          3
+        ],
+        "exact_source_quote": "                                          Rheum                 officinale Baill.\n      Rhabarber —            Rhubarbe de Chine, Rhubarhe de Moscovie — Thibetan-Rhubarb.\n         Familie: Polygonaceae: Gattung: Rheum L."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 377,
+        "source_line_range": [
+          21,
+          41
+        ],
+        "exact_source_quote": "         Rheum officinale Baill. ist eine 11/, bis fast 3 Meter hohe Pflanze mit einem mehrköpfigen,\nschiefen, cylindrischen, bis 20 Ctm.            aus dem         Boden      hervorragenden     Rhizom,     welches    auf den älteren\nThelen mit Blattstiel- und Knospennarben bedeckt ist. Die grossen, aus herzfórmigem Grunde\neiförmigen, zugespitzten, handförmig gross 5- oder 7lappigen Blätter besitzen gelappte und gezahnte\nAbschnitte und eine wellige Blattspreite. Untere Blätter sammt dem fast cylindrischen Blattstiele\nüber 1 Meter lang und etwas breiter. Blattstiele nach oben kürzer werdend, nebst den Nerven der\nBlattunterseite      dicht   mit     kurzen,    abstehenden,             weichen   Härchen     bedeckt.     Die     am      Grunde      der\nBlattstiele befindlichen Tuten 2theilig. Flückiger sagt: „Die bei uns recht gut gedeihende Pflanze\ntreibt Ende März aus dem mächtigen Rhizom auffallend wellige, gelblich bronzefarbene Blätter mit\nrothen Adern und rothen, gewimperten Rändern. Vor der völligen Entfaltung sind die Blätter unter-\nseits reichlich mit weichen Börstchen besetzt, zuletzt weisslich-flaumig. Das ausgewachsene Blatt\nzeigt 5, zwar wenig hervortretende Lappen, die fast fücherfórmig von je einem starken Nerven durch-\nzogen sind. Der mittlere Lappen pflegt kaum mehr vorzuspringen, als die übrigen, daher die Blatt-\nspreite, nach beiden Richtungen über 1 Meter erreichend, oft mehr breit als lang erscheint. Am\nGrunde ist sie herzförmig oder fast geöhrt, der Blattstiel von halber Blattlänge. Im Mai treibt die\nPflanze meist auffallend zahlreiche Stengel bis zur Höhe von 23/, Meter, welche Mitte Juni blühen\nund. Ende Juli die letzten Früchte reifen. Die weissen oder grünlich-weissen Blüthen auf kurzen\nStielen, zu grossen, dichten, traubigen, endständigen Rispen vereinigt. Perigonabschnitte eifórmig,\nconcav. Die den Grund des Fruchtknotens umgebende dankelgrüne Scheibe 9kerbig eingeschnitten.\nFruchtknoten eine kantige, nach oben verjüngte Säule darstellend, mit 3 übergebogenen kurzen Griffeln\nund kopfigen Narben. Eichen aufrecht. Frucht gelb mit purpurnen Flügeln."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 378,
+        "source_line_range": [
+          34,
+          50
+        ],
+        "exact_source_quote": "            Anatomisches.           Die   im   Handel    erscheinende    Droge ist durch Schälen von         der Rinde ent-\nblösst; die Farbe ist vorherrschend gelb und hier und da durch grössere oder kleinere Rindenreste\ndunkel gefärbt. Flückiger giebt über den anatomischen Bau der Wurzel folgende Beschreibung: Auf\nder gelben Färbung der Aussenfläche treten weisse, körnig krystallinische Felder auf, welche parallel\nzur Axe von glänzenden, gelben bis dunkel braunrothen Adern und Streifen durchsetzt sind. Diese\nZeichnungen zeigen jedoch nur in den äusseren Schichten der Wurzel Regelmässigkeiten, während sie\nnach innen einen unbestimmten Verlauf nehmen. Die weisse Grundmasse besteht aus dem Gefäss-\nbündelsystem und Parenchym; die rothgelben Streifen aus Markstrahlen. Die Gefässbündel sind von\neinem dünnwandigen, nicht verholzten Parenchym umgeben, welches von den zahlreichen Markstrahlen\nsehr unregelmässig durchschnitten wird. Letztere sind nur im Rindentheile des Rhizoms regelmässig\ngeordnet;      „im Innern aber,      oder wo     die    Waare    tief geschält ist,     bietet sie ein wenig regelmässiges\nGewirre rother, zierlich geschlängelter Adern in der weissen Grundmasse, welche Zeichnung mit dem\ntechnischen Ausdrucke marmorirt belegt wird.“ Der körnigen Beschaffenheit wegen lässt sich die\nStruktur der Rhabarberwurzel besser auf dem frischen Bruche als auf dem Querschnitte beobachten.\n„Möglichst regelmässige, cylindrische Stücke zeigen auf dem Querbruche dicht unter der Aussenfläche\neinen schmalen, zusammenhängenden, gelblich schwarzen Cambiumring, der gewöhnlich nicht im ganzen\nUmfange erhalten ist. Die rothen Markstrahlen durchsetzen diesen Ring bis auf eine Tiefe von etwa"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 379,
+        "source_line_range": [
+          38,
+          50
+        ],
+        "exact_source_quote": "             Vorkommen.       In Tibet und wahrscheinlich auch im westlichen und nordwestlichen China.\n   Flückiger bezeichnet das bis 4000 Meter hohe wilde Alpenland Tangut (Turfan oder Si-fan), welches\n   das weidenreiche Becken des Kuku-nor, sowie das Quellgebiet des Hwangho oder Hoangho umfasst,\n   als die eigentliche Heimath der Rhabarberpflanzen, bemerkt aber, dass grosse Theile vom nördlichen\n und nordwestlichen   China, namentlich   die Provinzen   Schensi und Schansi, sowie Sz'tschwan am oberen\n Kiang zum Verbreitungsgebiete des Rhabarbers gehören. Der Mittelpunkt und Hauptstapelplatz des\n Rhabarberhandels ist die Stadt Si-ning, östlich vom Kuku-nor gelegen. Der beste Rhabarber soll\n jedoch aus der nordöstlichen Provinz Schansi stammen. Auch im östlichen Tibet wird Rhabarber\n gesammelt. Flückiger sagt: „Man darf also wohl annehmen, dass die betreffenden Pflanzen in vielen\n Gegenden der nördlichen Gebirgsländer Chinas, der westlichen Theile der Provinz Sui-tschuan (Sze-tschuan),\n sowie der westwärts anstossenden Gebiete einheimisch sind. Eine so grosse Ausdehnung des Ver-.\n breitungsbezirkes berechtigt zu  der Vermuthung,    dass es  sich nicht nur  um  eine einzige Art  handle,\n sondern dass die Rhabarber von mehreren Pflanzen abstammen können.“"
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 380,
+        "source_line_range": [
+          1,
+          15
+        ],
+        "exact_source_quote": "            Name und Geschichtliches.                 Rheum und Rhabarber von 60, 6%, óñov, vom Flusse Rha\n (Wolga) an dessen Ufern die Rhabarberpflanze angeblich wachsen sollte; barbarum, fremd, ausländisch.\n Nach Ritter stammt der Name entweder von dem alten Hafenort Barberika im Indusdelta, oder von\n der   afrikanischen   Landschaft   Barberica    am     Eingang    in das   Rothe     Meer.    Die erstere Ableitung vom\n Flusse Rha dürfte wohl die richtigere sein.\n          Bereits in dem 2700 Jahre vor unserer Zeitrechnung verfassten chinesischen Kräuterbuche,\n Pen-king, tritt Rhabarber unter der Bezeichnung Huang liang (ausgezeichnet gelb) und Ta-huang\n (grosses Gelb) auf.     Auch   Dioskorides        scheint die Wurzel       schon gekannt      zu haben, denn die aussen\n schwarze, innen röthliche, weder harte noch schwere Wurzel ó& oder óño», welche nach jenem Schrift-\n steller von jenseits des Bosporus kam, ist nach Flückigers Vermuthung wohl die Rhabarberwurzel\n gewesen,    die   damals wahrscheinlich        durch    Karawanen,     welche      beispielsweise   um   114    v. Chr.    aus\n Schensi in Nord-China über Bokhara westwürts zogen, nach Europa                        gebracht worden ist.            Auch in\n der von    Plinius    erwähnten,   von   jenseits      des Pontus   stammenden       Wurzel    Rhacoma,        deren    Pulver\neine weingelbe bis rothe Farbe besitze, wird Rhabarber vermuthet; ebenso in einer von Ammianus\nMarcellinus allerdings nicht nüher beschriebenen Heilwurzel, vom Flusse Rha (Wolga) stammend."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "88c20e7d5aaabd906883312018769c26dbf245185715ea972468ce8bd2861b90"
+}

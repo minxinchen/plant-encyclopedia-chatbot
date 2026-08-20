@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "author": "Codex (GPT-5)",
+  "date": "2026-08-13",
+  "user_requested_family": "Chandra OCR",
+  "supplied_video": "https://youtu.be/3dJ3s_ddIfc?si=ibdKhg5IVWumMudf",
+  "selected_model": {
+    "upstream": "datalab-to/chandra-ocr-2",
+    "revision": "af93b47dba1b47b6640c86ccf487ed2260ab9a09",
+    "package": "chandra-ocr==0.2.0",
+    "local_path": "/Users/user/AI_WORKSTATION/services/chandra-ocr/models/chandra-ocr-2",
+    "local_size_kib": 10363348,
+    "runtime": "torch 2.13.0 MPS BF16"
+  },
+  "selection_reason": {
+    "video_model": "The supplied video describes Chandra 1 9B.",
+    "upgrade": "Chandra OCR 2 is the same family, smaller and more accurate than Chandra 1 according to the upstream release.",
+    "upstream_reported_german_score": 94.8,
+    "upstream_reported_old_scans_score": 51.1,
+    "upstream_reported_multi_column_score": 82.1
+  },
+  "license": {
+    "code": "Apache-2.0",
+    "weights": "modified OpenRAIL-M",
+    "scope": "free for personal/research use and qualifying startups under upstream terms",
+    "warning": "not unrestricted commercial usage; cannot be used competitively with the upstream API"
+  },
+  "qualification": {
+    "status": "waiting_for_qwen_structure_batch",
+    "golden_source_id": "kohler-volume-2",
+    "golden_pdf_page": 509,
+    "required_tokens": ["Oenanthe", "Phellandrium"],
+    "required_layout_chunks": "non-empty",
+    "takeover_rule": "Only after pass may Chandra stop Apple Vision and process the remaining OCR queue."
+  },
+  "resource_probe": {
+    "mps_available": true,
+    "mps_bfloat16": true,
+    "single_model_peak_memory_footprint_bytes": 14167400776,
+    "parallel_with_qwen_result": "rejected_due_to_swap",
+    "observed_parallel_swap_bytes_approx": 4927324160
+  },
+  "safety": {
+    "review_status": "machine_extracted",
+    "canonical_write_allowed": false,
+    "external_api_calls": 0,
+    "incremental_usd": 0
+  }
+}

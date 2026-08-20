@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "purpose": "Keep the plant evidence system usable from Google Gemini Gems without making Gem, Opal, n8n or one vector database canonical.",
+  "chat_policy": "config/chat-policy.json",
+  "cost_policy": "Free Tier and no-cost Google account features are allowed. No paid SaaS plan or billing-enabled Google Cloud resource may be required.",
+  "classic_gem": {
+    "integration": "Google Drive knowledge file",
+    "artifact": "exports/google-gem/approved-evidence-pack.md",
+    "update_mode": "replace or update the same Drive file so the Gem reads the newest Drive version",
+    "limitations": "Treat Classic Gem as a knowledge-file client. Direct arbitrary n8n webhook invocation is not assumed."
+  },
+  "gems_from_google_labs": {
+    "platform": "Opal experiment",
+    "integration": "schemas/chat-api.openapi.json and the portable retrieval JSON contract when external HTTPS steps are confirmed in the user's account",
+    "status": "local_contract_tested_external_https_and_account_capability_not_yet_verified",
+    "network_boundary": "Opal cannot be assumed to reach 127.0.0.1. Do not expose the endpoint publicly without a separately approved authentication and HTTPS gateway."
+  },
+  "local_chat_api": {
+    "implementation": "scripts/plant-chat-api.py",
+    "openapi": "schemas/chat-api.openapi.json",
+    "default_url": "http://127.0.0.1:18765",
+    "endpoints": ["GET /health", "POST /v1/retrieve", "POST /v1/chat"],
+    "generation_mode": "deterministic_extract_from_approved_evidence",
+    "n8n_adapter": "n8n/plant-encyclopedia-chat-api-adapter.workflow.json",
+    "status": "locally_tested_not_publicly_exposed"
+  },
+  "retrieval_contract": {
+    "request": {
+      "question": "string",
+      "top_k": "integer_default_8",
+      "language": "zh-TW|en|zh-Hans_input_normalized_to_zh-TW",
+      "include_images": "boolean"
+    },
+    "response": {
+      "answer_status": "answerable|name_metadata|no_approved_evidence|not_yet_processed|out_of_scope|refuse_medical_advice",
+      "evidence": "array of source_id, volume, pdf_page, chunk_id, quote_or_summary, score channels",
+      "display_names": "array with Taiwan authority and fallback status",
+      "generation_instruction": "Only answer from approved Köhler evidence; default to zh-TW, support English, retain Taiwan display names, and refuse non-Köhler drugs."
+    }
+  },
+  "secret_policy": "Gemini API keys stay server-side in an ignored env file; never place them in a Gem instruction or Drive evidence pack."
+}

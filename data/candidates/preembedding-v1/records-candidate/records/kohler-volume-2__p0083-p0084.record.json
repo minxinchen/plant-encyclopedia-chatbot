@@ -1,0 +1,291 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0083-p0084",
+  "entry_id": "kohler-volume-2:p0083-p0084",
+  "owner_shard": "S03",
+  "book_taxon": {
+    "scientific_name": "Pimpinella Anisum",
+    "authorship": "L.",
+    "aliases": [
+      "Anisum vulgare Gaertn.",
+      "Sison Anisum Spr.",
+      "Anis",
+      "Anis vert",
+      "Anise"
+    ]
+  },
+  "display_name": "大茴香",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Pimpinella Anisum",
+      "Pimpinella anisum"
+    ],
+    "accepted_scientific_name": "Pimpinella anisum",
+    "display_name_source_scope": "taiwan_government_public",
+    "taiwan_occurrence_status": "not_asserted",
+    "checked_at": "2026-08-13T13:45:32+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Pimpinella+Anisum",
+        "query_name": "Pimpinella Anisum",
+        "retrieved_at": "2026-08-13T13:44:55+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0024534",
+        "query_name": "Pimpinella Anisum",
+        "retrieved_at": "2026-08-13T13:44:55+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0024534",
+        "query_name": "Pimpinella Anisum",
+        "retrieved_at": "2026-08-13T13:44:55+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Pimpinella+anisum",
+        "query_name": "Pimpinella anisum",
+        "retrieved_at": "2026-08-13T13:44:55+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Anisum+vulgare",
+        "query_name": "Anisum vulgare",
+        "retrieved_at": "2026-08-13T13:44:56+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Sison+anisum",
+        "query_name": "Sison anisum",
+        "retrieved_at": "2026-08-13T13:44:56+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Anis+vert",
+        "query_name": "Anis vert",
+        "retrieved_at": "2026-08-13T13:44:56+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL and Tai2 returned no exact species record. Kew POWO confirms Pimpinella anisum L. as accepted. Taiwan's Animal and Plant Health Inspection Agency explicitly pairs 大茴香 with Pimpinella anisum, while TFDA and BSMI public materials independently pair the exact species with 大茴香油/茴芹油 or 洋茴香油. No Taiwan occurrence is asserted."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 83,
+      "evidence_type": "text",
+      "page_text_sha256": "863c86feb6b21a5d3157a8f1a9be658033c240399cf9cd91c02bd633fc06ce21",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 84,
+      "evidence_type": "text",
+      "page_text_sha256": "805c8de36d43b34fb36419a1b99c79e7b020e5fd07b2700d1a1a22a1a21d2fe8",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0083-p0084:s00:x00",
+      "section_type": "description",
+      "original_text": "           Beschreibung.             Einjährige, 30—50 Ctm. hohe Pflanze mit einfacher, dünner, faseriger Wurzel\nund aufrechtem, stielrundem,           fein gerilltem, nach oben doldentraubig ästigem, kurz flaumhaarigem,                  sehr\nselten kahlem Stengel. Blätter am Grunde scheidig; die untersten lang gestielt, ungetheilt, rundlich-\nnieren- oder herzförmig, eingeschnitten-gesägt; die unteren Blätter ebenfalls lang gestielt, fiederspaltig-\ndreitheilig, mit rundlich-keilfórmigen oder rhombischen, eingeschnitten-gesägten Fiederstücken; die\nmittleren, kürzer gestielten Blätter mit in der Regel 2—3spaltigen, keilfórmigen, ganzrandigen Blüttchen :\ndie 9—5theiligen Astblütter mit linealischen oder schmal-lineal-lanzettlichen Zipfeln oder an den\n letzten Verzweigungen           ungetheilt,   linienförmig.        Blüthendolde   zusammengesetzt,        an den Spitzen des\n Stengels und der Aeste, 6—10strahlig,                  Döldchen 4—9blüthig.         Hülle fehlend oder aus einem ein-\n fachen,   auch    3spaltigen,     linienfórmigen     Deckblatte    bestehend.     Hüllchen   ebenfalls fehlend    oder durch\n 1—2 linienfórmige Deckblättchen gebildet. Blüthen weiss-grünlich, sämmtlich fruchtbar, mit verkehrt-\n eiförmigen, durch das umgebogene Spitzchen ausgerandeten Kronblättern und undeutlichem, aus dem\n Rande des Unterkelchs bestehendem Kelche. Die 5 Staubgefässe oberstándig, mit den Blumenblüttern\n wechselnd, mit dünnen, eingebogenen Füden und rundlichen, an beiden Enden ausgerandeten, am Grunde\n der Rückenfläche angehefteten, 2fücherigen, rand-längsspaltig sich öffnenden, blassgelben Staubbeuteln.\n Pollen länglich, eingeschnürt, gewölbt 3nabelig.    Fruchtknoten unterständig, eifórmig, seitlich etwas\n zusammengedrückt, 2fácherig, 2eiig. Eichen einzeln in jedem Fache, im oberen Theile angeheftet und\n herabhängend.    Die grünlich-graue, fein flaumhaarige, rundlich-eiförmige, seitlich etwas gedrückte,\n 2 Mm. dicke, 3—4 Mm. hohe Frucht von dem kissenförmigen Griffelpolster mit Griffeln gekrönt,\n stumpf lOrippig; die Oelstriemen der breiten, flachen Thälchen nicht hervortretend, auf der Rücken-\n seite klein und zahlreich, auf der Fugenseite zu 2 und gross. Endosperm im Querschnitt halbmond-\n fürmig, auf der Fugenseite zweibuchtig. Embryo in der Spitze des Eiweisses; das kurze, dicke Würzel-\n chen nach oben gerichtet.",
+      "normalized_text": null,
+      "zh_tw_rendering": "一年生植物，高30-50公分，莖直立細溝，葉基鞘狀，花序複傘形，果實灰綠橢圓。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 83,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 312,
+        "char_end": 2672,
+        "page_text_sha256": "863c86feb6b21a5d3157a8f1a9be658033c240399cf9cd91c02bd633fc06ce21",
+        "exact_text_sha256": "4acb65a8f10a746a5456151726f7d9458db18aa8eedf7193d0e20c2719d88f27",
+        "source_line_start": 6,
+        "source_line_end": 28,
+        "section_index": 0,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "4acb65a8f10a746a5456151726f7d9458db18aa8eedf7193d0e20c2719d88f27",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0083-p0084:s01:x00",
+      "section_type": "flowering",
+      "original_text": "           Blüthezeit.         Juli, August.",
+      "normalized_text": null,
+      "zh_tw_rendering": "花期為七月至八月。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 83,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2673,
+        "char_end": 2717,
+        "page_text_sha256": "863c86feb6b21a5d3157a8f1a9be658033c240399cf9cd91c02bd633fc06ce21",
+        "exact_text_sha256": "b5b9f2b04ecd656034e8e0a6dc79ee243b6cb90ccdc8c33f672d847e15364c7c",
+        "source_line_start": 29,
+        "source_line_end": 29,
+        "section_index": 1,
+        "section_type": "flowering"
+      },
+      "exact_text_sha256": "b5b9f2b04ecd656034e8e0a6dc79ee243b6cb90ccdc8c33f672d847e15364c7c",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0083-p0084:s02:x00",
+      "section_type": "distribution",
+      "original_text": "           Vorkommen.              Ursprünglich wohl im Ostgebiete des Mittelmeeres einheimisch.                  In Süd- und\n Mitteleuropa (Spanien, Westfrankreich, Thüringen, Sachsen, Bóhmen, M&hren, in verschiedenen russischen\nGouvernements, Griechenland), ferner in Kleinasien, Nordindien, Japan, Chile der Früchte wegen an-\ngebaut.                      ۱",
+      "normalized_text": null,
+      "zh_tw_rendering": "原產東地中海，現栽培於南歐、中歐、西亞、北印度、日本及智利。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 83,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2718,
+        "char_end": 3077,
+        "page_text_sha256": "863c86feb6b21a5d3157a8f1a9be658033c240399cf9cd91c02bd633fc06ce21",
+        "exact_text_sha256": "5f8850b9c999b9e127dcf3f61379ef47f731d7b735e0199065b5b03d21825e34",
+        "source_line_start": 30,
+        "source_line_end": 33,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "5f8850b9c999b9e127dcf3f61379ef47f731d7b735e0199065b5b03d21825e34",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0083-p0084:s03:x00",
+      "section_type": "anatomy",
+      "original_text": "        Anatomisches.    Aus der Epidermis entwickeln sich zahlreiche, kurze, kegelfórmige, etwas\ngekrümmte Haare. Die Mittelschicht der dünnen Fruchtwand besteht aus etwas tangential gestreckten\nZellen,    zwischen    denen      sich im Querschnitte      flach   elliptisch erscheinende   Oelgänge      befinden;   auf der\nFugenfläche fliessen die an und für sich umfangreichen Oelgänge nicht selten zu einem einzigen zu-\nsammen. Die mehrreihige innere Fruchtschicht zeigt tangential gestrecktere Zellen. Die Rippen sind\nmit je einem Gefässbündel            ausgestattet,    welches   wenige kleine Spiralgefässe     enthält.",
+      "normalized_text": null,
+      "zh_tw_rendering": "果皮具短錐形毛，中層含油道，內層細胞伸長，維管束含螺旋管。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 83,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3078,
+        "char_end": 3704,
+        "page_text_sha256": "863c86feb6b21a5d3157a8f1a9be658033c240399cf9cd91c02bd633fc06ce21",
+        "exact_text_sha256": "b41e16dfd87b10d08cd95e42fdb578c23e66b99430272a013d283b7231b404a5",
+        "source_line_start": 34,
+        "source_line_end": 39,
+        "section_index": 3,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "b41e16dfd87b10d08cd95e42fdb578c23e66b99430272a013d283b7231b404a5",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0083-p0084:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "         Anis isb ein sehr altes Arzneimittel, denn er wird schon in den hippokratischen Schriften er-\nwähnt und dem Pythagoras waren schon seine Heilkräfte bekannt.            \"Theophrast, Dioscorides,\nColumella         und Plinius      schätzten den aus Creta und Aegypten kommenden Anis am höchsten;                     letzterer\nwurde von den Rómern als Küchengewürz und auf Backwerk gestreut benutzt. Palladius empfiehlt\nden Anis zum Anbau und später auch Karl der Grosse in seinem Capitulare; Alexander Trallianus\nverwendet ihn häufig medizinisch. Hildegard scheint ihn nicht zu kennen, wie er überhaupt in dem\ndeutschen Mittelalter wenig Beachtung gefunden zu haben scheint. Nach England soll er erst 1551\ngekommen sein.",
+      "normalized_text": null,
+      "zh_tw_rendering": "古希臘羅馬用作藥用及調味，中世紀德國少用，1551年傳入英國。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 83,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 4467,
+        "char_end": 5194,
+        "page_text_sha256": "863c86feb6b21a5d3157a8f1a9be658033c240399cf9cd91c02bd633fc06ce21",
+        "exact_text_sha256": "be8cef2211e7514ab2e9c15ac915dba09695680d342ab663c2f9fabdb485bf36",
+        "source_line_start": 48,
+        "source_line_end": 55,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "be8cef2211e7514ab2e9c15ac915dba09695680d342ab663c2f9fabdb485bf36",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0083-p0084:s05:x00",
+      "section_type": "constituents",
+      "original_text": "         Bestandtheile.          Die Anisfrüchte enthalten:     3°/, ätherisches Oel, 3,38%, fettes Oel, 0,65%,\nSchleimzucker,   6,5%, Gummi       mit Kalksalzen,   32,85 Faser etc.    Das ätherische Oel, welches den Geruch\nund Geschmack        des Samens besitzt, ist im frischen Zustande farblos, später gelblich und mehr dick-\nflüssig; es besizt ein spez. Gew. von        0,98—0,99    (altes Oel bis 1,075),    löst sich in 2,4 Theilen Wein-\ngeist von 0,84 spez. Gew., ferner in absolutem Weingeist, Aether, ätherischen und fetten Oelen und\nerstarrt schon bei einer Temperatur unter 15° zu einer harten Krystallmasse, welche bei 17? wieder\nflüssig wird. Es besteht je nach der Güte bis zu 90°/, aus Anethol (Aniskampfer) = Cio H,, O\n         OCH,                                           a    eae                      5\n(o.H,{ CH CH bun. welches von einem, dem Terpenthinöle isomeren Oele begleitet wird. Anethol,\nvom Geruche des Anis, kommt sowohl fest als flüssig vor und bildet den Hauptbestandtheil der\nflüchtigen Oele von Pimpinella Anisum L., Anethum Foeniculum L., Ilieium anisatum L. und Artemisia\nDracunculus L. Das feste Anethol krystallisirt in weissen, glänzenden Bláttchen oder bildet eine\nweisse, körnige Masse, mit einem Schmelzpunkt von 21°, sedeci bei 232° und besitzt ein spez. Gew.\nvon 0,990. (Husemann, Pflanzenstoffe 937).",
+      "normalized_text": null,
+      "zh_tw_rendering": "含3%揮發油，主要成分為茴香腦，具特殊香氣，熔點21度。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 84,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 1156,
+        "char_end": 2503,
+        "page_text_sha256": "805c8de36d43b34fb36419a1b99c79e7b020e5fd07b2700d1a1a22a1a21d2fe8",
+        "exact_text_sha256": "faf5fe6b10d4d1fb45a22b42110d6495acaf795f8430cfd8e9f497f06120ca8a",
+        "source_line_start": 14,
+        "source_line_end": 27,
+        "section_index": 5,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "faf5fe6b10d4d1fb45a22b42110d6495acaf795f8430cfd8e9f497f06120ca8a",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "大茴香 is also used in Taiwan for star anise products; answers should preserve Pimpinella anisum to distinguish this Apiaceae species from Illicium verum.",
+    "The external sources are used only for scientific-name and Taiwan public-name metadata; food, pharmacological, and other plant facts are not imported into the Köhler book-fact layer.",
+    "No Taiwan occurrence claim was established.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "f7ef7090639d1147135c882bfacc99dd7a0e24d0283ee9bbc4a44c1e9188eb61",
+    "maker_receipt_sha256": "f8a93b227568b58fb375761976c3af3a7d17c12e5a04aebc3e4b1a4d6bf92fd3",
+    "validation_check_sha256": "35ea85b2fe801bb3744d48e74512aecd6c65ab7f850bf6033597abe408fd2c3c",
+    "source_disposition_sha256": "382ae61b8e90b38fde500e4f736694751a520fe4f1a7fb6661b4da3114750444",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "f8a93b227568b58fb375761976c3af3a7d17c12e5a04aebc3e4b1a4d6bf92fd3",
+      "validation_check_sha256": "35ea85b2fe801bb3744d48e74512aecd6c65ab7f850bf6033597abe408fd2c3c",
+      "source_disposition_sha256": "382ae61b8e90b38fde500e4f736694751a520fe4f1a7fb6661b4da3114750444"
+    },
+    "naming_artifact_sha256": "9ad9c3cdb95be7477ed71a0dc6e6ed0b218d4f2cd8d42e405f7d844c4eb39d70"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "c0c2ec27ecdb3ec237c5b89ca13903414207d0d0d36fc976fb9e94178a08724f"
+}

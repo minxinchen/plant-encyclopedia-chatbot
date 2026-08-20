@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 263,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "e582605318748be350a80c513bda15c4718132a9feed40b355e556d40844c8e5",
+  "render_dpi": 144,
+  "render_sha256": "c2089b497334a841a4d74445d02f2910c7d6f2493d7b3c823643ab38e1c4d13b",
+  "input_sha256": "c2089b497334a841a4d74445d02f2910c7d6f2493d7b3c823643ab38e1c4d13b",
+  "render_pixel_width": 6002,
+  "render_pixel_height": 8318,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.187,
+  "embedded_character_count": 302,
+  "ocr_character_count": 62,
+  "ocr_alpha_ratio": 0.6774,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.020764914769974996,
+      "text": "Cruciferae.",
+      "width": 0.11281919708776311,
+      "x": 0.8047574021585597,
+      "y": 0.9285710312366301
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "10",
+      "width": 0.018108651072708648,
+      "x": 0.6619718315863821,
+      "y": 0.24273255829275153
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "12",
+      "width": 0.018108651072708648,
+      "x": 0.5553319921900038,
+      "y": 0.18604651185579935
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.008720929660494314,
+      "text": "M",
+      "width": 0.012072434048472358,
+      "x": 0.710261569830224,
+      "y": 0.17151162804765974
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013081395436847054,
+      "text": "WM.",
+      "width": 0.032193158336521366,
+      "x": 0.8651911474246301,
+      "y": 0.1351744184516347
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.020446889930301193,
+      "text": "Brassica Juncea",
+      "width": 0.1911468820473583,
+      "x": 0.31388330019865485,
+      "y": 0.11918604660930676
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.020914193183656726,
+      "text": "Hook fil et Thoms.",
+      "width": 0.17517498842219725,
+      "x": 0.5250885627572707,
+      "y": 0.12181034552096326
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906844729474,
+      "text": "14a",
+      "width": 0.022132797503389368,
+      "x": 0.9014084505273127,
+      "y": 0.03343023267259648
+    }
+  ],
+  "text": "Cruciferae.\n10\n12\nM\nWM.\nBrassica Juncea\nHook fil et Thoms.\n14a",
+  "output_sha256": "405c7a728185024be49acd3d59f4c02ccc14c57014257423a070686e737d8269",
+  "receipt_sha256": "8b7815967e46b7a06ac869f36930577a559f37b1f7d52dc8c7a7b1a1178d96d7"
+}

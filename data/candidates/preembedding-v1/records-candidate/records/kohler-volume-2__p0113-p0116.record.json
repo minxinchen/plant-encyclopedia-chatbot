@@ -1,0 +1,238 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0113-p0116",
+  "entry_id": "kohler-volume-2:p0113-p0116",
+  "owner_shard": "S03",
+  "book_taxon": {
+    "scientific_name": "Liquidambar orientalis",
+    "authorship": "Miller",
+    "aliases": [
+      "Liquidambar imberbe Nit.",
+      "Storaxbaum"
+    ]
+  },
+  "display_name": "蘇合香",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Liquidambar orientalis"
+    ],
+    "accepted_scientific_name": "Liquidambar orientalis",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T15:25:32+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Liquidambar+orientalis",
+        "query_name": "Liquidambar orientalis",
+        "retrieved_at": "2026-08-13T15:25:32+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0074600",
+        "query_name": "Liquidambar orientalis",
+        "retrieved_at": "2026-08-13T15:25:32+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0074600",
+        "query_name": "Liquidambar orientalis",
+        "retrieved_at": "2026-08-13T15:25:32+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL accepts the queried book binomial at species rank."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 113,
+      "evidence_type": "text",
+      "page_text_sha256": "2ec099458a9a1dd93690b47eab9c2093f1219fbfac66b87062e4438349ca60ad",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 114,
+      "evidence_type": "text",
+      "page_text_sha256": "f3fd5e24d32c2228c8dec477c8592da24192964038f722fb24d527ede66ca1c2",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 115,
+      "evidence_type": "text",
+      "page_text_sha256": "372047eb90d205f75eff3b5b6ba9290bd912547381b7c43768a4f85954674dc7",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0113-p0116:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                Liquidambar orientalis Miller.\n                                       Syn. Liquidambar imberbe Nit.\n\n                                                   Storaxbaum.\n\n       Familie:      Hamamelideae (Platanaceae De Candolle, Juglandeae Eichler); Gattung: Liqui-\ndambar L.",
+      "normalized_text": null,
+      "zh_tw_rendering": "分類：Hamamelideae科，Liquidambar屬。同義名Liquidambar imberbe。俗名Storaxbaum。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 113,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 303,
+        "page_text_sha256": "2ec099458a9a1dd93690b47eab9c2093f1219fbfac66b87062e4438349ca60ad",
+        "exact_text_sha256": "25e4bc31a85d738b57c1479bede899510ff563a544ee92b58356a7b7d88875dd",
+        "source_line_start": 1,
+        "source_line_end": 7,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "25e4bc31a85d738b57c1479bede899510ff563a544ee92b58356a7b7d88875dd",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0113-p0116:s01:x00",
+      "section_type": "description",
+      "original_text": "           Beschreibung.    10—13 Meter hoher, der Platane ähnlicher, sommergrüner Baum, mit lang- 1\n gestielten, abwechselnden, an der Spitze der Zweige zusammengedrüngten, handförmig 5- (selten 3- -\n oder 7-)lappigen, bis 9 Ctm. langen und breiten Blättern, deren stumpfe oder zugespitzte Lappen\n stumpf gesägt sind. Blüthenstände endständig, aus eingeschlechtigen, kugeligen Köpfchen bestehend;\n männliche und weibliche aus einer zugleich blättertragenden Knospe hervorbrechend, die einzelnen\n Köpfchen mit 4 abfallenden Brakteen gestützt: Männliche Blüthen eine aufrechte Traube bildend,\n ohne Kelch und Blumenkrone, nur aus zahlreichen, dem fleischigen Befruchtungsboden eingefügten, mit\n kurzen Filamenten und zweifächerigen, mit Längsrissen sich öffnenden Staubbeuteln ausgestatteten\n Staubgefässen bestehend. Weibliche Blüthen zu einem, mit langem Stiele versehenen, hängenden\n Kopfe verwachsen; mit rudimentärem, ganzrandigem oder undeutlich drüsig gelapptem Kelche, ohne\n Krone und mit 4 一 9 kleinen unfruchtbaren Staubgefüssen.     Fruchtknoten halb unterständig, zwei-\n fächerig, mit zahlreichen, den an den Rückwänden stehenden Samenträgern vierreihig angehefteten\n Samenknospen; die bleibenden, pfriemenförmigen, nach aussen gekrümmten Griffel auf der Innenfläche\n die weichhaarige Narbe tragend. Fruchtköpfchen kugelig, durch die bleibenden, verhärteten Griffel der\n zahlreichen, wandspaltigen Kapseln stachelig. Die wenigsamigen Samenträger der Mitte der ganz\nbleibenden Klappe eingefügt. Same länglich, zusammengedrückt, kurz geflügelt.",
+      "normalized_text": null,
+      "zh_tw_rendering": "10-13米高落葉喬木，葉掌狀5裂，邊緣鈍鋸齒。花單性頭狀，果實為帶刺球狀蒴果，種子具短翅。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 113,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 304,
+        "char_end": 1857,
+        "page_text_sha256": "2ec099458a9a1dd93690b47eab9c2093f1219fbfac66b87062e4438349ca60ad",
+        "exact_text_sha256": "67039de6ed1f7b11b62d2c74da486ba8ddb1438130830e734b8092ab6da94a01",
+        "source_line_start": 8,
+        "source_line_end": 23,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "67039de6ed1f7b11b62d2c74da486ba8ddb1438130830e734b8092ab6da94a01",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0113-p0116:s02:x00",
+      "section_type": "distribution",
+      "original_text": "         Vorkommen. Im südlichen Theile Kleinasiens und in Nord-Syrien einheimisch; in den Küsten-\ngebieten der Meerbusen von Kos, Syme, Mermeridscheh (Marmorizza), namentlich in der Nähe von\nBudrun,    Melasso,    Giova,     Mughla,       Ulla,     Isgengak ete. schöne     Wälder    bildend;    auf   den Inseln    des\nArchipelagus ganz fehlend.",
+      "normalized_text": null,
+      "zh_tw_rendering": "原產小亞細亞南部及北敘利亞，產於科斯、西梅等海灣沿岸，群島上無分布。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 114,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 783,
+        "char_end": 1130,
+        "page_text_sha256": "f3fd5e24d32c2228c8dec477c8592da24192964038f722fb24d527ede66ca1c2",
+        "exact_text_sha256": "6aa18e4133b56422784ad8000f3c914ec58e7e89f3ccc7ee6efa566d747bcd4f",
+        "source_line_start": 10,
+        "source_line_end": 13,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "6aa18e4133b56422784ad8000f3c914ec58e7e89f3ccc7ee6efa566d747bcd4f",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0113-p0116:s03:x00",
+      "section_type": "historical_use",
+      "original_text": "          Name und Geschichtliches.                       Styrax, erën, arabisch assthirak (stiria Tropfen), ein\n Gewächs, aus dem ein harziger Saft tropft. Liquidambar von liquidus, flüssig, und Amber (ambra,\n arabisch ambar), eine graue, harzige, angenehm duftende Masse; imberbe (imberbis) bartlos, bezogen\n auf die Bartlosigkeit der Aderwinkel, im Vergleich zu L. styraciflua.\n           Styrax ist ein uraltes, von den alten Schriftstellern häufig erwähntes Arznei- und. Räucher-\n‚mittel, dessen Abstammung von Liquid. orientalis oder Styrax officinalis jedoch mit Sicherheit nicht\n festzustellen ist. Mit einiger Wahrscheinlichkeit ist anzunehmen, dass man unter dieser Bezeichnung\n‚das trockene Harz von Styrax officinalis gemeint hat. Nach Herodot war zu jener Zeit Styrax ein\n nicht unbedeutender Handelsartikel der Phönicier und auch Theophrast beschäftigt sich mit diesem\n als Arznei- und Räuchermittel benutztem Stoffe; jedoch erst aus den Berichten des Aétius (6. Jahrh.)\n und Paulus Aegineta (7. Jahrh.), welche von flüssigem Storax sprechen, lässt sich mit einiger Sicher-\n heit auf das Produkt von Liquidambar orientalis schliessen.       Storax (aller Wahrscheinlichkeit nach\n flüssiger von Liquidamb. orientalis) ist schon in frühen Zeiten (um 1370) über Arabien nach Indien\n und China gebracht worden. Flückiger sagt bezüglich der beiden Styraxarten: „Es ergiebt sich also\nwohl, dass flüssiger Styrax schon in frühen Zeiten mit dem                     festen dargestellt wurde;       letzterer scheint\n seit dem Anfange unseres Jahrhunderts nirgends mehr in einiger Menge gewonnen zu werden; höchstens\n sammeln die Bauern in den Bergen um Adalia im südlichen Kleinasien noch etwas zum Gebrauche\nbei dem Gottesdienste der griechischen Kirche wie der Moscheen. Was jetzt als fester Storax, Styrax\n calamita vorkommt, pflegt; ein Gemenge von flüssigem Storax mit Sägespähnen zu sein.“ Seit 1865 ist\n durch Pastau’s Empfehlung, der Styrax mit Olivenöl bei Krätze anwendete, Storax wieder in Auf-\nnahme gekommen. Krinos (1841, 1862), Kosta (1855) und namentlich Hanbury (1857) geben die\nersten Mittheilungen über die Art und Weise der Gewinnung und hauptsächlich war es der letztere,\ndem man endliche Gewissheit über die Abstammung des Storax verdankt.",
+      "normalized_text": null,
+      "zh_tw_rendering": "史稱Styrax，古希臘羅馬用作藥用及焚香。19世紀後確認為液體Storax來源，曾用於希臘教會焚香。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 114,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 1162,
+        "char_end": 3428,
+        "page_text_sha256": "f3fd5e24d32c2228c8dec477c8592da24192964038f722fb24d527ede66ca1c2",
+        "exact_text_sha256": "bfe7d020d6555926190c5d2e794d9e41ec3ea515f4c4e1c92139a4d0a6a02cc3",
+        "source_line_start": 17,
+        "source_line_end": 39,
+        "section_index": 3,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "bfe7d020d6555926190c5d2e794d9e41ec3ea515f4c4e1c92139a4d0a6a02cc3",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0113-p0116:s04:x00",
+      "section_type": "constituents",
+      "original_text": "                   Bestandtheile. Der flüssige Styrax enthält ein ätherisches Oel (Styrol), Zimmtsäure, einen\n          eigenthümlichen, neutralen, krystallinischen Körper (Styracin), ein besonderes Harz (Styroxalid), eine\n         eigenthümliche Substanz (Metastyrol) Zimmtsäure-Benzyläther, Zimmtsäure-Phenylpropyläther und ein\n         Styrokampfen. Nach den Flückiger’schen Mittheilungen besteht die Hauptmasse des Storax aus den\n         Zimmtsäureestern verschiedener Verbindungen von alkoholartigem Charakter. Hierher gehört das 1877\n         von W. v. Miller entdeckte, nahezu 50°% betragende Storesin (C, H,, (OH),), welches hauptsächlich\n         als Zimmtsäureester, jedoch auch in geringer Menge als Natriumalkoholat (C,, Hg, Na O,) und ebenso\n         ungebunden auftritt. Dieser 3atomige Alkohol ist als o. Storesin (amorph, Schmelzpunkt 160—168»,\n         löslich in verdünnter Kalilauge) und 5. Storesin (weisse Flocken bildend, Schmelzpunkt 140—145?)\n    ¢\n         bekannt. Das von Körner dargestellte Storesin hat eine Zusammensetzung von C,, Hg, O; Körner\n         bezeichnet   es als zweifelhaft,   ob dieses Storesin neben   dem Miller’schen   auftritt oder sich aus dem\n          letzteren entwickelt. Ein zweiter, in grösserer Menge vorhandener, als geruchlose, dickliche Flüssig-\n         keit auftretender Bestandtheil des Storax ist Zimmtsäure- Phenylpropylester (Cis His O). Ein schon\n         1827 von Bonastre entdeckter Zimmtsäure- Zimmtester (C, H, O — C, H,) führt den Namen Styracin.\n         In geringer Menge findet sich im Storax eine ölige Flüssigkeit, Zimmtsäureäthylester (C, H, O, — C, H;)\n         und wahrscheinlich auch Zimmtsdurebenzylester und Aethylvanillin.        Ausser diesen Stoffen ist auch",
+      "normalized_text": null,
+      "zh_tw_rendering": "含揮發油（Styrol）、肉桂酸、Styracin、Styroxalid及Storesin等酯類化合物。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 115,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 4043,
+        "char_end": 5786,
+        "page_text_sha256": "372047eb90d205f75eff3b5b6ba9290bd912547381b7c43768a4f85954674dc7",
+        "exact_text_sha256": "4f096f737aac0c8e61f5131084e6d1dc9e0fc524be2ce2a9ba160173fca4bcc3",
+        "source_line_start": 42,
+        "source_line_end": 58,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "4f096f737aac0c8e61f5131084e6d1dc9e0fc524be2ce2a9ba160173fca4bcc3",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "4b8b356d59b800912e57a444d012c75c2252f339a5472619de719403f4289739",
+    "maker_receipt_sha256": "039a16a2f3b1be6aaf107d1c3984e9795adfb1932307dc44abdfeba2cb284d4b",
+    "validation_check_sha256": "d2617f06dfec80a29fc8d71f3229a0ce8d4d12f273866123ecfbfc5e4c7de064",
+    "source_disposition_sha256": "c4db6e57a83e93d24117947918bbf0a7b31aa62db0330b8f0ebda4342ca3a0e9",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "039a16a2f3b1be6aaf107d1c3984e9795adfb1932307dc44abdfeba2cb284d4b",
+      "validation_check_sha256": "d2617f06dfec80a29fc8d71f3229a0ce8d4d12f273866123ecfbfc5e4c7de064",
+      "source_disposition_sha256": "c4db6e57a83e93d24117947918bbf0a7b31aa62db0330b8f0ebda4342ca3a0e9"
+    },
+    "naming_artifact_sha256": "37de9f81570ed261333b0f7f318d9d6d9fbda7a45f5a5a9eb87ef87bdbb2a714"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "1b738189ed18857bc494e8c9d393da943695f58adcb7e633dd0b687e2127fb2f"
+}

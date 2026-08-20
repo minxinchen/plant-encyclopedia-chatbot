@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 459,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "d9a61a748f303732d606e80d711ae4e9b154d1caea91e5b1f8e58a66bd4e4fec",
+  "render_dpi": 144,
+  "render_sha256": "fc84f6b18527baa7bf8d22063fce5bd971d0627c255cd03df00637f3933451a7",
+  "input_sha256": "fc84f6b18527baa7bf8d22063fce5bd971d0627c255cd03df00637f3933451a7",
+  "render_pixel_width": 5534,
+  "render_pixel_height": 8306,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.559,
+  "embedded_character_count": 84,
+  "ocr_character_count": 51,
+  "ocr_alpha_ratio": 0.7647,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.02034883650522379,
+      "text": "Papilionaceae",
+      "width": 0.1198257025905447,
+      "x": 0.8583878018093027,
+      "y": 0.9491279071592098
+    },
+    {
+      "confidence": 1,
+      "height": 0.01929420516604463,
+      "text": "(Arachideae)",
+      "width": 0.10256124057613558,
+      "x": 0.8626627336083573,
+      "y": 0.9285796418439894
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "3",
+      "width": 0.013071895267034894,
+      "x": 0.8779956428675719,
+      "y": 0.24418604671045052
+    },
+    {
+      "confidence": 1,
+      "height": 0.02036037236925159,
+      "text": "Arachis hypogaea L.",
+      "width": 0.18518518602679407,
+      "x": 0.4052287562059203,
+      "y": 0.020337301624639426
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494425,
+      "text": "42",
+      "width": 0.01960784219044498,
+      "x": 0.9193899783601152,
+      "y": 0.02034883744688465
+    }
+  ],
+  "text": "Papilionaceae\n(Arachideae)\n3\nArachis hypogaea L.\n42",
+  "output_sha256": "96ec15c283a45540d7ec1ad6e5ef0b32d3a56c8070c8b87f58ae7ed74c76991c",
+  "receipt_sha256": "c1fd60714e783fc926e54c688a9eb07bb63938fc149b77e13cf122b8886df4ad"
+}

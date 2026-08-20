@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0297-p0300",
+  "owner_shard": "S04",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 148.531,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0297-p0300",
+    "book_taxon": {
+      "scientific_name_candidate": "Coriandrum sativum L.",
+      "authorship_candidate": null,
+      "aliases_candidates": [
+        "Koriander",
+        "Schwindelkraut",
+        "Coriandre",
+        "Coriander",
+        "Coliander"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "description",
+        "pdf_page": 297,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "一年生直立細根，莖高30-60公分，圓形條紋。葉散生無毛，基生葉長柄羽狀，莖生葉二回羽狀。",
+        "warnings": [],
+        "source_line_range": [
+          7,
+          13
+        ],
+        "exact_source_quote": "         Beschreibung.        Die einjährige, senkrechte,         dünne,    wenig verästelte Wurzel treibt einen\naufrechten,   30 bis 60 Ctm. hohen, rundlichen,        zart gestreiften,   oben ästigen Stengel.     Blätter zerstreut-\nstehend, kahl, glänzend, die grundständigen, bald schwindenden sehr lang gestielt, gefiedert, mit rund-\nlichen oder rundlich-keilfórmigen, fiederspaltigen Blättchen, die mit eifórmigen, vorn kerbig gesügten\nZipfeln ausgestattet sind; die unteren und oberen stengelstindigen Blütter doppelt gefiedert, mit unge-\ntheilten oder fiederspaltigen Blättchen und linealischen Zipfeln, nach oben allmählich kleiner\nwerdend. Blattspindel an der Basis scheidenartig. Blüthendolden end- oder später blattgegenständig,"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 298,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "未熟果含雙層隔膜與維管束。果皮具石細胞層，胚乳含蛋白質與脂肪油，種皮細胞含揮發油呈黃色。",
+        "warnings": [],
+        "source_line_range": [
+          12,
+          24
+        ],
+        "exact_source_quote": "               Anatomisches.           Die unreife Frucht         enthält eine dicke, doppelte Scheidewand mit einem\nGefüssbündel           in der Mitte, welches       sich später als Säulchen          ausbildet.       Das von      einer glashellen Epi-\ndermis bedeckte Fruchtgehäuse zeigt eine mittlere, derbe, an Stelle der Naht durch einige Reihen\ndünnwandiger Zellen unterbrochene Steinzellenschicht und eine äussere und innere, aus tangential\ngestreckten Parenchymzellen zusammengesetzte Schicht. „In der Mittelschicht entsprechen nicht blos\neinzelne Gefässbündel den Rippen, sondern der ganze mittlere Theil jenes Gewebes besteht aus Fasern,\nwelche also, nach aussen              und nach innen von          einer Lage der Mittelschicht                bedeckt,    eine sehr derbe,\nfest zusammenhängende innere Schale darstellen. Diese ziemlich kurzen Fasern sind dickwandig, fein-\nporös, spitzendig und nur von wenigen kleinen Gefüssen begleitet (Flückiger). Die Samenhaut, die\ninnerste Schicht der Samendecke, besteht aus einem geschlossenen Ringe kubischer Zellen, welche\ndurch ätherisches Oel gelb gefärbt sind. Diese Schicht wird durch eine dünne, dunkelbraune, sehr\nzusammengefallene Membran von dem Eiweiss getrennt. Das Eiweiss besteht aus einem Parenchym,\ndessen Zellen Proteinsubstanz             und fettes Oel enthalten."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 298,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產地中海與高加索，現多栽培。Flückiger認為原產北非與西亞。歐洲主要產於摩拉維亞、埃爾福特等地。",
+        "warnings": [],
+        "source_line_range": [
+          28,
+          34
+        ],
+        "exact_source_quote": "        Vorkommen: Einheimisch in den Mittelmeerländern und im Kaukasusgebiet; meist angebaut\nund als Ackerunkraut verwildert. Flückiger meint, dass die jetzt nicht mehr wild wachsende Pflanze\nwohl ursprünglich in Nordafrika               und Vorderasien,       vielleicht bis Indien            einheimisch        gewesen   ist.   „Die\nFrüchte dieser Dolde reifen eben so gut in den heissen Tiefebenen Bengalens, in Radschputana und\nin Sindh, wie in den Bergländern Abessiniens, in der Sahara und in Europa bis über den Polarkreis\nhinaus.“. Der Anbau erfolgt in Europa hauptsächlich in Mähren, bei Erfurt, in Nordholland, im mitt-\nleren Russland, bei Paris und in Essex (England)."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 298,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源於希臘語Wanze（臭蟲）與Anis（茴香）。古埃及紙草文獻及聖經已有記載，羅馬時期已廣泛栽培。",
+        "warnings": [],
+        "source_line_range": [
+          36,
+          42
+        ],
+        "exact_source_quote": "         Name und Geschichtliches: Koriander (althochd. chollantir, chullantar, collindir, holenter, `\nholunter, kolgras, krollo; mittelhochd. Calander, Cholinder, Ciriander, Cölegrase, Coreandrencraut,\nCoriandererut,           Coriandre,    Galiander,      Koliander,     Kolander,            Kullander,    Wandlusenkrut;            bei Bock\nCoriander; bei Cordus             Wanzkendill) stammt von Coriandrum und dieses von xogig Wanze und avvoy,\nà»vuov,        Anis,     bezogen auf den Geruch         und das Aussehen             der Früchte.        Bei Theophrast             heisst er\nxogıavvov, bei Dioskorides ۰                                                           |\n               Koriander     ist schon in den frühesten           Zeiten medizinisch und als Gewürz                  benutzt    erden;       In"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 299,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "果實含0.47%揮發油、13%脂肪油。精油無色或淡黃，具香氣，主要成分為左旋L-α-松油醇。",
+        "warnings": [],
+        "source_line_range": [
+          17,
+          22
+        ],
+        "exact_source_quote": "             Bestandtheile.            Nach Trommsdorf                   enthalten die Früchte 0.47 Y, ätherisches Oel, 13%, fettes\n Oel, 4%, Extraktivstoff mit apfelsaurem Kali, 7.59/, stickstoffhaltigen Schleim mit einem Kalksalze\n und Spuren von Gerbstoff, 65.29/, Faser, 9.73%, Wasser.\n             Das Korianderöl,         welches        in einer Ausbeute         von        1.1%, aus    den Früchten       gewonnen         wird, ist\n farblos oder gelblich, hat einen angenehmen Geruch und gewürzhaften, nicht brennenden Geschmack,\n besitzt ein spz. Gw. von 0.871 bei 14° und destillirt grósstentheils bei 150° über. Nach Kawalier hat"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 299,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史上用作溫和興奮劑、驅風劑與健胃劑，亦用於瀉藥。主要用途為調味料，用於啤酒釀造與卡梅利特酒。",
+        "warnings": [],
+        "source_line_range": [
+          35,
+          38
+        ],
+        "exact_source_quote": "             Anwendung.               Koriander         bildet     ein     mildes        Stimulans,      Carminativum          und     Stomachicum,\n welches’ jedoch wenig in Anwendung kommt; medizinisch als gewürziger, die Peristaltik anregender.\n Zusatz zu Laxirmitteln. Die Hauptverwendung findet Koriander als Gewürz, namentlich auch in der\n Bierbrauerei.         Er bildet einen Bestandtheil               des Karmelitergeistes.              Husemann,         Arzneimittell. 417."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "50448447e4c08b166daa178c24b4f6fef634d2967cb8ef88376cb104b4c0f09b"
+}

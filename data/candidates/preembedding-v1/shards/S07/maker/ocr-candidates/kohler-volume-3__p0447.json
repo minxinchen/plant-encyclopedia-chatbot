@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 447,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "ddecd0e330a293131465117c4fc0bbe403cffeed37011eca63838dc6246659c5",
+  "render_dpi": 144,
+  "render_sha256": "58fc70e5e0acdd6fd37a3ce70968ebaddcad36b6ceb6f065f71456418a70ff32",
+  "input_sha256": "58fc70e5e0acdd6fd37a3ce70968ebaddcad36b6ceb6f065f71456418a70ff32",
+  "render_pixel_width": 5546,
+  "render_pixel_height": 8330,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.853,
+  "embedded_character_count": 82,
+  "ocr_character_count": 51,
+  "ocr_alpha_ratio": 0.7451,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.022030669545370474,
+      "text": "Papilionaceae",
+      "width": 0.1267258349900452,
+      "x": 0.8209165572656947,
+      "y": 0.9606416421917288
+    },
+    {
+      "confidence": 1,
+      "height": 0.02034883650522379,
+      "text": "(Galegeae)",
+      "width": 0.08951964854483452,
+      "x": 0.8427947616264182,
+      "y": 0.9389534887968067
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883082859107,
+      "text": "2",
+      "width": 0.017467248635213872,
+      "x": 0.7401746725164542,
+      "y": 0.8008720934634155
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "A",
+      "width": 0.013100436476410349,
+      "x": 0.7641921397312271,
+      "y": 0.13662790727994412
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "B",
+      "width": 0.017467248635213872,
+      "x": 0.38209607011470753,
+      "y": 0.10319767438771288
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494425,
+      "text": "36",
+      "width": 0.017467248635213872,
+      "x": 0.9148471619269345,
+      "y": 0.026162790838357486
+    },
+    {
+      "confidence": 1,
+      "height": 0.02346596642146037,
+      "text": "Indigofera Anil I",
+      "width": 0.1769179843044139,
+      "x": 0.41044930419110864,
+      "y": 0.011522830548246432
+    }
+  ],
+  "text": "Papilionaceae\n(Galegeae)\n2\nA\nB\n36\nIndigofera Anil I",
+  "output_sha256": "b700aafe446de50e7c95be97e837707bca67f946959e5fffc42660c2488b6d9e",
+  "receipt_sha256": "8d0b41a859af370c60885bae91a737260d0f00a805650f9ccbb475645c398878"
+}

@@ -1,0 +1,254 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-3-p0049-p0060-child-02",
+  "entry_id": "kohler-volume-3:p0049-p0060:child-02",
+  "owner_shard": null,
+  "book_taxon": {
+    "scientific_name": "Rhamnus Purshiana",
+    "authorship": null,
+    "aliases": []
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Rhamnus Purshiana",
+      "Rhamnus purshiana"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-20T23:03:36+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Rhamnus+Purshiana",
+        "query_name": "Rhamnus Purshiana",
+        "retrieved_at": "2026-08-20T23:02:56+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0024688",
+        "query_name": "Rhamnus Purshiana",
+        "retrieved_at": "2026-08-20T23:02:56+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0024688",
+        "query_name": "Rhamnus Purshiana",
+        "retrieved_at": "2026-08-20T23:02:56+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Rhamnus+purshiana",
+        "query_name": "Rhamnus purshiana",
+        "retrieved_at": "2026-08-20T23:02:56+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 57,
+      "evidence_type": "text",
+      "page_text_sha256": "3ee178f5f4124bffb4a05d84e1fb9e79cf221eac40b4ff74e70c6da65ef65f07",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 58,
+      "evidence_type": "text",
+      "page_text_sha256": "22ec5cba750da62f3a75c08830f5dab14802ecb3839856ccd713f3d5a2ce0f56",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 59,
+      "evidence_type": "text",
+      "page_text_sha256": "789838137a559e3bb028279421e6a627e113798c307b6881801d73ce0a9ab247",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-3:p0049-p0060:child-02:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                        Rhamnus                   Purshiana               De Candolle.\n                                             Amerikanischer       Faulbaum.\n\n           Syn. Rhamnus alnifolia Pursh (non 1’Herit).               Frangula Purshiana Cooper.\n\n           Familie.     Rhamnaceae R. Br.; Ufam. Rhamneae; Gattung: Rhamnus L. 8. Frangula DC.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 57,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 355,
+        "source_line_start": 1,
+        "source_line_end": 6,
+        "page_text_sha256": "3ee178f5f4124bffb4a05d84e1fb9e79cf221eac40b4ff74e70c6da65ef65f07",
+        "exact_text_sha256": "2949a4f822a9abb08ab058d0117c8686d4c185fcaeb2fceaf788d0f2f8f134b9",
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "2949a4f822a9abb08ab058d0117c8686d4c185fcaeb2fceaf788d0f2f8f134b9",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0049-p0060:child-02:s01:x00",
+      "section_type": "description",
+      "original_text": "           Beschreibung.       Ein 3 bis 6 m hoher Baum oder Strauch, dessen Stamm bis 27 cm\nDurchmesser erreicht.          Die Äste sind stielrund, schwarzbraun und glatt, die Zweige ohne\nDornen,     in der Jugend      mit gelbbrauner         oder   grauer Wolle     bedeckt,    später graufilzig,        endlich\nebenfalls     schwarzbraun       und     glänzend.      Blattknospen      terminal,     gleichfalls gelbbraun           oder\ngrau wollig behaart.   Blätter wechselständig, gestielt, einfach, ungeteilt, bis 12 cm lang und\nbis 5 cm breit, breit elliptisch, an der Basis meist abgerundet, seltener zugespitzt, bei unseren\nExemplaren etwas herzförmig,                 an   der Spitze abgestumpft        oder kurz zugespitzt.        Der Rand\nist mit sehr zahlreichen kleinen Zähnen besetzt. Die Blätter sind in der Jugend beiderseits\nfilzig, später nur auf der Unterseite, insbesondere an den Blattnerven. Die Blattfläche wird\nbeiderseits vom Mittelnerven von 13—15 parallelen, schief aufsteigenden, stark hervortretenden\nSeitennerven durchzogen, zwischen denen die feinen Adern netzförmig verlaufen.                                  Die Blatt-\nstiele sind bis       3 cm   lang und     behaart.     In der Jugend        vorhandene     Nebenblätter     fallen bald\nab.   Aus den Blattachseln             entspringen     einzelnstehende,      etwas    dicke, etwa 3—5           cm     lange\nStiele, welche sich oben zu cymösen, wenigblütigen Blütenständen verzweigen; die Stielchen\nder einzelnen Blütchen sind etwa 3 mm lang und ebenfalls rauhhaarig. Bis zur Fruchtreife\nverlängern     sich sowohl      Inflorescenz-      wie Blütenstielchen.        Der Kelch     ist behaart;   die Kelch-\nröhre ist nahezu halbkugelig,             grün,      innen von dem Diskus           ausgefüllt, der Saum: 5spaltig,\nweiss; die Segmente spitz, aufrecht,                 spreizend,   innen gekielt.       Die Blumenblätter sind sehr\nklein , weiss,    kappenförmig,         an    der Spitze 2spaltig,     viel kürzer      als die Kelchzipfel       und    mit\ndiesen alternierend.         Staubblätter 5, den Kronenblättern               opponiert    und von diesen beinahe\neingeschlossen; der äussere episepale Kreis fehlt.                 Die Filamente sind sehr kurz, die Antheren\nbeinahe kugelig.         Der Fruchtknoten ist klein und eiförmig, länger als der Griffel; die Narbe\nstumpf und dreilappig.          Die Frucht bildet eine breite, dreiknöpfige, dreifächerige, dreisamige\nSteinbeere.      Die Samen      sind verkehrt         eiförmig,   schwarz     und    glänzend,   auf der Aussenseite\nconvex, auf der Innenseite mit erhabener Mittellinie versehen, am Grunde nach dem Nabel\nzu gelb.                                                                                                    a",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 57,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 357,
+        "char_end": 3152,
+        "source_line_start": 8,
+        "source_line_end": 33,
+        "page_text_sha256": "3ee178f5f4124bffb4a05d84e1fb9e79cf221eac40b4ff74e70c6da65ef65f07",
+        "exact_text_sha256": "baa4ab82134de79dbbc67fdc6075e344a653cc76da5604d8e7baee00889f1766",
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "baa4ab82134de79dbbc67fdc6075e344a653cc76da5604d8e7baee00889f1766",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0049-p0060:child-02:s02:x00",
+      "section_type": "distribution",
+      "original_text": "            Vorkommen.            An     den Ufern        der Ströme          von     Nordwestamerika,             insbesondere        am\nColumbia River, Kookoosky River; in Kalifornien, sowie überhaupt an der ganzen Westküste\nvon    Nordamerika.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 58,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 246,
+        "source_line_start": 1,
+        "source_line_end": 3,
+        "page_text_sha256": "22ec5cba750da62f3a75c08830f5dab14802ecb3839856ccd713f3d5a2ce0f56",
+        "exact_text_sha256": "e9a439f710d4aa1391711939fb0fd08326b6ab8f40acdc7c7bf65ec0f5e5d952",
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "e9a439f710d4aa1391711939fb0fd08326b6ab8f40acdc7c7bf65ec0f5e5d952",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0049-p0060:child-02:s03:x00",
+      "section_type": "constituents",
+      "original_text": "            Bestandteile.          Eberle          fand    1884     in der Rinde               10°/, Feuchtigkeit,           9,15°/, Asche,\n3,47°/, Stärke (?); auch Alb. B. Prescott wies 1879 Stärke nach, die in der heutigen Rinde\nmikroskopisch nicht erkannt werden kann.                                Prescott            (Am. Journ. of Pharm.            1879) isolierte\nein   gelbes,    em     rotes       und      ein braunes          Harz     und        durch      absoluten     Alkohol      einen        bei 120°\nsublimierbaren Körper in weissen Krystajlen.                               M. T. Wenzell fand Frangulin, bei 230° sub-\nlimierend, von orangegelber Farbe, in H?SO* mit tiefroter Farbe löslich. Schwabe (Arch. 1888)\nstellte Emodin darin fest und glaubt, dass der von Wenzell gefundene Körper auch Emodin\n sei, doch      sei nicht ausgeschlossen,                   dass bei längerem                  Liegen       der Rinde Frangolin                  ent-\n stehen     könne.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 59,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 376,
+        "char_end": 1363,
+        "source_line_start": 6,
+        "source_line_end": 14,
+        "page_text_sha256": "789838137a559e3bb028279421e6a627e113798c307b6881801d73ce0a9ab247",
+        "exact_text_sha256": "7300d861ab07ebd1e53554ce9c055170740f5309e593b79c7267be36e887dc91",
+        "section_index": 3,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "7300d861ab07ebd1e53554ce9c055170740f5309e593b79c7267be36e887dc91",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0049-p0060:child-02:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "            Anwendung.             Die Rinde darf nie frisch verwandt werden, da sie sonst Brechreiz und\n Kolik    hervorruft.       Die     nach      mehr        als    einjähriger       Aufbewahrung              benutzte      Rinde,        wie    ihre\n Präparate, dienen,          wie die Frangula,                  als Mittel gegen habituelle Leibesverstopfung und als\n Excitans der Magen-               und Darmthätigkeit.                  In Amerika          wendet      man     sie auch          gegen        inter-\n mittierende     Fieber      an.     Sehr     hinderlich         war     der intensiv         bittere Geschmack            der Rinde;           man\n fand im Magnesiumoxyd                ein Mittel zur Entbitterung,                    ohne     die Wirkung        der Rinde         wesentlich\n abzuschwächen.             Die mit MgO            und Wasser           macerierte          Droge    wird     getrocknet     und zu Fluid-\n extrakt,     Tinktur       oder Wein         verarbeitet.          Die     Firma          Friedr.     Stearns         &    Co.     in    Detroit\n bringt das Fluidextract entbittert, versüsst und aromatisiert (Cascara aromatic) in den Handel.\n —    Man     gebraucht        das        Pulver     2—4 mal             täglich      zu     0,25—0,75        g, das       Fluidextract            zu\n 0,5—1 8.       Als günstigstes Extraktionsmittel hat sich verdünnter, mit 10°/, Salmiakgeist ver-\n setzter Weingeist erwiesen.                  Dasselbe ist nicht allein im stande, die Rinde leicht und voll-\n ständig     zu erschöpfen,         sondern        es hat auch           den Vorteil,         dass   das mit verdünntem              ammonia-\n\n kalischem Weingeist dargestellte Fluidextrakt sich nicht trübt und nicht absetzt.                                                       O. Linde\n verglich     die Eigenschaften             der Fluidextrakte              verschiedener Herkunft.                 Das      spezifische Ge-\n wicht      liegt zwischen          1,043—1,081,           meist        nahe     an     1,050.       Der     Trockenrückstand              betrug\n 18,56—28°/,. Die höchsten Werte wurden von E. Dieterich in Helfenberg gewonnen, welcher\n in den „Helfenberger Annalen 1891, p. 58—60“, auch Unterscheidungsmerkmale der Extrakte\n von 'Rhamnus Purshiana D. C. und Rhamnus Frangula L. angab. Unter Hinweis auf die\n Originalarbeit       sei    hier    nur     bemerkt,           dass,    wenn         man     die    ätherische     Ausschüttelung               der\n\n Extrakte mit Boraxlösung schüttelt, letztere bei Rhamnus Purshiana farblos bis gelbrot, bei\n Rh. Frangula aber violettrot wird; auf Zusatz von Ammoniak zur ätherischen Lösung färbt\n sich das Ammoniak             gelbrot        bis dunkelrot             bei Rhamnus           Purshiana,        dagegen       rotviolett          bei\n\n Rhamnus Frangula. —                Cascara sagrada-Fluidextrakt und -Wein erfreuen sich ausgedehntester\n Anwendung als bequem und sicher wirkende Abführmittel, insbesondere bei Leberaffektionen\n und bei habitueller Verstopfung.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 59,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 1365,
+        "char_end": 4466,
+        "source_line_start": 16,
+        "source_line_end": 44,
+        "page_text_sha256": "789838137a559e3bb028279421e6a627e113798c307b6881801d73ce0a9ab247",
+        "exact_text_sha256": "51132f214865e1db07148fb1dd28f560d8ae791eac4edec3c621c04dc975d4b7",
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "51132f214865e1db07148fb1dd28f560d8ae791eac4edec3c621c04dc975d4b7",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "3bd75851fc248da886ce15ad673da6645133462c181633d37b4fa9ef696cf13c",
+    "maker_receipt_sha256": null,
+    "validation_check_sha256": null,
+    "source_disposition_sha256": "e3f7632c29a0709a1a32701f24293703ff8091c252290ab07d3372437c746925",
+    "candidate_source_chain": {
+      "source_disposition_sha256": "e3f7632c29a0709a1a32701f24293703ff8091c252290ab07d3372437c746925",
+      "boundary_overlay_plan_sha256": "c7c0253e52f0583570699f98cc9c8fa3dda15857551bc2b94d6430ed0afd008a",
+      "boundary_segment_sha256": "19e870199a266869e3baf6214377ebfa8d75a4ffabe87b5d0b7a286b5485c550",
+      "source_parent_entry_id": "kohler-volume-3:p0049-p0060",
+      "continuation_v2_receipts": [
+        {
+          "package_id": "kohler-volume-3:p0049-p0060:child-02:continuation-01",
+          "package_sha256": "1ae233be4ef9c9ef799bdc773d0649d0be2ccf5dd7ec917184def53ac988e0cc",
+          "receipt_sha256": "8c88d15223280601d31c781c2919f294669e74db30aac65660841f8b9765de6d",
+          "attempt_sha256": "d04e4d8c4141b37e826af7a4a32e4f4191f53c112566ade45a70c3cc37dda6e7",
+          "validation_check_sha256": "3b22043b0b913ea1a86581010be335ffb7b54afe70f25cb1b412dd8c7160bc08"
+        }
+      ]
+    },
+    "naming_artifact_sha256": "c611cd04fc0c5b8b1d89342685244c654cbbf2d21bda72c9d6fa6450125ddd74"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "0586e9744da7d97d31d0ebfd56f8fb9b090231778ef976e96fe6792b4356f265"
+}

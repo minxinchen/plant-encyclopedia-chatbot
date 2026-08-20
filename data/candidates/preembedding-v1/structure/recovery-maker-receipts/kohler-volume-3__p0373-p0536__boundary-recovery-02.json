@@ -1,0 +1,148 @@
+{
+  "schema_version": "1.0",
+  "package_id": "kohler-volume-3:p0373-p0536:boundary-recovery-02",
+  "parent_entry_id": "kohler-volume-3:p0373-p0536",
+  "child_entry_id": null,
+  "recovered_entry_id": "kohler-volume-3:p0375-p0376",
+  "work_id": "structure-recovery:kohler-volume-3:p0373-p0536:boundary-recovery-02:v1",
+  "owner_shard": "S07",
+  "package_sha256": "7db48a42d410d834530f7c8d7c847ebda579a5de012910f5c9f4c11a59ffb2d6",
+  "model": "deterministic-local-repair-no-model-call",
+  "prompt_version": "plant-structure-continuation-line-anchors-v1",
+  "attempt_sha256": "b2765d0bf90d28153dd68fb8b9ee3b62c74a5f6c3c047ff47d0415e3c675c95d",
+  "raw_response_sha256": "de82b929934584e55e123206fdd71cfad364e400b36e7ef64a2717090fcf6d00",
+  "elapsed_seconds": 0.0,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 375,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 0,
+      "char_end": 599,
+      "source_line_start": 1,
+      "source_line_end": 7,
+      "page_text_sha256": "26457816164cd9f2256518d2a6b5d3c3897ebe25f33e49965c45190f314c4ab1",
+      "exact_text_sha256": "0e6f9b04f4a931d9fd29f30e007769faad586e7f975efc70dd182a4627d242fe",
+      "section_index": 0,
+      "section_type": "taxonomy"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 375,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 600,
+      "char_end": 3041,
+      "source_line_start": 8,
+      "source_line_end": 33,
+      "page_text_sha256": "26457816164cd9f2256518d2a6b5d3c3897ebe25f33e49965c45190f314c4ab1",
+      "exact_text_sha256": "2a4e7e55865bec9b937f12247c6df38fc1972d9a4d5e05a599fed282d797d9b4",
+      "section_index": 1,
+      "section_type": "description"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 375,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 3042,
+      "char_end": 3452,
+      "source_line_start": 34,
+      "source_line_end": 38,
+      "page_text_sha256": "26457816164cd9f2256518d2a6b5d3c3897ebe25f33e49965c45190f314c4ab1",
+      "exact_text_sha256": "1641a6a01b5296c500494ce435cb0de4c1bff54f6db5b3b102ca491f2bc5bcab",
+      "section_index": 2,
+      "section_type": "distribution"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 376,
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "char_start": 1042,
+      "char_end": 3204,
+      "source_line_start": 10,
+      "source_line_end": 32,
+      "page_text_sha256": "f8d030a75b209bc407b29c6773f4de6e8a839526c257da13700f114384aff320",
+      "exact_text_sha256": "8fd0d9905fa73d6df6850cd9773cfb8fcd698343457b680b1a557dd515596d9e",
+      "section_index": 3,
+      "section_type": "historical_use"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-3:p0373-p0536:boundary-recovery-02",
+    "parent_entry_id": "kohler-volume-3:p0373-p0536",
+    "book_taxon": {
+      "scientific_name_candidate": "Convallaria majalis"
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 375,
+        "source_line_range": [
+          1,
+          7
+        ],
+        "exact_source_quote": "                                 Convallaria majalis L,\nMaiblümchen, Springauf, Thallilie, Maizauken, Niesekraut. Franz.: Muguet. Engl.: Lily\nof the valley. Holl.: Tweebladig dalkruit.     Dän.: Etblad.   Schwed.: Lilje konvalj. Poln.:\nLanka, Lanuszka,       Ung.: Gyöngy-virag. Ital.: il mughetto, giglio delle convalli. Port.:\n             Unifoglio, Campxenhas.     Span.: Lirio de los valles. Ar.: Sossan.\n         Syn.: Convallium majaleMönch. Lilium convallium Tournef. Polygonatum majale Allioni..\n         Familie. Ziliaceae Juss. Unterfam.: SmilaceaeR.Br. Gattung: Convallaria (Neck) Desf.."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 375,
+        "source_line_range": [
+          8,
+          33
+        ],
+        "exact_source_quote": "         Beschreibung.     Die Maiblume ist eine monokotylische Staude mit unterirdischem\nkurzgliedrigen     vielfach     verzweigtem      Rhizom,   an   dessen   Knoten   mehrere   Nebenwurzeln\n‚entspringen.    Am Kopfe des Rhizoms,           nach   der Spitze zu,   sind die Internodien besonders.\nkurz, wodurch sich an dieser Stelle die Wurzelfasern büschelig drängen.        An den oberen.\nKnoten sitzen Niederblätter.   In der Achsel des zweitobersten Niederblattes entspringt ein\nSpross der sich erst im zweiten Jahre zu einem blühenden Stengel entwickelt.       Am Grunde:\nder oberirdischen Scheinachse nehmen       die Niederblätter an Grösse zu.    Zwischen ihnen\nentspringen zwei, seltener drei oval-lanzettliche Blätter mit hervorragenden Mittelnerven und.\nparallelen Längsnerven,         die sich   in der Spitze    des Blattes vereinigen.    Die Blattscheiden\nsind lang und bilden, sich gegenseitig umhüllend, eine Scheinachse.      Seitlich von ihnen, aber\nmit ihnen von den zahlreichen grossen schuppigen Niederblatthäuten umgeben, entwickelt\nsich der Blütenschaft, halbstielrund bis dreiseitig, blattlos, unbehaart, etwas nickend, an der\nSpitze die einseitwendige Traube der nickenden Blüten und schmale linealische, tro®ken-\nhäutige, hinfällige Deckblätter tragend.     Die Blütenhülle ist einfach, verwachsenblättrig,\nkuglig-glockig, weiss, selten rötlich, mit sechs nach aussen zurückgebogenen nahezu gleichen\nkurzen Zipfeln.    Staubgefässe zweimal drei, nahe dem Grunde der Kronenröhre angeheftet,\nkürzer als diese, mit kurzem dicken, oben verschmälerten Staubfaden, länglichen, aufrechten,\nam Grunde angehefteten, an der Spitze verschmälerten, dem Griffel genäherten Antheren;\ndie Fächer springen seitlich, nach innen zu gekehrt, in Spalten auf.        Der Fruchtknoten ist.\nsitzend, oberständig, kuglig-eiförmig, dreifächrig, der Staubweg dreiriefig, säulenförmig, mit\nkaum verbreiterter Narbe; jedes Fruchtknotenfach enthält mehrere Samenknospen (vier bis.\n acht). Die Blüten sind sehr wohlriechend. — Beim Reifen wächst der Fruchtknoten aus dem all-\n mählich vertrocknenden Perigon heraus, und bildet reif eine kugelige, rote, saftige Beere,\n welche   nicht selten am Grunde durch die trocknen Perigonfetzen noch gestützt wird.      Die\n Samen,   meist zu mehreren in einem Fach, sind rundlich-eiförmig, blassgelb; die Samenschale\n ist dieht anliegend, der Embryo etwa !/, oder !/, so gross, als das hornige Eiweiss."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 375,
+        "source_line_range": [
+          34,
+          38
+        ],
+        "exact_source_quote": "         Vorkommen und Verbreitung. Die Pflanze ist weitverbreitet in der nördlichen ge-\n mässigten Zone beider Hemisphären, fehlt aber in den Tropen. Sie liebt schattige Laub-\n wälder und Haine und bildet ein beliebtes Gartengewächs, welches durch künstlichen Antrieb.\n im Zimmer oder Warmhaus schon im Winter zur Blüte gebracht wird. Bei den alten Germanen\n war die Pflanze der Friedensgöttin Osiera geweiht."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 376,
+        "source_line_range": [
+          10,
+          32
+        ],
+        "exact_source_quote": "       Anwendung. Marme fand, dass Convallarin abführend wirkt, während One in\nin hervorragender Weise die Heratiiiieken beeinflusste.   Das Convalların findet sich ins-\nbesondere in den Blüten, das Convallamarin dagegen mehr in Wurzeln und Stengeln.     Jeder\nTeil der Pflanze wirkt anders. Ältere Arzneibücher empfehlen nur den Gebrauch der Blüte,\nspätere die der Blüte und des Krautes und erst neuere Pharmakopöen haben sich der Wurzel\nzugewandt. Die Blüten dienten schon vor langer Zeit als niesenerregendes Mittel und als\nLaxans in Form einer starken Abkochung oder einer Latwerge aus- dem Pulver.           Die\n\"Wirkung auf die Herzthätigkeit erkannte man erst, als man Stengel und Rhizome mit den\nBlüten vereint anwandte.  Das Extractum Convallariae von See ist ein Extrakt aus der ganzen\nPflanze und diente auch Walz bei der Entdeckung der beiden Glycoside.       Man hat infolge-\n‚dessen die einzelnen Pflanzenteile gesondert zur Anwendung gebracht und wenngleich die-\nselben noch in den meisten neueren Pharmakopöen vertreten sind, so dürfte die medizinische\nAnwendung            sich wohl   auf das Fluidextrakt           der Drogen,      oder     die Glycoside,      besonders     das\nConvallamarin beschränken.              Die Wurzel         wirkt,     entgegen      der   Blüte,    brechenerregend         und\nharntreibend;         das daraus hergestellte Convallamarin dient als Stimulans bei Herzkrankheiten\nund Ödemen            und ebenfalls als Diuretikum.   In ersterer Beziehung soll es manche Vorzüge\nvor der Digitalis und ihren Präparaten haben. Man giebt es innerlich in Dosen von 0,05 bis\n0,06.8 sechs- bis achtmal täglich; zu Hauteinspritzungen benutzt man 0,005—0,02 g mehr-\nmals täglich; seine maximale Einzelgabe ist 0,06 g, die Tagesgabe 0,3 g. Bei Vergiftungs-\n erscheinungen wirken Brechmittel, Wein oder Kampfer, oder die Magenpumpe als Gegenmittel.\n— Das Convalların dagegen ist kein Herzgift; zur Erzeugung starken Abführens bei Konstipationen\n‘wurde 0,1—0,25 g gegeben.     Die letzteren Erfahrungen haben das Ansehender Drogen wieder\ngehoben, während dieselben bis zum achten Dezenium dieses Jahrhunderts als obsolet galten."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": [
+      "Deterministic changed strategy dropped only sections that lacked an exact source locator; no line number was repaired or guessed."
+    ]
+  },
+  "receipt_sha256": "01e8951957f0b66cf04a37462e2833185a39573fa36482a014b6607e27859a64",
+  "changed_strategy_repair": {
+    "strategy": "drop-unmaterialized-sections-v1",
+    "source_receipt_sha256": "e9b93f816d46e35378a8bd11e4259c058bcaf9a482e29b3ec7f545c469c8e7fa",
+    "source_attempt_sha256": "4352550976f62f68b78c9bf90ee36f30d4fa307bdb27026b1e233b659764ceaa",
+    "dropped_section_indexes": [
+      3
+    ],
+    "source_errors": [
+      "section_3:invalid_source_line_range:p375:L51-L9"
+    ],
+    "external_model_calls": 0,
+    "content_added": false,
+    "line_numbers_guessed_or_clamped": false
+  }
+}

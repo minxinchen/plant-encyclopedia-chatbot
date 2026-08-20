@@ -1,0 +1,198 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-3:p0365-p0372:child-01",
+  "owner_shard": null,
+  "source_draft": null,
+  "source_draft_sha256": null,
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "34b88f8d25b0b8294395482ce631bda1199ff4693cea8ea3871ae19865da2960",
+    "validation_check_sha256": null,
+    "source_disposition_sha256": "04a07cdd718aeac824e4af4a145035f93a3901530e28fbc46d8190a6425d39df",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": null,
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Zea Mais",
+    "authorship_candidate": null,
+    "aliases_candidates": []
+  },
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Zea Mais",
+      "Zea mais"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_zh_tw": null,
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_checked",
+    "taxon_id": null,
+    "display_name_source_scope": "unresolved",
+    "display_name_source_evidence_ids": [],
+    "display_name_is_taiwan_public": false,
+    "display_name_answer_policy": "scientific_name_only",
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping.",
+    "checked_at": "2026-08-20T23:03:44+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Zea Mais",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Zea+Mais",
+      "retrieved_at": "2026-08-20T23:03:01+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Zea",
+          "matched_name_id": 2913,
+          "taxon_id": "t0025136",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Zea",
+          "accepted_name_id": 2913,
+          "accepted_usage": [
+            {
+              "usage_id": 282177,
+              "reference_id": 1067,
+              "reference_type": "Book Chapter",
+              "publish_year": 2000,
+              "citation": "Hsu, C.-C. (2000) 26. Gramineae. In: Flora of Taiwan, 2 ed., vol. 5. 318–654.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 8822,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": null
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0025136",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0025136",
+          "taxon": {
+            "taxon_id": "t0025136",
+            "taxon_status": "accepted",
+            "name_id": 2913,
+            "simple_name": "Zea",
+            "name_author": "L.",
+            "rank": "Genus",
+            "common_name_c": "玉蜀黍屬",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": null,
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2026-04-20"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Zea mais",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Zea+mais",
+      "retrieved_at": "2026-08-20T23:03:01+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Zea mays",
+          "matched_name_id": 24804,
+          "taxon_id": "t0049378",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Zea mays",
+          "accepted_name_id": 24804,
+          "accepted_usage": [
+            {
+              "usage_id": 287189,
+              "reference_id": 3024,
+              "reference_type": "Journal Article",
+              "publish_year": 2022,
+              "citation": "Chang-Yang, C.-H., Su, M.-h., Chiang, P.-H. & Hsieh, C.-F. (2022) Updating the Checklist of the Naturalized Flora in Taiwan. <i>Taiwania</i> 67(1): 1–8.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 282178,
+              "reference_id": 1067,
+              "reference_type": "Book Chapter",
+              "publish_year": 2000,
+              "citation": "Hsu, C.-C. (2000) 26. Gramineae. In: Flora of Taiwan, 2 ed., vol. 5. 318–654.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 320636,
+              "reference_id": 9991,
+              "reference_type": "Checklist",
+              "publish_year": 2012,
+              "citation": "Forestry Bureau, C. (2012) 外來入侵植物全國現狀調查計畫（4/4）101年度期末成果報告 = Survery of Invasive Alien Plants in Taiwan (4/4) 2012 Final Report",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 131357,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 5557,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0049378",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0049378",
+          "taxon": {
+            "taxon_id": "t0049378",
+            "taxon_status": "accepted",
+            "name_id": 24804,
+            "simple_name": "Zea mays",
+            "name_author": "L.",
+            "rank": "Species",
+            "common_name_c": "玉蜀黍",
+            "alternative_name_c": "玉米",
+            "synonyms": "Zea mays var. hirta, Zea mays fo. variegata, Zea mays subsp. amyleosaccharata, Thalysia mays, Zea mays subsp. obtusa, Zea mays subsp. indurata, Zea mays subsp. indentata, Zea mays subsp. everta, Zea oryzoides, Zea mays var. subnigroviolacea, Zea mays subsp. ceratina, Zea tunicata, Zea mays subsp. acuminata, Zea mays subsp. tunicata, Zea mays subsp. amylacea, Zea glumacea, Zea mexicana subsp. parviglumis, Zea mays var. japonica, Zea mays subsp. aorista, Zea mays var. saccharata, Mayzea cerealis, Zea vulgaris, Zea vittata, Zea vaginata, Zea segetalis, Zea saccharata, Zea rostrata, Zea praecox, Zea odontosperma, Zea mucronata, Zea minor, Zea minima, Zea mays var. virginica, Zea mays var. striatiamylacea, Zea mays var. praecox, Zea mays var. pensylvanica, Zea mays var. multicoloramylacea, Zea mays var. huehuetenangensis, Zea mays var. gracillima, Zea mays subsp. parviglumis, Zea mays fo. hanakibi, Zea macrosperma, Zea japonica, Zea indurata, Zea indentata, Zea hirta, Zea gracillima, Zea gigantea, Zea everta, Zea erythrolepis, Zea curagua, Zea cryptosperma, Zea canina, Zea amyleosaccharata, Zea amylacea, Zea americana, Zea altissima, Zea alba, Mayzea vestita, Mayzea cerealis var. gigantea, Mays zea, Mays vulgaris, Mays americana",
+            "is_in_taiwan": true,
+            "alien_type": "naturalized",
+            "alien_status_note": "naturalized: Chang-Yang et al., 2022|naturalized: Hsu, 2000|naturalized: Forestry Bureau, 2012 (A類歸化植物)|naturalized: 原生於南美洲; 沒有入侵性",
+            "not_official": false,
+            "updated_at": "2026-08-19"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Zea mais",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Zea%20mais",
+      "retrieved_at": "2026-08-20T23:03:44+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears."
+  ]
+}

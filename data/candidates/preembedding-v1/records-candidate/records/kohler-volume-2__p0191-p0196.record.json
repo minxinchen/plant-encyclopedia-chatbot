@@ -1,0 +1,230 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0191-p0196",
+  "entry_id": "kohler-volume-2:p0191-p0196",
+  "owner_shard": "S03",
+  "book_taxon": {
+    "scientific_name": "Astragalus adscendens",
+    "authorship": "Boiss. et Hausskn.",
+    "aliases": []
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Astragalus adscendens"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T19:18:10+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Astragalus+adscendens",
+        "query_name": "Astragalus adscendens",
+        "retrieved_at": "2026-08-13T19:18:08+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 191,
+      "evidence_type": "text",
+      "page_text_sha256": "16a52c96ac527df7d5aa849cbae8620d1b69e2da2748b3de8633545123b6989d",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 192,
+      "evidence_type": "text",
+      "page_text_sha256": "d235690e8c1f87d8551813274039d766c72496b7ca7eecacd2fbd05dd71d5d3b",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 193,
+      "evidence_type": "text",
+      "page_text_sha256": "08f3118c1102859d3214a6362be04da348701d6e8c11e415baec2f043e8852ce",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 194,
+      "evidence_type": "text",
+      "page_text_sha256": "a4808b46c1c9f6f2fd7f89f163357197a9723a3481e35edfd43e073c142636e4",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0191-p0196:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "       Familie: Leguminosae (Papilionaceae);         Unterfamilie: Astragaleae; Gattung: Astragalus L.;\nUntergattung: Tragacantha.",
+      "normalized_text": null,
+      "zh_tw_rendering": "隕落科，Astragaleae亞科，Astragalus屬，Tragacantha亞屬。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 191,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 215,
+        "char_end": 345,
+        "page_text_sha256": "16a52c96ac527df7d5aa849cbae8620d1b69e2da2748b3de8633545123b6989d",
+        "exact_text_sha256": "3e312aeaa7c0b09768c2cbc58663f697b77f5bda232c129d927d6a6a5214c99f",
+        "source_line_start": 9,
+        "source_line_end": 10,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "3e312aeaa7c0b09768c2cbc58663f697b77f5bda232c129d927d6a6a5214c99f",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0191-p0196:s01:x00",
+      "section_type": "description",
+      "original_text": "    1. Astragalus       adscendens Boiss. et Hausskn.     1—11/, Meter hoher Strauch mit schirmartig auf-\n           steigenden, vielen und kurzverzweigten Aesten, dreieckigen, am Grunde filzigen Nebenblättern,\n           4—6jochigen Blüttern mit gefalteten, schmal-oblong-linealen, stachelspitzigen, angedrückt steif-\n           haarigen Fiederblättchen. Blüthen zu mehreren aus den Blattachseln.        Brakteen sehr klein,\n           ei-kappenförmig, spitzlich, steifhaarig. Kelch am Grunde kurzfilzig, mit lanzettlichen, an der\n           Spitze nicht kablen Zähnen, welche ungefähr die halbe Länge der Röhre besitzen. ‘Die lánglich-\n           spatelfórmige, am. Grunde verschmälerte Fahne etwa doppelt so lang als der Kelch. In den süd-\n           westlichen Gebirgsgegenden Persiens einheimisch, bis zu 3000 Meter Meereshöhe emporsteigend.",
+      "normalized_text": null,
+      "zh_tw_rendering": "1-1.5米高灌木，傘狀上升枝，三角狀基部絨毛托葉，4-6對葉，葉片狹長帶刺尖。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 192,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 141,
+        "char_end": 987,
+        "page_text_sha256": "d235690e8c1f87d8551813274039d766c72496b7ca7eecacd2fbd05dd71d5d3b",
+        "exact_text_sha256": "d77ac9634263904b574965e6d4a1e94ab49bd34f7a63e1f1c371a8c2bc98aed3",
+        "source_line_start": 3,
+        "source_line_end": 10,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "d77ac9634263904b574965e6d4a1e94ab49bd34f7a63e1f1c371a8c2bc98aed3",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0191-p0196:s02:x00",
+      "section_type": "distribution",
+      "original_text": "           spatelfórmige, am. Grunde verschmälerte Fahne etwa doppelt so lang als der Kelch. In den süd-\n           westlichen Gebirgsgegenden Persiens einheimisch, bis zu 3000 Meter Meereshöhe emporsteigend.",
+      "normalized_text": null,
+      "zh_tw_rendering": "原產於伊朗西南部山區，海拔可達3000米。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 192,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 779,
+        "char_end": 987,
+        "page_text_sha256": "d235690e8c1f87d8551813274039d766c72496b7ca7eecacd2fbd05dd71d5d3b",
+        "exact_text_sha256": "2ee042db4bfe9c04a6c3ff1318659d6da9b05b696460fabdee4ac6e2bb489498",
+        "source_line_start": 9,
+        "source_line_end": 10,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "2ee042db4bfe9c04a6c3ff1318659d6da9b05b696460fabdee4ac6e2bb489498",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0191-p0196:s03:x00",
+      "section_type": "anatomy",
+      "original_text": "          Anatomisches: Der Ursprung des Traganth ist nach den Untersuchungen von; Mohl,\n Kützing und Wigand in dem Marke und den Markstrahlen zu suchen; seine Bildung beruht nicht\n auf einer Ausscheidung von Gummi in besonderen Zellen, sondern auf einer Umbildung des Gewebes\ngenannter Organe. Die im Anfange dünnwandigen Parenchyınzellen in der Mitte des Markes und in\nden inneren Schichten der Markstrahlen verdicken sich nach und nach durch Bildung vieler dünner\nSchichten, so dass ein sehr enges, mit kleinen Stärkekörnern erfülltes Lumen übrig bleibt. Diese\nverdickten Wandungen werden allmählich aus Cellulose in Schleim übergeführt, und schliesslich durch\nVerschmelzung eine strukturlose, die Zellreste einhüllende Masse gebildet, die ein starkes Quellungs-\nvermögen besitzt und durch die Feuchtigkeit der atmosphärischen Luft so im Volumen zunimmt, dass\nein Herauspressen aus Rissen, natürlichen und küns tlichen Spalten und zwar in Form von gewundenen,",
+      "normalized_text": null,
+      "zh_tw_rendering": "阿拉伯膠源自髓部與髓射線，細胞壁轉化為黏液，吸水膨脹後從裂縫擠出。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 193,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3724,
+        "char_end": 4686,
+        "page_text_sha256": "08f3118c1102859d3214a6362be04da348701d6e8c11e415baec2f043e8852ce",
+        "exact_text_sha256": "5615347065e3e90284c52e3a7dad08bb3c1cfaafd981b882b4a13ac9a4250898",
+        "source_line_start": 40,
+        "source_line_end": 49,
+        "section_index": 3,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "5615347065e3e90284c52e3a7dad08bb3c1cfaafd981b882b4a13ac9a4250898",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0191-p0196:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "         Theophrast erwähnt den Traganthstrauch unter dem Namen Toayaxavga und bezeichnet\nKreta, den Peloponnes und Nordpersien als sein Vaterland.       Plinius nannte ihn Spina alta.\nDioscorides, Celsus und Plinius beschäftigten sich mit dem ausfliessenden Schleim, welchen\nGalen, der das Gewächs zu den Gemtisepflanzen zählte, ‫سموم‬‎ nannte. Bei den Arabern begegnen\nwir der Droge im 10. Jahrhundert; ebenso beschäftigte sich die Schule von Salern mit ihr, die\nnamentlich 2 Pulvermischungen, Diatragacanthum frigidum und calidum, aus ihr bereitete. In\nDeutschland finden wir die Droge im 12. Jahrhundert, zu welcher Zeit sie unter dem Namen\nDraganti als Bestandtheil einer Augensalbe genannt wird. Der Florentiner Pegolotti (um 1340)",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史記載：西元前提及於克麗特與北伊朗；中世紀用於製藥與絲綢整理。",
+      "evidence_indexes": [
+        3
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 194,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 1574,
+        "char_end": 2311,
+        "page_text_sha256": "a4808b46c1c9f6f2fd7f89f163357197a9723a3481e35edfd43e073c142636e4",
+        "exact_text_sha256": "d70d27c161760a2609d42db4d05f060f0b9dd3ac7db922d71eff8d08b78d5bd0",
+        "source_line_start": 19,
+        "source_line_end": 26,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "d70d27c161760a2609d42db4d05f060f0b9dd3ac7db922d71eff8d08b78d5bd0",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "e39f51a27eb0c3e7b2bc59807f3ccfbb19dac9f34cddebfe12ed35d38e1ed7a5",
+    "maker_receipt_sha256": "5abd2764a1b287fd03bab22883877e154ca6127b16876d26821541e5646050a5",
+    "validation_check_sha256": "e987b6467521708a9aebc982dea0e6f84a3511a8e1836877534004086b00ab2e",
+    "source_disposition_sha256": "bcf76030677dadc9eb8aeea836760f854e690643afe620dcaa5ded2449cfede1",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "5abd2764a1b287fd03bab22883877e154ca6127b16876d26821541e5646050a5",
+      "validation_check_sha256": "e987b6467521708a9aebc982dea0e6f84a3511a8e1836877534004086b00ab2e",
+      "source_disposition_sha256": "bcf76030677dadc9eb8aeea836760f854e690643afe620dcaa5ded2449cfede1"
+    },
+    "naming_artifact_sha256": "3827d06f2ee58199506110eb87e56d3991d7337d8df1e3091c09f31568e956b3"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "f4c30bee2b979a9706a4593c55d7b2286e189c3995239d8e3b789fe3907d169e"
+}

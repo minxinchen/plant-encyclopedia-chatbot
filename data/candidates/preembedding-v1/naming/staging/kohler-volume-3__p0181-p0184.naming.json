@@ -1,0 +1,166 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-3:p0181-p0184",
+  "owner_shard": "S06",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S06/maker/structure-drafts/kohler-volume-3__p0181-p0184.json",
+  "source_draft_sha256": "0c05e82232934545cde21295e353d545f8c1da22ebc84d0202cd52dadce51912",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "7829b8853aeff1524a6e009f02c2269c7bb436634ff098b0260ffb25ca52df94",
+    "validation_check_sha256": "86e33de85acd093e77fcff4241acd95d85c6f5efc3b57aa05b853c8375572988",
+    "source_disposition_sha256": "7c7aa81ab83f7836f6b383fabfee5f85f7ade742e4cdc626796a391ea67b58d5",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Anthriscus silvestris",
+    "authorship_candidate": "Hoffmann",
+    "aliases_candidates": [
+      "Chaerophyllum silvestre L.",
+      "Waldkerbel",
+      "Wild Chervil",
+      "Cerfeuil sauvage",
+      "Persil d’äne",
+      "Cocue",
+      "Boschkervel",
+      "wilde Kervel"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Anthriscus silvestris"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_zh_tw": null,
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_checked",
+    "taxon_id": null,
+    "display_name_source_scope": "unresolved",
+    "display_name_source_evidence_ids": [],
+    "display_name_is_taiwan_public": false,
+    "display_name_answer_policy": "scientific_name_only",
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping.",
+    "checked_at": "2026-08-13T18:03:49+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Anthriscus silvestris",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Anthriscus+silvestris",
+      "retrieved_at": "2026-08-13T18:03:45+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Anthriscus sylvestris",
+          "matched_name_id": 54110,
+          "taxon_id": "t0060987",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Anthriscus sylvestris",
+          "accepted_name_id": 54110,
+          "accepted_usage": [
+            {
+              "usage_id": 38432,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0060987",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0060987",
+          "taxon": {
+            "taxon_id": "t0060987",
+            "taxon_status": "accepted",
+            "name_id": 54110,
+            "simple_name": "Anthriscus sylvestris",
+            "name_author": "(L.) Hoffm",
+            "rank": "Species",
+            "common_name_c": "峨參",
+            "alternative_name_c": null,
+            "synonyms": "Anthriscus nemorosa, Anthriscus aemula",
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2026-08-05"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Chaerophyllum silvestre",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Chaerophyllum+silvestre",
+      "retrieved_at": "2026-08-13T18:03:45+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Wild chervil",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Wild+chervil",
+      "retrieved_at": "2026-08-13T18:03:45+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Cerfeuil sauvage",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Cerfeuil+sauvage",
+      "retrieved_at": "2026-08-13T18:03:45+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "wilde kervel",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=wilde+kervel",
+      "retrieved_at": "2026-08-13T18:03:45+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Anthriscus silvestris",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Anthriscus%20silvestris",
+      "retrieved_at": "2026-08-13T18:03:49+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears."
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0083-p0084",
+  "owner_shard": "S03",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 109.022,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0083-p0084",
+    "book_taxon": {
+      "scientific_name_candidate": "Pimpinella Anisum",
+      "authorship_candidate": "L.",
+      "aliases_candidates": [
+        "Anisum vulgare Gaertn.",
+        "Sison Anisum Spr.",
+        "Anis",
+        "Anis vert",
+        "Anise"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "description",
+        "pdf_page": 83,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "一年生植物，高30-50公分，莖直立細溝，葉基鞘狀，花序複傘形，果實灰綠橢圓。",
+        "warnings": [],
+        "source_line_range": [
+          6,
+          28
+        ],
+        "exact_source_quote": "           Beschreibung.             Einjährige, 30—50 Ctm. hohe Pflanze mit einfacher, dünner, faseriger Wurzel\nund aufrechtem, stielrundem,           fein gerilltem, nach oben doldentraubig ästigem, kurz flaumhaarigem,                  sehr\nselten kahlem Stengel. Blätter am Grunde scheidig; die untersten lang gestielt, ungetheilt, rundlich-\nnieren- oder herzförmig, eingeschnitten-gesägt; die unteren Blätter ebenfalls lang gestielt, fiederspaltig-\ndreitheilig, mit rundlich-keilfórmigen oder rhombischen, eingeschnitten-gesägten Fiederstücken; die\nmittleren, kürzer gestielten Blätter mit in der Regel 2—3spaltigen, keilfórmigen, ganzrandigen Blüttchen :\ndie 9—5theiligen Astblütter mit linealischen oder schmal-lineal-lanzettlichen Zipfeln oder an den\n letzten Verzweigungen           ungetheilt,   linienförmig.        Blüthendolde   zusammengesetzt,        an den Spitzen des\n Stengels und der Aeste, 6—10strahlig,                  Döldchen 4—9blüthig.         Hülle fehlend oder aus einem ein-\n fachen,   auch    3spaltigen,     linienfórmigen     Deckblatte    bestehend.     Hüllchen   ebenfalls fehlend    oder durch\n 1—2 linienfórmige Deckblättchen gebildet. Blüthen weiss-grünlich, sämmtlich fruchtbar, mit verkehrt-\n eiförmigen, durch das umgebogene Spitzchen ausgerandeten Kronblättern und undeutlichem, aus dem\n Rande des Unterkelchs bestehendem Kelche. Die 5 Staubgefässe oberstándig, mit den Blumenblüttern\n wechselnd, mit dünnen, eingebogenen Füden und rundlichen, an beiden Enden ausgerandeten, am Grunde\n der Rückenfläche angehefteten, 2fücherigen, rand-längsspaltig sich öffnenden, blassgelben Staubbeuteln.\n Pollen länglich, eingeschnürt, gewölbt 3nabelig.    Fruchtknoten unterständig, eifórmig, seitlich etwas\n zusammengedrückt, 2fácherig, 2eiig. Eichen einzeln in jedem Fache, im oberen Theile angeheftet und\n herabhängend.    Die grünlich-graue, fein flaumhaarige, rundlich-eiförmige, seitlich etwas gedrückte,\n 2 Mm. dicke, 3—4 Mm. hohe Frucht von dem kissenförmigen Griffelpolster mit Griffeln gekrönt,\n stumpf lOrippig; die Oelstriemen der breiten, flachen Thälchen nicht hervortretend, auf der Rücken-\n seite klein und zahlreich, auf der Fugenseite zu 2 und gross. Endosperm im Querschnitt halbmond-\n fürmig, auf der Fugenseite zweibuchtig. Embryo in der Spitze des Eiweisses; das kurze, dicke Würzel-\n chen nach oben gerichtet."
+      },
+      {
+        "section_type": "flowering",
+        "pdf_page": 83,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "花期為七月至八月。",
+        "warnings": [],
+        "source_line_range": [
+          29,
+          29
+        ],
+        "exact_source_quote": "           Blüthezeit.         Juli, August."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 83,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產東地中海，現栽培於南歐、中歐、西亞、北印度、日本及智利。",
+        "warnings": [],
+        "source_line_range": [
+          30,
+          33
+        ],
+        "exact_source_quote": "           Vorkommen.              Ursprünglich wohl im Ostgebiete des Mittelmeeres einheimisch.                  In Süd- und\n Mitteleuropa (Spanien, Westfrankreich, Thüringen, Sachsen, Bóhmen, M&hren, in verschiedenen russischen\nGouvernements, Griechenland), ferner in Kleinasien, Nordindien, Japan, Chile der Früchte wegen an-\ngebaut.                      ۱"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 83,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "果皮具短錐形毛，中層含油道，內層細胞伸長，維管束含螺旋管。",
+        "warnings": [],
+        "source_line_range": [
+          34,
+          39
+        ],
+        "exact_source_quote": "        Anatomisches.    Aus der Epidermis entwickeln sich zahlreiche, kurze, kegelfórmige, etwas\ngekrümmte Haare. Die Mittelschicht der dünnen Fruchtwand besteht aus etwas tangential gestreckten\nZellen,    zwischen    denen      sich im Querschnitte      flach   elliptisch erscheinende   Oelgänge      befinden;   auf der\nFugenfläche fliessen die an und für sich umfangreichen Oelgänge nicht selten zu einem einzigen zu-\nsammen. Die mehrreihige innere Fruchtschicht zeigt tangential gestrecktere Zellen. Die Rippen sind\nmit je einem Gefässbündel            ausgestattet,    welches   wenige kleine Spiralgefässe     enthält."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 83,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "古希臘羅馬用作藥用及調味，中世紀德國少用，1551年傳入英國。",
+        "warnings": [],
+        "source_line_range": [
+          48,
+          55
+        ],
+        "exact_source_quote": "         Anis isb ein sehr altes Arzneimittel, denn er wird schon in den hippokratischen Schriften er-\nwähnt und dem Pythagoras waren schon seine Heilkräfte bekannt.            \"Theophrast, Dioscorides,\nColumella         und Plinius      schätzten den aus Creta und Aegypten kommenden Anis am höchsten;                     letzterer\nwurde von den Rómern als Küchengewürz und auf Backwerk gestreut benutzt. Palladius empfiehlt\nden Anis zum Anbau und später auch Karl der Grosse in seinem Capitulare; Alexander Trallianus\nverwendet ihn häufig medizinisch. Hildegard scheint ihn nicht zu kennen, wie er überhaupt in dem\ndeutschen Mittelalter wenig Beachtung gefunden zu haben scheint. Nach England soll er erst 1551\ngekommen sein."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 84,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含3%揮發油，主要成分為茴香腦，具特殊香氣，熔點21度。",
+        "warnings": [],
+        "source_line_range": [
+          14,
+          27
+        ],
+        "exact_source_quote": "         Bestandtheile.          Die Anisfrüchte enthalten:     3°/, ätherisches Oel, 3,38%, fettes Oel, 0,65%,\nSchleimzucker,   6,5%, Gummi       mit Kalksalzen,   32,85 Faser etc.    Das ätherische Oel, welches den Geruch\nund Geschmack        des Samens besitzt, ist im frischen Zustande farblos, später gelblich und mehr dick-\nflüssig; es besizt ein spez. Gew. von        0,98—0,99    (altes Oel bis 1,075),    löst sich in 2,4 Theilen Wein-\ngeist von 0,84 spez. Gew., ferner in absolutem Weingeist, Aether, ätherischen und fetten Oelen und\nerstarrt schon bei einer Temperatur unter 15° zu einer harten Krystallmasse, welche bei 17? wieder\nflüssig wird. Es besteht je nach der Güte bis zu 90°/, aus Anethol (Aniskampfer) = Cio H,, O\n         OCH,                                           a    eae                      5\n(o.H,{ CH CH bun. welches von einem, dem Terpenthinöle isomeren Oele begleitet wird. Anethol,\nvom Geruche des Anis, kommt sowohl fest als flüssig vor und bildet den Hauptbestandtheil der\nflüchtigen Oele von Pimpinella Anisum L., Anethum Foeniculum L., Ilieium anisatum L. und Artemisia\nDracunculus L. Das feste Anethol krystallisirt in weissen, glänzenden Bláttchen oder bildet eine\nweisse, körnige Masse, mit einem Schmelzpunkt von 21°, sedeci bei 232° und besitzt ein spez. Gew.\nvon 0,990. (Husemann, Pflanzenstoffe 937)."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "f8a93b227568b58fb375761976c3af3a7d17c12e5a04aebc3e4b1a4d6bf92fd3"
+}

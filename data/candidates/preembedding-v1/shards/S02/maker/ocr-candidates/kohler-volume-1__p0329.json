@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 329,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "113b3303b524e98f30afe13f67e67615e4bca452ba9d6509841ce2721b0f377d",
+  "render_dpi": 144,
+  "render_sha256": "7d8e2f08335d31f971924bb022dcfc7db8444efec6f23566210ef2ed06205247",
+  "input_sha256": "7d8e2f08335d31f971924bb022dcfc7db8444efec6f23566210ef2ed06205247",
+  "render_pixel_width": 5894,
+  "render_pixel_height": 8138,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.747,
+  "embedded_character_count": 92,
+  "ocr_character_count": 48,
+  "ocr_alpha_ratio": 0.7292,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.018498271230667274,
+      "text": "Valerianaceae.",
+      "width": 0.12984180189158812,
+      "x": 0.7807951485124194,
+      "y": 0.9351135637091346
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372621082103,
+      "text": "WM.",
+      "width": 0.026052103957084793,
+      "x": 0.2885771546203697,
+      "y": 0.14680232539004034
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "12",
+      "width": 0.016032063471127844,
+      "x": 0.6813627256792657,
+      "y": 0.148255814116395
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "10",
+      "width": 0.018036071568319323,
+      "x": 0.8456913831370161,
+      "y": 0.1497093022946896
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441861213199572,
+      "text": "Valeriana officinalis 1",
+      "width": 0.2224448844178082,
+      "x": 0.3587174363148101,
+      "y": 0.11773255770089375
+    }
+  ],
+  "text": "Valerianaceae.\nWM.\n12\n10\nValeriana officinalis 1",
+  "output_sha256": "8d50faa43312872ef1f68ac99e702e9c067ae1512d84ff7e40113072b2e046db",
+  "receipt_sha256": "6e0ff08f6f73462122bc4ea935d198692ad690d4e21c87b7f7b56a57904f3bef"
+}

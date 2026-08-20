@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0031-p0032",
+  "owner_shard": "S01",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 101.826,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0031-p0032",
+    "book_taxon": {
+      "scientific_name_candidate": "Picea excelsa",
+      "authorship_candidate": "Lk.",
+      "aliases_candidates": [
+        "Pinus Abies L.",
+        "Pinus Picea Du Roi",
+        "Pinus excelsa Lam.",
+        "Abies Picea vulgaris Lk.",
+        "Picea excelsa var. viminalis Alstrom",
+        "Picea obovata Ledeb."
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 31,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Picea excelsa Lk.，同義名包括 Pinus Abies 等。俗名 Fichte、Rothtanne。科：Coniferae，屬：Picea。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          12
+        ],
+        "exact_source_quote": "                                                    Picea excelsa Lk.\n\n  Syn. Pinus Abies L.                     Pinus Picea Du Roi.                  Pinus excelsa Lam.                   Abies\n\n                                                              Picea vulgaris Lk.\n\n\n    Fichte, Rothtanne,               Schwarztanne, Pechtanne                        — Spruce            Fir,   Norway Spruce\n                                        Sapin eleve, Faux sapin, Pesse, Epicea.\n\n\n         Familie: Conifer ae.               Gattnng: Picea Lk."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 31,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "常綠喬木，高50米以上，樹冠金字塔形。樹皮初紅褐光滑，後灰白剝落。葉單生，四棱形，長10-22毫米，深綠色。",
+        "warnings": [],
+        "source_line_range": [
+          14,
+          25
+        ],
+        "exact_source_quote": "                                        Immergriiner 50 nnd mehr Meter holier                       Baum von pyramidalem Wnchse,\nmit zugespitzter Krone, bogenfornrig emporsteigenden Hanptasten nnd herabhangenden Seitenasten, mit\nhorizontalen nnd flachgehenden Wurzeln.                         Rinde massig dick,         erst    rothbrann nnd glatt, spater grau-\n\nbrann bis weissgrau, mnschelformig abblatternd.                           Blatter einzeln,        znsammengedriickt-vierkantig, knrz\n\nstachelspitzig, dnnkelgriin,         10   — 22 mm lang, 1 — 2 mm breit, gerade oder siclielartig am Grande stiel-       ,\n\n\n\n\nartig verschmalert   ,       spiralig    nnd absteliend nm den Zweig gestellt,                      am Gipfeltriebe angedriickt.                Die"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 31,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "雄花序2-6個，初紫紅後鬆散。雌花單生，長4-5厘米。球果下垂，長10-16厘米。種子黑褐色，帶翅。壽命達300年。",
+        "warnings": [],
+        "source_line_range": [
+          26,
+          39
+        ],
+        "exact_source_quote": "mannlichen Bllithenkatzchen zn 2                  — 6 an vorjahrigen Trieben zwischen den Nadeln, anfangs                                   dicht,\n\nkngelig, vor   dem Verstanben pnrpnrroth, spater locker nnd langlich, mit tiber den Pollensacken halb-\nkreisrnnd erweiterten,            am Rande nngleich gezahnten Stanbblattern.                            Die weiblichen Bltithen einzeln,\nans brannen,    nach nnten gerichteten Knospen an der Spitze der vorjahrigen Triebe hervorkommend,\nlanglich-rnndlich, 4     — 5 cm lang, mit kreisrnnden, am Ende ansgerandeten nnd gezahnten, pnrpnrrothen\nFrnchtschnppen nnd kleinen, langlichen, wimperig- gezahnten Deckschnppen.                                            Der reife Frnchtzapfen\nabwarts hangend, 10          — 16 cm lang, 3 — 4 cm              dick,   walzenformig, nach der Spitze zn an Dicke abnehmend,\n\ngekrummt, mit anfangs dicht anliegenden, spater lockeren, hellbrannen, concaven, oben rhombischen,\nnach nnten keiligen, an der Spitze wenig zweispaltigen Zapfenschnppen, anf deren Innenseite sich                                                 2,\n\ndie Samen bergende Grnben befinden.                      Same glanzend-schwarzbrann, spitz-eiformig, mit einem schiefen,\n                                              i"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 31,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分佈於北歐及中歐山區，與松、雲杉混生。北至挪威67°，南至比利牛斯山41-42°。海拔從230米至2100米不等。",
+        "warnings": [],
+        "source_line_range": [
+          57,
+          65
+        ],
+        "exact_source_quote": "           Verbreitung.             Im     nordlichen          nnd   in den Gebirgen des mittleren                  Enropa entweder         allein\n\noder in Verbindnng mit der Kiefer, Tanne nnd Bnche grosse ansgedehnte Waldnngen bildend.                                                    Nach\nLnerssen reicht ihre horizontale Verbreitnng in Norwegen bis znm 67°,                                          in   Schweden       bis   znm 65°,\nin Finnland    bis   — 69° nordlicher Breite; in Serbien geht\n                     znm 68                                                                       sie   herab bis     znm 43° nnd in den\nPyrenaen bis znm 41 — 42° nordlicher Breite.  Ihre Erhebnng                                   tiber      den Meeresspiegel betragt in\nNorwegen 230 m, im Harz 1000 m, im Riesengebirge 1240 m, im bairischen Walde 1470 m,                                                       in   den\nbairischen Alpen 1800 m,             im Unterengadin 2100 m, in den Pyrenaen 1630 m."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 32,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源自拉丁pix（瀝青）。西奧弗拉斯特稱之為'EXaTtj dyUia'。德語Fichte源於古日耳曼語，意指樹脂豐滿。",
+        "warnings": [],
+        "source_line_range": [
+          6,
+          16
+        ],
+        "exact_source_quote": "           Name und Geschichtliches.                  Der Name picea (Pechtanne der Romer)                      ist     abgeleitet      von\n\npix, picis Pech.     Theophrastus bezeichnet die Fichte mit 'EXaTtj dyUia.                           Fichte, Fiechte, Feuchte,\n\n                              feohta,                                        von dem                         fiiiht      fuht     inuhte\n                  fiuhta,                fiehta\n\nfeucht (wegen des Harzes von Saft strotzend).                    Das Fichtenharz wird schon vor              dem 17. Jahrhundert\nin   der pharmaceutischen Litteratur als           Fix htrgy^ndica beschrieben,              obgleich Burgund von jeher nur\n\nwenig derartiges Harz         geliefert hat."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 32,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史上，樹脂（Burgunder-Pech）自17世紀前即入藥。乾燥枝芽用法同松芽。樹脂含松節油較其他針葉樹少。",
+        "warnings": [],
+        "source_line_range": [
+          20,
+          28
+        ],
+        "exact_source_quote": "           Offizinell   ist    das entweder       selbst   oder gemachten Einschnitten             ausfliessende,\n\nkaltem Alkohol leicht losliche Harz (resina flava), welches unter                      dem Namen BurgunderPech: Fix\nburgundica {Resina burgandica) in den Handel gebracht wird.                         Die getrockneten Zweigknospen (Fichten-\nsprossen) werden in gleicher Weise wie die Kiefernsprossen verwendet.\n\n           Praparate.       Die Fichte liefert dieselben Prodnkte wie die Kiefer.                     Ihr Harz scheint armer\n\nan Terpenthin zu sein, als das anderer harzliefernder Coniferen."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "16232b780982ad926fcd94080477d264a498d4a5c4687f9a23f55ebc43eee2b5"
+}

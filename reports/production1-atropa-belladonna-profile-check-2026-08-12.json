@@ -1,0 +1,1033 @@
+{
+  "schema_version": "1.0",
+  "run_id": "production1-atropa-belladonna-profile-check-2026-08-12",
+  "batch_id": "kohler-v1-p35-p36-atropa-belladonna",
+  "embedded_at": "2026-08-12T14:36:44+08:00",
+  "source_id": "kohler-volume-1",
+  "record_id": "atropa-belladonna",
+  "pdf_pages": [
+    35,
+    36
+  ],
+  "model": "gemini-embedding-2",
+  "dimensions": 768,
+  "vector_space_id": "gemini-embedding-2__768__qa-prefix-v1",
+  "token_unit_contract": "Provider-neutral regex units: Unicode word sequences or individual non-whitespace punctuation. These are deterministic portable chunk units, not a claim about Gemini's private tokenizer.",
+  "external_model_calls": 1,
+  "external_model_calls_this_run": 1,
+  "batch_embed_items": 14,
+  "batch_usage_metadata": {
+    "promptTokenCount": 9170,
+    "promptTokenDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 9170
+      }
+    ]
+  },
+  "incremental_usd": 0,
+  "paid_fallback_used": false,
+  "source_range_notes": [
+    {
+      "pdf_page": 35,
+      "source_char_start": 48,
+      "source_char_end": 7731,
+      "excluded_range_reason": "Remove only the blank page prefix; the visually reviewed page belongs entirely to Atropa belladonna."
+    },
+    {
+      "pdf_page": 36,
+      "source_char_start": 0,
+      "source_char_end": 8546,
+      "excluded_range_reason": "Keep the continuous text entry through bibliography and exclude the caption from text retrieval; the caption remains separately traceable in the plant record."
+    }
+  ],
+  "attempt_history": [],
+  "profile_results": {
+    "page-baseline": {
+      "chunk_count": 2,
+      "page_chunk_counts": {
+        "35": 1,
+        "36": 1
+      },
+      "mean_mrr": 0.833333,
+      "answer_recall_at_1": 0.666667,
+      "answer_recall_at_3": 1.0,
+      "mean_evidence_margin": 0.012499,
+      "refusal_precision": 1.0,
+      "citation_completeness": 1.0,
+      "query_metrics": [
+        {
+          "query_id": "atropa-atropin-zh-tw",
+          "expected_status": "answerable",
+          "answer_gate": "supporting_book_terms_found",
+          "relevant_chunk_count": 1,
+          "first_relevant_rank": 2,
+          "mrr": 0.5,
+          "recall_at_1": false,
+          "recall_at_3": true,
+          "evidence_margin": -0.008902,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-1:p35:atropa-belladonna:page",
+              "pdf_page": 35,
+              "cosine_similarity": 0.767019,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:page",
+              "pdf_page": 36,
+              "cosine_similarity": 0.758117,
+              "has_required_book_term": true
+            }
+          ]
+        },
+        {
+          "query_id": "atropa-atropin-en",
+          "expected_status": "answerable",
+          "answer_gate": "supporting_book_terms_found",
+          "relevant_chunk_count": 1,
+          "first_relevant_rank": 1,
+          "mrr": 1.0,
+          "recall_at_1": true,
+          "recall_at_3": true,
+          "evidence_margin": 0.009897,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:page",
+              "pdf_page": 36,
+              "cosine_similarity": 0.776183,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-1:p35:atropa-belladonna:page",
+              "pdf_page": 35,
+              "cosine_similarity": 0.766286,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "atropa-distribution-zh-tw",
+          "expected_status": "answerable",
+          "answer_gate": "supporting_book_terms_found",
+          "relevant_chunk_count": 1,
+          "first_relevant_rank": 1,
+          "mrr": 1.0,
+          "recall_at_1": true,
+          "recall_at_3": true,
+          "evidence_margin": 0.036501,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-1:p35:atropa-belladonna:page",
+              "pdf_page": 35,
+              "cosine_similarity": 0.768839,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:page",
+              "pdf_page": 36,
+              "cosine_similarity": 0.732338,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "atropa-ambiguous-belladonna-zh-tw",
+          "expected_status": "ambiguous",
+          "answer_gate": "no_supporting_book_relation",
+          "refusal_correct": true,
+          "relevant_chunk_count": 0,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-1:p35:atropa-belladonna:page",
+              "pdf_page": 35,
+              "cosine_similarity": 0.765324,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:page",
+              "pdf_page": 36,
+              "cosine_similarity": 0.751627,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "atropa-wrong-name-refusal-zh-tw",
+          "expected_status": "wrong_name",
+          "answer_gate": "no_supporting_book_relation",
+          "refusal_correct": true,
+          "relevant_chunk_count": 0,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-1:p35:atropa-belladonna:page",
+              "pdf_page": 35,
+              "cosine_similarity": 0.738878,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:page",
+              "pdf_page": 36,
+              "cosine_similarity": 0.727836,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "atropa-chromosome-refusal-zh-tw",
+          "expected_status": "unanswerable",
+          "answer_gate": "no_supporting_book_relation",
+          "refusal_correct": true,
+          "relevant_chunk_count": 0,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-1:p35:atropa-belladonna:page",
+              "pdf_page": 35,
+              "cosine_similarity": 0.72343,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:page",
+              "pdf_page": 36,
+              "cosine_similarity": 0.689959,
+              "has_required_book_term": false
+            }
+          ]
+        }
+      ]
+    },
+    "section-aware-512-100-v1": {
+      "chunk_count": 6,
+      "page_chunk_counts": {
+        "35": 2,
+        "36": 4
+      },
+      "mean_mrr": 1.0,
+      "answer_recall_at_1": 1.0,
+      "answer_recall_at_3": 1.0,
+      "mean_evidence_margin": 0.031113,
+      "refusal_precision": 1.0,
+      "citation_completeness": 1.0,
+      "query_metrics": [
+        {
+          "query_id": "atropa-atropin-zh-tw",
+          "expected_status": "answerable",
+          "answer_gate": "supporting_book_terms_found",
+          "relevant_chunk_count": 4,
+          "first_relevant_rank": 1,
+          "mrr": 1.0,
+          "recall_at_1": true,
+          "recall_at_3": true,
+          "evidence_margin": 0.031881,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c01",
+              "pdf_page": 36,
+              "cosine_similarity": 0.791217,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c02",
+              "pdf_page": 36,
+              "cosine_similarity": 0.788389,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c03",
+              "pdf_page": 36,
+              "cosine_similarity": 0.770557,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-1:p35:atropa-belladonna:section-aware-512-100-v1:c01",
+              "pdf_page": 35,
+              "cosine_similarity": 0.759336,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 5,
+              "chunk_id": "kohler-volume-1:p35:atropa-belladonna:section-aware-512-100-v1:c00",
+              "pdf_page": 35,
+              "cosine_similarity": 0.758668,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "atropa-atropin-en",
+          "expected_status": "answerable",
+          "answer_gate": "supporting_book_terms_found",
+          "relevant_chunk_count": 4,
+          "first_relevant_rank": 1,
+          "mrr": 1.0,
+          "recall_at_1": true,
+          "recall_at_3": true,
+          "evidence_margin": 0.040708,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c01",
+              "pdf_page": 36,
+              "cosine_similarity": 0.802626,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c02",
+              "pdf_page": 36,
+              "cosine_similarity": 0.796708,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c03",
+              "pdf_page": 36,
+              "cosine_similarity": 0.779532,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-1:p35:atropa-belladonna:section-aware-512-100-v1:c00",
+              "pdf_page": 35,
+              "cosine_similarity": 0.761918,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 5,
+              "chunk_id": "kohler-volume-1:p35:atropa-belladonna:section-aware-512-100-v1:c01",
+              "pdf_page": 35,
+              "cosine_similarity": 0.750662,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "atropa-distribution-zh-tw",
+          "expected_status": "answerable",
+          "answer_gate": "supporting_book_terms_found",
+          "relevant_chunk_count": 2,
+          "first_relevant_rank": 1,
+          "mrr": 1.0,
+          "recall_at_1": true,
+          "recall_at_3": true,
+          "evidence_margin": 0.020749,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-1:p35:atropa-belladonna:section-aware-512-100-v1:c00",
+              "pdf_page": 35,
+              "cosine_similarity": 0.772477,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-1:p35:atropa-belladonna:section-aware-512-100-v1:c01",
+              "pdf_page": 35,
+              "cosine_similarity": 0.768662,
+              "has_required_book_term": true
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c03",
+              "pdf_page": 36,
+              "cosine_similarity": 0.751728,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c02",
+              "pdf_page": 36,
+              "cosine_similarity": 0.745751,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 5,
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c01",
+              "pdf_page": 36,
+              "cosine_similarity": 0.739426,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "atropa-ambiguous-belladonna-zh-tw",
+          "expected_status": "ambiguous",
+          "answer_gate": "no_supporting_book_relation",
+          "refusal_correct": true,
+          "relevant_chunk_count": 0,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c03",
+              "pdf_page": 36,
+              "cosine_similarity": 0.778206,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c02",
+              "pdf_page": 36,
+              "cosine_similarity": 0.775492,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-1:p35:atropa-belladonna:section-aware-512-100-v1:c01",
+              "pdf_page": 35,
+              "cosine_similarity": 0.763541,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c01",
+              "pdf_page": 36,
+              "cosine_similarity": 0.760032,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 5,
+              "chunk_id": "kohler-volume-1:p35:atropa-belladonna:section-aware-512-100-v1:c00",
+              "pdf_page": 35,
+              "cosine_similarity": 0.757064,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "atropa-wrong-name-refusal-zh-tw",
+          "expected_status": "wrong_name",
+          "answer_gate": "no_supporting_book_relation",
+          "refusal_correct": true,
+          "relevant_chunk_count": 0,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c01",
+              "pdf_page": 36,
+              "cosine_similarity": 0.750464,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c03",
+              "pdf_page": 36,
+              "cosine_similarity": 0.746009,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c02",
+              "pdf_page": 36,
+              "cosine_similarity": 0.743361,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-1:p35:atropa-belladonna:section-aware-512-100-v1:c00",
+              "pdf_page": 35,
+              "cosine_similarity": 0.731836,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 5,
+              "chunk_id": "kohler-volume-1:p35:atropa-belladonna:section-aware-512-100-v1:c01",
+              "pdf_page": 35,
+              "cosine_similarity": 0.72714,
+              "has_required_book_term": false
+            }
+          ]
+        },
+        {
+          "query_id": "atropa-chromosome-refusal-zh-tw",
+          "expected_status": "unanswerable",
+          "answer_gate": "no_supporting_book_relation",
+          "refusal_correct": true,
+          "relevant_chunk_count": 0,
+          "top_results": [
+            {
+              "rank": 1,
+              "chunk_id": "kohler-volume-1:p35:atropa-belladonna:section-aware-512-100-v1:c00",
+              "pdf_page": 35,
+              "cosine_similarity": 0.733757,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 2,
+              "chunk_id": "kohler-volume-1:p35:atropa-belladonna:section-aware-512-100-v1:c01",
+              "pdf_page": 35,
+              "cosine_similarity": 0.714035,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 3,
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c01",
+              "pdf_page": 36,
+              "cosine_similarity": 0.709594,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 4,
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c03",
+              "pdf_page": 36,
+              "cosine_similarity": 0.709235,
+              "has_required_book_term": false
+            },
+            {
+              "rank": 5,
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c02",
+              "pdf_page": 36,
+              "cosine_similarity": 0.701865,
+              "has_required_book_term": false
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "selected_profile": "section-aware-512-100-v1",
+  "selected_profile_review_status": "approved_bounded_hybrid_batch",
+  "verdict": "promote",
+  "promotion_scope": "Atropa belladonna PDF pages 35-36 reviewed text only; no plate image, next-taxon or full-volume expansion",
+  "pure_semantic_verdict": "promote",
+  "pure_semantic_selected_profile": "section-aware-512-100-v1",
+  "hybrid_parent_results": {
+    "page-baseline": {
+      "fusion_contract": "cosine + 0.08 * deterministic lexical coverage, then max score per parent page",
+      "query_results": [
+        {
+          "query_id": "atropa-atropin-zh-tw",
+          "expected_status": "answerable",
+          "expanded_lexical_terms": [
+            "atropin"
+          ],
+          "answer_gate": "answerable_with_page_evidence",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:page",
+              "parent_chunk_id": "kohler-volume-1:p36:atropa-belladonna:page",
+              "pdf_page": 36,
+              "semantic_score": 0.758117,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.838117,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-1:p36:atropa-belladonna:page"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-1:p36:atropa-belladonna:page"
+              ],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-1:p35:atropa-belladonna:page",
+              "parent_chunk_id": "kohler-volume-1:p35:atropa-belladonna:page",
+              "pdf_page": 35,
+              "semantic_score": 0.767019,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.767019,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-1:p35:atropa-belladonna:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            }
+          ]
+        },
+        {
+          "query_id": "atropa-atropin-en",
+          "expected_status": "answerable",
+          "expanded_lexical_terms": [
+            "atropin"
+          ],
+          "answer_gate": "answerable_with_page_evidence",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:page",
+              "parent_chunk_id": "kohler-volume-1:p36:atropa-belladonna:page",
+              "pdf_page": 36,
+              "semantic_score": 0.776183,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.856183,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-1:p36:atropa-belladonna:page"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-1:p36:atropa-belladonna:page"
+              ],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-1:p35:atropa-belladonna:page",
+              "parent_chunk_id": "kohler-volume-1:p35:atropa-belladonna:page",
+              "pdf_page": 35,
+              "semantic_score": 0.766286,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.766286,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-1:p35:atropa-belladonna:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            }
+          ]
+        },
+        {
+          "query_id": "atropa-distribution-zh-tw",
+          "expected_status": "answerable",
+          "expanded_lexical_terms": [
+            "europa",
+            "mittelasien"
+          ],
+          "answer_gate": "answerable_with_page_evidence",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-1:p35:atropa-belladonna:page",
+              "parent_chunk_id": "kohler-volume-1:p35:atropa-belladonna:page",
+              "pdf_page": 35,
+              "semantic_score": 0.768839,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.848839,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-1:p35:atropa-belladonna:page"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-1:p35:atropa-belladonna:page"
+              ],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:page",
+              "parent_chunk_id": "kohler-volume-1:p36:atropa-belladonna:page",
+              "pdf_page": 36,
+              "semantic_score": 0.732338,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.732338,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-1:p36:atropa-belladonna:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            }
+          ]
+        },
+        {
+          "query_id": "atropa-ambiguous-belladonna-zh-tw",
+          "expected_status": "ambiguous",
+          "expanded_lexical_terms": [],
+          "answer_gate": "refuse_no_book_relation",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-1:p35:atropa-belladonna:page",
+              "parent_chunk_id": "kohler-volume-1:p35:atropa-belladonna:page",
+              "pdf_page": 35,
+              "semantic_score": 0.765324,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.765324,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-1:p35:atropa-belladonna:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:page",
+              "parent_chunk_id": "kohler-volume-1:p36:atropa-belladonna:page",
+              "pdf_page": 36,
+              "semantic_score": 0.751627,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.751627,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-1:p36:atropa-belladonna:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            }
+          ]
+        },
+        {
+          "query_id": "atropa-wrong-name-refusal-zh-tw",
+          "expected_status": "wrong_name",
+          "expanded_lexical_terms": [
+            "atropin"
+          ],
+          "answer_gate": "refuse_no_book_relation",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:page",
+              "parent_chunk_id": "kohler-volume-1:p36:atropa-belladonna:page",
+              "pdf_page": 36,
+              "semantic_score": 0.727836,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.807836,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-1:p36:atropa-belladonna:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-1:p35:atropa-belladonna:page",
+              "parent_chunk_id": "kohler-volume-1:p35:atropa-belladonna:page",
+              "pdf_page": 35,
+              "semantic_score": 0.738878,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.738878,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-1:p35:atropa-belladonna:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            }
+          ]
+        },
+        {
+          "query_id": "atropa-chromosome-refusal-zh-tw",
+          "expected_status": "unanswerable",
+          "expanded_lexical_terms": [
+            "chromosom"
+          ],
+          "answer_gate": "refuse_no_book_relation",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-1:p35:atropa-belladonna:page",
+              "parent_chunk_id": "kohler-volume-1:p35:atropa-belladonna:page",
+              "pdf_page": 35,
+              "semantic_score": 0.72343,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.72343,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-1:p35:atropa-belladonna:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:page",
+              "parent_chunk_id": "kohler-volume-1:p36:atropa-belladonna:page",
+              "pdf_page": 36,
+              "semantic_score": 0.689959,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.689959,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-1:p36:atropa-belladonna:page"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            }
+          ]
+        }
+      ],
+      "all_gates_pass": true
+    },
+    "section-aware-512-100-v1": {
+      "fusion_contract": "cosine + 0.08 * deterministic lexical coverage, then max score per parent page",
+      "query_results": [
+        {
+          "query_id": "atropa-atropin-zh-tw",
+          "expected_status": "answerable",
+          "expanded_lexical_terms": [
+            "atropin"
+          ],
+          "answer_gate": "answerable_with_page_evidence",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c01",
+              "parent_chunk_id": "kohler-volume-1:p36:atropa-belladonna:page",
+              "pdf_page": 36,
+              "semantic_score": 0.791217,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.871217,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c01",
+                "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c02",
+                "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c03",
+                "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c01",
+                "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c02",
+                "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c03",
+                "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c00"
+              ],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-1:p35:atropa-belladonna:section-aware-512-100-v1:c01",
+              "parent_chunk_id": "kohler-volume-1:p35:atropa-belladonna:page",
+              "pdf_page": 35,
+              "semantic_score": 0.759336,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.759336,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-1:p35:atropa-belladonna:section-aware-512-100-v1:c01",
+                "kohler-volume-1:p35:atropa-belladonna:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            }
+          ]
+        },
+        {
+          "query_id": "atropa-atropin-en",
+          "expected_status": "answerable",
+          "expanded_lexical_terms": [
+            "atropin"
+          ],
+          "answer_gate": "answerable_with_page_evidence",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c01",
+              "parent_chunk_id": "kohler-volume-1:p36:atropa-belladonna:page",
+              "pdf_page": 36,
+              "semantic_score": 0.802626,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.882626,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c01",
+                "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c02",
+                "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c03",
+                "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c01",
+                "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c02",
+                "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c03",
+                "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c00"
+              ],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-1:p35:atropa-belladonna:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-1:p35:atropa-belladonna:page",
+              "pdf_page": 35,
+              "semantic_score": 0.761918,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.761918,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-1:p35:atropa-belladonna:section-aware-512-100-v1:c00",
+                "kohler-volume-1:p35:atropa-belladonna:section-aware-512-100-v1:c01"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            }
+          ]
+        },
+        {
+          "query_id": "atropa-distribution-zh-tw",
+          "expected_status": "answerable",
+          "expanded_lexical_terms": [
+            "europa",
+            "mittelasien"
+          ],
+          "answer_gate": "answerable_with_page_evidence",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-1:p35:atropa-belladonna:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-1:p35:atropa-belladonna:page",
+              "pdf_page": 35,
+              "semantic_score": 0.772477,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.852477,
+              "has_required_book_term": true,
+              "matched_child_chunk_ids": [
+                "kohler-volume-1:p35:atropa-belladonna:section-aware-512-100-v1:c00",
+                "kohler-volume-1:p35:atropa-belladonna:section-aware-512-100-v1:c01"
+              ],
+              "supporting_child_chunk_ids": [
+                "kohler-volume-1:p35:atropa-belladonna:section-aware-512-100-v1:c00",
+                "kohler-volume-1:p35:atropa-belladonna:section-aware-512-100-v1:c01"
+              ],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c03",
+              "parent_chunk_id": "kohler-volume-1:p36:atropa-belladonna:page",
+              "pdf_page": 36,
+              "semantic_score": 0.751728,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.751728,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c03",
+                "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c02",
+                "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c01",
+                "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            }
+          ]
+        },
+        {
+          "query_id": "atropa-ambiguous-belladonna-zh-tw",
+          "expected_status": "ambiguous",
+          "expanded_lexical_terms": [],
+          "answer_gate": "refuse_no_book_relation",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c03",
+              "parent_chunk_id": "kohler-volume-1:p36:atropa-belladonna:page",
+              "pdf_page": 36,
+              "semantic_score": 0.778206,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.778206,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c03",
+                "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c02",
+                "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c01",
+                "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-1:p35:atropa-belladonna:section-aware-512-100-v1:c01",
+              "parent_chunk_id": "kohler-volume-1:p35:atropa-belladonna:page",
+              "pdf_page": 35,
+              "semantic_score": 0.763541,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.763541,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-1:p35:atropa-belladonna:section-aware-512-100-v1:c01",
+                "kohler-volume-1:p35:atropa-belladonna:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            }
+          ]
+        },
+        {
+          "query_id": "atropa-wrong-name-refusal-zh-tw",
+          "expected_status": "wrong_name",
+          "expanded_lexical_terms": [
+            "atropin"
+          ],
+          "answer_gate": "refuse_no_book_relation",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c01",
+              "parent_chunk_id": "kohler-volume-1:p36:atropa-belladonna:page",
+              "pdf_page": 36,
+              "semantic_score": 0.750464,
+              "lexical_coverage": 1.0,
+              "hybrid_score": 0.830464,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c01",
+                "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c03",
+                "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c02",
+                "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-1:p35:atropa-belladonna:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-1:p35:atropa-belladonna:page",
+              "pdf_page": 35,
+              "semantic_score": 0.731836,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.731836,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-1:p35:atropa-belladonna:section-aware-512-100-v1:c00",
+                "kohler-volume-1:p35:atropa-belladonna:section-aware-512-100-v1:c01"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            }
+          ]
+        },
+        {
+          "query_id": "atropa-chromosome-refusal-zh-tw",
+          "expected_status": "unanswerable",
+          "expanded_lexical_terms": [
+            "chromosom"
+          ],
+          "answer_gate": "refuse_no_book_relation",
+          "correct": true,
+          "top_parent_results": [
+            {
+              "chunk_id": "kohler-volume-1:p35:atropa-belladonna:section-aware-512-100-v1:c00",
+              "parent_chunk_id": "kohler-volume-1:p35:atropa-belladonna:page",
+              "pdf_page": 35,
+              "semantic_score": 0.733757,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.733757,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-1:p35:atropa-belladonna:section-aware-512-100-v1:c00",
+                "kohler-volume-1:p35:atropa-belladonna:section-aware-512-100-v1:c01"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 1
+            },
+            {
+              "chunk_id": "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c01",
+              "parent_chunk_id": "kohler-volume-1:p36:atropa-belladonna:page",
+              "pdf_page": 36,
+              "semantic_score": 0.709594,
+              "lexical_coverage": 0.0,
+              "hybrid_score": 0.709594,
+              "has_required_book_term": false,
+              "matched_child_chunk_ids": [
+                "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c01",
+                "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c03",
+                "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c02",
+                "kohler-volume-1:p36:atropa-belladonna:section-aware-512-100-v1:c00"
+              ],
+              "supporting_child_chunk_ids": [],
+              "rank": 2
+            }
+          ]
+        }
+      ],
+      "all_gates_pass": true
+    }
+  },
+  "selection_basis": "deterministic bilingual domain-term expansion + lexical/semantic fusion + parent-page collapse + exact book-term gate"
+}

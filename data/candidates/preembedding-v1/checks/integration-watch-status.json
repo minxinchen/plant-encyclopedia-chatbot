@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.0",
+  "started_at": "2026-08-13T13:19:08+08:00",
+  "status": "awaiting_postbatch_receipts",
+  "observed_batch_started_at": "2026-08-13T11:34:05+08:00",
+  "observed_batch_processed": 230,
+  "refresh_count": 2992,
+  "transient_errors": [
+    {
+      "at": "2026-08-16T00:37:13+08:00",
+      "batch_processed": 230,
+      "error": "st recent call last):\n  File \"/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/scripts/validate-preembedding-structure-integration.py\", line 1325, in <module>\n    main()\n    ~~~~^^\n  File \"/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/scripts/validate-preembedding-structure-integration.py\", line 1295, in main\n    write_jsonl(root / \"checks/structure-validation.jsonl\", checks)\n    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/scripts/validate-preembedding-structure-integration.py\", line 155, in write_jsonl\n    temporary.replace(path)\n    ~~~~~~~~~~~~~~~~~^^^^^^\n  File \"/opt/homebrew/Cellar/python@3.14/3.14.3_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/pathlib/__init__.py\", line 1091, in replace\n    os.replace(self, target)\n    ~~~~~~~~~~^^^^^^^^^^^^^^\nFileNotFoundError: [Errno 2] No such file or directory: '/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/checks/structure-validation.jsonl.tmp' -> '/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/checks/structure-validation.jsonl'"
+    },
+    {
+      "at": "2026-08-16T08:42:44+08:00",
+      "batch_processed": 230,
+      "error": "st recent call last):\n  File \"/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/scripts/validate-preembedding-structure-integration.py\", line 1325, in <module>\n    main()\n    ~~~~^^\n  File \"/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/scripts/validate-preembedding-structure-integration.py\", line 1295, in main\n    write_jsonl(root / \"checks/structure-validation.jsonl\", checks)\n    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/scripts/validate-preembedding-structure-integration.py\", line 155, in write_jsonl\n    temporary.replace(path)\n    ~~~~~~~~~~~~~~~~~^^^^^^\n  File \"/opt/homebrew/Cellar/python@3.14/3.14.3_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/pathlib/__init__.py\", line 1091, in replace\n    os.replace(self, target)\n    ~~~~~~~~~~^^^^^^^^^^^^^^\nFileNotFoundError: [Errno 2] No such file or directory: '/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/checks/structure-validation.jsonl.tmp' -> '/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/checks/structure-validation.jsonl'"
+    },
+    {
+      "at": "2026-08-19T02:58:49+08:00",
+      "batch_processed": 230,
+      "error": "FAIL: candidate validation-check chain mismatch: kohler-volume-1:p0009-p0012"
+    },
+    {
+      "at": "2026-08-19T21:22:41+08:00",
+      "batch_processed": 230,
+      "error": "st recent call last):\n  File \"/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/scripts/validate-preembedding-structure-integration.py\", line 1325, in <module>\n    main()\n    ~~~~^^\n  File \"/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/scripts/validate-preembedding-structure-integration.py\", line 1295, in main\n    write_jsonl(root / \"checks/structure-validation.jsonl\", checks)\n    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/scripts/validate-preembedding-structure-integration.py\", line 155, in write_jsonl\n    temporary.replace(path)\n    ~~~~~~~~~~~~~~~~~^^^^^^\n  File \"/opt/homebrew/Cellar/python@3.14/3.14.3_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/pathlib/__init__.py\", line 1091, in replace\n    os.replace(self, target)\n    ~~~~~~~~~~^^^^^^^^^^^^^^\nFileNotFoundError: [Errno 2] No such file or directory: '/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/checks/structure-validation.jsonl.tmp' -> '/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/checks/structure-validation.jsonl'"
+    }
+  ],
+  "safety": {
+    "model_calls": false,
+    "embedding_calls": false,
+    "external_api_calls": false,
+    "canonical_writes": false,
+    "taiwan_name_resolution": false,
+    "layout_or_plate_approval": false
+  },
+  "updated_at": "2026-08-19T21:40:56+08:00",
+  "observed_batch_status": "complete",
+  "detected_entries": 265,
+  "terminal_entries": 239,
+  "nonterminal_entries": 26,
+  "maker_receipts_checked": 231,
+  "maker_receipts_passed": 227,
+  "maker_receipts_needs_review": 4,
+  "needs_review_entry_ids": [
+    "kohler-volume-1:p0159-p0160",
+    "kohler-volume-2:p0089-p0092",
+    "kohler-volume-2:p0247-p0250",
+    "kohler-volume-2:p0477-p0482"
+  ],
+  "changed_strategy_repairs": 2,
+  "continuation_packages": 41,
+  "continuation_receipts_passed": 0,
+  "continuation_receipts_remaining": 41,
+  "continuation_receipts_needs_review": 0,
+  "content_recovery_packages": 9,
+  "content_recovery_receipts_passed": 0,
+  "content_recovery_receipts_needs_review": 0,
+  "unresolved_content_holds": 8,
+  "embedding_ready_text_candidates": 227,
+  "complete": false,
+  "last_integration_summary_sha256": "0ded35bb0c41800542fa9b9647773aafb17a68a667086948acd4316c04bf26be",
+  "last_completion_audit_sha256": "53f34b4c26547663bdfc0edad8c32d88df7d2d6abe8ee046a81c2493d659b88f",
+  "last_source_validation_sha256": "a1e7b9f267df26d00ed57caa92aeacd6b876d12119d2bff8879ac37f4b07cb06",
+  "source_pdfs_full_hash_verified": true,
+  "completion_requirements_achieved": 10,
+  "completion_requirements_total": 14
+}

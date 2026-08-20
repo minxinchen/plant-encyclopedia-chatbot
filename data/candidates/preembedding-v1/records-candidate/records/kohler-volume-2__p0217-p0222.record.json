@@ -1,0 +1,265 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0217-p0222",
+  "entry_id": "kohler-volume-2:p0217-p0222",
+  "owner_shard": "S03",
+  "book_taxon": {
+    "scientific_name": "Eugenia caryophyllata",
+    "authorship": "Thunberg",
+    "aliases": [
+      "Caryophyllus aromaticus L.",
+      "Eugenia aromatica Baill.",
+      "Myrtus caryophyllus Spr."
+    ]
+  },
+  "display_name": "丁香",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Eugenia caryophyllata"
+    ],
+    "accepted_scientific_name": "Eugenia caryophyllata",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T20:10:11+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Eugenia+caryophyllata",
+        "query_name": "Eugenia caryophyllata",
+        "retrieved_at": "2026-08-13T20:10:11+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0073915",
+        "query_name": "Eugenia caryophyllata",
+        "retrieved_at": "2026-08-13T20:10:11+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0073915",
+        "query_name": "Eugenia caryophyllata",
+        "retrieved_at": "2026-08-13T20:10:11+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL accepts the queried book binomial at species rank."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 217,
+      "evidence_type": "text",
+      "page_text_sha256": "9b71537d370b42108fadf7e9181589e462970efbc28e7488c56b29f546973ef4",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 218,
+      "evidence_type": "text",
+      "page_text_sha256": "f101e7f55005f12bd93ab416e2878e43c1970eb7f844415cc6c646e01576877b",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 220,
+      "evidence_type": "text",
+      "page_text_sha256": "1b95c169cb29c4977471c47bf25de059f514c4def3e0da90916934237f685b15",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0217-p0222:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                 Eugenia caryophyllata Thunberg.\n\n    Syn. Caryophyllus aromaticus L.                       Eugenia aromatica Baill.              Myrtus caryophyllus Spr.\n\n\n                                       Gewürznelkenbaum             —      Clove —     Giroffle.\n\n            Familie: Myrtaceae (Unterfamilie: Myrteae); Gattung: Eugenia Micheli.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名Eugenia caryophyllata，同義名Caryophyllus aromaticus。屬桃金娘科，德語稱Gewürznelkenbaum。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 217,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 0,
+        "char_end": 368,
+        "page_text_sha256": "9b71537d370b42108fadf7e9181589e462970efbc28e7488c56b29f546973ef4",
+        "exact_text_sha256": "bc1a176155f97b3ff97d8dd19631eb576429c8440f2c965a1c596c563906f582",
+        "source_line_start": 1,
+        "source_line_end": 8,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "bc1a176155f97b3ff97d8dd19631eb576429c8440f2c965a1c596c563906f582",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0217-p0222:s01:x00",
+      "section_type": "description",
+      "original_text": "           Beschreibung. Immergrüner, bis 12 Meter hoher Baum von pyramidalem Wuchse, mit\n zahlreichen, herabhüngenden oder wagerecht abstehenden, stielrunden Aesten, deren glatte Rinde eine\n gelbli    -ch\n            graue Färbung besitzt. Aestchen rundlich-vierkantig. Die mit ungefähr 3 Cm. langen Blatt-\n stielen versehenen Blätter lederig, 8 Ctm. lang, 3 Ctm. breit, länglich-elliptisch, keilfórmig in den Blatt-\n stiel verschmälert, stumpf zugespitzt, ganzrandig, etwas wellenfórmig, oberseits längsfurchig, glänzend-\n dunkelgrün, mit zahlreichen kleinen Oelräumen ausgestattet, unterseits blasser; vom Hauptnerven gehen\n zahlreiche, sehr dicht stehende, wenig hervortretende, am Rande bogig verbundene Seitennerven ab.",
+      "normalized_text": null,
+      "zh_tw_rendering": "常綠喬木，高至12米，樹冠金字塔形。葉革質，長8厘米，深綠色，具油室。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 217,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 370,
+        "char_end": 1095,
+        "page_text_sha256": "9b71537d370b42108fadf7e9181589e462970efbc28e7488c56b29f546973ef4",
+        "exact_text_sha256": "cdddd024a7791805be9de9aa5f81a766859c8ee251eb813fa21a4d41323a2c99",
+        "source_line_start": 10,
+        "source_line_end": 17,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "cdddd024a7791805be9de9aa5f81a766859c8ee251eb813fa21a4d41323a2c99",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0217-p0222:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "          Anatomisches.              Der aus dem Unterkelche gebildete Fruchtknoten besitzt eine derbe Rinde,\n deren Parenchym      die dicht unter          der Oberhaut      liegenden, zahlreichen,     2—3reihig     geordneten,       quer-\n ovalen Oelbehálter einschliesst und von einer knorpeligen, wellenfórmigen Oberhaut und einer Reihe\n Epidermalzellen bedeckt ist. Darauf folgt ein Kreis Gefässbündel, welcher die Rinde von dem\n schwammigen, in der Mitte wiederum mit einem Gefässbündel ausgestatteten Marke trennt. Die an\n Grösse verschiedenen,       von    einander ungleich entfernten,         durch schlaffes Parenchym       getrennten     Gefäss-\n bündel zeigen an ihrem Umfange            zerstreute,    oder    einen dichten    Kreis bildende,     verholzte    Fasern    und\nein Bastparenchym, dessen in Längsreihen geordnete, würfelige Zellen je eine morgensternartige Druse",
+      "normalized_text": null,
+      "zh_tw_rendering": "子房具厚皮，含油囊。維管束含木化纖維及含草酸鈣簇晶的薄壁組織。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 218,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 350,
+        "char_end": 1238,
+        "page_text_sha256": "f101e7f55005f12bd93ab416e2878e43c1970eb7f844415cc6c646e01576877b",
+        "exact_text_sha256": "a74d0a43342a365e4f2e1c2dd21a40439f3ce89236e994790ff4d00da6dbff0b",
+        "source_line_start": 6,
+        "source_line_end": 13,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "a74d0a43342a365e4f2e1c2dd21a40439f3ce89236e994790ff4d00da6dbff0b",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0217-p0222:s03:x00",
+      "section_type": "distribution",
+      "original_text": "          Vorkommen,               Ursprünglich auf den Molukken und südlichen Philippinen einheimisch, gegen-\nwärtig   auf   Sumatra,      Malacca,    auf    den   Mascarenen,       den westindischen    Inseln,   namentlich     aber    auf\nSansibar und auf der in der Nähe liegenden Insel Pemba kultivirt.                        Auf den Molukken erstreckt sich\ndie Kultur auf die südlich von Ceram gelegenen kleinen Inseln Amboina, Nusa-Laut,                      Saparua und Haruku.",
+      "normalized_text": null,
+      "zh_tw_rendering": "原產摩鹿加及菲律賓南部，現栽培於蘇門答臘、馬六甲、桑給巴爾及彭巴島。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 218,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2014,
+        "char_end": 2498,
+        "page_text_sha256": "f101e7f55005f12bd93ab416e2878e43c1970eb7f844415cc6c646e01576877b",
+        "exact_text_sha256": "533dc755d4eea92b131de98ad5d1e40babfb640bbe22ec312782c2243675c0bd",
+        "source_line_start": 25,
+        "source_line_end": 28,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "533dc755d4eea92b131de98ad5d1e40babfb640bbe22ec312782c2243675c0bd",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0217-p0222:s04:x00",
+      "section_type": "history",
+      "original_text": "          Name und Geschichtliches. Gewürznelken oder Gewürznägelein (althochd. necheleche,\nmittelhochd. nogelken, nágelin, nelgin, mittelniederd. Nalen, Nagelboum, bei Hildegard Nelchin) rührt\nvon der Form der Blüthenknospe her. Eugenia von Micheli zu Ehren des Prinzen Eugen von\nSavoyen, dem Förderer der botanischen Wissenschaften, so benannt. Caryophyllus aus naovoyv (Nuss,\nKern) und gvAAov Blatt, wegen des zwischen den Kelchblättern befindlichen, aus den gewölbten Kronen-\nblättern bestehenden, nussfórmigen Köpfchen.        Flückiger bezeichnet die Abstammung       von Caryo-\nphyllus (Garyophylion des Plinius, welcher damit ein nicht bestimmbares indisches Gewürz beze",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源於花蕾形狀。古埃及與中國早有使用。歐洲於4世紀由阿拉伯人引入。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 218,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 2500,
+        "char_end": 3178,
+        "page_text_sha256": "f101e7f55005f12bd93ab416e2878e43c1970eb7f844415cc6c646e01576877b",
+        "exact_text_sha256": "32ad3e8cfe8dd35b3b3f1601785e806797536b7d75aaa089e39080fcf2af3305",
+        "source_line_start": 30,
+        "source_line_end": 36,
+        "section_index": 4,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "32ad3e8cfe8dd35b3b3f1601785e806797536b7d75aaa089e39080fcf2af3305",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0217-p0222:s05:x00",
+      "section_type": "constituents",
+      "original_text": "          Bestandtheile         Nach   Tromsdorf        enthalten    die Nelken    in 100 Theilen:          18, ätherisches Oel,\n13 Gerbstoff, 6 fast geschmackloses Harz, :13 Gummi,                4 schwerlöslichen    Extraktivstoff mit etwas Gerb-\nstoff etc.; ferner Caryophyllin und Eugenin.\n          Bei der Destillation der Gewürznelken            erhält man bis 20%,           eines gelblichen oder braunen,\nschwer   flüchtigen Oeles,    das   sogen.   Nelkenöl,      welches     ein spez. Gew.         von   1,041—    1,060    und   den\nGeruch und Geschmack der Droge in hohem Maasse besitzt, bei — 259 noch flüssig bleibt. Es besteht\nzum grössten Theile aus Hugenol und zu einem geringen Theile aus einem Kohlenwasserstoff.",
+      "normalized_text": null,
+      "zh_tw_rendering": "含18%揮發油（主要為丁香酚）、單寧、樹脂及樹膠。丁香酚為無色油狀液體。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 220,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 938,
+        "char_end": 1669,
+        "page_text_sha256": "1b95c169cb29c4977471c47bf25de059f514c4def3e0da90916934237f685b15",
+        "exact_text_sha256": "2feba5cfd5a94a5dfe1c1aa8620a4b9d15635dadf21f7c1328deec0809f178d9",
+        "source_line_start": 13,
+        "source_line_end": 19,
+        "section_index": 5,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "2feba5cfd5a94a5dfe1c1aa8620a4b9d15635dadf21f7c1328deec0809f178d9",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "fee1271a7747e874e93b9e9a3da7515a2291788d7525f6511afe4c23436c18ed",
+    "maker_receipt_sha256": "32d51eec7a88e08371fa16ac3df7fd0fd9d80610941155ee426a991cf7e8838e",
+    "validation_check_sha256": "895b399f37dfd4d9d62d3d3ce5014143bcf83609a2b208744f763106bf29f67b",
+    "source_disposition_sha256": "9095380dfa2a4b3b52fcd7271f2881759ac07ea1dcde9cb5bcf1aea4ad8df298",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "32d51eec7a88e08371fa16ac3df7fd0fd9d80610941155ee426a991cf7e8838e",
+      "validation_check_sha256": "895b399f37dfd4d9d62d3d3ce5014143bcf83609a2b208744f763106bf29f67b",
+      "source_disposition_sha256": "9095380dfa2a4b3b52fcd7271f2881759ac07ea1dcde9cb5bcf1aea4ad8df298"
+    },
+    "naming_artifact_sha256": "b871951aa1e0bbb9a3e6d6638997093b479d3d9f49cd9641b5d976ff9ed3851b"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "8d273234217355df8980c749181ccfdbbe2e1faaefd52abb11bb98e8ad0908aa"
+}

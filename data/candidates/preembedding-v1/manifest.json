@@ -1,0 +1,259 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-08-13T11:17:26+08:00",
+  "pipeline_id": "preembedding-v1",
+  "purpose": "local-only maker staging before embedding",
+  "limits": {
+    "maximum_entry_pages": 6,
+    "maximum_concurrent_text_workers": 2,
+    "maximum_concurrent_ocr_workers": 1,
+    "maximum_concurrent_model_requests": 1
+  },
+  "totals": {
+    "pages": 1774,
+    "detected_entries": 265,
+    "eligible_local_structure_entries": 231,
+    "eligible_candidate_pages": 834,
+    "ocr_pages": 631,
+    "approved_pages_excluded": 25,
+    "work_items": 896
+  },
+  "disposition_counts": {
+    "eligible_local_structure": 231,
+    "already_approved_overlap": 8,
+    "hold_page_quality": 4,
+    "hold_span_over_limit": 18,
+    "hold_terminal_no_next_heading": 4
+  },
+  "shards": [
+    {
+      "schema_version": "1.0",
+      "shard_id": "S01",
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page_range": [
+        1,
+        120
+      ],
+      "page_count": 120,
+      "entry_count": 43,
+      "eligible_local_structure_count": 40,
+      "ocr_page_count": 7,
+      "work_item_count": 50,
+      "disposition_counts": {
+        "eligible_local_structure": 40,
+        "already_approved_overlap": 1,
+        "hold_page_quality": 2
+      },
+      "input_hashes": {
+        "pages_jsonl_sha256": "7d92026142a90cf1fece04f92e9e4238dd914b3f01933b5ddb1ed157c8ca8f9a",
+        "entries_jsonl_sha256": "2c37efbbcddfcdc8ff8bb25b0f1d3c81c0fc47f88a8b4a3a5230226702c15548",
+        "ocr_jsonl_sha256": "592213350e469465295b681ed6895e0508a72eb9a5f2b08a4e5259bd097aa0a2",
+        "work_items_jsonl_sha256": "0904566e40dc1f0352ffd551d9a574c7286ad2f537afd3b721c23d1a0e601b85"
+      },
+      "write_scope": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S01/maker",
+      "canonical_write_allowed": false
+    },
+    {
+      "schema_version": "1.0",
+      "shard_id": "S02",
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page_range": [
+        121,
+        410
+      ],
+      "page_count": 290,
+      "entry_count": 38,
+      "eligible_local_structure_count": 33,
+      "ocr_page_count": 179,
+      "work_item_count": 217,
+      "disposition_counts": {
+        "hold_page_quality": 2,
+        "eligible_local_structure": 33,
+        "already_approved_overlap": 1,
+        "hold_span_over_limit": 1,
+        "hold_terminal_no_next_heading": 1
+      },
+      "input_hashes": {
+        "pages_jsonl_sha256": "49abc9014e052a0c5a3318123b16b86470db9636820a5359d7af22be78161887",
+        "entries_jsonl_sha256": "2d90749a3dbaff4dd87124faf99960a6a5a3ecbec850a7fb94b88389667e1d5c",
+        "ocr_jsonl_sha256": "4049ac61b0d62383d5c4affb88cf4810b4198d21b64dc8be742b45dc3a4fac27",
+        "work_items_jsonl_sha256": "e5e959c0616552f2791ff96d1bffc3c0dfd90686587f327a1345190fa413dcf8"
+      },
+      "write_scope": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S02/maker",
+      "canonical_write_allowed": false
+    },
+    {
+      "schema_version": "1.0",
+      "shard_id": "S03",
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page_range": [
+        1,
+        280
+      ],
+      "page_count": 280,
+      "entry_count": 50,
+      "eligible_local_structure_count": 44,
+      "ocr_page_count": 5,
+      "work_item_count": 55,
+      "disposition_counts": {
+        "eligible_local_structure": 44,
+        "already_approved_overlap": 2,
+        "hold_span_over_limit": 4
+      },
+      "input_hashes": {
+        "pages_jsonl_sha256": "f507ff53256ec2e176d4619e374e38120fdfef79845aa1d39026fc94c361cf01",
+        "entries_jsonl_sha256": "d6533716d22a5d6173b1a0492a88120f980676c89e145efb40248fc964606334",
+        "ocr_jsonl_sha256": "1059f051a6c0e40d0b9bdfdf8082982ae7c31d6d165893b7bb05d0860a832f90",
+        "work_items_jsonl_sha256": "1d8b16e1605b33e9aa6d11181dc8d1cc6d4761a7743df32f34b5cb114c8b6da0"
+      },
+      "write_scope": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S03/maker",
+      "canonical_write_allowed": false
+    },
+    {
+      "schema_version": "1.0",
+      "shard_id": "S04",
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page_range": [
+        281,
+        504
+      ],
+      "page_count": 224,
+      "entry_count": 52,
+      "eligible_local_structure_count": 46,
+      "ocr_page_count": 6,
+      "work_item_count": 58,
+      "disposition_counts": {
+        "eligible_local_structure": 46,
+        "already_approved_overlap": 2,
+        "hold_span_over_limit": 4
+      },
+      "input_hashes": {
+        "pages_jsonl_sha256": "4f64064ba2e34a48fcc0dce9e96900fb1705c5c4707ffa9df71b732ae2607147",
+        "entries_jsonl_sha256": "3a11ab072c2c074d39059131e38601b7a6038da9cedfb3aa9b2f11886fcd7d63",
+        "ocr_jsonl_sha256": "fc535121b879c2ab17bdedb213293cb2a40e03106dac3769a18cf7ac76c85d0e",
+        "work_items_jsonl_sha256": "8814abcc7a8ebf6b33bd1eecce396faf7f00ca61729b0a3b2b174bd517b334c6"
+      },
+      "write_scope": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S04/maker",
+      "canonical_write_allowed": false
+    },
+    {
+      "schema_version": "1.0",
+      "shard_id": "S05",
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page_range": [
+        505,
+        738
+      ],
+      "page_count": 234,
+      "entry_count": 1,
+      "eligible_local_structure_count": 0,
+      "ocr_page_count": 229,
+      "work_item_count": 230,
+      "disposition_counts": {
+        "hold_terminal_no_next_heading": 1
+      },
+      "input_hashes": {
+        "pages_jsonl_sha256": "2d08415040dcf61f88ac716a1e5b7086bb2d44ee9c7329f8567e2af06161212d",
+        "entries_jsonl_sha256": "5b2d7771104b88ee6eaaedd761269051675fd616f5342ebc5ca7c378109e1a1e",
+        "ocr_jsonl_sha256": "bb39515f88838d8170338224f399d3ecd04fad4135d6a97c13553d4734342a0e",
+        "work_items_jsonl_sha256": "65dce25379e95ec45d583379aca3eb2c88849ecca8611d38f8d2107a2f1bf501"
+      },
+      "write_scope": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S05/maker",
+      "canonical_write_allowed": false
+    },
+    {
+      "schema_version": "1.0",
+      "shard_id": "S06",
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page_range": [
+        1,
+        204
+      ],
+      "page_count": 204,
+      "entry_count": 32,
+      "eligible_local_structure_count": 27,
+      "ocr_page_count": 5,
+      "work_item_count": 37,
+      "disposition_counts": {
+        "eligible_local_structure": 27,
+        "hold_span_over_limit": 4,
+        "already_approved_overlap": 1
+      },
+      "input_hashes": {
+        "pages_jsonl_sha256": "6ae214c4cf59388e0d534ec728ed996a470467fd86386886b817dd4b9ae7b665",
+        "entries_jsonl_sha256": "5d945d3ed82038ea58ad0654388aa4270a59f1d1b44c875a17ffcf0591b1ca00",
+        "ocr_jsonl_sha256": "5153768d344d19e0c514b677897a1338ca8b3155517b5d790bef0a915b6aa387",
+        "work_items_jsonl_sha256": "a7490ea4233dfcf3b9ac02c61202a93dccd63de9133cd6e57cac49fb3e0c6514"
+      },
+      "write_scope": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S06/maker",
+      "canonical_write_allowed": false
+    },
+    {
+      "schema_version": "1.0",
+      "shard_id": "S07",
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page_range": [
+        205,
+        536
+      ],
+      "page_count": 332,
+      "entry_count": 36,
+      "eligible_local_structure_count": 32,
+      "ocr_page_count": 159,
+      "work_item_count": 195,
+      "disposition_counts": {
+        "eligible_local_structure": 32,
+        "hold_span_over_limit": 3,
+        "hold_terminal_no_next_heading": 1
+      },
+      "input_hashes": {
+        "pages_jsonl_sha256": "fdf89014d6307bcc6059f7d77122b05bca6a9641a3e5ca035d9095538473ede4",
+        "entries_jsonl_sha256": "e9f74d2d6c020ed1751e2e68c7716dd62dcb85fc4084cb345fe45c528434372c",
+        "ocr_jsonl_sha256": "48f3bede28e3ccc8b371f4bf9a68281d79180af0d31ebbb9f4135fdf5c6342fb",
+        "work_items_jsonl_sha256": "767774c9383f6e9ff84ee9ff7d661235e2885000d7e8393a76094abd31107e80"
+      },
+      "write_scope": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S07/maker",
+      "canonical_write_allowed": false
+    },
+    {
+      "schema_version": "1.0",
+      "shard_id": "S08",
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page_range": [
+        1,
+        90
+      ],
+      "page_count": 90,
+      "entry_count": 13,
+      "eligible_local_structure_count": 9,
+      "ocr_page_count": 41,
+      "work_item_count": 54,
+      "disposition_counts": {
+        "hold_span_over_limit": 2,
+        "eligible_local_structure": 9,
+        "already_approved_overlap": 1,
+        "hold_terminal_no_next_heading": 1
+      },
+      "input_hashes": {
+        "pages_jsonl_sha256": "e43554560c3898ee818f7cd74f947d4e70cf8df00f8189a76994f6d2cbf1aa77",
+        "entries_jsonl_sha256": "89ae87a2f2d6583a6de7ef0a7e638ef6b4bbb74a8ec3887546f8dbc17e897242",
+        "ocr_jsonl_sha256": "1b019129a4e3754b7ecaf2d2e8077ec161b266d7ddba37b382725641ebbb18cc",
+        "work_items_jsonl_sha256": "efd3c8e9380c666687cd5822ae1646ec7b9d96199a731b73ff9f1cd3ff08b9a2"
+      },
+      "write_scope": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S08/maker",
+      "canonical_write_allowed": false
+    }
+  ],
+  "canonical_write_allowed": false,
+  "embedding_calls_allowed": false,
+  "external_api_calls_allowed": false,
+  "promotion_rule": "Only the single integrator may promote deterministic-pass staging artifacts after Taiwan-name and visual gates."
+}

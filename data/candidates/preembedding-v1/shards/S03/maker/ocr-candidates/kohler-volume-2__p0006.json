@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 6,
+  "owner_shard": "S03",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "render_dpi": 144,
+  "render_sha256": "3bb5dfeff8b1ec2d88b581d868e30c9c9558d9861e59f17eafa399a541f5bc49",
+  "engine": "Apple Vision VNRecognizeTextRequest accurate",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 22.666,
+  "embedded_character_count": 0,
+  "ocr_character_count": 74,
+  "ocr_alpha_ratio": 0.8243,
+  "candidate_disposition": "candidate_quality_gain",
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.3,
+      "height": 0.03750004465617829,
+      "text": "di ponisr g8foin",
+      "width": 0.39024391755234766,
+      "x": 0.31707316366285054,
+      "y": 0.7083333106302442
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.029069841854156064,
+      "text": "gonr garopyrnopnsaren Tronm",
+      "width": 0.6199575400680974,
+      "x": 0.2016985079277348,
+      "y": 0.6191860095961778
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.052629467040773426,
+      "text": "НЕВХО0 КУВЕ ТИ ВУЛЕКИ",
+      "width": 0.885006755914612,
+      "x": 0.06662887345556899,
+      "y": 0.4975888603219809
+    },
+    {
+      "confidence": 1,
+      "height": 0.025191982587178585,
+      "text": "DE TTED",
+      "width": 0.18697188434780632,
+      "x": 0.41394505687022365,
+      "y": 0.45760749716327975
+    }
+  ],
+  "text": "di ponisr g8foin\ngonr garopyrnopnsaren Tronm\nНЕВХО0 КУВЕ ТИ ВУЛЕКИ\nDE TTED",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-ocr-sha256=e54202ae838c94203816fd3331f4c37f7acac436188d481eab506c540c3d66d6",
+  "input_sha256": "3bb5dfeff8b1ec2d88b581d868e30c9c9558d9861e59f17eafa399a541f5bc49",
+  "output_sha256": "f24bf8faf5a1e0a6252d868002029d01c7fe5bda551de1eb3215257bfc9d3dd4",
+  "staging_disposition": "candidate_quality_gain",
+  "terminal": true,
+  "receipt_sha256": "e1d57fb3f27fcbae3c9b5402aef856cd7f9da119760f681d94c18536f34ec089"
+}

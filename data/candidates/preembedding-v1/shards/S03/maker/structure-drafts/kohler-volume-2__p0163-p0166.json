@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0163-p0166",
+  "owner_shard": "S03",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 156.883,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0163-p0166",
+    "book_taxon": {
+      "scientific_name_candidate": "Styrax Benzoin",
+      "authorship_candidate": "Dryander",
+      "aliases_candidates": [
+        "Laurus Benzoin Houtt.",
+        "Benzoin officinale Hayne",
+        "Lithocarpus Benzoin Blume"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 163,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Styrax Benzoin，同義名包括 Laurus Benzoin 及 Lithocarpus Benzoin，屬安息香科。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          5
+        ],
+        "exact_source_quote": "                                       Styrax Benzoin Dryander.\n   Syn.: Laurus Benzoin Houtt.                     Benzoin officinale Hayne.             Lithocarpus Benzoin       Blume.\n\n                                  Benzoé-Storaxbaum 一                 Benjoin —       Benzoin.\n           Familie:      Styraceae.     Gattung: Styrax Tourn."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 163,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "中等大小樹木，樹幹粗壯，葉互生，花序為總狀，果實球形不裂，種子具六條縱紋。",
+        "warnings": [],
+        "source_line_range": [
+          6,
+          30
+        ],
+        "exact_source_quote": "           Beschreibung:            Baum     von    mittlerer     Grösse,   mit   mannsdickem    Stamme,   schóner    Krone,\n grünbrauner, innen braunschwarzer Rinde, braunrothem Holze und sternhaarig bráunlich-filzigen jüngeren\n Zweigen. Blätter abwechselnd, nebenblattlos, mit 1 Ctm. langem, rostbraun-filzigem Blattstiel; Blatt\n bis 11 Ctm. lang, bis 41], Ctm. breit, eiförmig-länglich, lang zugespitzt, mit unregelmässig ausge-\n schweift-gezähntem Rande, oberseits wenig glänzend und kahl, unterseits dicht und kurz weisslich-\n sternfilzig. Die starken Nerven und das feine Adernetz rostbraun-schülfrig; auf jeder Seite der Mittel.\n nerven etwa 10 Hauptadern bogenförmig nach dem Rande verlaufend. Blüthenstand eine achsel- und\n  endständige, zusammengesetzte, rispige, gestielte Traube bildend; Spindel und Blüthenstiele weiss,\n sternfilzig; Brakteen klein und hinfällig. Kelch unterstándig, glockenfórmig, abgestutzt, mit schwach\n  özähnigen   Rande,    aussen    dicht silberweiss-seidenhaarig,       innen rothbraun, bleibend.    Krone unterständig,\n tief 5theilig, mit lanzettfórmigen, in der Knospe klappigen Abschnitten, deren Länge das 3fache der\n  mit dem Kelche gleichlangen Róhre betrügt, aussen und am Rande dicht silberweiss-seidenhaarig, innen\n braunroth und fast kahl, abfallend. Staubgefässe 8—10, wenig kürzer als die Krone; Staubfüden im\n untern Theile unter sich zu einer, der Blumenróhre entspringenden Röhre verwachsen, der obere\n freie Theil halb so lang als die Róhre; Staubbeutel linienförmig, 2fücherig, von der doppelten Länge\n der freien Staubfüden, mit breitem, braunrothem Connektiv und schmalen, gelben, der Länge nach\n  seitlich aufspringenden Fächern. Pollen gelb, elliptisch, tief 3furchig, 9porig, unter Wasser rundlich.\n Stempel oberständig, mit eifórmigem, dicht weisslich-zottigem, unten 2—3-, oben lfücherigem Frucht-\n knoten, fadenfórmigem, fast kahlem, braunrothem Griffel und stumpfer Narbe. Samenträger bis zur\n halben Hóhe des Fruchtknotens scheidewandartig in der Mitte verwachsen und in Folge dessen der\n untere Theil des Fruchtknotens 3fächerig erscheinend. Eichen meist 6 in jedem Fache, 2reihig dem\n innern Fachwinkel entspringend, aufsteigend.      Frucht niedergedrückt kugelig, runzelig-graubraun,\n nicht aufspringend, holzig, 1fácherig und nur lsamig. Same nussartig, röthlichkastanienbraun, mit 6\n hellen Längsstreifen. Kern ochergelb; Embryo schwach gekrümmt, in der Achse des fleischigen Eiweiss.\n Samenlappen blattartig; Würzelchen länglich, nach unten gekehrt."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 163,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "產於蘇門答臘及爪哇，蘇門答臘地區於稻田邊緣栽培，暹羅安息香來源未定。",
+        "warnings": [],
+        "source_line_range": [
+          33,
+          35
+        ],
+        "exact_source_quote": "           Vorkommen.            Auf   Sumatra      und   Java.     Ob die aus Hinterindien       stammende     Siam-Benzoö\n von demselben Baume gewonnen wird, ist noch nicht erwiesen.                         Auf Sumatra wird Styrax Benzoin\n am   Rande   der Reisfelder kultivirt."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 163,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源自阿拉伯語，1461 年經埃及蘇丹贈送威尼斯，16 世紀成為貿易商品。",
+        "warnings": [],
+        "source_line_range": [
+          37,
+          47
+        ],
+        "exact_source_quote": "           Name und Geschichtliches. Benzoé, vom arabischen ben Wohlgeruch oder vom hebräischen\n 21 ben   Zweig,   NY   zoa Auswurf,       d. h. Saft der Zweige, oder vom          arabischen   Luban djawi,    Weihrauch\n von Java, welches Wort in Banjawi, Benjui, Been, 38 umgewandelt worden ist.\n         Lithocarpus von Av90g Stein und xaozroc Frucht, wegen der harten Frucht.\n          Griechen, Römer und Araber früherer Zeit haben Benzo’ nicht gekannt. Nach Flückiger\nist der berühmte arabische Reisende Ibn Batuta (1304—1378) der erste, welcher auf seiner indischen\n Reise Benzoé (Luban djawi) kennen lernte und sie unter den Produkten Sumatra's (damals Java oder Klein-                       ~\n Java genannt) aufführte.        Die Droge selbst scheint nach dem Abendlande nicht vor 1461 gekommen zu\n\n\n                                                                                                                        118"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 165,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含樹脂、苯甲酸及肉桂酸，不同產地成分比例有異，暹羅安息香含香草素。",
+        "warnings": [],
+        "source_line_range": [
+          8,
+          19
+        ],
+        "exact_source_quote": "          Bestandtheile.           Die Untersuchungen         der Benzoé        von John,          Buchholz,     Stoltze,     Brandes\nu. A. haben folgendes Ergebniss geliefert: bis 84 °% Harz; bis 20%, Benzoésáure (Zimmtsäure), 1,7%\nbalsamische Materie, 0,5°/, aromatischen Extraktivstoffe, 2| Holzfaser und fremde Beimengungen,\n0,7%, Salze. Stolen fand in der weissen Benzoé: Spur von ätherischem Oele, 19,8%, Benzoé-\nsáure, 19,8%, gelbes, in Aether lösliches, 0,2?/, braunes, in Aether unlösliches Harz, in der Mandel-\nBenzoé: Spur von ätherischem Oele, 19,4?/, Benzoés&ure, 27,1 0 gelbes, in Aether lósliches, und\n50,5 |, in Aether unlösliches Harz, 0,2%, aromatischen Extraktivstoff, 2,6%, Holzfaser und Bei-\nmengungen; in der braunen Benzoé: Spur von ätherischem Oele, 19,7ly Benzoösäure, 8,3%, gelbes,\nin Aether    lósliches,     67,7%,   in Aether       unlösliches     Harz,          0,1%,   aromatischen       Extraktivstoff,   1,4%\nHolzfaser und Beimengungen. Kopp fand neben 14—15°/, Benzoésiure folgende Harze: 48-520\nAlphaharz, 25—28 %, Betaharz, 3—3,5 ‫او‬‎ Gammaharz, 0,5—0,8*/, Deltaharz, 5,2—5,5°|) Beimengungen.\nKopp fand m der Siam-Benzoé Vanillin."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 165,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史上用作薰香及化妝品，內服用於慢性呼吸道疾病，苯甲酸作祛痰劑。",
+        "warnings": [
+          "Content describes historical medical use; not modern medical advice."
+        ],
+        "source_line_range": [
+          56,
+          61
+        ],
+        "exact_source_quote": "          Anwendung.     Als Räuchermittel, Cosmetikum, und die Siamsorte zur Darstellung der\n Benzoésáure. Husemann äussert sich über Benzoé wie folgt: Die innerliche Anwendung der Benzoé\n als Balsamicum bei chronischen Respirationskatarrhen und gegen Incontinentia urinae kann als auf-\n\n\n                                                                                                                                    113"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "2a1d2488f4e57de92e92836f29378a772648e6f29fc5bf8bb87ac08ace72aaf6"
+}

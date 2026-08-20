@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 313,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "337f4675dd4f1367aeb32e40fac0c466cb787f246ccc71606180ae1ef4b32a5e",
+  "render_dpi": 144,
+  "render_sha256": "91cb90376bd461de8cfe6a2b2eb4d0b94abb0fc3b89310e385aa7e404342d8c4",
+  "input_sha256": "91cb90376bd461de8cfe6a2b2eb4d0b94abb0fc3b89310e385aa7e404342d8c4",
+  "render_pixel_width": 5558,
+  "render_pixel_height": 8006,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.214,
+  "embedded_character_count": 219,
+  "ocr_character_count": 52,
+  "ocr_alpha_ratio": 0.6923,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.019344117906358482,
+      "text": "Labiatae.",
+      "width": 0.08389009203229625,
+      "x": 0.8513603940121294,
+      "y": 0.9241942201491798
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883082859107,
+      "text": "15",
+      "width": 0.020920501436506006,
+      "x": 0.19246861951486116,
+      "y": 0.7122093027484375
+    },
+    {
+      "confidence": 1,
+      "height": 0.01316214459283005,
+      "text": "WMüller n d.Nat.",
+      "width": 0.0732217570713588,
+      "x": 0.8744769868408896,
+      "y": 0.15697674406936724
+    },
+    {
+      "confidence": 1,
+      "height": 0.025010930167304157,
+      "text": "Thymus Serpyllum I.",
+      "width": 0.21973526000976568,
+      "x": 0.38908634524545943,
+      "y": 0.11612825559899942
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "39",
+      "width": 0.018828451974051363,
+      "x": 0.9163179916071166,
+      "y": 0.04215116274042585
+    }
+  ],
+  "text": "Labiatae.\n15\nWMüller n d.Nat.\nThymus Serpyllum I.\n39",
+  "output_sha256": "9ffa53ed78b8e6563f8e0fc26699ca6f14d1d42618b0e0d52271fbf376cf7ba0",
+  "receipt_sha256": "85dec9563333ef447709842be942ca8f39cc1a797668825155f049e32b8c7f18"
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 549,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "render_dpi": 144,
+  "render_sha256": "fa680125dec22fd3da74d91a26c6441b282bc032a7f941d152477abc4fef489e",
+  "input_sha256": "fa680125dec22fd3da74d91a26c6441b282bc032a7f941d152477abc4fef489e",
+  "render_pixel_width": 5630,
+  "render_pixel_height": 7934,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.141,
+  "embedded_character_count": 0,
+  "ocr_character_count": 34,
+  "ocr_alpha_ratio": 0.8824,
+  "candidate_disposition": "candidate_quality_gain",
+  "staging_disposition": "candidate_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.02180232509734137,
+      "text": "Piperaceae.",
+      "width": 0.12474437529685867,
+      "x": 0.7321063391664993,
+      "y": 0.9084302325276374
+    },
+    {
+      "confidence": 1,
+      "height": 0.017684020693339964,
+      "text": "Cubeba",
+      "width": 0.07634301122296194,
+      "x": 0.36571397442416503,
+      "y": 0.10961729189410441
+    },
+    {
+      "confidence": 1,
+      "height": 0.022124290466308594,
+      "text": "officinalis Miq",
+      "width": 0.17799205766700515,
+      "x": 0.4641737070568435,
+      "y": 0.10449018013336486
+    }
+  ],
+  "text": "Piperaceae.\nCubeba\nofficinalis Miq",
+  "output_sha256": "70afd4b67a0397dcbdcef664f8f615802977842c10a24aa767d4d5f315f5fd7c",
+  "receipt_sha256": "dcb256839509dabc5b9a0038acfe285a2ba1865a284d6799865b0b0a63f502e1"
+}

@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0",
+  "pipeline_id": "preembedding-v1",
+  "checked_at": "2026-08-13T20:53:21+08:00",
+  "mode": "full_sha256",
+  "source_manifest_path": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/source-manifest.json",
+  "source_receipt_path": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/source-receipt.json",
+  "source_receipt_sha256": "e27b5c32436a9ca1d5ed2a33ddbe82f28524158866bc2c90baa592b5c0aff15d",
+  "files": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "path": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+      "exists": true,
+      "expected_bytes": 953725711,
+      "observed_bytes": 953725711,
+      "bytes_match": true,
+      "expected_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+      "observed_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+      "sha256_matches": true
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "path": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+      "exists": true,
+      "expected_bytes": 71025759,
+      "observed_bytes": 71025759,
+      "bytes_match": true,
+      "expected_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "observed_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "sha256_matches": true
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "path": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+      "exists": true,
+      "expected_bytes": 54853014,
+      "observed_bytes": 54853014,
+      "bytes_match": true,
+      "expected_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "observed_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+      "sha256_matches": true
+    },
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "path": "/Volumes/NO NAME/第四集 mobot31753003431696.pdf",
+      "exists": true,
+      "expected_bytes": 1803161602,
+      "observed_bytes": 1803161602,
+      "bytes_match": true,
+      "expected_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+      "observed_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+      "sha256_matches": true
+    }
+  ],
+  "file_count": 4,
+  "full_hash_verified": true,
+  "errors": [],
+  "status": "PASS",
+  "check_sha256": "a1e7b9f267df26d00ed57caa92aeacd6b876d12119d2bff8879ac37f4b07cb06"
+}

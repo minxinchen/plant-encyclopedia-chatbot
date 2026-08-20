@@ -1,0 +1,222 @@
+{
+  "schema_version": "1.0",
+  "pipeline_id": "preembedding-v1",
+  "audited_at": "2026-08-20T19:57:40+08:00",
+  "status": "in_progress",
+  "requirements": [
+    {
+      "requirement_id": "detected-entry-inventory",
+      "description": "Frozen inventory contains exactly 265 mutually tracked detected entries.",
+      "expected": 265,
+      "observed": 265,
+      "status": "achieved",
+      "evidence_paths": [
+        "manifest.json",
+        "integration/entry-dispositions.jsonl"
+      ]
+    },
+    {
+      "requirement_id": "local-maker-batch",
+      "description": "All 231 eligible local structure entries have maker receipts and the primary batch is complete.",
+      "expected": {
+        "receipts": 231,
+        "batch_status": "complete"
+      },
+      "observed": {
+        "receipts": 231,
+        "batch_status": "complete"
+      },
+      "status": "achieved",
+      "evidence_paths": [
+        "batch-status.json",
+        "checks/structure-validation.jsonl"
+      ]
+    },
+    {
+      "requirement_id": "deterministic-maker-validation",
+      "description": "Every maker receipt has a deterministic source/hash/schema terminal validation.",
+      "expected": {
+        "checked": 231,
+        "needs_review": 0
+      },
+      "observed": {
+        "checked": 231,
+        "needs_review": 0,
+        "entry_ids": []
+      },
+      "status": "achieved",
+      "evidence_paths": [
+        "checks/structure-validation.jsonl",
+        "structure/deterministic-repairs.jsonl"
+      ]
+    },
+    {
+      "requirement_id": "span-over-limit-continuations",
+      "description": "All 18 over-limit parents are split into traceable work packages of at most six pages.",
+      "expected": {
+        "parents": 18,
+        "maximum_pages": 6
+      },
+      "observed": {
+        "parents": 18,
+        "packages": 41,
+        "maximum_pages": 6
+      },
+      "status": "achieved",
+      "evidence_paths": [
+        "structure/continuation-work-packages.jsonl",
+        "integration/entry-dispositions.jsonl"
+      ]
+    },
+    {
+      "requirement_id": "continuation-receipts-complete",
+      "description": "All 41 continuation packages have deterministic-pass receipts and all 18 parents are integrated.",
+      "expected": {
+        "receipts": 41,
+        "needs_review": 0,
+        "validated_parents": 18
+      },
+      "observed": {
+        "receipts": 10,
+        "passed": 7,
+        "needs_review": 3,
+        "validated_parents": 2
+      },
+      "status": "in_progress",
+      "evidence_paths": [
+        "checks/continuation-validation.jsonl",
+        "structure/continuation-maker-receipts/",
+        "integration/entry-dispositions.jsonl"
+      ]
+    },
+    {
+      "requirement_id": "terminal-no-next-heading",
+      "description": "The frozen inventory retains all four terminal-no-next-heading parents for deterministic boundary recovery tracking.",
+      "expected": 4,
+      "observed": 4,
+      "status": "achieved",
+      "evidence_paths": [
+        "integration/entry-dispositions.jsonl"
+      ]
+    },
+    {
+      "requirement_id": "page-quality-holds",
+      "description": "The frozen inventory retains all four page-quality parent entries for deterministic recovery tracking.",
+      "expected": 4,
+      "observed": 4,
+      "status": "achieved",
+      "evidence_paths": [
+        "integration/entry-dispositions.jsonl"
+      ]
+    },
+    {
+      "requirement_id": "content-hold-recovery-complete",
+      "description": "All nine recovery packages pass and all eight prior content-hold parents have resolved dispositions.",
+      "expected": {
+        "receipts": 9,
+        "needs_review": 0,
+        "recovered_parents": 8,
+        "unresolved_content_holds": 0
+      },
+      "observed": {
+        "receipts": 0,
+        "passed": 0,
+        "needs_review": 0,
+        "recovered_parents": 0,
+        "unresolved_content_holds": 8
+      },
+      "status": "in_progress",
+      "evidence_paths": [
+        "structure/content-recovery-work-packages.jsonl",
+        "structure/recovery-maker-receipts/",
+        "checks/content-recovery-validation.jsonl",
+        "integration/entry-dispositions.jsonl"
+      ]
+    },
+    {
+      "requirement_id": "approved-overlap-dispositions",
+      "description": "Eight approved overlaps retain record references and are not duplicated by the maker.",
+      "expected": 8,
+      "observed": 8,
+      "status": "achieved",
+      "evidence_paths": [
+        "integration/entry-dispositions.jsonl",
+        "../../records/"
+      ]
+    },
+    {
+      "requirement_id": "all-entry-terminal-disposition",
+      "description": "All 265 detected entries have terminal dispositions.",
+      "expected": 265,
+      "observed": 241,
+      "status": "in_progress",
+      "evidence_paths": [
+        "integration/entry-dispositions.jsonl",
+        "checks/integration-summary.json"
+      ]
+    },
+    {
+      "requirement_id": "exact-source-locators",
+      "description": "All 265 entries retain page, char, exact-text, page-text and source-PDF hashes.",
+      "expected": 265,
+      "observed": 265,
+      "status": "achieved",
+      "evidence_paths": [
+        "integration/entry-dispositions.jsonl",
+        "source-receipt.json"
+      ]
+    },
+    {
+      "requirement_id": "source-pdf-byte-hashes",
+      "description": "All four currently mounted source PDFs match the frozen source receipt byte-for-byte by SHA-256.",
+      "expected": {
+        "files": 4,
+        "full_hash_verified": true
+      },
+      "observed": {
+        "files": 4,
+        "mode": "full_sha256",
+        "full_hash_verified": true,
+        "errors": []
+      },
+      "status": "achieved",
+      "evidence_paths": [
+        "source-receipt.json",
+        "checks/source-receipt-validation.json"
+      ]
+    },
+    {
+      "requirement_id": "embedding-ready-candidate-manifest",
+      "description": "A staging-only embedding-ready candidate manifest is generated from validated text sections.",
+      "expected": {
+        "generated": true,
+        "candidate_count_matches": true
+      },
+      "observed": {
+        "generated": true,
+        "status": "incomplete_awaiting_local_maker",
+        "candidate_count": 233,
+        "candidate_count_matches": true
+      },
+      "status": "achieved",
+      "evidence_paths": [
+        "integration/embedding-ready-candidate-manifest.json"
+      ]
+    },
+    {
+      "requirement_id": "safety-boundaries",
+      "description": "No Taiwan name is guessed; no layout/plate claim, canonical write, embedding call or external API is approved.",
+      "expected": true,
+      "observed": true,
+      "status": "achieved",
+      "evidence_paths": [
+        "integration/entry-dispositions.jsonl",
+        "integration/embedding-ready-candidate-manifest.json"
+      ]
+    }
+  ],
+  "achieved_requirements": 11,
+  "total_requirements": 14,
+  "overall_complete": false,
+  "audit_sha256": "157fae6331cfad0a9dd9a4538bf80bb447b34d7caa7a61a066f05e65f16300bd"
+}

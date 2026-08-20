@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 709,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "4509c58b6899e68f2be2faff3d7b3ccd1227f4b5806487a88e497f0f875f3fb2",
+  "render_dpi": 144,
+  "render_sha256": "26042028323068f08349b1b123b411ed1741b4d28a674ac1950b00ff8d73ce59",
+  "input_sha256": "26042028323068f08349b1b123b411ed1741b4d28a674ac1950b00ff8d73ce59",
+  "render_pixel_width": 5726,
+  "render_pixel_height": 7898,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.381,
+  "embedded_character_count": 124,
+  "ocr_character_count": 49,
+  "ocr_alpha_ratio": 0.6939,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.020567237384735648,
+      "text": "Ranunculaceae.",
+      "width": 0.15235982286946392,
+      "x": 0.8216156799487266,
+      "y": 0.9301233583058908
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "B",
+      "width": 0.010020040128527807,
+      "x": 0.33466933852792047,
+      "y": 0.33139534914040913
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "13",
+      "width": 0.018036071318118907,
+      "x": 0.5611222448185624,
+      "y": 0.28343023262314626
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "10",
+      "width": 0.018036071318118907,
+      "x": 0.1282565133790167,
+      "y": 0.2441860467893917
+    },
+    {
+      "confidence": 1,
+      "height": 0.02508568858343463,
+      "text": "Hÿdrastis canadensis L",
+      "width": 0.2773088280381647,
+      "x": 0.368220692621533,
+      "y": 0.07374386850292403
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "180",
+      "width": 0.028056112098954866,
+      "x": 0.8877755513653524,
+      "y": 0.024709302453881032
+    }
+  ],
+  "text": "Ranunculaceae.\nB\n13\n10\nHÿdrastis canadensis L\n180",
+  "output_sha256": "5b38b201a77c160097290b93f5098da48953173c7c3606367c57b73f20c0ab9f",
+  "receipt_sha256": "6119f1a435294e0aa1b0032f0a2955aa4b7fe1c276a92d03a5c13b24f6eb7757"
+}

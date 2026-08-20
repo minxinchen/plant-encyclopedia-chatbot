@@ -1,0 +1,245 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0155-p0156",
+  "entry_id": "kohler-volume-1:p0155-p0156",
+  "owner_shard": "S02",
+  "book_taxon": {
+    "scientific_name": "Coehlearia officinalis",
+    "authorship": "L.",
+    "aliases": [
+      "Loffelkraut",
+      "Scharbocksheil",
+      "Skorbutkraut",
+      "Scurvy-grass"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Coehlearia officinalis"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T14:13:23+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Coehlearia+officinalis",
+        "query_name": "Coehlearia officinalis",
+        "retrieved_at": "2026-08-13T14:13:21+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 155,
+      "evidence_type": "text",
+      "page_text_sha256": "c89e0db0b27746ab5162a85b5a917719d1f789575dbb78437c48f8b066bfaf90",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 156,
+      "evidence_type": "text",
+      "page_text_sha256": "c20a4fb49479f8d3407c4132614b3331df254417a909e4d92884aa2cbd9e0d40",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0155-p0156:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                              Coehlearia officinalis L.\n\n              Loffelkraut, Scharbocksheil, Skorbutkraut                            — Scurvy-grass — Coehlearia,\n               Familie: Cruciferae.              Gattung: Coehlearia L.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Coehlearia officinalis L.，十字花科，俗名 Loffelkraut、Scharbocksheil。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 155,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 0,
+        "char_end": 256,
+        "page_text_sha256": "c89e0db0b27746ab5162a85b5a917719d1f789575dbb78437c48f8b066bfaf90",
+        "exact_text_sha256": "dc5cc9122abf67c40e55d3fde108397c78ce8b410f29a0a37fee7e75b85fb656",
+        "source_line_start": 1,
+        "source_line_end": 4,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "dc5cc9122abf67c40e55d3fde108397c78ce8b410f29a0a37fee7e75b85fb656",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0155-p0156:s01:x00",
+      "section_type": "description",
+      "original_text": "               Beschreibung.            Zweijahrige Pflanze, die aus ih]     &                                                  Wui\n    fasern    besetzten,        im unteren Theile verastelten Wurzel im Herbste des ersten Jalires eine Rosette\n    loffelformiger Vorblatter treibt, aus deren Mitte  im Frtihjahre des zweiten Jahres der astige, gefur elite,\n    kahle, aufrechte, kantig gestreifte, wenig beblatterte, bis 0,40 Meter holie Hauptstengel und die weniger\n    kraftig entwickelten Nebenstengel hervorbreclien.                       Blatter lebhaft griin, etwas fleischig, kahl; Wurzel-\n    blatter langgeslielt, breit- eiformig,          am Grunde scliwach herzformig, mit ganzem oder ausgescliweiftem\n    Rande; untere Stengelbliitter kleiner, sitzend, rundlich oder eiformig, mit                          1   — 3 stumpfen Zahiien auf\n    jeder Seite;       die   unteren mit herzformigem,               die   oberen mit herz-pfeilformigem,         stengelumfassendem\n    Grunde.         Bliithen     an den Enden der Stengel und Aeste, zuerst doldentraubig, spater zu einer unbe-",
+      "normalized_text": null,
+      "zh_tw_rendering": "二年生植物，基生葉匙形，莖直立有稜，葉綠色肉質，花白色，先為繖房狀後變總狀。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 155,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 257,
+        "char_end": 1349,
+        "page_text_sha256": "c89e0db0b27746ab5162a85b5a917719d1f789575dbb78437c48f8b066bfaf90",
+        "exact_text_sha256": "4e063411afdfc6a45e4e27603a27ae6fef8eb92b0c6ab487040878c4a0d647af",
+        "source_line_start": 5,
+        "source_line_end": 13,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "4e063411afdfc6a45e4e27603a27ae6fef8eb92b0c6ab487040878c4a0d647af",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0155-p0156:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "            Anatomisches : Der Blattquerschnitt zeigt in der oberen Halfte ein dichtes, in der unteren ein sehr lockeres\n    schwammiges Gewebe (Fliickiger).",
+      "normalized_text": null,
+      "zh_tw_rendering": "葉橫切面顯示上半部組織緻密，下半部為疏鬆的海綿組織。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 155,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 3806,
+        "char_end": 3963,
+        "page_text_sha256": "c89e0db0b27746ab5162a85b5a917719d1f789575dbb78437c48f8b066bfaf90",
+        "exact_text_sha256": "32fad28fcb0e447c486ea20a51a8ec06f6d17c1dcb782002d6fa1a0cb425c8e7",
+        "source_line_start": 43,
+        "source_line_end": 44,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "32fad28fcb0e447c486ea20a51a8ec06f6d17c1dcb782002d6fa1a0cb425c8e7",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0155-p0156:s03:x00",
+      "section_type": "distribution",
+      "original_text": "                Verbreitung.            An Graben und feuchten, namentlich salzhaltigen                       Orten durch Mittel- und\n    Nordeuropa (Island Spitzbergen, Nowaja Semlja eingescblossen) bis zum 80° n. Br. verbreitet;                                      vor-\n\n    zuglich an den Kiisten der arktischen Meere von Europa und Nordamerika.",
+      "normalized_text": null,
+      "zh_tw_rendering": "分佈於中歐及北歐潮濕鹽鹼地，包括冰島、斯匹次卑爾根，北至北緯80度。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 155,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 3965,
+        "char_end": 4314,
+        "page_text_sha256": "c89e0db0b27746ab5162a85b5a917719d1f789575dbb78437c48f8b066bfaf90",
+        "exact_text_sha256": "da4f16af558b30d2833a71bec895ec20edce4c489fd1b78d0ade491c2cc85fbc",
+        "source_line_start": 46,
+        "source_line_end": 49,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "da4f16af558b30d2833a71bec895ec20edce4c489fd1b78d0ade491c2cc85fbc",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0155-p0156:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "                Name und Geschichtliches.     Der Name Loffelkraut, althochdeutsch und mittelhochdeutsch\n    menva  (unbekannten  Ursprungs)  ist von der Form  der  Wurzelblatter abgeleitet.  Scharbocksheil  und\n    Skorbutkraut  beziehen  sich auf die Anwendung  der  Pflanze  gegen Scharbock   (Skorbut).  Coehlearia\n\n    von cochlear Loffel.",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源自匙形葉；Scharbocksheil 與 Skorbutkraut 指其歷史上用於治療壞血病。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 155,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4365,
+        "char_end": 4709,
+        "page_text_sha256": "c89e0db0b27746ab5162a85b5a917719d1f789575dbb78437c48f8b066bfaf90",
+        "exact_text_sha256": "c54776abd793a08c33b09037d9e722605d3aa1b926d9411f74cd24c40b71488c",
+        "source_line_start": 53,
+        "source_line_end": 57,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "c54776abd793a08c33b09037d9e722605d3aa1b926d9411f74cd24c40b71488c",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0155-p0156:s05:x00",
+      "section_type": "constituents",
+      "original_text": "                   Bestandtheile.\n                              Das Kraut enthalt atherisches Oel, bitteres Harz, bitteren Extraktivstoff,\n    Grummi, grimes Satzmehl, Eiweiss, salzsaures und schwefelsaures Ammoniak, Salpeter, Gryps (Gutret).",
+      "normalized_text": null,
+      "zh_tw_rendering": "含揮發油、苦樹脂、苦提取物、樹膠、澱粉、蛋白質、鹽酸銨及硫酸銨等成分。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 156,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 1894,
+        "char_end": 2136,
+        "page_text_sha256": "c20a4fb49479f8d3407c4132614b3331df254417a909e4d92884aa2cbd9e0d40",
+        "exact_text_sha256": "c0dee48067d0d35fb4010d8861c09978f9910b4c58bf0dd8483b3d2835b66449",
+        "source_line_start": 31,
+        "source_line_end": 33,
+        "section_index": 5,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "c0dee48067d0d35fb4010d8861c09978f9910b4c58bf0dd8483b3d2835b66449",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "ae4ee137e0e0b7dfba7adeae6b77897255b0db311a46d681c35367bf5b294e13",
+    "maker_receipt_sha256": "7642047a5b88319368fec16f17dac01cd5ff976376b87a335de6f1f86f9c611b",
+    "validation_check_sha256": "b35215998ad9e9b9c9c3793728278150a615e3e5139e7ac140d329bec6b56edb",
+    "source_disposition_sha256": "7015af452aa906bad2aa6caf85fd8e69326c2e26350e3b19a7fc31b26b1d6bf1",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "7642047a5b88319368fec16f17dac01cd5ff976376b87a335de6f1f86f9c611b",
+      "validation_check_sha256": "b35215998ad9e9b9c9c3793728278150a615e3e5139e7ac140d329bec6b56edb",
+      "source_disposition_sha256": "7015af452aa906bad2aa6caf85fd8e69326c2e26350e3b19a7fc31b26b1d6bf1"
+    },
+    "naming_artifact_sha256": "979201d5b8dacc6dbee5ed87d9044935b22f69fb639036ef098e99fb7d0b3b7e"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "b6878554fabd78fd6d92da45e8ae2502a13d615de01199925ddb1da37a346611"
+}

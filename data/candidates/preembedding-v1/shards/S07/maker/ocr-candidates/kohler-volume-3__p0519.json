@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 519,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "46c5a1ef578f8ea23ebf4a051185177c28db334c5602b9125def15cfad373861",
+  "render_dpi": 144,
+  "render_sha256": "a50b74d93c5973a983d856ce2ccbee6010a8d75e099557b725cfab67f4395fca",
+  "input_sha256": "a50b74d93c5973a983d856ce2ccbee6010a8d75e099557b725cfab67f4395fca",
+  "render_pixel_width": 5798,
+  "render_pixel_height": 8270,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.689,
+  "embedded_character_count": 26,
+  "ocr_character_count": 57,
+  "ocr_alpha_ratio": 0.7544,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01635865938095815,
+      "text": "Moraceae",
+      "width": 0.07882656437335622,
+      "x": 0.6520981056328402,
+      "y": 0.9751055540636988
+    },
+    {
+      "confidence": 1,
+      "height": 0.020345178861466695,
+      "text": "(Artocarpoideae)",
+      "width": 0.1375500410584446,
+      "x": 0.6206671213965715,
+      "y": 0.9484271888204623
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "8",
+      "width": 0.012422359310080011,
+      "x": 0.283643892739715,
+      "y": 0.10465116313629086
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "3",
+      "width": 0.01656314709567619,
+      "x": 0.8592132505722447,
+      "y": 0.10029069746689623
+    },
+    {
+      "confidence": 1,
+      "height": 0.02424576452800209,
+      "text": "Urostigma elasticum Miq.",
+      "width": 0.20105677581743947,
+      "x": 0.3849788572124014,
+      "y": 0.030028280951435726
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "72",
+      "width": 0.01656314709567619,
+      "x": 0.8778467907378762,
+      "y": 0.017441860628022887
+    }
+  ],
+  "text": "Moraceae\n(Artocarpoideae)\n8\n3\nUrostigma elasticum Miq.\n72",
+  "output_sha256": "d65be263756373fdd951cdbe6327cd61dbe2e456c488fd15e590ce72ec581c5d",
+  "receipt_sha256": "3a7bdffecc27976a67130190c1e91e05b953ca46395e5807d6086776177cbec6"
+}

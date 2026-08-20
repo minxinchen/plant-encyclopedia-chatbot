@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 735,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "c83c87a22e8c9c9243ee176fe86d5e8debb9afe5cff9a0a755cd55ffe579536f",
+  "render_dpi": 144,
+  "render_sha256": "0cfab5a8c1d3f6d402e886157b7041ff72470c8493acbf9f26b9d34a52037af5",
+  "input_sha256": "0cfab5a8c1d3f6d402e886157b7041ff72470c8493acbf9f26b9d34a52037af5",
+  "render_pixel_width": 5306,
+  "render_pixel_height": 7586,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.336,
+  "embedded_character_count": 30,
+  "ocr_character_count": 57,
+  "ocr_alpha_ratio": 0.7895,
+  "candidate_disposition": "candidate_quality_gain",
+  "staging_disposition": "candidate_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.019282545362200088,
+      "text": "Asclepiadeae.",
+      "width": 0.14563197142688944,
+      "x": 0.8149179002014283,
+      "y": 0.9489343086912386
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.025004350949847542,
+      "text": "Gonolobus viridiflorus Roem et. Schult.",
+      "width": 0.4392955157773714,
+      "x": 0.25544550663850524,
+      "y": 0.06621649411688613
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883082859107,
+      "text": "193",
+      "width": 0.03326403299967451,
+      "x": 0.9064449066290611,
+      "y": 0.02325581409083799
+    }
+  ],
+  "text": "Asclepiadeae.\nGonolobus viridiflorus Roem et. Schult.\n193",
+  "output_sha256": "2c2b488a6cd667e86297b58d10f568e6518a0e4ee2fda321f102bc595cad33a8",
+  "receipt_sha256": "8790eac72f49d219cfccba46f15ac217af6fd7f548630444d11e98009160db61"
+}

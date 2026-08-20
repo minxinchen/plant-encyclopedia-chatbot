@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0037-p0038",
+  "owner_shard": "S01",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 121.883,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0037-p0038",
+    "book_taxon": {
+      "scientific_name_candidate": "Hyoscyamus niger L.",
+      "authorship_candidate": null,
+      "aliases_candidates": [
+        "Schwarzes Bilsenkraut",
+        "Huhnertod",
+        "Zigeunerkraut",
+        "Teufelsauge",
+        "Jusquiame noire",
+        "Hyoscyamus niger var. agrestris",
+        "Hyoscyamus niger var. pallidus"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 37,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "科：茄科（Solaneae）；屬：莨菪屬（Hyoscyamus Tourn.）。",
+        "warnings": [],
+        "source_line_range": [
+          12,
+          12
+        ],
+        "exact_source_quote": "                  *        Familie: Solaneae.                   Gattung: Hyoscyamus Tourn."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 37,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "一或二年生，白色分枝根。莖高至0.6米，黏液腺毛。葉污綠，長至20公分，深裂。花污黃帶紫網紋，上唇短於下唇。",
+        "warnings": [],
+        "source_line_range": [
+          18,
+          25
+        ],
+        "exact_source_quote": "                           Eeschreibung.                     Die ein- oder zweijahrige, weisse, astige Wurzel -treibt einen einfachen oder\n        astigen,               stielrunden Stengel,             welch er eine Hohe           bis     zu 0.6       m erreicht.           Stengel,   Blatter   und Kelcli\n        klebrig, driisenhaarig.                          Die schmutzig griinen,    bis      20 cm langen, 10 cm breiten Blatter langlich-eiformig\n        oder      oval,              tief    buchtig,       zuweilen auch eckig gezahnt oder fast fiederspaltig- buchtig;                                 die   untersten\n        gestielt, die oberen sitzend, halbstengelumfassend.                                 Bliithenstand in einseitswendigen, abwarts gekriimmten,\n        beblatterten Scheinahren.                           Bluthen fast sitzend, achselstandig.                  Kelcli krugformig-glockig, netzig geadert,\n        mit 5 staclielspitzigen Zahnen.                           Die 51appige Krone schmutzig -gelblich, violett-netzaderig, mit weich-\n        haarigem, dunkel - violettem Schlunde.                               Oberlippe        ktirzer    als       die     31appige Unterlippe.            Staubgefasse"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 37,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "葉表皮細胞波狀，具氣孔及腺毛。中層含草酸鈣結晶。種皮細胞下側壁增厚，呈網狀紋理。",
+        "warnings": [],
+        "source_line_range": [
+          44,
+          54
+        ],
+        "exact_source_quote": "                 Anatomisclies : Die Epidermiszellen des Blattes zeigen (nacli Fliickiger) beiderseits wellenformige Umrisse\n        und sind von Spaltoffnungen und langen weissen Haaren unterbrochen. Die letzteren schliessen, ahnlich den Haaren\n        der Tabaksblatter  und der Belladonna, mit einem ein- oder mehrzelligen Drusenkopfe ab.       In der Mittelschicht\n        zwischen dem Palissadengewebe cler oberen und dem Schwammparenchym der unteren Blattseite befinden sich die\n        ziemlich ansehnlichen Krystalle von Calciumoxalat, welche beim Faulen der Blatter in Form von Tafeln und kurzen\n        Prismen in ziemlicher Menge ausgeschieden werden. Die Epidermiszellen der Samenschale sind (nach Luerssen) in\n        dem oberen Tlieil cler Seitenwande gar nicht, in den Aussenwanden nur schwach verdickt. Der untere gross ere Theil\n        der Seitenwande verdickt sich dagegen sammt Innenwand sehr stark, zeigt Schichtung aber keine Tiipfelkanale und\n        erhalt gelbe oder braune Farbung.    Der obere Theil der Zellen schrumpft bei der Reife des Samens zusammen, oft\n        von dem klumpigen Inhalte der Zellen undeutlich gemacht, wodurch die scharfe, netzige Zeichnung auf der Oberflliche.\n        hervorgebracht wird."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 37,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分佈於歐洲（除極北）、西伯利亞、高加索及北印度。生長於荒地、瓦礫、田埂及村道。",
+        "warnings": [],
+        "source_line_range": [
+          56,
+          59
+        ],
+        "exact_source_quote": "                                  Auf wusten Platzen, Schutt, Angern, Triften, auch auf Aeckern, an Dorf-\n                               Verbreitung.\n        strassen, Zaunen durch fast ganz Europa mit Ausnahme des aussersten Nordens; Sibirien; Kaukasus-\n        lander und Nordindien."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 37,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源於古高地德語bilisa。希臘名Hyoscyamos意為豬豆，因豬食後痙攣癱瘓。羅馬稱Apollinaris。",
+        "warnings": [],
+        "source_line_range": [
+          61,
+          68
+        ],
+        "exact_source_quote": "                 Name und Geschichtliches. Der Name Bilsenkraut ist abgeleitet von dem Althoch-\n        deutschen  bilisa oder piliza, womit unsere Pflanze bezeichnet wurde. Letztere Bezeichnung stammt\n                                                                                             Wort\n        geweiht war,                        abgeleitet      worden   ist.    Hyo                     von dem        griechisclien         vog-/,vaf.iog   Schweinsbohne\n        (tig Schwein und y.vaf.iog Bolme) stammend ist der Name, womit Dioscorides das Bilsenkraut belegte\n\n        und soil nach Aelian deshalb gewahlt worden sein, weil die Schweine nach dem Genusse des Krautes\n        in Krampfe verfielen und gelahmt wurden."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 38,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "全株含劇毒生物鹼莨菪鹼（Hyoscyamin）。另含莨菪素（Hyoscin）及莨菪苦素（Hyoscyapikrin）。",
+        "warnings": [],
+        "source_line_range": [
+          30,
+          35
+        ],
+        "exact_source_quote": "           Bestandtheile.       Alle Theile der Pflanze, vorziiglich. aber die Samen, enthalten das von Geiger\n          l   rein krystallisirtem Zustande dargestellte, sehr giffcige Alkaloid                     Hyoscy amin.       Hohn fand in\n                                                       Hy                                                   Hyoscypikrin, ein stick-\n                       Hyoscy                                              Nach Ladenberg sind in dem Bilsenkraut zwei\nnicht fliichtige Alkaloide,     ein krystallinisches        und   ein nicht krystallinisches enthalten; das letztere be-\nzeichnet er mit Hyoscin.        Ueber Wurzel und Kraut liegen so gut wie keine Untersuchungen vor."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "58513af00bb1e3837de252b33fe77b045575a8b5f854b003b0531d8a990893bd"
+}

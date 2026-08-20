@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 719,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "2ea9a5351c6170df2bbb0417186caba5246c427f67ccccd28716d00ecf6abae4",
+  "render_dpi": 144,
+  "render_sha256": "99f2722fd62e5d9f71f511a2690bec85dfd481e2b73592fb762bc4a779017fe5",
+  "input_sha256": "99f2722fd62e5d9f71f511a2690bec85dfd481e2b73592fb762bc4a779017fe5",
+  "render_pixel_width": 5378,
+  "render_pixel_height": 7418,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.011,
+  "embedded_character_count": 139,
+  "ocr_character_count": 49,
+  "ocr_alpha_ratio": 0.7755,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01744185932098874,
+      "text": "Burseraceae.",
+      "width": 0.15030059605714563,
+      "x": 0.8156312669764372,
+      "y": 0.9476744191040405
+    },
+    {
+      "confidence": 1,
+      "height": 0.01889534791310632,
+      "text": "Balsamodendron Mÿrrha Nees v.Es.",
+      "width": 0.41082162504809333,
+      "x": 0.3086172470116914,
+      "y": 0.052325581845287905
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "185",
+      "width": 0.028056112098954755,
+      "x": 0.9098196396218653,
+      "y": 0.02616279082182127
+    }
+  ],
+  "text": "Burseraceae.\nBalsamodendron Mÿrrha Nees v.Es.\n185",
+  "output_sha256": "e8b35ee59a1cf240086230914905c9c99e743bb3312f574b94cde13f6c767c8c",
+  "receipt_sha256": "ba32ada5c1da1df8ea9a08255ec1085f77d3c4e7c71b50b417c1d9e6dc18e6e9"
+}

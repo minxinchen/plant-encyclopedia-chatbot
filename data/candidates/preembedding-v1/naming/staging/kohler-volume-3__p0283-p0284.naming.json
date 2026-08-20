@@ -1,0 +1,185 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-3:p0283-p0284",
+  "owner_shard": "S07",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S07/maker/structure-drafts/kohler-volume-3__p0283-p0284.json",
+  "source_draft_sha256": "d5362ace167dd359f7a46e92507c3e3bef4df498a7c1ad6d3e338bca2df23278",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "838520939f699ff6f9ecdd414d4298623cef054cbd57742e9250e1bcd90cda5b",
+    "validation_check_sha256": "0b11c531971cc454fd9eab0ffc9f5b70c5101e562c93cda2f14832837586fc4b",
+    "source_disposition_sha256": "2c768ef8111785c67eeeb50a59045db60f41330e17789cebb93d745cb258f29a",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Cerbera Tanghin",
+    "authorship_candidate": "Hook",
+    "aliases_candidates": [
+      "Tanghinia venenifera Poir.",
+      "Cerbera venenifera Steud.",
+      "Tanghinia veneniflua Boj."
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Cerbera Tanghin",
+      "Cerbera tanghin"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_zh_tw": null,
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_checked",
+    "taxon_id": null,
+    "display_name_source_scope": "unresolved",
+    "display_name_source_evidence_ids": [],
+    "display_name_is_taiwan_public": false,
+    "display_name_answer_policy": "scientific_name_only",
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping.",
+    "checked_at": "2026-08-13T15:03:32+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Cerbera Tanghin",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Cerbera+Tanghin",
+      "retrieved_at": "2026-08-13T15:03:29+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Cerbera",
+          "matched_name_id": 952,
+          "taxon_id": "t0002763",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Cerbera",
+          "accepted_name_id": 952,
+          "accepted_usage": [
+            {
+              "usage_id": 163061,
+              "reference_id": 1854,
+              "reference_type": "Journal Article",
+              "publish_year": 2017,
+              "citation": "Lin, C.-T. & Chung, K.-F. (2017) Phylogenetic Classification of Seed Plants of Taiwan. <i>Botanical Studies</i> 58(1): 52.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 177813,
+              "reference_id": 2454,
+              "reference_type": "Book",
+              "publish_year": 2017,
+              "citation": "Ed. Comm. Red List TW Plants,  (2017) The Red List of Vascular Plants of Taiwan, 2017 = 2017 臺灣維管束植物紅皮書名錄.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 278446,
+              "reference_id": 1018,
+              "reference_type": "Book Chapter",
+              "publish_year": 1998,
+              "citation": "Li, H.-L. & Huang, T.-C. (1998) 121. Apocynaceae. In: Flora of Taiwan, 2 ed., vol. 4. 192–219.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 6706,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": null
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0002763",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0002763",
+          "taxon": {
+            "taxon_id": "t0002763",
+            "taxon_status": "accepted",
+            "name_id": 952,
+            "simple_name": "Cerbera",
+            "name_author": "L.",
+            "rank": "Genus",
+            "common_name_c": "海檬果屬",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": null,
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Cerbera tanghin",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Cerbera+tanghin",
+      "retrieved_at": "2026-08-13T15:03:29+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Tanghinia venenifera",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Tanghinia+venenifera",
+      "retrieved_at": "2026-08-13T15:03:30+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Cerbera venenifera",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Cerbera+venenifera",
+      "retrieved_at": "2026-08-13T15:03:30+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Tanghinia veneniflua",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Tanghinia+veneniflua",
+      "retrieved_at": "2026-08-13T15:03:30+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Cerbera tanghin",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Cerbera%20tanghin",
+      "retrieved_at": "2026-08-13T15:03:32+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears."
+  ]
+}

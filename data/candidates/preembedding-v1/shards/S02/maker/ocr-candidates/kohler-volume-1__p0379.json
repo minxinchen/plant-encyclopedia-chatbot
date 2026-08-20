@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 379,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "3402572bbc82abe53612613ef369934c828aeaa36071e93488bb88aaee70451f",
+  "render_dpi": 144,
+  "render_sha256": "4e100ca55802d796d388368fb44349f1a32e3b71cea2c958cd01f88ebebce176",
+  "input_sha256": "4e100ca55802d796d388368fb44349f1a32e3b71cea2c958cd01f88ebebce176",
+  "render_pixel_width": 5714,
+  "render_pixel_height": 8030,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 6.301,
+  "embedded_character_count": 775,
+  "ocr_character_count": 40,
+  "ocr_alpha_ratio": 0.875,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.017690524222358728,
+      "text": "Ramalineae.",
+      "width": 0.12047884738403747,
+      "x": 0.8448626186296996,
+      "y": 0.9170268308425116
+    },
+    {
+      "confidence": 1,
+      "height": 0.017609126984126977,
+      "text": "Cetraria islandica Acharius.",
+      "width": 0.30816325011569035,
+      "x": 0.37142858210542007,
+      "y": 0.1220238095607471
+    }
+  ],
+  "text": "Ramalineae.\nCetraria islandica Acharius.",
+  "output_sha256": "c93fd626922ea33d82ff6bef94a60d7eb0be6e74907fae165fb140fcfcf0fcc3",
+  "receipt_sha256": "7385113763cc8da1963fa19dac2412732e253c8ab6a32535ad8f0ba67f24e300"
+}

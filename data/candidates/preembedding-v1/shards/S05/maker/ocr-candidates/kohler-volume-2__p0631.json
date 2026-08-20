@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 631,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "35573af50962d6de62f0c7bbd0104869d4f4036c6b54407af82370b09449b2ed",
+  "render_dpi": 144,
+  "render_sha256": "acded139a1d8338052938e58b13f6b8cd80c2e6ae59fb57ba676b9477824d281",
+  "input_sha256": "acded139a1d8338052938e58b13f6b8cd80c2e6ae59fb57ba676b9477824d281",
+  "render_pixel_width": 5606,
+  "render_pixel_height": 7814,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.362,
+  "embedded_character_count": 50,
+  "ocr_character_count": 33,
+  "ocr_alpha_ratio": 0.8182,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01821888060796828,
+      "text": "Rosaceae.",
+      "width": 0.10954747598749559,
+      "x": 0.8318659390301646,
+      "y": 0.9356580015871869
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185932098874,
+      "text": "Prunus Lauro-Cerasus L.",
+      "width": 0.28137652035326316,
+      "x": 0.3481781389293063,
+      "y": 0.11482558196741255
+    }
+  ],
+  "text": "Rosaceae.\nPrunus Lauro-Cerasus L.",
+  "output_sha256": "665a44687fc1f663d10e20719da36487e5a337a7d9d699fd3a23502ddeba1472",
+  "receipt_sha256": "292a0659063c0afc1a8fb4db5766dd2fd85f4bf74ce8561a30a145858efa8230"
+}

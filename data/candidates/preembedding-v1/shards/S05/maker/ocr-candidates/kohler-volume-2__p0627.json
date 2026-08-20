@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 627,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "7520599cc96402639f98ec7c719bf9170c356ac8a8c13c1c5d3234e1ac1728de",
+  "render_dpi": 144,
+  "render_sha256": "a1801ef65b10a0ba2a9d86fc889aa9ecdd37fd7ea2db4880bd80288c4b41e7c2",
+  "input_sha256": "a1801ef65b10a0ba2a9d86fc889aa9ecdd37fd7ea2db4880bd80288c4b41e7c2",
+  "render_pixel_width": 5534,
+  "render_pixel_height": 7946,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.534,
+  "embedded_character_count": 27,
+  "ocr_character_count": 47,
+  "ocr_alpha_ratio": 0.6596,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.022513972388373493,
+      "text": "Myrlaceae.",
+      "width": 0.12024375719901848,
+      "x": 0.8279665152576363,
+      "y": 0.9139898315725845
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494425,
+      "text": "8",
+      "width": 0.010438413022250459,
+      "x": 0.7306889353730084,
+      "y": 0.3095930236508574
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "2",
+      "width": 0.014613777823597629,
+      "x": 0.12734864355166675,
+      "y": 0.14825581390321674
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "10",
+      "width": 0.018789143304199896,
+      "x": 0.8601252615681506,
+      "y": 0.15552325595263528
+    },
+    {
+      "confidence": 1,
+      "height": 0.020957835136897973,
+      "text": "Melaleuca",
+      "width": 0.11295846792367786,
+      "x": 0.3339174250829142,
+      "y": 0.1116141055213713
+    },
+    {
+      "confidence": 1,
+      "height": 0.01889534791310632,
+      "text": "Leucadendron L.",
+      "width": 0.17327765657691185,
+      "x": 0.6075156616732699,
+      "y": 0.1148255818452879
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494425,
+      "text": "141",
+      "width": 0.018789143304199896,
+      "x": 0.9018789146735786,
+      "y": 0.033430232698822504
+    }
+  ],
+  "text": "Myrlaceae.\n8\n2\n10\nMelaleuca\nLeucadendron L.\n141",
+  "output_sha256": "bbf6d44726ebed473aefceacd0ed1864bd354033bc6f06e549c8cc1b7d7cbaab",
+  "receipt_sha256": "8f364bcbe53a9744b3c1c17729050f3a701954358215d2ab8911b653433a5d99"
+}

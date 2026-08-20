@@ -1,0 +1,282 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0225-p0228",
+  "entry_id": "kohler-volume-1:p0225-p0228",
+  "owner_shard": "S02",
+  "book_taxon": {
+    "scientific_name": "Aspidium fllix",
+    "authorship": "Swartz",
+    "aliases": [
+      "Polystichum mas Rth.",
+      "Polypodium mas L.",
+      "Nephrodium filix",
+      "Lastrea filix",
+      "Wurmfarn"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Aspidium fllix"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T19:15:36+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Aspidium+fllix",
+        "query_name": "Aspidium fllix",
+        "retrieved_at": "2026-08-13T19:15:32+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Polystichum+mas",
+        "query_name": "Polystichum mas",
+        "retrieved_at": "2026-08-13T19:15:33+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Polypodium+mas",
+        "query_name": "Polypodium mas",
+        "retrieved_at": "2026-08-13T19:15:33+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Nephrodium+filix",
+        "query_name": "Nephrodium filix",
+        "retrieved_at": "2026-08-13T19:15:33+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Lastrea+filix",
+        "query_name": "Lastrea filix",
+        "retrieved_at": "2026-08-13T19:15:33+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 225,
+      "evidence_type": "text",
+      "page_text_sha256": "cdfb9a0df72c7ea5a1a3a8d63b5c872820798d835660d9d9e1401580d02cd32d",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 226,
+      "evidence_type": "text",
+      "page_text_sha256": "a4c20dbcc7542fade077ec450f8501bda0021c4142e3a269e417180ec2fb71a0",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 227,
+      "evidence_type": "text",
+      "page_text_sha256": "a7a4b7ba6aa2c4722a12b1c03dffcb0b7464bed59ef0e16c4a15622a7c79af6d",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0225-p0228:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                          Aspidium fllix mas Swartz.\nS j n.     Polystichum              mas Rth.               Polypodi                          mas L.        Nephr odium fit\n                                                        Lastrea        fil\n\n\n\n                                   Wurmfarn                       Fougere male                     Aspidium.\n\n            Familie: Polyp odiaceae (Ordnung: Filices).                                   Gattung: Aspidium Sw.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Aspidium fllix mas，同義名包括 Polystichum mas 及 Polypodium mas。屬 Polypodiaceae 科。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 225,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 159,
+        "char_end": 650,
+        "page_text_sha256": "cdfb9a0df72c7ea5a1a3a8d63b5c872820798d835660d9d9e1401580d02cd32d",
+        "exact_text_sha256": "4572c55ba2afd36567db47daec4865b13a73ba2066839efb78f94046da91e99d",
+        "source_line_start": 6,
+        "source_line_end": 14,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "4572c55ba2afd36567db47daec4865b13a73ba2066839efb78f94046da91e99d",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0225-p0228:s01:x00",
+      "section_type": "description",
+      "original_text": "            Beschreibung.           Das kraftige, horizontale oder aufsteigende, iiber 1 3 Meter lange, 2             |\n                                                                                                                                                    —        1\n                                                                                                                                                                 / 2w\n                                                                                                                                                                        Ctm.\ndicke, jedoch durch zahlreiche, ziegeldachig gedrangte,                             nach dem Absterben des Blattstieles noch einige\nJahre fortvegetirende Blattstielreste gewohnlich bis 6 Ctm. im Durclimesser baltende Rhizom reiclilich\nmit fadenformigen, braunen, etwas astigen Wurzeln und zahlreichen, rostbraunen, trockenhautigen,\ndurch scheinenden, langzugespitzten, auf Blattstiel und Spindel ubergehenden, allmahlig kleiner werdenden\nSpreuschuppen besetzt.           Ausser den in voller Vegetation stehenden Blattern birgt die Endknospe noch\neine Rosette junger, schneckenformig eingerollter                        ,\n                                                                             ganz von Spreuschuppen bedeckter Blatter.                                            Blatt-\nwedel in      der Regel        zahlreich    aus        dem       Scheitel    des Wurzelstockes            hervorbrechend,                     in   der Jugend\nschneckenformig eingerollt und dicht mit Spreuschuppen besetzt.                                    Das ausgebildete, meist etwas schlaffe,\nim Herbst absterbende Blatt bis               l\n                                                  1",
+      "normalized_text": null,
+      "zh_tw_rendering": "根莖粗壯，長逾 1.3 米，具棕色根及鱗片。葉螺旋狀捲曲，成熟葉長約 1 米，寬 1/4 米，羽狀分裂。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 225,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 652,
+        "char_end": 2457,
+        "page_text_sha256": "cdfb9a0df72c7ea5a1a3a8d63b5c872820798d835660d9d9e1401580d02cd32d",
+        "exact_text_sha256": "26af760a08a99c945b8d0360b3d2ca0a1d7502028e571116ec68fae2c4c09490",
+        "source_line_start": 16,
+        "source_line_end": 30,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "26af760a08a99c945b8d0360b3d2ca0a1d7502028e571116ec68fae2c4c09490",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0225-p0228:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "           Anatomisches.            Der Querschnitt durch                    die vordere,         jungere Halfte des Rhizoms zeigt ein\nparenchymatisches Grundgewebe, welches durch ein cylindrisches Gefassbiindelnetz in ein starkes Mark\n                                                                                             —\nund eine ziemlich machtige Rinde getheilt wird. Das von 6 8 Schichten sehr dickwandiger, braun-\ngelber Zellen bedeckte Hauptgewebe besteht aus einem dlinnwandigen, starkehaltigen aus isodiamet-                                        ,\n\n\n\n\nrischen oder etwas axial verlangerten polyedrischen Zellen zusammengesetzten Parenchym mit ein-\n              _                                                                                               ____                                       _\n\n\n\ngestreuten Intercellularraumen, in die einzelne kleine, sehr kurzgestielte Driisen hineinragen.                                                          Letztere\ndurch Ausstiilpung einzelner Parenchymzellen                           entstanden und als deren Tochterzellen zu betrachten,\nbestehen     vorerst     aus   einem kurzen,            cylindrischen Stiele,               der sich nach Bildung einer                           Qnerwand in\neinen grossen, kugeligen bis birnformigen Kopf erweitert, auf dessen Oberflache sich eine dicke Schicht\neines zah fliissigen, griinlichen, glanzenden Harzes (wahrscheinlich der wirksame Arzneistoff) abscheidet.\nAuch     die Blattstielbasis zeigt         dieselben Driisen.                Auf der Grenze zwischen Mark und Rinde befinden\nsich in kreisformiger          Anordnung       cylindrische            oder auch tangential zusammengedriickte Gefassbundel,\nvon deren Netzmaschen,        Rinde durchziehend, Fibrovasalstrange nach den Blattstielen abgehen.",
+      "normalized_text": null,
+      "zh_tw_rendering": "根莖橫切面顯示維管束網，含分泌綠色樹脂的腺體。葉柄基部具 7 至 8 個維管束。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 225,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4932,
+        "char_end": 6760,
+        "page_text_sha256": "cdfb9a0df72c7ea5a1a3a8d63b5c872820798d835660d9d9e1401580d02cd32d",
+        "exact_text_sha256": "80297bbe36cc29188e407d3c64e913f5b7918a19c74e77a177b99fa64b3ecb7d",
+        "source_line_start": 56,
+        "source_line_end": 77,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "80297bbe36cc29188e407d3c64e913f5b7918a19c74e77a177b99fa64b3ecb7d",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0225-p0228:s03:x00",
+      "section_type": "distribution",
+      "original_text": "            Verbreitung.Der Wurmfarn wachst gesellig, sowohl in schattigen Waldern, namentlich\nWaldschluchten als audi an sonnigen Abhangen in den meisten Landern der nordlichen Halbkugel,\n                     ,\n\n\n\nvon der Ebene bis zu 1800 Meter Meereshohe also in ganz Europa und Asien bis Island und Sachalin\n                                                                ;\n\n\n\n\nund in Nordamerika.   Findet sich auch in Mexico, in den Gebirgen Sudamerikas und in den Berg-\nregionen von Java.",
+      "normalized_text": null,
+      "zh_tw_rendering": "生長於北半球陰涼森林或陽坡，海拔至 1800 米。分佈於歐洲、亞洲、北美、墨西哥及南美山區。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 226,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 1979,
+        "char_end": 2474,
+        "page_text_sha256": "a4c20dbcc7542fade077ec450f8501bda0021c4142e3a269e417180ec2fb71a0",
+        "exact_text_sha256": "2bc3769ea80de3193798315e96ce6bdabbda4036e2f5a66ecabe7c90724195e4",
+        "source_line_start": 28,
+        "source_line_end": 41,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "2bc3769ea80de3193798315e96ce6bdabbda4036e2f5a66ecabe7c90724195e4",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0225-p0228:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "wurmtreibende Eigenschaften schon dem Theophrast bekannt waren.      Dioscorides sagt, dass die\nBlatter von diesem Kraut keinen Stengel haben und dass weder Blumen noch Friichte vorhanden sind.\nPlinius unterschied bereits mannlichen und weiblichen Farn. Galenus und Aetius brachten unsere\nPflanze als Wurmmittel in Anwendung; Valerius Cordus lieferte eine,                                 wenn auch schlechte Abbildur-\nBrunfels, der von dem „Waldtfarn\" in seinem „Teutschen Contrafay ten - Krauterbuche \" eine ziemli^\ngute Abbildung giebt, sagt von letzterem in Bezug auf die ihm zugeschriebenen geheimnissvollen\nKrafte:    „Was nun der Waltfar fur krafft habe. und na.Tnlir.n <W MAti Aarxm-n                                   iof ;   m ™t,™         —   .•*„«   j„„\nbeschworer, sye sagens auch nyemants, denn es                        ist   ein kostlicli    und tiberkostlich ding umb den somen\ndass   man wonder darmit wurcke.                Ich hab        aber noch keinen gesehen,              der reich darmit sey worden',\noder ein eintzig wunder darmit gewurckt habe\" und                             nach Dioscorides hinzu: „Disser wurtzel\n                                                                             fiigt\nfyer   quintlin    genossen,     treibet    aus   die        grosse spulwiirm, mit honigwasser genommen.\n                                                                                                           Aber meer\nwurcket sye genommen mit schwartzer Christwurtz, oder Scamonea, fyer haller\n                                                                             schware.                                          Ist       auch gut\nden miltzsuchtigen.\" Im Mittelalter scheint das Farnkraut in Deutschland als\n                                                                           Wurmmittel wenig ge-\nbrauchlich gewesen zu sein. Erst durch das Nuffler'sche Geheimmittel\n                                                                     gegen Bandwurmer (Nuffler\nNuffer, auch Stuffer, Wundarzt in Murten in der Schweiz), dessen\n                                                                     Hauptbestandtheil gepulverte\nFarnkrautwurzel war und welches die Wittwe an Konig Ludwig XV. in\n                                                                        Frankreich fur den Preis\nvon 18000 Livres verkaufte, kam der Wurmfarn zu hohem Ansehen. Ebenso\n                                                                         erwarb                                           (nach Fltickiger)\nFriedrich    der Grosse von        Daniel Matthieu aus Neuchatel                          (spater in Berlin) ein ahnliches\n                                                                                                                                             Wurm-",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史記載用於驅蟲。中世紀德國少用，後因 Nuffler 祕方及普魯士腓特烈大帝推廣而知名。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 226,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4005,
+        "char_end": 6819,
+        "page_text_sha256": "a4c20dbcc7542fade077ec450f8501bda0021c4142e3a269e417180ec2fb71a0",
+        "exact_text_sha256": "a5ed7201cf4fa5793f9ca28a55d667cc691cd6b7e93b5e02f0cc1b61d4a8e5c0",
+        "source_line_start": 61,
+        "source_line_end": 87,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "a5ed7201cf4fa5793f9ca28a55d667cc691cd6b7e93b5e02f0cc1b61d4a8e5c0",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0225-p0228:s05:x00",
+      "section_type": "constituents",
+      "original_text": "               Bestandtheile.               Nach Bock, Luck, Grabowsky, Wackenroder, Malin, Geiger u.                                      A.\n sind in      dem Wurzelstocke enthalten: atherisches Oel (0,4 °/ ), fettes griines Oel (5                    — 6°/   ),   eisengriinender\n Gerbstoff, eigenthiimliche Fettsaure (Pilixsaure), scharfes, adstringirendes Harz, Starkemehl, Zucker (11 °/ ),\n                                                                 —\n Gummi, Pektin, Farbstoff, Mineralstoffe (2 3°/ ). Die 1845 zuerst von Luck aus dem Aetherextrakte\n dargestellte, von Grabowski 1867 naher untersuchte Filixsaure (C 14 H 18 5 ) bildet kleine, weisse Blatt-\n chen oder ein lockeres Kry stallpulver besitzt einen schwachen Geruch und Geschmack, reagirt in\n                                                            ,\n\n\n\n\n atherischer Losung sauer, aussert beim Reiben elektrische Eigenschaften, schmilzt bei 161° und erstarrt\n amorph; sie ist unloslich in Wasser, wenig loslich in wasserhaltigem, gut loslich in kochendem abso-\n lutem Weingeist, Aether, Schwefelkohlenstoff, sehr leicht in fetten und fliichtigen Oelen. Bei kurzer\n Einwirkung von Kalihydrat auf die Filixsaure erhielt Grabowski Buttersaure und Phloroglucin\n (C6   H [OH]\n        3               3 ).",
+      "normalized_text": null,
+      "zh_tw_rendering": "含揮發油、脂肪油、單寧、糖及 Filixsaure。Filixsaure 為白色結晶，熔點 161 度，溶於乙醚。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 227,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 3566,
+        "char_end": 4841,
+        "page_text_sha256": "a7a4b7ba6aa2c4722a12b1c03dffcb0b7464bed59ef0e16c4a15622a7c79af6d",
+        "exact_text_sha256": "8ec51ac17a1fda265b748d38a079e5ffa0bd9d9d309314915c09c4f09e2167e2",
+        "source_line_start": 57,
+        "source_line_end": 74,
+        "section_index": 5,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "8ec51ac17a1fda265b748d38a079e5ffa0bd9d9d309314915c09c4f09e2167e2",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "6ea7d8f1c492da75d316f6eed4bf670e21c14a34cfe530d4cc8c518328211a0a",
+    "maker_receipt_sha256": "c3172fc13faa2a237651df550b8579b52f292b3c311bad495024098b4d5b5963",
+    "validation_check_sha256": "53cee5cea5be886c2a28e307197977c1357d93e1f0acb83f4ec96ff2899dec61",
+    "source_disposition_sha256": "e86e573444a9e4d7703aa159e375b60801c187d73ba5ccbc50c3572f7a06bd40",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "c3172fc13faa2a237651df550b8579b52f292b3c311bad495024098b4d5b5963",
+      "validation_check_sha256": "53cee5cea5be886c2a28e307197977c1357d93e1f0acb83f4ec96ff2899dec61",
+      "source_disposition_sha256": "e86e573444a9e4d7703aa159e375b60801c187d73ba5ccbc50c3572f7a06bd40"
+    },
+    "naming_artifact_sha256": "b989eb35be514963120de4d589193006c32d6085f8dcc608312eb5dd12590ce2"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "423b8bf0af2837dd576d1345b71daf9d5b109440a78b2e650c117e5af832114f"
+}

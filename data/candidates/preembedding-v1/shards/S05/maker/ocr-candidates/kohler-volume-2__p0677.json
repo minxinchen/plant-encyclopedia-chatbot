@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 677,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "57e15456d7ba0e55bcd70a2c4c48531ee83bcca8614e602db29150818a623f81",
+  "render_dpi": 144,
+  "render_sha256": "faf7eb5cc469101c0aeca8a158ea1850af59b64a082921c6030270f596bf852f",
+  "input_sha256": "faf7eb5cc469101c0aeca8a158ea1850af59b64a082921c6030270f596bf852f",
+  "render_pixel_width": 5294,
+  "render_pixel_height": 7766,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.109,
+  "embedded_character_count": 1056,
+  "ocr_character_count": 58,
+  "ocr_alpha_ratio": 0.5,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.019390760906158877,
+      "text": "Nectrieae.",
+      "width": 0.1216988747336647,
+      "x": 0.7525833996697759,
+      "y": 0.9357988055547858
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.031976745242164206,
+      "text": "562",
+      "width": 0.01918976801091976,
+      "x": 0.27292110731650177,
+      "y": 0.6482558137451969
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "5",
+      "width": 0.01918976523659445,
+      "x": 0.11513859275483711,
+      "y": 0.4912790698168755
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "8",
+      "width": 0.01279317682439629,
+      "x": 0.14498933898652253,
+      "y": 0.31831395369972837
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "10",
+      "width": 0.019189765236594464,
+      "x": 0.10447761221112707,
+      "y": 0.12500000013868173
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906844729474,
+      "text": "11",
+      "width": 0.01918976523659449,
+      "x": 0.31130063996166013,
+      "y": 0.11918604666484456
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "13",
+      "width": 0.01705756863680752,
+      "x": 0.5074626870248798,
+      "y": 0.1177325580892632
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "12",
+      "width": 0.019189765236594547,
+      "x": 0.7164179103667774,
+      "y": 0.10610465117065859
+    },
+    {
+      "confidence": 1,
+      "height": 0.02184846760734671,
+      "text": "Claviceps purpurea Tul.",
+      "width": 0.3134328391335227,
+      "x": 0.36247334902598916,
+      "y": 0.08134920655469602
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "165",
+      "width": 0.02771855024857961,
+      "x": 0.9232409379087593,
+      "y": 0.020348837420658406
+    }
+  ],
+  "text": "Nectrieae.\n562\n5\n8\n10\n11\n13\n12\nClaviceps purpurea Tul.\n165",
+  "output_sha256": "688a27c1886fb287e1ce99b1c0f8dc88a1b6251f6e02f3b40e5826b54e0ae133",
+  "receipt_sha256": "61a47d86ea7bffd4d5f986acf88f651b7693f5bd11ca4af7253db847ea192f39"
+}

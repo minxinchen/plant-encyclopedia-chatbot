@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-3:p0141-p0144",
+  "owner_shard": "S06",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 178.36,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-3:p0141-p0144",
+    "book_taxon": {
+      "scientific_name_candidate": "Scopolina atropoides",
+      "authorship_candidate": "Schultes",
+      "aliases_candidates": [
+        "Atropa carniolica Scopoli",
+        "Scopola carniolica Jacq.",
+        "Hyoscyamıs Scopolia L.",
+        "Scopolina trichotoma Moench",
+        "Scopoha carmiolica G. Don",
+        "Scopola Scopolia Karsten",
+        "Scopolia Hladnickiana Freyer",
+        "Scopolia Infundibulum Fleischmann",
+        "Scopolia japonica Maximowicz",
+        "Anisodus luridus Link",
+        "Scopolia lurida Dunal"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 141,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Scopolina atropoides，屬茄科，同義名包括 Atropa carniolica 及 Hyoscyamus Scopolia。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          7
+        ],
+        "exact_source_quote": "                               Scopolina                  atropoides                 Schultes.\n                        Tollkirschenartige                Scopolie,            Glockenbilsenkraut.\n\n           Syn. Atropa carniolica Scopoli. Scopola carniolica Jacq. Hyoscyamıs Scopolia L. Scopolina\n trichotoma Moench. Scopoha carmiolica G. Don. Scopola Scopolia Karsten.\n          Familie:       Solanaceae Jussieu. Unterfamilie:                      Hyoscyameae Juss.       Gattung:        Scopolina\n Schultes."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 141,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "無毛直立多年生草本，莖高 40-60 公分，葉互生長橢圓狀披針形，花單生於葉腋，花冠寬鐘狀。",
+        "warnings": [],
+        "source_line_range": [
+          8,
+          26
+        ],
+        "exact_source_quote": "          Beschreibung. Diese Pflanze ist, eine kahle, aufrechte Staude mit fingerdickem, wage-\n rechtem, Knotig ästigem, ausdauerndem Wurzelstock. Der Stengel wird 40—60 cm. hoch,\n ist fingerdick fleischig, nicht oder nur wenig verzweigt, unten mit kurzen, länglich linealischen,\n stumpfen, etwa 8—-10 mm breiten, nach oben länger und grösser werdenden schuppigen\n Blättern    besetzt,    und      endigt   oben     in    einen      dichten    Schopf    gestielter   Blätter.   Diese     sind\n wechselständig,        häutig,     ganzrandig,          länglich lanzettlich,       bis 18 cm lang und           8 cm     breit,\n beiderseits   spitz    und    mit einem     bis 2 cm        langen      Stiel versehen.       Die Mittelrippe     ist beider-\n. seits, die Seitennerven besonders unterseits deutlich sichtbar.                         Auf jeder Seite der Mittelrippe\n liegen vier bis sechs         grössere    Seitennerven,          zwischen       diesen   in unregelmässigen       Abständen\n mehrere kleinere, welche an der Spitze in deutlichen Bogen in die. Nachbarnerven einmünden\n und die Mittelrippe unter einem Winkel von 45 —50° verlassen. In der Blütenregion sieht\n man Doppelblätter, je ein grösseres und ein kleineres, gegen einander im rechten Winkel\n an der Achse inseriert; der Achsel des etwas höher gestellten kleineren entspringt je eine\n Blüte.  Da in der Blütenregion sympodiale Verzweigung stattfindet, so ist das grosse Blatt\n als das Deckblatt des schwächeren Zweiges anzusehen; letzterer endet in eine Blüte mit\n Vorblatt, doch ist das Deckblatt mit diesem Triebe bis zum Erscheinen dieses Blütenvorblattes\n verwachsen und zeigt diese Verwachsung durch zwei Riefen an, die an seiner Achsel rechts\n und links entspringen und bis zum nächsten Knoten herablaufen.    Dieses Vorblatt erreicht\n eine Länge von etwa 9 cm und eine Breite von 4 cm; sein Stiel wird nur 1 cm lang.      Die"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 142,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "生長於上巴伐利亞、施蒂利亞、克恩頓、克萊因、匈牙利、克羅地亞及特蘭西瓦尼亞的石灰岩陰暗山毛櫸林。",
+        "warnings": [],
+        "source_line_range": [
+          2,
+          7
+        ],
+        "exact_source_quote": "           Vorkommen.       Die Pflanze wächst gern auf Kalk                   in schattigen Buchenwäldern Ober-\nbayerns,    in Steiermark,     Kärnten,     Krain, Ungarı,          Kroatien     und Siebenbürgen, in Südrussland,\nPodo lien , Wol hyn ien ; verw ilde rt in Schl esie n und ÖOst preu ssen , nac h Wei ss ang eba ut in\nLittauen. Wahrscheinlich kommt sie auch, ebenfalls verwildert, in Württemberg und Baden\nvor; Geh. Rat Prof. Dr. E. Schmidt bezog grössere Mengen. aus dem Schlossgarten von\nKarlsruhe in Baden. Die Var. Hladnickiana Freyer zieht höhere Gebirgslagen vor."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 143,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "德國產根部含莨菪鹼、微量阿托品、甜菜鹼、膽鹼及發色物質斯可波萊汀；日本產根部含阿托品及莨菪鹼。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          11
+        ],
+        "exact_source_quote": "Scopolina-Wurzel enthält also Atropin und Hyoscyamin zu nahezu gleichen Teilen, bisweilen\netwas Hyoscin, ferner Cholin, und das Glycosid Scopolin, als dessen Spaltungsprodukt das\nScopolein anzusehen ist.\n         In der deutschen Scopolinawurzel wurden im Laufe der Zeit 0,32°/, Hyoscyamin und\n0,03°/, eines Alkaloids gefunden, welches zuerst für das Hyoscin Ladenburgs 0!” H® NO? ge-\nhalten wurde. Nachdem es Bender 1890 gelungen war, dasselbe krystallisiert zu erhalten,\nwas im kleinen nicht möglich ist, wies Schmidt 1890 nach, dass sowohl das Bender’sche\nAlkaloid, als auch das selbst erhaltene nicht Ladenburgs Hyoscin C!? H® NO> sei, sondern\nein neues, dem Hyosceyamin und Atropin nicht isomeres Alkaloid, das er Scopolamin nannte.\nNeben diesem wurden ihm und Siebert nach folgende Körper nachgewiesen: Hyoscyamin,\ngeringe Mengen Atropin (?), Betain, Cholin und der Schillerstoff Scopoletin."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 143,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史上根葉曾被使用，近代製成浸膏及鹼基鹽類，如溴化斯可波拉明，曾作為強效劇毒藥物使用。",
+        "warnings": [
+          "Historical medical content described as historical, not advice."
+        ],
+        "source_line_range": [
+          50,
+          62
+        ],
+        "exact_source_quote": "           Wurzel und Blätter mögen wohl früher im Gebrauch gewesen sein; erst neuerdings\nhat sich die Pharmazie             die Wurzel        zu nutze        gemacht        und      hat    aus    der Wurzel        ein dickes\nund ein flüssiges Extrakt und aus diesen dann andere Arzneiformen hergestellt, die ins-\nbesondere von England aus angepriesen wurden. Von grösserer Wichtigkeit sind heute die\nAlkaloidsalze Scopolaminum hydrobromicum,                      Scopolaminum            hydrochloricum,          Scopolaminum       hydro-\njodicum, Scopolaminum jodicum.\n         Scopolaminum hydrobromicum D. Arzn. Nachtrag, bildet ansehnliche, farblose, rhombische\nKrystalle, die bei 190° schmelzen und bei 100° etwa 12,3°/, Wasser verlieren. In Wasser und\nWeingeist ist es leicht löslich; die Lösung reagiert sauer und schmeckt bitter und kratzend.\nIn Äther und Chloroform ist es weniger löslich. Es ist ein sehr heftiges Gift, dessen Maximal-\neinzeldosis 0,5 mg, die grösste Tagesdosis 2 mg beträgt. — Die übrigen Salze bilden sämtlich\nfarblose, in Wasser und Weingeist lösliche Krystalle, die ähnliche Wirkungen haben und in\ndenselben Maximaldosen gegeben werden. — Über jodsaures Salz s. u."
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 144,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "圖版描述：帶有花果的枝條，放大顯示雄蕊、雌蕊、果萼、蒴果、種子及其縱橫切面。",
+        "warnings": [],
+        "source_line_range": [
+          42,
+          46
+        ],
+        "exact_source_quote": "                                             Tafelbeschreibung 4\n           A Zweig der Pflanze   mit Blüten und Früchten,    etwas   verkleinert.      1 Staubblätter;   2 Stempel;    3 Frucht-\nkelch; 4 Kapsel ohne Fruchtkelch; 5 dieselbe geöffnet; 6 Deckel der Kapsel, von innen gesehen; 7 Samen;\n8 derselbe im Längsschnitt; 9 derselbe im Querschnitt. 1—9 vergrössert. Nach lebenden Exemplaren aus\nbotanischen Garten von Marburg.                                                                      dem"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "48ce2d5391fc520c3ab59313bcd324b36e02c431e1ec669d677ccb0b2253b0ee"
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 653,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "4fe35831830602b954ee26c5618fe62acca91ddfc73a7dd7de69a4100b08923a",
+  "render_dpi": 144,
+  "render_sha256": "14e1228097658260d3371b5f7c95441ff6ba7b93227e06936faa1ca3aedc6037",
+  "input_sha256": "14e1228097658260d3371b5f7c95441ff6ba7b93227e06936faa1ca3aedc6037",
+  "render_pixel_width": 5426,
+  "render_pixel_height": 7934,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.031,
+  "embedded_character_count": 48,
+  "ocr_character_count": 32,
+  "ocr_alpha_ratio": 0.875,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.019241842012556742,
+      "text": "Umbelliferae.",
+      "width": 0.14659164019301796,
+      "x": 0.6071712730300821,
+      "y": 0.9213383812691301
+    },
+    {
+      "confidence": 1,
+      "height": 0.023627350254664337,
+      "text": "Conium maculatum I",
+      "width": 0.2157485441853812,
+      "x": 0.3856965570631055,
+      "y": 0.08544580042930949
+    }
+  ],
+  "text": "Umbelliferae.\nConium maculatum I",
+  "output_sha256": "d9ae5ceed474e38465b322f79b4ed55874ed0cc49fdd98b3d2a5154c17302dde",
+  "receipt_sha256": "e6a72281d6f069a2adecf5bb0f5d9f65961e75e065abdaddd7993820580f4065"
+}

@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0405-p0408",
+  "owner_shard": "S04",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 152.118,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0405-p0408",
+    "book_taxon": {
+      "scientific_name_candidate": "Anamirta paniculata",
+      "authorship_candidate": "Colebrooke",
+      "aliases_candidates": [
+        "A. Cocculus Wight et Arnott",
+        "Menispermum Cocculus L. (Wall.)",
+        "Cocculus suberosus D. C."
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "description",
+        "pdf_page": 405,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "強壯攀援灌木，木質莖粗達15公分，老皮灰裂。葉互生革質，長20-30公分，基部心形，上綠下淡藍。",
+        "warnings": [],
+        "source_line_range": [
+          8,
+          15
+        ],
+        "exact_source_quote": "          Beschreibung. Kräftiger, an den Bäumen hoch emporkletternder Schlingstrauch mit starker,\nästiger, holziger, innen gelber und grubiger Wurzel und holzigem, bis 15 Ctm. dickem Stamme, dessen\nältere Rinde grau, rissig und korkartig ist. Die abwechselnd stehenden, immergrünen, lederartigen\nBlätter mit blattlangen,          runden,       glatten,    an     der Basis      stark     verdickten      und   gebogenen      Blattstielen,\nam    Stamme       zerstreut,   an den Aesten         genähert,      breit-eirund,        20—30      Ctm. lang,        am    Grunde        gestutzt\noder herzförmig, kurz zugespitzt, auf der oberen Seite glatt und dunkelgrün mit hervortretenden Blasen,\nauf der Unterseite blass bläulichgrün und kleienartig bestäubt; die jungen Blätter sind bisweilen mehr\noder weniger flaumhaarig; die stark hervortretenden Nerven sind bei den älteren Blättern gelblich,"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 406,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "果皮厚1毫米，分纖維外層與石質內層。內層向內摺疊成雙板，將種子緊密包圍，防止脫落。",
+        "warnings": [],
+        "source_line_range": [
+          11,
+          19
+        ],
+        "exact_source_quote": "         Anatomisches. Die ca. 1 Mm. dicke Fruchtschale zeigt nach Flückiger 2 Schichten, eine\näussere, faserige Schicht von braungelber Farbe (das Epicarp) und eine innere, hellgraue Steinschale\n(das Endocarp). Gleich nach der Blüthe bilden sich in der Einbuchtung oberhalb des Stieles an\n2 Stellen der Steinschale Einstülpungen, welche als flach keulenfórmige Einsackungen von der Bauch-\nseite her in die Frucht hineinragen und parallel mit der Fruchtnaht abgeflacht erscheinen. Ein\nSchnitt durch die Naht giebt nur das Bild von einer Platte des doppelt eingestülpten Endocarps,\neine dicke, am Rande und in der Mitte etwas erhöhte, keulenförmige Scheibe darstellend, während ein\nsenkrecht      zur Naht geführter Schnitt              den Querschnitt    beider Platten          zeigt, wobei    die beiden     Schenkel\ndes Endocarps säulenartig in die Frucht hineinragen. Der Same, welchen das eingestülpte Endocarp"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 406,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "產於東印度、錫蘭及馬來群島。錫蘭山地森林至450公尺，印度西岸、奧里薩、阿薩姆及印尼諸島。",
+        "warnings": [],
+        "source_line_range": [
+          33,
+          36
+        ],
+        "exact_source_quote": "            Vorkommen.                In Ostindien, auf Ceylon und den malayischen Inseln.                       Nach Flückiger auf\nCeylon in Bergwäldern              bis 450 Meter        Meereshöhe,    auf der indischen           Westküste,     in Orissa,     dem   süd-\nwestlichsten      Bezirk     von Bengalen, in den Kasiabergen in Assam,                            auf Java, Celebes, Timor            und\nauf den Molukken."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 406,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名源於coccus（漿果）。Anamirta為印度名。Menispermum意為半月形種子。paniculata指總狀花序。",
+        "warnings": [],
+        "source_line_range": [
+          38,
+          42
+        ],
+        "exact_source_quote": "            Name     und Geschichtliches.                    Kokkelskörner von cocculus, dem Verkleinerungsworte von\ncoccus, xoxxog Beere,             Kern     der Früchte,     rundes Korn, wegen         der Form        der Früchte.       Anamirta     soll\nein indischer      Name      sein,    der von     Colebrooke         herrührt    und   dem        Namen   dort einheimischer       Menis-\npermaceen entsprechen soll; Menispermum von omg Halbmond und omeouc Same, bezogen auf die\nForm der Früchte; paniculata rispenfórmig, wegen der Form der Blüthenstünde."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 407,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "果含Pikrotoxin、樹脂、膠質、脂肪酸、蠟質、蘋果酸及鹽類。果皮含Menispermin及Paramenispermin。",
+        "warnings": [],
+        "source_line_range": [
+          26,
+          29
+        ],
+        "exact_source_quote": "         Bestandtheile. Die Früchte enthalten nach Pelletier und Couerbe das von Boullay\nentdeckte Pikrotoxin, Harz, Gummi, fette saure Materie, wachsartige Materie, riechenden Stoff, Apfel-\nsäure, Stärkemehl (?), Holzfaser, Salze; im Fruchtgehäuse sind enthalten: ein eigenthümliches, braunes,\namorphes Fett, gelbe alkalische Substanz, Menispermin, Paramenispermin, Salze."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 408,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史用途：果粉用於殺蝨及疥癬，但需防中毒。曾誤用於麻醉魚類或加入啤酒增強醉意。",
+        "warnings": [],
+        "source_line_range": [
+          19,
+          24
+        ],
+        "exact_source_quote": "             Anwendung.               Die Frucht selbst dient nicht als Arzneimittel                         sondern nur das aus derselben\ndargestellte Pikrotoxin. Das Pulver der Körner wird zur Vertilgung der Läuse und gegen Scabies ver-\nwendet, jedoch ist bei Anwendung gegen schlimme Kopfhaut Vorsicht erforderlich, da schon wiederholt\nVergiftungen vorgekommen sind. Missbräuchlich werden die Kokkelskörner zur Betäubung der Fische\nbenutzt und wohl auch dann und wann                          als Zusatz zum           Biere, um       dasselbe stärker und berauschender\nzu machen. Neuerdings wird das Pikrotoxin gegen Nervenleiden empfohlen."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "4b110415e20f57d28de47adf310d72a51c24fca78dde7187510b0002f91eeaca"
+}

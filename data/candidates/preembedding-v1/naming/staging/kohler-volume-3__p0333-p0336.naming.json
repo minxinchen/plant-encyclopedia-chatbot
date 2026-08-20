@@ -1,0 +1,392 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-3:p0333-p0336",
+  "owner_shard": "S07",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S07/maker/structure-drafts/kohler-volume-3__p0333-p0336.json",
+  "source_draft_sha256": "a00d66eb6fc5934eb520adf023246fed9fd6536b2e2a64428b755d8c9a4520c6",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "160a8f4e72ceb19f658b6fed312781b6692cd3bc8aa095805b2dea9a6417bfab",
+    "validation_check_sha256": "b8a69de6eae294c480deb04efee97ee290c0f4ace94103f91eed1f7c38deef7d",
+    "source_disposition_sha256": "b7a6da9988385d74fff2d261b734a78d52f32fd4d20fdde5528840e5e948f12a",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Castanea vesca",
+    "authorship_candidate": "Gaertner",
+    "aliases_candidates": [
+      "Castanea vulgaris Lam.",
+      "Castanea sativa Mill.",
+      "Castanea Castanea Karsten",
+      "Fagus Castanea UL."
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Castanea vesca"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_zh_tw": null,
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_checked",
+    "taxon_id": null,
+    "display_name_source_scope": "unresolved",
+    "display_name_source_evidence_ids": [],
+    "display_name_is_taiwan_public": false,
+    "display_name_answer_policy": "scientific_name_only",
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping.",
+    "checked_at": "2026-08-13T18:21:22+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Castanea vesca",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Castanea+vesca",
+      "retrieved_at": "2026-08-13T18:21:16+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Castanea vulgaris",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Castanea+vulgaris",
+      "retrieved_at": "2026-08-13T18:21:17+08:00",
+      "result_total": 5,
+      "name_match_results": [
+        {
+          "matched_name": "Castanea vulgaris var. japonica",
+          "taxon_id": "t0052885",
+          "taicol_name_status": "not-accepted",
+          "accepted_name": "Castanea crenata",
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0052885",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0052885",
+          "taxon": {
+            "taxon_status": "accepted",
+            "simple_name": "Castanea crenata",
+            "name_author": "Siebold & Zucc.",
+            "rank": "Species",
+            "common_name_c": "茅栗",
+            "alternative_name_c": "栗子,日本板栗",
+            "synonyms": "Castanea crenata var. stricta, Castanea crenata var. caudata, Castanea kusakuri, Castanea japonica var. crenata, Castanea crenata var. longispina, Castanea crenata var. quercina, Castanea vulgaris var. japonica, Castanea crenata var. japonica, Castanea crenata var. obtexta, Castanea crenata var. siba-kuri, Castanea crenata var. pendula, Castanea japonica var. stricta, Castanea crenata var. elongata, Castanea vulgaris var. kusakuri, Castanea crenata var. canescens, Castanea crenata var. ookasi, Castanea sativa var. japonica, Castanea sativa var. pubinervis, Castanea crenata var. kusakuri, Castanea japonica, Castanea vulgaris var. subdentata, Castanea vulgaris var. elongata, Castanea stricta, Castanea pubinervis, Castanea japonica var. typica, Castanea japonica var. siba-kuri, Castanea japonica var. quercina, Castanea japonica var. ookasi, Castanea japonica var. obtexta, Castanea japonica var. longispina, Castanea japonica var. kusakuri, Castanea japonica var. elongata, Castanea japonica var. canescens, Castanea crenata var. tamba, Castanea crenata var. syakacephala, Castanea crenata var. pulchella, Castanea crenata var. pleiocarpa, Castanea crenata var. microcarpa, Castanea crenata var. kawasei, Castanea crenata var. imperfecta, Castanea crenata var. femina, Castanea crenata var. edulis, Castanea crenata var. dulcis, Castanea crenata subvar. bournetii, Castanea crenata fo. gigantea, Castanea castanea var. pubinervis",
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": "cultured: Liao, 1996",
+            "not_official": false,
+            "updated_at": "2026-04-20"
+          }
+        },
+        {
+          "matched_name": "Castanea vulgaris var. kusakuri",
+          "taxon_id": "t0052885",
+          "taicol_name_status": "not-accepted",
+          "accepted_name": "Castanea crenata",
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0052885",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0052885",
+          "taxon": {
+            "taxon_status": "accepted",
+            "simple_name": "Castanea crenata",
+            "name_author": "Siebold & Zucc.",
+            "rank": "Species",
+            "common_name_c": "茅栗",
+            "alternative_name_c": "栗子,日本板栗",
+            "synonyms": "Castanea crenata var. stricta, Castanea crenata var. caudata, Castanea kusakuri, Castanea japonica var. crenata, Castanea crenata var. longispina, Castanea crenata var. quercina, Castanea vulgaris var. japonica, Castanea crenata var. japonica, Castanea crenata var. obtexta, Castanea crenata var. siba-kuri, Castanea crenata var. pendula, Castanea japonica var. stricta, Castanea crenata var. elongata, Castanea vulgaris var. kusakuri, Castanea crenata var. canescens, Castanea crenata var. ookasi, Castanea sativa var. japonica, Castanea sativa var. pubinervis, Castanea crenata var. kusakuri, Castanea japonica, Castanea vulgaris var. subdentata, Castanea vulgaris var. elongata, Castanea stricta, Castanea pubinervis, Castanea japonica var. typica, Castanea japonica var. siba-kuri, Castanea japonica var. quercina, Castanea japonica var. ookasi, Castanea japonica var. obtexta, Castanea japonica var. longispina, Castanea japonica var. kusakuri, Castanea japonica var. elongata, Castanea japonica var. canescens, Castanea crenata var. tamba, Castanea crenata var. syakacephala, Castanea crenata var. pulchella, Castanea crenata var. pleiocarpa, Castanea crenata var. microcarpa, Castanea crenata var. kawasei, Castanea crenata var. imperfecta, Castanea crenata var. femina, Castanea crenata var. edulis, Castanea crenata var. dulcis, Castanea crenata subvar. bournetii, Castanea crenata fo. gigantea, Castanea castanea var. pubinervis",
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": "cultured: Liao, 1996",
+            "not_official": false,
+            "updated_at": "2026-04-20"
+          }
+        },
+        {
+          "matched_name": "Castanea vulgaris var. subdentata",
+          "taxon_id": "t0052885",
+          "taicol_name_status": "not-accepted",
+          "accepted_name": "Castanea crenata",
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0052885",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0052885",
+          "taxon": {
+            "taxon_status": "accepted",
+            "simple_name": "Castanea crenata",
+            "name_author": "Siebold & Zucc.",
+            "rank": "Species",
+            "common_name_c": "茅栗",
+            "alternative_name_c": "栗子,日本板栗",
+            "synonyms": "Castanea crenata var. stricta, Castanea crenata var. caudata, Castanea kusakuri, Castanea japonica var. crenata, Castanea crenata var. longispina, Castanea crenata var. quercina, Castanea vulgaris var. japonica, Castanea crenata var. japonica, Castanea crenata var. obtexta, Castanea crenata var. siba-kuri, Castanea crenata var. pendula, Castanea japonica var. stricta, Castanea crenata var. elongata, Castanea vulgaris var. kusakuri, Castanea crenata var. canescens, Castanea crenata var. ookasi, Castanea sativa var. japonica, Castanea sativa var. pubinervis, Castanea crenata var. kusakuri, Castanea japonica, Castanea vulgaris var. subdentata, Castanea vulgaris var. elongata, Castanea stricta, Castanea pubinervis, Castanea japonica var. typica, Castanea japonica var. siba-kuri, Castanea japonica var. quercina, Castanea japonica var. ookasi, Castanea japonica var. obtexta, Castanea japonica var. longispina, Castanea japonica var. kusakuri, Castanea japonica var. elongata, Castanea japonica var. canescens, Castanea crenata var. tamba, Castanea crenata var. syakacephala, Castanea crenata var. pulchella, Castanea crenata var. pleiocarpa, Castanea crenata var. microcarpa, Castanea crenata var. kawasei, Castanea crenata var. imperfecta, Castanea crenata var. femina, Castanea crenata var. edulis, Castanea crenata var. dulcis, Castanea crenata subvar. bournetii, Castanea crenata fo. gigantea, Castanea castanea var. pubinervis",
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": "cultured: Liao, 1996",
+            "not_official": false,
+            "updated_at": "2026-04-20"
+          }
+        },
+        {
+          "matched_name": "Castanea vulgaris var. elongata",
+          "taxon_id": "t0052885",
+          "taicol_name_status": "not-accepted",
+          "accepted_name": "Castanea crenata",
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0052885",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0052885",
+          "taxon": {
+            "taxon_status": "accepted",
+            "simple_name": "Castanea crenata",
+            "name_author": "Siebold & Zucc.",
+            "rank": "Species",
+            "common_name_c": "茅栗",
+            "alternative_name_c": "栗子,日本板栗",
+            "synonyms": "Castanea crenata var. stricta, Castanea crenata var. caudata, Castanea kusakuri, Castanea japonica var. crenata, Castanea crenata var. longispina, Castanea crenata var. quercina, Castanea vulgaris var. japonica, Castanea crenata var. japonica, Castanea crenata var. obtexta, Castanea crenata var. siba-kuri, Castanea crenata var. pendula, Castanea japonica var. stricta, Castanea crenata var. elongata, Castanea vulgaris var. kusakuri, Castanea crenata var. canescens, Castanea crenata var. ookasi, Castanea sativa var. japonica, Castanea sativa var. pubinervis, Castanea crenata var. kusakuri, Castanea japonica, Castanea vulgaris var. subdentata, Castanea vulgaris var. elongata, Castanea stricta, Castanea pubinervis, Castanea japonica var. typica, Castanea japonica var. siba-kuri, Castanea japonica var. quercina, Castanea japonica var. ookasi, Castanea japonica var. obtexta, Castanea japonica var. longispina, Castanea japonica var. kusakuri, Castanea japonica var. elongata, Castanea japonica var. canescens, Castanea crenata var. tamba, Castanea crenata var. syakacephala, Castanea crenata var. pulchella, Castanea crenata var. pleiocarpa, Castanea crenata var. microcarpa, Castanea crenata var. kawasei, Castanea crenata var. imperfecta, Castanea crenata var. femina, Castanea crenata var. edulis, Castanea crenata var. dulcis, Castanea crenata subvar. bournetii, Castanea crenata fo. gigantea, Castanea castanea var. pubinervis",
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": "cultured: Liao, 1996",
+            "not_official": false,
+            "updated_at": "2026-04-20"
+          }
+        },
+        {
+          "matched_name": "Castanea vulgaris var. yunnanensis",
+          "taxon_id": "t0052886",
+          "taicol_name_status": "not-accepted",
+          "accepted_name": "Castanea mollissima",
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0052886",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0052886",
+          "taxon": {
+            "taxon_status": "accepted",
+            "simple_name": "Castanea mollissima",
+            "name_author": "Blume",
+            "rank": "Species",
+            "common_name_c": "板栗",
+            "alternative_name_c": null,
+            "synonyms": "Castanea mollissima var. pendula, Castanea formosana, Castanea sativa var. mollissima, Castanea sativa var. bungeana, Castanea vulgaris var. yunnanensis, Castanea sinensis, Castanea sativa var. intermedia, Castanea sativa var. formosana, Castanea hupehensis, Castanea duclouxii, Castanea bungeana",
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": "cultured: Liao, 1996|cultured: 原生於中國華北; 沒有入侵性",
+            "not_official": false,
+            "updated_at": "2026-04-20"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Castanea sativa",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Castanea+sativa",
+      "retrieved_at": "2026-08-13T18:21:17+08:00",
+      "result_total": 6,
+      "name_match_results": [
+        {
+          "matched_name": "Castanea sativa var. japonica",
+          "taxon_id": "t0052885",
+          "taicol_name_status": "not-accepted",
+          "accepted_name": "Castanea crenata",
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0052885",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0052885",
+          "taxon": {
+            "taxon_status": "accepted",
+            "simple_name": "Castanea crenata",
+            "name_author": "Siebold & Zucc.",
+            "rank": "Species",
+            "common_name_c": "茅栗",
+            "alternative_name_c": "栗子,日本板栗",
+            "synonyms": "Castanea crenata var. stricta, Castanea crenata var. caudata, Castanea kusakuri, Castanea japonica var. crenata, Castanea crenata var. longispina, Castanea crenata var. quercina, Castanea vulgaris var. japonica, Castanea crenata var. japonica, Castanea crenata var. obtexta, Castanea crenata var. siba-kuri, Castanea crenata var. pendula, Castanea japonica var. stricta, Castanea crenata var. elongata, Castanea vulgaris var. kusakuri, Castanea crenata var. canescens, Castanea crenata var. ookasi, Castanea sativa var. japonica, Castanea sativa var. pubinervis, Castanea crenata var. kusakuri, Castanea japonica, Castanea vulgaris var. subdentata, Castanea vulgaris var. elongata, Castanea stricta, Castanea pubinervis, Castanea japonica var. typica, Castanea japonica var. siba-kuri, Castanea japonica var. quercina, Castanea japonica var. ookasi, Castanea japonica var. obtexta, Castanea japonica var. longispina, Castanea japonica var. kusakuri, Castanea japonica var. elongata, Castanea japonica var. canescens, Castanea crenata var. tamba, Castanea crenata var. syakacephala, Castanea crenata var. pulchella, Castanea crenata var. pleiocarpa, Castanea crenata var. microcarpa, Castanea crenata var. kawasei, Castanea crenata var. imperfecta, Castanea crenata var. femina, Castanea crenata var. edulis, Castanea crenata var. dulcis, Castanea crenata subvar. bournetii, Castanea crenata fo. gigantea, Castanea castanea var. pubinervis",
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": "cultured: Liao, 1996",
+            "not_official": false,
+            "updated_at": "2026-04-20"
+          }
+        },
+        {
+          "matched_name": "Castanea sativa var. pubinervis",
+          "taxon_id": "t0052885",
+          "taicol_name_status": "not-accepted",
+          "accepted_name": "Castanea crenata",
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0052885",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0052885",
+          "taxon": {
+            "taxon_status": "accepted",
+            "simple_name": "Castanea crenata",
+            "name_author": "Siebold & Zucc.",
+            "rank": "Species",
+            "common_name_c": "茅栗",
+            "alternative_name_c": "栗子,日本板栗",
+            "synonyms": "Castanea crenata var. stricta, Castanea crenata var. caudata, Castanea kusakuri, Castanea japonica var. crenata, Castanea crenata var. longispina, Castanea crenata var. quercina, Castanea vulgaris var. japonica, Castanea crenata var. japonica, Castanea crenata var. obtexta, Castanea crenata var. siba-kuri, Castanea crenata var. pendula, Castanea japonica var. stricta, Castanea crenata var. elongata, Castanea vulgaris var. kusakuri, Castanea crenata var. canescens, Castanea crenata var. ookasi, Castanea sativa var. japonica, Castanea sativa var. pubinervis, Castanea crenata var. kusakuri, Castanea japonica, Castanea vulgaris var. subdentata, Castanea vulgaris var. elongata, Castanea stricta, Castanea pubinervis, Castanea japonica var. typica, Castanea japonica var. siba-kuri, Castanea japonica var. quercina, Castanea japonica var. ookasi, Castanea japonica var. obtexta, Castanea japonica var. longispina, Castanea japonica var. kusakuri, Castanea japonica var. elongata, Castanea japonica var. canescens, Castanea crenata var. tamba, Castanea crenata var. syakacephala, Castanea crenata var. pulchella, Castanea crenata var. pleiocarpa, Castanea crenata var. microcarpa, Castanea crenata var. kawasei, Castanea crenata var. imperfecta, Castanea crenata var. femina, Castanea crenata var. edulis, Castanea crenata var. dulcis, Castanea crenata subvar. bournetii, Castanea crenata fo. gigantea, Castanea castanea var. pubinervis",
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": "cultured: Liao, 1996",
+            "not_official": false,
+            "updated_at": "2026-04-20"
+          }
+        },
+        {
+          "matched_name": "Castanea sativa var. mollissima",
+          "taxon_id": "t0052886",
+          "taicol_name_status": "not-accepted",
+          "accepted_name": "Castanea mollissima",
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0052886",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0052886",
+          "taxon": {
+            "taxon_status": "accepted",
+            "simple_name": "Castanea mollissima",
+            "name_author": "Blume",
+            "rank": "Species",
+            "common_name_c": "板栗",
+            "alternative_name_c": null,
+            "synonyms": "Castanea mollissima var. pendula, Castanea formosana, Castanea sativa var. mollissima, Castanea sativa var. bungeana, Castanea vulgaris var. yunnanensis, Castanea sinensis, Castanea sativa var. intermedia, Castanea sativa var. formosana, Castanea hupehensis, Castanea duclouxii, Castanea bungeana",
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": "cultured: Liao, 1996|cultured: 原生於中國華北; 沒有入侵性",
+            "not_official": false,
+            "updated_at": "2026-04-20"
+          }
+        },
+        {
+          "matched_name": "Castanea sativa var. bungeana",
+          "taxon_id": "t0052886",
+          "taicol_name_status": "not-accepted",
+          "accepted_name": "Castanea mollissima",
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0052886",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0052886",
+          "taxon": {
+            "taxon_status": "accepted",
+            "simple_name": "Castanea mollissima",
+            "name_author": "Blume",
+            "rank": "Species",
+            "common_name_c": "板栗",
+            "alternative_name_c": null,
+            "synonyms": "Castanea mollissima var. pendula, Castanea formosana, Castanea sativa var. mollissima, Castanea sativa var. bungeana, Castanea vulgaris var. yunnanensis, Castanea sinensis, Castanea sativa var. intermedia, Castanea sativa var. formosana, Castanea hupehensis, Castanea duclouxii, Castanea bungeana",
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": "cultured: Liao, 1996|cultured: 原生於中國華北; 沒有入侵性",
+            "not_official": false,
+            "updated_at": "2026-04-20"
+          }
+        },
+        {
+          "matched_name": "Castanea sativa var. intermedia",
+          "taxon_id": "t0052886",
+          "taicol_name_status": "not-accepted",
+          "accepted_name": "Castanea mollissima",
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0052886",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0052886",
+          "taxon": {
+            "taxon_status": "accepted",
+            "simple_name": "Castanea mollissima",
+            "name_author": "Blume",
+            "rank": "Species",
+            "common_name_c": "板栗",
+            "alternative_name_c": null,
+            "synonyms": "Castanea mollissima var. pendula, Castanea formosana, Castanea sativa var. mollissima, Castanea sativa var. bungeana, Castanea vulgaris var. yunnanensis, Castanea sinensis, Castanea sativa var. intermedia, Castanea sativa var. formosana, Castanea hupehensis, Castanea duclouxii, Castanea bungeana",
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": "cultured: Liao, 1996|cultured: 原生於中國華北; 沒有入侵性",
+            "not_official": false,
+            "updated_at": "2026-04-20"
+          }
+        },
+        {
+          "matched_name": "Castanea sativa var. formosana",
+          "taxon_id": "t0052886",
+          "taicol_name_status": "not-accepted",
+          "accepted_name": "Castanea mollissima",
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0052886",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0052886",
+          "taxon": {
+            "taxon_status": "accepted",
+            "simple_name": "Castanea mollissima",
+            "name_author": "Blume",
+            "rank": "Species",
+            "common_name_c": "板栗",
+            "alternative_name_c": null,
+            "synonyms": "Castanea mollissima var. pendula, Castanea formosana, Castanea sativa var. mollissima, Castanea sativa var. bungeana, Castanea vulgaris var. yunnanensis, Castanea sinensis, Castanea sativa var. intermedia, Castanea sativa var. formosana, Castanea hupehensis, Castanea duclouxii, Castanea bungeana",
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": "cultured: Liao, 1996|cultured: 原生於中國華北; 沒有入侵性",
+            "not_official": false,
+            "updated_at": "2026-04-20"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Castanea castanea",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Castanea+castanea",
+      "retrieved_at": "2026-08-13T18:21:17+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Castanea castanea var. pubinervis",
+          "taxon_id": "t0052885",
+          "taicol_name_status": "not-accepted",
+          "accepted_name": "Castanea crenata",
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0052885",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0052885",
+          "taxon": {
+            "taxon_status": "accepted",
+            "simple_name": "Castanea crenata",
+            "name_author": "Siebold & Zucc.",
+            "rank": "Species",
+            "common_name_c": "茅栗",
+            "alternative_name_c": "栗子,日本板栗",
+            "synonyms": "Castanea crenata var. stricta, Castanea crenata var. caudata, Castanea kusakuri, Castanea japonica var. crenata, Castanea crenata var. longispina, Castanea crenata var. quercina, Castanea vulgaris var. japonica, Castanea crenata var. japonica, Castanea crenata var. obtexta, Castanea crenata var. siba-kuri, Castanea crenata var. pendula, Castanea japonica var. stricta, Castanea crenata var. elongata, Castanea vulgaris var. kusakuri, Castanea crenata var. canescens, Castanea crenata var. ookasi, Castanea sativa var. japonica, Castanea sativa var. pubinervis, Castanea crenata var. kusakuri, Castanea japonica, Castanea vulgaris var. subdentata, Castanea vulgaris var. elongata, Castanea stricta, Castanea pubinervis, Castanea japonica var. typica, Castanea japonica var. siba-kuri, Castanea japonica var. quercina, Castanea japonica var. ookasi, Castanea japonica var. obtexta, Castanea japonica var. longispina, Castanea japonica var. kusakuri, Castanea japonica var. elongata, Castanea japonica var. canescens, Castanea crenata var. tamba, Castanea crenata var. syakacephala, Castanea crenata var. pulchella, Castanea crenata var. pleiocarpa, Castanea crenata var. microcarpa, Castanea crenata var. kawasei, Castanea crenata var. imperfecta, Castanea crenata var. femina, Castanea crenata var. edulis, Castanea crenata var. dulcis, Castanea crenata subvar. bournetii, Castanea crenata fo. gigantea, Castanea castanea var. pubinervis",
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": "cultured: Liao, 1996",
+            "not_official": false,
+            "updated_at": "2026-04-20"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol_book_alias",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Fagus castanea",
+      "query_basis": "scientific alias explicitly printed in the Köhler entry",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Fagus+castanea",
+      "retrieved_at": "2026-08-13T18:21:17+08:00",
+      "result_total": 0,
+      "name_match_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Castanea vesca",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Castanea%20vesca",
+      "retrieved_at": "2026-08-13T18:21:22+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears."
+  ]
+}

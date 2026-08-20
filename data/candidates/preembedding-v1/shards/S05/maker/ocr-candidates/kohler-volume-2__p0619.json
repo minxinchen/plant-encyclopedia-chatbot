@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 619,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "3789f4ca225bf21b7a740f9fd8ffc55d253bc75f2bec706671b1cc3116c62c93",
+  "render_dpi": 144,
+  "render_sha256": "4f97782ecf2f4c011604b328e086f89588e347a9d16984b061d105fd4af84f47",
+  "input_sha256": "4f97782ecf2f4c011604b328e086f89588e347a9d16984b061d105fd4af84f47",
+  "render_pixel_width": 5642,
+  "render_pixel_height": 7790,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.399,
+  "embedded_character_count": 77,
+  "ocr_character_count": 58,
+  "ocr_alpha_ratio": 0.6552,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01889534791310632,
+      "text": "Ericaceae.",
+      "width": 0.12024048060587,
+      "x": 0.8276553123022754,
+      "y": 0.9345930236633596
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883082859107,
+      "text": "8",
+      "width": 0.016032063471127844,
+      "x": 0.8476953911902878,
+      "y": 0.322674418778338
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "9",
+      "width": 0.012024047276745109,
+      "x": 0.7134268543175392,
+      "y": 0.2049418606280229
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "6",
+      "width": 0.01002003983275529,
+      "x": 0.4649298599182917,
+      "y": 0.17296511645609003
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "12",
+      "width": 0.014028055373936477,
+      "x": 0.8897795594038801,
+      "y": 0.16133720952240538
+    },
+    {
+      "confidence": 1,
+      "height": 0.02470930228157653,
+      "text": "Arctostaphylos Uva ursi Sprengel.",
+      "width": 0.3567134073335831,
+      "x": 0.33667336046146484,
+      "y": 0.10755813986575247
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729363,
+      "text": "137.",
+      "width": 0.024048094553490218,
+      "x": 0.923847696260329,
+      "y": 0.024709302536937705
+    }
+  ],
+  "text": "Ericaceae.\n8\n9\n6\n12\nArctostaphylos Uva ursi Sprengel.\n137.",
+  "output_sha256": "ebfda0af482d0dd4b9d3179b3b457398a323f5708da7558ad50c165f23ddf057",
+  "receipt_sha256": "ccc3723d359c680c483038c304fedef8caa3c9d4b9f0cd2e26e3c0daac88bfe9"
+}

@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 585,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "0a39d7c201722ec6c63c0a815af432fa7aaa87f605e9f4418955dd26a1fdc495",
+  "render_dpi": 144,
+  "render_sha256": "4a1fdc88a168d184bbef7038ca73a32508b4e69d12da62c5c7156473e3742137",
+  "input_sha256": "4a1fdc88a168d184bbef7038ca73a32508b4e69d12da62c5c7156473e3742137",
+  "render_pixel_width": 5930,
+  "render_pixel_height": 7934,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.791,
+  "embedded_character_count": 47,
+  "ocr_character_count": 44,
+  "ocr_alpha_ratio": 0.8182,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.025060103053138327,
+      "text": "Umbelliferae.",
+      "width": 0.1345219805134632,
+      "x": 0.7764283314379782,
+      "y": 0.9409583203514904
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "10",
+      "width": 0.015533980108209278,
+      "x": 0.6000000001594876,
+      "y": 0.16715116306846145
+    },
+    {
+      "confidence": 1,
+      "height": 0.02640088966914589,
+      "text": "Levisticum",
+      "width": 0.12048080636716157,
+      "x": 0.339759595844779,
+      "y": 0.10307862514897048
+    },
+    {
+      "confidence": 1,
+      "height": 0.01909722222222221,
+      "text": "officinale Koch.",
+      "width": 0.18058251353708732,
+      "x": 0.47766991008582516,
+      "y": 0.11036706327243928
+    }
+  ],
+  "text": "Umbelliferae.\n10\nLevisticum\nofficinale Koch.",
+  "output_sha256": "80cdea96dd62790bd63a01b5c6dbc4d29925556e83459254138d6fc9defaa5c6",
+  "receipt_sha256": "9c652c4801b41ba0d989b193495cf1d52dd28a2f2fb61edee89fe103ac25ca23"
+}

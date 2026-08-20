@@ -1,0 +1,119 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-3:p0337-p0338",
+  "owner_shard": "S07",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S07/maker/structure-drafts/kohler-volume-3__p0337-p0338.json",
+  "source_draft_sha256": "719aa8a05d6ecea190d3d1ceb529478b0eedeb321190a0f5b73e3583da4a52a8",
+  "eligibility": {
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "7164d790c2c7f8a83b71f8d41fbca3ffb91a1b94e92a070fcb36ec02c43d5b00",
+    "validation_check_sha256": "2391193eadd5438c60d8b32bf7c822977a23b91da64da7a76b0595803966830b",
+    "source_disposition_sha256": "c17857d3506d2b0c1c8b35c6d7fd7658092ac032150d2a64c5953ca34ad5856f",
+    "review_status": "machine_extracted",
+    "maker_deterministic_status": "pass",
+    "maker_hold_resolved": false
+  },
+  "book_name": {
+    "scientific_name_candidate": "Castilloa elastica",
+    "authorship_candidate": "Cervantes",
+    "aliases_candidates": [
+      "Arbor de Ule"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Castilloa elastica"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_zh_tw": null,
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "not_checked",
+    "taxon_id": null,
+    "display_name_source_scope": "unresolved",
+    "display_name_source_evidence_ids": [],
+    "display_name_is_taiwan_public": false,
+    "display_name_answer_policy": "scientific_name_only",
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping.",
+    "checked_at": "2026-08-13T18:34:51+08:00"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Castilloa elastica",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Castilloa+elastica",
+      "retrieved_at": "2026-08-13T18:34:47+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Castilla elastica",
+          "matched_name_id": 54835,
+          "taxon_id": "t0073066",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Castilla elastica",
+          "accepted_name_id": 54835,
+          "accepted_usage": [
+            {
+              "usage_id": 318111,
+              "reference_id": 8031,
+              "reference_type": "Checklist",
+              "publish_year": 2017,
+              "citation": "GISD, - (2017) Global Invasive Species Database",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 39037,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0073066",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0073066",
+          "taxon": {
+            "taxon_id": "t0073066",
+            "taxon_status": "accepted",
+            "name_id": 54835,
+            "simple_name": "Castilla elastica",
+            "name_author": "Sessé ex Cerv.",
+            "rank": "Species",
+            "common_name_c": "美國橡皮樹",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-10-01"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "tai2",
+      "authority": "台灣植物資訊整合查詢系統 Plants of Taiwan（國立臺灣大學）",
+      "query_name": "Castilloa elastica",
+      "search_url": "https://tai2.ntu.edu.tw/search/1/Castilloa%20elastica",
+      "retrieved_at": "2026-08-13T18:34:51+08:00",
+      "exact_result_count": 0,
+      "exact_results": [],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears."
+  ]
+}

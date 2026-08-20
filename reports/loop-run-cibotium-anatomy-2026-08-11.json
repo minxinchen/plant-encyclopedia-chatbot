@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0",
+  "run_id": "cibotium-anatomy-page32-2026-08-11",
+  "started_at": "2026-08-11T08:55:39+08:00",
+  "finished_at": "2026-08-11T09:00:30+08:00",
+  "status": "approved",
+  "cost": {
+    "incremental_usd": 0,
+    "paid_fallback_used": false
+  },
+  "input": {
+    "pages_file": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/volume-4-prototype-pages.json",
+    "name_file": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/sample-name-resolution.json",
+    "page_count": 1,
+    "taxon_count": 1
+  },
+  "stages": [
+    {
+      "name": "extract_anatomy",
+      "attempt": 1,
+      "status": "passed",
+      "tool": "Poppler pdftotext -layout plus deterministic section boundaries",
+      "checks": [
+        "Anatomie section is bounded from Anatomie: through Inhalte her. on PDF page 32",
+        "original_text is an exact substring of the stored page evidence"
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "independent_page_image_review",
+      "attempt": 2,
+      "status": "passed",
+      "tool": "Gemini 2.5 Flash Free Tier page-image checker",
+      "checks": [
+        "first JSON response was truncated and rejected",
+        "changed-strategy retry disabled thinking and ended with STOP",
+        "all six bounded anatomy claims were supported by the rendered page"
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "record_validation",
+      "attempt": 1,
+      "status": "passed",
+      "tool": "validate-plant-record.py",
+      "checks": [
+        "five sections retain exact page evidence",
+        "anatomy is an allowed schema section type",
+        "existing four approved sections were not changed"
+      ],
+      "retry_target": null
+    },
+    {
+      "name": "grounding_regression",
+      "attempt": 1,
+      "status": "passed",
+      "tool": "validate-grounding-tests.py",
+      "checks": [
+        "answerable anatomy sentences cite PDF page 32",
+        "incomplete historical-use content returns 尚未處理 instead of 本書未記載",
+        "wrong-name, no-approved-evidence and medical-advice cases refuse safely"
+      ],
+      "retry_target": null
+    }
+  ],
+  "review_summary": {
+    "passed": 4,
+    "needs_review": 0,
+    "failed": 0,
+    "warnings": [
+      "Constituents, historical medicinal use and upholstery use later on PDF page 32 remain excluded."
+    ]
+  }
+}

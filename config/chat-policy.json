@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0",
+  "policy_id": "kohler-chat-zh-tw-en-taiwan-names-v1",
+  "canonical_locale": "zh-TW",
+  "input_language_policy": {
+    "zh-Hant": "respond_zh-TW",
+    "en": "respond_en",
+    "zh-Hans": "normalize_and_respond_zh-TW",
+    "other": "respond_zh-TW_with_supported_language_notice"
+  },
+  "scope_policy": {
+    "answerable_domain": "facts explicitly supported by approved pages from Koehler's Medizinal-Pflanzen",
+    "non_kohler_drug": "refuse_without_web_or_model_knowledge",
+    "modern_medical_advice": "refuse_and_refer_to_qualified_healthcare_professional",
+    "external_sources": "may supply names, aliases and Taiwan occurrence metadata only; never plant facts in the answer"
+  },
+  "name_priority": {
+    "plant_display_name": [
+      "taiwan_catalogue_preferred",
+      "taiwan_public_name",
+      "taiwan_alias",
+      "non_taiwan_traditional_authoritative",
+      "human_reviewed_traditional_translation",
+      "simplified_chinese_fallback"
+    ],
+    "medicinal_material_name": [
+      "taiwan_herbal_pharmacopeia_current",
+      "taiwan_mohw_prescription_name",
+      "taiwan_mohw_materia_medica_atlas",
+      "taiwan_public_name",
+      "non_taiwan_traditional_authoritative",
+      "simplified_chinese_fallback"
+    ],
+    "rules": [
+      "If a Taiwan public plant name exists, it remains the canonical display label even in an English answer.",
+      "Keep scientific_name as the cross-source identity and show it with the Taiwan name on first mention in English.",
+      "A simplified-Chinese name is never canonical when any Taiwan or other authoritative Traditional-Chinese name exists.",
+      "Materia-medica names and botanical display names are separate fields linked through the scientific taxon."
+    ]
+  },
+  "response_templates": {
+    "out_of_scope_zh_tw": "這個問題不屬於《科勒藥用植物》已核准的書中內容；本機器人不提供書外藥物資訊。",
+    "out_of_scope_en": "This question is outside the approved evidence from Koehler's Medizinal-Pflanzen; this chatbot does not provide information about drugs outside the book.",
+    "medical_advice_zh_tw": "本書是歷史文獻，不能作為現代醫療建議；請尋求合格醫療專業人員協助。",
+    "medical_advice_en": "This is a historical source and must not be used as modern medical advice. Please consult a qualified healthcare professional.",
+    "not_yet_processed_zh_tw": "本書相關段落尚未完成證據審查，暫不作答。",
+    "not_yet_processed_en": "The relevant pages have not yet completed evidence review, so I cannot answer yet."
+  },
+  "acceptance_policy": {
+    "fixture": "data/tests/chat-language-scope-policy.json",
+    "required_categories": [
+      "traditional_chinese_answer",
+      "english_answer",
+      "simplified_input_traditional_output",
+      "non_kohler_drug_refusal",
+      "medical_advice_refusal",
+      "taiwan_name_priority"
+    ],
+    "historical_exploratory_only": [
+      "libra-plant-zh-tw"
+    ]
+  },
+  "source_registry": "data/name-source-registry.json"
+}

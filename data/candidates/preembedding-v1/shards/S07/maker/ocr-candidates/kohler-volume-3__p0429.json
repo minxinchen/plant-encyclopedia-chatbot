@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 429,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "e2f5a1648fc76f159485fc9d1cb10ec6bc0735340022b26966f4fe4747fcf457",
+  "render_dpi": 144,
+  "render_sha256": "26415b83f1872f19db94fc46b972ab07bc15f76ea6c0640a818bd0d59d71f59a",
+  "input_sha256": "26415b83f1872f19db94fc46b972ab07bc15f76ea6c0640a818bd0d59d71f59a",
+  "render_pixel_width": 5870,
+  "render_pixel_height": 8318,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.423,
+  "embedded_character_count": 136,
+  "ocr_character_count": 62,
+  "ocr_alpha_ratio": 0.7903,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.016498705697438054,
+      "text": "Solanaceae",
+      "width": 0.08865998215182769,
+      "x": 0.8682214486205033,
+      "y": 0.957593670338072
+    },
+    {
+      "confidence": 1,
+      "height": 0.02024036362057635,
+      "text": "(Hyoscyameae)",
+      "width": 0.11770482978097008,
+      "x": 0.8536990242650446,
+      "y": 0.9353740042060997
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "A",
+      "width": 0.016460905256023395,
+      "x": 0.3395061730510006,
+      "y": 0.24418604666484456
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494425,
+      "text": "8",
+      "width": 0.010288065617468187,
+      "x": 0.09053497943406427,
+      "y": 0.09447674455928767
+    },
+    {
+      "confidence": 1,
+      "height": 0.020585317460317443,
+      "text": "Scopolina atropoides Schultes.",
+      "width": 0.2572016337348471,
+      "x": 0.3724279929319591,
+      "y": 0.026041666806349117
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "27",
+      "width": 0.014403291596381207,
+      "x": 0.8765432100917271,
+      "y": 0.02906976765321667
+    }
+  ],
+  "text": "Solanaceae\n(Hyoscyameae)\nA\n8\nScopolina atropoides Schultes.\n27",
+  "output_sha256": "20d7321b8e47d8dfd08a5d15ce0491673256c5dc6da003801f1529cabfb743d0",
+  "receipt_sha256": "8a75e5cb1f07feca82989f4730c3daeae895376be499df2c6e9d220efd80b053"
+}

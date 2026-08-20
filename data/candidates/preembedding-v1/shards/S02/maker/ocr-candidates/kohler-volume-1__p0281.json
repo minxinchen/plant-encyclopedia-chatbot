@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 281,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "77a6e880a034005e30ec72535167dad02d088d2293949e703febf7ed2a74a3ef",
+  "render_dpi": 144,
+  "render_sha256": "5ccaf5bc4debaa3982e727468d2dbfcc67c67424466c084deffbe358c938b9f8",
+  "input_sha256": "5ccaf5bc4debaa3982e727468d2dbfcc67c67424466c084deffbe358c938b9f8",
+  "render_pixel_width": 5858,
+  "render_pixel_height": 8006,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.12,
+  "embedded_character_count": 122,
+  "ocr_character_count": 49,
+  "ocr_alpha_ratio": 0.7551,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.018898973389277374,
+      "text": "Solaneae.",
+      "width": 0.08470212774761654,
+      "x": 0.8387386790829189,
+      "y": 0.9167803901495531
+    },
+    {
+      "confidence": 1,
+      "height": 0.02041228328432354,
+      "text": "Datura Stramonium L.",
+      "width": 0.17460316803495762,
+      "x": 0.40674603615447885,
+      "y": 0.11185515839367599
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395436847054,
+      "text": "W.Müllern. d. Nat.",
+      "width": 0.10119047520524371,
+      "x": 0.8214285727644417,
+      "y": 0.11773255815609196
+    }
+  ],
+  "text": "Solaneae.\nDatura Stramonium L.\nW.Müllern. d. Nat.",
+  "output_sha256": "51dab98dade1de3ad34d18f6be7939a2a70c4928426c5c0bc23b9fe73fda9fd0",
+  "receipt_sha256": "71d816716bd2b39ff76a27c238b1a0afc25bdd17967c039bd8288f026ec17e52"
+}

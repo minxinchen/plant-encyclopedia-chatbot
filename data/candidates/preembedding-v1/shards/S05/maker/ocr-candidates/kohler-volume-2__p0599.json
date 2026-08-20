@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 599,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "76ffd8713a5e39724532d63c5e70da26b49235663a09419d69d8ec8407a2b512",
+  "render_dpi": 144,
+  "render_sha256": "9916252d0680430cf1e96522669b4d102255e3b90377ed04e180215de512f19d",
+  "input_sha256": "9916252d0680430cf1e96522669b4d102255e3b90377ed04e180215de512f19d",
+  "render_pixel_width": 5654,
+  "render_pixel_height": 7898,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.426,
+  "embedded_character_count": 39,
+  "ocr_character_count": 35,
+  "ocr_alpha_ratio": 0.6857,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.019003440463353782,
+      "text": "Solanaceae.",
+      "width": 0.12902653324711433,
+      "x": 0.8270517229833331,
+      "y": 0.9174571359588184
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "12",
+      "width": 0.014198783033850804,
+      "x": 0.7281947260287137,
+      "y": 0.14970930260334525
+    },
+    {
+      "confidence": 1,
+      "height": 0.022101566905067038,
+      "text": "Capsicum",
+      "width": 0.10357087598603715,
+      "x": 0.3995330199953366,
+      "y": 0.10159456511090137
+    },
+    {
+      "confidence": 1,
+      "height": 0.017632128700377447,
+      "text": "annuum",
+      "width": 0.09540243274374127,
+      "x": 0.5232926992205849,
+      "y": 0.10746300563684485
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436846943,
+      "text": "121.",
+      "width": 0.026369167547298566,
+      "x": 0.9249492907953161,
+      "y": 0.02761627900759389
+    }
+  ],
+  "text": "Solanaceae.\n12\nCapsicum\nannuum\n121.",
+  "output_sha256": "710531da635463937f8a4b70808f33d49c78388783ea04835045a8142527d06d",
+  "receipt_sha256": "358136d555b0f45a494198a56073c24652238ea5220b72e410ec1d107b2f1aa0"
+}

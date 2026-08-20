@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 667,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "5f4af667b5b0d99c9187ec1955662d7893b5ced3464189ed43ccb07c2b3f68f1",
+  "render_dpi": 144,
+  "render_sha256": "a2c64531e09184c8638bccebfe51184a7984c2fc43306a11040c95a8f83c5cff",
+  "input_sha256": "a2c64531e09184c8638bccebfe51184a7984c2fc43306a11040c95a8f83c5cff",
+  "render_pixel_width": 5570,
+  "render_pixel_height": 8042,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.501,
+  "embedded_character_count": 72,
+  "ocr_character_count": 60,
+  "ocr_alpha_ratio": 0.6333,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.022691096578325465,
+      "text": "Euphorbiaceae.",
+      "width": 0.14702043144209687,
+      "x": 0.7965107476472063,
+      "y": 0.9515904979439099
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "A",
+      "width": 0.016771488558332992,
+      "x": 0.25576519903320244,
+      "y": 0.5101744186914602
+    },
+    {
+      "confidence": 1,
+      "height": 0.013144841269841168,
+      "text": "14d. nat. Gr",
+      "width": 0.09014674673442252,
+      "x": 0.2012578626285959,
+      "y": 0.4883432541926127
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "B",
+      "width": 0.014675051635217873,
+      "x": 0.6687631032180305,
+      "y": 0.24418604633680907
+    },
+    {
+      "confidence": 1,
+      "height": 0.01315637666081626,
+      "text": "\\ 11",
+      "width": 0.01886792411613053,
+      "x": 0.21383647829832886,
+      "y": 0.13219246046167699
+    },
+    {
+      "confidence": 1,
+      "height": 0.017482234372033,
+      "text": "Ricinus communis l",
+      "width": 0.19916142850751611,
+      "x": 0.4025157196298898,
+      "y": 0.09883721009241264
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "16G.",
+      "width": 0.02515723215484078,
+      "x": 0.9224318665221602,
+      "y": 0.0188953490209518
+    }
+  ],
+  "text": "Euphorbiaceae.\nA\n14d. nat. Gr\nB\n\\ 11\nRicinus communis l\n16G.",
+  "output_sha256": "9c80cc9f7be0bb2daa666ed707b267c2ac142fc4a622f7d5d4c1dcfaf1a1874c",
+  "receipt_sha256": "96f621f78b9ad16dd7e9c15af7206f040e76d6457d6fbb6bbcf9336bafb7d702"
+}

@@ -1,0 +1,267 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0143-p0146",
+  "entry_id": "kohler-volume-1:p0143-p0146",
+  "owner_shard": "S02",
+  "book_taxon": {
+    "scientific_name": "Juniperus communis",
+    "authorship": null,
+    "aliases": [
+      "Gemeiner Wachholder",
+      "Genevrier commun",
+      "Juniper"
+    ]
+  },
+  "display_name": "歐洲刺柏",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Juniperus communis"
+    ],
+    "accepted_scientific_name": "Juniperus communis",
+    "display_name_source_scope": "taiwan_government_public",
+    "taiwan_occurrence_status": "recorded_introduced",
+    "checked_at": "2026-08-13T13:14:30+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Juniperus+communis",
+        "query_name": "Juniperus communis",
+        "retrieved_at": "2026-08-13T13:13:21+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Gemeiner+wachholder",
+        "query_name": "Gemeiner wachholder",
+        "retrieved_at": "2026-08-13T13:13:21+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Genevrier+commun",
+        "query_name": "Genevrier commun",
+        "retrieved_at": "2026-08-13T13:13:21+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL and Tai2 had no exact species record. Taiwan FDA's Cosmetic Ingredient Standards explicitly pair Juniperus communis L. with 歐洲刺柏, which is used as the primary Taiwan government name. National Taiwan University public plant resources independently pair the species with 洋杜松 and with 杜松／瓔珞柏, and identify it as introduced."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 143,
+      "evidence_type": "text",
+      "page_text_sha256": "c0b7ddad0028f24fda25c0ee74fa60226f5f9ea9413c7a2c353bd1d6bf6bae52",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 144,
+      "evidence_type": "text",
+      "page_text_sha256": "e5f0e49263c888fb40927037c7b7116a737483b5e32d14358c0fa9fa5d87e34f",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 145,
+      "evidence_type": "text",
+      "page_text_sha256": "e2b5d01f3e5d63f246ea74c6c883e537c566d09a76b9bcd2b827db4ce2a81aaa",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0143-p0146:s00:x00",
+      "section_type": "description",
+      "original_text": "                Beschreibung.                        Immergniner, gewohnlich mannshoher Strauch oder auch 10                                       — 15 Meter\n    holier Baum, mit in der Regel bis zur Erde herabgehender Krone, aufsteigenden, anliegenden, zerstreut\n\n    oder unvollkommen quirlig stehenden Aesten und abstelienden Zweigen.                                                Rinde grau oder rothlich-\n    braun, anfangs glatt, im alteren Zustande langsrissig, in Scliuppen und Bandern sich ablosend.                                                    Jiingere\n    Zweige mehr oder weniger deutlich 3kantig.                               Blatter in 3zahligen, fast in Halbkreis gestellten Wirteln\n\n    mit geringem Abstande, sitzend,                        steif,   pfriemlich zulaufend, mit scharfer Stachelspitze                   ,    starr,    oberseits\n\n    flachrinnig, hellgriin, mit breitem, blaulich weissen Mittelsteifen                             ,   unterseits stumpfkielig, der Kiel mit\n                                                                                                         -",
+      "normalized_text": null,
+      "zh_tw_rendering": "常綠灌木或小樹，高10-15米，樹皮灰或紅褐色，老時縱裂。枝條三稜形，葉三輪生，針狀，硬且尖，上表面淺溝，下表面鈍脊。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 143,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 333,
+        "char_end": 1449,
+        "page_text_sha256": "c0b7ddad0028f24fda25c0ee74fa60226f5f9ea9413c7a2c353bd1d6bf6bae52",
+        "exact_text_sha256": "e3db9dcd6e50b79d7a5e45996ea00d798f988a2022576af72b691cfad433c1bc",
+        "source_line_start": 11,
+        "source_line_end": 21,
+        "section_index": 0,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "e3db9dcd6e50b79d7a5e45996ea00d798f988a2022576af72b691cfad433c1bc",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0143-p0146:s01:x00",
+      "section_type": "anatomy",
+      "original_text": "                Anatomisches :          Die von einer starken           ,   farblosen Cuticula bedeckte Aussenschicht des Fruchtgehauses ist\n\naus   2—3 Reihen dickwandiger, fast wurfelformiger Zellen zusammengesetzt, welche mit einem dunkelbraunen, kornigen\nInhalte     angefullt     sind.     Die       darauf folgende Hauptmasse des Fruchtgehauses besteht aus einem fleischigen,                                   zart-\n\nwandigen, zur Reifezeit schlaffen, von Gefassbiindeln und Oelbehaltern durchzogenen Parenchym, dessen Zellen zuerst\nChlorophyll und Starke, im reifen Zustande eine grimlich-braune Masse nebst Gerbstoff enthalten.                                                Die Oelbehalter\n\numschliessen vorerst atherisches Oel, welches sich jedoch spater zu einer krystallinischen Masse verhartet.                                          Die Samen\n\ntragen    auf der oberen freien,                   dem Fruchtfleische zugewendeten Ruckseite 4—8, an der Basis der Bauchseite 1                              —   2,\n\n1    Mm. dicke, 2 Mm. lange blasig aufgetriebene, elliptische Balsamdriisen oder Schlauche, die ursprunglich mit athe-\nrischem Oele angefullt sind, welches sich jedoch bald verdickt und zu einer amorphen, glashellen Harzmasse erhartet.",
+      "normalized_text": null,
+      "zh_tw_rendering": "果實外層由厚壁細胞組成，含深色顆粒；內層為肉質薄壁組織，含油囊。種子具油囊，內含揮發油，後硬化為樹脂。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 144,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 0,
+        "char_end": 1259,
+        "page_text_sha256": "e5f0e49263c888fb40927037c7b7116a737483b5e32d14358c0fa9fa5d87e34f",
+        "exact_text_sha256": "32a2fa688e4d5f98aaa5638a5799ea0ca11dfef176cd936d39a68ac1f1acdfa3",
+        "source_line_start": 1,
+        "source_line_end": 14,
+        "section_index": 1,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "32a2fa688e4d5f98aaa5638a5799ea0ca11dfef176cd936d39a68ac1f1acdfa3",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0143-p0146:s02:x00",
+      "section_type": "distribution",
+      "original_text": "                Verbreitung.              Auf Haiden und                    in    lichten             Nadelwaldungen durch ganz Europa, Mittel-\nund Nordasien und Nordamerika,                             also mit Ausschluss der tropischen                          und subtropischen Region en fast\niiber    die      ganze Erde verbreitet.                    In    den mittel- und siiddeutscken Gebirgen bis in die subalpinen\nRegionen aufsteigend;               in    den bairischen Alpen bis 1500 Meter, in den sttdlichen Alpen und nordlichen\nApenninen bis fiber 1600 Meter, in den Pyrenaen zwischen 970                                                      — 1650 Meter, in der Sierra Nevada\nzwischen         2100—2600 Meter, im westlichen Himalaya bis fiber 4000 Meter emporgehend.",
+      "normalized_text": null,
+      "zh_tw_rendering": "分佈於歐洲、中亞、北亞、北非及北美之荒原與疏林，海拔可達4000米，避熱帶與亞熱帶。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 144,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 1637,
+        "char_end": 2417,
+        "page_text_sha256": "e5f0e49263c888fb40927037c7b7116a737483b5e32d14358c0fa9fa5d87e34f",
+        "exact_text_sha256": "78819383f6d30204f217a05babddcebacebee052ac9004ff07fd906dd2e5d52c",
+        "source_line_start": 25,
+        "source_line_end": 30,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "78819383f6d30204f217a05babddcebacebee052ac9004ff07fd906dd2e5d52c",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0143-p0146:s03:x00",
+      "section_type": "history",
+      "original_text": "                Name und Geschichtliches.                              Der Name Wachholder (althochdeutsch: wecholder, week-\nolter,   wechalter, ioachilder, ivechilter, ivechelder, ivechalder, ivehalter-poam, chr anaivita , cliranawite,\n\nchranpoam, cranivide, kreozpaam, recolter, reckpaam, mittelhochdeutsch: tvachalter, ivacholter, ivalrh-\ndorn, Qaeckholter               etc..    bei       Hildegard: Wachholderboum                              ,   ivachelterboam,   bei   Cordus: Rechholder,\nin   Hort. san: Weckholder,                         bei   Bock: Weckholterbaam                        ,   bei   Brunschwig: Weckholter etc.)           ist   zu-\n                                                                                         *\n\n\n\n\nsammengesetzt aus wach,                       iv acker,    munter, lebhaft, immer lebendig, mit Bezugnahme auf die immer-\ngrfine Beschaffenheit              des        Strauches,         und   ter,       der        = Baum.             Eine gleiche Bedeutung hat auch das\nVorwort queck,            quick, angelsachsisch cvic                   = lebendig und ebenso auch die Zusammensetzung mit Reck,\nRack, altnordisch rakk-r, munter, tapfer.                              Kranivit ist zusammengesetzt aus kran und wit                               (ivid),   alt-\n\nhochdeutsch            ivita,    Holz.             Beziiglich    kran       ist   Grassmann                     der Meinung,    dass   dieses   Wort durch\nUmwandlung aus dem altdeutschen groni, croni (altnordische Wurzel gro-a, grfin) gebildet worden ist.\nJaniperus wird vom keltischen jeneprus (rauh, stachelig) abgeleitet, andere suchen es, wegen des immer\njugendlichen Aussehens, durch fortwahrendes Hervorbringen neuer Zweige und Blatter smfjavenis (jung)\nund par ere (gebaren, hervorbringen)                            zurtickzuffihren.",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源於日耳曼語，意為「活樹」。古希臘少用，中世紀阿拉伯醫學已知濃縮果汁。十六世紀始有圖譜。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 144,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 2567,
+        "char_end": 4422,
+        "page_text_sha256": "e5f0e49263c888fb40927037c7b7116a737483b5e32d14358c0fa9fa5d87e34f",
+        "exact_text_sha256": "4a876b63affe93cd8af8b0dfad9b5ed1f60f1ec67364fe3a13376e27788f39b7",
+        "source_line_start": 34,
+        "source_line_end": 54,
+        "section_index": 3,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "4a876b63affe93cd8af8b0dfad9b5ed1f60f1ec67364fe3a13376e27788f39b7",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0143-p0146:s04:x00",
+      "section_type": "constituents",
+      "original_text": "            Bestandtheile.                    Die      Untersuchungen                   der   Friichte              besitzen        wenig         Uebereinstimmung.\nDonath        erhielt           0,91°/    atherisches          Oel,     0,37°/           Juniperin,                l,86°/     Ameisensaure,           0,94°/     Essig-\nsaure,     0,21°/        Apfelsaure,          Spuren von Oxalsaure,                      0,64 °/       wachsahnliches Fett, 8,46% grimes Harz,\n1,29 °/    braunes hartes Harz,                 0,73% Pektin, 4,25% Protemstoff, 29,65% Zucker.                                                   Ritthausen fand\n10,77% Wasser, 3,77% Asche, 14,36% Traubenzucker,                                                      12,24%            Fett,     Harz und         atherisches    Oel,\n\n5,41% Proteinsubstanz, 31,60% Rohfaser.                               Nach Trommsdorf enthalten die reifen Beeren 1%                                              athe-\n\nrisches Oel,           4% Wachs, 10% Harz, 33% Zucker, 7% Gummi, 35% Faser.                                                                  Aschoff fand freie\nAmeisensaure und in den unreifen Beeren                               viel    Starkemehl, welches jedoch bei der Reife verschwindet.",
+      "normalized_text": null,
+      "zh_tw_rendering": "果實含揮發油、樹脂、糖、蛋白質及纖維。未熟果含澱粉，成熟後消失。揮發油成分因成熟度而異。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 145,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 2554,
+        "char_end": 3821,
+        "page_text_sha256": "e2b5d01f3e5d63f246ea74c6c883e537c566d09a76b9bcd2b827db4ce2a81aaa",
+        "exact_text_sha256": "641a3f23c89afc80ea4d027b07709ecbfd14e838f0a18d580f2d2d975b9fae34",
+        "source_line_start": 33,
+        "source_line_end": 42,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "641a3f23c89afc80ea4d027b07709ecbfd14e838f0a18d580f2d2d975b9fae34",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0143-p0146:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "            Anwen&ung.                   Die Wirksamkeit der Wachholderbeeren                                        ist     ausschliesslich in       dem in ihnen\nenthaltenen atherischen Oele zu suchen.                           Das Wachholderbeerol wird innerlich (meist als Theespezies\noder in spirituoser Losung) und ausserlich angewendet; es dient als Diaphoreticum, Diuretieum, Nervinum,\n\nbei Bauchwassersucht, Blasen- und Harnleiden,                                Lahmungen, gichtischen und rheumatischen Beschwerden.\n„Man verordnet die Wachholderbeeren als Diuretieum zu 10,0—15,0 pro Tag meist als Theespezies, selten\nim Aufguss.             Das Oleum Juniperi kann innerlich zu 2                                — 4 Tropfen mehreremals taglich in Oelzucker\noder spirituoser Losung, ausserlich mit Fett oder in Spiritus gelost, benutzt werden.                                                              Nach Nunneley",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：果實與油作利尿、發汗及神經藥，用於水腫、膀胱病、風濕及癱瘓。內服或外用。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 145,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 6362,
+        "char_end": 7288,
+        "page_text_sha256": "e2b5d01f3e5d63f246ea74c6c883e537c566d09a76b9bcd2b827db4ce2a81aaa",
+        "exact_text_sha256": "c2a55ad69b2a3216c19fe68867220c90250a721f8b435cb96ca237d23ac725d7",
+        "source_line_start": 78,
+        "source_line_end": 85,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "c2a55ad69b2a3216c19fe68867220c90250a721f8b435cb96ca237d23ac725d7",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "TaiCOL and Tai2 do not provide an exact species record; the primary display name comes from a Taiwan FDA standard.",
+    "杜松 is broad in everyday usage, so answers should retain Juniperus communis when species precision matters.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "4b8f2b7ef3bd7a8b490888befaf3741f08b127b23e7df2ebec97e6444b3e65bc",
+    "maker_receipt_sha256": "205d771634dfe2e1b0f9fba638dd5637011f6166218ac89ed1ccc92965b13b9b",
+    "validation_check_sha256": "a5cb0c5c26c9bf3a37445a537fbc83516c55027671f16c83d5ffb2d9e6bec842",
+    "source_disposition_sha256": "19b5aa49289b717ff8c38ff3c4bf797cd91d9bd0961b7d308cc4b1bc68c210fc",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "205d771634dfe2e1b0f9fba638dd5637011f6166218ac89ed1ccc92965b13b9b",
+      "validation_check_sha256": "a5cb0c5c26c9bf3a37445a537fbc83516c55027671f16c83d5ffb2d9e6bec842",
+      "source_disposition_sha256": "19b5aa49289b717ff8c38ff3c4bf797cd91d9bd0961b7d308cc4b1bc68c210fc"
+    },
+    "naming_artifact_sha256": "68c60d4e434289e95e49debac0f2ad5e418bb6db0635aff04c52e2055db341ca"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "b5a4d1ffe72b5bb93910ed16a6d72654389d26c76e919f3b350d0768e1b6f7dd"
+}

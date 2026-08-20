@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 629,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "498a437afa0b5c3aed127d14921515b4b35ad6ec33b7125699a1260b349cb4d4",
+  "render_dpi": 144,
+  "render_sha256": "f3fa52150c1cc421304c8f1f1ace3fa800ed3a21d5a9a4ec8f07769310189afe",
+  "input_sha256": "f3fa52150c1cc421304c8f1f1ace3fa800ed3a21d5a9a4ec8f07769310189afe",
+  "render_pixel_width": 5462,
+  "render_pixel_height": 8102,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.049,
+  "embedded_character_count": 19,
+  "ocr_character_count": 40,
+  "ocr_alpha_ratio": 0.825,
+  "candidate_disposition": "candidate_quality_gain",
+  "staging_disposition": "candidate_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.02034883650522379,
+      "text": "Umbelliferae.",
+      "width": 0.14655172026622287,
+      "x": 0.04310345048111272,
+      "y": 0.8735465122343067
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "8",
+      "width": 0.012931033563228,
+      "x": 0.8706896555244206,
+      "y": 0.3909883723962231
+    },
+    {
+      "confidence": 1,
+      "height": 0.02393231221607761,
+      "text": "Pimpinella Saxifragra l.",
+      "width": 0.2763425758255151,
+      "x": 0.3725784014965214,
+      "y": 0.08386946544841756
+    }
+  ],
+  "text": "Umbelliferae.\n8\nPimpinella Saxifragra l.",
+  "output_sha256": "c5278cb9d5549e6bdc9ed87c0745d840fd9ed6f96cbf29cab66b83871942a2fb",
+  "receipt_sha256": "e1bd05e38cd39b2d4f34f5784c4a3a7111e8d28d4bf6130de712f5f9b80e05e8"
+}

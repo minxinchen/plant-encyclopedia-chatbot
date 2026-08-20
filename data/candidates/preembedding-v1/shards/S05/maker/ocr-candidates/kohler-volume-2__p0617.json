@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 617,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "c3c2e27d6c4f59f7a7ccdda55b792b2516430faa30aa10a17f446e68e14ba3e2",
+  "render_dpi": 144,
+  "render_sha256": "0fa7676b68fd8008f359d5131c6e6e7ede8c43960c57fc909e3a2b9717e65daa",
+  "input_sha256": "0fa7676b68fd8008f359d5131c6e6e7ede8c43960c57fc909e3a2b9717e65daa",
+  "render_pixel_width": 5666,
+  "render_pixel_height": 7814,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.256,
+  "embedded_character_count": 85,
+  "ocr_character_count": 41,
+  "ocr_alpha_ratio": 0.7317,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.3,
+      "height": 0.02055340532272587,
+      "text": "Ternstroemiaceae.",
+      "width": 0.19893471943533048,
+      "x": 0.7392453519243013,
+      "y": 0.9373974141741301
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "3",
+      "width": 0.012024048415156613,
+      "x": 0.1002004005419207,
+      "y": 0.3415697677450603
+    },
+    {
+      "confidence": 1,
+      "height": 0.021900378522418773,
+      "text": "Camellia Thea Ik.",
+      "width": 0.21843687127944383,
+      "x": 0.39478958189534824,
+      "y": 0.11773255816353867
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "136",
+      "width": 0.03406813500191708,
+      "x": 0.9098196395731898,
+      "y": 0.05232558140321675
+    }
+  ],
+  "text": "Ternstroemiaceae.\n3\nCamellia Thea Ik.\n136",
+  "output_sha256": "333a6ca56a8a3a0751cace944f847e5fd9d20a70d0167087cd246f1394b72956",
+  "receipt_sha256": "7fdc5baf4e449d23c6a60a65923a01987542c8e455efe93ad607f0fcb9908d01"
+}

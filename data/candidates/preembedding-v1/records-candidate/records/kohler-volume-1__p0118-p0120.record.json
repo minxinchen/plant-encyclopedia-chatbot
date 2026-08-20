@@ -1,0 +1,269 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0118-p0120",
+  "entry_id": "kohler-volume-1:p0118-p0120",
+  "owner_shard": "S01",
+  "book_taxon": {
+    "scientific_name": "Sambucus nigra",
+    "authorship": null,
+    "aliases": [
+      "Holunder, schwarzer",
+      "Hollunder",
+      "Holder",
+      "Flieder",
+      "Elder Bore Tree",
+      "Sureau"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Sambucus nigra"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T20:27:13+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Sambucus+nigra",
+        "query_name": "Sambucus nigra",
+        "retrieved_at": "2026-08-13T20:27:11+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Holunder+schwarzer",
+        "query_name": "Holunder schwarzer",
+        "retrieved_at": "2026-08-13T20:27:11+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Elder+bore",
+        "query_name": "Elder bore",
+        "retrieved_at": "2026-08-13T20:27:11+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 118,
+      "evidence_type": "text",
+      "page_text_sha256": "986b065cade1fe1cb93c087112e8116cff3352f90a21c148b9e6c17f3be5527b",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 119,
+      "evidence_type": "text",
+      "page_text_sha256": "d9c4ca57b0143f29d148b80f88f8440fc0207c2f9cd4ecb10fa7c53cf8a5da83",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 120,
+      "evidence_type": "text",
+      "page_text_sha256": "0fc23b3755f52eb3378f490927bf1bbc5b567c34d9b0cbbc889dfb51be3c9c12",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0118-p0120:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                                           Sambucus nigra L.\n\n      Holunder, schwarzer                          Hollunder, Holder, Flieder              — Elder Bore Tree — Sureau.\n           Familie:           Caprifoliaceae.              Gattung: Sambucus Tourn,",
+      "normalized_text": null,
+      "zh_tw_rendering": "黑接骨木，屬忍冬科，學名 Sambucus nigra L.，俗名黑接骨木、接骨木。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 118,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 0,
+        "char_end": 280,
+        "page_text_sha256": "986b065cade1fe1cb93c087112e8116cff3352f90a21c148b9e6c17f3be5527b",
+        "exact_text_sha256": "8b12bf05d90d7ac249259a95a5f333a92022deb01ab8868766bd3e5fd2d920ff",
+        "source_line_start": 1,
+        "source_line_end": 4,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "8b12bf05d90d7ac249259a95a5f333a92022deb01ab8868766bd3e5fd2d920ff",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0118-p0120:s01:x00",
+      "section_type": "description",
+      "original_text": "                                                           Meter    holier,    sehr   astiger    Strauch     oder     Baam mit astiger,         aus-\n\ngebreiteter Wnrzel,               rissigen,         aussen   ascbgrauen       alteren Aesten       und Stammen und graubraunlichen,\nreichlich mit Korkwarzchen besetzten Zweigen.                                 Die jungsten Zweige znerst              grttn,     spater grfingrau.\n\nAeste und Zweige mit weissem Marke                            erfullt.     Blatter gegenstandig, gestielt, meist unpaarig-2jochig-\n\ngefiedert, nebenblattlos oder   mit pfriemlichen,  sehr hinfalligen  Nebenblattern    versehen,   kahl oder unter-\n\nseits fein behaart; Blattchen gestielt,   eiformig  oder langlich - eif ormig   lang  zugespitzt,  ungleich\n                                                                                                         ,\n                                                                                                            scharf\n\ngesagt, etwas   runzelig, oberseits dunkelgrttn,  glanzend,  unterseits   hellgrun,  netzaderig,   das endstandige\n\nlanggestielt,       am Grunde             keilformig, die seitlichen kurzgestielt,              am Grunde schief, die untersten kleiner.",
+      "normalized_text": null,
+      "zh_tw_rendering": "高3-9米灌木或樹，枝條具皮孔，葉對生，奇數羽狀複葉，葉片卵形，邊緣鋸齒狀。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 118,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 338,
+        "char_end": 1599,
+        "page_text_sha256": "986b065cade1fe1cb93c087112e8116cff3352f90a21c148b9e6c17f3be5527b",
+        "exact_text_sha256": "8b99a9d94128fa2985137f1e5a57bb8f6bc55a059e6db7dae83104ffc8a9f5ba",
+        "source_line_start": 6,
+        "source_line_end": 21,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "8b99a9d94128fa2985137f1e5a57bb8f6bc55a059e6db7dae83104ffc8a9f5ba",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0118-p0120:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "            Anatomisches.   Die Borkenschuppen des Stammes und der alteren Aeste bestehen aus ab-\ngestorbenem, von Peridermschichten durchschnittenem Rindenparenchym. Die Rinde der jiingeren Aeste\nist mit einer starken Korklage bedeckt.  Die Mittelrinde besteht aus chlorophyllfiihrenden Parenchym-\nzellen;    die     Innenrinde              Das aus deutlichen Jahrringen bestehende Holz ist von\n                                         enthalt Bastbiindel.\nMarkstrahlen durchschnitten die aus dickwandigem Prosenchym zusammengesetzten Gefassbtindel zeigen\n                                               ;\n\n\n\nzwischen den Btindeln Tupfelgefasse. Das Mark besteht aus einem schlaffen Parenchym, welches nach\ndem ausseren Umfange hin Milchgefasse mit braunrothem Inhalte aufweist. Die Kronblatter sind aus\neinem derbwandigen, polyedrischen Parenchym zusammengesetzt, welches von ziemlich starken Gefass-\nbundeln durchzogen                ist.",
+      "normalized_text": null,
+      "zh_tw_rendering": "樹皮含木栓層，木材具年輪，髓部鬆軟含乳汁管，花瓣由厚壁多面體薄壁組織組成。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 118,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 5257,
+        "char_end": 6197,
+        "page_text_sha256": "986b065cade1fe1cb93c087112e8116cff3352f90a21c148b9e6c17f3be5527b",
+        "exact_text_sha256": "8f61cb455d707960a542c95524cef6cf68780cd5d24235a468eab64099d399a4",
+        "source_line_start": 63,
+        "source_line_end": 76,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "8f61cb455d707960a542c95524cef6cf68780cd5d24235a468eab64099d399a4",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0118-p0120:s03:x00",
+      "section_type": "distribution",
+      "original_text": "                    Verbreitung.       In feuchten Gebiischen, Laubwaldern, Hecken, Garten durch fast ganz Europa\n(mit Ausschluss des hoheren Nordens) und das mittlere Asien verbreitet; von Spanien und                                   dem Mittel-\nmeergebiete bis nacli Kankasien und Sudsibirien.                    In Skandinavien,       wo der Hollunder bis zum 67. Breiten-\ngrade vorkommt,             soil er    im Mittelalter durch die Klostergarten einheimisch geworden sein.",
+      "normalized_text": null,
+      "zh_tw_rendering": "分佈於歐洲（除高緯度北區）及中亞，從西班牙至高加索和南西伯利亞，北至斯堪的納維亞。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 119,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 145,
+        "char_end": 626,
+        "page_text_sha256": "d9c4ca57b0143f29d148b80f88f8440fc0207c2f9cd4ecb10fa7c53cf8a5da83",
+        "exact_text_sha256": "0cf6ddd01460f9b4478ae55501a1029a2fcdbd352dd9401b07b4d09750e6ec70",
+        "source_line_start": 6,
+        "source_line_end": 9,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "0cf6ddd01460f9b4478ae55501a1029a2fcdbd352dd9401b07b4d09750e6ec70",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0118-p0120:s04:x00",
+      "section_type": "historical_use",
+      "original_text": "                    Die alten griechischen und romischen Aerzte benutzten sowohl                 S.   nigra   als   auch 8. Ebulus L.\nin gleicher Weise; sie schrieben beiden gleiche Heilkrafte zu.                          Ersteren Hollunder nannten         sie \\i/jvrn\ny\n\n_Ayiea,         lAwcte, Idysueog, Idvjvaia (woraus unser deutsches             Wort Attich fiir S. Ebidus entsprungen ist),\nletzteren %a(,iatay,xrl        .   Die Anwendung von Seiten der alten Aerzte scheint sich jedoch hauptsachlich\nauf Blatter und Wurzeln bezogen zu haben, denn                        sie    benntzten ein Absud der Blatter zur Abfiihrung\ndes Schleimes             und der Galle und          ein   Absud der Wurzel gegen\n                                                                            &^o   Wassersucht.            Der Hollunder befindet\nsich           in   dem Drogenverzeichniss          der salernitaner Schule     „   Circa instans\",   ebenso in dem Nordlinger\nRegister von 1480 und in den alten Arzneibuchern von England und Wales.                                   Von Valerius Cordus\nbesitzen wir eine Anweisung zur Herstellung von Oleum                        sambueinum aus Hollunderbliithen und altem,\nklarem Oele; Cymae Sambuci verordnete er                          zu Salben.   Seit dem Ende des 16. Jahrhunderts findet\n\nman in den Apothekertaxen Bob oder Succus Sambuci.                              Mit Rob oder Rubb bezeichneten die Araber\niiberhaupt jeden Fruchtsaft.",
+      "normalized_text": null,
+      "zh_tw_rendering": "古希臘羅馬醫師用葉和根煮劑治痰、膽汁及水腫；中世紀藥典記載其花油及果漿。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 119,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 2439,
+        "char_end": 3927,
+        "page_text_sha256": "d9c4ca57b0143f29d148b80f88f8440fc0207c2f9cd4ecb10fa7c53cf8a5da83",
+        "exact_text_sha256": "e832ea0c518e2569cd23ecd19a2e466b4f6243fb06f6e25077d0252f4e19e589",
+        "source_line_start": 29,
+        "source_line_end": 44,
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "e832ea0c518e2569cd23ecd19a2e466b4f6243fb06f6e25077d0252f4e19e589",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0118-p0120:s05:x00",
+      "section_type": "constituents",
+      "original_text": "                               ,                                                          :\n\n\n\n\nb                Weichh                 Die Blatter    enthalten Baldriansaure.               In    den Bliithen fand        E lias on    ein\n\neigenthiimliches, durchdringend stark riechendes atherisches   Oel,  eine  stickstoffhaltige, kleberartige  Sub-\n\nstanz, Gerbstoff, Scbleim, Harz, stickstoffhaltigen Extraktivstoff,  apfelsaure  und   andere  Salze und gleich-\n\n                                              betragt die Menge          atherischen   Oeles  ca. 0,03%;   es ist\nfalls   Baldriansaure.             Nach Pagenstecher                des\n\nfrisch hellgelb und dttnnflussig, farbt sich an der Lnft dnnkler und verdickt sick                                    Der Geschmack ist\nbrennend scharf;         es ist leichter als Wasser.            Die Beeren enthalten nach              Scheele: Aepfelsaure, Zucker,\nGummi,      einen rothen Parbstoff, der durch Bleizucker                    und Alkali blau, durch Ueberschuss des letzteren\ngrun und durch Sauren roth gefarbt sind.                        Enz fand ausserdem noch darin:                    atherisches Oel, Essig-\n\nsaure ,    Baldriansaure                                              Weinsteins              Bitterstoff,     Wachs, Harz.       Aus den\nSamen erhalt man durch Auspressen ein griines, fettes Oel von widerlichem, hollunderartigem Geruche\nund Greschmacke.",
+      "normalized_text": null,
+      "zh_tw_rendering": "葉含異戊酸；花含揮發油、黏液、樹脂；果含蘋果酸、糖、色素；種子含綠色脂肪油。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 120,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 0,
+        "char_end": 1441,
+        "page_text_sha256": "0fc23b3755f52eb3378f490927bf1bbc5b567c34d9b0cbbc889dfb51be3c9c12",
+        "exact_text_sha256": "461c7805e8736bb474177f69aaae7bcd11a381266a5ba7b793b55bf220a504e5",
+        "source_line_start": 1,
+        "source_line_end": 22,
+        "section_index": 5,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "461c7805e8736bb474177f69aaae7bcd11a381266a5ba7b793b55bf220a504e5",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "2ab54369845dbf8cdaddaec03a99cdbe4c4753cee89e143206641d3fe4808c44",
+    "maker_receipt_sha256": "6661d71cc487f7755f09ab5e66626e17c112d2d978b78cfce092274d408cf264",
+    "validation_check_sha256": "83144e51269a8ec920c56b47b65c1c94b734e9d63c11741d5fb89b56606b1690",
+    "source_disposition_sha256": "d10d8c0c8a84c9412f713e8a2af31cc0bcc731eed1fcfe01ecc1de3700e90587",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "6661d71cc487f7755f09ab5e66626e17c112d2d978b78cfce092274d408cf264",
+      "validation_check_sha256": "83144e51269a8ec920c56b47b65c1c94b734e9d63c11741d5fb89b56606b1690",
+      "source_disposition_sha256": "d10d8c0c8a84c9412f713e8a2af31cc0bcc731eed1fcfe01ecc1de3700e90587"
+    },
+    "naming_artifact_sha256": "6545a775f0e593216f25d240b5b5e4d4e04f8ba4a3b199447dafe6f842c459b9"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "4bd02df69941840ed6e3388574773e2f7b0a44e9134036d67ef91322375c8871"
+}

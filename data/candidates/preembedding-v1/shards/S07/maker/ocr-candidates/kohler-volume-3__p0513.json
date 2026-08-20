@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-3",
+  "volume": 3,
+  "pdf_page": 513,
+  "owner_shard": "S07",
+  "source_pdf": "/Volumes/NO NAME/第三集 mobot31753002839105.pdf",
+  "source_text_sha256": "b950d0e885dd12f4069ec02a7c6b594a45d3c8bace73b8c18d0f24f86d47f920",
+  "render_dpi": 144,
+  "render_sha256": "97bbbec6299d32efc36ccb2572668b33c10dd3bf02a5b3630b4b2dd5582d6c7b",
+  "input_sha256": "97bbbec6299d32efc36ccb2572668b33c10dd3bf02a5b3630b4b2dd5582d6c7b",
+  "render_pixel_width": 5762,
+  "render_pixel_height": 8330,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.923,
+  "embedded_character_count": 102,
+  "ocr_character_count": 44,
+  "ocr_alpha_ratio": 0.6818,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01756630625043587,
+      "text": "Betulaceae",
+      "width": 0.09038616440202174,
+      "x": 0.7877901099468915,
+      "y": 0.9650540561059894
+    },
+    {
+      "confidence": 1,
+      "height": 0.01809794940645737,
+      "text": "(Betuleae)",
+      "width": 0.08431321557704696,
+      "x": 0.7897761645196021,
+      "y": 0.9444393975579586
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494425,
+      "text": "4",
+      "width": 0.010504201663437684,
+      "x": 0.43907563039202063,
+      "y": 0.8168604654749854
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "5",
+      "width": 0.021008403326875424,
+      "x": 0.07773109234916734,
+      "y": 0.33866279073542827
+    },
+    {
+      "confidence": 1,
+      "height": 0.01894149136921719,
+      "text": "Betula lenta L.",
+      "width": 0.14495798199834792,
+      "x": 0.4432773129714143,
+      "y": 0.02470930274402816
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "69",
+      "width": 0.016806722114590333,
+      "x": 0.928571428690604,
+      "y": 0.030523255917298764
+    }
+  ],
+  "text": "Betulaceae\n(Betuleae)\n4\n5\nBetula lenta L.\n69",
+  "output_sha256": "a70119ab2631873ea4cac339182b4b04b0d02d9b62fb80b6f29d4718b99c8300",
+  "receipt_sha256": "7ce24aa7e7e4bc0e49f6d614e2e07b40926c17f44304cd4ae1d3c64fad882abf"
+}

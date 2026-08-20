@@ -1,0 +1,150 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-1:p0013-p0016",
+  "owner_shard": "S01",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S01/maker/structure-drafts/kohler-volume-1__p0013-p0016.json",
+  "source_draft_sha256": "7034fca9b57f9ceb208102f0b5a0b731eb8214f8909627654332e38a26dfbd67",
+  "eligibility": {
+    "deterministic_status": "pass",
+    "checked_field": "deterministic_status",
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "6f871bfa8958c2d31376573e09896111c84a99c73f409bf26a1171f70c3b81b1",
+    "validation_check_sha256": "f939d7e4322396c8021c457bef755a5aace522cfee111d9ddb4fb29fbac06541",
+    "source_disposition_sha256": "f981efd461bd261b7a99178c4e474f628d1e96ac8e9d5748d2587fc570ef0345",
+    "review_status": "machine_extracted"
+  },
+  "book_name": {
+    "scientific_name_candidate": "Citrus vulgaris",
+    "authorship_candidate": "Risso",
+    "aliases_candidates": [
+      "C. Aurantium var. a. L.",
+      "C. Bigaradia Duh.",
+      "Pomeranze",
+      "Bittere Orange",
+      "Bitter-Orange",
+      "Seville Orange",
+      "Granger amer",
+      "Bigaradier"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "alias",
+    "query_names": [
+      "Citrus vulgaris"
+    ],
+    "accepted_scientific_name": "Citrus × aurantium",
+    "display_name_zh_tw": "來母",
+    "alternative_names_zh_tw": [
+      "酸橙",
+      "南庄橙"
+    ],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0053032",
+    "rationale": "TaiCOL explicitly links the book binomial as a species-level synonym to the accepted taxon.",
+    "checked_at": "2026-08-13T12:27:08+08:00",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Citrus vulgaris",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Citrus+vulgaris",
+      "retrieved_at": "2026-08-13T12:27:08+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Citrus vulgaris",
+          "matched_name_id": 126423,
+          "taxon_id": "t0053032",
+          "taicol_name_status": "not-accepted",
+          "accepted_name": "Citrus × aurantium",
+          "accepted_name_id": 21441,
+          "accepted_usage": [
+            {
+              "usage_id": 182785,
+              "reference_id": 2454,
+              "reference_type": "Book",
+              "publish_year": 2017,
+              "citation": "Ed. Comm. Red List TW Plants,  (2017) The Red List of Vascular Plants of Taiwan, 2017 = 2017 臺灣維管束植物紅皮書名錄.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 202749,
+              "reference_id": 3731,
+              "reference_type": "Journal Article",
+              "publish_year": 2015,
+              "citation": "Hsu, T.-W., Chen, C.-N. & Ho, T.-C. (2015) Notes of Citrus (Rutaceae) in Taiwan = 台灣產柑橘屬（芸香科）植物. <i>Taiwan Journal of Biodiversity = 台灣生物多樣性研究</i> 17(1): 67–73.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 276595,
+              "reference_id": 959,
+              "reference_type": "Book Chapter",
+              "publish_year": 1993,
+              "citation": "Chang, C.-E. & Hartley, T.G. (1993) 63. Rutaceae. In: Flora of Taiwan, 2 ed., vol. 3. 510–544.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 104625,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 336206,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 1254,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0053032",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0053032",
+          "taxon": {
+            "taxon_id": "t0053032",
+            "taxon_status": "accepted",
+            "name_id": 21441,
+            "simple_name": "Citrus × aurantium",
+            "name_author": "L.",
+            "rank": "Species",
+            "common_name_c": "來母",
+            "alternative_name_c": "酸橙,南庄橙",
+            "synonyms": "Citrus aurantium subsp. bergamia, Citrus taiwanica, Citrus vulgaris, Citrus bergamia, Citrus aurantium subsp. aurantium, Citrus unshiu",
+            "is_in_taiwan": true,
+            "alien_type": "native",
+            "alien_status_note": "native: Ed. Comm. Red List TW Plants, 2017|native: Hsu et al., 2015|native: Chang & Hartley, 1993",
+            "not_official": false,
+            "updated_at": "2026-08-05"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

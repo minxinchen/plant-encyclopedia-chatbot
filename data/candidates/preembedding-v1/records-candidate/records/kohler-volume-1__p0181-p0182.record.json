@@ -1,0 +1,282 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0181-p0182",
+  "entry_id": "kohler-volume-1:p0181-p0182",
+  "owner_shard": "S02",
+  "book_taxon": {
+    "scientific_name": "Achillea Millefolium",
+    "authorship": "L.",
+    "aliases": [
+      "Schafgarbe",
+      "Milfoil",
+      "Yarrow",
+      "Millefeuille",
+      "Herba Millefolii",
+      "Summitates Millefolii"
+    ]
+  },
+  "display_name": "洋蓍草",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Achillea Millefolium",
+      "Achillea millefolium"
+    ],
+    "accepted_scientific_name": "Achillea millefolium",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T17:09:03+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Achillea+Millefolium",
+        "query_name": "Achillea Millefolium",
+        "retrieved_at": "2026-08-13T17:09:03+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0023084",
+        "query_name": "Achillea Millefolium",
+        "retrieved_at": "2026-08-13T17:09:03+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0023084",
+        "query_name": "Achillea Millefolium",
+        "retrieved_at": "2026-08-13T17:09:03+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Achillea+millefolium",
+        "query_name": "Achillea millefolium",
+        "retrieved_at": "2026-08-13T17:09:03+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0033572",
+        "query_name": "Achillea millefolium",
+        "retrieved_at": "2026-08-13T17:09:03+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0033572",
+        "query_name": "Achillea millefolium",
+        "retrieved_at": "2026-08-13T17:09:03+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL accepts the queried book binomial at species rank."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 181,
+      "evidence_type": "text",
+      "page_text_sha256": "dcdc98aa202873ba189ba2b4d2587b9f8c0d23bf51ebc265cf2009c634a800d8",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 182,
+      "evidence_type": "text",
+      "page_text_sha256": "184f307fd5c32a3e4036be7e0d4e3b85e8a4c184a2ff8811cd416f41f7da04e9",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0181-p0182:s00:x00",
+      "section_type": "description",
+      "original_text": "         Beschreibimg.        Das   fast       kriechende,           Auslaufer entwickelnde Rhizom treibt\n                                                                 unterirdische   ,\n\n\neinen aufsteigenden oder aufrechten, einjahrigen, einfachen, seltner astigen, melir oder weniger wollig-\nzottigen bis fast kahlen, kantig gefurchten, nach oben hohlen, 15—50 Ctm. hohen Stengel, der mit\nbis 15 Ctm. langen, im Umfange linien-lanzettforniigen, auf der Unterflache mit vertieften Oeldrusen\nversehenen Blattern besetzt ist. Grundblatter gestielt, mit an der Basis hautig erweitertem Blattstiele;\nStengelblatter sitzend.     Sammtliche Blatter vielpaarig 2— 3fach fiederspaltig, zottig bis fast kahl.",
+      "normalized_text": null,
+      "zh_tw_rendering": "根莖匍匐，莖直立，高15-50公分，葉羽狀分裂，具油腺。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 181,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 219,
+        "char_end": 921,
+        "page_text_sha256": "dcdc98aa202873ba189ba2b4d2587b9f8c0d23bf51ebc265cf2009c634a800d8",
+        "exact_text_sha256": "c9cf0e549622378764b33a88922af54bab49582bbc69587769a239dd91318bf9",
+        "source_line_start": 6,
+        "source_line_end": 14,
+        "section_index": 0,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "c9cf0e549622378764b33a88922af54bab49582bbc69587769a239dd91318bf9",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0181-p0182:s01:x00",
+      "section_type": "anatomy",
+      "original_text": "         Anatomisches: Das Blatt besteht in der oberen Halfte aus einer Palissadenschicht, in derunteren aus einen«i\nlockeren Parenchym. Die Oeldrusen, welche von melirzelligen Haaren begleitet sind, befinden sich in Vertiefungen\nder Blattoberflache; sie besitzen denselben Charakter wie die Driisen der Wermuthblatter.",
+      "normalized_text": null,
+      "zh_tw_rendering": "葉片上層為柵狀組織，下層為鬆散薄壁組織，油腺位於凹陷處。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 181,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 3938,
+        "char_end": 4257,
+        "page_text_sha256": "dcdc98aa202873ba189ba2b4d2587b9f8c0d23bf51ebc265cf2009c634a800d8",
+        "exact_text_sha256": "636539af7f2cc8c83446efd217b88c65f8ab8d01c75409db176a3cf45854e816",
+        "source_line_start": 51,
+        "source_line_end": 53,
+        "section_index": 1,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "636539af7f2cc8c83446efd217b88c65f8ab8d01c75409db176a3cf45854e816",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0181-p0182:s02:x00",
+      "section_type": "distribution",
+      "original_text": "         Verbreitung*   Auf Ackerrandern, Triften, Wiesen, in Niederungen bis in die Gebirge durch\nEuropa, Nordasien (bis zum Himalaya herab) und Nordamerika verbreitet.",
+      "normalized_text": null,
+      "zh_tw_rendering": "分佈於歐洲、北亞（至喜馬拉雅）及北美，生長於田埂、草地及山區。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 181,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4259,
+        "char_end": 4428,
+        "page_text_sha256": "dcdc98aa202873ba189ba2b4d2587b9f8c0d23bf51ebc265cf2009c634a800d8",
+        "exact_text_sha256": "360bcd77c285d0f5e46d79ee4db698e6b378d577da813daa92578df0040aa099",
+        "source_line_start": 55,
+        "source_line_end": 56,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "360bcd77c285d0f5e46d79ee4db698e6b378d577da813daa92578df0040aa099",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0181-p0182:s03:x00",
+      "section_type": "history",
+      "original_text": "         Name und Geschichtlich.es.         Der Name Garbe (althochdeutsch garaiva, gamva, hanve,\nangelsachsissh gearve, mittelhochdeutsch Qarivel, Gahel, Garb, Garive, Gertel, Gabl, Barbune, Grau-\nsinc,   Schofgarb, bei Tabernaemontanus Wilder Bieiienpfeffer, Schapfgerive , bei Cordus Garbe,\nFeldgarbe, Grunsingkraxd, Relicken, bei Hildegard Gariva, bei Fuchs Gerbel, Schafgarbe, bei Bock\nund Gessner Schafrippe, Gerwel, Jungfrauaugbroen) ist nach Grassmann ein uralter Name und\nwird von ihm auf das Altnordische zuruckgefiihrt.        Nach dem Angelsachsischen heisst gearve (fern.)",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱源於古日耳曼語，Plinius稱其由阿基里斯發現，用於治療傷口。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 181,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4473,
+        "char_end": 5058,
+        "page_text_sha256": "dcdc98aa202873ba189ba2b4d2587b9f8c0d23bf51ebc265cf2009c634a800d8",
+        "exact_text_sha256": "875ac8c25bc47fed48b67437d6215a57ecbf326bab6a4176444a20eb3695e145",
+        "source_line_start": 58,
+        "source_line_end": 63,
+        "section_index": 3,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "875ac8c25bc47fed48b67437d6215a57ecbf326bab6a4176444a20eb3695e145",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0181-p0182:s04:x00",
+      "section_type": "constituents",
+      "original_text": "           Bestandtheile. Das Kraut enthalt nach Bley in Prozenten 0,05\n                                                                   Extraktivstoff   2,75  eisengriinenden    Gerb-\nsaure, 1,2 Eiweiss mit   Spur  von   Starke,  0,6  Hartharz,  17,6\n                                           Salpeter  und  Chlorkalium.   In  der  Bluthe  fand   Bley   U,8  atne-\nstoff, 3,55  Gummi,  6,9 Blattgriin,  2,2",
+      "normalized_text": null,
+      "zh_tw_rendering": "含揮發油、醋酸、鞣質、蛋白質、樹脂及硝酸鉀等成分。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 182,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 2961,
+        "char_end": 3371,
+        "page_text_sha256": "184f307fd5c32a3e4036be7e0d4e3b85e8a4c184a2ff8811cd416f41f7da04e9",
+        "exact_text_sha256": "0cf04eb145b06d8b920011005034205f433376a50ce0b70ff616e101ea67fcd4",
+        "source_line_start": 42,
+        "source_line_end": 46,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "0cf04eb145b06d8b920011005034205f433376a50ce0b70ff616e101ea67fcd4",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0181-p0182:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "          Anwendung. Die          Schafgarbe   wird im  Aufguss,   als frisch  gepresster  Saft and Extrakt   zu\n Fruhlingskuren, bei   Intermittens,  chronischen Leber-  und Milztumoren     und  als Stomacbicum  verwendet;\n das  zerquetschte frische  Kraut  aucb  zu zertheilenden  Umschlagen.     Iva  findet  Anwendung   gegen  Epi-\n lepsie und wird in der    Scbweiz   zur Bereitung  eines feinen Liqueurs   gebraucht.    (Husemann,    Arz-nei-",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：煎劑、鮮汁或浸膏用於春季療法、間歇熱及肝脾腫大。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 182,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 9352,
+        "char_end": 9800,
+        "page_text_sha256": "184f307fd5c32a3e4036be7e0d4e3b85e8a4c184a2ff8811cd416f41f7da04e9",
+        "exact_text_sha256": "5c9069f3e3d85736e81263028f8e05056838534ad5829ee96c8e472bc650cd6b",
+        "source_line_start": 125,
+        "source_line_end": 128,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "5c9069f3e3d85736e81263028f8e05056838534ad5829ee96c8e472bc650cd6b",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "e14f004803ab0bd48e9b852da0c2cd3f01360cfb508a1800576b97858f1e2d8e",
+    "maker_receipt_sha256": "7c8f3cadbf3e4fc8d1e9a88e2cdf5ebb39fe8a7ca891c57965d0eb3bbe63e37d",
+    "validation_check_sha256": "d50f4bb919edd4d7ed20c8061bf7d586c814da677d30d4e73b958c9fb23c86dc",
+    "source_disposition_sha256": "999714933fddf215c82e985e8a6f2bdc4d46fdfc24be1a764fb496aaacba6557",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "7c8f3cadbf3e4fc8d1e9a88e2cdf5ebb39fe8a7ca891c57965d0eb3bbe63e37d",
+      "validation_check_sha256": "d50f4bb919edd4d7ed20c8061bf7d586c814da677d30d4e73b958c9fb23c86dc",
+      "source_disposition_sha256": "999714933fddf215c82e985e8a6f2bdc4d46fdfc24be1a764fb496aaacba6557"
+    },
+    "naming_artifact_sha256": "e01fa3212fdc010806db153b0adedb2ee65f11b5829197be308fca88cdb5f04f"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "1b5b2114d6a8f17eb6178c8b43a3e18f0d97fdfc32e31984c1682b6d591f1aad"
+}

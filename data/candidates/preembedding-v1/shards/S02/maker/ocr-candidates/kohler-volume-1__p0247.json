@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 247,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "2600ad76652d24dc33fc65342d5be8639ebe29473ccdf7676b3500b0e6176f70",
+  "render_dpi": 144,
+  "render_sha256": "59b5a46a64ca96593c7d604a5fed2538cf54d3b0f999c5949ec6f3f1f7626153",
+  "input_sha256": "59b5a46a64ca96593c7d604a5fed2538cf54d3b0f999c5949ec6f3f1f7626153",
+  "render_pixel_width": 5762,
+  "render_pixel_height": 7478,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 5.014,
+  "embedded_character_count": 88,
+  "ocr_character_count": 32,
+  "ocr_alpha_ratio": 0.7812,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.021930009599715916,
+      "text": "Coniferae.",
+      "width": 0.08785365631221344,
+      "x": 0.07869231982925119,
+      "y": 0.9374272145730693
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "11",
+      "width": 0.013182674442325626,
+      "x": 0.32956685470444924,
+      "y": 0.7354651163840817
+    },
+    {
+      "confidence": 1,
+      "height": 0.023127618290129215,
+      "text": "Pinus silvestris L",
+      "width": 0.15849122546968009,
+      "x": 0.4292289622173042,
+      "y": 0.0545699117356645
+    }
+  ],
+  "text": "Coniferae.\n11\nPinus silvestris L",
+  "output_sha256": "0759467bccd3a316fb9072b9cbd20122f69f4fb6bba927b04ff1f8ce827d9d1f",
+  "receipt_sha256": "6d7dc1de46bd611072ce592601f6460a5a3ca613db21208779ed5847113b8d97"
+}

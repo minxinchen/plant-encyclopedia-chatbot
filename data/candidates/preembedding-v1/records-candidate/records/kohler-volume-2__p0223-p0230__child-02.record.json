@@ -1,0 +1,245 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-2-p0223-p0230-child-02",
+  "entry_id": "kohler-volume-2:p0223-p0230:child-02",
+  "owner_shard": null,
+  "book_taxon": {
+    "scientific_name": "Capsicum annuum",
+    "authorship": null,
+    "aliases": []
+  },
+  "display_name": "辣椒",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Capsicum annuum"
+    ],
+    "accepted_scientific_name": "Capsicum annuum",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-20T23:02:46+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Capsicum+annuum",
+        "query_name": "Capsicum annuum",
+        "retrieved_at": "2026-08-20T23:02:46+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0052799",
+        "query_name": "Capsicum annuum",
+        "retrieved_at": "2026-08-20T23:02:46+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0052799",
+        "query_name": "Capsicum annuum",
+        "retrieved_at": "2026-08-20T23:02:46+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL accepts the queried book binomial at species rank."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 225,
+      "evidence_type": "text",
+      "page_text_sha256": "a44f417332b7d08d181724293dccd99d737c32728d62e2549c831845e5d5e7a8",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 226,
+      "evidence_type": "text",
+      "page_text_sha256": "bd2b450456e85166258642303b8d6ea83e3d8d541edc0879b43110dead17c803",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 227,
+      "evidence_type": "text",
+      "page_text_sha256": "2d65aa3b34447ed148e040ed31f8ca4f6db22c89c7bf3e249ea6d1b22a1ec1a2",
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-2:p0223-p0230:child-02:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "           Familie.     Solanaceae (Unterfamilie: Solaneae); Gattung: Capsicum Tourn.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 225,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 428,
+        "char_end": 513,
+        "source_line_start": 8,
+        "source_line_end": 8,
+        "page_text_sha256": "a44f417332b7d08d181724293dccd99d737c32728d62e2549c831845e5d5e7a8",
+        "exact_text_sha256": "50b3d60ecf91bf0de38a29c2a10d185108d7a42414efe59fa9b6a19c3b396e0e",
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "50b3d60ecf91bf0de38a29c2a10d185108d7a42414efe59fa9b6a19c3b396e0e",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0223-p0230:child-02:s01:x00",
+      "section_type": "description",
+      "original_text": "           Beschreibung.         Die    einjährige, senkrecht    in den Boden    gehende, sehr befaserte Wurzel\ntreibt einen aufrechten,       30 bis 60 Ctm   hohen, kahlen, am Grunde      holzigen, oben krautartigen, grünen,\nkantigen, innen markigen, an den Knoten verdickten, unten einfachen, oben ästigen Stengel. Blätter\neinzeln, nach oben oft zu zweien, lang gestielt, elliptisch oder eiförmig, zugespitzt, ganzrandig, kahl,\nvon   dunkelgrüner    Farbe.     Blüthen   einzeln, seltener zu zweien,   gabel- oder achselständig,   während   des\nBlühens hängend, auf langen, gegen den Kelch verdickten Stielen, weiss. Kelch halbkugelig, stumpf,\n5—6kantig, abgestutzt, mit 5 bis 6zähnigem Saume, bleibend. Krone fast radfórmig, mit sehr kurzer,\nweiter Röhre und tief 5 bis 6spaltigem Saume; Abschnitte eiförmig, zugespitzt, weiss, in der Knospe\nklappig.    Staubgefässe   5 bis 6, dem Grunde       der Röhre    eingefügt, mit den Abschnitten   wechselnd,    mit\npfriemlichen, am Grunde jederseits verbreiterten und mit ohrartigen Läppchen aneinanderstossenden\nFäden. Staubbeutel aufrecht, unten 2lappig, oben ausgerandet, 2fächerig, zusammenneigend, der\nLänge nach 2spaltig sich öffnend. Pollen elliptisch, 3furchig, blassgelb, unter Wasser rundlich 3seitig,\n3porig. Stempel auf einer undeutlichen Scheibe; Fruchtknoten rundlich-eiförmig oder fast kugelig,\noben durch Unentwickeltbleiben der Scheidewánde einfächerig, unten 2 (selten 3-)fücherig. Die viel-\neligen Samenträger oben wandstándig, im unteren Theile zu einer grossen mittelständigen Säule ver-\nwachsen. Griffel fadenförmig, nach oben verdickt, mit etwas erweiterter, mehrlappiger Narbe. Frucht\neine aufrechte, aufgeblasene, lederige, saftlose, glatte, kegelförmig-längliche, 5—7 Ctm. lange, 2'/, bis\n3 Otm. dicke, vom ausgebreiteten, grünlich-braunen Kelch gestützte, glänzende, rothe oder gelbrothe,\nvielsamige Beere bildend. Samen zahlreich, flach, nierenfórmig. Embryo stielrund, ringfórmig in dem\nfleischig-óligen Eiweiss.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 225,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 514,
+        "char_end": 2502,
+        "source_line_start": 9,
+        "source_line_end": 28,
+        "page_text_sha256": "a44f417332b7d08d181724293dccd99d737c32728d62e2549c831845e5d5e7a8",
+        "exact_text_sha256": "9b5c9d1bc0135ed2f8fe8fa634084b66846ea3e930e1590b7ae858ea201e4fc4",
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "9b5c9d1bc0135ed2f8fe8fa634084b66846ea3e930e1590b7ae858ea201e4fc4",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0223-p0230:child-02:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "             Anatomisches.           Die Fruchtwand besteht aus 2 Schich—teeine\n                                                                            n r derben äusseren und einer\n lockeren,     faserigen,    inneren Schicht — welche sich nach der Aufquellung in Wasser leicht von ein-\n ander trennen lassen. Die äussere Schicht, deren Zellen zugleich der Sitz des feinkórnigen, gelbrothen\n  Farbstoffes sind, zeigt 4 一 8 Reihen gelber, tafelfórmiger, dickwandiger Zellen mit porósen Wandungen,\n  welche im Querschnitt tangential gestreckt erscheinen, im tangentialen Längsschnitt hingegen in\n  quadratischer Form und in bedeutender Ausdehnung auftreten. Die innere, fast doppelt so breite\n  Fruchtschicht ist aus fast farblosen, im Querschnitt tangential gestreckt erscheinenden, flachen Zellen\n  mit zarten, zusammengefallenen Wänden zusammengesetzt; die Zellen der innersten Reihe zeigen eine\n derbere     Beschaffenheit,\n                           im tangentialen Längsschnitte eine geschlängelte Form und zahlreiche Poren-\n kanäle.    Diese innere Fruchtschicht ist von zahlreichen, feinen, meist parallel laufenden Gefässbündeln\n durchzogen. Die Zellen der äusseren Fruchthaut enthalten in einer farblosen Flüssigkeit rundliche oder\n elliptische, rothe Farbenbläschen und Tröpfchen von ätherischem Oel; die Zellen der innersten Reih\n                                                                                                         e\n sind hier und da, gewöhnlich vor einem Gefässbündel, mit kleinen Krystallen ausgestattet.\n     ;   Die von einer dicken äusseren und dünnen                     inneren   Samenschale       bedeckten     Samen     bestehen\n aus dickwandigem, der Embryo aus zartem Gewebe,                    welches     mit trübem, körnigem          Inhalte   erfüllt ist.\n. Durch die Ungleichmässigkeit der dickwandigen, radial gestellten Zellen der äusseren Samenhaut wi\n                                                                                                    rd\n  die grubig-runzelige Oberfläche erzeugt.                                                          :",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 226,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 3339,
+        "char_end": 5450,
+        "source_line_start": 42,
+        "source_line_end": 62,
+        "page_text_sha256": "bd2b450456e85166258642303b8d6ea83e3d8d541edc0879b43110dead17c803",
+        "exact_text_sha256": "b2a6b4adab363e91ac5b69e381b36de598dd1d6fda1d532217c61db145012c7c",
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "b2a6b4adab363e91ac5b69e381b36de598dd1d6fda1d532217c61db145012c7c",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0223-p0230:child-02:s03:x00",
+      "section_type": "distribution",
+      "original_text": "             Vorkommen:           Capsicum annuum und longum sind über alle heissen und würmeren Gegenden\n der Erde verbreitet; beide werden             in vielen Spielarten    in allen würmeren        Gegenden      kultivirt, nament-\n lich im tropischen Amerika.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 226,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 5452,
+        "char_end": 5715,
+        "source_line_start": 64,
+        "source_line_end": 66,
+        "page_text_sha256": "bd2b450456e85166258642303b8d6ea83e3d8d541edc0879b43110dead17c803",
+        "exact_text_sha256": "330948091ff41c51720d127e7b054a5a0649b558883d19ebe7bfde9e7f9c4595",
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "330948091ff41c51720d127e7b054a5a0649b558883d19ebe7bfde9e7f9c4595",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-2:p0223-p0230:child-02:s04:x00",
+      "section_type": "constituents",
+      "original_text": "          Bestandtheile.        Braconnotfand in 100 Theilen des spanischen Pfeffers: 1,9 scharfes Oel,\n0,9 Wachs mit rothem Farbstoff, 9,0 braune, durch Jod sich nicht blüuende stärkemehlartige Substanz,\n6,0 gummiartigen Stoff, 5,0 stickstoffhaltige Materie, 67,0 Holzfaser, 6,0 Kaliumeitrat, 3,4 Kalium-\nphosphat, Kaliumchlorid.     Nach Buchholz und Anderen ist der Träger der Schärfe ein Weichharz\n(Capsicin). Thresh fand einen eigenthümlichen, krystallinischen, stickstofffreien Körper: Capsaicin.\n          Capsicin ist nach Braconnot eine weiche, gelbe oder rothbraune Masse von anfangs balsami-\nschem, hinterher heftig brennendem Geschmack,          die sich wenig in Wasser,   leicht in Weingeist, Aether,\nTerpenthinöl und Kalilauge löst, an der Luft allmählich austrocknet und bei stärkerer Erhitzung zu\nHusten und Niessen reizende Dämpfe entwickelt.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-2",
+        "volume": 2,
+        "pdf_page": 227,
+        "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+        "char_start": 5131,
+        "char_end": 5991,
+        "source_line_start": 54,
+        "source_line_end": 62,
+        "page_text_sha256": "2d65aa3b34447ed148e040ed31f8ca4f6db22c89c7bf3e249ea6d1b22a1ec1a2",
+        "exact_text_sha256": "2a2d1f3a05e8b9ebe98b7816d41f5c44e0676ee1e79224892b294ccf7670fa3d",
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "2a2d1f3a05e8b9ebe98b7816d41f5c44e0676ee1e79224892b294ccf7670fa3d",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "4c0dfac5c35c1ce67c266a8f66b0fec5344cfb3529f3fc330f4920e54cfa2c0e",
+    "maker_receipt_sha256": null,
+    "validation_check_sha256": null,
+    "source_disposition_sha256": "ce8fc52276e1b3ef7f7d2d80e1f8c6f419940346dc8dfd31fdf121c66a04ea5a",
+    "candidate_source_chain": {
+      "source_disposition_sha256": "ce8fc52276e1b3ef7f7d2d80e1f8c6f419940346dc8dfd31fdf121c66a04ea5a",
+      "boundary_overlay_plan_sha256": "c7c0253e52f0583570699f98cc9c8fa3dda15857551bc2b94d6430ed0afd008a",
+      "boundary_segment_sha256": "31ecc5683b3c9b6e15beb6a3baacca86f719966c600492202861d12a6a1d02a9",
+      "source_parent_entry_id": "kohler-volume-2:p0223-p0230",
+      "continuation_v2_receipts": [
+        {
+          "package_id": "kohler-volume-2:p0223-p0230:child-02:continuation-01",
+          "package_sha256": "85eebec896d8b0b481f1c9d0dc24188d2ff81de81a74cbd63111ab0a199ccc4a",
+          "receipt_sha256": "8db7ff0e8e80183b47f2720db5c5f2264227f40d59f54ec8fe121d4b8ac4d965",
+          "attempt_sha256": "a27fec02793fa9c9e046dc52dc301d7c74805590678aa78de7593753a57ba3b0",
+          "validation_check_sha256": "eea7d98a1da491880d1495ed1be803e0817d14c39543e593d919360c9b7a3205"
+        }
+      ]
+    },
+    "naming_artifact_sha256": "105d3e53b91ca74181a431e87a1bba5b837cbf96b47f48fcb8485f1ddb2afb47"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "30fa9aeae180aab30d49e75d4caca88c1d283ff9aab5acb3b89c542b61d33c5b"
+}

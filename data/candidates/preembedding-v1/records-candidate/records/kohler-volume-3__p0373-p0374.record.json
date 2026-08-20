@@ -1,0 +1,238 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-3-p0373-p0374",
+  "entry_id": "kohler-volume-3:p0373-p0374",
+  "owner_shard": null,
+  "book_taxon": {
+    "scientific_name": "Juniperus Oxycedrus",
+    "authorship": null,
+    "aliases": []
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Juniperus Oxycedrus",
+      "Juniperus oxycedrus"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-20T23:03:46+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Juniperus+Oxycedrus",
+        "query_name": "Juniperus Oxycedrus",
+        "retrieved_at": "2026-08-20T23:03:02+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0024091",
+        "query_name": "Juniperus Oxycedrus",
+        "retrieved_at": "2026-08-20T23:03:02+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0024091",
+        "query_name": "Juniperus Oxycedrus",
+        "retrieved_at": "2026-08-20T23:03:02+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Juniperus+oxycedrus",
+        "query_name": "Juniperus oxycedrus",
+        "retrieved_at": "2026-08-20T23:03:02+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 373,
+      "evidence_type": "text",
+      "page_text_sha256": "a8fa1321af9334aece099164d9f164d1956e6a2f735d779e1607f17faa0efa24",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    },
+    {
+      "source_id": "kohler-volume-3",
+      "volume": 3,
+      "pdf_page": 374,
+      "evidence_type": "text",
+      "page_text_sha256": "1858705b760e3dc385719c979f0f65ff227e0638a62a0e50882ebd9898f05057",
+      "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-3:p0373-p0374:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                    Juniperus                   Oxycedrus                     L.\nCedern-Wachholder, spanische Ceder, Kadestrauch, Kranewett, Kaddigstrauch. Engl.: Cade.\nFranz.: Cade. Dän.: Enebaer. Norw.: Ener. Span.: Enebro, Miero. Ung.: Füstös-fenyö.\n        Dayanı: Des rufescens Link. Juniperus tenella Antoine. Oxycedrus Clus.\n        Familie:          Coniferaee      Unterfamilie:             Cupressineae.e         Gattung:     Juniperus    L.      Sekt.:\nOxycedrus Endl.                     |                                                                                                  |",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 373,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 0,
+        "char_end": 616,
+        "source_line_start": 1,
+        "source_line_end": 6,
+        "page_text_sha256": "a8fa1321af9334aece099164d9f164d1956e6a2f735d779e1607f17faa0efa24",
+        "exact_text_sha256": "ee06981f3738a24f1fc5277b178e1396087b0c509defd2db05e68fe15b648e43",
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "ee06981f3738a24f1fc5277b178e1396087b0c509defd2db05e68fe15b648e43",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0373-p0374:s01:x00",
+      "section_type": "description",
+      "original_text": "          Beschreibung.          Diese,        dem    gewöhnlichen Wachholder                 sehr ähnliche Pflanze ist ein\nStrauch    oder     kleiner Baum         von     4 bis     5 m Höhe.      Sein Stamm          ist bisweilen    bis 40 cm stark,\nsein Holz ist weiss und wohlriechend, seine Rinde rotbraun, dünn und glatt.                                      Die Äste (wie\nder Stamm) sind stielrund und ausgebreitet, die Zweige dagegen kurz, aufrecht oder ab-\nstehend, deutlich dreikantig, mit hervorragenden stumpfen Kanten. Die nadelförmigen Blätter\nstehen in gedrängten dreizähligen abstehenden Quirlen und laufen in eine hervorragende\nlange Stachelspitze aus.    Die grüne Oberseite ist von einem hervortretenden Mittelnerven\ndurchzogen und erscheint dadurch seicht zweifurchig; die Furchen selbst sind durch weisslich\nbraunen Reif deutlich sichtbar. Die Unterseite zeigt einen gerieften hervortretenden Kiel,\ndie Ränder sind stumpf, drüsenlos und grün, die Blätter im ganzen gewöhnlich 15 bis 20 mm\nlang und 1,5 bis 2 mm breit, seltener an sterilen Zweigen kürzer.     Der Strauch ist diözisch.\nDie männlichen Kätzchen sind beinahe sitzend und nahezu kuglig, 3 bis 4 mm lang und\nbreit, also nur etwa ein Drittel bis ein Fünftel so lang als die Stützblätter, unter sich aber\nziemlich gleich.  Die einzelnen Deckschuppen sind nahezu kreisförmig, am Rande zerrissen-\nzähnig; am Grunde tragen sie vier bis fünf kuglige, einfächerige Antheren mit rundlichen\nPollenkörnern. Die weiblichen Blüten stehen auf kleinen Kurztrieben in den Blattachseln\nund sind von drei bis sechs rundlichen Schuppen umgeben und von etwa zwei Blattwirteln\ngestützt.  Die Blättchen der letzteren sind aufrecht, mit kurzer scharfer Spitze, eiförmig oder\nbeinahe kreisrund.    Diese kleinen Kurztriebe stehen zu zwei bis drei oder einzeln in den                                                 .\nBlattachseln, sind breit eiförmig oder kuglig, stumpf dreikantig und nach der Spitze zu aus-\ngerandet. —        Die Blüten       enthalten        drei aufrechte Samenanlagen                 mit nach oben gerichteter\nMikropyle;        diese   verwachsen           mit   den   Stützblättern     zu beerenartigen          Zapfen,      welche    dann\nalso    einzeln    oder     zu wenigen          in den Blattachseln          erscheinen.         Diese Zapfenbeeren haben\nwechselnde        Grösse;    bald      sind    sie 6 bis     7 mm    lang und        etwa    5 bis 6 mm       breit oder     sie er-\nreichen 10 bis 12 mm, sind also etwa halb so lang als die Blätter.                                    Sie sind nahezu kuglig,\nrötlich oder rotbraun, glänzend, zeigen, wie die Wachholderbeeren, an der Spitze die Ver-\neinigungslinien der drei Hüllblätter, und unter der Spitze die kleinen dreieckigen Spitzenreste\ndieser drei Blätter.   An der Spitze sind die Früchte leicht bereift; sie enthalten einen bis\nzwei,    selten    drei tetraedrische,           gelbliche    Samen.       Der   Embryo        liegt aufrecht    in dem      reich-\nlichen Nährgewebe und hat mehrere Keimblätter. — Die fleischige Fruchthülle ist reich an\nätherischem Öl, welches sich, wie bei den Wachholderbeeren, in weiten Ölräumen vorfindet.\nEs verharzt sehr leicht und bildet bei älteren ausgetrockneten Beeren bernsteingelbe, den\nSamen     anhängende,        aromatisch         schmeckende         Harzkügelchen.\n",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 373,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 617,
+        "char_end": 3985,
+        "source_line_start": 7,
+        "source_line_end": 40,
+        "page_text_sha256": "a8fa1321af9334aece099164d9f164d1956e6a2f735d779e1607f17faa0efa24",
+        "exact_text_sha256": "7cd5239892894d27c58f5ad4cda3ad27b2f9082ef540ae047390e83dba780dbd",
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "7cd5239892894d27c58f5ad4cda3ad27b2f9082ef540ae047390e83dba780dbd",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0373-p0374:s02:x00",
+      "section_type": "distribution",
+      "original_text": "        Vorkommen.     Der Strauch wächst an steinigen Abhängen Südeuropas, von Griechen-\nland bis zu den Pyrenäen und dem südlichen Frankreich, im nördlichen Afrika, auf Madeira,\nin Kleinasien und dem Orient.  Er steigt                       bis zur    Höhe       von    2000 m,    und    beginnt     schon   in\nder Region des Ölbaumes sich zu zeigen.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 373,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 4010,
+        "char_end": 4362,
+        "source_line_start": 42,
+        "source_line_end": 45,
+        "page_text_sha256": "a8fa1321af9334aece099164d9f164d1956e6a2f735d779e1607f17faa0efa24",
+        "exact_text_sha256": "50b7788b8fe405f847ea284d7ca37ce6927f88c7a6fb3a209dcd162cd8a093f4",
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "50b7788b8fe405f847ea284d7ca37ce6927f88c7a6fb3a209dcd162cd8a093f4",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0373-p0374:s03:x00",
+      "section_type": "constituents",
+      "original_text": "          Bestandteile. Die einzelnen Bestandteile des Öles sind noch wenig gekannt.  Durch\n Destillieren mit gespannten Wasserdämpfen       erhält man  daraus reichliche Mengen  eines\n Sesquiterpens C!5H®%, welches bei 274 bis 275° O. siedet.   Genauere Untersuchungen fehlen.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 374,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 2129,
+        "char_end": 2406,
+        "source_line_start": 19,
+        "source_line_end": 21,
+        "page_text_sha256": "1858705b760e3dc385719c979f0f65ff227e0638a62a0e50882ebd9898f05057",
+        "exact_text_sha256": "483f5104b9bda2dadcc3702000eb419525401640f94119add3baf722eb0dfe2c",
+        "section_index": 3,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "483f5104b9bda2dadcc3702000eb419525401640f94119add3baf722eb0dfe2c",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-3:p0373-p0374:s04:x00",
+      "section_type": "historical_use",
+      "original_text": " =” Anwendung. Das Kadeöl ist seit langer Zeit ein Volksheilmittel; höchstens wurde\n cs früher in der Tierarzneikunde hin und wieder angewandt. Erst in neuerer Zeit hat man\n sich    mehr     mit    dem      Öl beschäftigt       und    hat es auch        beim      Menschen      versucht.        Man     benutzt\n es äusserlich als Einreibung bei chronischen Hautkrankheiten, bei Gicht und Rheumatismus\n in Form        von     Salben     oder    Seifen.     Innerlich      giebt man         es als Wurmmittel,            sowie     ebenfalls\n bei Behandlung           chronischer Hautausschläge                 in Dosen        von     zwei    bis fünf Tropfen,            dreimal\n täglich.       Man     hat es fast in alle Pharmakopöen                   von    Europa      aufgenommen.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-3",
+        "volume": 3,
+        "pdf_page": 374,
+        "source_pdf_sha256": "e5595cebe80e6e645852e6ee581189f0b179d54d74ef72d0e5c10456a110ed64",
+        "char_start": 2408,
+        "char_end": 3191,
+        "source_line_start": 23,
+        "source_line_end": 29,
+        "page_text_sha256": "1858705b760e3dc385719c979f0f65ff227e0638a62a0e50882ebd9898f05057",
+        "exact_text_sha256": "b7f372e534a5c75d8c0455f10971e8661cb42f576aa3a47c3ba8bbd432763941",
+        "section_index": 4,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "b7f372e534a5c75d8c0455f10971e8661cb42f576aa3a47c3ba8bbd432763941",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "015bbb5bae5883da280a2bc975acbea793f3ee3db1866020017191f9d33f6629",
+    "maker_receipt_sha256": null,
+    "validation_check_sha256": "5de842144b995beec9856498272873fbd97cdc6e1c35a158f1f0c0829a09a164",
+    "source_disposition_sha256": null,
+    "candidate_source_chain": {
+      "validation_check_sha256": "5de842144b995beec9856498272873fbd97cdc6e1c35a158f1f0c0829a09a164",
+      "package_sha256": "8efd955141dad73a8ec92f9e19e6a9a7753eae5d070afd2372bd40ab1734d112",
+      "receipt_sha256": "650b6d0e3157f0c1c9848511b48207e9a0b4817497b0f2d6d41c987ffc467422",
+      "recovery_kind": "terminal_body_boundary_split",
+      "source_parent_entry_id": "kohler-volume-3:p0373-p0536"
+    },
+    "naming_artifact_sha256": "110080fae3bae90a69cecef2bda83a8d3c89d46c5d9744ee6db6b57957e0e681"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "9757cb33000d1259c326b5243cc62c24aefacacc9ac07ca5cc149222575e656f"
+}

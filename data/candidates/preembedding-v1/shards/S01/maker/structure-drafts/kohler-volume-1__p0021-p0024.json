@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0021-p0024",
+  "owner_shard": "S01",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 149.985,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0021-p0024",
+    "book_taxon": {
+      "scientific_name_candidate": "Juglans regia L.",
+      "authorship_candidate": null,
+      "aliases_candidates": [
+        "Wallnuss",
+        "Walnuss",
+        "Walsche Nuss",
+        "Walnut",
+        "Noyer commun"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 21,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "科：胡桃科；屬：胡桃屬。",
+        "warnings": [],
+        "source_line_range": [
+          5,
+          5
+        ],
+        "exact_source_quote": "              Familie: Juglandaceae; Gattung: Juglans."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 21,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "高至20米，樹皮灰白後龜裂；葉互生，奇數羽狀複葉，長15-45公分，小葉5-9枚，橢圓形至長橢圓形，深綠色。",
+        "warnings": [],
+        "source_line_range": [
+          11,
+          24
+        ],
+        "exact_source_quote": "              Beschreibung.             Ein bis 20 Meter holier                  Baum         mit kurzem         Stamm und           schoner,        ausge-\n\nbreiteter Krone.           Die dicke Rinde           aschgrau      ,    anfangs glatt     ,   spater rissig      ,\n                                                                                                                      balsamisch harzig        ,\n                                                                                                                                                    an den\n\n                                                      Mark       der Zweige gefachert.                Blatter        zerstreut,    gestielt,       unpaarig\njungeren Zweigen weiss punktirt.\ngefiedert,      15-45 Ctm. lang;             die     Fiederblattchen zu              5—9 (meist 7), oft wecbselnd, fast sitzend, das\n                                          langlich eiformig bis langlich, meist ganzrandig, spitz oder\nEndblattchen lang gestielt, eiformig oder\nzugespitzt, hantig bis fast lederig, in den Nervenwinkeln der Unterseite gebartet, sonst kahl, nacb der\n\n           bis 16 Ctm. lang, bis 8            Ctm. breit, durcbscheinend netzaderig, dankelgrun, unten blasser.                                      Blatt-"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 22,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "葉橫切面：上表皮具含草酸鈣簇晶的柵狀組織，下表皮為海綿組織；表皮細胞壁厚，兩側疏生腺毛。",
+        "warnings": [],
+        "source_line_range": [
+          10,
+          14
+        ],
+        "exact_source_quote": "            Anatomisches. Der Querschnitt durch                        das Blatt zeigt                auf der Oberseite            eine Palissaden-\n\n schicht,    die   mit ansehnlichen Oxalatdrusen ausgestattet ist; anf der Unterseite Schwammparenchym.\n Die aus dickwandigen Zellen bestehende Epidermis                         ist   beiderseits           sparlich     mit Drusenhaaren besetzt,\nwelche anf der Unterseite anch von driisenlosen Haaren begleitet werden.                                          Oelraume        fehlen."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 22,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產高加索至北印度，廣佈歐洲；德國巴登、瑞士、北義大利常栽培；瑞士南部海拔1000米及南斯堪的納維亞亦有生長。",
+        "warnings": [],
+        "source_line_range": [
+          18,
+          25
+        ],
+        "exact_source_quote": "            Vorkommen,                  Der Nnssbanui ist in dem Gebiete von den Kaukasischen Landern                                       bis Nord-\n\nindien einheimisch          und hat sich von dort fiber ganz Europa verbreitet.                             Er wird namentlich in Baden,\n der Schweiz,        Oberitalien seiner Fruchte            wegen                                                                  wird er noch in\n                                                             5 V\" «-«\"\n                                                                  haufig kultivirt.               In     der Siidschweiz\nMeereshohen         bis   zu 1000 Meter angetroffen und sogar in Sudskandinavien reifen seine Fruchte noch\nin    besonders    warmen Lagen."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 22,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "葉含鞣質（Nucitannin）、非發酵糖（Midi）及結晶苦味質（Juglandin）；綠果皮含澱粉、蛋白質、糖、蘋果酸、磷酸、鉀、鈣、脂肪油及色素。",
+        "warnings": [],
+        "source_line_range": [
+          84,
+          90
+        ],
+        "exact_source_quote": "            Bestandtheile.         Die Blatter enthalten Gerbstoff (Nucitannin), einen\n                                                                                        nicht gahrungsfahigen\nZucker (Midi) und            einen krystallinischen Bitterstoff (Juglandin). Die griinen Wallnussschalen\n                                                                                                                                                                         ent-\nhalten Starkemehl, Eiweiss, Zucker, Apfelsaure,\n                                                Phosphorsaure, Kali, Kalkerde, fettes Oel\n                                                                                                                                   einen Farbstoff"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 23,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史用途：葉外用治痛風，內服外用治淋巴腺結核與佝僂症；未熟果製浸膏；義大利曾用葉煎劑治梅毒、皮膚病及痛風。",
+        "warnings": [],
+        "source_line_range": [
+          97,
+          106
+        ],
+        "exact_source_quote": "                  Anwendung.                       Die          Blatter finden                   Anwendung              ausserlich       gegen Gicht, hauptsachlich aber\n\n innerlich        und ausserlich                  bei Scrophulose und Rhachitis,                                        wobei wohl der Gerbstoff                     als der     wirksame\n\n Bestandtheil               angenommen werden                          muss.               Die frischen unreifen Fruchte dienen zur Herstellung eines\n\n wasserigen Extraktes.                          Wie                                      Wallnussschalen            einen Bestandtheil                  des Pollinischen Decoctes\n\n bildeten,        giebt       man in Italien auch                       jetzt              noch hier und                da    die Blatter      in       Abkochung            bei Syphilis,\n              1   € J"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "104148b5615581280d2d69aca79fa6f256b5721dfea4390006188b0bd02cfd19"
+}

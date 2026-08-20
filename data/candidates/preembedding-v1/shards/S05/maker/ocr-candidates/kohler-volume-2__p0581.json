@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 581,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "render_dpi": 144,
+  "render_sha256": "dd9716eba8a1552a498dbe29076e0a48e061997e8ca571045b69504ad41a8a01",
+  "input_sha256": "dd9716eba8a1552a498dbe29076e0a48e061997e8ca571045b69504ad41a8a01",
+  "render_pixel_width": 5930,
+  "render_pixel_height": 8030,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.38,
+  "embedded_character_count": 0,
+  "ocr_character_count": 48,
+  "ocr_alpha_ratio": 0.8125,
+  "candidate_disposition": "candidate_quality_gain",
+  "staging_disposition": "candidate_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.01855201002151252,
+      "text": "Cucurbitaceae.",
+      "width": 0.14804212417756257,
+      "x": 0.7675368945164133,
+      "y": 0.9147203506670359
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534884028964634,
+      "text": "10",
+      "width": 0.019685039430596518,
+      "x": 0.5629921258555678,
+      "y": 0.1598837208488898
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883082859107,
+      "text": "6",
+      "width": 0.015748031032093324,
+      "x": 0.6988188977854156,
+      "y": 0.17005813995773988
+    },
+    {
+      "confidence": 1,
+      "height": 0.02585780052911668,
+      "text": "Citrullus Colocynthis Schrad",
+      "width": 0.3313408026045165,
+      "x": 0.3304303652198399,
+      "y": 0.09552796313656176
+    }
+  ],
+  "text": "Cucurbitaceae.\n10\n6\nCitrullus Colocynthis Schrad",
+  "output_sha256": "e1c2c102909bde92bea3924ea6caf5e1147ba6b8e7d241e52fab698b91695626",
+  "receipt_sha256": "4b003ba080458bb22ec13c2f203e9ebdb00a46a5b05c9f76f61557151e37125e"
+}

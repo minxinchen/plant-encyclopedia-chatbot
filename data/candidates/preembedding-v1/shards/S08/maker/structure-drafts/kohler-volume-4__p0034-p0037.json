@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-4:p0034-p0037",
+  "owner_shard": "S08",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 151.674,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-4:p0034-p0037",
+    "book_taxon": {
+      "scientific_name_candidate": "Maranta arundinacea L.",
+      "authorship_candidate": "L.",
+      "aliases_candidates": [
+        "Maranta indica Tuss.",
+        "M. ramosissima Wall.",
+        "M. sUvatica Rose.",
+        "M. protracta Miq.",
+        "Pfeilkraut",
+        "Arrowroot",
+        "herbe k flfeche"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 34,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "同物異名包括 Maranta indica、M. ramosissima 等。隸屬於竹芋科 (Marantaceae)，竹芋屬。",
+        "warnings": [],
+        "source_line_range": [
+          4,
+          6
+        ],
+        "exact_source_quote": "               Syn.:    Maranta indica Tuss. M. ramosissima Wall. M.sUvatica Rose. M. protracta Miq.\n\n               Familie: Marantaceae.                  (Reihe: Scitamineae)                    G-attung: Maranta        L"
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 34,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "具地下匍匐根莖，側枝肥厚。莖高 1.5-1.8 米，葉二列互生，葉片橢圓形，長達 22 公分，基部楔形。",
+        "warnings": [],
+        "source_line_range": [
+          7,
+          15
+        ],
+        "exact_source_quote": "        Beschreifoimg: Die Pflanze besitzt ein unterirdisch nach kriechendes Rhizom, das mit einer\nStammknospe abschlieBt. Unterhalb der Spitze sendet das Rhizom seitlich zylindrische, fleischige,\ndicke Verzweigungen ab, die sich nach oben biegen und an ihrem oberen Ende keulig anschwellen.\nDiese Seitenzweige des Rhizomes sind bedeckt mit groBen, dunnen, zweizeilig stehenden, sich deckenden,\nbraunen oder helleren Niederblattern. An alteren Rhizomen sind diese abgefallen, die Rhizome sind\ndann durch die Narben der abgefallenen Niederblatter geringelt. Aus der terminalen Stammknospe\neines jeden Rhizomzweiges entwickeln sich 1,50 bis 1,80 m hohe, schlanke, kahle oder mehr oder\nweniger behaarte, reich verzweigte Stengel.   Sie sind schwach zusammengedriickt, glatt, an den\nKnoten sind sie ein wenig angeschwollen. Die Blatter stehen zweizeilig, d. h. das Blatt des nachst"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 34,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "花序頂生，花具三輪花被。雄蕊退化為花瓣狀，具帽狀及胼胝狀退化雄蕊，僅一真雄蕊。",
+        "warnings": [],
+        "source_line_range": [
+          34,
+          48
+        ],
+        "exact_source_quote": "           Die Bliitenstande stehen endstandig an den Stengeln, werden aber von Seitenzweigen iiber-\ngipfelt,   so daB sie scheinbar seitenstandig sind. Sie messen 15 cm, wovon 10 cm auf den gemein-\nsamen Bliitenstandstiel              fallen.    Sie    setzen  Paaren von Bliiten zusammen, jedes Paar\n                                                                    sich    aus      drei\nhat einen etwa 5 cm langen Stiel. Die scheinbare Endbliite eines jeden Paares ist ca.\n                                                                                              1 cm lang\ngestielt, die Seitenbliite fast sitzend. Die Hochblatter, die Brakteen, sind scheidenartig sie um-                                   ;\n\n\nhiillen fast ganz den Bliitenstiel der drei Teilbliitenstande.   Der Aufbau der Bliiten ist ein ziemlich\nkomplizierter,         er    laBt   sich    aber zwanglos auf das                 Diagramm der regelmaBigen Monokotylenbliite\nzuriickfuhren.         Eine solche         Bliite    hat   fiinf   dreigliedrige Kreise, namlich einen Kreis                von drei Kelch-\nblattern, einenvon drei damit abwechselnden Blumenblattern, zwei Kreise unter sich abwechselnder\nStaubblatter und einen Kreis von drei Fruchtblattern.   Man driickt dies mit einer Formel aus:\nK3C3A3-f3Gr3. Auch die Maranta-Bliite hat drei Kelchblatter;                                               sie   sind 1,5 cm lang, eiformig-"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 36,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產於蓋亞那及西南巴西，現於各熱帶地區栽培。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          3
+        ],
+        "exact_source_quote": "            Yorkommen      :   Die Heimat der Maranta                     ist   wahrscheinlich Guiana und das siidwestliche\nBrasihen; gegenwartig wird die Pflanze in alien Tropenlandern\n                                                              kultiviert."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 36,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "種名紀念 16 世紀那不勒斯醫生 Bartolomeo Maranta。Arrowroot 一詞源於箭毒解毒傳說或南美土語。",
+        "warnings": [],
+        "source_line_range": [
+          6,
+          24
+        ],
+        "exact_source_quote": "            Name und Geschichtliches                    :   Die Pflanze\n                                                              Namen zu Ehren des um die Mitte\n                                                                            erhielt ihren\ndes 16. Jahrhunderts in Neapel lebenden Arztes und Botanikers\n                                                               Bartolomeo Maranta, den Art-\nnamen arundinacea wegen              ihrer        entfernten Ahnlichkeit mit              dem groBen   Schilfrohr,       Arundo.    Das\nWort       bedeutet also           Die Bezeichnung Arrowroot ist englisch und lautet auf deutsch\n                           schilfartig.\nPfeilwurz. Dieser Name riihrt daher, daB man den Saft der Rhizome\n                                                                            als Gegenmittel bei Ver-\ngiftungen, namentlich bei solchen, die von vergifteten\n                                                        Pfeilen herriihrten, ansah.  Martins wollte\ndas Wort von aru-aru, der Bezeichnung fur feines\n                                                     Manihot-Mehl bei siidamerikanischen Indianern\nableiten. Andere hieltan das hrnsiliRTiispLa Wort\n                                                                                           Aruwurzel\nffir das urspriingliche Stammwort von\n                                      Arrow root (Peckolt). Spruce wies jedoch nach, daB araruta\nvolksetymologisch aus arrow-root entstanden                       ist."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 36,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "Sloane 記載其根莖可治箭毒、蛇咬及蜂螫。19 世紀 50 年代起開始大規模種植以提取澱粉。",
+        "warnings": [
+          "Historical medical content described as historical, not advice."
+        ],
+        "source_line_range": [
+          26,
+          35
+        ],
+        "exact_source_quote": "         Zuerst erwahnt wird die Pflanze von Sloane in seinem Catalogue\n                                                                          of Jamaica plants (1696).\nEr nannte die Pflanze Carina indica radice alba alexlpharmaca und teilt\n                                                                        mit, daB zerquetschte und\naufgelegte Rhizomstiicke ein ausgezeichnetes Mittel gegen\n                                                          Wunden von vergifteten Pfeilen, gegen\nSchlangenbisse und gegen Wespenstiche, ja sogar gegen beginnenden\n                                                                    Brand seien. Der Anbau der\nPflanze zur Gewinnung von Starke datiert erst seit den 50 er\n                                                             Jahren des vorigen Jahrhunderts."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "f0c95c4ecaacee177636418be3775549df17a99bba7996181bbe6afbc649b319"
+}

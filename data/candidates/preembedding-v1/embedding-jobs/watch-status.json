@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "started_at": "2026-08-13T12:56:04+08:00",
+  "status": "caught_up",
+  "refresh_count": 3274,
+  "last_fingerprint": "4b11e20936e64c871cbf1b79087e9c2ced04462f08546dd81870b7f6c34a4977",
+  "last_build": {
+    "exit_code": 0,
+    "output": "{\"jobs\": \"data/candidates/preembedding-v1/embedding-jobs/gemini-embedding-jobs.jsonl\", \"manifest\": \"data/candidates/preembedding-v1/embedding-jobs/manifest.json\", \"schema_version\": \"1.0\", \"generated_at\": \"2026-08-19T21:40:53+08:00\", \"chunk_manifest_sha256\": \"76a4f220af0823d0029d6437d2ac4c4afac17aa99c51844a7bccaf51557a7f9a\", \"job_count\": 1313, \"profile_id\": \"section-aware-512-100-v1\", \"provider\": \"google-gemini\", \"model\": \"gemini-embedding-2\", \"dimensions\": 768, \"vector_space_id\": \"gemini-embedding-2__768__qa-prefix-v1\", \"status\": \"planned_no_external_calls\", \"external_calls\": 0, \"incremental_usd\": 0, \"portable_paths\": true, \"manifest_sha256\": \"f8eeb7f1fd9b8c7dbb8d26a7832e7f6647a06ef2ad83e828478c97817e77aa0c\"}"
+  },
+  "last_validation": {
+    "exit_code": 0,
+    "output": "{\"status\": \"PASS\", \"chunks\": 1313, \"jobs\": 1313, \"external_calls\": 0, \"errors\": []}"
+  },
+  "errors": [
+    {
+      "at": "2026-08-13T13:59:20+08:00",
+      "stage": "build",
+      "output": "Traceback (most recent call last):\n  File \"/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/scripts/build-preembedding-embedding-jobs.py\", line 104, in <module>\n    main()\n    ~~~~^^\n  File \"/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/scripts/build-preembedding-embedding-jobs.py\", line 49, in main\n    text = embedding_input(chunk)\n  File \"/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/scripts/build-preembedding-embedding-jobs.py\", line 32, in embedding_input\n    f\"Display name source scope: {chunk['display_name_source_scope']}\\n\"\n                                  ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nKeyError: 'display_name_source_scope'"
+    }
+  ],
+  "updated_at": "2026-08-19T21:40:53+08:00"
+}

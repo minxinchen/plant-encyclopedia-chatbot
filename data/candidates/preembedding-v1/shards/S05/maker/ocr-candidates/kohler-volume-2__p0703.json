@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 703,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "dbf87f85df46d9d7fcc580f4e457fc88f1991349c3f68fdfbca602d4e0fac046",
+  "render_dpi": 144,
+  "render_sha256": "5b92cb2a3aff86c635990bbeaaec432e2a3255cc112ba745c8f5637163dd3d9e",
+  "input_sha256": "5b92cb2a3aff86c635990bbeaaec432e2a3255cc112ba745c8f5637163dd3d9e",
+  "render_pixel_width": 5402,
+  "render_pixel_height": 7970,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.183,
+  "embedded_character_count": 31,
+  "ocr_character_count": 47,
+  "ocr_alpha_ratio": 0.8085,
+  "candidate_disposition": "candidate_quality_gain",
+  "staging_disposition": "candidate_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.024832114340767042,
+      "text": "Leguminosae.",
+      "width": 0.1499632449593088,
+      "x": 0.8231681895751226,
+      "y": 0.9000286123228468
+    },
+    {
+      "confidence": 1,
+      "height": 0.020354604910290508,
+      "text": "Phisostigma venenosum Balfour.",
+      "width": 0.37044966613278396,
+      "x": 0.3126338423975623,
+      "y": 0.07266865052739901
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "177",
+      "width": 0.02783725797127179,
+      "x": 0.9036402572295674,
+      "y": 0.017441860676472465
+    }
+  ],
+  "text": "Leguminosae.\nPhisostigma venenosum Balfour.\n177",
+  "output_sha256": "c4692289aad0474ff2076e14d5f799726b9df18e0aac06cd9726b37f0495470e",
+  "receipt_sha256": "48767b7474acd1686992045725d960a1f5dfc18dc04e782d563c931df5196aa0"
+}

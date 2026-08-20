@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 683,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "1e2b8d1821475ce75720909edae1c75668d4a6d46de2ec5cf274ad8f448fe92c",
+  "render_dpi": 144,
+  "render_sha256": "a4c684bbd4e2b33ad4b4132edda28a1e99b04160f367e6b85a15e1f956644cb3",
+  "input_sha256": "a4c684bbd4e2b33ad4b4132edda28a1e99b04160f367e6b85a15e1f956644cb3",
+  "render_pixel_width": 5666,
+  "render_pixel_height": 8150,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.213,
+  "embedded_character_count": 44,
+  "ocr_character_count": 47,
+  "ocr_alpha_ratio": 0.8298,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.027532513179476248,
+      "text": "Menispermiaceae.",
+      "width": 0.17753593455707806,
+      "x": 0.7984978384548813,
+      "y": 0.9629885972180653
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "5",
+      "width": 0.014613778716997428,
+      "x": 0.9227557410433802,
+      "y": 0.6715116280264892
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436846943,
+      "text": "8",
+      "width": 0.0187891430929622,
+      "x": 0.05427974972178613,
+      "y": 0.3968023254465475
+    },
+    {
+      "confidence": 1,
+      "height": 0.021923449304368736,
+      "text": "Anamirta paniculata Colebr",
+      "width": 0.2839248374253299,
+      "x": 0.3402922780514269,
+      "y": 0.026041666550988052
+    }
+  ],
+  "text": "Menispermiaceae.\n5\n8\nAnamirta paniculata Colebr",
+  "output_sha256": "260e4e093a7edbca52efc77d0bfa262ac42d464d2ef676c27e931e7bdb445b13",
+  "receipt_sha256": "7b11b0c811fcf1ba5d5b54585ded6e6a4450d6f1c13184f90753998223e680c8"
+}

@@ -1,0 +1,277 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0179-p0180",
+  "entry_id": "kohler-volume-1:p0179-p0180",
+  "owner_shard": "S02",
+  "book_taxon": {
+    "scientific_name": "Humulus Lupulus",
+    "authorship": "L.",
+    "aliases": [
+      "Cannabis Lupulus Scopoli"
+    ]
+  },
+  "display_name": "啤酒花",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Humulus Lupulus",
+      "Humulus lupulus"
+    ],
+    "accepted_scientific_name": "Humulus lupulus",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-13T16:53:38+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Humulus+Lupulus",
+        "query_name": "Humulus Lupulus",
+        "retrieved_at": "2026-08-13T16:53:38+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0002521",
+        "query_name": "Humulus Lupulus",
+        "retrieved_at": "2026-08-13T16:53:38+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0002521",
+        "query_name": "Humulus Lupulus",
+        "retrieved_at": "2026-08-13T16:53:38+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Humulus+lupulus",
+        "query_name": "Humulus lupulus",
+        "retrieved_at": "2026-08-13T16:53:38+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0074319",
+        "query_name": "Humulus lupulus",
+        "retrieved_at": "2026-08-13T16:53:38+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0074319",
+        "query_name": "Humulus lupulus",
+        "retrieved_at": "2026-08-13T16:53:38+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL accepts the queried book binomial at species rank."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 179,
+      "evidence_type": "text",
+      "page_text_sha256": "179e4525c191a7dff81f2a0e955f3951309e9bbf56840d35faca91d835012370",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 180,
+      "evidence_type": "text",
+      "page_text_sha256": "f057df0365c1e19386f3bdc458b8905937b33ff5d61e08de2c0a28411834c682",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0179-p0180:s00:x00",
+      "section_type": "description",
+      "original_text": "        Beschreibung. Der ansdauernden, senkrecht in den Boden gehenden, einfaclien, fleischigen,\nAnslaufer treibenden Wurzel entspringen 5 Meter und mehr lange, rechtswindende, kantige, hohle\nStengel, die mit hakigen, dornartigen Stacheln dicht besetzt sind.  Blatter lang gestielt, rundlich oder\neiformig, am Grunde herzformig, meist zugespitzt, grob gesagt, oberseits rauh und dunkelgriin, unterseits\nnur auf den Adern behaart, blasser, mit Harzdrlisen besetzt, die unteren Blatter gegenstandig, handformig\n3— 51appig, die oberen wechselstandig, meist einfacli; Lappen zugespitzt; Blattstiele rauhhaarig. Neben-\nblatter gepaart, meist mehr oder weniger verwachsen, ganzrandig, eirund, kahl, zuriickgesclilagen.",
+      "normalized_text": null,
+      "zh_tw_rendering": "多年生直立肉質根，生5公尺以上右旋中空莖，密生鉤狀刺。葉長柄，圓形或卵形，基部心形，粗鋸齒，上表面粗糙深綠，下表面脈上被毛。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 179,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 382,
+        "char_end": 1095,
+        "page_text_sha256": "179e4525c191a7dff81f2a0e955f3951309e9bbf56840d35faca91d835012370",
+        "exact_text_sha256": "e1c9c5cc238a98079e55f78c9729e3f244a2f5418d7728c93426e6e1b093437c",
+        "source_line_start": 16,
+        "source_line_end": 22,
+        "section_index": 0,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "e1c9c5cc238a98079e55f78c9729e3f244a2f5418d7728c93426e6e1b093437c",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0179-p0180:s01:x00",
+      "section_type": "anatomy",
+      "original_text": "        j Anatomisclies   Die kreiselformigen, mit gewolbter Kuppe versehenen Hopfendriisen befinclen sich vorzugs-\n                            :\n\nweise upf den Zapfchenschuppen und namentlich auf clem die Frucht locker umhiillenden Perigone, auch auf der\nUnterseite junger Blatter. Sie entstehen aus einer sich ausstulpenden, kopfig anschwellenden Epidermiszelle, die sich\ndurch Bildung einer Langswand theilt. Durch Bildung einer Querwand finclet eine Trennung der Tochterzellen von\nder Epidermiszelle statt und durch Entwickelung einer zweiten Querwand tritt eine Gliederung in Stiel und Scheibe ein.\nDurch $ildung von senkrechten, radialen und tangentialen Wanden wird die Scheibe in ein von der Cuticula bedecktes,\nflaches Schusselchen umgewandelt, in welches sich der eigenthumliche Driisenstoff ausscheidet.        Letzterer erzeugt\ndurch Emporheben der Cuticula die gewolbte Drusenkuppe. Die fertige Driise macht den Eindruck von 2 scharfrandig\naufeinandergesetzten Halbkugeln, von denen die obere aus der Cuticula, die untere aus der Zellenscheibe besteht.",
+      "normalized_text": null,
+      "zh_tw_rendering": "圓錐形具圓頂的腺體主要位於果苞及花被上，由表皮細胞外凸形成，分為柄與盤，盤內分泌物質使表皮隆起，形似兩半球疊合。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 179,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 3488,
+        "char_end": 4553,
+        "page_text_sha256": "179e4525c191a7dff81f2a0e955f3951309e9bbf56840d35faca91d835012370",
+        "exact_text_sha256": "472b92962e5f6612173dabcfa708e2a4adaa47981928f6e40b5339acb55668a3",
+        "source_line_start": 53,
+        "source_line_end": 63,
+        "section_index": 1,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "472b92962e5f6612173dabcfa708e2a4adaa47981928f6e40b5339acb55668a3",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0179-p0180:s02:x00",
+      "section_type": "distribution",
+      "original_text": "          Verbreitung.  In Heck en und feuchten Gebuschen, an Flussufern und Waldrandern durch\nganz Europa bis liber den Polarkreis hinaus, durch Sibirien und die Kaukasuslander verbreitet. In\nNordamerika, Brasilien und Australien eingefiihrt und zum Zwecke der Bierbrauerei in den Landern\nder gemassigten Zone haufig kultivirt.",
+      "normalized_text": null,
+      "zh_tw_rendering": "分佈於歐洲至北極圈外、西伯利亞及高加索；引入北美、巴西及澳洲。為釀酒目的在溫帶地區廣泛栽培。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 179,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4555,
+        "char_end": 4883,
+        "page_text_sha256": "179e4525c191a7dff81f2a0e955f3951309e9bbf56840d35faca91d835012370",
+        "exact_text_sha256": "47b2efc790d790abd1f23ef827e589e083dee0f9c9a6b44a9253809733fe24e0",
+        "source_line_start": 65,
+        "source_line_end": 68,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "47b2efc790d790abd1f23ef827e589e083dee0f9c9a6b44a9253809733fe24e0",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0179-p0180:s03:x00",
+      "section_type": "history",
+      "original_text": "          Name und Geschichtliches.    Der Name Hopfen (althochdeutsch hopfe, mittelhochdeutsch\nHolsch, Hopf Hopfe, Hopff, Hopfen, bei Hildegard Hamele, Hoppo, Huppo, Hopho) ist unsicheren\n               y\n\nUrsprungs.    Grassmann             sucht das   Wort aus Hilpfen,   angelsachsisch lioppan, niederdeutsch hoppen,\nhuppen abzuleiten, in der Bedeutung von hinuberhupfen, iiber Hecken lind Zaune klettern. Andere\nleiten es. von dem altdeutschen hop, Schopf (vergl. Wiedehopf) ab, wegen der schopfartigen Form des\nweiblichen Bliithenstandes. Humulus wird als das Diminitivum von humus (Erde) angenommen, also\ndamit eine ohne Unterstiitzung auf der Erde. hinkriechende Pflanze bezeichnet; andere Deutungen\nnehmen an dass das Wort weiter nichts als die latinisirte Form der altgermanischen Bezeichnung\nHumel, Humela, Humal (persisch Hernial) sei. Lupulus soil das Diminitivum von lupus (W\nweil der Hopfen durch Umschlingen (wiirgen) anderen Pflanzen             Weiden)\ndaher bei Plinius Lupus salictarius, Weidenwolf. Das Wort\nvon Humulus gedeutet.",
+      "normalized_text": null,
+      "zh_tw_rendering": "名稱來源不詳，或源自日耳曼語攀爬之意，或指其匍匐生長。希臘羅馬人似不知此植物，釀酒用途源自北法與德國。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 179,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 5039,
+        "char_end": 6089,
+        "page_text_sha256": "179e4525c191a7dff81f2a0e955f3951309e9bbf56840d35faca91d835012370",
+        "exact_text_sha256": "50f97f65784eb84d5f023e691a2e4e8360fe7ae92fcc396acb30792b5360005f",
+        "source_line_start": 75,
+        "source_line_end": 88,
+        "section_index": 3,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "50f97f65784eb84d5f023e691a2e4e8360fe7ae92fcc396acb30792b5360005f",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0179-p0180:s04:x00",
+      "section_type": "constituents",
+      "original_text": "           Bestandtheile. Die Hopfendriisen enthalten 2°/ fliichtiges Oel, 10,3% bitteren Stoff (Lupulit),\n      —\n 50 55°/ Harz, 32°/ Lignin, Spuren von zusammenziehender gummiger, fettiger Materie, Osmazom,\nApfelsaure und apfelsaure Salze, essigsaures Ammoniak.           Nach Yves sind in dem Hopfenmehl ent-\nhalten: 4,16 Gerbsaure, 8,33 ExtraktivstofF, 9,16 Bitterstoff, 10 Wachs, 30 Harz, 38,33 Lignin. Payen\nund Chevallier fanden in den Brakteen Hopfengerbsaure, indifferenten Farbstoff, Chlorophyll, Gmnmi,\nLignin, Kali-, Kalk- und Ammoniaksalze, Essigsaure, Chlorverbindungen. Personne hat in dem Lupulin\nca. l°/ Baldriansaure gefunden.      Lermer wies 8°/ Asche in bei 100° getrocknetem Hopfen nach.",
+      "normalized_text": null,
+      "zh_tw_rendering": "腺體含揮發油、苦味素、樹脂、木質素及鞣質等。成分分析包括苦味物質、蠟質、樹脂及無機鹽，並含微量巴豆酸。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 180,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 1826,
+        "char_end": 2535,
+        "page_text_sha256": "f057df0365c1e19386f3bdc458b8905937b33ff5d61e08de2c0a28411834c682",
+        "exact_text_sha256": "4dad611dac84b787556937379781ee704ea73499fd201b16e79868fa921a32a8",
+        "source_line_start": 32,
+        "source_line_end": 39,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "4dad611dac84b787556937379781ee704ea73499fd201b16e79868fa921a32a8",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0179-p0180:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "          Anwendung.          Die Driisen in Substanz, die Fruchtzapfen im Aufguss und Absud.                  Im Auf-\nguss fand Hopfen fruher haufig Verwendung bei Indigestion, Dyspepsie, Scrophulose, Rheumatismus etc.;\ndient gegenwartig nur noch zur Bereitung von Krauterfomenten bei Quetschungen, zu Kataplasmen und\nBadern. Lupulin wird bei schmerzhaften Urethral und Blasenleiden gereicht. Die Hauptverwendung\nfindet der  Hopfen bei der Bierbereitung.\n          Die Wurzel diente fruher als Surrogat der Sarsaparille           ;   die jungen, griinen Sprossen     werden\nals   Gemiise genossen.    (Husemann, Arzneimittell. 664.)",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史上用於消化不良、瘰癧及風濕症；現僅用於外敷。根曾作土茯苓替代品，嫩芽作蔬菜食用。主要用於釀酒。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 180,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 5956,
+        "char_end": 6589,
+        "page_text_sha256": "f057df0365c1e19386f3bdc458b8905937b33ff5d61e08de2c0a28411834c682",
+        "exact_text_sha256": "bd17609553be930221a24d76421823bbfc0b05d18ba1c6c4a0a455fc323621a6",
+        "source_line_start": 85,
+        "source_line_end": 91,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "bd17609553be930221a24d76421823bbfc0b05d18ba1c6c4a0a455fc323621a6",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "f34227787b885ebbd9711008c3a2d0675304f4977946099d3b2b7940bfed70a7",
+    "maker_receipt_sha256": "6645c2c40f8b2a9e4b180f756708eb8c7790cbdb007788254d607a6eb2e12ef7",
+    "validation_check_sha256": "bf9fa9b6f7bcba046f3e2eca2d5f6d5ecfeedbcd8c3f8f421f2ba418c178a31b",
+    "source_disposition_sha256": "d8a80015fbff9161b936123ac9d904fb11bd3c686c5df08e64d832a8eccc8e04",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "6645c2c40f8b2a9e4b180f756708eb8c7790cbdb007788254d607a6eb2e12ef7",
+      "validation_check_sha256": "bf9fa9b6f7bcba046f3e2eca2d5f6d5ecfeedbcd8c3f8f421f2ba418c178a31b",
+      "source_disposition_sha256": "d8a80015fbff9161b936123ac9d904fb11bd3c686c5df08e64d832a8eccc8e04"
+    },
+    "naming_artifact_sha256": "dc40cc31f597c3b4a3b5d39bfba32672a5ccd71fa4792e5b07cf4fb67ab239f0"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "d448582346852c0766c01c7815765e269069c8c23bd691a18275e32a053a9ef2"
+}

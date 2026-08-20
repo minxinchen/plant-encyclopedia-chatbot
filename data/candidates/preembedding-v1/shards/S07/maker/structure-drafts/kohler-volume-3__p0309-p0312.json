@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-3:p0309-p0312",
+  "owner_shard": "S07",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 138.29,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-3:p0309-p0312",
+    "book_taxon": {
+      "scientific_name_candidate": "Acocanthera abyssinica",
+      "authorship_candidate": "(Hochst.) K. Sch.",
+      "aliases_candidates": [
+        "Strychnos abyssinica Hochst.",
+        "Carissa abyssinica R. Br.",
+        "Carissa mepte Hochst.",
+        "Carissa Schimperi DO.",
+        "Acocanthera Schimperi Benth. & Hook.",
+        "Acocanthera venenata G. Don."
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 309,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "茜草科，阿波辛族。異名包括 Strychnos abyssinica 及 Carissa abyssinica 等。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          8
+        ],
+        "exact_source_quote": "                    Acocanthera                           abyssinica (Hochst.) K. Sch.\n                          Abyss.: Mptah,             mupta,       mepte, maktah,             moyo      oder morjo.:\n\n         Syn. Strychnos abyssinica Hochst. Carissa abyssinica R. Br. Carissa mepte Hochst.                                               Carissa\nSchimperi DO. Acocanthera Schimperi Benth. & Hook. Acocanthera venenata G. Don.\n\n             Familie: Apocynaceae.               Unterfamilie: Plumieroideue.                    Tribus: Ardwineae.              Subtribus:\nMelodininae          Gattung: Acocanthera."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 309,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "灌木或小樹，葉對生，革質，全緣或具刺尖。花白色，呈盤狀，果為球形漿果，種子富含胚乳。",
+        "warnings": [],
+        "source_line_range": [
+          10,
+          33
+        ],
+        "exact_source_quote": "             Beschreibung.            Ein Strauch         oder    kleiner Baum           mit kahlen Zweigen.               Die Blätter       sind\ngegenständig,          sehr kurz        (d—D     mm       lang) gestielt,       elliptisch     oder länglich-elliptisch,             im Mittel\nzwei- bis dreimal so lang als breit, 5—7 cm lang, 2—4 cm breit, am Grunde in den Blatt-\nstiel verschmälert,             ganzrandig          und     der Rand        zuweilen        etwas     nach     unten      umgerollt,        spitz\noder auch          mit einer kurzen,             fast stechenden Stachelspitze                   versehen,        von     Konsistenz         dick\nlederartig,        auf beiden Seiten gänzlich kahl, oberseits                            meist glänzend.            Die wohlriechenden\nBlüten      stehen in dichten,            corymbösen,         dichasialen,        achselständigen          Rispen,      welche      mehrmals\nkürzer sind als die Blätter, aus deren Achseln sie entspringen.                                         Der Kelch ist tief fünfteilig\nmit fast freien,          ziemlich      lang zugespitzten,           sich wenig dachziegelig deckenden Zipfeln,                          welche\nkaum länger als 1 mm                   sind.     Die Blumenkrone               ist weiss, präsentiertellerförmig,                   mit eylin-\ndrischer, etwa 11—13 mm langer Röhre;                               diese ist an der Insertionsstelle der Staubblätter\nein wenig        erweitert       und besitzt       an ihrem Schlunde keine Schuppen;                         die fünf Kronenzipfel sind\n\nverhältnismässig            kurz,      nämlich        nur    2 mm       lang,     länglich-eiförmig,            etwas      zugespitzt.        Die\n\nStaubgefässe sind in der Röhre nahe am Schlunde befestigt; sie besitzen sehr kurze Filamente,\nlängliche       Antheren,        welche intrors           mit Längsspalten          sich öffnen, mit spitzem Konnektiv.                      Der\n\nFruchtknoten  ist zweifäc herig   mit  je zwei  sehr   kleinen,    in  der  Mitte  befestig ten,    hängend  en,\nanatropen  Samenk nospen    in  jedem   Fache;   der    Griffel  ist   fadenför mig,   mit   fast   kugelig  em,\nkurz zweilappigem, behaartem       Narbenk opfe.     Die    Frucht    ist eine  Beere   von   kugelige   r   oder\nauch etwas ellipsoidischer   Form    und  ungefäh r   2  cm   Durchme   sser;    gewöhnl ich    ist  sie  infolge\nvon Abortus einfächerig und      einsamig  .   Der  ellipsoi dische  Same   besitzt    reichlic h Nährgew ebe.\nDie breit-eiförmigen Keim bl ät te r  sin d  et wa so  la ng  wi e da s Wü rz el ch en ."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 309,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分布於東非大部，從阿比西尼亞至北德屬東非。常見於海拔 500 米陰處，亦見於烏桑巴拉。",
+        "warnings": [],
+        "source_line_range": [
+          35,
+          46
+        ],
+        "exact_source_quote": "          Vorkommen und Verbreitung.                            Der Verbre       it un gs  be zi rk     de r   Pf la nz e    er st re ck t    sic h\n                                                                        ys si ni en    an    bis   na ch    de m   nö rd  li ch en    Tei  l  vo n\n über einen grossen Teil von Ostafrika von Ab\n                                                                        zi em li ch    hä uf ig   zu   sei  n;   sie  ist   dor t    be so nd er s\n‘Deutsch-Ostafrika. In Abyssinien scheint sie\n                        wi ed  er ho lt   ge  sa mm  el t   wo rd  en     an    sc ha tt ig en    Or te n   in  ein er    Me er  es hö  he    vo n\nvon Schi     mp er\n         50 0    m.     Fe rn  er    ist  sie   vo n   Hö  hn el     au f   de r   Re is e   de s   Gr af en    Te le ki      im    en gl is ch en\n 1800 -2\n                          et e    vo n   Le ik ip ia   be ob ac ht et ,   un d    au ch    vo n    Ho ls  t  me hr fa  ch     au s  Us  am  ba ra\n Ostafrika    im    Ge bi\n                                                                                                                                    64"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 310,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "木材主要由木質纖維組成。A. abyssinica 皮層無特化粘液囊，與 A. venenata 不同。",
+        "warnings": [],
+        "source_line_range": [
+          29,
+          47
+        ],
+        "exact_source_quote": "           Anatomisches.              Die Anatomie mehrerer der genannten Arten hat G. Volckens unter-\nsucht     (ebenfalls      von        Lewin         mitgeteilt    in Englers         Bot. Jahrb.       XVII.   Beibl.    No. 41 p. 46).\nAnatomische Unterschiede,                      welche es gestatteten,           die einzelnen Arten nach dem Bau ihres\nHolzes     auseinander          zu halten,          ergaben     sich nicht.      Es besteht in allen Fällen in seiner Haupt-\nmasse aus Libriform,                 dem unregelmässig verteilte Gefässe mit begleitendem Holzparenchym\nund einreihige Markstrahlen beigegeben sind.                             Elemente, die etwa als spezifische Secretions-\norgane anzusehen wären, fehlen durchaus.\n           Die primäre Rinde von\na. A. venenata      enthält          in    einer     bestimmten,       mantelartig       den Holzkörper          umgebenden          Zone\n   1. grosse, ziemlich derbwandige Schläuche, die mit einem weisslichen Inhalte erfüllt sind;\n   2. zahlreiche, meist isolierte, bis zum Verschwinden des Lumens verdickte Bastzellen,\n      deren Wandung auffällig geschichtet ist und deren Querschnitt den der umgebenden Rinden-\n   parenchymzellen              um        ein Mehrfaches        übertrifft.\nI 2; abyssinica lässt in der analogen Zone 1. die differenzierten Schläuche vermissen.                                               Harz\n   findet sich auch,            aber in Elementen,               die sich, auf dem        Querschnitt         wenigstens,        in nichts\n   von den Rindenparenchymzellen unterscheiden; 2. die Bastzellen sind hier nicht grösser\n   im Umfang, als die Parenchymzellen, vielfältig ebenfalls durchaus isoliert, daneben\n                                                                                       zu\n   kleinen       Gruppen        von       zwei     bis vier vereinigt.        Schichtung       an ihnen       wenig    auffällig."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 311,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史用途：原住民製箭毒。含 Ouabain 糖苷，歷史記載其可致心臟麻痹死亡，曾擬作強心藥但未成功。",
+        "warnings": [
+          "Historical medical content described as historical, not advice."
+        ],
+        "source_line_range": [
+          12,
+          40
+        ],
+        "exact_source_quote": "              Offizinelle Teile.           Aus dem Holz            und der Rinde\n                                                             der genannten Arten bereiten die\n Eingeborenen Pfeilgifte, die man seit etwa fünfzig Jahren kennt. A. abyssinica ist in Abyssinien\n wegen seiner giftigen Eigenschaften seit langer Zeit bekannt. A. Ouabaio wird in Somaliland\n Wabei oder Wabajo, in Oyaden Ghedulajo genannt; die Somali bereiten aus ihren Wurzeln das\n Pfeilgift.     A. venenata       soll zu dem          Pfeilgift    der Buschmänner            benutzt     werden     und     wird     von\n den Holländern als Giftboom bezeichnet.\n        Der wirksame Stoff in ihnen ist ein amorphes Glykosid, das Ouabain 0?’ H+ 01? 7M?0;\n es ist dem Strophantin            nahe      verwandt        und in dem        Holz    und    der Rinde      der Acocanthera-Arten\n etwa       zu 0,3°/, enthalten.           Mit konzentrierter Schwefelsäure. wird                       es rot, dann     braun,        mit\n verdünnter Schwefelsäure hellrot, dann chocoladenbraun, endlich grün.                                       Die Rinde sämtlicher\n Arten schmeckt bitter, und die anfangs goldgelbe Abkochung des Holzes wird bei Luftzutritt\n nach längstens 48 Stunden schön grün.\n              Zur Darstellung        des Ouabalns wird                das Holz        der Acocanthera       mit Wasser        gekocht,\n die Abkochung            mit Bleizucker          gefällt und         das Filtrat durch Schwefelwasserstoff vom Blei\n befreit.      Das   Filtrat wird      dann       im Vacuum          zu Syrupskonsistenz          verdampft,     mit Alkohol          aus-\n\n gezogen, und das Ouaeain durch Krystallisation gewonnen,                                    und durch Umkrystallisieren ge-\nreinigt.       Es bildet farblose            glänzende           rechteckige Tafeln,         welche      bei 200° schmelzen,             in\n Wasser und Weingeist löslich, in Alkohol,                           Äther und Chloroform unlöslich ist.                    Mit Säuren\n behandelt, zersetzt es sich unter Bildung von reduzierendem Zucker.\n          Das Ouabain lähmt, in das-Blut gebracht, das Herz; selbst grosse Tiere unterliegen\n seiner Wirkung           ausserordentlich             schnell.     Es entsteht zuerst Beschleunigung                  der Atmung,\n Vermehrung und schliessliche Irregularität der Herzarbeit bis zum Stillstande, Zuckuugen,\n tetanische Streekungen und schliesslich schon nach sehr kurzer Zeit der Tod. In den Ver-\n dauungswegen           dagegen      ist    es    unschädlich,        wirkt    eher im Gegenteil           verdauungsbefördernd.\n\n Die Hoffnu  ngen,    die  man   auf  das    Ouaba in  als  teilwe iser   Ersatz     der  Digital is und als lokale s\n Anästh eti kum  set zte , sch ein en  sic h  jed och bis her  nic ht   erf üll t zu  hab en."
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 312,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "圖版描述：開花枝條、果枝、花萼、花冠、雄蕊、雌蕊、子房、果實、種子及橫縱切面。",
+        "warnings": [],
+        "source_line_range": [
+          15,
+          19
+        ],
+        "exact_source_quote": "                                              Tafelbeschreibung.\n         A blühender Zweig. B Fruchtzweig. 1 Kelch; 2 Korolle, aufgeschnitten; 3 Staubblatt; 4 Pistill;\n5 Ovar; 6 Frucht, zum Teil aufgeschnitten; 7 Samen; 8 Querschnitt; 9 Längsschnitt in der Richtung a bis ec;\n10 Längsschnitt in der Richtung b bis d. A, B verkleinert, 1 bis 10 vergrössert. Nach Exemplaren von\nSchimper in Abyssinien gesammelt; aus dem Königl. Universitäts-Herbar zu Berlin."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "7c78548f30ce53f92b0dfea293533f988b3428aab889d5e460dd90543fee2364"
+}

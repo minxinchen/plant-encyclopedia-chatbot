@@ -1,0 +1,132 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 339,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "18bdac34939035dcf8563628457aa6a72a5c1c596901c3301c47fc6ef31cdccc",
+  "render_dpi": 144,
+  "render_sha256": "b40ed1368bace524bb8692bff3f8d26414d09610b0bdf71fcc6cfbf484f14513",
+  "input_sha256": "b40ed1368bace524bb8692bff3f8d26414d09610b0bdf71fcc6cfbf484f14513",
+  "render_pixel_width": 5834,
+  "render_pixel_height": 7958,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 4.152,
+  "embedded_character_count": 112,
+  "ocr_character_count": 73,
+  "ocr_alpha_ratio": 0.5342,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.02234658740815665,
+      "text": "Papilionaceae",
+      "width": 0.12690523222431593,
+      "x": 0.8018939176975639,
+      "y": 0.9255999618409675
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729585,
+      "text": "8",
+      "width": 0.01386138647593084,
+      "x": 0.11089108884124252,
+      "y": 0.6293604652985654
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "5",
+      "width": 0.009900989971238228,
+      "x": 0.8950495051133908,
+      "y": 0.34593023256458544
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "12",
+      "width": 0.021782176904329903,
+      "x": 0.10297029746862713,
+      "y": 0.2601744187079964
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "13",
+      "width": 0.019801979942476677,
+      "x": 0.7663366338571446,
+      "y": 0.2659883725244039
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "14",
+      "width": 0.019801979942476677,
+      "x": 0.6930693073059893,
+      "y": 0.2063953490677347
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436846943,
+      "text": "WM.",
+      "width": 0.02970296991371496,
+      "x": 0.1366336638550237,
+      "y": 0.15116279072634398
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729474,
+      "text": "17",
+      "width": 0.01782178169013038,
+      "x": 0.5801980202687962,
+      "y": 0.15843023269682133
+    },
+    {
+      "confidence": 1,
+      "height": 0.0072674415414295535,
+      "text": "16",
+      "width": 0.01584158343778408,
+      "x": 0.691089109271207,
+      "y": 0.1627906979550604
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "15",
+      "width": 0.01782178169013038,
+      "x": 0.8316831684123605,
+      "y": 0.1569767443015042
+    },
+    {
+      "confidence": 1,
+      "height": 0.01889534791310621,
+      "text": "Melilotus officinalis Desr. .",
+      "width": 0.2673267369663925,
+      "x": 0.36831683220987305,
+      "y": 0.11482558181379565
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436846943,
+      "text": "52.",
+      "width": 0.019801979942476677,
+      "x": 0.8950495053257914,
+      "y": 0.023255813891314814
+    }
+  ],
+  "text": "Papilionaceae\n8\n5\n12\n13\n14\nWM.\n17\n16\n15\nMelilotus officinalis Desr. .\n52.",
+  "output_sha256": "fcee8dfb1125dc44ac65c6f26daf0db7bfa4083ff873440f5da81fe78d4ebcab",
+  "receipt_sha256": "f908d9fff26ab75031b7b1944517ebf6bf62d5929060ff5d0ad21983804666c6"
+}

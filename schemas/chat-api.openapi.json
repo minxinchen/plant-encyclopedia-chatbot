@@ -1,0 +1,89 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Köhler Plant Encyclopedia Chat API",
+    "version": "2.0.0-beta",
+    "description": "Loopback, policy-first access to the promoted full-book Köhler hybrid index. Taiwan names remain external naming metadata; generated facts must cite retrieved book evidence."
+  },
+  "servers": [{"url": "http://127.0.0.1:18765"}],
+  "paths": {
+    "/health": {
+      "get": {
+        "operationId": "health",
+        "responses": {"200": {"description": "Service health"}}
+      }
+    },
+    "/v1/retrieve": {
+      "post": {
+        "operationId": "retrieveApprovedEvidence",
+        "requestBody": {"required": true, "content": {"application/json": {"schema": {"$ref": "#/components/schemas/ChatRequest"}}}},
+        "responses": {"200": {"description": "Evidence-only response", "content": {"application/json": {"schema": {"$ref": "#/components/schemas/ChatResponse"}}}}}
+      }
+    },
+    "/v1/chat": {
+      "post": {
+        "operationId": "chatFromApprovedEvidence",
+        "requestBody": {"required": true, "content": {"application/json": {"schema": {"$ref": "#/components/schemas/ChatRequest"}}}},
+        "responses": {
+          "200": {"description": "Policy-gated answer or refusal", "content": {"application/json": {"schema": {"$ref": "#/components/schemas/ChatResponse"}}}},
+          "400": {"description": "Invalid request"}
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "ChatRequest": {
+        "type": "object",
+        "required": ["question"],
+        "properties": {
+          "question": {"type": "string", "minLength": 1},
+          "language": {"type": "string", "enum": ["zh-TW", "zh-Hans", "en"]},
+          "top_k": {"type": "integer", "minimum": 1, "maximum": 12, "default": 6},
+          "include_images": {"type": "boolean", "default": false}
+        },
+        "additionalProperties": false
+      },
+      "Citation": {
+        "type": "object",
+        "required": ["source_id", "volume", "pdf_page", "record_id", "scientific_name", "display_name", "display_name_source_scope", "text_sha256", "review_status", "semantic_score", "lexical_score", "hybrid_score", "source_excerpt"],
+        "properties": {
+          "source_id": {"type": "string"},
+          "volume": {"type": "integer"},
+          "pdf_page": {"type": "integer"},
+          "record_id": {"type": "string"},
+          "scientific_name": {"type": "string"},
+          "display_name": {"type": ["string", "null"]},
+          "display_name_source_scope": {"type": "string", "enum": ["taiwan_taxonomic_public", "taiwan_government_public", "taiwan_academic_public", "taiwan_public_fallback", "taiwan_public_name", "non_taiwan_traditional_fallback", "unresolved"]},
+          "text_sha256": {"type": "string"},
+          "review_status": {"type": "string", "enum": ["approved", "machine_extracted_beta"]},
+          "semantic_score": {"type": "number"},
+          "lexical_score": {"type": "number"},
+          "hybrid_score": {"type": "number"}
+          ,"source_excerpt": {"type": "string"}
+        }
+      },
+      "ChatResponse": {
+        "type": "object",
+        "required": ["schema_version", "request_id", "question", "response_locale", "answer_status", "answer", "evidence", "external_embedding_calls", "external_generation_calls", "incremental_usd"],
+        "properties": {
+          "schema_version": {"const": "1.0"},
+          "request_id": {"type": "string", "format": "uuid"},
+          "question": {"type": "string"},
+          "detected_language": {"type": "string"},
+          "response_locale": {"type": "string", "enum": ["zh-TW", "en"]},
+          "answer_status": {
+            "type": "string",
+            "enum": ["answerable_from_book", "retrieval_only", "not_in_book_or_insufficient", "refused_outside_book_scope", "refused_non_kohler_drug", "refused_personal_medical_advice", "generation_failed_entity_pair_gate", "generation_failed_display_name_gate", "generation_failed_citation_gate", "image_reasoning_not_yet_available"]
+          },
+          "answer": {"type": "string"},
+          "evidence": {"type": "array", "items": {"allOf": [{"$ref": "#/components/schemas/Citation"}]}},
+          "display_names": {"type": "array", "items": {"type": "object", "required": ["record_id", "display_name", "scientific_name", "source_scope", "is_taiwan_public"]}},
+          "external_embedding_calls": {"type": "integer", "minimum": 0, "maximum": 1},
+          "external_generation_calls": {"type": "integer", "minimum": 0, "maximum": 1},
+          "incremental_usd": {"type": "number", "const": 0}
+        }
+      }
+    }
+  }
+}

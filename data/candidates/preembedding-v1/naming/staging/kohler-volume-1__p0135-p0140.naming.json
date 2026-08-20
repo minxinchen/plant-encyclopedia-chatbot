@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-1:p0135-p0140",
+  "owner_shard": "S02",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S02/maker/structure-drafts/kohler-volume-1__p0135-p0140.json",
+  "source_draft_sha256": "7eab5f108136b685523b7b4835ace5951f0d1a3dc0e626727de30991700281c8",
+  "eligibility": {
+    "deterministic_status": "pass",
+    "hold_resolved": false,
+    "checked_fields": [
+      "deterministic_status",
+      "hold_resolved"
+    ],
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "9e7d251f8d4d40299b44d952c0ac88215e95ff7325ab7c940a092a31d1d1b04e",
+    "validation_check_sha256": "a7fb38fce59d5c42d53710b0af520115c8ba572ab8641076828bd7d6e1190f52",
+    "source_disposition_sha256": "17ecd0d3db8f2a5dbc15237df28e452fda063e43644e9bc09ea6f8b2806e9287",
+    "review_status": "machine_extracted"
+  },
+  "book_name": {
+    "scientific_name_candidate": "Vitis vinifera L.",
+    "authorship_candidate": null,
+    "aliases_candidates": [
+      "Weinrebe",
+      "Weinstock",
+      "Vigne",
+      "Grape Vine"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Vitis vinifera L.",
+      "Vitis vinifera"
+    ],
+    "accepted_scientific_name": "Vitis vinifera",
+    "display_name_zh_tw": "葡萄",
+    "alternative_names_zh_tw": [],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0049337",
+    "rationale": "TaiCOL accepts the queried book binomial at species rank.",
+    "checked_at": "2026-08-13T12:35:11+08:00",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Vitis vinifera L.",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Vitis+vinifera+L.",
+      "retrieved_at": "2026-08-13T12:35:11+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Vitis vinifera",
+          "matched_name_id": 24757,
+          "taxon_id": "t0049337",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Vitis vinifera",
+          "accepted_name_id": 24757,
+          "accepted_usage": [
+            {
+              "usage_id": 5493,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0049337",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0049337",
+          "taxon": {
+            "taxon_id": "t0049337",
+            "taxon_status": "accepted",
+            "name_id": 24757,
+            "simple_name": "Vitis vinifera",
+            "name_author": "L.",
+            "rank": "Species",
+            "common_name_c": "葡萄",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Vitis vinifera",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Vitis+vinifera",
+      "retrieved_at": "2026-08-13T12:35:11+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Vitis vinifera",
+          "matched_name_id": 24757,
+          "taxon_id": "t0049337",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Vitis vinifera",
+          "accepted_name_id": 24757,
+          "accepted_usage": [
+            {
+              "usage_id": 5493,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0049337",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0049337",
+          "taxon": {
+            "taxon_id": "t0049337",
+            "taxon_status": "accepted",
+            "name_id": 24757,
+            "simple_name": "Vitis vinifera",
+            "name_author": "L.",
+            "rank": "Species",
+            "common_name_c": "葡萄",
+            "alternative_name_c": null,
+            "synonyms": null,
+            "is_in_taiwan": true,
+            "alien_type": "cultured",
+            "alien_status_note": null,
+            "not_official": false,
+            "updated_at": "2025-09-10"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

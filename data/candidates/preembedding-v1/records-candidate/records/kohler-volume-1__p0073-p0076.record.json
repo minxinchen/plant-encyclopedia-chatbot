@@ -1,0 +1,257 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0073-p0076",
+  "entry_id": "kohler-volume-1:p0073-p0076",
+  "owner_shard": "S01",
+  "book_taxon": {
+    "scientific_name": "Cnicus benedictus",
+    "authorship": null,
+    "aliases": [
+      "Carbenia benedicta",
+      "Calcitrapa lanuginosa"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Cnicus benedictus"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T17:53:59+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Cnicus+benedictus",
+        "query_name": "Cnicus benedictus",
+        "retrieved_at": "2026-08-13T17:53:56+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Carbenia+benedicta",
+        "query_name": "Carbenia benedicta",
+        "retrieved_at": "2026-08-13T17:53:56+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Calcitrapa+lanuginosa",
+        "query_name": "Calcitrapa lanuginosa",
+        "retrieved_at": "2026-08-13T17:53:56+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 73,
+      "evidence_type": "text",
+      "page_text_sha256": "a33316fa247b40fbbeb243204a7e607fdb5e7c4a4fc07eede5207fc4d5e9fb7e",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 74,
+      "evidence_type": "text",
+      "page_text_sha256": "a4adff402c2f6809b37e84361d7073932350ab32fbc01c88ebeeb32b051ddbea",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0073-p0076:s00:x00",
+      "section_type": "description",
+      "original_text": "                    Beschreibung.                Die einjahrige, diinne, senkrecht in den Boden gehende, mit Wurzelfasern\nbesetzte            Wurzel treibt            einen 20        —\n                                                        40 cm hohen, saftig-krautartigen, aufrechten, unten einfachen, ober-\n                                                                                                                                                                                        *\n\n\n\n\nwarts gespreizt-astigen, Skantigen, gleich den Blattern zottig und klebrig behaarten, nach oben spinn-\nwebefilzigen Stengel.                        Die unteren,             bis   15   cm langen,              in    den breiten,      kantig gefliigelten Blattstiel\nverschmalerten Blatter langlich -lanzettlich,                                    buchtig-fiederspaltig,                fast   schrotsageformig;            mittlere        und\nobere Blatter kleiner,                       sitzend,         mit breitem Grande herablanfend,                          buchtig-fiederspaltig,             stachelspitzig\ngezahnt;                    die   obersten breit eiformig,              buchtig gezahnt,                 zuletzt in herzformige,             grosse,       das Bliithen-\nkopfchen einhiillende Deckblatter iibergehend.                                       Bliithenkopfe einzeln, eiformig, bis 3                     cm lang, l ^ cm    1",
+      "normalized_text": null,
+      "zh_tw_rendering": "一年生植物，根垂直向下，莖高20-40公分，具黏性毛。葉形變化大，基部葉羽狀分裂，頂部葉心形。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 73,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 1039,
+        "char_end": 2480,
+        "page_text_sha256": "a33316fa247b40fbbeb243204a7e607fdb5e7c4a4fc07eede5207fc4d5e9fb7e",
+        "exact_text_sha256": "34d67a47ccbdeb4507013695474278f338161a24247802d89ea0024e17b955b3",
+        "source_line_start": 21,
+        "source_line_end": 34,
+        "section_index": 0,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "34d67a47ccbdeb4507013695474278f338161a24247802d89ea0024e17b955b3",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0073-p0076:s01:x00",
+      "section_type": "anatomy",
+      "original_text": "                           Der Querschnitt der Blatter zeigt (nach Fliickiger) ein ziemlich gleichformiges Parenchym\n                    Anatomisclies :\n     •                                        -\n\n\n\n\nund einen von 3 Gefassbiindeln durchzogenen Mittelnerv. Die langen Haare, womit die Stengel sammt Verzweigungen\nund Blattspreite besetzt sind, bestehen aus diinnwandigen, leicht zusammenfallenclen Zellen. Zwischen diesen Haaren\n V\n\n\n\n\nund ebenso auch an den Blattern des Hullkelches befinden sich kleine, kurzgestielte, mehrzellige Drusen mit klebrigem\nInhalte.  Der Same besitzt nach Berg (Waarenkunde 377) eine von der Epidermis gebildete, aussere Fruchtschicht,\neine, aus ziemlich dickwandigem      von Gefassbiindeln durehzogenem Parenchym bestehende Mitt els chicht, die nach\n                                                        ,\n\n\n\n\ninnen in radial gestreckte Steinzellen ubergeht und eine innerste Fruchthaut, die aus ausserst kleinen, tangential\ngestreckten Zellen gebildet ist. Der Embryo besteht aus einem straffen Parenchym, dessen horizontalgestreckte Zellen\nkleine Tropfen fetten Oeles in sich schliessen.",
+      "normalized_text": null,
+      "zh_tw_rendering": "葉橫切面顯示均勻薄壁組織及三束維管束。莖葉具易塌陷之長毛及黏性腺體。種子含油滴。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 73,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 5545,
+        "char_end": 6672,
+        "page_text_sha256": "a33316fa247b40fbbeb243204a7e607fdb5e7c4a4fc07eede5207fc4d5e9fb7e",
+        "exact_text_sha256": "9dcec8bad0b6aab1a331f53e1fc19a79628e7bc16aefcc670682d0925ca208a9",
+        "source_line_start": 73,
+        "source_line_end": 97,
+        "section_index": 1,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "9dcec8bad0b6aab1a331f53e1fc19a79628e7bc16aefcc670682d0925ca208a9",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0073-p0076:s02:x00",
+      "section_type": "distribution",
+      "original_text": "                    Verbreitung.                  In Siideuropa, Persien, Transkaukasien, Syrien, Nordafrika wild vorkommend;\nin Mitteleuropa bis in das slidliche Norwegen und in Nordamerika als Arzneipflanze in den Garten kultivirt.",
+      "normalized_text": null,
+      "zh_tw_rendering": "野生於南歐、波斯、高加索、敘利亞及北非；中歐及北美作為藥用植物栽培。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 73,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 6674,
+        "char_end": 6907,
+        "page_text_sha256": "a33316fa247b40fbbeb243204a7e607fdb5e7c4a4fc07eede5207fc4d5e9fb7e",
+        "exact_text_sha256": "71cc8c1fac7f06b4f7176a7b843df16ffd5abfe07cdb175b70670c49de07b660",
+        "source_line_start": 99,
+        "source_line_end": 100,
+        "section_index": 2,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "71cc8c1fac7f06b4f7176a7b843df16ffd5abfe07cdb175b70670c49de07b660",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0073-p0076:s03:x00",
+      "section_type": "history",
+      "original_text": "             Die Alten haben schon Cnicus benedictus unter dem Namen                                         ireqa    yivrftog   gekannt und wahr-\nscheinlich arzneilicli benutzt.             Im Mittelalter glaubte man,          dass die heilkraftige Akarna desTheophrast\noder AtraMylis des          Diosco rides unser Benediktenkrant gewesen                                 sei,    aus welcliem Grunde                   man aut\n                                                                                                                      den Arzneischatz              einfiibrte;\nEmpfehlung des           Arnoldus Villanovanus urn 1350 letztere Pflanze                                       in\n\ndie   IdTQcr/xvfog      der     Alten   Carthamus lanatus L. gewesen\n                                            soil   jedoch                                                             sein,    wohingegen            die   von\nNicolaus Myrepsus (1222—1255) angefiibrte Kaqdvo^&cavov nnd die        von  Pietro  de  Crescenzi\n(urn 1235) erwabnte Carduus (nach Fluckiger) wohl als unser    Benediktenkraut zu  betrachten smd.\n\nZur Zeit des Mittelalters wurde Cnicus benedictus als ein Hauptmittel gegen  Lungengeschwure   und\nPest angesehen.   Im 16. Jahrhundert wurde die Pflanze von Camerarius abgebildet; Brunscbwig\nempfahl urn 1500 Aqua Cardui benedicti] Valerius Cordus nennt als Beigabe einer Salbe Cardun-\ncellus. Gessner berichtet in seiner Schrift: „Horti Germaniae\", dass unsere Pflanze zu Heilzwecken\nangebaut wurde und Matthiolus giebt neben einer guten Abbildung una Kunde davon, dass zu seiner\nZeit das Benediktenkraut als Arzneipflanze sehr geschatzt war; letzterer empfiehlt selbst das                                                       Kraut bei\nPest, ansteckenden Fiebern und Krebs. Die Benedicta der heiligen Hildegard und anderer deutschen\n                                                                 *",
+      "normalized_text": null,
+      "zh_tw_rendering": "古人已知此藥。中世紀視為治療肺結核與瘟疫之要藥。16世紀起廣泛應用，希爾德加德曾提及。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 74,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 94,
+        "char_end": 2025,
+        "page_text_sha256": "a4adff402c2f6809b37e84361d7073932350ab32fbc01c88ebeeb32b051ddbea",
+        "exact_text_sha256": "34e8cd6082acd6fa9b61dd50a5702e7ab20b79fccd6c107ccbe204d0e211f4f0",
+        "source_line_start": 6,
+        "source_line_end": 24,
+        "section_index": 3,
+        "section_type": "history"
+      },
+      "exact_text_sha256": "34e8cd6082acd6fa9b61dd50a5702e7ab20b79fccd6c107ccbe204d0e211f4f0",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0073-p0076:s04:x00",
+      "section_type": "constituents",
+      "original_text": "             Bestandtheile.  Das Kraut enthalt reichlich Kalium-, Calcium- und Magnesiasalze. 100 Theile\ndes lufttrocknen Krautes entbielten: 5 harzartigen Stoff, 13 Scbleim und Gummi, 0.3 fliichtiges Oel,\n24 bitteren Extraktivstoff, 2.5 Kaliacetat, 5 Kali- und Kalknitrat, 1.6 Kalkmalat, 3.4 Kalksulfat und\nanclere Erdsalze, 37.5 Holzfaser mit Eiweissstoff, 8.5 Feuchtigkeit und 0.2 Bitterstoff, Cnicin oder\nCentaurin genannt. Das 1839 von Nativelle in den Blattern von Cnicus benedictus entdeckte Cnicin\n(C42 H56 O15) bildet wasserlielle, seidenglanzende Nadeln, ist neutral, ohne Geruch und von sehr bitterem\nGeschmacke, loslich in kochendem Wasser, wenig in Aether und gar nicht loslich in atherischen Oelen.\nDer Same enthalt fettes Oel und wahrscheinlich auch                           Cnicin.            (Husemann, Pflanzenstoffe 1533.)",
+      "normalized_text": null,
+      "zh_tw_rendering": "含鉀、鈣、鎂鹽，樹脂，黏液，苦味成分Cnicin。種子含脂肪油及Cnicin。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 74,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 3543,
+        "char_end": 4385,
+        "page_text_sha256": "a4adff402c2f6809b37e84361d7073932350ab32fbc01c88ebeeb32b051ddbea",
+        "exact_text_sha256": "81fbca201de49186980e0e0c8fa160d818c93f03debbf1f0a4cf46a3dc4c7fd2",
+        "source_line_start": 55,
+        "source_line_end": 62,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "81fbca201de49186980e0e0c8fa160d818c93f03debbf1f0a4cf46a3dc4c7fd2",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0073-p0076:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "             Anwendung.                Das Kraut wird im Aufguss                 bei        chronischen Leberleiden,                      Hypochondrie,\nHysterie, Magenbeschwerden, chronischen katarrhalischen Leiden, Wechselfieber                                                 etc.,      im Allgemeinen\naber nur als Amarum bei Verdauungsschwache gereicht.                           Grossere Gaben bewirken Uebelkeit, Erbrechen,\nKolik und Durchfall.                Der Same          Same von Silybum Marianum Gaertn., nur\n                                                   findet,    ebenso wie der\nnoch als Hausmittel gegen Seitenstechen Anwendung; letzterem Umstande verdanken die Korner den\nNamen Stechkorner. (Husemann, Arzneimittell. 647.)",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：煎劑用於慢性肝病、抑鬱、消化虛弱。大劑量致嘔吐腹瀉。種子曾作民間止痛藥。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 74,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 4386,
+        "char_end": 5130,
+        "page_text_sha256": "a4adff402c2f6809b37e84361d7073932350ab32fbc01c88ebeeb32b051ddbea",
+        "exact_text_sha256": "923bb9f54035f9325926e6255c3528612d3ec39730f2fc3cd646c6599b114854",
+        "source_line_start": 63,
+        "source_line_end": 69,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "923bb9f54035f9325926e6255c3528612d3ec39730f2fc3cd646c6599b114854",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "dbb775a06af2e8d5a104ca09976d965e31359e7020c7091ae9998e285247038c",
+    "maker_receipt_sha256": "ec90445d69034517df39fb69b369eb77befee8f75608516032d181baeb9e4152",
+    "validation_check_sha256": "6394469a34670172934bc926ea69708d5ad2768f394e52fd98a32604035dbabf",
+    "source_disposition_sha256": "7bbc871dcc83a8eb3681a8bb6fda3690c3101c1c3f2a8658a1265e8ec0f232ba",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "ec90445d69034517df39fb69b369eb77befee8f75608516032d181baeb9e4152",
+      "validation_check_sha256": "6394469a34670172934bc926ea69708d5ad2768f394e52fd98a32604035dbabf",
+      "source_disposition_sha256": "7bbc871dcc83a8eb3681a8bb6fda3690c3101c1c3f2a8658a1265e8ec0f232ba"
+    },
+    "naming_artifact_sha256": "72f949666e9fac2805a741d7f3fe83eb0cbabc2bbf1e337181c2ebb94cd106ed"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "fbf196a312cff086878b516b5d6779f7014bd9be95411eae1f55787dda06f2b3"
+}

@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-1:p0201-p0204",
+  "owner_shard": "S02",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 163.034,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-1:p0201-p0204",
+    "book_taxon": {
+      "scientific_name_candidate": "Cinnaniomuiu Cassia",
+      "authorship_candidate": "Blume",
+      "aliases_candidates": [
+        "C. aromaticum Fr. Nees",
+        "Laurus Cassia Nees",
+        "Persea",
+        "Cinnamomwn Burm.",
+        "Cinnamomum Burmanni Blume"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 201,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名Cinnaniomuiu Cassia，別名C. aromaticum，屬樟科Cinnamomwn。",
+        "warnings": [],
+        "source_line_range": [
+          6,
+          13
+        ],
+        "exact_source_quote": "                                               Cinnaniomuiu Cassia Blume.\n     Sy          C.   aromaticum Fr. Nees.                         Laurus Cassia                            Nees.                  Persea              Si:\n\n\n\n                                               Zimmtkassie, Chinesischer Zimmtbaum.\n\n            Familie: Laureae.                    Gattung: Cinnamomwn Burm."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 201,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "高12米以上樹木，灰裂皮，多枝冠。葉革質，長10-15公分，橢圓形，三脈，上綠下藍。",
+        "warnings": [],
+        "source_line_range": [
+          14,
+          20
+        ],
+        "exact_source_quote": "            Beschreibung.                  12 und mehr Meter holier                Baum mit aschgrauer, rissiger Rinde und viel-\nastiger Krone.          Aeste   steif          abstehend;        die   jungen Zweige ungleich vierseitig, wie                               die Blattstiele        und\nBluthenstande gelblich weichhaarig.                     Blatter lederig, auf 1            —   1        2\n                                                                                                            ctm          -   langen Blattstielen,        am Ende\nder Zweige gegenstandig, 10                    — 15 und mehr Ctm. lang, bis 6V Ctm kreit, langlich-eiformig, an der\n                                                                                                  2\n                                                                                                                 -"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 201,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "皮層含棕色厚壁薄壁組織，散在石細胞群，無閉合環。含黏液細胞、精油細胞，澱粉與單寧多於錫蘭桂。",
+        "warnings": [],
+        "source_line_range": [
+          72,
+          84
+        ],
+        "exact_source_quote": "            Anatomisches              :    Die auf dem Bruche nicht faserige, mehr ebene, zum Theil noch mit Kork\nbedeckte Rinde zeigt in der Mitte eine feine,                              weisse Linie   und ausserhalb derselben einzelne weisse\nPunkte.     Die ganze Mittelrinde besteht vorwiegend aus einem braunwandigen, starkereichen Parenchym,\nwelches auch der Hauptsache nach den Bast zusammensetzt.                                   In dem Parenchym finden sich vereinzelte\nund nach innen zu gruppenweis vereinigte Bastfasern, ebenso Gruppen von Steinzellen, die jedoch nicht\nwie bei dem Ceylonzimmt in geschlossenem Ringe auftreten.      Die in dem Parenchym vorhandenen\ngrossen,     ovalen,     farblosen Schleimzellen                  sind     aus aufgelosten Bastzellen hervorgegangen\n                                                                                                      *\n                                                                                                                                                  ,    indem       die\n\nWande       der letzteren       allmahlig zu           Bassorin resp.          Gummi      desorganisirt                       werden.        Zellen    mit    athe-\nrischem Oele sind durch das Gewebe zerstreut.                               Starke-    und Gerbstoffgehalt ist bei dem Cassiazimmt\ngrosser als bei       dem Ceylonzimmt."
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 202,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "分佈於中國東南部、交趾支那，亦栽培於蘇門答臘群島及南美洲。",
+        "warnings": [],
+        "source_line_range": [
+          9,
+          11
+        ],
+        "exact_source_quote": "                Verbreitung.         In Siidostchina        imd Cochinchina; auch auf den Sundainseln und                                in   Siid-\n\namerika kultivirt."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 202,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史名稱Kinnamom源於僧伽羅語。中國神農本草經（西元前2700年）稱Kwei。埃及神廟（西元前1600年）已用。",
+        "warnings": [],
+        "source_line_range": [
+          13,
+          22
+        ],
+        "exact_source_quote": "                Name und Geschichtlich.es. Wegen Cinnamomum siehe C Camphor a.                                           Fliickiger fiihrt\ndas schon bei den Phonikiern   und Hebraern gebrauchte Wort Kinnamom anf das Singalesische hacyn,\nHolz, und nama, suss, zuriick.   Cassia, kccgolcc bei Dioscorides, Cassia bei Plinius (MahafJad-Qov\ndes   Theophrast)            bezeichnet unsere Zimmtrinde und soil           nach Olaus Celsius der hebraischen Be-\nzeichnung n?|Dp (Kesioth) entlebnt                  sein.   Die erste Kunde von der Kenntniss des Zimmtes findet sich\nindem Krauterbuche des chinesischen Kaisers Schen-nung (2700 v. Chr.), woselbst der Zimmt unter\ndem Namen Kwei erwahnt wird. Die erste Nachricht liber die Einfuhr des Zimmtes in andere Lander\n                                                       Edfu in Aegypten (1600 1500 v. Chr.),\nerhalten wir aus den Rezepten des Tempellaboratoriums von                                                                 —\nin denen neben anderen Gewurzen Kaina-maa (mit grosser Wahrscheinlichkeit Zimmt) genannt wird."
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 203,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "成分含1.89%精油，0.26%醚溶性樹脂，8.19%醚不溶性樹脂，2.08%單寧，4.43%澱粉，8.56%黏液。",
+        "warnings": [],
+        "source_line_range": [
+          31,
+          36
+        ],
+        "exact_source_quote": "              Bestandtheile.         Nach Trojanowsky sind in dem Zimmt enthalten:                    l,89°/   atherisches Oel,\n    0,26 °/   in Aether losliches Harz, 8,19 °/          in Aether unlosliches Harz, 2,08 °/    Gerbsaure, 4,43 °/     Amylum,\n    8,56 °/   Schleim,   1,002 °/   Asche.         Das atherische Oel,    Cassiaol,   chinesisches   oder gemeines Zimmtol,\n    welches sowohl aus der Rinde             als    den Zimmtbliithen und Blattern gewonnen wird,              ist   gelblich bis\n    braunlich, etwas dickfliissig, riecht angenehm aromatisch und hat einen susslichen, brennenden Geschmack,\n    besitzt ein spez.    Gew. von 1,03    — 1,09 und einen Siedepunkt von 225°, unter 0° wird es fest und                     ist"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "64fe1df0fd1ddf9600037dd55d33b953fc29fc250fa3b96e841b79565fc503c9"
+}

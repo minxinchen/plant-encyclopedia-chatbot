@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0423-p0428",
+  "owner_shard": "S04",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 172.054,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0423-p0428",
+    "book_taxon": {
+      "scientific_name_candidate": "Zingiber officinale Roscoe",
+      "authorship_candidate": "Roscoe",
+      "aliases_candidates": [
+        "Amomum Zingiber L.",
+        "Zingiber L.",
+        "Ingwer",
+        "gemeiner Ingber",
+        "Gingembre",
+        "l'Amome des Indes",
+        "Ginger"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 423,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名 Zingiber officinale Roscoe，同義名 Amomum Zingiber L.，屬薑科。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          6
+        ],
+        "exact_source_quote": "                                  Zingiber officinale Roscoe.\n                                            Syn. Amomum            Zingiber L.\n\n             Ingwer, gemeiner Ingber 一              Gingembre, l'Amome des Indes —                    Ginger.\n\n           Familie: Zingiberaceae (Unterfam.: Amomeae); Gattung: Zingiber Roscoe."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 423,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "根莖多年生，水平匍匐，塊狀多節，新鮮時略扁平，肉質，具側根。莖直立，高逾一米。",
+        "warnings": [],
+        "source_line_range": [
+          7,
+          17
+        ],
+        "exact_source_quote": "             Beschreibung. Rhizom ausdauernd, horizontal kriechend, knollig-vielgliederig, im frischen\n  Zustande, namentlich an kräftigen Rhizomästen, etwas plattgedrückt, fleischig, oberseits mit den eng\n  aneinanderstehenden, knolligen, eirunden, durch Blattnarben geringelten, an der Spitze mit je einer\n  Knospe ausgestatteten Knollstöcken besetzt und mit fadenförmigen, fleischigen, 4— 6 Mm. dicken,\n  schmutzig-weissen Nebenwurzeln versehen. Berg giebt über die Wurzel und die Entwickelung der\n  Pflanze folgende Beschreibung: „Bei Zingiber ist die unterirdische Achse ein kriechender Wurzelstock,\n der nur langsam hinten abstirbt, daher ziemlich lang werden kann, durch Blattscheiden geringelt ist\n  und abwechselnd rechts und links aus den Knoten Knospen treibt. Diese Knospen entwickeln sich zu\n  beblätterten Stengeln oder Blüthenschäften, welche beim Absterben die verdickte, aus verkürzten\n Stengelgliedern bestehende Achse als seitliche Aeste oder mit dem Wurzelstock in Verbindung bleibende\n Knollstöcke zurücklassen.“ Blätterentwickelnde Stengel zu mehreren aus einer Wurzel, einjährig, auf-"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 424,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "橫切面見棕色皮層與白色粉質核心。皮層含厚木栓層，核心富含澱粉，維管束為螺旋網狀。",
+        "warnings": [],
+        "source_line_range": [
+          18,
+          31
+        ],
+        "exact_source_quote": "            Anatomisches. Auf dem Querschnitte erkennt man eine 1 Mm. dicke, braune Rinde, die\n  durch eine feine Linie (Kernscheide) von dem weisslichen, mehligen Kerne getrennt ist. Die Rinde ist\n  mit einem dicken Korke bedeckt, die aus einer äusseren, lockeren Lage und ca. 12 Reihen regelmässiger,\n  tafelfórmiger Zellen zusammengesetzt ist. Hierauf folgt eine Schicht aus engen, kurzen, prosenchy-\n  matischen Zellen bestehend, die auf dem Querschnitte geschlängelte und stellenweis verdickte Wände\n  zeigen und von zerstreuten Gefässbündeln durchsetzt sind. „Das sehr zarte, verfilzte Gewebe bildet\n  die gestreifte Oberfläche des geschälten Ingwers und ist der Hauptsitz des Harzes und ätherischen\n  Oeles, welche hier eigene grosse Räume erfüllen.“ (Flückiger) Die Parenchymzellen haben polyedrische\n. Form, sind getüpfelt, farblos und reich erfüllt mit Stärkemehl. Die Gefässbündel bestehen aus einigen\n  centralen Gefässen mit einem unbedeutenden Cambiumstrang, rings von Holzzellen umgeben. Die\n  Gefässe sind Spiral-Netzgefässe und Treppengänge. Die Kernscheide wird gebildet aus einem Ringe, der\n  aus wenigen Reihen tangential gestreckter, sehr flacher, inhaltsloser Zellen zusammengesetzt ist. Das\n  Holz ist in seinem Bau der Mittelrinde gleich, nur sind in ihm die Gefässbündel mehr gedrängt.\n"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 424,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產南亞，現已無野生狀態。栽培於舊新大陸熱帶地區，北緯30度以下，海拔1000米內。",
+        "warnings": [],
+        "source_line_range": [
+          32,
+          35
+        ],
+        "exact_source_quote": "           Vorkommen, Wahrscheinlich in Südasien einheimisch; die Pflanze wird jedoch gegenwärtig\n  nirgends mehr in wildem Zustande angetroffen. Sie wird in mehreren Abarten in den Tropenländern\n  der alten und neuen Welt gezogen, nach Flückiger's Angabe unter dem 30.0 nördl. Breite noch in `\n  einer Meereshöhe von 1000 Metern."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 424,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源自印度語 sringavera。古希臘羅馬時期已知，中世紀經阿拉伯貿易傳入歐洲，後傳至美洲。",
+        "warnings": [],
+        "source_line_range": [
+          37,
+          49
+        ],
+        "exact_source_quote": "           Name und Geschichtliches,                  Ingwer      (althochd. gingiber;     mittelhochd. Engeber, Ingewer, `\n  Igwer, Imber, Inber, Ingber, Ingewer,            Ingüber,   Ingwer;    mittelniederd.     Ymbar,     Yngeber;      bei Hilde-\n  gard Gingiber, Ingeber) ist aus Zingiber hervorgegangen. Zingiber, Zuyyıßegıs der Griechen, zingiber\n  des Pinius, stammt aus dem arabischen zindschabil, die Wurzel von zindschi (Indien). Dieser Name\n  wird   auch   zurückgeführt    auf     das   indische   sringavera,     hornförmig,       wegen    der    Form      und zähen\n  Beschaffenheit der Wurzel, ebenso auf die Berge des Landes Gingi (westlich von Pondicheri) i\n  welchem die Pflanze wild vorkommen soll. Amomum zusammengesetzt aus ¢, ohne, und ۵۵۵\n  Tadel, d. h. tadelloses   Gewürz;       das Wort    wird auch aus      dem   arabischen     hamama        abgeleitet.\n          Schon in alten Zeiten war ‘der Ingwer als Gewürz und Medikament bekannt und es lässt sich\n wohl annehmen, dass er in Indien schon in den frühesten Zeiten als Gewürz verwendet wurde; gleich-\n wohl tritt der Name Sringavera in der indischen Litteratur erst im 9. und 10. Jahrhundert unserer\n Zeitrechnung auf. Da jedoch Cornelius Celsus, Dioskorides und Plinius im 1. Jahrhundert\n nach Christus bereits Zingiber, Zinziber oder Zimpiberi als ein wohlbekanntes Gewürz erwähnen, so"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 427,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史上用作芳香劑、健胃劑及消化藥。曾用於治療舌癱、口臭、牙痛及喉嚨鬆弛等症。",
+        "warnings": [
+          "Content describes historical medical usage; not modern medical advice."
+        ],
+        "source_line_range": [
+          9,
+          17
+        ],
+        "exact_source_quote": "          Anwendung.           In Substanz. und Tinktur         als ein kräftiges Aromaticum,             Stomachicum       und\n Digestivum;   wird auch bei Zungenlähmung         und übelriechendem           Athem als Kaumittel         verwendet.     „Für\n sich dient Ingwer nur als Kaumittel bei Glossoplegie, Zahnweh und in Form eines Aufgusses als\n Gurgelwasser gegen Erschlaffung der Uvula, chronische Angina und Aphonie. Ingweraufguss wird\n bei Colica flatulenta, Ingwertinktur bei Sommerdiarrhoe sehr gerühmt. In England findet Ingwer\n häufig Anwendung als aromatischer Zusatz zu magenbelästigenden Stoffen (Eisen) und zu abführenden\n Mixturen, um Kolikschmerzen zu verhindern. Der eingemachte Ingwer dient als Hausmittel gegen\n Magenkatarrh und Katzenjammer. Seine Verwendung als Küchengewürz ist bekannt. (Husemann,\n Arzneimittell. 566.)                                                            i"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "4f52b7634af3e3008ca4f1b4370f5e7b2b663ef8f9d3bb9035ce7ff575697297"
+}

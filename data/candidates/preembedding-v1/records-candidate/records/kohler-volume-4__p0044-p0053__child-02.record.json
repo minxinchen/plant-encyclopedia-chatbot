@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-4-p0044-p0053-child-02",
+  "entry_id": "kohler-volume-4:p0044-p0053:child-02",
+  "owner_shard": null,
+  "book_taxon": {
+    "scientific_name": "Saponaria officinalis",
+    "authorship": null,
+    "aliases": []
+  },
+  "display_name": "皂質草",
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Saponaria officinalis"
+    ],
+    "accepted_scientific_name": "Saponaria officinalis",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "taiwan_occurrence_status": "recorded",
+    "checked_at": "2026-08-20T23:03:06+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Saponaria+officinalis",
+        "query_name": "Saponaria officinalis",
+        "retrieved_at": "2026-08-20T23:03:06+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://taicol.tw/zh-hant/taxon/t0075740",
+        "query_name": "Saponaria officinalis",
+        "retrieved_at": "2026-08-20T23:03:06+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/taxon?taxon_id=t0075740",
+        "query_name": "Saponaria officinalis",
+        "retrieved_at": "2026-08-20T23:03:06+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL accepts the queried book binomial at species rank."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 48,
+      "evidence_type": "text",
+      "page_text_sha256": "d1aaab34d6f83179e29c87c64e3030bdc15f6b207ae708d1112d78748ee1ce39",
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e"
+    },
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 49,
+      "evidence_type": "text",
+      "page_text_sha256": "b91f843dcc3f1f6b30d34b68552313f63a44d48a3a1c7fe52d1b0283f8dce307",
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e"
+    },
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 50,
+      "evidence_type": "text",
+      "page_text_sha256": "79fd1065482dba3e9456ac68d75090df5402d80a0015977ae91c88ae1c1da9cc",
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e"
+    },
+    {
+      "source_id": "kohler-volume-4",
+      "volume": 4,
+      "pdf_page": 53,
+      "evidence_type": "text",
+      "page_text_sha256": "a3d69b5b10b8125732a4204a622e5ec08a09ee571b3921a8dd23b3d5d6d17089",
+      "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-4:p0044-p0053:child-02:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "            Familie :           Caryophyllaceae.                 (R e i h e   :   Centrospermae.)                U n t e r f a m.   :    Sllenoldeae.    Tr bus\n                                                                                                                                                            i\n\n\nDiantheae.        Gattung: Saponaria L.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 48,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 943,
+        "char_end": 1302,
+        "source_line_start": 21,
+        "source_line_end": 25,
+        "page_text_sha256": "d1aaab34d6f83179e29c87c64e3030bdc15f6b207ae708d1112d78748ee1ce39",
+        "exact_text_sha256": "2310089e97894ddf92a518f9d0c371808d01f0a1fd05ca4b540f9a05b10f7a01",
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "2310089e97894ddf92a518f9d0c371808d01f0a1fd05ca4b540f9a05b10f7a01",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-4:p0044-p0053:child-02:s01:x00",
+      "section_type": "description",
+      "original_text": "            Beschreihung: Das Seifenkraut hat eine                                      bis       fingerdicke, walzliche,               weitverzweigte Grund-\nachse (Fig.       1),    die     auslauferartig               weithin kriecht und zahlreiche Sprosse treibt.                                   Diese sind       teils\n                                                                                              F\n                                                                                                                     \"\n                                                                                                                          A'\n\n\n\n\nsteril,   teils   werden          sie    zu    30—70 cm hohen fertilen Sprossen.                                  Die Stengel der Pflanze sind auf-\nrecht oder aus niederliegendem Grande aufsteigend, rand                                             und fein flaumig behaart. Bei schwacheren\nIndividuen sind           sie    einfach, bei kraftigen Pflanzen jedoch oberwarts astig verzweigt.                                              Die Laubblatter",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 48,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 1309,
+        "char_end": 2426,
+        "source_line_start": 31,
+        "source_line_end": 42,
+        "page_text_sha256": "d1aaab34d6f83179e29c87c64e3030bdc15f6b207ae708d1112d78748ee1ce39",
+        "exact_text_sha256": "6747f4f3675064e8ffdce625105c0ccde00528b3466abff482537823dc899748",
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "6747f4f3675064e8ffdce625105c0ccde00528b3466abff482537823dc899748",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-4:p0044-p0053:child-02:s02:x00",
+      "section_type": "flowering",
+      "original_text": "             Bliitezeit:           Das Seifenkraut bluht vom Juni bis zum September.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 49,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 3603,
+        "char_end": 3687,
+        "source_line_start": 48,
+        "source_line_end": 48,
+        "page_text_sha256": "b91f843dcc3f1f6b30d34b68552313f63a44d48a3a1c7fe52d1b0283f8dce307",
+        "exact_text_sha256": "6287c00aa4cb3978cf63719848d2986daf5abea78fd851ac6b2d094487e1fdcb",
+        "section_index": 2,
+        "section_type": "flowering"
+      },
+      "exact_text_sha256": "6287c00aa4cb3978cf63719848d2986daf5abea78fd851ac6b2d094487e1fdcb",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-4:p0044-p0053:child-02:s03:x00",
+      "section_type": "constituents",
+      "original_text": "           Combes              bediente            sich     zum Nachweis                    der Saponine der Wurzel in situ der folgenden\n\nMethode.         Frische            Schnitte        werden          fiir   24 Stunden               in    gesattigtes         Barytwasser gelegt,                       mit ver-\n\ndiinnterem Barytwasser, dann mit Kalkwasser gewaschen.                                                    Die Saponine sind dabei in eine in Kalk-\n\nwasser unlosliche Baryumverbindung                                   iibergegangen,                die    sich    allerdings          in   Wasser           lost,       weshalb\n\nWaschen mit Wasser zu vermeiden ist.                                       Werden die Schnitte nun mit 10°/oiger Kaliumdichromat-                  *",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 50,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 5345,
+        "char_end": 6135,
+        "source_line_start": 97,
+        "source_line_end": 105,
+        "page_text_sha256": "79fd1065482dba3e9456ac68d75090df5402d80a0015977ae91c88ae1c1da9cc",
+        "exact_text_sha256": "434dceab36aad60055e885864ea57f6b6b49bde7c49bba123134191415e55839",
+        "section_index": 3,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "434dceab36aad60055e885864ea57f6b6b49bde7c49bba123134191415e55839",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-4:p0044-p0053:child-02:s04:x00",
+      "section_type": "literature",
+      "original_text": "                                                                                   Thome, Flora II, 77.                                  Hegi, Flora III,\n           Literatur.              Beschreibungen                 und Abbildungen:\n\n344 Tafel 103, Fig. 4.\n\n                                                                                                                             Warenkunde.      Fliicki ger:\n           Pharmazeutisches und Bestandteile:\n\nPharmakognosie des Pflanzenreichs.                              M                                                                               v.   Schul z:\n\n                                                                                                               Kenntnis                        anzen 1904\nPharra. Zcitung         fiir   Ru Bland 1896, 816.\n                                                                Chen, News. 90, 183.                      J.   Chen, Soc. 89, 1210. Schnlze: Dile\nBarger:Ber.Chem.Ges.35, 1296.\n                     Versnehs-Stationen 48, 33.                                          Combes: Comp. rend. 145,                     1431.   Vamvakas:\nLandwirtschaftlichen\n                                                          Riihle:           Zeitschrift           fiir   Untersuchnng der Nahrungs- nnd GenuE-\nA nn. Chim. anal. appl. 11, 161.\nmittel 23, 566.",
+      "normalized_text": null,
+      "zh_tw_rendering": null,
+      "evidence_indexes": [
+        3
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-4",
+        "volume": 4,
+        "pdf_page": 53,
+        "source_pdf_sha256": "07956c08ab1dbcc28ae6366dbdee7a36db8cc740ce3ec60731f140884752b40e",
+        "char_start": 2160,
+        "char_end": 3528,
+        "source_line_start": 37,
+        "source_line_end": 55,
+        "page_text_sha256": "a3d69b5b10b8125732a4204a622e5ec08a09ee571b3921a8dd23b3d5d6d17089",
+        "exact_text_sha256": "dc6c4c8ef96eedd0a7a3e72195f9b4b1b78afb3c59e0b2a61a0490d27047255d",
+        "section_index": 4,
+        "section_type": "literature"
+      },
+      "exact_text_sha256": "dc6c4c8ef96eedd0a7a3e72195f9b4b1b78afb3c59e0b2a61a0490d27047255d",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "1b177287485209403dfcb9ca13a3e80c91467e0ccd3f6276049a2dc410639532",
+    "maker_receipt_sha256": null,
+    "validation_check_sha256": null,
+    "source_disposition_sha256": "13565bf7d00b55514fd4564f1595abec9fd76acddefa3049c85cc3b87837c251",
+    "candidate_source_chain": {
+      "source_disposition_sha256": "13565bf7d00b55514fd4564f1595abec9fd76acddefa3049c85cc3b87837c251",
+      "boundary_overlay_plan_sha256": "c7c0253e52f0583570699f98cc9c8fa3dda15857551bc2b94d6430ed0afd008a",
+      "boundary_segment_sha256": "c9bdef54488a5337c5e44b90e70035d836bdd9f26321110226b5696ed82b4b56",
+      "source_parent_entry_id": "kohler-volume-4:p0044-p0053",
+      "continuation_v2_receipts": [
+        {
+          "package_id": "kohler-volume-4:p0044-p0053:child-02:continuation-01",
+          "package_sha256": "91bcdc36b46a3c3d0df5d864386c29a99410448273249bffb24cc4b5549d834d",
+          "receipt_sha256": "fcef52f1fc50341ee90842466176f9a1fe043d8ca38e73880581e9ab5c01a2f6",
+          "attempt_sha256": "f0b4e13f02cd47dfa97d373d54f149ff287fae63c1d3726c83699510fbf9fe89",
+          "validation_check_sha256": "179d87fc334c70520b7fbee93a2d7b04af2806ad3be59b7af74c3bd8cef06d80"
+        }
+      ]
+    },
+    "naming_artifact_sha256": "cecefd800d7031319b1c55bad3d96c11a3f75a26dfa98a77bd4bfe7f17a12939"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "b63008ba05b490dad60428e4051d9f2730f4b38f074406b68e24d197e7f30572"
+}

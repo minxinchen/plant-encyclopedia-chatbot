@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "started_at": "2026-08-20T22:54:33+08:00",
+  "status": "complete_qualification_passed_no_pending_queue_apple_vision_retained",
+  "model": "/Users/user/AI_WORKSTATION/services/chandra-ocr/models/chandra-ocr-2",
+  "model_revision": "af93b47dba1b47b6640c86ccf487ed2260ab9a09",
+  "license_scope": "modified OpenRAIL-M; personal/research and qualifying startups only",
+  "processed_this_run": 0,
+  "dispositions": {},
+  "current_page": null,
+  "qualification": {
+    "source_id": "kohler-volume-2",
+    "pdf_page": 509,
+    "artifact": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S05/maker/chandra-ocr-candidates/kohler-volume-2__p0509.json",
+    "status": "pass",
+    "required_tokens": [
+      "Oenanthe",
+      "Phellandrium"
+    ]
+  },
+  "manifest_errors": [],
+  "updated_at": "2026-08-20T22:55:44+08:00",
+  "structure_status": "complete",
+  "structure_processed": 230,
+  "continuation_v2_status": "complete",
+  "continuation_v2_remaining": 0,
+  "recovery_status": "complete",
+  "recovery_remaining": 0,
+  "continuation_status_authority": "continuation-v2-plus-recovery",
+  "pending_queue_after_qualification": 0
+}

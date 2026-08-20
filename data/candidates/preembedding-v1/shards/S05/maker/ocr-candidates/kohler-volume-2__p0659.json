@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 659,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "ec8a9ab29199d6a197de87badaeb306093284e019f8b119be0fac539bd47629a",
+  "render_dpi": 144,
+  "render_sha256": "7c3966beada51e89a9a39412a654ff7684b9b493a44cecffcb36baa6253ae649",
+  "input_sha256": "7c3966beada51e89a9a39412a654ff7684b9b493a44cecffcb36baa6253ae649",
+  "render_pixel_width": 5786,
+  "render_pixel_height": 8078,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 2.692,
+  "embedded_character_count": 41,
+  "ocr_character_count": 38,
+  "ocr_alpha_ratio": 0.7368,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.018167270554436565,
+      "text": "Sterculiaceae...",
+      "width": 0.1441841548169419,
+      "x": 0.819388654254494,
+      "y": 0.9313233414306403
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "10",
+      "width": 0.0141987827015716,
+      "x": 0.860040567979843,
+      "y": 0.15843023280683366
+    },
+    {
+      "confidence": 1,
+      "height": 0.020429586607312422,
+      "text": "Theobroma Cacao I.",
+      "width": 0.1967545612366906,
+      "x": 0.4320486848380441,
+      "y": 0.07986111071506696
+    }
+  ],
+  "text": "Sterculiaceae...\n10\nTheobroma Cacao I.",
+  "output_sha256": "ba6f74527ada5495f5761615b8fe01b309ce55800a84318e2edd5fbe7895c1a4",
+  "receipt_sha256": "700980dbfeb907911609fdaf0cc50f5427b2e2d16d5ac459ebe1944a4edcd11b"
+}

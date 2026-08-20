@@ -1,0 +1,117 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-4:p0058-p0061",
+  "owner_shard": "S08",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 115.867,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-4:p0058-p0061",
+    "book_taxon": {
+      "scientific_name_candidate": "Helleborus viridis L.",
+      "authorship_candidate": null,
+      "aliases_candidates": [
+        "Grime Nieswurz",
+        "grime Christwurz",
+        "Barenwurz",
+        "BarenfuB",
+        "Ellebore vert",
+        "herbe a la brosse",
+        "herbe a setons",
+        "pommeliere",
+        "Bear's foot",
+        "Erba nocca",
+        "cavolo di lupo",
+        "Heleboraster viridis Moench"
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 58,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "綠嚏根草，毛茛科嚏根草屬，同義名 Heleboraster viridis。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          10
+        ],
+        "exact_source_quote": "                                              Helleborus viridis L.\nGrime Nieswurz, grime Christwurz, Barenwurz, BarenfuB;                                                       Franz.:     Ellebore vert, herbe a                          la\n\n      brosse, herbe a setons, pommeliere;                           engl.: Bear's foot;                    ital.:   Erba nocca, cavolo              di lupo.\n\n\n                     Syn.:    Heleboraster viridis Moench.\n\n\n                     Familie: Ranunculaceae. Reihe: Ranales. Tribus: Helleboreae.                                          Gattung: Helleborus"
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 58,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "多年生無毛植物，高至40公分，葉深綠，花徑6-7公分，果實長25-28毫米。",
+        "warnings": [],
+        "source_line_range": [
+          16,
+          28
+        ],
+        "exact_source_quote": "                     Beschreibung: Die grune Nieswurz                           ist    eine     ausdauernde,             kahle Pflanze,             die       bis        zu\n40 cm hoch wird.                   Der Wurzelstock                                                                                           und tragt eine\nbis    mehrere Rosetten, ist em-                    bis   mehrkopfig, wie der Fachausdruck lautet.                              Die Stengel sind auf-\nrecht,      entweder ganz kahl oder im oberen Teile sparlich behaart und nur im oberen Teile wenig\n\nverzweigt.              Vom Grande bis zu den Verzweigungen sind sie blattlos.                                           Grundstandige Laubblatter\nsind meist 2 vorhanden; sie iiberwintern nicht.                               Diese Grundblatter sind langgestielt,                          sie    haben eine\n7- bis 13-fach               fuBformig geteilte Spreite.            Die einzelnen Abschnitte sind schmal lanzettlich, am Rande\nscharf doppelt gesagt,                   seltener auch     noch      2- bis 3-fach zerschlitzt.                      Die Nerven sind          oft ein         wenig\nbehaart,             oberseits    sind       sie eingesenkt, unterseits treten sie               deutlich hervor.               Die Farbe der Blatter\nist   matt dunkelgrun.                   Die stengelstandigen Laubblatter sind den grundstandigen ahnlich, jedoch\nungestielt            und kleiner.           An jedem Stengel stehen 2 bis 3 Bluten.                                Diese sind grasgriin und messen\nim Durchmesser 6 bis                     7   cm.   Die 5 Blutenhiillblatter sind breit eiformig, ganzrandig,                                  sie sind         mehr       1"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 59,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "產於中歐疏林、籬笆及園圃，德國巴登至克恩頓，喜鈣質土壤。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          14
+        ],
+        "exact_source_quote": "                                                                             serrtreut   in    lichten        Waldern,         unter Gebnscl\n                 ,.«»«<\n                 Vorkommen                Die Pflanze findet         sich                                                                           j       auf\n\n\n                                         und an Zaunen                    auBerdem wd             sie   Me und da in Bauer» g&rten\nSunken, in                    ObstgSrten\n                                                                      ;\n\n\n\n\nTiert      und verwildert aus diesen suweilen. Ihre Heimat W Mitteleurepa. Ihre Ostgrenze\n                                                                                                                                                  Weicht"
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 59,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "根莖具厚角細胞，維管束含薄壁組織與篩管，含澱粉粒與油滴，無結晶。",
+        "warnings": [],
+        "source_line_range": [
+          67,
+          89
+        ],
+        "exact_source_quote": "                 Anatomie: Der anatomische Aufbau des Rhizoms und der Wurzeln von Helleborus\nist    dem von Helleborus                                                                H\nschichtigen Epidermis                 des Rhizoms           einige   Reihen tangential gestreckter kollenchymatischer Zellen                                      J\n\n\n\n\ndie        die   rundlichen Zellen der Mittelrinde umgeben.\n                                                                                     Der Phloemteil der GefaBbiindel                          besteht        fast\n\n\nausschliefilich              aus    zartwandigem Parenchym und\n                                                                                  Siebrohren,           nur wenig            sind    geringe Wandver-\ndickungen vorhanden.                      Innerhalb des Kambiumringes\n                                                                      sieht                   man die im Querschnitt fast rechteckigen\nXylemteile der GefaBbiindel, die nur\n                                      sparliches Holzparenchym                                   sind\n                                                               enthalten.    Die Markstrahlen\nbreit. Ihre Zellen fuhren wie die des\n                                      Marks und der Rinde kleinkornige                        Starke\n                                                                          (ca. 6 p), einfache\nund kleme Tropfen oliger Substanz.\n                                                             Kristalle fehlen."
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 60,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "歷史用途：曾用於便秘、水腫、催經及驅蟲，具毒性，曾致中毒。",
+        "warnings": [
+          "Content describes historical medical use; not modern advice."
+        ],
+        "source_line_range": [
+          40,
+          51
+        ],
+        "exact_source_quote": "                   Anwendjing.              Mit Einfiihrung der Pharmacopoea Borussica editio septima wurde die\n\n      Pflanze an Stelle von Helleboras niger offizinell,                                doch   ist   sie in die   Pharmacopoea Germanica\n      editio altera und die folgenden Ausgaben nicht mehr aufgenommen worden.                                                      Man benutzte sie in\n      Substanz        oder    als        Extrakt    oder      als   Tinktur bei Obstipation,                Hydrops,         als   Emmenagogum und\n      Anthelminthicum.               Die Pflanze        ist    giftig,     und besonders der \"Wurzelstock mit den Wurzeln hat\n                                     w\n\n\n\n\n      ofters    zu absichtlichen oder zufalligen Vergiftungen                            gefiihrt."
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 61,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "圖版說明：植株全貌、蜜葉、果葉及果實。",
+        "warnings": [],
+        "source_line_range": [
+          46,
+          52
+        ],
+        "exact_source_quote": "                                                     Tafelbeschreibung.\n                            I\n\n\n\n\n         Helleborus viridis L.      A. Habitus.     1.    Honigblatter.    2. Fruchtblatter.    3.   Frucbt"
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "d2e1df22a488fb22ce74c0c5090d5ee7b650b948db10f34d19c7b4ac3c76707d"
+}

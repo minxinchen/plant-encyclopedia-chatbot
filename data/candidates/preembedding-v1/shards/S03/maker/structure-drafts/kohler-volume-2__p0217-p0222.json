@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "kohler-volume-2:p0217-p0222",
+  "owner_shard": "S03",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-line-anchors-v2",
+  "elapsed_seconds": 145.663,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "deterministic_status": "pass",
+  "errors": [],
+  "draft": {
+    "entry_id": "kohler-volume-2:p0217-p0222",
+    "book_taxon": {
+      "scientific_name_candidate": "Eugenia caryophyllata",
+      "authorship_candidate": "Thunberg",
+      "aliases_candidates": [
+        "Caryophyllus aromaticus L.",
+        "Eugenia aromatica Baill.",
+        "Myrtus caryophyllus Spr."
+      ]
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "taxonomy",
+        "pdf_page": 217,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "學名Eugenia caryophyllata，同義名Caryophyllus aromaticus。屬桃金娘科，德語稱Gewürznelkenbaum。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          8
+        ],
+        "exact_source_quote": "                                 Eugenia caryophyllata Thunberg.\n\n    Syn. Caryophyllus aromaticus L.                       Eugenia aromatica Baill.              Myrtus caryophyllus Spr.\n\n\n                                       Gewürznelkenbaum             —      Clove —     Giroffle.\n\n            Familie: Myrtaceae (Unterfamilie: Myrteae); Gattung: Eugenia Micheli."
+      },
+      {
+        "section_type": "description",
+        "pdf_page": 217,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "常綠喬木，高至12米，樹冠金字塔形。葉革質，長8厘米，深綠色，具油室。",
+        "warnings": [],
+        "source_line_range": [
+          10,
+          17
+        ],
+        "exact_source_quote": "           Beschreibung. Immergrüner, bis 12 Meter hoher Baum von pyramidalem Wuchse, mit\n zahlreichen, herabhüngenden oder wagerecht abstehenden, stielrunden Aesten, deren glatte Rinde eine\n gelbli    -ch\n            graue Färbung besitzt. Aestchen rundlich-vierkantig. Die mit ungefähr 3 Cm. langen Blatt-\n stielen versehenen Blätter lederig, 8 Ctm. lang, 3 Ctm. breit, länglich-elliptisch, keilfórmig in den Blatt-\n stiel verschmälert, stumpf zugespitzt, ganzrandig, etwas wellenfórmig, oberseits längsfurchig, glänzend-\n dunkelgrün, mit zahlreichen kleinen Oelräumen ausgestattet, unterseits blasser; vom Hauptnerven gehen\n zahlreiche, sehr dicht stehende, wenig hervortretende, am Rande bogig verbundene Seitennerven ab."
+      },
+      {
+        "section_type": "anatomy",
+        "pdf_page": 218,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "子房具厚皮，含油囊。維管束含木化纖維及含草酸鈣簇晶的薄壁組織。",
+        "warnings": [],
+        "source_line_range": [
+          6,
+          13
+        ],
+        "exact_source_quote": "          Anatomisches.              Der aus dem Unterkelche gebildete Fruchtknoten besitzt eine derbe Rinde,\n deren Parenchym      die dicht unter          der Oberhaut      liegenden, zahlreichen,     2—3reihig     geordneten,       quer-\n ovalen Oelbehálter einschliesst und von einer knorpeligen, wellenfórmigen Oberhaut und einer Reihe\n Epidermalzellen bedeckt ist. Darauf folgt ein Kreis Gefässbündel, welcher die Rinde von dem\n schwammigen, in der Mitte wiederum mit einem Gefässbündel ausgestatteten Marke trennt. Die an\n Grösse verschiedenen,       von    einander ungleich entfernten,         durch schlaffes Parenchym       getrennten     Gefäss-\n bündel zeigen an ihrem Umfange            zerstreute,    oder    einen dichten    Kreis bildende,     verholzte    Fasern    und\nein Bastparenchym, dessen in Längsreihen geordnete, würfelige Zellen je eine morgensternartige Druse"
+      },
+      {
+        "section_type": "distribution",
+        "pdf_page": 218,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "原產摩鹿加及菲律賓南部，現栽培於蘇門答臘、馬六甲、桑給巴爾及彭巴島。",
+        "warnings": [],
+        "source_line_range": [
+          25,
+          28
+        ],
+        "exact_source_quote": "          Vorkommen,               Ursprünglich auf den Molukken und südlichen Philippinen einheimisch, gegen-\nwärtig   auf   Sumatra,      Malacca,    auf    den   Mascarenen,       den westindischen    Inseln,   namentlich     aber    auf\nSansibar und auf der in der Nähe liegenden Insel Pemba kultivirt.                        Auf den Molukken erstreckt sich\ndie Kultur auf die südlich von Ceram gelegenen kleinen Inseln Amboina, Nusa-Laut,                      Saparua und Haruku."
+      },
+      {
+        "section_type": "history",
+        "pdf_page": 218,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "名稱源於花蕾形狀。古埃及與中國早有使用。歐洲於4世紀由阿拉伯人引入。",
+        "warnings": [],
+        "source_line_range": [
+          30,
+          36
+        ],
+        "exact_source_quote": "          Name und Geschichtliches. Gewürznelken oder Gewürznägelein (althochd. necheleche,\nmittelhochd. nogelken, nágelin, nelgin, mittelniederd. Nalen, Nagelboum, bei Hildegard Nelchin) rührt\nvon der Form der Blüthenknospe her. Eugenia von Micheli zu Ehren des Prinzen Eugen von\nSavoyen, dem Förderer der botanischen Wissenschaften, so benannt. Caryophyllus aus naovoyv (Nuss,\nKern) und gvAAov Blatt, wegen des zwischen den Kelchblättern befindlichen, aus den gewölbten Kronen-\nblättern bestehenden, nussfórmigen Köpfchen.        Flückiger bezeichnet die Abstammung       von Caryo-\nphyllus (Garyophylion des Plinius, welcher damit ein nicht bestimmbares indisches Gewürz beze"
+      },
+      {
+        "section_type": "constituents",
+        "pdf_page": 220,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "含18%揮發油（主要為丁香酚）、單寧、樹脂及樹膠。丁香酚為無色油狀液體。",
+        "warnings": [],
+        "source_line_range": [
+          13,
+          19
+        ],
+        "exact_source_quote": "          Bestandtheile         Nach   Tromsdorf        enthalten    die Nelken    in 100 Theilen:          18, ätherisches Oel,\n13 Gerbstoff, 6 fast geschmackloses Harz, :13 Gummi,                4 schwerlöslichen    Extraktivstoff mit etwas Gerb-\nstoff etc.; ferner Caryophyllin und Eugenin.\n          Bei der Destillation der Gewürznelken            erhält man bis 20%,           eines gelblichen oder braunen,\nschwer   flüchtigen Oeles,    das   sogen.   Nelkenöl,      welches     ein spez. Gew.         von   1,041—    1,060    und   den\nGeruch und Geschmack der Droge in hohem Maasse besitzt, bei — 259 noch flüssig bleibt. Es besteht\nzum grössten Theile aus Hugenol und zu einem geringen Theile aus einem Kohlenwasserstoff."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "32d51eec7a88e08371fa16ac3df7fd0fd9d80610941155ee426a991cf7e8838e"
+}

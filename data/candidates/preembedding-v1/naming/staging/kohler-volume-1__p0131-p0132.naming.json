@@ -1,0 +1,280 @@
+{
+  "schema_version": "1.0",
+  "lane": "taiwan_naming",
+  "entry_id": "kohler-volume-1:p0131-p0132",
+  "owner_shard": "S02",
+  "source_draft": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/candidates/preembedding-v1/shards/S02/maker/structure-drafts/kohler-volume-1__p0131-p0132.json",
+  "source_draft_sha256": "fbe37f086f7d95152fd7afb348e77671c5e6e702e439da6aaf53817ef06eda2a",
+  "eligibility": {
+    "deterministic_status": "pass",
+    "checked_field": "deterministic_status",
+    "authority": "integration/embedding-ready-candidate-manifest.json",
+    "integration_status": "embedding_ready_candidate",
+    "candidate_sha256": "a1e1bbdc1c8b5a426d1b3e021a7a1d6341b30161df8381002ccda5c58ba396f0",
+    "validation_check_sha256": "b81ae51a80f4e2581f25133e2e96f7e7339315f07f88eec250e83700b712df25",
+    "source_disposition_sha256": "c06f404e76741f8cc8f7e5fea2008f18a12abef275521e29cefbfc666fdea38a",
+    "review_status": "machine_extracted"
+  },
+  "book_name": {
+    "scientific_name_candidate": "Lycopodium clavatum L.",
+    "authorship_candidate": "L.",
+    "aliases_candidates": [
+      "Barlapp",
+      "Wolfsklaue",
+      "Teufelsklaue",
+      "Krahenfuss",
+      "Schlangenmoos",
+      "Hexenmehl",
+      "Drudenfuss",
+      "Zigeunerkraut",
+      "Blitzkraut",
+      "Lycopode",
+      "Lycopodium",
+      "Beerlapp",
+      "Gurtelkraut",
+      "Teufelsschliissel",
+      "Muscus terrestris",
+      "Pes lupi",
+      "Muscus clavatus"
+    ]
+  },
+  "name_resolution": {
+    "terminal_status": "accepted",
+    "query_names": [
+      "Lycopodium clavatum L.",
+      "Lycopodium clavatum"
+    ],
+    "accepted_scientific_name": "Lycopodium clavatum",
+    "display_name_zh_tw": "石松",
+    "alternative_names_zh_tw": [
+      "假石松",
+      "日本石松"
+    ],
+    "taiwan_occurrence_status": "recorded",
+    "taxon_id": "t0026351",
+    "rationale": "TaiCOL accepts the queried book binomial at species rank.",
+    "checked_at": "2026-08-13T12:27:10+08:00",
+    "display_name_source_scope": "taiwan_taxonomic_public",
+    "display_name_source_evidence_ids": [
+      "taicol"
+    ],
+    "display_name_is_taiwan_public": true,
+    "display_name_answer_policy": "use_as_taiwan_primary"
+  },
+  "evidence": [
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Lycopodium clavatum L.",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Lycopodium+clavatum+L.",
+      "retrieved_at": "2026-08-13T12:27:10+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Lycopodium clavatum",
+          "matched_name_id": 22963,
+          "taxon_id": "t0026351",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Lycopodium clavatum",
+          "accepted_name_id": 22963,
+          "accepted_usage": [
+            {
+              "usage_id": 168485,
+              "reference_id": 1795,
+              "reference_type": "Journal Article",
+              "publish_year": 2019,
+              "citation": "Kuo, L.-Y., Hsu, T.-C., Chao, Y.-S., Liou, W.-T., Chang, H.-M., Chen, C.-W., Huang, Y.-M., Li, F.-W., Huang, Y.-F., Shao, W., Lu, P.-F., Chen, C.-W., Chang, Y.-H. & Chiou, W.-L. (2019) Updating Taiwanese pteridophyte checklist: a new phylogenetic classification. <i>Taiwania</i> 64(4): 367–395.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 176519,
+              "reference_id": 2454,
+              "reference_type": "Book",
+              "publish_year": 2017,
+              "citation": "Ed. Comm. Red List TW Plants,  (2017) The Red List of Vascular Plants of Taiwan, 2017 = 2017 臺灣維管束植物紅皮書名錄.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 325378,
+              "reference_id": 10989,
+              "reference_type": "Journal Article",
+              "publish_year": 1906,
+              "citation": "Hayata, B. (1906) Contributions to the Alpine Flora of Formosa I. <i>Botanical Magazine, Tokyo = Shokubutsugaku Zasshi</i> 20(229): en13–en22.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 169764,
+              "reference_id": 853,
+              "reference_type": "Book Chapter",
+              "publish_year": 1994,
+              "citation": "Tsai, J.-L. & Shieh, W.-C. (1994) 2. Lycopodiaceae. In: Flora of Taiwan, 2 ed., vol. 1. 29–44.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 325386,
+              "reference_id": 114,
+              "reference_type": "Book",
+              "publish_year": 1753,
+              "citation": "Linnaeus, C.v. (1753) Species Plantarum, vol. 2.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 190374,
+              "reference_id": 3312,
+              "reference_type": "Checklist",
+              "publish_year": 2023,
+              "citation": "TPG, - (2023) Taiwan Pteridophyte Checklist v2023.1",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 117243,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 3270,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0026351",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0026351",
+          "taxon": {
+            "taxon_id": "t0026351",
+            "taxon_status": "accepted",
+            "name_id": 22963,
+            "simple_name": "Lycopodium clavatum",
+            "name_author": "L.",
+            "rank": "Species",
+            "common_name_c": "石松",
+            "alternative_name_c": "假石松,日本石松",
+            "synonyms": "Lepidotis clavata, Lycopodium clavatum var. laurentianum, Lycopodium clavatum var. subremotum, Stachygynandrum japonicum, Lycopodium pseudoclavatum, Lycopodium japonicum, Lycopodium clavatum var. tristachyum, Lycopodium cavatum var. niponicum, Lycopodium clavatum var. nipponicum, Lycopodium serratum",
+            "is_in_taiwan": true,
+            "alien_type": "native",
+            "alien_status_note": "native: Kuo et al., 2019|native: Ed. Comm. Red List TW Plants, 2017|native: Tsai & Shieh, 1994|native: TPG, 2023",
+            "not_official": false,
+            "updated_at": "2026-08-05"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    },
+    {
+      "source_id": "taicol",
+      "authority": "臺灣物種名錄 TaiCOL",
+      "query_name": "Lycopodium clavatum",
+      "name_match_url": "https://api.taicol.tw/v2/nameMatch?name=Lycopodium+clavatum",
+      "retrieved_at": "2026-08-13T12:27:10+08:00",
+      "result_total": 1,
+      "name_match_results": [
+        {
+          "matched_name": "Lycopodium clavatum",
+          "matched_name_id": 22963,
+          "taxon_id": "t0026351",
+          "taicol_name_status": "accepted",
+          "accepted_name": "Lycopodium clavatum",
+          "accepted_name_id": 22963,
+          "accepted_usage": [
+            {
+              "usage_id": 168485,
+              "reference_id": 1795,
+              "reference_type": "Journal Article",
+              "publish_year": 2019,
+              "citation": "Kuo, L.-Y., Hsu, T.-C., Chao, Y.-S., Liou, W.-T., Chang, H.-M., Chen, C.-W., Huang, Y.-M., Li, F.-W., Huang, Y.-F., Shao, W., Lu, P.-F., Chen, C.-W., Chang, Y.-H. & Chiou, W.-L. (2019) Updating Taiwanese pteridophyte checklist: a new phylogenetic classification. <i>Taiwania</i> 64(4): 367–395.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 176519,
+              "reference_id": 2454,
+              "reference_type": "Book",
+              "publish_year": 2017,
+              "citation": "Ed. Comm. Red List TW Plants,  (2017) The Red List of Vascular Plants of Taiwan, 2017 = 2017 臺灣維管束植物紅皮書名錄.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 325378,
+              "reference_id": 10989,
+              "reference_type": "Journal Article",
+              "publish_year": 1906,
+              "citation": "Hayata, B. (1906) Contributions to the Alpine Flora of Formosa I. <i>Botanical Magazine, Tokyo = Shokubutsugaku Zasshi</i> 20(229): en13–en22.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 169764,
+              "reference_id": 853,
+              "reference_type": "Book Chapter",
+              "publish_year": 1994,
+              "citation": "Tsai, J.-L. & Shieh, W.-C. (1994) 2. Lycopodiaceae. In: Flora of Taiwan, 2 ed., vol. 1. 29–44.",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 325386,
+              "reference_id": 114,
+              "reference_type": "Book",
+              "publish_year": 1753,
+              "citation": "Linnaeus, C.v. (1753) Species Plantarum, vol. 2.",
+              "is_in_taiwan": null
+            },
+            {
+              "usage_id": 190374,
+              "reference_id": 3312,
+              "reference_type": "Checklist",
+              "publish_year": 2023,
+              "citation": "TPG, - (2023) Taiwan Pteridophyte Checklist v2023.1",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 117243,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            },
+            {
+              "usage_id": 3270,
+              "reference_id": null,
+              "reference_type": "Backbone",
+              "publish_year": null,
+              "citation": "TaiCOL Backbone",
+              "is_in_taiwan": true
+            }
+          ],
+          "taxon_url": "https://taicol.tw/zh-hant/taxon/t0026351",
+          "taxon_api_url": "https://api.taicol.tw/v2/taxon?taxon_id=t0026351",
+          "taxon": {
+            "taxon_id": "t0026351",
+            "taxon_status": "accepted",
+            "name_id": 22963,
+            "simple_name": "Lycopodium clavatum",
+            "name_author": "L.",
+            "rank": "Species",
+            "common_name_c": "石松",
+            "alternative_name_c": "假石松,日本石松",
+            "synonyms": "Lepidotis clavata, Lycopodium clavatum var. laurentianum, Lycopodium clavatum var. subremotum, Stachygynandrum japonicum, Lycopodium pseudoclavatum, Lycopodium japonicum, Lycopodium clavatum var. tristachyum, Lycopodium cavatum var. niponicum, Lycopodium clavatum var. nipponicum, Lycopodium serratum",
+            "is_in_taiwan": true,
+            "alien_type": "native",
+            "alien_status_note": "native: Kuo et al., 2019|native: Ed. Comm. Red List TW Plants, 2017|native: Tsai & Shieh, 1994|native: TPG, 2023",
+            "not_official": false,
+            "updated_at": "2026-08-05"
+          }
+        }
+      ],
+      "assertion_scope": "external_naming_and_occurrence_metadata_only",
+      "evidence_source_scope": "taiwan_taxonomic_public"
+    }
+  ],
+  "separation": {
+    "book_facts_included": false,
+    "external_metadata_may_supply_plant_facts": false,
+    "scope": "scientific-name mapping, Taiwan public name, aliases, and occurrence metadata only"
+  },
+  "warnings": []
+}

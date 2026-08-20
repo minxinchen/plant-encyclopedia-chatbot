@@ -1,0 +1,169 @@
+{
+  "schema_version": "1.0",
+  "package_id": "kohler-volume-2:p0133-p0140:continuation-02",
+  "parent_entry_id": "kohler-volume-2:p0133-p0140",
+  "recovered_entry_id": null,
+  "work_id": "structure-continuation:kohler-volume-2:p0133-p0140:continuation-02:v1",
+  "owner_shard": "S03",
+  "package_sha256": "38cc4901b6801de7943aaa5d3cb972728fdc233002fab1fd994a115112460eba",
+  "model": "/Users/user/AI_WORKSTATION/services/qwen35-mlx/models/Qwen3.5-27B-4bit",
+  "prompt_version": "plant-structure-continuation-line-anchors-v1",
+  "elapsed_seconds": 75.837,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "name_resolution_status": "unresolved",
+  "layout_or_plate_claims_approved": false,
+  "deterministic_status": "pass",
+  "errors": [],
+  "section_source_locators": [
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 139,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 0,
+      "char_end": 1010,
+      "source_line_start": 1,
+      "source_line_end": 10,
+      "page_text_sha256": "a60d28ca7c4af12a4545a874eadb73adb4fa740c0880683628361e3ef4bd6a9e",
+      "exact_text_sha256": "4e58c2144e951cf1382db3ce15618ad9820694086fe24526785baed1edc345f7",
+      "section_index": 0,
+      "section_type": "constituents"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 139,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 3410,
+      "char_end": 4296,
+      "source_line_start": 35,
+      "source_line_end": 43,
+      "page_text_sha256": "a60d28ca7c4af12a4545a874eadb73adb4fa740c0880683628361e3ef4bd6a9e",
+      "exact_text_sha256": "e2ef1eae6a75e81d9b2f8c2c9eb80b0dab55c197602cb736b4b65371c7d460ed",
+      "section_index": 1,
+      "section_type": "historical_use"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 139,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 4297,
+      "char_end": 4930,
+      "source_line_start": 44,
+      "source_line_end": 49,
+      "page_text_sha256": "a60d28ca7c4af12a4545a874eadb73adb4fa740c0880683628361e3ef4bd6a9e",
+      "exact_text_sha256": "5812fceb079740010f495dc624637b50b4109a44c88cd3bff080bf6df40db93e",
+      "section_index": 2,
+      "section_type": "other"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 140,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 463,
+      "char_end": 1073,
+      "source_line_start": 6,
+      "source_line_end": 13,
+      "page_text_sha256": "cd7f06d8d44fecf496c68977b4595954ab1435c06af7ea10dd05051ea50e43ba",
+      "exact_text_sha256": "ea45c057bed7ccc221e3c3ee5d2bf269eb06ce74f4a7b6ef505ff3ffb9fffc34",
+      "section_index": 3,
+      "section_type": "literature"
+    },
+    {
+      "source_id": "kohler-volume-2",
+      "volume": 2,
+      "pdf_page": 140,
+      "source_pdf_sha256": "ebb0cd9d1341855185783b99cbbb5f112134283d84bc1940c97040009e6cc5bf",
+      "char_start": 1076,
+      "char_end": 1721,
+      "source_line_start": 16,
+      "source_line_end": 21,
+      "page_text_sha256": "cd7f06d8d44fecf496c68977b4595954ab1435c06af7ea10dd05051ea50e43ba",
+      "exact_text_sha256": "cb0091591cec1834b1b87a0b49ba43b29f99eda0966943a8f2beac299392bb27",
+      "section_index": 4,
+      "section_type": "plate_description"
+    }
+  ],
+  "draft": {
+    "package_id": "kohler-volume-2:p0133-p0140:continuation-02",
+    "parent_entry_id": "kohler-volume-2:p0133-p0140",
+    "book_taxon": {
+      "scientific_name_candidate": "Coffea arabica",
+      "authorship_candidate": null,
+      "aliases_candidates": []
+    },
+    "display_name": null,
+    "name_resolution": {
+      "status": "unresolved",
+      "sources": []
+    },
+    "sections": [
+      {
+        "section_type": "constituents",
+        "pdf_page": 139,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "咖啡含咖啡因及其他成分，烘焙產生具香味的咖啡油（Caffeon），影響神經系統。",
+        "warnings": [],
+        "source_line_range": [
+          1,
+          10
+        ],
+        "exact_source_quote": "und Menschen         das Coffein     offenbar in vorwaltender Weise zu den auf das Nervensystem wirkenden\nStoffen stellen, und da sowohl         im Kaffee als im Thee       neben    Coffein noch andere,   zum   Theil auf die\nNutrition, zum Theil auf das Nervensystem wirkende Stoffe vorhanden sind.“ Kleine Dosen sollen nach\nRabuteau die Harnstoffmenge um 11— 28\"/, verringern und gleichzeitig auch die Harnsáureabscheidung\nherabsetzen. Von grósserer Bedeutung, nicht blos in ókonomischer, sondern auch in arzneilicher Be-\n ziehung, ist der aus den gerösteten Kaffeebohnen bereitete Aufguss, welcher zwar nur einen Theil der\n in den Bohnen vorhandenen wirksamen Bestandtheile enthält, von dem Coffein sogar kaum noch die\n Hälfte, dafür aber die sogen. empyreumatischen Produkte aufweist, die aus den organischen Bestand-\n theilen des Kaffees bei Vorhandensein von Wasser durch trockene Destillation entstehen und deren\nGesammtheit man mit dem Namen Caffeon, empyreumatisches Kaffeeöl bezeichnet. Diesem Caffeon"
+      },
+      {
+        "section_type": "historical_use",
+        "pdf_page": 139,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "用於治療虛弱、昏迷、鴉片中毒、偏頭痛及嘔吐，但對慢性腸炎有害。",
+        "warnings": [],
+        "source_line_range": [
+          35,
+          43
+        ],
+        "exact_source_quote": "         In arzneilicher Beziehung wird Kaffee sowohl bei chronischen als akuten Schwächezuständen\nangewendet     „und findet er in letzterer Beziehung vorwaltend            da seine Indication, wo die Thätigkeit des\nGehirns darniederliegt, also bei plötzlich aufgetretenem Coma und Sopor.“ Er ist das vorzüglichste Hülfs-\nmittel bei Behandlung der Opium- und Morphiumvergiftungen, auch bei Vergiftungen mit anderen nar-\nkotischen Substanzen. Ebenso bei Migräne und Kopfschmerz leistet starker Kaffee gute Dienste; besonders\nbei Cephalaea anämischer und hysterischer Personen. Er ist ferner ein ausgezeichnetes Mittel gegen\nstarkes Erbrechen, gleichviel durch welche Ursachen es bedingt ist; auch gegen akuten Darmkatarrh nach\nvorhergehender Durchnässung; wohingegen er bei chronischem Darmkatarrh in Folge der durch das\nCaffeon bedingten Beschleunigung der Peristaltik schädlich wirkt."
+      },
+      {
+        "section_type": "other",
+        "pdf_page": 139,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "阿拉伯人用果殼製酒（Sakka），豆殼製飲料（Kischer），葉片在蘇門答臘作茶代用品。",
+        "warnings": [],
+        "source_line_range": [
+          44,
+          49
+        ],
+        "exact_source_quote": "         Was nun die Benutzung anderer Theile des Kaffeebaumes anbelangt, so ist zu bemerken, dass\naus der fleischigen Fruchthülle von den Arabern nach Art des Weines ein geistiges Getränk bereitet\nwird, welches alle die belebenden Eigenschaften des Kaffees zu besitzen scheint. Das getrocknete,\ngeröstete Fruchtfleisch mit kochendem Wasser übergossen liefert den von den Arabern getrunkenen Sakka\noder Sultanskaffee.       Aus   den Schalen   der Bohnen      wird ein leichtes,   helles, kaffeeartig schmeckendes,\nvon den ärmeren Volksklassen im Oriente vielfach genossenes Getränk, Kischer genannt, bereitet.                    Die"
+      },
+      {
+        "section_type": "literature",
+        "pdf_page": 140,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "文獻引用 Hayne、Bentley、Luerssen 等著作，並列舉各國藥典中咖啡因條目。",
+        "warnings": [],
+        "source_line_range": [
+          6,
+          13
+        ],
+        "exact_source_quote": "       Litteratur. Abbildung und Beschreibung: Hayne, Arzneigew. IX., Taf. 32; Bentley and\nTrimen, Med. pl, Taf. 144; Luerssen, Handb. der syst. Bot. IL, 1103; Karsten, Deutsche 1, 1194;\nWittstein, Pharm. 357.\n         Drogen und Präparate: Semen Coffeae: Berg, Waarenk. 450; Berg, Atlas 97, Taf. XXXXIX;\nCod. med. 43.\n             Coffeinum:         Ph. germ.        60; Ph. austr. 39; Ph. hung. 131; Ph. ross. 80; Ph. belg. 97; Ph. helv.\nsuppl. 26; Ph. suec. 48;             Ph. Neerl. 76; Ph. U. St. 58.\n             Bezüglich der Drogen und Präparate siehe auch Hager, Ph. Prx. IL, 917, 920; IIL, 329, 350."
+      },
+      {
+        "section_type": "plate_description",
+        "pdf_page": 140,
+        "normalized_text_candidate": null,
+        "zh_tw_rendering_candidate": "圖版描述：花枝、花冠、雄蕊、雌蕊、果實及種子橫切面，由柏林 Schmidt 教授繪製。",
+        "warnings": [],
+        "source_line_range": [
+          16,
+          21
+        ],
+        "exact_source_quote": "                                                               Tafelbeschreibung:\n             A Zweig      mit   Blüthen    und    unreifen    Früchten,    natürl.   Grösse;    1 ausgebreitete    Krone,     desgl.;   2 Staubgefässe,\nvergrössert; 3 Stempel mit Kelch, desgl.; 4 Fruchtknoten im Längsschnitt, desgl.; 5 u. 6 Kaffeebohne von der Rücken-\nund Bauchseite, natürl Grösse; 7 Frucht im Querschnitt, desgl; 8 Bohne im Querschnitt, desgl; 9 dieselbe zer-\nschnitten,   um    das Würzelchen         zu   zeigen,    vergrössert;    10 Würzelchen,       desgl.   Nach   einer    Originalzeichnung    des Herrn\nProf.   Schmidt        in Berlin."
+      }
+    ],
+    "review_status": "machine_extracted",
+    "warnings": []
+  },
+  "receipt_sha256": "19646561738cd70afd51f27e3c0de600094dcc7f63d6eaaa6fb592ca51673d73"
+}

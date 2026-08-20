@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 545,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "be6de4281de2ea7850f21bd6e2fa84001e364fa1f039f3df425e9753812f93a0",
+  "render_dpi": 144,
+  "render_sha256": "ca507bc9a50adeb5a34442b37b6be2658cccd3cd5bcc6f6885f4a61b02e9b2d5",
+  "input_sha256": "ca507bc9a50adeb5a34442b37b6be2658cccd3cd5bcc6f6885f4a61b02e9b2d5",
+  "render_pixel_width": 5606,
+  "render_pixel_height": 7970,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.424,
+  "embedded_character_count": 51,
+  "ocr_character_count": 45,
+  "ocr_alpha_ratio": 0.8667,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.018957310252719406,
+      "text": "hamamelideae.",
+      "width": 0.14931202876382887,
+      "x": 0.7993307832196432,
+      "y": 0.920767351539837
+    },
+    {
+      "confidence": 1,
+      "height": 0.026415062329125827,
+      "text": "Liquidambar orientalis. Miller.",
+      "width": 0.34371629723036407,
+      "x": 0.32396782197253965,
+      "y": 0.1001552023768777
+    }
+  ],
+  "text": "hamamelideae.\nLiquidambar orientalis. Miller.",
+  "output_sha256": "7a9724a7940bdad837e1d9ccafd67e1d91a00d5704469c2523f090389f832e41",
+  "receipt_sha256": "19e6a163e1da083a9304c98a4bd106b30c72f690b782cd66e1b5ed4900855598"
+}

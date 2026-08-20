@@ -1,0 +1,265 @@
+{
+  "schema_version": "1.0",
+  "record_id": "preembedding-kohler-volume-1-p0077-p0079",
+  "entry_id": "kohler-volume-1:p0077-p0079",
+  "owner_shard": "S01",
+  "book_taxon": {
+    "scientific_name": "Quercus pedunculata",
+    "authorship": "Ehrh.",
+    "aliases": [
+      "Quercus Robur L.",
+      "Quercus femina Roth"
+    ]
+  },
+  "display_name": null,
+  "name_resolution": {
+    "terminal_status": "unresolved",
+    "query_names": [
+      "Quercus pedunculata"
+    ],
+    "accepted_scientific_name": null,
+    "display_name_source_scope": "unresolved",
+    "taiwan_occurrence_status": "not_checked",
+    "checked_at": "2026-08-13T18:08:27+08:00",
+    "sources": [
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Quercus+pedunculata",
+        "query_name": "Quercus pedunculata",
+        "retrieved_at": "2026-08-13T18:08:25+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Quercus+robur",
+        "query_name": "Quercus robur",
+        "retrieved_at": "2026-08-13T18:08:25+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      },
+      {
+        "authority": "臺灣物種名錄 TaiCOL",
+        "url": "https://api.taicol.tw/v2/nameMatch?name=Quercus+femina",
+        "query_name": "Quercus femina",
+        "retrieved_at": "2026-08-13T18:08:25+08:00",
+        "assertion_scope": "external_naming_and_occurrence_metadata_only"
+      }
+    ],
+    "rationale": "TaiCOL returned no exact species-level name or explicit synonym; genus-only/fuzzy results were not promoted. Tai2 exact plant-name search also did not provide a promotable main-name/synonym mapping."
+  },
+  "book_evidence": [
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 77,
+      "evidence_type": "text",
+      "page_text_sha256": "d53e40e8cdd531cac1ddc7da14fd417a0076e9178e47f28a5f405a7521ebbddb",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 78,
+      "evidence_type": "text",
+      "page_text_sha256": "a73ad05afc3aaeb8d853a4c75b3c86c97d3740e7052a996e2df60e303d5f053f",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    },
+    {
+      "source_id": "kohler-volume-1",
+      "volume": 1,
+      "pdf_page": 79,
+      "evidence_type": "text",
+      "page_text_sha256": "602b2775458f01be3cf4aea08a5f0a5eb7d7a58f0fc9fbc0d891a4d5a8ec4f7b",
+      "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "kohler-volume-1:p0077-p0079:s00:x00",
+      "section_type": "taxonomy",
+      "original_text": "                                     Quercus pedunculata Ehrh.\n                                                                                         i\n\n\n\n\n                               Syn. Quercus Robur L.               Quercus femina Roth\n\n\n        Stieleiche,     Sommereiche, Friiheiche, Rotheiche                       Common Oak              Chene.",
+      "normalized_text": null,
+      "zh_tw_rendering": "學名 Quercus pedunculata Ehrh.，同義名 Quercus Robur L. 及 Quercus femina Roth。俗名 Stieleiche。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 77,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 37,
+        "char_end": 395,
+        "page_text_sha256": "d53e40e8cdd531cac1ddc7da14fd417a0076e9178e47f28a5f405a7521ebbddb",
+        "exact_text_sha256": "91fdd02c9406bc879641f8e76153f63aa3dd6585d027955b598f28358356abd5",
+        "source_line_start": 6,
+        "source_line_end": 15,
+        "section_index": 0,
+        "section_type": "taxonomy"
+      },
+      "exact_text_sha256": "91fdd02c9406bc879641f8e76153f63aa3dd6585d027955b598f28358356abd5",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0077-p0079:s01:x00",
+      "section_type": "description",
+      "original_text": "         Beschreibung.             40 und inehr m. holier, bis 7 m. dicker Bauin mit senkrecht in den\n                                    Bis\nBoden gehender sogen. Pfahlwurzel und starken Seitenwurzeln, weitausgebreiteter Krone und dicker,\nrissiger Stamm- und Astborke.      Jtingere Zweige mit einer glatten, nur mit Lenticellen besetzten, silber-\ngrauen Rinde. Laubknospen eiformig, stumpfspitzig, hellbraun, mit gewimperten Scliuppen ziegeldach-\nformig bedeckt. Blatter kurz gestielt, langlich-verkehrt-eiformig, tiefbuchtig, am Grande geohrt, beider-\nseits kahl, rippig geadert, oberseits dunkelgriin, unterseits blasser, mit 8 mm langem Blattstiel.      Die",
+      "normalized_text": null,
+      "zh_tw_rendering": "樹高40米以上，具直生主根。樹皮厚且龜裂，嫩枝銀灰色。葉橢圓倒卵形，深裂，兩面無毛，葉柄長8毫米。",
+      "evidence_indexes": [
+        0
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 77,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 468,
+        "char_end": 1130,
+        "page_text_sha256": "d53e40e8cdd531cac1ddc7da14fd417a0076e9178e47f28a5f405a7521ebbddb",
+        "exact_text_sha256": "2e80e96a99cfee7ca8830458e1781b7e6b829a6a96feec3cd998c3bac1dda47a",
+        "source_line_start": 19,
+        "source_line_end": 25,
+        "section_index": 1,
+        "section_type": "description"
+      },
+      "exact_text_sha256": "2e80e96a99cfee7ca8830458e1781b7e6b829a6a96feec3cd998c3bac1dda47a",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0077-p0079:s02:x00",
+      "section_type": "anatomy",
+      "original_text": "            Anatomisclies:   Die Binde zeigt auf dem Querschnitte einen schwachen aber stets vielschichtigen, aus kleinen\n Aachen Zellen zusammengesetzten Kork, dessen mittlere Lage aus gelbwandigen Zellen besteht, die rait einem rotnen\n Inhalte, dem sogen. Phlobaphen erfullt sind.          Unter dem Korke befindet sich ein dickwandiges aus nur wenig\n                                                                                                              ,\n\n\n\n tangential gestreckten Zellen bestehendes, chlorophyllfuhrendes Collenchym, welches allmahlig in das ebenfalls\n chlorophyll enthaltende , sehr unregelmassig von Markstrahlen durchzogene, relativ starkwandige Rindenparenchym\n ubergeht.    Letzteres enthalt braune Farbstoffmasse und mit Ausnahme der Markstrahlen in zahlreichen, zerstreut",
+      "normalized_text": null,
+      "zh_tw_rendering": "樹皮橫切面含多層軟木，中層細胞含紅色Phlobaphen。皮層含草酸鈣簇晶。皮層內有石細胞環及韌皮纖維束。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 78,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 0,
+        "char_end": 806,
+        "page_text_sha256": "a73ad05afc3aaeb8d853a4c75b3c86c97d3740e7052a996e2df60e303d5f053f",
+        "exact_text_sha256": "7691cd2f7c8bc9b1da4b093bbe21b26f9a64fef380feb222d3fc9d5972387293",
+        "source_line_start": 1,
+        "source_line_end": 10,
+        "section_index": 2,
+        "section_type": "anatomy"
+      },
+      "exact_text_sha256": "7691cd2f7c8bc9b1da4b093bbe21b26f9a64fef380feb222d3fc9d5972387293",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0077-p0079:s03:x00",
+      "section_type": "distribution",
+      "original_text": "         Verbreitung. Durch fast ganz Europa verbreitet; in Russland bis zum 54. Grad, in Finn-\n land bis zum 60. Grad, in Norwegen bis znm 63. Grad, im siidostlichen Schweden bis zum 60. Grad,\n in Schottland bis zum 58. Grad nordlicher Breite hinaufgehend.  Ausserdem in Kleinasien und den\n Kaukasuslandern.  In vertikaler Richtung erreicht Quercus pedimculata eine Meereshohe von selten\n mehr als 1000 m, so z. B. steigt sie in Schottland 366 m, in Skandinavien 313 m, im bairischen Walde\n                                                   —\n 967 m, in den bairischen Alpen 754 922 m, in Tirol 1000 m empor.",
+      "normalized_text": null,
+      "zh_tw_rendering": "分佈於歐洲大部分地區，北至挪威63度。亦見於小亞細亞及高加索。海拔通常不超過1000米。",
+      "evidence_indexes": [
+        1
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 78,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 2563,
+        "char_end": 3172,
+        "page_text_sha256": "a73ad05afc3aaeb8d853a4c75b3c86c97d3740e7052a996e2df60e303d5f053f",
+        "exact_text_sha256": "66a7218a9c8b9e6925df099d6f890aad0c363a10f8c95e2acb93d6df79aaa692",
+        "source_line_start": 31,
+        "source_line_end": 37,
+        "section_index": 3,
+        "section_type": "distribution"
+      },
+      "exact_text_sha256": "66a7218a9c8b9e6925df099d6f890aad0c363a10f8c95e2acb93d6df79aaa692",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0077-p0079:s04:x00",
+      "section_type": "constituents",
+      "original_text": "          Bestandtheile.    Die Rinde der jungeren Zweige enthalt nach Eckert: 12             eisenblauenden                                                  ^^\nGerbstoff (Eichengerbsaure), Harz, Zucker, Pektin, Phlobaphen, Citronensaure nnd Oxalsaure.           Gerber\nfand in der Rinde der starkeren Aeste und des Stammes eine farb- und geruclilose Krystalle bildende,\nin Wasser leicht losliche Substanz von sehr bitterem Geschmacke, das sogenannte Quercin.            Nach der\nAnsicht Husemanns soil jedoch Quercin nur unreiner Quercit sein.            Der wichtigste Bestandtheil der\nRinde ist die Eichengerbsaure            =\n                                  C 17 Hi 6 9 (Etti), C 2 oH 2 oOii (Grabowsky und Oser), die jedoch. von",
+      "normalized_text": null,
+      "zh_tw_rendering": "嫩枝皮含單寧（Eichengerbsaure）、樹脂、糖、果膠及Phlobaphen。主要成分為單寧酸，與五倍子單寧不同。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 79,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 743,
+        "char_end": 1479,
+        "page_text_sha256": "602b2775458f01be3cf4aea08a5f0a5eb7d7a58f0fc9fbc0d891a4d5a8ec4f7b",
+        "exact_text_sha256": "7fd948490d68cdc04a14b0d68aa95f184e84262c7a7e729a20dc1be4a7162937",
+        "source_line_start": 24,
+        "source_line_end": 30,
+        "section_index": 4,
+        "section_type": "constituents"
+      },
+      "exact_text_sha256": "7fd948490d68cdc04a14b0d68aa95f184e84262c7a7e729a20dc1be4a7162937",
+      "review_status": "machine_extracted_candidate"
+    },
+    {
+      "section_id": "kohler-volume-1:p0077-p0079:s05:x00",
+      "section_type": "historical_use",
+      "original_text": "         Anwendung.                 Die Rinde         innerlich,         da       sie            den                   Magen        sehr belastigen soil, nur bei\nVergiftungen mit Antimonialien und Alkaloiden; meist ausserlich                                                                   in adstringirenden Abkochungen\ngegen Fussschweisse, Pernionen und Blennorrhoen und auch da nur als billiges Surrogat des Tannin.\nKissen mit Eichenrindenpulver gelten in manchen Gegenden als Volksmittel gegen Briiche, namentlich\nNabelbriiche der Kinder.     Die auch. aus Eichenrindenabkochung hergestellte offizinelle Bleitannat-\nsalbe: Unguentum Plumbi tannici wird mit Yortheil bei Decubitus angewendet. In der Volksmedizin",
+      "normalized_text": null,
+      "zh_tw_rendering": "歷史用途：內服僅用於抗砷及生物鹼中毒。外用治腳汗、凍瘡及尿道炎。民間用於疝氣及肺結核。",
+      "evidence_indexes": [
+        2
+      ],
+      "source_locator": {
+        "source_id": "kohler-volume-1",
+        "volume": 1,
+        "pdf_page": 79,
+        "source_pdf_sha256": "4ae42145d033c0d1a553d2237ffd5112882bd448a48b0fff5f090551f91fbe70",
+        "char_start": 3248,
+        "char_end": 3965,
+        "page_text_sha256": "602b2775458f01be3cf4aea08a5f0a5eb7d7a58f0fc9fbc0d891a4d5a8ec4f7b",
+        "exact_text_sha256": "041332595b2adec2b5fcf40f8304133472b4757d9ba0d722c0cf78df8ad3d0b3",
+        "source_line_start": 48,
+        "source_line_end": 53,
+        "section_index": 5,
+        "section_type": "historical_use"
+      },
+      "exact_text_sha256": "041332595b2adec2b5fcf40f8304133472b4757d9ba0d722c0cf78df8ad3d0b3",
+      "review_status": "machine_extracted_candidate"
+    }
+  ],
+  "review_status": "machine_extracted_candidate",
+  "warnings": [
+    "No Taiwan public display name was assigned; unresolved is terminal until new evidence appears.",
+    "Köhler book facts are separate from external Taiwan naming metadata.",
+    "Historical uses are not modern medical advice.",
+    "Plate and image claims are excluded until visual review."
+  ],
+  "provenance": {
+    "source_receipt_sha256": null,
+    "integration_manifest_sha256": "031e6a711f8aa9a64bc7d91b186414eb7f5151ff304f17553ff9d81cf7d75832",
+    "candidate_sha256": "b73110edba426c755fdbb2fc5a06952ab0dbf63b2e7cabb5be717c2aebce3536",
+    "maker_receipt_sha256": "967ccb94130743d31a687ecb96eed76bca711cb84e6d3437cfb5320b5a9425e9",
+    "validation_check_sha256": "7d4a7c20c3daca7f2295259a06ed9eb5ce0ec7b6eed8757107480a8d2d984b0a",
+    "source_disposition_sha256": "ee77c65d461fb732dfd72f125129145a3cd184fdcb7faffc8c4ec194204901bb",
+    "candidate_source_chain": {
+      "maker_receipt_sha256": "967ccb94130743d31a687ecb96eed76bca711cb84e6d3437cfb5320b5a9425e9",
+      "validation_check_sha256": "7d4a7c20c3daca7f2295259a06ed9eb5ce0ec7b6eed8757107480a8d2d984b0a",
+      "source_disposition_sha256": "ee77c65d461fb732dfd72f125129145a3cd184fdcb7faffc8c4ec194204901bb"
+    },
+    "naming_artifact_sha256": "dbce72b122c34233ea0c3a2844a336c1a295ef8a09cdf0fea98539fcc7a23219"
+  },
+  "safety": {
+    "book_facts_separate_from_naming_metadata": true,
+    "layout_or_plate_claims_approved": false,
+    "canonical_write_allowed": false,
+    "canonical_target": null,
+    "embedding_call_performed": false,
+    "embedding_target": null,
+    "index_write_allowed": false,
+    "index_target": null
+  },
+  "record_sha256": "a279c7211734df7dfad59e28099d64a86bbffc8930260364738776e8c90780b7"
+}

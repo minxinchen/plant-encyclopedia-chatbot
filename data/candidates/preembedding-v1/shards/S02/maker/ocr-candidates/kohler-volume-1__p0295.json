@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-1",
+  "volume": 1,
+  "pdf_page": 295,
+  "owner_shard": "S02",
+  "source_pdf": "/Volumes/NO NAME/書第一集 mobot31753002839139.pdf",
+  "source_text_sha256": "0961ad0b5b3a0984cabb36eb19c1c9695ab67e2b08eb358bcbd36d2d0ba1faa3",
+  "render_dpi": 144,
+  "render_sha256": "9da64a8f61ad77fd6258ccc86b06d48fae19feea24bfe032cb5c99ef6be62614",
+  "input_sha256": "9da64a8f61ad77fd6258ccc86b06d48fae19feea24bfe032cb5c99ef6be62614",
+  "render_pixel_width": 5630,
+  "render_pixel_height": 8006,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 5.689,
+  "embedded_character_count": 131,
+  "ocr_character_count": 65,
+  "ocr_alpha_ratio": 0.7077,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.02180232509734137,
+      "text": "Cupuliferae.",
+      "width": 0.1095041293855783,
+      "x": 0.8615702504518389,
+      "y": 0.9345930234833061
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418252611894,
+      "text": "5",
+      "width": 0.014462809972937918,
+      "x": 0.7231404959174565,
+      "y": 0.8023255814441882
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720929660494314,
+      "text": "B",
+      "width": 0.01033057816778482,
+      "x": 0.7541322314739588,
+      "y": 0.2718023259546366
+    },
+    {
+      "confidence": 1,
+      "height": 0.017665900881328356,
+      "text": "W.Müll er n. d.Nat.",
+      "width": 0.10751110340543457,
+      "x": 0.8429386624852263,
+      "y": 0.1568647241247254
+    },
+    {
+      "confidence": 1,
+      "height": 0.02331349206349209,
+      "text": "Quercus pedunculata Ehrh",
+      "width": 0.2789256064948982,
+      "x": 0.3987603364477989,
+      "y": 0.12499999984131704
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395436847054,
+      "text": "30.",
+      "width": 0.018595040432993204,
+      "x": 0.9359504136471398,
+      "y": 0.04796511636587886
+    }
+  ],
+  "text": "Cupuliferae.\n5\nB\nW.Müll er n. d.Nat.\nQuercus pedunculata Ehrh\n30.",
+  "output_sha256": "9b697a94fe50738185bf7a9822e2ea4816425405f59b3465a9275bb708c7d104",
+  "receipt_sha256": "0309a78fa3ca02d644c00ad6b70f69861623bf56b63a9fdf99879d23038cae57"
+}

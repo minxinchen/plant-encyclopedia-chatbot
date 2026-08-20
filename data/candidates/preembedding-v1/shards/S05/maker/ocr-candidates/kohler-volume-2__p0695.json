@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "source_id": "kohler-volume-2",
+  "volume": 2,
+  "pdf_page": 695,
+  "owner_shard": "S05",
+  "source_pdf": "/Volumes/NO NAME/第二集 mobot31753002839121.pdf",
+  "source_text_sha256": "b674b3cda9ca5cb80e5103005e517a5f294961cdc8b900366d82dc6d77565ca1",
+  "render_dpi": 144,
+  "render_sha256": "4dfa807ba631de2b3c3686aefb69b1af301296a77a0475120f07e34363fc6b1a",
+  "input_sha256": "4dfa807ba631de2b3c3686aefb69b1af301296a77a0475120f07e34363fc6b1a",
+  "render_pixel_width": 5078,
+  "render_pixel_height": 7802,
+  "engine": "Apple Vision VNRecognizeTextRequest accurate / PDFKit render",
+  "engine_version": "Vision.framework/macOS-26.6.1-25G76;apple-vision-pdf-ocr-sha256=44e99e96c3bcf77b0e4aa84fb3e58d95a1b044e73aac34aea304eef6d498582f",
+  "languages": [
+    "de-DE",
+    "en-US"
+  ],
+  "elapsed_seconds": 3.208,
+  "embedded_character_count": 83,
+  "ocr_character_count": 39,
+  "ocr_alpha_ratio": 0.7436,
+  "candidate_disposition": "no_deterministic_quality_gain",
+  "staging_disposition": "no_deterministic_quality_gain",
+  "terminal": true,
+  "review_status": "machine_extracted",
+  "error": null,
+  "external_model_calls": 0,
+  "incremental_usd": 0,
+  "lines": [
+    {
+      "confidence": 1,
+      "height": 0.018996660671536936,
+      "text": "beguminosae.",
+      "width": 0.16806675748127264,
+      "x": 0.8144152686647369,
+      "y": 0.9274927069168776
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185932098874,
+      "text": "3",
+      "width": 0.024553572259298162,
+      "x": 0.14285714264639257,
+      "y": 0.3357558145982267
+    },
+    {
+      "confidence": 1,
+      "height": 0.020429585661207006,
+      "text": "Acacia Senegal Willd",
+      "width": 0.2633928438512291,
+      "x": 0.3504464357975997,
+      "y": 0.07986111145768404
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906844729363,
+      "text": "173",
+      "width": 0.03125,
+      "x": 0.9196428569196429,
+      "y": 0.021802325585110416
+    }
+  ],
+  "text": "beguminosae.\n3\nAcacia Senegal Willd\n173",
+  "output_sha256": "040b2eceb4576ce8efd6e05dd5fc0706e158185ef6336bb79acfb94b432ca76e",
+  "receipt_sha256": "a543df98a298bdc49cfcc512fa8db930d5c5aed811a391166908995ca569d841"
+}
