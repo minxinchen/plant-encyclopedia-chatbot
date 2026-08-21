@@ -39,6 +39,21 @@ def digest(path: Path) -> str:
     return hashlib.sha256(path.read_bytes()).hexdigest()
 
 
+def portable_source_path(source_value: str) -> Path:
+    """Resolve historical absolute provenance paths inside a public checkout."""
+    source = Path(source_value)
+    if source.is_file():
+        return source
+    marker = "/data/candidates/preembedding-v1/"
+    normalized = source_value.replace("\\", "/")
+    if marker in normalized:
+        relative = normalized.split(marker, 1)[1]
+        candidate = (ROOT / relative).resolve()
+        if candidate.is_relative_to(ROOT.resolve()):
+            return candidate
+    return source
+
+
 def main() -> None:
     failures = []
     counts = {key: 0 for key in sorted(ALLOWED)}
@@ -75,7 +90,7 @@ def main() -> None:
                 failures.append(f"{path.name}: review_status mismatch")
         source_value = data.get("source_draft")
         if source_value:
-            source = Path(source_value)
+            source = portable_source_path(source_value)
             if not source.is_file() or digest(source) != data.get("source_draft_sha256"):
                 failures.append(f"{path.name}: source draft/hash mismatch")
         if data.get("separation", {}).get("book_facts_included") is not False:
