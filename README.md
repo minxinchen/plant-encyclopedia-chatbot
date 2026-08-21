@@ -61,7 +61,6 @@ python3 scripts/validate-boundary-overlay-plan.py
 python3 scripts/build-continuation-packages-v2.py
 python3 scripts/validate-continuation-packages-v2.py
 python3 scripts/validate-preembedding-continuation-receipts.py --lane continuation-v2
-python3 scripts/validate-continuation-v2-integration.py --require-complete
 python3 scripts/validate-recovery-v2-integration.py --require-complete
 python3 scripts/validate-consolidated-v2-staging-manifest.py --require-complete
 python3 data/candidates/preembedding-v1/tools/validate-naming-staging.py
@@ -69,7 +68,6 @@ python3 scripts/validate-preembedding-records.py --require-caught-up
 python3 scripts/validate-preembedding-chunks.py --require-caught-up
 python3 scripts/test-preembedding-chunks-adversarial.py
 python3 scripts/validate-preembedding-embedding-jobs.py
-python3 scripts/validate-fullbook-release.py
 ```
 
 已掛載本機完整資料與 secret 時，可啟動 loopback API 並做不呼叫生成模型的 smoke test：
@@ -93,8 +91,13 @@ repo 內的 compact manifests、hash chain 與政策；不得把缺少來源檔�
 可重建。完整 source/PDF gate 只在來源掛載後執行：
 
 ```bash
+python3 scripts/validate-continuation-v2-integration.py --require-complete
 python3 scripts/validate-preembedding-integration-artifacts.py
+python3 scripts/validate-fullbook-release.py
 ```
+
+第一個 validator 也需要本機保留、但不進 Git 的 maker attempt artifacts；公開 CI 改驗
+compact receipts、recovery 與 consolidated manifest 的 hash chain，不假裝能重建被排除的模型原始輸出。
 
 ## 核心架構
 

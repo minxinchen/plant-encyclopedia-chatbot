@@ -47,7 +47,6 @@ jobs:
           python3 scripts/build-continuation-packages-v2.py --check
           python3 scripts/validate-continuation-packages-v2.py
           python3 scripts/validate-preembedding-continuation-receipts.py --lane continuation-v2
-          python3 scripts/validate-continuation-v2-integration.py --require-complete
           python3 scripts/validate-recovery-v2-integration.py --require-complete
           python3 scripts/validate-consolidated-v2-staging-manifest.py --require-complete
       - name: Validate naming, records, chunks, and embedding plans
