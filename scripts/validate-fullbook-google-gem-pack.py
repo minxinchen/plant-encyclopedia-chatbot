@@ -132,7 +132,7 @@ def main() -> None:
             fail("main promotion report missing", failures)
         else:
             report = json.loads(promotion.read_text())
-            if report.get("status") not in {"pass", "complete"}:
+            if str(report.get("status", "")).casefold() not in {"pass", "complete"}:
                 fail("main promotion report is not PASS", failures)
 
     result = {

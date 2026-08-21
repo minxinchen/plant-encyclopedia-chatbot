@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "validated_at": "2026-08-21T15:52:16+08:00",
+  "status": "PASS",
+  "main_database": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/index/plant-embeddings.sqlite",
+  "main_database_sha256": "46ffa0b80d9f263f63ab65dd1905406d61acd31b54ec6d757ab31f52c1237e78",
+  "checks": [
+    {
+      "name": "main_exists",
+      "passed": true,
+      "observed": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/data/index/plant-embeddings.sqlite"
+    },
+    {
+      "name": "promotion_report_exists",
+      "passed": true,
+      "observed": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/reports/fullbook-main-index-promotion.json"
+    },
+    {
+      "name": "acceptance_report_exists",
+      "passed": true,
+      "observed": "/Users/user/AI_WORKSTATION/labs/plant-encyclopedia-chatbot/reports/fullbook-beta-chat-acceptance.json"
+    },
+    {
+      "name": "promotion_pass",
+      "passed": true,
+      "observed": "PASS"
+    },
+    {
+      "name": "promotion_main_hash",
+      "passed": true,
+      "observed": {
+        "main": "46ffa0b80d9f263f63ab65dd1905406d61acd31b54ec6d757ab31f52c1237e78",
+        "promotion": "46ffa0b80d9f263f63ab65dd1905406d61acd31b54ec6d757ab31f52c1237e78"
+      }
+    },
+    {
+      "name": "acceptance_pass",
+      "passed": true,
+      "observed": "PASS"
+    },
+    {
+      "name": "accepted_database_hash",
+      "passed": true,
+      "observed": {
+        "main": "46ffa0b80d9f263f63ab65dd1905406d61acd31b54ec6d757ab31f52c1237e78",
+        "acceptance": "46ffa0b80d9f263f63ab65dd1905406d61acd31b54ec6d757ab31f52c1237e78"
+      }
+    },
+    {
+      "name": "bounded_free_tier_calls",
+      "passed": true,
+      "observed": {
+        "external_embedding_calls": 6,
+        "external_generation_calls": 4,
+        "incremental_usd": 0,
+        "paid_fallback_used": false
+      }
+    },
+    {
+      "name": "sqlite_integrity",
+      "passed": true,
+      "observed": "ok"
+    },
+    {
+      "name": "fts_coverage",
+      "passed": true,
+      "observed": {
+        "table_exists": true,
+        "fts": 1662,
+        "total": 1662
+      }
+    },
+    {
+      "name": "active_profile",
+      "passed": true,
+      "observed": "section-aware-512-100-v1"
+    },
+    {
+      "name": "active_review_statuses",
+      "passed": true,
+      "observed": "approved,machine_extracted_beta"
+    },
+    {
+      "name": "promotion_counts",
+      "passed": true,
+      "observed": {
+        "total": 1662,
+        "approved": 54,
+        "beta": 1608,
+        "records": 282
+      }
+    },
+    {
+      "name": "record_name_metadata_coverage",
+      "passed": true,
+      "observed": {
+        "table_exists": true,
+        "rows": 282,
+        "records": 282
+      }
+    },
+    {
+      "name": "record_name_metadata_classified",
+      "passed": true,
+      "observed": {
+        "unclassified_rows": 0
+      }
+    },
+    {
+      "name": "offline_chat_policy",
+      "passed": true,
+      "observed": {
+        "passed": true,
+        "exit_code": 0,
+        "output": "{\"status\": \"PASS\", \"cases\": 23, \"errors\": []}"
+      }
+    },
+    {
+      "name": "fullbook_index_synthetic_adversarial",
+      "passed": true,
+      "observed": {
+        "passed": true,
+        "exit_code": 0,
+        "output": "{\"status\": \"PASS\", \"current_staging_chunks\": 1608, \"checks\": {\"build\": true, \"validate\": true, \"name_metadata_coverage\": true, \"non_taiwan_fallback_preserved\": true, \"source_drift_rejected\": true}, \"external_calls\": 0}"
+      }
+    },
+    {
+      "name": "google_gem_pack",
+      "passed": true,
+      "observed": {
+        "passed": true,
+        "exit_code": 0,
+        "output": "{\n  \"valid\": true,\n  \"status\": \"complete\",\n  \"uploadable_file_count\": 9,\n  \"record_count\": 282,\n  \"section_count\": 1640,\n  \"failures\": []\n}"
+      }
+    },
+    {
+      "name": "google_gem_pack_adversarial",
+      "passed": true,
+      "observed": {
+        "passed": true,
+        "exit_code": 0,
+        "output": "{\"status\": \"PASS\", \"cases\": {\"secret_injection\": true, \"section_hash_removal\": true, \"cross_shard_substitution\": true, \"approved_baseline_omission\": true, \"cross_record_source_substitution\": true}}"
+      }
+    }
+  ],
+  "local_api_url": "http://127.0.0.1:18765",
+  "n8n_adapter_workflow_id": "PEChatApi001",
+  "google_gem_upload_directory": "data/candidates/preembedding-v1/exports/google-gem/fullbook-beta"
+}

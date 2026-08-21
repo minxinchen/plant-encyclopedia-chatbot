@@ -3,7 +3,7 @@
 author: Nio (Master)
 date: 2026-08-02
 
-> Status: full-book text staging complete; embedding and release validation in progress. This repository is not
+> Status: full-book text staging, embedding, main-index promotion and release validation complete. This repository is not
 > a medical-advice system and must not be used to recommend dosage or treatment.
 
 ## 專案簡介
@@ -19,8 +19,9 @@ embedding 驗收、聊天政策與 deterministic validators。原始 PDF、API k
 
 公開文字 MVP：<https://minxinchen.github.io/kohler-plant-chat-demo/>  
 既有 demo repo：<https://github.com/minxinchen/kohler-plant-chat-demo>
+完整 pipeline repo：<https://github.com/minxinchen/plant-encyclopedia-chatbot>
 
-## 目前可驗證進度（2026-08-20）
+## 目前可驗證進度（2026-08-21）
 
 | 工作 | 狀態 | 可驗證數字 |
 |---|---|---:|
@@ -34,13 +35,15 @@ embedding 驗收、聊天政策與 deterministic validators。原始 PDF、API k
 | Boundary evidence v1 | 已建立 staging | 18 parents、188 頁；16 個 hidden headings 通過多證據 gate |
 | 臺灣名稱 staging | 完成 | 274/274；129 有可追溯繁中名、145 保留 unresolved、不猜譯名 |
 | records／512/100 chunks | 完成 | 274 records、1,588 sections、1,608 chunks |
-| Gemini embedding staging | 等待免費配額續跑 | 1,000/1,608，checkpoint 完整、Free Tier only |
-| Google Gem knowledge pack | 完成 staging | 9 個可上傳檔、282 records、1,640 sections，0 vectors/keys |
-| 全書 canonical promotion／main index rebuild | 尚未執行 | 必須等所有 gates 通過，只重建一次 |
+| Gemini embedding | 完成 | 1,608/1,608；34 個批次呼叫，Free Tier、增量成本 US$0 |
+| Google Gem knowledge pack | 完成 | 9 個可上傳檔、282 records、1,640 sections，0 vectors/keys |
+| 全書 main index promotion | 完成 | 1,662 chunks（54 approved + 1,608 machine-extracted beta），SQLite integrity PASS |
+| 中英文聊天 acceptance | 完成 | 9/9 cases；書證引用、臺灣名標示、書外與醫療拒答皆 PASS |
+| release validation／本機 API smoke | 完成 | release PASS；`127.0.0.1:18765` full-book smoke PASS |
 
-上表不是「全書準確率」。真正完成條件是所有來源、名稱與內容鏈合法、
-record/chunk adversarial tests 通過、embedding A/B 與中英文 chat acceptance 通過，
-最後才允許原子升級主索引。
+上表不是「全書準確率」。它表示來源、名稱與內容鏈、adversarial tests、embedding、
+中英文 chat acceptance 與原子升級均已通過既定 gate。新增內容仍必須走同一套驗證，
+不能因主索引已發布而跳過人工／deterministic review。
 
 ## Quick start
 
@@ -66,6 +69,14 @@ python3 scripts/validate-preembedding-records.py --require-caught-up
 python3 scripts/validate-preembedding-chunks.py --require-caught-up
 python3 scripts/test-preembedding-chunks-adversarial.py
 python3 scripts/validate-preembedding-embedding-jobs.py
+python3 scripts/validate-fullbook-release.py
+```
+
+已掛載本機完整資料與 secret 時，可啟動 loopback API 並做不呼叫生成模型的 smoke test：
+
+```bash
+/Users/user/AI_WORKSTATION/service plant-chat on
+python3 scripts/smoke-fullbook-chat-api.py --require-fullbook
 ```
 
 重新產生長條目 boundary evidence（首次約下載 52 MB 的同版 Internet Archive

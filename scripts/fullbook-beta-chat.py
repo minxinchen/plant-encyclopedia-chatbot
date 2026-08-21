@@ -223,24 +223,53 @@ def citation_gate(text: str, evidence_count: int) -> tuple[bool, list[str]]:
     cited = {int(index) for index in re.findall(r"\[E(\d+)\]", text)}
     invalid = sorted(index for index in cited if index < 1 or index > evidence_count)
     normalized = re.sub(r"([。！？.!?])\s*(\[E\d+\])", r" \2\1", text)
-    sentences: list[str] = []
-    for line in normalized.splitlines():
-        sentences.extend(
-            item.strip() for item in re.findall(
-                r".+?(?:[。！？!?]|\.(?=\s|$)|$)", line
-            ) if re.search(r"[A-Za-z\u3400-\u9fff]", item)
-        )
     policy_only = (
         "不是現代醫療", "不構成醫療", "非醫療建議", "諮詢合格醫療", "咨询合格医疗",
         "not modern medical", "not medical advice", "consult a qualified healthcare",
     )
-    uncited = [
-        item for item in sentences
-        if not re.search(r"\[E\d+\]", item)
-        and not item.rstrip().endswith((":", "："))
-        and not any(phrase in item.casefold() for phrase in policy_only)
-    ]
+    uncited: list[str] = []
+    for line in normalized.splitlines():
+        item = line.strip()
+        if not item or item.rstrip().endswith((":", "：")):
+            continue
+        if any(phrase in item.casefold() for phrase in policy_only):
+            continue
+        # Remove complete factual clauses that end in an evidence marker. This
+        # deliberately avoids splitting on periods inside names such as
+        # "A. G. Nagle" or abbreviations such as "St. Vincent".
+        residual = re.sub(r".*?\[E\d+\][。！？.!?]?(?:\s+|$)", "", item)
+        if re.search(r"[A-Za-z\u3400-\u9fff]", residual):
+            uncited.append(residual)
     return bool(cited) and not invalid and not uncited, uncited
+
+
+def identity_prefix(response_locale: str, evidence: list[dict[str, Any]], text: str) -> str:
+    """Deterministically expose the evidence header's name pair and source scope."""
+    if not evidence:
+        return ""
+    primary = evidence[0]
+    scientific = primary.get("scientific_name") or ""
+    display = primary.get("display_name") or ""
+    if not scientific or not display:
+        return ""
+    scope = primary.get("display_name_source_scope")
+    fallback_label_present = (
+        "非臺灣繁中備援名" in text
+        if response_locale == "zh-TW"
+        else "non-Taiwan" in text
+    )
+    if scientific in text and display in text and (
+        scope != "non_taiwan_traditional_fallback" or fallback_label_present
+    ):
+        return ""
+    if response_locale == "zh-TW":
+        label = "非臺灣繁中備援名" if scope == "non_taiwan_traditional_fallback" else "中文顯示名"
+        return f"{scientific}（{label}：{display}）[E1]。"
+    label = (
+        "non-Taiwan Traditional-Chinese fallback"
+        if scope == "non_taiwan_traditional_fallback" else "Taiwan public name"
+    )
+    return f"{scientific} ({label}: {display}) [E1]. "
 
 
 def entity_pair_gate(text: str, evidence: list[dict[str, Any]]) -> tuple[bool, list[str]]:
@@ -381,6 +410,7 @@ def answer(question: str, db: Path, env_file: Path, top_k: int, retrieval_only: 
             result["citation_gate_uncited_sentence_count"] = len(uncited_sentences)
         else:
             result["answer_status"] = "answerable_from_book"
+            text = identity_prefix(response_locale, hits, text) + text
             if response_locale == "zh-TW":
                 result["answer"] = (
                     "以下僅整理這本歷史文獻的記載：" + text
