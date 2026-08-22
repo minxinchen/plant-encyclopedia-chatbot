@@ -27,12 +27,11 @@ from typing import Any
 LAB = Path(__file__).resolve().parents[1]
 DEFAULT_DB = LAB / "data/index/staging/plant-embeddings-fullbook-beta.sqlite"
 DEFAULT_ENV = LAB.parents[1] / "secrets/plant-encyclopedia.env.local"
-SIMPLIFIED_MARKERS = set("这书么药剂后发为里叶树个应当简体")
-MEDICAL_PATTERNS = (
-    "我便秘", "我流血", "我應該", "我应该", "可以吃", "能吃", "可以用", "能用",
-    "劑量", "剂量", "用量", "一天吃", "should i take", "can i take", "can i use",
-    "what dose", "dosage", "treat my", "i am bleeding",
+DEFAULT_QWEN_BASE_URL = "http://127.0.0.1:18080/v1"
+DEFAULT_QWEN_MODEL = str(
+    LAB.parents[1] / "services/qwen35-mlx/models/Qwen3.5-35B-A3B-6bit"
 )
+SIMPLIFIED_MARKERS = set("这书么药剂后发为里叶树个应当简体")
 NON_KOHLER_DRUGS = (
     "阿斯匹靈", "阿司匹林", "aspirin", "metformin", "二甲雙胍", "二甲双胍",
     "acetaminophen", "paracetamol", "普拿疼", "ibuprofen", "布洛芬",
@@ -49,6 +48,11 @@ TAIWAN_NAME_SCOPES = {
     # Compatibility for the eight approved baseline rows.
     "taiwan_public_name", "approved_taiwan_public",
 }
+MULTI_PLANT_PATTERNS = (
+    "哪些植物", "什麼植物", "什么植物", "有哪些植物", "哪些藥用植物", "哪些药用植物",
+    "哪些製劑", "哪些制剂", "which plants", "what plants", "which preparations",
+    "plants are mentioned", "plants does the book",
+)
 
 
 def load_env_value(path: Path, key: str) -> str:
@@ -169,6 +173,27 @@ def retrieve(db_path: Path, question: str, api_key: str, top_k: int) -> list[dic
     return hits
 
 
+def is_multi_plant_question(question: str) -> bool:
+    folded = question.casefold()
+    return any(pattern in folded for pattern in MULTI_PLANT_PATTERNS)
+
+
+def diversify_by_record(evidence: list[dict[str, Any]], limit: int = 12,
+                        per_record: int = 2) -> list[dict[str, Any]]:
+    """Keep broad retrieval from being monopolized by one long plant entry."""
+    counts: dict[str, int] = {}
+    diversified: list[dict[str, Any]] = []
+    for item in evidence:
+        record_id = item["record_id"]
+        if counts.get(record_id, 0) >= per_record:
+            continue
+        diversified.append(item)
+        counts[record_id] = counts.get(record_id, 0) + 1
+        if len(diversified) >= limit:
+            break
+    return diversified
+
+
 def generate(api_key: str, question: str, response_locale: str,
              evidence: list[dict[str, Any]], model: str) -> str:
     excerpts = "\n\n".join(
@@ -190,15 +215,19 @@ never as a Taiwan public name.
 Copy every Latin drug, preparation, and substance name exactly; never invent a Chinese or
 English gloss for names such as Extractum Hyoscyami. A Chinese-name-to-Latin-name pairing is
 allowed only when that exact pairing appears in an evidence header.
-Every factual sentence must end with one or more citations like [E1]. If the excerpts do not
-directly support an answer, output exactly INSUFFICIENT_BOOK_EVIDENCE. Do not give personal
-treatment, dosage, or safety advice. Do not claim that a historic book use is medically safe.
+Every factual sentence must end with one or more citations like [E1]. Medical-topic questions are
+allowed, including questions phrased around the user's symptoms, but the answer must remain a
+faithful historical Köhler summary. If the excerpts do not directly support an answer, output
+exactly INSUFFICIENT_BOOK_EVIDENCE. Do not add modern diagnosis, dosage, efficacy, or safety claims.
+Do not claim that a historic book use is medically safe.
 
 Question: {question}
 
 Evidence:
 {excerpts}
 """
+    if model == "local-qwen":
+        return qwen_chat(prompt, 800)
     request = urllib.request.Request(
         f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
         data=json.dumps({
@@ -219,10 +248,104 @@ Evidence:
     ).strip()
 
 
+def generate_multi_selection(api_key: str, question: str,
+                             evidence: list[dict[str, Any]], model: str) -> str:
+    """Ask the model only to select exact supporting spans, not compose facts."""
+    excerpts = "\n\n".join(
+        f"[E{index}] record_id={item['record_id']} | {item['scientific_name']} | "
+        f"{item['source_id']} PDF p.{item['pdf_page']}\n{item['source_text']}"
+        for index, item in enumerate(evidence, 1)
+    )
+    prompt = f"""You are an evidence selector for Köhler's botanical encyclopedia.
+The question asks for multiple plants or preparations. Use ONLY the excerpts below.
+Evaluate EVERY evidence excerpt independently and return ALL qualifying records, not only the
+single best match. Include a plant or its named preparation only when the excerpt itself
+explicitly states its relationship to the question's subject. A list of drugs, preparations,
+ingredients, or neighboring text is NOT proof of that relationship. A preparation may qualify
+when the excerpt directly says that preparation has the requested relationship. Do not infer
+relevance from retrieval rank or general knowledge.
+
+Return strict JSON only. Include exactly one evaluation for every E number, in order:
+{{"evaluations":[{{"evidence_id":1,"qualifies":true,"support_quote":"one exact contiguous quote copied from E1"}},{{"evidence_id":2,"qualifies":false,"support_quote":""}}]}}
+For each qualifying item, support_quote must be copied exactly, apart from whitespace, and must
+make the requested relationship intelligible. Never omit an E number and never combine excerpts.
+
+Question: {question}
+
+Evidence:
+{excerpts}
+"""
+    if model == "local-qwen":
+        return qwen_chat(prompt, 1800, json_mode=True)
+    request = urllib.request.Request(
+        f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
+        data=json.dumps({
+            "contents": [{"parts": [{"text": prompt}]}],
+            "generationConfig": {
+                "temperature": 0, "maxOutputTokens": 1800,
+                "responseMimeType": "application/json",
+                "thinkingConfig": {"thinkingBudget": 0},
+            },
+        }).encode(),
+        method="POST",
+        headers={"Content-Type": "application/json", "x-goog-api-key": api_key},
+    )
+    with urllib.request.urlopen(request, timeout=120) as response:
+        payload = json.loads(response.read())
+    candidates = payload.get("candidates", [])
+    if not candidates:
+        raise RuntimeError("multi-plant selection returned no candidate")
+    return "".join(
+        part.get("text", "") for part in candidates[0].get("content", {}).get("parts", [])
+    ).strip()
+
+
+def qwen_chat(prompt: str, max_tokens: int, json_mode: bool = False) -> str:
+    """Call the local OpenAI-compatible Qwen API without sending evidence off-device."""
+    base_url = os.environ.get("QWEN_API_BASE", DEFAULT_QWEN_BASE_URL).rstrip("/")
+    model = os.environ.get("QWEN_API_MODEL", DEFAULT_QWEN_MODEL)
+    payload: dict[str, Any] = {
+        "model": model,
+        "messages": [{"role": "user", "content": prompt}],
+        "temperature": 0,
+        "max_tokens": max_tokens,
+    }
+    if json_mode:
+        payload["response_format"] = {"type": "json_object"}
+    request = urllib.request.Request(
+        f"{base_url}/chat/completions",
+        data=json.dumps(payload).encode(),
+        method="POST",
+        headers={"Content-Type": "application/json"},
+    )
+    with urllib.request.urlopen(request, timeout=180) as response:
+        body = json.loads(response.read())
+    choices = body.get("choices", [])
+    if not choices:
+        raise RuntimeError("local Qwen returned no choice")
+    content = choices[0].get("message", {}).get("content", "")
+    if not isinstance(content, str) or not content.strip():
+        raise RuntimeError("local Qwen returned empty content")
+    content = content.strip()
+    if json_mode:
+        fenced = re.fullmatch(r"```(?:json)?\s*(.*?)\s*```", content, re.DOTALL | re.IGNORECASE)
+        if fenced:
+            content = fenced.group(1).strip()
+    return content
+
+
+def citation_indices(text: str) -> set[int]:
+    indices: set[int] = set()
+    for marker in re.findall(r"\[E[\d,\sE]+\]", text):
+        indices.update(int(value) for value in re.findall(r"\d+", marker))
+    return indices
+
+
 def citation_gate(text: str, evidence_count: int) -> tuple[bool, list[str]]:
-    cited = {int(index) for index in re.findall(r"\[E(\d+)\]", text)}
+    cited = citation_indices(text)
     invalid = sorted(index for index in cited if index < 1 or index > evidence_count)
-    normalized = re.sub(r"([。！？.!?])\s*(\[E\d+\])", r" \2\1", text)
+    marker = r"\[E[\d,\sE]+\]"
+    normalized = re.sub(rf"([。！？.!?])\s*({marker})", r" \2\1", text)
     policy_only = (
         "不是現代醫療", "不構成醫療", "非醫療建議", "諮詢合格醫療", "咨询合格医疗",
         "not modern medical", "not medical advice", "consult a qualified healthcare",
@@ -237,10 +360,121 @@ def citation_gate(text: str, evidence_count: int) -> tuple[bool, list[str]]:
         # Remove complete factual clauses that end in an evidence marker. This
         # deliberately avoids splitting on periods inside names such as
         # "A. G. Nagle" or abbreviations such as "St. Vincent".
-        residual = re.sub(r".*?\[E\d+\][。！？.!?]?(?:\s+|$)", "", item)
+        residual = re.sub(rf".*?{marker}[。！？.!?]?(?:\s+|$)", "", item)
         if re.search(r"[A-Za-z\u3400-\u9fff]", residual):
             uncited.append(residual)
     return bool(cited) and not invalid and not uncited, uncited
+
+
+def normalized_quote(text: str) -> str:
+    # PDF text layers often split one printed word as ``brauch-\nbar``. Treat
+    # only an intra-letter line-wrap hyphen as layout noise; keep real hyphens.
+    dehyphenated = re.sub(r"(?<=[A-Za-zÀ-ÖØ-öø-ÿ])-\s+(?=[A-Za-zÀ-ÖØ-öø-ÿ])", "", text)
+    return re.sub(r"\s+", " ", dehyphenated).strip()
+
+
+def validate_multi_selection(raw: str, evidence: list[dict[str, Any]],
+                             max_records: int = 6) -> list[dict[str, Any]]:
+    """Fail closed unless every selected quote exists in a cited same-record excerpt."""
+    try:
+        payload = json.loads(raw)
+    except json.JSONDecodeError:
+        return []
+    items = payload.get("items") if isinstance(payload, dict) else None
+    if items is None and isinstance(payload, dict) and isinstance(payload.get("evaluations"), list):
+        evaluations = payload["evaluations"]
+        evaluation_ids = [
+            item.get("evidence_id") for item in evaluations if isinstance(item, dict)
+        ]
+        if evaluation_ids != list(range(1, len(evidence) + 1)):
+            return []
+        items = [
+            {
+                "evidence_ids": [item.get("evidence_id")],
+                "support_quote": item.get("support_quote"),
+            }
+            for item in evaluations
+            if isinstance(item, dict) and item.get("qualifies") is True
+        ]
+    if not isinstance(items, list):
+        return []
+    verified: list[dict[str, Any]] = []
+    seen_records: set[str] = set()
+    for item in items:
+        if not isinstance(item, dict):
+            continue
+        ids = item.get("evidence_ids")
+        quote = item.get("support_quote")
+        if not isinstance(ids, list) or not ids or not isinstance(quote, str):
+            continue
+        if not all(isinstance(index, int) and 1 <= index <= len(evidence) for index in ids):
+            continue
+        cited = [evidence[index - 1] for index in ids]
+        record_ids = {entry["record_id"] for entry in cited}
+        if len(record_ids) != 1:
+            continue
+        record_id = cited[0]["record_id"]
+        if record_id in seen_records:
+            continue
+        normalized = normalized_quote(quote)
+        if len(normalized) < 20 or not any(
+            normalized in normalized_quote(entry["source_text"]) for entry in cited
+        ):
+            continue
+        verified.append({
+            "record_id": record_id,
+            "evidence_ids": list(dict.fromkeys(ids)),
+            "support_quote": normalized,
+        })
+        seen_records.add(record_id)
+        if len(verified) >= max_records:
+            break
+    return verified
+
+
+def evidence_identity(item: dict[str, Any], response_locale: str) -> str:
+    scientific = item.get("scientific_name") or "Scientific name unresolved"
+    display = item.get("display_name")
+    scope = item.get("display_name_source_scope")
+    if not display:
+        return scientific
+    if response_locale == "zh-TW":
+        label = "非臺灣繁中備援名" if scope == "non_taiwan_traditional_fallback" else "臺灣公開名"
+        return f"{display}（{scientific}；{label}）"
+    label = (
+        "non-Taiwan Traditional-Chinese fallback"
+        if scope == "non_taiwan_traditional_fallback" else "Taiwan public name"
+    )
+    return f"{scientific} ({label}: {display})"
+
+
+def format_multi_answer(verified: list[dict[str, Any]], evidence: list[dict[str, Any]],
+                        response_locale: str) -> str:
+    lines: list[str] = []
+    for item in verified:
+        primary = evidence[item["evidence_ids"][0] - 1]
+        citations = "[" + ", ".join(f"E{index}" for index in item["evidence_ids"]) + "]"
+        lines.append(f"- {evidence_identity(primary, response_locale)}：「{item['support_quote']}」{citations}")
+    if response_locale == "zh-TW":
+        return (
+            "以下只列出原文直接支持問題關係的條目；引文保留原書語言：\n"
+            + "\n".join(lines)
+            + "\n以上是歷史文獻記載，不是現代醫療、用量或安全建議。"
+        )
+    return (
+        "Only entries whose quoted text directly supports the requested relationship are listed; "
+        "quotes remain in the book's language:\n" + "\n".join(lines)
+        + "\nThese are historical book statements, not modern medical, dosage, or safety advice."
+    )
+
+
+def evidence_fallback(response_locale: str) -> str:
+    if response_locale == "zh-TW":
+        return "檢索到候選頁面，但沒有條目通過原文直接關係與逐字引文驗證，因此不彙整成答案。"
+    return (
+        "Candidate pages were retrieved, but no entry passed the direct-relationship and exact-quote "
+        "checks, so they are not presented as an answer."
+    )
 
 
 def identity_prefix(response_locale: str, evidence: list[dict[str, Any]], text: str) -> str:
@@ -322,7 +556,8 @@ def answer(question: str, db: Path, env_file: Path, top_k: int, retrieval_only: 
     result: dict[str, Any] = {
         "schema_version": "1.0", "request_id": str(uuid.uuid4()), "question": question,
         "response_locale": response_locale, "answer_status": "", "answer": "", "evidence": [],
-        "external_generation_calls": 0, "external_embedding_calls": 0, "incremental_usd": 0,
+        "external_generation_calls": 0, "external_embedding_calls": 0,
+        "local_generation_calls": 0, "generation_provider": "none", "incremental_usd": 0,
     }
     folded = question.casefold()
     if any(pattern in folded for pattern in OUT_OF_SCOPE_PATTERNS):
@@ -341,18 +576,19 @@ def answer(question: str, db: Path, env_file: Path, top_k: int, retrieval_only: 
             "This is outside the plant entries in the book, so I cannot answer it."
         )
         return result
-    if any(pattern in folded for pattern in MEDICAL_PATTERNS):
-        result["answer_status"] = "refused_personal_medical_advice"
-        result["answer"] = (
-            "這個系統只整理書中歷史記載，不能提供個人治療、用量或安全建議。"
-            if response_locale == "zh-TW" else
-            "This system only summarizes historical book content and cannot provide personal treatment, dosage, or safety advice."
-        )
-        return result
     api_key = load_env_value(env_file, "GEMINI_API_KEY")
     if not api_key:
         raise RuntimeError("GEMINI_API_KEY is not loaded")
-    hits = retrieve(db, question, api_key, top_k)
+    broad = is_multi_plant_question(question)
+    generation_provider = os.environ.get("PLANT_CHAT_GENERATION_PROVIDER", "gemini").strip().lower()
+    if generation_provider not in {"gemini", "qwen"}:
+        raise RuntimeError("unsupported generation provider")
+    generation_model = "local-qwen" if generation_provider == "qwen" else "gemini-2.5-flash-lite"
+    result["generation_provider"] = generation_provider
+    retrieval_limit = max(top_k * 3, 18) if broad else top_k
+    hits = retrieve(db, question, api_key, retrieval_limit)
+    if broad:
+        hits = diversify_by_record(hits, limit=12, per_record=2)
     result["external_embedding_calls"] = 1
     result["evidence"] = [{
         key: item[key] for key in (
@@ -371,8 +607,21 @@ def answer(question: str, db: Path, env_file: Path, top_k: int, retrieval_only: 
     if retrieval_only:
         result["answer_status"] = "retrieval_only"
         return result
-    text = generate(api_key, question, response_locale, hits, "gemini-2.5-flash-lite")
-    result["external_generation_calls"] = 1
+    if broad:
+        raw_selection = generate_multi_selection(api_key, question, hits, generation_model)
+        result["local_generation_calls" if generation_provider == "qwen" else "external_generation_calls"] = 1
+        verified = validate_multi_selection(raw_selection, hits)
+        result["answer_mode"] = "verified_multi_plant"
+        result["verified_items"] = verified
+        if verified:
+            result["answer_status"] = "answerable_from_book"
+            result["answer"] = format_multi_answer(verified, hits, response_locale)
+        else:
+            result["answer_status"] = "evidence_fallback"
+            result["answer"] = evidence_fallback(response_locale)
+        return result
+    text = generate(api_key, question, response_locale, hits, generation_model)
+    result["local_generation_calls" if generation_provider == "qwen" else "external_generation_calls"] = 1
     if text == "INSUFFICIENT_BOOK_EVIDENCE":
         result["answer_status"] = "not_in_book_or_insufficient"
         result["answer"] = (

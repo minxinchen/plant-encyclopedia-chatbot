@@ -31,11 +31,9 @@ def main() -> None:
 
     nonexistent = LAB / "data/index/staging/not-created-during-policy-test.sqlite"
     cases = [
-        ("personal-medical-zh", "我便秘可以吃什麼植物？", "refused_personal_medical_advice", "zh-TW"),
         ("non-kohler-zh", "阿斯匹靈是什麼藥？", "refused_non_kohler_drug", "zh-TW"),
         ("non-kohler-en", "What is metformin?", "refused_non_kohler_drug", "en"),
         ("astrology", "天秤座適合什麼植物？", "refused_outside_book_scope", "zh-TW"),
-        ("simplified-input", "我便秘可以吃什么植物？", "refused_personal_medical_advice", "zh-TW"),
     ]
     for case_id, question, status, response_locale in cases:
         response = chat.answer(question, nonexistent, nonexistent, 4, False)
@@ -44,6 +42,9 @@ def main() -> None:
         expect(f"{case_id}:embedding_calls", response["external_embedding_calls"], 0)
         expect(f"{case_id}:generation_calls", response["external_generation_calls"], 0)
         expect(f"{case_id}:evidence", response["evidence"], [])
+
+    expect("medical-question-is-multi-zh", chat.is_multi_plant_question("我便秘可以吃什麼植物？"), True)
+    expect("medical-question-is-multi-simplified", chat.is_multi_plant_question("我便秘可以吃什么植物？"), True)
 
     forced_english = chat.answer("阿斯匹靈是什麼藥？", nonexistent, nonexistent, 4, False, "en")
     expect("forced-english:locale", forced_english["response_locale"], "en")
@@ -54,6 +55,7 @@ def main() -> None:
 
     citation_cases = [
         ("valid-zh", "書中記載。[E1]", 1, True),
+        ("valid-multi-marker", "書中並列記載。[E1, E2, E3]", 3, True),
         ("valid-author-abbreviation", "盾葉鬼臼（Podophyllum peltatum L.）見於書中 [E1]。", 1, True),
         ("uncited-second-sentence", "第一句。[E1] 第二句。", 1, False),
         ("invalid-evidence-index", "錯誤引用。[E9]", 2, False),
@@ -61,6 +63,72 @@ def main() -> None:
     ]
     for case_id, text, evidence_count, expected in citation_cases:
         expect(f"citation:{case_id}", chat.citation_gate(text, evidence_count)[0], expected)
+
+    multi_evidence = [
+        {
+            "record_id": "podophyllum", "scientific_name": "Podophyllum peltatum L.",
+            "display_name": "盾葉鬼臼", "display_name_source_scope": "taiwan_taxonomic_public",
+            "source_text": "It was formerly used in habitual constipation and related conditions.",
+        },
+        {
+            "record_id": "podophyllum", "scientific_name": "Podophyllum peltatum L.",
+            "display_name": "盾葉鬼臼", "display_name_source_scope": "taiwan_taxonomic_public",
+            "source_text": "A second paragraph from the same botanical record.",
+        },
+        {
+            "record_id": "carica", "scientific_name": "Carica papaya L.",
+            "display_name": "番木瓜", "display_name_source_scope": "taiwan_taxonomic_public",
+            "source_text": "This paragraph lists preparations but states no constipation relationship.",
+        },
+    ]
+    valid_selection = json.dumps({
+        "items": [{
+            "evidence_ids": [1],
+            "support_quote": "formerly used in habitual constipation and related conditions.",
+        }]
+    })
+    expect("multi-selection:valid-count", len(chat.validate_multi_selection(
+        valid_selection, multi_evidence
+    )), 1)
+    hyphenated_evidence = [dict(
+        multi_evidence[0], source_text="Podophyllin ist bei habitueller Verstopfung brauch-\nbar."
+    )]
+    hyphenated_selection = json.dumps({
+        "items": [{
+            "evidence_ids": [1],
+            "support_quote": "Podophyllin ist bei habitueller Verstopfung brauchbar.",
+        }]
+    })
+    expect("multi-selection:pdf-linewrap-hyphen", len(chat.validate_multi_selection(
+        hyphenated_selection, hyphenated_evidence
+    )), 1)
+    fabricated_selection = json.dumps({
+        "items": [{"evidence_ids": [1], "support_quote": "This fabricated cure is not in the source."}]
+    })
+    expect("multi-selection:fabricated-quote", chat.validate_multi_selection(
+        fabricated_selection, multi_evidence
+    ), [])
+    cross_record_selection = json.dumps({
+        "items": [{
+            "evidence_ids": [1, 3],
+            "support_quote": "formerly used in habitual constipation and related conditions.",
+        }]
+    })
+    expect("multi-selection:cross-record", chat.validate_multi_selection(
+        cross_record_selection, multi_evidence
+    ), [])
+    invalid_index_selection = json.dumps({
+        "items": [{"evidence_ids": [9], "support_quote": "formerly used in habitual constipation."}]
+    })
+    expect("multi-selection:invalid-index", chat.validate_multi_selection(
+        invalid_index_selection, multi_evidence
+    ), [])
+    expect("multi-question:zh", chat.is_multi_plant_question(
+        "便秘時，本書記載哪些植物或製劑？"
+    ), True)
+    expect("multi-question:single", chat.is_multi_plant_question(
+        "盾葉鬼臼與便秘的關係？"
+    ), False)
 
     evidence = [
         {"display_name": "盾葉鬼臼", "scientific_name": "Podophyllum peltatum L."},
@@ -94,7 +162,7 @@ def main() -> None:
     expect("chinese-name-fts", '"盾葉鬼臼"' in chinese_fts, True)
     english_fts = chat.lexical_query("What does the book say about Podophyllum peltatum?")
     expect("english-name-fts", '"Podophyllum"' in english_fts and '"peltatum"' in english_fts, True)
-    result = {"status": "PASS" if not errors else "FAIL", "cases": 23, "errors": errors}
+    result = {"status": "PASS" if not errors else "FAIL", "cases": 31, "errors": errors}
     print(json.dumps(result, ensure_ascii=False))
     if errors:
         raise SystemExit(1)

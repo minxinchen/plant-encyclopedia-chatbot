@@ -3,8 +3,7 @@
 author: Nio (Master)
 date: 2026-08-02
 
-> Status: full-book text staging, embedding, main-index promotion and release validation complete. This repository is not
-> a medical-advice system and must not be used to recommend dosage or treatment.
+> Status: full-book text staging, embedding, main-index promotion, password-gated Apps Script beta backed by the local Qwen API, and release validation complete. Medical-topic questions may retrieve historical book evidence, but the system does not add modern diagnosis, dosage, efficacy or safety claims.
 
 ## 專案簡介
 
@@ -19,6 +18,8 @@ embedding 驗收、聊天政策與 deterministic validators。原始 PDF、API k
 
 公開文字 MVP：<https://minxinchen.github.io/kohler-plant-chat-demo/>  
 既有 demo repo：<https://github.com/minxinchen/kohler-plant-chat-demo>
+密碼保護的全書本機 Qwen beta：<https://script.google.com/macros/s/AKfycbyXlLIc2tzTqhXMRGxRoNVPLkrgrCm3MosSBT9SBo_8OPmgqdTLBD91Qxley9fgEnYIhg/exec>
+Apps Script 原始碼與部署說明：[`apps-script/public-chat/`](apps-script/public-chat/)
 完整 pipeline repo：<https://github.com/minxinchen/plant-encyclopedia-chatbot>
 
 ## 目前可驗證進度（2026-08-21）
@@ -38,8 +39,9 @@ embedding 驗收、聊天政策與 deterministic validators。原始 PDF、API k
 | Gemini embedding | 完成 | 1,608/1,608；34 個批次呼叫，Free Tier、增量成本 US$0 |
 | Google Gem knowledge pack | 完成 | 9 個可上傳檔、282 records、1,640 sections，0 vectors/keys |
 | 全書 main index promotion | 完成 | 1,662 chunks（54 approved + 1,608 machine-extracted beta），SQLite integrity PASS |
-| 中英文聊天 acceptance | 完成 | 9/9 cases；書證引用、臺灣名標示、書外與醫療拒答皆 PASS |
+| 中英文聊天 acceptance | 完成 | 書證引用、臺灣名標示、書外拒答與醫療題歷史書證模式皆有 gate |
 | release validation／本機 API smoke | 完成 | release PASS；`127.0.0.1:18765` full-book smoke PASS |
+| 公開聊天／本機 Qwen | beta.5 | Apps Script 密碼層 → Bearer gateway → 本機 hybrid RAG + Qwen；Qwen 關閉時明確顯示離線 |
 
 上表不是「全書準確率」。它表示來源、名稱與內容鏈、adversarial tests、embedding、
 中英文 chat acceptance 與原子升級均已通過既定 gate。新增內容仍必須走同一套驗證，
@@ -76,6 +78,19 @@ python3 scripts/validate-preembedding-embedding-jobs.py
 /Users/user/AI_WORKSTATION/service plant-chat on
 python3 scripts/smoke-fullbook-chat-api.py --require-fullbook
 ```
+
+AI_WORKSTATION 可用 Dashboard 的 Services 區塊啟動／停止 Qwen，或使用：
+
+```bash
+/Users/user/AI_WORKSTATION/service qwen on 35b-a3b
+/Users/user/AI_WORKSTATION/service plant-chat on
+/Users/user/AI_WORKSTATION/service plant-gateway on
+```
+
+`plant-gateway` 僅公開 Bearer-protected `/health` 與 `/v1/chat`，不公開原始
+Qwen API。免費 Cloudflare Quick Tunnel 適合 beta 測試，但重啟後 URL 可能變更；
+此時需同步更新 Apps Script 的 `LOCAL_QWEN_GATEWAY_URL`。正式長駐應改用具固定
+hostname 的 named tunnel。
 
 重新產生長條目 boundary evidence（首次約下載 52 MB 的同版 Internet Archive
 DjVu XML，之後可離線重跑）：

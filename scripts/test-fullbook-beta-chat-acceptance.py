@@ -49,7 +49,7 @@ def load_chat_module():
 
 
 def compact(response: dict[str, Any]) -> dict[str, Any]:
-    return {
+    compacted = {
         "answer_status": response["answer_status"],
         "response_locale": response["response_locale"],
         "answer": response["answer"],
@@ -58,6 +58,10 @@ def compact(response: dict[str, Any]) -> dict[str, Any]:
         "external_generation_calls": response["external_generation_calls"],
         "incremental_usd": response["incremental_usd"],
     }
+    for key in ("answer_mode", "verified_items"):
+        if key in response:
+            compacted[key] = response[key]
+    return compacted
 
 
 def main() -> None:
@@ -188,8 +192,23 @@ def main() -> None:
         and fallback_name["external_generation_calls"] == 1,
     })
 
+    broad = chat.answer(
+        "便秘的時候，這本書記載哪些植物或製劑？",
+        args.database, chat.DEFAULT_ENV, 6, False,
+    )
+    record("verified_multi_plant_constipation", broad, {
+        "answerable": broad["answer_status"] == "answerable_from_book",
+        "verified_mode": broad.get("answer_mode") == "verified_multi_plant",
+        "verified_items": len(broad.get("verified_items", [])) >= 2,
+        "podophyllum": "Podophyllum peltatum" in broad["answer"],
+        "no_irrelevant_strychnos": "Strychnos" not in broad["answer"] and "馬錢" not in broad["answer"],
+        "no_irrelevant_carica": "Carica" not in broad["answer"] and "番木瓜" not in broad["answer"],
+        "exact_citations": bool(chat.citation_indices(broad["answer"])),
+        "bounded_calls": broad["external_embedding_calls"] == 1
+        and broad["external_generation_calls"] == 1,
+    })
+
     refusal_cases = [
-        ("personal_medical_refusal", "我便秘可以吃什麼植物？", "refused_personal_medical_advice"),
         ("non_kohler_drug_refusal", "阿斯匹靈是什麼藥？", "refused_non_kohler_drug"),
         ("astrology_refusal", "天秤座適合什麼植物？", "refused_outside_book_scope"),
     ]
@@ -204,9 +223,9 @@ def main() -> None:
 
     total_embedding = sum(item["response"]["external_embedding_calls"] for item in results)
     total_generation = sum(item["response"]["external_generation_calls"] for item in results)
-    if total_embedding != 6:
+    if total_embedding != 7:
         failures.append(f"external_embedding_call_budget:{total_embedding}")
-    if total_generation != 4:
+    if total_generation != 5:
         failures.append(f"external_generation_call_budget:{total_generation}")
     report = {
         "schema_version": "1.0", "tested_at": now(),

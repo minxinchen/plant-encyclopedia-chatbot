@@ -74,9 +74,11 @@
           "response_locale": {"type": "string", "enum": ["zh-TW", "en"]},
           "answer_status": {
             "type": "string",
-            "enum": ["answerable_from_book", "retrieval_only", "not_in_book_or_insufficient", "refused_outside_book_scope", "refused_non_kohler_drug", "refused_personal_medical_advice", "generation_failed_entity_pair_gate", "generation_failed_display_name_gate", "generation_failed_citation_gate", "image_reasoning_not_yet_available"]
+            "enum": ["answerable_from_book", "evidence_fallback", "retrieval_only", "not_in_book_or_insufficient", "refused_outside_book_scope", "refused_non_kohler_drug", "generation_failed_entity_pair_gate", "generation_failed_display_name_gate", "generation_failed_citation_gate", "image_reasoning_not_yet_available"]
           },
           "answer": {"type": "string"},
+          "answer_mode": {"type": "string", "enum": ["verified_multi_plant"]},
+          "verified_items": {"type": "array", "items": {"type": "object", "required": ["record_id", "evidence_ids", "support_quote"], "properties": {"record_id": {"type": "string"}, "evidence_ids": {"type": "array", "items": {"type": "integer", "minimum": 1}}, "support_quote": {"type": "string"}}}},
           "evidence": {"type": "array", "items": {"allOf": [{"$ref": "#/components/schemas/Citation"}]}},
           "display_names": {"type": "array", "items": {"type": "object", "required": ["record_id", "display_name", "scientific_name", "source_scope", "is_taiwan_public"]}},
           "external_embedding_calls": {"type": "integer", "minimum": 0, "maximum": 1},
